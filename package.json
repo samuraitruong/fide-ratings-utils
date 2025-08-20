@@ -23,7 +23,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "node-fetch": "^3.3.2",
-    "adm-zip": "^0.5.9"
+    "adm-zip": "^0.5.9",
+    "handlebars": "^4.7.8",
+    "node-fetch": "^3.3.2"
   }
 }

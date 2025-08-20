@@ -149,53 +149,19 @@ export async function processFideRatings(url, ratingType) {
 }
 
 // Generate index.html after all rating types processed
-function generateIndexHtml() {
+async function generateIndexHtml() {
     const summary = global.fedSummary || {};
     const ratingTypes = ['standard', 'rapid', 'blitz'];
-        let html = `<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>FIDE Ratings Index</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-</head>
-<body class="bg-light">
-<div class="container py-4">
-    <h1 class="mb-4">FIDE Ratings by Federation</h1>
-    <div class="table-responsive">
-        <table class="table table-bordered table-striped align-middle">
-            <thead class="table-dark">
-                <tr><th>FED</th>`;
-        for (const rt of ratingTypes) html += `<th>${rt}</th>`;
-        html += `</tr></thead><tbody>`;
-        for (const fed of Object.keys(summary).sort()) {
-                html += `<tr><td><strong>${fed}</strong></td>`;
-                for (const rt of ratingTypes) {
-                        const info = summary[fed][rt];
-                        if (info) {
-                                html += `<td>
-                                    <div><span class="badge bg-primary">Count: ${info.count}</span></div>
-                                    <div class="mt-2">
-                                        <a class="btn btn-sm btn-outline-secondary" href="${info.txt}">TXT</a>
-                                        <a class="btn btn-sm btn-outline-secondary" href="${info.txtzip}">TXT.zip</a>
-                                        <a class="btn btn-sm btn-outline-success" href="${info.csv}">CSV</a>
-                                        <a class="btn btn-sm btn-outline-success" href="${info.csvzip}">CSV.zip</a>
-                                        <a class="btn btn-sm btn-outline-info" href="${info.json}">JSON</a>
-                                        <a class="btn btn-sm btn-outline-info" href="${info.jsonzip}">JSON.zip</a>
-                                    </div>
-                                </td>`;
-                        } else {
-                                html += `<td>-</td>`;
-                        }
-                }
-                html += `</tr>`;
-        }
-        html += `</tbody></table>
-    </div>
-</div>
-</body>
-</html>`;
-        fs.writeFileSync(path.join('data', 'index.html'), html);
+    const templateSrc = fs.readFileSync(path.join(path.dirname(import.meta.url.replace('file://', '')), 'index.template.html'), 'utf8');
+    const Handlebars = (await import('handlebars')).default;
+    const template = Handlebars.compile(templateSrc);
+    // Prepare federations data for template
+    const federations = Object.keys(summary).sort().map(fed => ({
+        fed,
+        ratings: ratingTypes.map(rt => ({ info: summary[fed][rt] || null }))
+    }));
+    const html = template({ ratingTypes, federations });
+    fs.writeFileSync(path.join('data', 'index.html'), html);
 }
 
 
@@ -210,7 +176,7 @@ const ratingSources = [
     for (const { url, type } of ratingSources) {
         await processFideRatings(url, type);
     }
-    generateIndexHtml();
+    await generateIndexHtml();
 })()
 
 // Run main if this is the entry point
