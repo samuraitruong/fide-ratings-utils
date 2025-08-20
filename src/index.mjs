@@ -4,6 +4,14 @@ import AdmZip from 'adm-zip';
 import fs from 'fs';
 import path from 'path';
 
+function formatBytes(bytes) {
+    const units = ['B', 'KB', 'MB', 'GB', 'TB'];
+    if (bytes === 0) return '0 B';
+    const i = Math.floor(Math.log(bytes) / Math.log(1024));
+    const value = bytes / Math.pow(1024, i);
+    return `${value.toFixed(value >= 10 || i === 0 ? 0 : 1)} ${units[i]}`;
+}
+
 /**
  * Download, extract, split by federation, and save files for FIDE ratings.
  * @param {string} url - The URL to download the ZIP file from.
@@ -11,6 +19,8 @@ import path from 'path';
  * @returns {Promise<void>}
  */
 export async function processFideRatings(url, ratingType) {
+    const startedAt = Date.now();
+    console.log(`[${ratingType}] Starting download and processing…`);
     // Download ZIP
     const res = await fetch(url);
     if (!res.ok) throw new Error(`Failed to download: ${res.status}`);
@@ -40,9 +50,13 @@ export async function processFideRatings(url, ratingType) {
         if (!fedMap[fed]) fedMap[fed] = [];
         fedMap[fed].push(line);
     }
+    const fedTotal = Object.keys(fedMap).length;
+    console.log(`[${ratingType}] Parsed ${dataLines.length} rows across ${fedTotal} federations.`);
 
     // Collect summary for index.html
     if (!global.fedSummary) global.fedSummary = {};
+    let processedFed = 0;
+    let processedRows = 0;
     for (const [fed, fedLines] of Object.entries(fedMap)) {
         const dir = path.join('data', fed, ratingType);
         fs.mkdirSync(dir, { recursive: true });
@@ -53,13 +67,24 @@ export async function processFideRatings(url, ratingType) {
         const csvPath = path.join(dir, `${ratingType}.csv`);
         const csvZipPath = path.join(dir, `${ratingType}.csv.zip`);
 
+        // Predeclare size holders for summary
+        let txtSize = '0 B';
+        let txtZipSize = '0 B';
+        let jsonSize = '0 B';
+        let jsonZipSize = '0 B';
+        let csvSize = '0 B';
+        let csvZipSize = '0 B';
+        let parquetSize = '0 B';
+
         // Write TXT
         fs.writeFileSync(txtPath, [header, ...fedLines].join('\n'));
+        txtSize = formatBytes(fs.statSync(txtPath).size);
 
         // Write TXT ZIP
         const txtZip = new AdmZip();
         txtZip.addFile(`${ratingType}.txt`, Buffer.from([header, ...fedLines].join('\n'), 'utf8'));
         txtZip.writeZip(txtZipPath);
+        txtZipSize = formatBytes(fs.statSync(txtZipPath).size);
 
         // Improved: Parse header into columns and use fixed-width slicing for each line
         const colRegex = /(\S[\S ]*?)(?=\s{2,}|$)/g;
@@ -106,14 +131,17 @@ export async function processFideRatings(url, ratingType) {
             }
             return obj;
         });
+        processedRows += jsonData.length;
 
         // Write JSON
         fs.writeFileSync(jsonPath, JSON.stringify(jsonData, null, 2));
+        jsonSize = formatBytes(fs.statSync(jsonPath).size);
 
         // Write JSON ZIP
         const jsonZip = new AdmZip();
         jsonZip.addFile(`${ratingType}.json`, Buffer.from(JSON.stringify(jsonData, null, 2), 'utf8'));
         jsonZip.writeZip(jsonZipPath);
+        jsonZipSize = formatBytes(fs.statSync(jsonZipPath).size);
 
         // Write CSV
         if (jsonData.length > 0) {
@@ -126,11 +154,13 @@ export async function processFideRatings(url, ratingType) {
                 return val;
             }).join(','))];
             fs.writeFileSync(csvPath, csvRows.join('\n'));
+            csvSize = formatBytes(fs.statSync(csvPath).size);
 
             // Write CSV ZIP
             const csvZip = new AdmZip();
             csvZip.addFile(`${ratingType}.csv`, Buffer.from(csvRows.join('\n'), 'utf8'));
             csvZip.writeZip(csvZipPath);
+            csvZipSize = formatBytes(fs.statSync(csvZipPath).size);
 
             // Write Parquet (all fields as UTF8 strings)
             try {
@@ -153,6 +183,7 @@ export async function processFideRatings(url, ratingType) {
                     await writer.appendRow(strRow);
                 }
                 await writer.close();
+                parquetSize = formatBytes(fs.statSync(parquetPath).size);
             } catch (err) {
                 console.error('Failed to write Parquet:', err);
             }
@@ -163,14 +194,27 @@ export async function processFideRatings(url, ratingType) {
         global.fedSummary[fed][ratingType] = {
             count: jsonData.length,
             txt: `${fed}/${ratingType}/${ratingType}.txt`,
+            txtSize: txtSize,
             txtzip: `${fed}/${ratingType}/${ratingType}.txt.zip`,
+            txtzipSize: txtZipSize,
             csv: `${fed}/${ratingType}/${ratingType}.csv`,
+            csvSize: csvSize,
             csvzip: `${fed}/${ratingType}/${ratingType}.csv.zip`,
+            csvzipSize: csvZipSize,
             json: `${fed}/${ratingType}/${ratingType}.json`,
+            jsonSize: jsonSize,
             jsonzip: `${fed}/${ratingType}/${ratingType}.json.zip`,
-            parquet: `${fed}/${ratingType}/${ratingType}.parquet`
+            jsonzipSize: jsonZipSize,
+            parquet: `${fed}/${ratingType}/${ratingType}.parquet`,
+            parquetSize: parquetSize
         };
+        processedFed++;
+        if (processedFed % 50 === 0) {
+            console.log(`[${ratingType}] ${processedFed}/${fedTotal} federations processed…`);
+        }
     }
+    const elapsedSec = ((Date.now() - startedAt) / 1000).toFixed(1);
+    console.log(`[${ratingType}] Completed: ${processedFed} federations, ${processedRows} rows in ${elapsedSec}s.`);
     // ...existing code up to generateIndexHtml...
 }
 
@@ -188,6 +232,7 @@ async function generateIndexHtml() {
     }));
     const html = template({ ratingTypes, federations });
     fs.writeFileSync(path.join('data', 'index.html'), html);
+    console.log(`[index] Generated data/index.html for ${federations.length} federations.`);
 }
 
 
@@ -199,10 +244,14 @@ const ratingSources = [
 ];
 
 (async function main() {
+    const overallStart = Date.now();
+    console.log('[all] Starting FIDE ratings update…');
     for (const { url, type } of ratingSources) {
         await processFideRatings(url, type);
     }
     await generateIndexHtml();
+    const overallSec = ((Date.now() - overallStart) / 1000).toFixed(1);
+    console.log(`[all] Done in ${overallSec}s.`);
 })()
 
 // Run main if this is the entry point
