@@ -1,4 +1,4 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-22900152,"Engonga Avomo, Pedro Manuel Envo",GEQ,M,,,,1741,AUG25,0,20,1991,i
-54585775,"Mompel Ferruz, Xavier",GEQ,M,FM,,,2181,AUG25,0,40,2010,
-22900063,"Varela Escudero, Felipe",GEQ,M,,"NI,SI",,1644,AUG25,0,20,1980,
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+22900152,"Engonga Avomo, Pedro Manuel Envo",GEQ,M,,,,1741,0,20,AUG25,1991,i
+54585775,"Mompel Ferruz, Xavier",GEQ,M,FM,,,2181,0,40,AUG25,2010,
+22900063,"Varela Escudero, Felipe",GEQ,M,,"NI,SI",,1644,0,20,AUG25,1980,

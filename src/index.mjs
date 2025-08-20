@@ -114,13 +114,15 @@ export async function processFideRatings(url, ratingType) {
                     let [wtit, otit] = value.split(/\s+/);
                     obj['WTit'] = wtit || '';
                     obj['OTit'] = otit || '';
-                } else if (columns[i].startsWith('FOA AUG')) {
-                    const headerParts = columns[i].split(/\s+/);
-                    let [foa, gms, k] = value.split(/\s+/);
-                    obj['FOA'] = foa || '';
-                    obj['Rating'] = headerParts[1] || '';
+                } else if (/^FOA\s+\w{3}\d{2}\s+Gms\s+K$/i.test(columns[i]) || (columns[i].startsWith('FOA ') && columns[i].includes('Gms') && columns[i].includes('K'))) {
+                    const headerText = columns[i];
+                    const monthMatch = headerText.match(/^FOA\s+([A-Z]{3}\d{2})\s+Gms\s+K$/i);
+                    const ratingMonth = monthMatch ? monthMatch[1].toUpperCase() : '';
+                    const [ratingVal, gms, k] = (value || '').trim().split(/\s+/);
+                    obj['Rating'] = ratingVal || '';
                     obj['Gms'] = gms || '';
                     obj['K'] = k || '';
+                    if (ratingMonth) obj['RatingMonth'] = ratingMonth;
                 } else if (columns[i] === 'B-day Flag') {
                     let [bday, ...flag] = value.split(/\s+/);
                     obj['B-day'] = bday || '';

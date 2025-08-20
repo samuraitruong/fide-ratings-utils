@@ -1,4 +1,4 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-93800053,"Auguiste, Lyndon",DMA,M,,,,1864,AUG25,0,20,1994,
-93800010,"Francis, Nigel",DMA,M,CM,NA,,1798,AUG25,0,20,1992,i
-93800398,"Kovalenko, Andrey",DMA,M,,,,AFM,AUG25,1845,0,1965,
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+93800053,"Auguiste, Lyndon",DMA,M,,,,1864,0,20,AUG25,1994,
+93800010,"Francis, Nigel",DMA,M,CM,NA,,1798,0,20,AUG25,1992,i
+93800398,"Kovalenko, Andrey",DMA,M,,,,AFM,1845,0,AUG25,1965,

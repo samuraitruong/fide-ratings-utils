@@ -1,6 +1,6 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-23200154,Javon D James,GRN,M,,,,1531,AUG25,0,40,2005,
-23800348,"Mendez, Vladimir",GRN,M,,SI,,1651,AUG25,0,40,1972,
-23200111,"Pope, Omario",GRN,M,,,,1411,AUG25,0,40,2007,i
-23200103,Renniel Gilbert,GRN,M,,,,1811,AUG25,0,40,2006,
-23800330,"Roberts, Gennard",GRN,M,,SI,,1605,AUG25,0,40,1987,
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+23200154,Javon D James,GRN,M,,,,1531,0,40,AUG25,2005,
+23800348,"Mendez, Vladimir",GRN,M,,SI,,1651,0,40,AUG25,1972,
+23200111,"Pope, Omario",GRN,M,,,,1411,0,40,AUG25,2007,i
+23200103,Renniel Gilbert,GRN,M,,,,1811,0,40,AUG25,2006,
+23800330,"Roberts, Gennard",GRN,M,,SI,,1605,0,40,AUG25,1987,

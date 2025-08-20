@@ -1,7 +1,7 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-78300010,"Awe, Alfred",BIZ,M,,,,1719,AUG25,0,40,1995,
-78300088,"Campos, Michael",BIZ,M,,,,1806,AUG25,0,40,1997,i
-78300037,"Mendez Jr, Luis",BIZ,M,,,,AFM,AUG25,1755,0,1990,
-78300118,"Perez, Kenet Alejandro",BIZ,M,,,,1671,AUG25,0,40,1990,
-78300126,"Reyes, Nathaniel Leonel",BIZ,M,,,,1764,AUG25,0,40,2005,
-78300100,"Roches, Charlton Crispin",BIZ,M,,,,1686,AUG25,0,40,1977,
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+78300010,"Awe, Alfred",BIZ,M,,,,1719,0,40,AUG25,1995,
+78300088,"Campos, Michael",BIZ,M,,,,1806,0,40,AUG25,1997,i
+78300037,"Mendez Jr, Luis",BIZ,M,,,,AFM,1755,0,AUG25,1990,
+78300118,"Perez, Kenet Alejandro",BIZ,M,,,,1671,0,40,AUG25,1990,
+78300126,"Reyes, Nathaniel Leonel",BIZ,M,,,,1764,0,40,AUG25,2005,
+78300100,"Roches, Charlton Crispin",BIZ,M,,,,1686,0,40,AUG25,1977,

@@ -1,8 +1,8 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-2700085,"Christopher, Art",IVB,M,,,,1750,AUG25,0,20,1975,
-2700190,"Hinds, Jordan",IVB,M,,,,1555,AUG25,0,40,2007,
-2700026,"Jarecki, John",IVB,M,,,,2220,AUG25,0,20,1969,i
-2700140,"Joseph, Shamoy",IVB,M,,,,1578,AUG25,0,40,2008,
-2700093,"Lettsome, Maurice",IVB,M,,,,1834,AUG25,0,20,1962,i
-2700115,"Potter, Simon",IVB,M,,,,1576,AUG25,0,40,1957,
-2700069,"Samuel, Jhon",IVB,M,,SI,,1549,AUG25,0,40,1984,
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+2700085,"Christopher, Art",IVB,M,,,,1750,0,20,AUG25,1975,
+2700190,"Hinds, Jordan",IVB,M,,,,1555,0,40,AUG25,2007,
+2700026,"Jarecki, John",IVB,M,,,,2220,0,20,AUG25,1969,i
+2700140,"Joseph, Shamoy",IVB,M,,,,1578,0,40,AUG25,2008,
+2700093,"Lettsome, Maurice",IVB,M,,,,1834,0,20,AUG25,1962,i
+2700115,"Potter, Simon",IVB,M,,,,1576,0,40,AUG25,1957,
+2700069,"Samuel, Jhon",IVB,M,,SI,,1549,0,40,AUG25,1984,

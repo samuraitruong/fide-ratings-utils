@@ -1,5 +1,5 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-32500033,Ahmed Hassan Abdillahi,DJI,M,,,,1756,AUG25,0,20,1981,i
-32503970,"Hamza, Osman Ilmi",DJI,M,,,,1717,AUG25,0,20,2002,i
-32501048,"Ismael, Mohamed Goumaneh",DJI,M,,,,1742,AUG25,0,20,1983,i
-32502885,Zakaria Ali Absieh,DJI,M,,,,1698,AUG25,6,20,1994,
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+32500033,Ahmed Hassan Abdillahi,DJI,M,,,,1756,0,20,AUG25,1981,i
+32503970,"Hamza, Osman Ilmi",DJI,M,,,,1717,0,20,AUG25,2002,i
+32501048,"Ismael, Mohamed Goumaneh",DJI,M,,,,1742,0,20,AUG25,1983,i
+32502885,Zakaria Ali Absieh,DJI,M,,,,1698,6,20,AUG25,1994,

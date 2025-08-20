@@ -1,16 +1,16 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-17401470,"BIHAN-POUDEC, Jean Francois",GAB,M,,,,1680,AUG25,0,40,1985,
-10609431,"Bongo Akanga Ndjila, Barthelemy",GAB,M,CM,,,1847,AUG25,0,20,1971,
-17400236,"Bongo Ngombele, Tary",GAB,M,,,,1775,AUG25,0,20,2005,i
-645010,"Koumba, Mounguen Jose Evrard",GAB,M,,,,1947,AUG25,0,20,1979,
-17400970,"MBOULA MBOUMBA, Jerome",GAB,M,,,,1812,AUG25,0,40,1984,
-10609440,"Moulain Ayombo, Jean Pierre",GAB,M,FM,,,2142,AUG25,0,40,1967,i
-17400279,"NGONDJET FOSSO, Judes Yann",GAB,M,,,,1546,AUG25,0,40,1980,
-17400740,"Nguema Edzang, Charles Russel",GAB,M,,,,1722,AUG25,0,40,1978,
-17400872,"Ntsaou Moubikou, Josue Cyriaque",GAB,M,,,,1558,AUG25,0,40,2008,
-17400554,"Odounga Christ, Ceylan",GAB,M,,,,1632,AUG25,0,40,2002,i
-17400937,"OTALY, Joannick",GAB,M,,,,1656,AUG25,0,40,1984,
-17401461,"OYOUGOU, Junior Damas",GAB,M,,,,1854,AUG25,0,40,1994,
-17400880,"Pissama Ntsaou, Diva Sara",GAB,F,,,,1469,AUG25,0,40,2011,wi
-17400864,"Pissama Ntsaou, Martial",GAB,M,,SI,,1652,AUG25,0,40,1987,i
-17400899,"TATY, Charles",GAB,M,,,,1708,AUG25,0,40,1985,
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+17401470,"BIHAN-POUDEC, Jean Francois",GAB,M,,,,1680,0,40,AUG25,1985,
+10609431,"Bongo Akanga Ndjila, Barthelemy",GAB,M,CM,,,1847,0,20,AUG25,1971,
+17400236,"Bongo Ngombele, Tary",GAB,M,,,,1775,0,20,AUG25,2005,i
+645010,"Koumba, Mounguen Jose Evrard",GAB,M,,,,1947,0,20,AUG25,1979,
+17400970,"MBOULA MBOUMBA, Jerome",GAB,M,,,,1812,0,40,AUG25,1984,
+10609440,"Moulain Ayombo, Jean Pierre",GAB,M,FM,,,2142,0,40,AUG25,1967,i
+17400279,"NGONDJET FOSSO, Judes Yann",GAB,M,,,,1546,0,40,AUG25,1980,
+17400740,"Nguema Edzang, Charles Russel",GAB,M,,,,1722,0,40,AUG25,1978,
+17400872,"Ntsaou Moubikou, Josue Cyriaque",GAB,M,,,,1558,0,40,AUG25,2008,
+17400554,"Odounga Christ, Ceylan",GAB,M,,,,1632,0,40,AUG25,2002,i
+17400937,"OTALY, Joannick",GAB,M,,,,1656,0,40,AUG25,1984,
+17401461,"OYOUGOU, Junior Damas",GAB,M,,,,1854,0,40,AUG25,1994,
+17400880,"Pissama Ntsaou, Diva Sara",GAB,F,,,,1469,0,40,AUG25,2011,wi
+17400864,"Pissama Ntsaou, Martial",GAB,M,,SI,,1652,0,40,AUG25,1987,i
+17400899,"TATY, Charles",GAB,M,,,,1708,0,40,AUG25,1985,

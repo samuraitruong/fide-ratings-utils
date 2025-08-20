@@ -1,9 +1,9 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-6800785,"Allen, Darryl",ISV,M,,NA,,1794,AUG25,0,40,1963,
-6800831,"Cana, Jessica Ann Iriarte",ISV,F,,NA,,1518,AUG25,0,40,1978,w
-6800726,"Hair, Justin M",ISV,M,,NA,,1728,AUG25,0,20,1984,
-6800637,"Heim, Colin Peter",ISV,M,,,,1738,AUG25,0,20,1990,
-6800173,"Mongiello, Anthony",ISV,M,,,,1614,AUG25,0,20,1958,
-6800246,"Murphy, Margaret",ISV,F,,FI,,1489,AUG25,0,40,1951,w
-6800874,"Williams, Abram",ISV,M,,,,2020,AUG25,0,40,2006,
-6800840,"Williams, Leah",ISV,F,,,,1640,AUG25,0,40,2010,w
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+6800785,"Allen, Darryl",ISV,M,,NA,,1794,0,40,AUG25,1963,
+6800831,"Cana, Jessica Ann Iriarte",ISV,F,,NA,,1518,0,40,AUG25,1978,w
+6800726,"Hair, Justin M",ISV,M,,NA,,1728,0,20,AUG25,1984,
+6800637,"Heim, Colin Peter",ISV,M,,,,1738,0,20,AUG25,1990,
+6800173,"Mongiello, Anthony",ISV,M,,,,1614,0,20,AUG25,1958,
+6800246,"Murphy, Margaret",ISV,F,,FI,,1489,0,40,AUG25,1951,w
+6800874,"Williams, Abram",ISV,M,,,,2020,0,40,AUG25,2006,
+6800840,"Williams, Leah",ISV,F,,,,1640,0,40,AUG25,2010,w

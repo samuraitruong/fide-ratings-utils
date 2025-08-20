@@ -1,4 +1,4 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-14200937,"Gareyev, Timur",NON,M,GM,,,2568,AUG25,0,10,1988,
-2086484,"Harriott, Tyrell",NON,M,,,,AIM,AUG25,1966,0,1978,i
-6500617,"Ramirez, Alejandro",NON,M,GM,,,2579,AUG25,0,10,1988,i
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+14200937,"Gareyev, Timur",NON,M,GM,,,2568,0,10,AUG25,1988,
+2086484,"Harriott, Tyrell",NON,M,,,,AIM,1966,0,AUG25,1978,i
+6500617,"Ramirez, Alejandro",NON,M,GM,,,2579,0,10,AUG25,1988,i

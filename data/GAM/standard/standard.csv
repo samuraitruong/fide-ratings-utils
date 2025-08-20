@@ -1,26 +1,26 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-21100608,"Aziz, Matthew Luke",GAM,M,,,,1747,AUG25,0,40,2008,
-21100039,"Bah, Ebrima",GAM,M,FM,,,2069,AUG25,0,20,1968,i
-21100071,"Bittaye, Momodou Lamin",GAM,M,,,,1880,AUG25,0,40,1969,i
-21100837,"Camara, Ousman",GAM,M,,,,1941,AUG25,0,40,1982,
-21100802,"Ceesay, Buba Omar",GAM,M,,,,1881,AUG25,0,40,1981,i
-21100845,"Chukwudi, Ogbuehi Peter",GAM,M,,,,1833,AUG25,0,40,1995,
-21100721,"Dabo, Muhammed Mustapha",GAM,M,,,,1788,AUG25,0,40,1999,
-21100055,"Dalliah, Joseph",GAM,M,,,,1939,AUG25,0,20,1967,i
-21100306,"Garber, Ousainou",GAM,M,CM,,,1837,AUG25,0,20,1972,i
-21100810,"Jallow, Abdourahman",GAM,M,,,,1724,AUG25,0,40,1979,i
-21100128,"Jallow, Jalamang",GAM,M,,,,1770,AUG25,0,40,1953,
-21100349,"Jallow, Mustapha",GAM,M,,,,1826,AUG25,0,40,1979,
-21100586,"Jeng, Mass",GAM,M,,,,1783,AUG25,0,40,1966,
-21100357,"Kaba, Jimmy Ebrahima",GAM,M,,,,1791,AUG25,0,40,1978,
-21100063,"Lemon, Eliman",GAM,M,,,,1910,AUG25,0,40,1965,i
-21100179,"Mboob, Habib",GAM,M,,,,1806,AUG25,0,40,1952,i
-21100403,"Mendy, Momar",GAM,M,,,,1745,AUG25,0,40,1992,
-21100730,"Ndow, Essa",GAM,M,,,,1636,AUG25,0,40,2010,
-21100020,"Njie, Momodou",GAM,M,CM,,,2205,AUG25,0,40,1959,i
-21100080,"Nyan, Ismaila",GAM,M,,,,1835,AUG25,0,40,1960,
-21100284,"Nyang, Sait",GAM,M,,,,1709,AUG25,0,40,1961,
-21100705,"Riley, James Mathew",GAM,M,,,,1747,AUG25,0,40,1973,i
-21100462,"Singhateh, Ousman",GAM,M,,NA,,1805,AUG25,0,40,1986,
-21100241,"Sowe, Modou Lamin",GAM,M,CM,,,1951,AUG25,0,40,1975,i
-21100195,"Trawally, Momodou",GAM,M,,,,1761,AUG25,0,40,1966,
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+21100608,"Aziz, Matthew Luke",GAM,M,,,,1747,0,40,AUG25,2008,
+21100039,"Bah, Ebrima",GAM,M,FM,,,2069,0,20,AUG25,1968,i
+21100071,"Bittaye, Momodou Lamin",GAM,M,,,,1880,0,40,AUG25,1969,i
+21100837,"Camara, Ousman",GAM,M,,,,1941,0,40,AUG25,1982,
+21100802,"Ceesay, Buba Omar",GAM,M,,,,1881,0,40,AUG25,1981,i
+21100845,"Chukwudi, Ogbuehi Peter",GAM,M,,,,1833,0,40,AUG25,1995,
+21100721,"Dabo, Muhammed Mustapha",GAM,M,,,,1788,0,40,AUG25,1999,
+21100055,"Dalliah, Joseph",GAM,M,,,,1939,0,20,AUG25,1967,i
+21100306,"Garber, Ousainou",GAM,M,CM,,,1837,0,20,AUG25,1972,i
+21100810,"Jallow, Abdourahman",GAM,M,,,,1724,0,40,AUG25,1979,i
+21100128,"Jallow, Jalamang",GAM,M,,,,1770,0,40,AUG25,1953,
+21100349,"Jallow, Mustapha",GAM,M,,,,1826,0,40,AUG25,1979,
+21100586,"Jeng, Mass",GAM,M,,,,1783,0,40,AUG25,1966,
+21100357,"Kaba, Jimmy Ebrahima",GAM,M,,,,1791,0,40,AUG25,1978,
+21100063,"Lemon, Eliman",GAM,M,,,,1910,0,40,AUG25,1965,i
+21100179,"Mboob, Habib",GAM,M,,,,1806,0,40,AUG25,1952,i
+21100403,"Mendy, Momar",GAM,M,,,,1745,0,40,AUG25,1992,
+21100730,"Ndow, Essa",GAM,M,,,,1636,0,40,AUG25,2010,
+21100020,"Njie, Momodou",GAM,M,CM,,,2205,0,40,AUG25,1959,i
+21100080,"Nyan, Ismaila",GAM,M,,,,1835,0,40,AUG25,1960,
+21100284,"Nyang, Sait",GAM,M,,,,1709,0,40,AUG25,1961,
+21100705,"Riley, James Mathew",GAM,M,,,,1747,0,40,AUG25,1973,i
+21100462,"Singhateh, Ousman",GAM,M,,NA,,1805,0,40,AUG25,1986,
+21100241,"Sowe, Modou Lamin",GAM,M,CM,,,1951,0,40,AUG25,1975,i
+21100195,"Trawally, Momodou",GAM,M,,,,1761,0,40,AUG25,1966,

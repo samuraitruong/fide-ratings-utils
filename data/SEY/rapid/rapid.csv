@@ -1,11 +1,11 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-9800182,"Contoret, Bernardette Claudia",SEY,F,,,,1488,AUG25,0,20,1964,wi
-9800034,"Figaro, Dericka",SEY,F,WCM,WCM,,1753,AUG25,0,20,1994,wi
-9800069,"Hoareau, Benjamin",SEY,M,CM,,,1805,AUG25,0,20,1982,i
-9800093,"Hoareau, Rachelle",SEY,F,,,,1573,AUG25,0,20,1955,wi
-9800824,"Kafuko, Zacharia",SEY,M,,,,1831,AUG25,0,40,1984,
-9800220,"Louise, Eli",SEY,M,,,,1540,AUG25,0,20,0,i
-9800158,"Meier, Peter",SEY,M,CM,,,1994,AUG25,0,20,1985,i
-9800174,"Pillay, Ragul",SEY,M,CM,,,1627,AUG25,0,20,1994,i
-24613959,"Stratonowitsch, Andre",SEY,M,FM,,,2083,AUG25,0,20,1986,i
-9800433,"Stravens, Robert A.",SEY,M,,,,1745,AUG25,0,20,1974,i
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+9800182,"Contoret, Bernardette Claudia",SEY,F,,,,1488,0,20,AUG25,1964,wi
+9800034,"Figaro, Dericka",SEY,F,WCM,WCM,,1753,0,20,AUG25,1994,wi
+9800069,"Hoareau, Benjamin",SEY,M,CM,,,1805,0,20,AUG25,1982,i
+9800093,"Hoareau, Rachelle",SEY,F,,,,1573,0,20,AUG25,1955,wi
+9800824,"Kafuko, Zacharia",SEY,M,,,,1831,0,40,AUG25,1984,
+9800220,"Louise, Eli",SEY,M,,,,1540,0,20,AUG25,0,i
+9800158,"Meier, Peter",SEY,M,CM,,,1994,0,20,AUG25,1985,i
+9800174,"Pillay, Ragul",SEY,M,CM,,,1627,0,20,AUG25,1994,i
+24613959,"Stratonowitsch, Andre",SEY,M,FM,,,2083,0,20,AUG25,1986,i
+9800433,"Stravens, Robert A.",SEY,M,,,,1745,0,20,AUG25,1974,i

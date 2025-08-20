@@ -1,7 +1,7 @@
-ID Number,Name,Fed,Sex,Title,WTit,OTit,FOA,Rating,Gms,K,B-day,Flag
-19900023,"Aw, Ousmane",SEN,M,,,,1919,AUG25,0,20,1956,i
-19900074,"Badji, Sekou Aransbene",SEN,M,,,,1857,AUG25,0,20,1979,i
-19900422,"Diarra, Rassoul",SEN,M,,,,1761,AUG25,0,20,2002,i
-19900503,"Fall, Mouhamadou Mourtada",SEN,M,,,,1996,AUG25,0,20,1996,i
-614831,"Lesbros, Bernard",SEN,M,CM,FI,,1947,AUG25,0,20,1948,i
-19900490,"Marochkina, Nadezhda Valerevna",SEN,F,CM,NI,,1815,AUG25,0,20,1990,wi
+ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
+19900023,"Aw, Ousmane",SEN,M,,,,1919,0,20,AUG25,1956,i
+19900074,"Badji, Sekou Aransbene",SEN,M,,,,1857,0,20,AUG25,1979,i
+19900422,"Diarra, Rassoul",SEN,M,,,,1761,0,20,AUG25,2002,i
+19900503,"Fall, Mouhamadou Mourtada",SEN,M,,,,1996,0,20,AUG25,1996,i
+614831,"Lesbros, Bernard",SEN,M,CM,FI,,1947,0,20,AUG25,1948,i
+19900490,"Marochkina, Nadezhda Valerevna",SEN,F,CM,NI,,1815,0,20,AUG25,1990,wi
