@@ -1,0 +1,29 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Miroring FIDE data  but in smaller file",
+  "keywords": [
+    "fide",
+    "chess",
+    "rating"
+  ],
+  "homepage": "https://github.com/samuraitruong/fide-ratings-utils#readme",
+  "bugs": {
+    "url": "https://github.com/samuraitruong/fide-ratings-utils/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuraitruong/fide-ratings-utils.git"
+  },
+  "license": "MIT",
+  "author": "samuraitruong@hotmail.com",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "adm-zip": "^0.5.9"
+  }
+}
