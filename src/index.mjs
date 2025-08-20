@@ -103,8 +103,8 @@ export async function processFideRatings(url, ratingType) {
                 } else {
                     obj[columns[i]] = value;
                 }
-                return obj;
             }
+            return obj;
         });
 
         // Write JSON
