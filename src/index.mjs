@@ -131,6 +131,31 @@ export async function processFideRatings(url, ratingType) {
             const csvZip = new AdmZip();
             csvZip.addFile(`${ratingType}.csv`, Buffer.from(csvRows.join('\n'), 'utf8'));
             csvZip.writeZip(csvZipPath);
+
+            // Write Parquet (all fields as UTF8 strings)
+            try {
+                const parquetModule = await import('parquetjs-lite');
+                const parquet = parquetModule.default || parquetModule;
+                const schemaFields = {};
+                for (const col of csvColumns) {
+                    schemaFields[col] = { type: 'UTF8' };
+                }
+                const parquetPath = path.join(dir, `${ratingType}.parquet`);
+                const schema = new parquet.ParquetSchema(schemaFields);
+                const writer = await parquet.ParquetWriter.openFile(schema, parquetPath);
+                for (const row of jsonData) {
+                    // Ensure all values are strings for the defined schema
+                    const strRow = {};
+                    for (const col of csvColumns) {
+                        const v = row[col];
+                        strRow[col] = v === undefined || v === null ? '' : String(v);
+                    }
+                    await writer.appendRow(strRow);
+                }
+                await writer.close();
+            } catch (err) {
+                console.error('Failed to write Parquet:', err);
+            }
         }
 
         // Collect summary for index.html
@@ -142,7 +167,8 @@ export async function processFideRatings(url, ratingType) {
             csv: `${fed}/${ratingType}/${ratingType}.csv`,
             csvzip: `${fed}/${ratingType}/${ratingType}.csv.zip`,
             json: `${fed}/${ratingType}/${ratingType}.json`,
-            jsonzip: `${fed}/${ratingType}/${ratingType}.json.zip`
+            jsonzip: `${fed}/${ratingType}/${ratingType}.json.zip`,
+            parquet: `${fed}/${ratingType}/${ratingType}.parquet`
         };
     }
     // ...existing code up to generateIndexHtml...
