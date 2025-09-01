@@ -7,7 +7,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4440609,"Abril Silva, Luis Hernando",COL,M,,,,1806,0,20,SEP25,1960,i
 4441613,"Abril, Elkin Armando",COL,M,,,,1885,0,20,SEP25,1984,i
 4469267,"Acero Diaz, Juan Sebastian",COL,M,,,,1839,8,20,SEP25,2001,
-144438931,"Acero Mendes, Jhostin",COL,M,,,,1533,0,40,SEP25,2012,
+144438931,"Acero Mendes, Jhostin Emanuel",COL,M,,,,1533,0,40,SEP25,2012,
 144448112,"Acero Parra, Juan Manuel",COL,M,,,,1572,0,40,SEP25,2012,
 4466241,"Acero Sierra, Cesar Augusto",COL,M,,,,1837,0,20,SEP25,1964,i
 4482697,"Acero Vargas, Cristian Camilo",COL,M,,,,1859,0,20,SEP25,1998,i
@@ -1343,6 +1343,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 144466536,"Diaz Ardila, Camilo Andres",COL,M,,,,1918,7,40,SEP25,2001,
 4481089,"Diaz Avila, Jarett Alexander",COL,M,,,,1674,9,40,SEP25,2012,
 4481356,"Diaz Bermudez, Luis Fernando",COL,M,,,,1615,0,20,SEP25,2003,i
+4405331,"Diaz Blandon,Jacobo",COL,M,,,,1646,0,40,SEP25,1994,
 4488415,"Diaz Bobadilla, Laura Juliana",COL,F,,,,1779,0,40,SEP25,2008,w
 144409729,"Diaz Bocanegra, Jesus Alberto",COL,M,,,,1740,0,40,SEP25,2007,
 4486196,"Diaz Bocanegra, Linda Zaray",COL,F,,,,1713,0,20,SEP25,2002,wi
@@ -1375,7 +1376,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4499735,"Diaz, Daniel",COL,M,,,,1815,0,20,SEP25,1983,i
 4464826,"Diaz, Diego Alejandro",COL,M,,,,1711,0,20,SEP25,2003,i
 4457048,"Diaz, Edgardo Anibal",COL,M,,,,1937,0,20,SEP25,1957,i
-4405331,"Diaz, Jacobo",COL,M,,,,1646,0,40,SEP25,1994,
 4400313,"Diaz, Jaime Walter",COL,M,FM,,,2162,0,20,SEP25,1956,i
 4435826,"Diaz, Jose Joaquin",COL,M,,,,2029,9,20,SEP25,1969,
 4414942,"Diaz, Wilmar",COL,M,,,,1738,0,40,SEP25,1975,i
@@ -1530,8 +1530,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4441567,"Fajardo Lopez, Daniel",COL,M,,,,1789,0,20,SEP25,1997,i
 4453212,"Fajardo Moreno, Juliana",COL,F,,,,1599,0,40,SEP25,2006,wi
 4411978,"Fajardo Murgas, Yosimar David",COL,M,,FI,,1955,0,20,SEP25,1994,
-4443284,"Fajardo, Gustavo",COL,M,,,,1831,0,20,SEP25,1999,i
 4473116,"Fajardo, Gustavo",COL,M,,,,1810,0,20,SEP25,1977,i
+4443284,"Fajardo, Gustavo",COL,M,,,,1831,0,20,SEP25,1999,i
 4444078,"Fajardo, Icenover",COL,M,,,,1771,0,40,SEP25,1958,i
 4466837,"Fandino Parra, Juan Diego",COL,M,,,,1869,0,20,SEP25,1977,i
 144438842,"Farfan Rubio, Ariel Ignacio",COL,M,,,,1621,0,40,SEP25,2011,
@@ -1840,7 +1840,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4417780,"Gomez Barrero, Sergio",COL,M,FM,,,1988,1,20,SEP25,1988,
 144440766,"Gomez Becerra, Lorenzo",COL,M,,,,1584,0,40,SEP25,2012,
 144416008,"Gomez Bernal, Juan Sebastian",COL,M,,,,1736,0,40,SEP25,2007,i
-4432509,"Gomez Boada, Alfredo",COL,M,,,,1692,7,20,SEP25,1990,
+4426363,"Gomez Boada, Alfredo",COL,M,,,,1790,6,20,SEP25,1977,
+4432509,"Gomez Boada, Alfredo",COL,M,,,,1692,7,20,SEP25,1977,
 144432011,"Gomez Cabrera, Juan David",COL,M,,,,1623,5,20,SEP25,2006,
 4403240,"Gomez Cadavid, David",COL,M,,,,2028,0,40,SEP25,1987,
 4485866,"Gomez Caicedo, Henry",COL,M,,,,1498,0,20,SEP25,1954,i
@@ -1904,7 +1905,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4497430,"Gomez Zapata, Luis Andres",COL,M,,,,1589,0,40,SEP25,1994,
 4484916,"Gomez, Alberto",COL,M,,,,1669,0,20,SEP25,1952,i
 4462483,"Gomez, Alberto",COL,M,,,,1914,0,20,SEP25,1961,i
-4426363,"Gomez, Alfredo",COL,M,,,,1790,6,20,SEP25,1977,
 4412370,"Gomez, Andres Felipe",COL,M,,,,2029,0,20,SEP25,1988,i
 4449835,"Gomez, Carlos Alberto",COL,M,,,,1953,0,20,SEP25,1997,i
 4461851,"Gomez, Cesar Sebastian",COL,M,,,,1862,0,40,SEP25,1993,
@@ -2226,7 +2226,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4456432,"Herrera, Cristobal",COL,M,,,,1875,0,20,SEP25,1947,i
 4403266,"Herrera, Juan Sebastian",COL,M,FM,FI,,2216,8,20,SEP25,1991,
 4403096,"Herrera, Milena",COL,F,WIM,WIM,,2091,0,20,SEP25,1989,wi
-144427522,"Herrera, Victor Harly",COL,M,,,,1635,0,40,SEP25,1976,
+144427522,"Herrera, Victor Harly",COL,M,,,,1635,0,40,SEP25,1982,
 4416279,"Herrera, Victor Manuel",COL,M,,,,1711,0,20,SEP25,1999,i
 4498887,"Hidalgo, Genaro",COL,M,,,,1804,0,40,SEP25,2004,
 4456173,"Higarrero, Juan David",COL,M,,,,1719,0,40,SEP25,2005,i
@@ -2393,13 +2393,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 144401833,"Leon Ardila, Ludwing Daniel",COL,M,,,,1715,0,20,SEP25,2004,i
 144434227,"Leon Arias, Pablo Ernesto",COL,M,,,,1683,0,40,SEP25,1963,
 144416377,"Leon Diaz, Ommhes Samuel",COL,M,,,,1458,0,40,SEP25,2007,i
+4408420,"Leon Morales, Gustavo",COL,M,,,,1857,0,20,SEP25,2000,
 144438052,"Leon Payanene, Wilson Camilo",COL,M,,,,1492,0,40,SEP25,1977,i
 144433115,"Leon Romero, Dylan Yovani",COL,M,,,,1456,0,40,SEP25,2012,
 144430027,"Leon Romero, Juan Camilo",COL,M,,,,1534,0,40,SEP25,2009,i
 4446011,"Leon Rubiano, Jose Luis",COL,M,,,,1760,0,20,SEP25,2001,i
 4454553,"Leon Sarria, Cristian",COL,M,,,,1743,0,20,SEP25,2004,i
 4431685,"Leon, Andres Felipe",COL,M,,,,1947,0,20,SEP25,1996,i
-4408420,"Leon, Gustavo",COL,M,,,,1857,0,20,SEP25,2000,
 144421460,"Lerma Munoz, Luis Alberto",COL,M,,,,1472,6,20,SEP25,1987,
 144419554,"Leudo Minota, Orlando",COL,M,,,,1526,0,20,SEP25,1965,i
 4449533,"Leyton Capera, Julio Cesar",COL,M,,,,1637,0,20,SEP25,1999,i
@@ -2935,7 +2935,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4485890,"Montenegro Estupinan, James Arbey",COL,M,,,,1600,0,20,SEP25,1967,
 144401302,"Montenegro Hernandez, Juan Camilo",COL,M,,,,1677,0,20,SEP25,2005,i
 4403444,"Montenegro Mancera, Juan Rolando",COL,M,FM,,,2058,0,20,SEP25,1978,
-144453205,"Montenegro Morales, Nicolas",COL,M,,,,1679,13,40,SEP25,2012,
+144453205,"Montenegro Morales, Nicolas",COL,M,,,,1679,13,40,SEP25,2002,
 144402511,"Montenegro Valeriano, Joseph",COL,M,,,,1773,0,40,SEP25,2005,i
 4430387,"Montenegro, Heidy",COL,F,,,,1883,0,20,SEP25,1985,wi
 144409990,"Montenegro, Jhon Steven",COL,M,,,,1616,0,20,SEP25,1995,i
@@ -4093,6 +4093,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 144440243,"Rodriguez Perez, Mercy Tayiana",COL,F,,,,1480,0,40,SEP25,2008,w
 4406176,"Rodriguez Pineda, Sofia",COL,F,WCM,WCM,,1808,0,20,SEP25,1999,w
 144441614,"Rodriguez Pinilla, Jefferson Stiven",COL,M,,,,1517,0,40,SEP25,1991,
+144421257,"Rodriguez Pinzon, Junior Antonio",COL,M,,,,1474,0,40,SEP25,2012,
 144441118,"Rodriguez Prieto, Ytzak",COL,M,,,,1645,0,40,SEP25,2006,
 4487176,"Rodriguez Ramirez, Luis Miguel",COL,M,,,,1545,0,20,SEP25,2004,i
 4458419,"Rodriguez Rodriguez, Alberto",COL,M,,,,1751,2,20,SEP25,1967,
@@ -4126,7 +4127,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4477316,"Rodriguez, Jose Manuel",COL,M,,,,1877,0,20,SEP25,1965,i
 4432720,"Rodriguez, Juan Carlos",COL,M,,,,1948,0,20,SEP25,1969,i
 4431570,"Rodriguez, Juan Gabriel",COL,M,,,,1787,0,20,SEP25,1988,i
-144421257,"Rodriguez, Junior",COL,M,,,,1474,0,40,SEP25,2012,
 4409400,"Rodriguez, Luis Eberto",COL,M,,,,1896,0,40,SEP25,1975,
 4446810,"Rodriguez, Miguel Angel",COL,M,,,,1708,0,20,SEP25,1998,i
 4471113,"Rodriguez, Miguel Ernesto",COL,M,,,,1891,0,20,SEP25,1982,
@@ -4161,12 +4161,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4493141,"Rojas Puerta, Miguel Angel",COL,M,,,,1584,0,40,SEP25,2007,
 144426470,"Rojas Puerto, Santiago",COL,M,,,,1501,0,40,SEP25,2008,i
 144430663,"Rojas Rodriguez, Alejandro Samael",COL,M,,,,1699,0,40,SEP25,2008,
+4434927,"Rojas Rojas,Santiago",COL,M,,,,1800,0,20,SEP25,1992,
 144437560,"Rojas Velasco, Jhon Sebastian",COL,M,,,,1876,0,40,SEP25,2004,
 4430450,"Rojas Villamil, Pedro",COL,M,,IA,,1749,0,20,SEP25,1970,i
 4405714,"Rojas, Carlos Andres",COL,M,,,,1781,1,20,SEP25,1987,
 4484487,"Rojas, Fredy",COL,M,,,,1928,0,20,SEP25,1979,i
 4476530,"Rojas, Leonardo",COL,M,,,,1645,0,20,SEP25,1979,i
-4434927,"Rojas, Santiago",COL,M,,,,1800,0,20,SEP25,1992,
 4471709,"Rojas, Sebastian",COL,M,,,,1560,0,40,SEP25,2011,
 4493710,"Roldan Arboleda, Jorge Alain",COL,M,,,,1839,0,20,SEP25,1991,
 144434707,"Roldan Aroca, Celeste Maia Cristal",COL,F,,,,1428,0,40,SEP25,2014,w
@@ -4230,8 +4230,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4425189,"Rozo, Claudia Magally",COL,F,WCM,WCM,,1659,0,20,SEP25,1998,wi
 4496973,"Rozo, Jhon Fredy",COL,M,,,,1775,0,40,SEP25,1986,
 144446314,"Rua de la Cruz, Helena",COL,F,,,,1611,0,40,SEP25,1991,w
+4401930,"Rua Palacio, Nora",COL,F,,,,1758,19,20,SEP25,1966,w
 4490452,"Rua Perales, Jean Carlos",COL,M,,,,1748,0,20,SEP25,2001,i
-4401930,"Rua, Nora",COL,F,,,,1758,19,20,SEP25,1966,w
 4483154,"Ruales, Nicolas",COL,M,,,,1606,0,40,SEP25,2008,i
 4460430,"Ruales, Nilson",COL,M,,,,1734,0,20,SEP25,1985,
 4466292,"Rubiano Gonzalez, Diego Alejandr",COL,M,,,,1587,0,20,SEP25,2001,i
@@ -4333,7 +4333,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4461266,"Saldana, Ramiro",COL,M,,,,1905,0,20,SEP25,1970,i
 4422090,"Saldarriaga Quintero, Mauricio",COL,M,,,,1995,0,20,SEP25,1996,i
 144417772,"Saldarriaga, German Andres",COL,M,,,,1794,0,20,SEP25,1985,i
-4404416,"Salej, Jorge",COL,M,,,,1900,0,20,SEP25,1958,
+4404416,"Salej Higgins,Jorge Elias",COL,M,,,,1900,0,20,SEP25,1958,
 4404270,"Salgado Gonzalez, Angel Giovanni",COL,M,,,,1871,0,20,SEP25,1976,i
 144440820,"Salgar, Camilo",COL,M,,,,1711,0,40,SEP25,2007,
 4469879,"Salguero, Miguel Angel",COL,M,,,,1598,0,20,SEP25,2006,i
@@ -4503,6 +4503,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4405250,"Sierra Amariles, Julian Andres",COL,M,,,,1986,0,20,SEP25,1983,i
 144404182,"Sierra Castillo, Eyber",COL,M,,,,1690,0,40,SEP25,2009,i
 4477219,"Sierra Contreras, Alden Ronaldo",COL,M,,,,1809,0,20,SEP25,1997,i
+144458754,"Sierra Daza, Edinson",COL,M,,,,1710,13,20,SEP25,1997,
 144424078,"Sierra Daza, Karim",COL,M,,,,1557,0,40,SEP25,2006,i
 144434405,"Sierra Florez, Wilson David",COL,M,,,,1632,4,40,SEP25,2004,
 4402987,"Sierra Fonseca, Edwin Andres",COL,M,FM,,,2144,0,20,SEP25,1983,i
@@ -4513,7 +4514,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 144410042,"Sierra Pinzon, Carlos",COL,M,,,,1840,0,20,SEP25,1993,i
 144458371,"Sierra Romero, Ronald Esteban",COL,M,,,,1511,0,40,SEP25,2014,
 4475526,"Sierra Vega, Ramon Joselias",COL,M,,,,1655,0,40,SEP25,1992,
-144458754,"Sierra, Edinson",COL,M,,,,1710,13,20,SEP25,1997,
 4460570,"Sierra, Henry Alberto",COL,M,,,,1633,0,20,SEP25,1965,i
 4422759,"Sierra, Juan Daniel",COL,M,,,,1705,0,20,SEP25,1997,i
 4482948,"Silva Albarracin, Waldomiro",COL,M,,,,1840,0,20,SEP25,1981,

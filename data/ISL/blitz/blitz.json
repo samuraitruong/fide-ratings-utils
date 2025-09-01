@@ -600,21 +600,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "2310511",
-    "Name": "Arnason, Arni Thor",
-    "Fed": "ISL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1836",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP25",
-    "B-day": "1951",
-    "Flag": "i"
-  },
-  {
     "ID Number": "2308142",
     "Name": "Arnason, Arni Thor",
     "Fed": "ISL",
@@ -627,6 +612,21 @@
     "K": "20",
     "RatingMonth": "SEP25",
     "B-day": "1938",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "2310511",
+    "Name": "Arnason, Arni Thor",
+    "Fed": "ISL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1836",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP25",
+    "B-day": "1951",
     "Flag": "i"
   },
   {
@@ -8596,7 +8596,7 @@
   },
   {
     "ID Number": "2335891",
-    "Name": "Kristjansson, Mattias",
+    "Name": "Kristjansson, Matthias",
     "Fed": "ISL",
     "Sex": "M",
     "Title": "",

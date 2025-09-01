@@ -358,6 +358,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3232638,"Chen, Austin",AUS,M,CM,,,1995,0,40,SEP25,2008,
 3261131,"Chen, Chloe",AUS,F,,NA,,1715,0,40,SEP25,2009,wi
 3241955,"Chen, Dean",AUS,M,,,,1708,0,40,SEP25,2011,
+3290638,"Chen, Eden (Yide)",AUS,M,,,,1466,0,40,SEP25,2013,
 3290620,"Chen, Ethan",AUS,M,,,,1478,0,40,SEP25,2017,
 3256375,"Chen, Isaac",AUS,M,,,,1427,0,40,SEP25,2016,
 3267954,"Chen, Jason",AUS,M,,,,1560,0,20,SEP25,2002,
@@ -377,7 +378,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3280020,"Chen, Taiting",AUS,M,,,,1422,0,40,SEP25,2016,
 3262294,"Chen, Tom",AUS,M,,,,1698,0,20,SEP25,2003,i
 3249379,"Chen, Xinkuang (Jimmy)",AUS,M,,,,1600,0,40,SEP25,2011,i
-3290638,"Chen, Yide (eden)",AUS,M,,,,1466,0,40,SEP25,2013,
 3233588,"Cheng, Amanda",AUS,F,,,,1615,0,20,SEP25,2003,wi
 4300033,"Cheng, Bobby",AUS,M,GM,,,2481,0,10,SEP25,1997,i
 3232468,"Cheng, Chao Xin",AUS,F,WFM,WFM,,1779,0,40,SEP25,2007,w
@@ -1213,8 +1213,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3228410,"Leaver, Kyle",AUS,M,CM,,,1995,0,20,SEP25,1993,
 3232409,"Lee, Aaron James",AUS,M,CM,,,2043,0,20,SEP25,1993,i
 3254577,"Lee, Daniel",AUS,M,,,,1870,0,20,SEP25,1993,i
-3262596,"Lee, Ethan",AUS,M,,,,1612,0,40,SEP25,2016,i
 3257894,"Lee, Ethan",AUS,M,,,,1795,0,40,SEP25,2009,
+3262596,"Lee, Ethan",AUS,M,,,,1612,0,40,SEP25,2016,i
 3202410,"Lee, Geoff",AUS,M,,,,1713,0,20,SEP25,1940,i
 3278190,"Lee, Jacob",AUS,M,,,,1593,0,40,SEP25,2012,
 3243800,"Lee, Jayden S",AUS,M,,,,1693,0,40,SEP25,2010,
@@ -1870,7 +1870,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3220060,"Rostami, Matthew",AUS,M,,,,1726,0,20,SEP25,1979,i
 3254046,"Roughan, Charlie",AUS,M,,,,1728,0,20,SEP25,2006,i
 3273326,"Rowberry, Jacob",AUS,M,,,,1601,0,40,SEP25,2008,
-3221334,"Rowlison, Colin N",AUS,M,,,,1742,0,20,SEP25,1965,
+3221334,"Rowlison, Colin N",AUS,M,,,,AFM,1742,0,SEP25,1965,
 3255727,"Roy Philip, Rohith",AUS,M,,,,1654,0,20,SEP25,1996,i
 3255255,"Rozentsvet, Levi",AUS,M,,,,1555,0,20,SEP25,2000,i
 3210880,"Ruan, Harry",AUS,M,,,,1906,0,20,SEP25,1998,i
@@ -2038,8 +2038,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3267229,"Smith, Declan",AUS,M,CM,,,1765,0,20,SEP25,2005,
 3234215,"Smith, Jack",AUS,M,,,,1755,0,20,SEP25,2003,
 3258530,"Smith, Jonathan",AUS,M,,,,1782,0,20,SEP25,1964,
-3266087,"Smith, Jordan",AUS,M,,,,1691,0,20,SEP25,2006,
 3254631,"Smith, Jordan",AUS,M,,,,1572,0,20,SEP25,1992,
+3266087,"Smith, Jordan",AUS,M,,,,1691,0,20,SEP25,2006,
 3226832,"Smith, Kayleigh",AUS,F,,,,1842,0,20,SEP25,1993,wi
 3236676,"Smith, Mathew",AUS,M,,FA,,1483,0,20,SEP25,1975,i
 3260518,"Smith, Sam",AUS,M,,,,1472,0,40,SEP25,2008,

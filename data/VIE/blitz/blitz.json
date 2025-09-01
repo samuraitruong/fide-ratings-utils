@@ -12705,21 +12705,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "12432750",
-    "Name": "Nguyen Hoang Dung",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1438",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2015",
-    "Flag": ""
-  },
-  {
     "ID Number": "12440965",
     "Name": "Nguyen Hoang Dung",
     "Fed": "VIE",
@@ -12733,6 +12718,21 @@
     "RatingMonth": "SEP25",
     "B-day": "2014",
     "Flag": "w"
+  },
+  {
+    "ID Number": "12432750",
+    "Name": "Nguyen Hoang Dung",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1438",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2015",
+    "Flag": ""
   },
   {
     "ID Number": "12457582",
@@ -13350,21 +13350,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12471992",
-    "Name": "Nguyen Khanh An",
-    "Fed": "VIE",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1498",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2018",
-    "Flag": "w"
-  },
-  {
     "ID Number": "12458783",
     "Name": "Nguyen Khanh An",
     "Fed": "VIE",
@@ -13377,6 +13362,21 @@
     "K": "40",
     "RatingMonth": "SEP25",
     "B-day": "2016",
+    "Flag": "w"
+  },
+  {
+    "ID Number": "12471992",
+    "Name": "Nguyen Khanh An",
+    "Fed": "VIE",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1498",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2018",
     "Flag": "w"
   },
   {
@@ -15255,21 +15255,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12483354",
-    "Name": "Nguyen Quang Minh",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "AFM",
-    "Gms": "1525",
-    "K": "0",
-    "RatingMonth": "SEP25",
-    "B-day": "2006",
-    "Flag": ""
-  },
-  {
     "ID Number": "12429147",
     "Name": "Nguyen Quang Minh",
     "Fed": "VIE",
@@ -15282,6 +15267,21 @@
     "K": "40",
     "RatingMonth": "SEP25",
     "B-day": "2011",
+    "Flag": ""
+  },
+  {
+    "ID Number": "12483354",
+    "Name": "Nguyen Quang Minh",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "AFM",
+    "Gms": "1525",
+    "K": "0",
+    "RatingMonth": "SEP25",
+    "B-day": "2006",
     "Flag": ""
   },
   {
@@ -24660,19 +24660,19 @@
     "Flag": "w"
   },
   {
-    "ID Number": "12492221",
+    "ID Number": "12468355",
     "Name": "Tran Duc Anh",
     "Fed": "VIE",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1507",
+    "Rating": "1647",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "SEP25",
-    "B-day": "2012",
-    "Flag": ""
+    "B-day": "2007",
+    "Flag": "i"
   },
   {
     "ID Number": "12405957",
@@ -24690,19 +24690,19 @@
     "Flag": "i"
   },
   {
-    "ID Number": "12468355",
+    "ID Number": "12492221",
     "Name": "Tran Duc Anh",
     "Fed": "VIE",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1647",
+    "Rating": "1507",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "SEP25",
-    "B-day": "2007",
-    "Flag": "i"
+    "B-day": "2012",
+    "Flag": ""
   },
   {
     "ID Number": "12422380",
@@ -28155,21 +28155,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12437700",
-    "Name": "Vo Hoang Minh",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1550",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2010",
-    "Flag": "i"
-  },
-  {
     "ID Number": "12484369",
     "Name": "Vo Hoang Minh",
     "Fed": "VIE",
@@ -28183,6 +28168,21 @@
     "RatingMonth": "SEP25",
     "B-day": "2016",
     "Flag": ""
+  },
+  {
+    "ID Number": "12437700",
+    "Name": "Vo Hoang Minh",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1550",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2010",
+    "Flag": "i"
   },
   {
     "ID Number": "12430765",

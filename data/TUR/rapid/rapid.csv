@@ -302,7 +302,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44526687,"Aykose, Can",TUR,M,,,,1605,0,20,SEP25,2002,i
 44536496,"Aykose, Zeki Nadir",TUR,M,,,,1588,0,20,SEP25,1968,i
 6373062,"Aykut, Ahmet",TUR,M,,,,1795,0,20,SEP25,1995,i
-51681358,"Aynaoglu, Efe",TUR,M,,,,1804,9,40,SEP25,2015,
+51681358,"Aynaoglu, Efe",TUR,M,CM,,,1804,9,40,SEP25,2015,
 51692821,"Aynaoglu, Fatih",TUR,M,,,,1547,6,40,SEP25,1986,
 51699257,"Aynaoglu, Mete",TUR,M,,,,1573,8,40,SEP25,2017,
 74502131,"Ayper, Mert",TUR,M,,,,1598,0,40,SEP25,2008,i
@@ -359,7 +359,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34591680,"Basol, Temel",TUR,M,,,,1508,0,20,SEP25,1988,i
 6356494,"Baspinar, Lara",TUR,F,,,,1764,0,20,SEP25,2002,wi
 26391481,"Bassari, Ibrahim",TUR,M,,,,1610,0,40,SEP25,1972,
-26363704,"Bassari, Senem Gul",TUR,F,WCM,WCM,,1847,0,40,SEP25,2012,w
+26363704,"Bassari, Senem Gul",TUR,F,CM,WFM,,1847,0,40,SEP25,2012,w
 44560079,"Batir, Eren Berk",TUR,M,,,,1564,0,40,SEP25,2007,i
 34565973,"Bayar, Mehmet",TUR,M,,,,1549,0,20,SEP25,1963,i
 34595171,"Baycu, Arda",TUR,M,,,,1602,0,40,SEP25,2006,i
@@ -733,7 +733,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 26311038,"Derin, Poyraz",TUR,M,,,,1507,0,40,SEP25,2011,i
 26348349,"Dervisoglu, Nisa",TUR,F,,,,1642,0,20,SEP25,2002,wi
 26322455,"Deveci, Huseyin Said",TUR,M,CM,,,1972,0,40,SEP25,2009,i
-51604051,"Develi, Kemal Cagan",TUR,M,,,,2157,9,40,SEP25,2013,
+51604051,"Develi, Kemal Cagan",TUR,M,CM,,,2157,9,40,SEP25,2013,
 6319831,"Deviren, Erdi",TUR,M,,,,1971,0,20,SEP25,1997,i
 6335950,"Digdigi, Mustafa Hayati",TUR,M,,,,1719,0,20,SEP25,1962,i
 34538992,"Dikilitas, Mustafa Kemal",TUR,M,,,,1709,0,20,SEP25,1977,i
@@ -1156,7 +1156,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6338410,"Igdir, Gencay",TUR,M,,,,AIM,1772,0,SEP25,1981,i
 51650762,"Ilbasmis, Kayra",TUR,M,,,,1920,0,40,SEP25,2012,
 6340156,"Ilbilgi, Bulut",TUR,M,,,,1941,0,20,SEP25,1985,i
-26381800,"Ilgaz, Yusuf Kerem",TUR,M,,,,1731,0,40,SEP25,2007,i
+26381800,"Ilgaz, Yusuf Kerem",TUR,M,CM,,,1731,0,40,SEP25,2007,i
 44548303,"Ilgin, Erhan",TUR,M,,,,1568,0,20,SEP25,1971,i
 44585004,"Ilhan, Berkehan",TUR,M,,,,1631,0,20,SEP25,1996,i
 34513205,"Ilhan, Selim",TUR,M,,,,1711,0,20,SEP25,1983,i

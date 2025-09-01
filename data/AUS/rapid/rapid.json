@@ -5145,21 +5145,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "3256375",
-    "Name": "Chen, Isaac",
-    "Fed": "AUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1502",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2016",
-    "Flag": ""
-  },
-  {
     "ID Number": "3253040",
     "Name": "Chen, Isaac",
     "Fed": "AUS",
@@ -5173,6 +5158,21 @@
     "RatingMonth": "SEP25",
     "B-day": "2013",
     "Flag": "i"
+  },
+  {
+    "ID Number": "3256375",
+    "Name": "Chen, Isaac",
+    "Fed": "AUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1502",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2016",
+    "Flag": ""
   },
   {
     "ID Number": "3267954",
@@ -26602,9 +26602,9 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1812",
-    "Gms": "2",
-    "K": "20",
+    "Rating": "AFM",
+    "Gms": "1812",
+    "K": "2",
     "RatingMonth": "SEP25",
     "B-day": "1965",
     "Flag": ""
