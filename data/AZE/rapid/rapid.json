@@ -3270,21 +3270,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "13454722",
-    "Name": "Aliyev, Ziya",
-    "Fed": "AZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1503",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2014",
-    "Flag": ""
-  },
-  {
     "ID Number": "13475576",
     "Name": "Aliyev, Ziya",
     "Fed": "AZE",
@@ -3298,6 +3283,21 @@
     "RatingMonth": "SEP25",
     "B-day": "2009",
     "Flag": "i"
+  },
+  {
+    "ID Number": "13454722",
+    "Name": "Aliyev, Ziya",
+    "Fed": "AZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1503",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2014",
+    "Flag": ""
   },
   {
     "ID Number": "13435191",
@@ -16714,8 +16714,8 @@
     "Name": "Mirzaliyeva, Leyla",
     "Fed": "AZE",
     "Sex": "F",
-    "Title": "",
-    "WTit": "",
+    "Title": "WCM",
+    "WTit": "WCM",
     "OTit": "",
     "Rating": "1593",
     "Gms": "6",

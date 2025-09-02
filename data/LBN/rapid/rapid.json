@@ -8190,21 +8190,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "5321697",
-    "Name": "Itani, Mohamad",
-    "Fed": "LBN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1433",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "1976",
-    "Flag": "i"
-  },
-  {
     "ID Number": "5309140",
     "Name": "Itani, Mohamad",
     "Fed": "LBN",
@@ -8217,6 +8202,21 @@
     "K": "20",
     "RatingMonth": "SEP25",
     "B-day": "1975",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "5321697",
+    "Name": "Itani, Mohamad",
+    "Fed": "LBN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1433",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "1976",
     "Flag": "i"
   },
   {
@@ -14456,7 +14456,7 @@
     "Gms": "0",
     "K": "40",
     "RatingMonth": "SEP25",
-    "B-day": "2000",
+    "B-day": "2001",
     "Flag": "w"
   },
   {

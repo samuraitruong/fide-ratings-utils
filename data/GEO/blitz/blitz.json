@@ -5044,8 +5044,8 @@
     "Name": "Donghvani, Nia",
     "Fed": "GEO",
     "Sex": "F",
-    "Title": "",
-    "WTit": "",
+    "Title": "WFM",
+    "WTit": "WFM",
     "OTit": "",
     "Rating": "1877",
     "Gms": "0",
@@ -17250,21 +17250,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "13621041",
-    "Name": "Sekhniashvili, Giorgi",
-    "Fed": "GEO",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1656",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP25",
-    "B-day": "1995",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13646508",
     "Name": "Sekhniashvili, Giorgi",
     "Fed": "GEO",
@@ -17277,6 +17262,21 @@
     "K": "20",
     "RatingMonth": "SEP25",
     "B-day": "2006",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "13621041",
+    "Name": "Sekhniashvili, Giorgi",
+    "Fed": "GEO",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1656",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP25",
+    "B-day": "1995",
     "Flag": "i"
   },
   {
@@ -19620,21 +19620,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "13644165",
-    "Name": "Tsiklauri, Giorgi",
-    "Fed": "GEO",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1441",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP25",
-    "B-day": "2005",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13632450",
     "Name": "Tsiklauri, Giorgi",
     "Fed": "GEO",
@@ -19647,6 +19632,21 @@
     "K": "40",
     "RatingMonth": "SEP25",
     "B-day": "2011",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "13644165",
+    "Name": "Tsiklauri, Giorgi",
+    "Fed": "GEO",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1441",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP25",
+    "B-day": "2005",
     "Flag": "i"
   },
   {
