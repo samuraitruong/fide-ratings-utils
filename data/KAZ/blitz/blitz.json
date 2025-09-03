@@ -31455,21 +31455,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "447057661",
-    "Name": "Kim, Valeriy",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1601",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13713892",
     "Name": "Kim, Valeriy",
     "Fed": "KAZ",
@@ -31482,6 +31467,21 @@
     "K": "20",
     "RatingMonth": "SEP25",
     "B-day": "1948",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "447057661",
+    "Name": "Kim, Valeriy",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1601",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2008",
     "Flag": "i"
   },
   {
@@ -40519,7 +40519,7 @@
     "Name": "Mirzhanov, Arlan",
     "Fed": "KAZ",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "1914",

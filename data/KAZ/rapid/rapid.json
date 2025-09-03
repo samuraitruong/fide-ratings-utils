@@ -6345,21 +6345,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "13792555",
-    "Name": "Aliyev, Ali",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1466",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2014",
-    "Flag": "i"
-  },
-  {
     "ID Number": "447008547",
     "Name": "Aliyev, Ali",
     "Fed": "KAZ",
@@ -6373,6 +6358,21 @@
     "RatingMonth": "SEP25",
     "B-day": "2007",
     "Flag": ""
+  },
+  {
+    "ID Number": "13792555",
+    "Name": "Aliyev, Ali",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1466",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2014",
+    "Flag": "i"
   },
   {
     "ID Number": "447095849",
@@ -25305,21 +25305,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "13729527",
-    "Name": "Fisenko, Evgeny",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1497",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP25",
-    "B-day": "2000",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13740946",
     "Name": "Fisenko, Evgeny",
     "Fed": "KAZ",
@@ -25332,6 +25317,21 @@
     "K": "20",
     "RatingMonth": "SEP25",
     "B-day": "1943",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "13729527",
+    "Name": "Fisenko, Evgeny",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1497",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP25",
+    "B-day": "2000",
     "Flag": "i"
   },
   {
@@ -38895,18 +38895,18 @@
     "Flag": "i"
   },
   {
-    "ID Number": "13713892",
+    "ID Number": "13764519",
     "Name": "Kim, Valeriy",
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1629",
+    "Rating": "1470",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "SEP25",
-    "B-day": "1948",
+    "B-day": "1943",
     "Flag": "i"
   },
   {
@@ -38925,18 +38925,18 @@
     "Flag": "i"
   },
   {
-    "ID Number": "13764519",
+    "ID Number": "13713892",
     "Name": "Kim, Valeriy",
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1470",
+    "Rating": "1629",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "SEP25",
-    "B-day": "1943",
+    "B-day": "1948",
     "Flag": "i"
   },
   {
@@ -49245,21 +49245,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "13709356",
-    "Name": "Medvedev, Aleksandr",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1693",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "0",
-    "Flag": ""
-  },
-  {
     "ID Number": "447069635",
     "Name": "Medvedev, Aleksandr",
     "Fed": "KAZ",
@@ -49272,6 +49257,21 @@
     "K": "40",
     "RatingMonth": "SEP25",
     "B-day": "1972",
+    "Flag": ""
+  },
+  {
+    "ID Number": "13709356",
+    "Name": "Medvedev, Aleksandr",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1693",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "0",
     "Flag": ""
   },
   {
@@ -50374,7 +50374,7 @@
     "Name": "Mirzhanov, Arlan",
     "Fed": "KAZ",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "1916",
@@ -87765,21 +87765,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "447049944",
-    "Name": "Zhakiyanov, Galym",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1765",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "1976",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13710354",
     "Name": "Zhakiyanov, Galym",
     "Fed": "KAZ",
@@ -87792,6 +87777,21 @@
     "K": "20",
     "RatingMonth": "SEP25",
     "B-day": "2002",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "447049944",
+    "Name": "Zhakiyanov, Galym",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1765",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "1976",
     "Flag": "i"
   },
   {

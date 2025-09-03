@@ -5482,9 +5482,9 @@
     "Title": "CM",
     "WTit": "",
     "OTit": "",
-    "Rating": "AIM",
-    "Gms": "2099",
-    "K": "27",
+    "Rating": "2099",
+    "Gms": "27",
+    "K": "40",
     "RatingMonth": "SEP25",
     "B-day": "2012",
     "Flag": ""
@@ -27450,21 +27450,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "343413129",
-    "Name": "Martin, James",
-    "Fed": "ENG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1707",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP25",
-    "B-day": "1980",
-    "Flag": "i"
-  },
-  {
     "ID Number": "343434002",
     "Name": "Martin, James",
     "Fed": "ENG",
@@ -27477,6 +27462,21 @@
     "K": "20",
     "RatingMonth": "SEP25",
     "B-day": "1973",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "343413129",
+    "Name": "Martin, James",
+    "Fed": "ENG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1707",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP25",
+    "B-day": "1980",
     "Flag": "i"
   },
   {

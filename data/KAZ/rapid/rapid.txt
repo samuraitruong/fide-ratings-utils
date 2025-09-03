@@ -422,8 +422,8 @@ ID Number      Name                                                         Fed 
 13724819       Alipbek, Marat                                               KAZ M                                1588  0   20 2003      
 13725998       Alisher, Dias                                                KAZ M                                1502  0   40 2009  i   
 13796852       Aliuly, Abay                                                 KAZ M                                1514  0   40 2016      
-13792555       Aliyev, Ali                                                  KAZ M                                1466  0   40 2014  i   
 447008547      Aliyev, Ali                                                  KAZ M                                1562  0   40 2007      
+13792555       Aliyev, Ali                                                  KAZ M                                1466  0   40 2014  i   
 447095849      Aliyev, Nail                                                 KAZ M                                1706  0   40 1950      
 13750755       Alkesh, Adil                                                 KAZ M                                1769  0   20 2000  i   
 13758551       Alkhanov, Beybit                                             KAZ M                                1619  5   40 1962      
@@ -1686,8 +1686,8 @@ ID Number      Name                                                         Fed 
 447017198      Filippov, Rodion                                             KAZ M                                1498  8   40 2015      
 447008709      Filippova, Milana                                            KAZ F                                1831  0   40 2015  w   
 13767518       Finko, Yuliya                                                KAZ F                                1492  0   40 2009  wi  
-13729527       Fisenko, Evgeny                                              KAZ M                                1497  0   20 2000  i   
 13740946       Fisenko, Evgeny                                              KAZ M                                1646  0   20 1943  i   
+13729527       Fisenko, Evgeny                                              KAZ M                                1497  0   20 2000  i   
 13781596       Fishman, Sofiya                                              KAZ F                                1464  0   40 2008  wi  
 13791117       Flyaum, Mikhail                                              KAZ M                                1486  0   40 2013  i   
 447017201      Fokin, Artur                                                 KAZ M                                1420  0   40 2015      
@@ -2592,9 +2592,9 @@ ID Number      Name                                                         Fed 
 447095997      Kim, Ruslan                                                  KAZ M                                1908  0   40 1998      
 13719262       Kim, Teodor                                                  KAZ M                                1596  0   20 1949      
 13731904       Kim, Valeriy                                                 KAZ M                                1824  0   20 1955  i   
-13713892       Kim, Valeriy                                                 KAZ M                                1629  0   20 1948  i   
-13766279       Kim, Valeriy                                                 KAZ M                                1552  0   20 1989  i   
 13764519       Kim, Valeriy                                                 KAZ M                                1470  0   20 1943  i   
+13766279       Kim, Valeriy                                                 KAZ M                                1552  0   20 1989  i   
+13713892       Kim, Valeriy                                                 KAZ M                                1629  0   20 1948  i   
 13772678       Kim, Yelena                                                  KAZ F                                1414  0   40 2011  wi  
 13758314       Kimash, Yersultan                                            KAZ M                                1514  0   40 2007  i   
 13775367       Kimatov , Sultan                                             KAZ M                                1614  0   20 2004      
@@ -3282,8 +3282,8 @@ ID Number      Name                                                         Fed 
 447020113      Medetuly, Abdullah                                           KAZ M                                1423  0   40 2009      
 13777726       Medetuly, Nurdaulet                                          KAZ M                                1630  7   40 2010      
 447066059      Medeugaliev, Kurmanbai                                       KAZ M                                1496  6   40 1966      
-13709356       Medvedev, Aleksandr                                          KAZ M                                1693  0   40 0         
 447069635      Medvedev, Aleksandr                                          KAZ M                                1557  0   40 1972      
+13709356       Medvedev, Aleksandr                                          KAZ M                                1693  0   40 0         
 13703692       Medybayev, Daniyar                                           KAZ M                                2195  0   20 1988  i   
 13701606       Medybayev, Renat                                             KAZ M                                2084  0   20 1990  i   
 13772236       Megedinov, Idris                                             KAZ M                                1521  0   40 2005  i   
@@ -3357,7 +3357,7 @@ ID Number      Name                                                         Fed 
 447081457      Mironenko, Diana                                             KAZ F                                1471  0   40 2015  w   
 13747622       Miroshnikov, Ruslan                                          KAZ M                                1415  0   40 2006  i   
 13757920       Mirzagaliyev, Marat                                          KAZ M                                1663  0   20 1945  i   
-13792199       Mirzhanov, Arlan                                             KAZ M                                1916  0   40 2015      
+13792199       Mirzhanov, Arlan                                             KAZ M   CM                           1916  0   40 2015      
 13731084       Mizambayev, Bekbolat                                         KAZ M                                1741  7   40 1974      
 447080396      Mizanbay, Nurtas                                             KAZ M                                1516  0   40 2009      
 447002506      Mochalskiy, Dmitriy                                          KAZ M                                1504  0   40 1976  i   
@@ -5850,8 +5850,8 @@ ID Number      Name                                                         Fed 
 447063181      Zhakina, Marzhan                                             KAZ F                                1495  0   40 2009  w   
 447077077      Zhakisheva, Venera                                           KAZ F                                1576  0   40 2018  w   
 13768506       Zhakiya, Ansar                                               KAZ M                                1409  0   40 2010      
-447049944      Zhakiyanov, Galym                                            KAZ M                                1765  0   40 1976  i   
 13710354       Zhakiyanov, Galym                                            KAZ M                                1905  0   20 2002  i   
+447049944      Zhakiyanov, Galym                                            KAZ M                                1765  0   40 1976  i   
 447070099      Zhaksybai, Balausa                                           KAZ F                                1522  0   40 2013  w   
 13789287       Zhaksybay, Alden                                             KAZ M                                1407  0   40 2012  i   
 447070552      Zhaksybayev, Bekarys                                         KAZ M                                1671  0   40 1997      

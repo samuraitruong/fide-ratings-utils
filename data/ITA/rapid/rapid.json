@@ -8730,21 +8730,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "891614",
-    "Name": "Bacci, Andrea",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1712",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP25",
-    "B-day": "1974",
-    "Flag": "i"
-  },
-  {
     "ID Number": "28563077",
     "Name": "Bacci, Andrea",
     "Fed": "ITA",
@@ -8757,6 +8742,21 @@
     "K": "20",
     "RatingMonth": "SEP25",
     "B-day": "2000",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "891614",
+    "Name": "Bacci, Andrea",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1712",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP25",
+    "B-day": "1974",
     "Flag": "i"
   },
   {
@@ -32870,7 +32870,7 @@
     "Fed": "ITA",
     "Sex": "M",
     "Title": "",
-    "WTit": "",
+    "WTit": "DI",
     "OTit": "",
     "Rating": "1764",
     "Gms": "0",
@@ -66540,21 +66540,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "2883320",
-    "Name": "Esposito, Antonio",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1459",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2008",
-    "Flag": ""
-  },
-  {
     "ID Number": "23447710",
     "Name": "Esposito, Antonio",
     "Fed": "ITA",
@@ -66567,6 +66552,21 @@
     "K": "40",
     "RatingMonth": "SEP25",
     "B-day": "2011",
+    "Flag": ""
+  },
+  {
+    "ID Number": "2883320",
+    "Name": "Esposito, Antonio",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1459",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2008",
     "Flag": ""
   },
   {
@@ -66660,21 +66660,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "2880216",
-    "Name": "Esposito, Lorenzo",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1509",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2009",
-    "Flag": "i"
-  },
-  {
     "ID Number": "552008738",
     "Name": "Esposito, Lorenzo",
     "Fed": "ITA",
@@ -66688,6 +66673,21 @@
     "RatingMonth": "SEP25",
     "B-day": "2002",
     "Flag": ""
+  },
+  {
+    "ID Number": "2880216",
+    "Name": "Esposito, Lorenzo",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1509",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2009",
+    "Flag": "i"
   },
   {
     "ID Number": "805726",
@@ -70815,21 +70815,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "28567528",
-    "Name": "Ferraro, Giovanni",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1449",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2015",
-    "Flag": ""
-  },
-  {
     "ID Number": "28518322",
     "Name": "Ferraro, Giovanni",
     "Fed": "ITA",
@@ -70842,6 +70827,21 @@
     "K": "40",
     "RatingMonth": "SEP25",
     "B-day": "2012",
+    "Flag": ""
+  },
+  {
+    "ID Number": "28567528",
+    "Name": "Ferraro, Giovanni",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1449",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2015",
     "Flag": ""
   },
   {
@@ -106545,21 +106545,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "23469161",
-    "Name": "Mancuso, Marco",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1586",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2008",
-    "Flag": ""
-  },
-  {
     "ID Number": "28509080",
     "Name": "Mancuso, Marco",
     "Fed": "ITA",
@@ -106573,6 +106558,21 @@
     "RatingMonth": "SEP25",
     "B-day": "2006",
     "Flag": "i"
+  },
+  {
+    "ID Number": "23469161",
+    "Name": "Mancuso, Marco",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1586",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2008",
+    "Flag": ""
   },
   {
     "ID Number": "23468211",
@@ -111345,21 +111345,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "2858334",
-    "Name": "Martinelli, Alessandro",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1472",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2007",
-    "Flag": ""
-  },
-  {
     "ID Number": "23461780",
     "Name": "Martinelli, Alessandro",
     "Fed": "ITA",
@@ -111372,6 +111357,21 @@
     "K": "40",
     "RatingMonth": "SEP25",
     "B-day": "2014",
+    "Flag": ""
+  },
+  {
+    "ID Number": "2858334",
+    "Name": "Martinelli, Alessandro",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1472",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2007",
     "Flag": ""
   },
   {
@@ -118985,7 +118985,7 @@
     "Fed": "ITA",
     "Sex": "M",
     "Title": "",
-    "WTit": "",
+    "WTit": "FI",
     "OTit": "",
     "Rating": "1950",
     "Gms": "0",
@@ -137460,21 +137460,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "28514670",
-    "Name": "Pellegrino, Giovanni",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1616",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP25",
-    "B-day": "1987",
-    "Flag": "i"
-  },
-  {
     "ID Number": "23439807",
     "Name": "Pellegrino, Giovanni",
     "Fed": "ITA",
@@ -137488,6 +137473,21 @@
     "RatingMonth": "SEP25",
     "B-day": "2001",
     "Flag": ""
+  },
+  {
+    "ID Number": "28514670",
+    "Name": "Pellegrino, Giovanni",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1616",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP25",
+    "B-day": "1987",
+    "Flag": "i"
   },
   {
     "ID Number": "2860738",
@@ -143857,9 +143857,9 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1812",
-    "Gms": "0",
-    "K": "40",
+    "Rating": "AFM",
+    "Gms": "1812",
+    "K": "0",
     "RatingMonth": "SEP25",
     "B-day": "2008",
     "Flag": ""
@@ -182340,21 +182340,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "23429976",
-    "Name": "Ubaldi, Daniele",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1474",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "1978",
-    "Flag": "i"
-  },
-  {
     "ID Number": "2886257",
     "Name": "Ubaldi, Daniele",
     "Fed": "ITA",
@@ -182367,6 +182352,21 @@
     "K": "20",
     "RatingMonth": "SEP25",
     "B-day": "1991",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "23429976",
+    "Name": "Ubaldi, Daniele",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1474",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "1978",
     "Flag": "i"
   },
   {
@@ -183285,21 +183285,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "847003",
-    "Name": "Valente, Luca",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1933",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP25",
-    "B-day": "1974",
-    "Flag": "i"
-  },
-  {
     "ID Number": "2859756",
     "Name": "Valente, Luca",
     "Fed": "ITA",
@@ -183312,6 +183297,21 @@
     "K": "20",
     "RatingMonth": "SEP25",
     "B-day": "1984",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "847003",
+    "Name": "Valente, Luca",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1933",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP25",
+    "B-day": "1974",
     "Flag": "i"
   },
   {

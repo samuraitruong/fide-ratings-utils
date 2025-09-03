@@ -56,8 +56,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25864262,"Aktypis, Panagiotis",GRE,M,,,,1553,3,20,SEP25,1986,
 25829343,"Aleiferi, Aikaterini",GRE,F,,,,1504,0,20,SEP25,2005,w
 25829351,"Aleiferis, Ioannis",GRE,M,,,,1578,0,40,SEP25,2007,i
-541008650,"Aleiferis, Nikolaos",GRE,M,,,,1414,0,40,SEP25,2016,
 541008049,"Aleiferis, Nikolaos",GRE,M,,,,1426,0,40,SEP25,2016,
+541008650,"Aleiferis, Nikolaos",GRE,M,,,,1414,0,40,SEP25,2016,
 42177057,"Aleksandrov, Zhivodar",GRE,M,,,,1463,0,40,SEP25,2008,
 42138434,"Alepoudeas, Dimitrios",GRE,M,,,,1480,0,40,SEP25,2014,
 42145937,"Alepoudeas, Dimitrios S",GRE,M,,NA,,1517,0,40,SEP25,1976,
@@ -1378,7 +1378,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25820281,"Georgeles, Georgios",GRE,M,,,,1541,0,20,SEP25,2004,i
 4206487,"Georgiadis, Alexandros",GRE,M,,,,1984,0,20,SEP25,1977,i
 25852876,"Georgiadis, Alkaios",GRE,M,,,,1661,0,20,SEP25,1977,
-25870173,"Georgiadis, Anastasios",GRE,M,,,,2063,0,40,SEP25,2009,
+25870173,"Georgiadis, Anastasios",GRE,M,FM,,,2063,0,40,SEP25,2009,
 42109710,"Georgiadis, Angelos",GRE,M,,,,1425,0,40,SEP25,2006,i
 25831682,"Georgiadis, Athanasios Kat",GRE,M,,,,1806,0,40,SEP25,2007,i
 4277686,"Georgiadis, David",GRE,M,,NA,,1415,0,20,SEP25,2003,i
@@ -2103,7 +2103,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4221613,"Karamalis, Georgios",GRE,M,,,,1893,0,20,SEP25,1976,i
 42184827,"Karaman Lozos, Ilias",GRE,M,,,,1648,0,40,SEP25,1999,
 25895796,"Karamanolis, Orestis Pavlos",GRE,M,,,,1743,0,20,SEP25,1997,i
-25868993,"Karamichos, Michail",GRE,M,CM,,,AFM,1999,8,SEP25,2007,
+25868993,"Karamichos, Michail",GRE,M,CM,,,1999,8,40,SEP25,2007,
 25814419,"Karamitani, Angela",GRE,F,,,,1724,0,20,SEP25,1999,wi
 25814770,"Karamitanis, Lazaros",GRE,M,,,,1649,0,20,SEP25,2006,
 4292340,"Karamouzis, Nikolaos",GRE,M,,,,1677,0,20,SEP25,1963,i

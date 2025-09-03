@@ -22170,21 +22170,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "17023904",
-    "Name": "Kiss, Barnabas",
-    "Fed": "HUN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1434",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP25",
-    "B-day": "2001",
-    "Flag": "i"
-  },
-  {
     "ID Number": "17012651",
     "Name": "Kiss, Barnabas",
     "Fed": "HUN",
@@ -22197,6 +22182,21 @@
     "K": "20",
     "RatingMonth": "SEP25",
     "B-day": "1997",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "17023904",
+    "Name": "Kiss, Barnabas",
+    "Fed": "HUN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1434",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP25",
+    "B-day": "2001",
     "Flag": "i"
   },
   {
@@ -24945,19 +24945,19 @@
     "Flag": "i"
   },
   {
-    "ID Number": "17032679",
+    "ID Number": "773166",
     "Name": "Kovacs, Peter",
     "Fed": "HUN",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1796",
+    "Rating": "1602",
     "Gms": "0",
-    "K": "40",
+    "K": "20",
     "RatingMonth": "SEP25",
-    "B-day": "1972",
-    "Flag": ""
+    "B-day": "1985",
+    "Flag": "i"
   },
   {
     "ID Number": "783439",
@@ -24975,19 +24975,19 @@
     "Flag": "i"
   },
   {
-    "ID Number": "773166",
+    "ID Number": "17032679",
     "Name": "Kovacs, Peter",
     "Fed": "HUN",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1602",
+    "Rating": "1796",
     "Gms": "0",
-    "K": "20",
+    "K": "40",
     "RatingMonth": "SEP25",
-    "B-day": "1985",
-    "Flag": "i"
+    "B-day": "1972",
+    "Flag": ""
   },
   {
     "ID Number": "17034280",
