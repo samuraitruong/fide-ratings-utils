@@ -23,7 +23,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 124280468,"Aghazada, Mirnamig",FID,M,,,,1638,0,40,OCT25,2012,i
 11203692,"Aguilar, Cormel",FID,M,,,,1727,0,20,OCT25,1984,i
 301105014,"Ahmad, Hasan Ali",FID,M,,,,1580,0,40,OCT25,0,
-55897819,"Aimerich-Sazonova, Aleksandra",FID,F,,,,1635,8,40,OCT25,2016,w
 540025624,"Akatyshev, Alexander",FID,M,,,,1470,0,40,OCT25,2018,
 34368973,"Akhmetzyanov, Demid",FID,M,,,,1989,0,40,OCT25,2008,
 55765211,"Aksakova, Lana",FID,F,,,,1415,6,40,OCT25,2014,w
@@ -89,6 +88,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24250473,"Averin, Nikolay",FID,M,FM,,,2343,0,10,OCT25,2010,
 522032312,"Averkin, Amvrosiy",FID,M,,,,1459,5,40,OCT25,2017,
 522075100,"Averkin, Mark",FID,M,,,,1459,0,40,OCT25,2012,
+55897819,"Aymerich Sazonova, Alexandra",FID,F,,,,1635,8,40,OCT25,2016,w
 13501470,"Azarov, Sergei",FID,M,GM,,,2559,0,10,OCT25,1983,i
 34164569,"Babakekhyan, Artem",FID,M,,,,2124,0,20,OCT25,2004,
 24117412,"Babanov, Aleksandr",FID,M,,,,1706,0,20,OCT25,1960,
@@ -385,7 +385,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34401687,"Gulishyan, Eseniya",FID,F,,,,1628,11,40,OCT25,2012,w
 150108060,"Gulvady, Aman",FID,M,,,,1425,0,40,OCT25,2011,i
 4167570,"Gunina, Valentina",FID,F,GM,WGM,,2340,0,10,OCT25,1989,w
-331059629,"Guo, Xingyuan",FID,M,,,,ACM,1536,0,OCT25,1995,i
+331059629,"Guo, Xingyuan",FID,M,,,,AFM,1536,0,OCT25,1995,i
 54176336,"Gurgenidze, Aleksandra",FID,F,,,,1775,0,40,OCT25,2007,w
 4196767,"Gurov, Dmitri",FID,M,,,,1878,0,20,OCT25,1982,i
 54190193,"Gusev, Kirill",FID,M,,,,2004,0,40,OCT25,2009,

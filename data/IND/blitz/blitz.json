@@ -8505,21 +8505,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "33476675",
-    "Name": "Aditya Gupta",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1446",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT25",
-    "B-day": "2014",
-    "Flag": ""
-  },
-  {
     "ID Number": "429071518",
     "Name": "Aditya Gupta",
     "Fed": "IND",
@@ -8532,6 +8517,21 @@
     "K": "20",
     "RatingMonth": "OCT25",
     "B-day": "2005",
+    "Flag": ""
+  },
+  {
+    "ID Number": "33476675",
+    "Name": "Aditya Gupta",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1446",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT25",
+    "B-day": "2014",
     "Flag": ""
   },
   {
@@ -74656,7 +74656,7 @@
   },
   {
     "ID Number": "5002168",
-    "Name": "Jha, Kausal Kumar",
+    "Name": "Jha, Kaushal Kumar",
     "Fed": "IND",
     "Sex": "M",
     "Title": "",
@@ -129487,9 +129487,9 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1807",
-    "Gms": "0",
-    "K": "20",
+    "Rating": "AIM",
+    "Gms": "1807",
+    "K": "0",
     "RatingMonth": "OCT25",
     "B-day": "1990",
     "Flag": "i"

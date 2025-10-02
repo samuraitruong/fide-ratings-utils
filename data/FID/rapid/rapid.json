@@ -360,21 +360,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55897819",
-    "Name": "Aimerich-Sazonova, Aleksandra",
-    "Fed": "FID",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1635",
-    "Gms": "8",
-    "K": "40",
-    "RatingMonth": "OCT25",
-    "B-day": "2016",
-    "Flag": "w"
-  },
-  {
     "ID Number": "540025624",
     "Name": "Akatyshev, Alexander",
     "Fed": "FID",
@@ -1348,6 +1333,21 @@
     "RatingMonth": "OCT25",
     "B-day": "2012",
     "Flag": ""
+  },
+  {
+    "ID Number": "55897819",
+    "Name": "Aymerich Sazonova, Alexandra",
+    "Fed": "FID",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1635",
+    "Gms": "8",
+    "K": "40",
+    "RatingMonth": "OCT25",
+    "B-day": "2016",
+    "Flag": "w"
   },
   {
     "ID Number": "13501470",
@@ -5797,7 +5797,7 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "ACM",
+    "Rating": "AFM",
     "Gms": "1536",
     "K": "0",
     "RatingMonth": "OCT25",

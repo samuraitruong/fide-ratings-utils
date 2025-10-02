@@ -14014,7 +14014,7 @@
     "Name": "Golubovic, Erik",
     "Fed": "CRO",
     "Sex": "M",
-    "Title": "CM",
+    "Title": "FM",
     "WTit": "",
     "OTit": "",
     "Rating": "2204",
@@ -35029,7 +35029,7 @@
     "Name": "Nemec, Vjekoslav",
     "Fed": "CRO",
     "Sex": "M",
-    "Title": "CM",
+    "Title": "FM",
     "WTit": "",
     "OTit": "",
     "Rating": "2421",
@@ -48735,21 +48735,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "79325866",
-    "Name": "Stefanac, Luka",
-    "Fed": "CRO",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1550",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT25",
-    "B-day": "1998",
-    "Flag": ""
-  },
-  {
     "ID Number": "14565765",
     "Name": "Stefanac, Luka",
     "Fed": "CRO",
@@ -48763,6 +48748,21 @@
     "RatingMonth": "OCT25",
     "B-day": "2008",
     "Flag": "i"
+  },
+  {
+    "ID Number": "79325866",
+    "Name": "Stefanac, Luka",
+    "Fed": "CRO",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1550",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT25",
+    "B-day": "1998",
+    "Flag": ""
   },
   {
     "ID Number": "14569469",

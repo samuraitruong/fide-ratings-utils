@@ -285,21 +285,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55897819",
-    "Name": "Aimerich-Sazonova, Aleksandra",
-    "Fed": "FID",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1485",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT25",
-    "B-day": "2016",
-    "Flag": "w"
-  },
-  {
     "ID Number": "44592507",
     "Name": "Akeel, Mohamad Wael",
     "Fed": "FID",
@@ -1093,6 +1078,21 @@
     "RatingMonth": "OCT25",
     "B-day": "1971",
     "Flag": ""
+  },
+  {
+    "ID Number": "55897819",
+    "Name": "Aymerich Sazonova, Alexandra",
+    "Fed": "FID",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1485",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT25",
+    "B-day": "2016",
+    "Flag": "w"
   },
   {
     "ID Number": "13501470",
@@ -5407,7 +5407,7 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "ACM",
+    "Rating": "AFM",
     "Gms": "1416",
     "K": "0",
     "RatingMonth": "OCT25",
