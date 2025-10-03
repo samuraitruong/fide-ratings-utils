@@ -157579,8 +157579,8 @@
     "Name": "Haug, Mara",
     "Fed": "GER",
     "Sex": "F",
-    "Title": "",
-    "WTit": "",
+    "Title": "WFM",
+    "WTit": "WFM",
     "OTit": "",
     "Rating": "2108",
     "Gms": "8",
@@ -399225,21 +399225,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "4693043",
-    "Name": "Schmidt, Matthias",
-    "Fed": "GER",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1996",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT25",
-    "B-day": "1962",
-    "Flag": ""
-  },
-  {
     "ID Number": "16231244",
     "Name": "Schmidt, Matthias",
     "Fed": "GER",
@@ -399253,6 +399238,21 @@
     "RatingMonth": "OCT25",
     "B-day": "1970",
     "Flag": "i"
+  },
+  {
+    "ID Number": "4693043",
+    "Name": "Schmidt, Matthias",
+    "Fed": "GER",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1996",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT25",
+    "B-day": "1962",
+    "Flag": ""
   },
   {
     "ID Number": "12931888",
@@ -468247,9 +468247,9 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1702",
-    "Gms": "11",
-    "K": "40",
+    "Rating": "AFM",
+    "Gms": "1702",
+    "K": "11",
     "RatingMonth": "OCT25",
     "B-day": "2011",
     "Flag": ""

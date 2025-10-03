@@ -27840,21 +27840,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "51686856",
-    "Name": "Gokalp, Enes",
-    "Fed": "TUR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1686",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT25",
-    "B-day": "2000",
-    "Flag": "i"
-  },
-  {
     "ID Number": "26392259",
     "Name": "Gokalp, Enes",
     "Fed": "TUR",
@@ -27867,6 +27852,21 @@
     "K": "40",
     "RatingMonth": "OCT25",
     "B-day": "2008",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "51686856",
+    "Name": "Gokalp, Enes",
+    "Fed": "TUR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1686",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT25",
+    "B-day": "2000",
     "Flag": "i"
   },
   {
@@ -49024,7 +49024,7 @@
     "Name": "Ozkan, Kaan",
     "Fed": "TUR",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "1776",
