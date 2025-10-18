@@ -33,16 +33,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14803690,"Chiloveque, Barth",MOZ,M,,,,1551,3,40,OCT25,1994,
 14807327,"Chineme, Victor Jorge",MOZ,M,,,,1653,0,40,OCT25,1999,i
 14801213,"Chirindza, Elvito Orlando",MOZ,M,,,,1747,1,40,OCT25,1994,
+14800764,"Chirindza, Rafael Bernardo",MOZ,M,,,,1868,6,20,OCT25,1996,
 14809486,"Chissale, Estevao Mavuto Severiano",MOZ,M,,,,1653,5,40,OCT25,2002,
 14801574,"Chitlhango, Idelmiro Salomao",MOZ,M,,,,1767,0,40,OCT25,1992,i
 14803194,"Chizoma, Bernabe Afonso",MOZ,M,,,,1658,0,40,OCT25,1993,i
 14806550,"Chongue, Egidio Da Isabel",MOZ,M,,,,1719,0,40,OCT25,2000,i
 14800276,"Chunguane, Ilidio Alberto",MOZ,M,CM,,,1934,7,20,OCT25,1976,
 14801485,"Como, Carlos Augusto",MOZ,M,,,,1707,0,40,OCT25,1998,i
-14803607,"Cossa Cossa, Remigio Enoque",MOZ,M,,,,1752,2,40,OCT25,2006,
 14800071,"Cossa, Pedro Ventura",MOZ,M,,,,1965,0,20,OCT25,1984,i
+14803607,"Cossa, Remigio Enoque",MOZ,M,,,,1752,2,40,OCT25,2006,
 14807017,"Cuembeia, Breti",MOZ,M,,,,1793,0,40,OCT25,1998,i
-14802228,Cumbane. Augusto Elidio,MOZ,M,,,,AFM,1726,0,OCT25,2001,
+14802228,Cumbane. Augusto Elidio,MOZ,M,,,,1726,0,,OCT25,2001,
 14807670,"Cumbe, Elias Elves Bernardo",MOZ,M,,,,1714,6,40,OCT25,1996,
 14800454,Curia Joana,MOZ,F,,,,1695,0,40,OCT25,1999,wi
 14801981,"Da Graca, Maria Joaquina",MOZ,F,,,,1640,0,40,OCT25,1994,w
@@ -53,9 +54,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14800659,"Efentakis, Katina",MOZ,F,,,,1598,4,20,OCT25,2002,w
 14801639,Emanuel de Marques Mondlane Mavale Malua,MOZ,M,,,,1851,5,40,OCT25,2005,
 14800845,Emilton Alexandre,MOZ,M,,,,1787,0,40,OCT25,1997,i
-14803631,Esperanca Patricio Madzima,MOZ,F,,,,1528,4,40,OCT25,1999,w
+14803631,Esperanca Patricio Madzima,MOZ,F,,,,1529,4,40,OCT25,1999,w
 14800292,"Farnela, Nuzela Zacarias Musindo",MOZ,F,WCM,WCM,,1664,1,20,OCT25,1998,w
-14806746,"Fernandes, Miguel Eduardo Taibo",MOZ,M,,,,1704,0,40,OCT25,2010,
+14806746,"Fernandes, Miguel Eduardo Taibo",MOZ,M,,,,1705,0,40,OCT25,2010,
 14802775,"Fernando, Viandro Abel",MOZ,M,,,,1753,0,40,OCT25,1995,i
 14800497,Foliche Armindo,MOZ,M,,,,1722,0,40,OCT25,1989,i
 14800500,"Gafar, Izdine",MOZ,M,,,,1930,0,20,OCT25,1993,i
@@ -63,7 +64,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14806339,"Guambe, Joao Rubene",MOZ,M,,,,1852,8,40,OCT25,2004,
 14800837,"Guiamba, Ateneia Adriano Moises Da Conceicao",MOZ,F,,,,1554,0,40,OCT25,2001,wi
 14802244,"Gulele, Obadias Cardoso",MOZ,M,,,,1742,1,40,OCT25,1990,
-14800373,Hayssan Abdul Arnaldo Afu,MOZ,M,,,,1543,0,40,OCT25,2005,
+14800373,Hayssan Abdul Arnaldo Afu,MOZ,M,,,,1538,0,40,OCT25,2005,
 14801019,Hedrice Mario Sande,MOZ,M,,,,1771,0,40,OCT25,2002,i
 14806711,Herminigildo Albazino Bento Junior,MOZ,M,,,,1549,0,40,OCT25,2005,
 14804123,"Herminio, Jonnson Carlos",MOZ,M,,,,1616,0,40,OCT25,1992,
@@ -93,7 +94,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14800152,"Mahota, Josefa Mendes Lucas",MOZ,F,,,,1710,0,40,OCT25,1995,wi
 14803313,"Maia, Harry",MOZ,M,,,,1800,0,40,OCT25,2005,i
 14800136,"Maia, Mariano Tesoura De",MOZ,M,,,,1967,0,20,OCT25,1983,i
-14800209,"Malenda, Ana",MOZ,F,,,,1561,3,20,OCT25,1987,w
+14800209,"Malenda, Ana",MOZ,F,,,,1562,3,20,OCT25,1987,w
 14800519,Manane Jose,MOZ,M,,,,1868,0,40,OCT25,1988,i
 14806258,"Manganhe, Edson Artur Feliciano",MOZ,M,,,,1714,0,40,OCT25,2000,i
 14809974,"Mangue, Hermenegildo Gomes Armando",MOZ,M,,,,1553,6,40,OCT25,1993,
@@ -125,27 +126,26 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14805529,"Paulino Junior, Augusto Raul",MOZ,M,,,,1965,0,40,OCT25,2003,i
 14803518,"Ponyoka, Albert",MOZ,M,,,,1724,0,40,OCT25,1982,i
 14805316,"Posso, Bruno Eduardo",MOZ,M,,,,1689,0,40,OCT25,1996,
-14801345,"Poyiatzis,Alexandros Michali Ribeiro e Silva",MOZ,M,,,,AFM,1663,0,OCT25,1997,i
+14801345,"Poyiatzis,Alexandros Michali Ribeiro e Silva",MOZ,M,,,,1663,0,,OCT25,1997,i
 14803801,"Quimisse, Mario Guilherme",MOZ,M,,,,1662,0,40,OCT25,1988,i
-14800764,Rafael Chirinza,MOZ,M,,,,1868,6,20,OCT25,1996,
 14806509,"Rambique, Nilton Paulo",MOZ,M,,,,1750,7,40,OCT25,2004,
 14801914,"Salela, Cesar",MOZ,M,,,,1675,5,40,OCT25,1981,
 14800284,"Sande, Avertino",MOZ,M,,,,1924,0,20,OCT25,1994,i
-14802171,"Sandramo, Chineva Rufino",MOZ,F,WCM,WCM,,1559,0,40,OCT25,2007,w
+14802171,"Sandramo, Chineva Rufino",MOZ,F,WCM,WCM,,1558,0,40,OCT25,2007,w
 14803240,"Sarajabo, Jojo Abdul",MOZ,M,,,,1715,0,40,OCT25,2003,i
 14800101,"Silva, Jesse Mitchel",MOZ,F,,,,1721,0,40,OCT25,1998,wi
-14807289,"Simbinde, Millert Verdial Arao",MOZ,M,,,,1569,8,40,OCT25,2008,
+14807289,"Simbinde, Millert Verdial Arao",MOZ,M,,,,1570,8,40,OCT25,2008,
 14800780,"Sitoe, Cheila Andre",MOZ,F,WCM,WCM,,1672,0,20,OCT25,1999,w
 14800470,"Sitoe, Sheila Judite Jacinto",MOZ,F,,,,1581,3,20,OCT25,1996,w
 14800675,"Tchabana, Alice Eliseu",MOZ,F,,,,1555,0,40,OCT25,2000,wi
 14804310,"Tembe, Alberto Lourenco",MOZ,M,,,,1623,0,40,OCT25,2002,i
 14800187,"Tivane, Graca Da Felecidade Kuma",MOZ,F,,,,1683,0,40,OCT25,1994,wi
-14807491,"Tivane, Violet Lebo",MOZ,F,,,,1454,0,40,OCT25,2007,w
+14807491,"Tivane, Violet Lebo",MOZ,F,,,,1455,0,40,OCT25,2007,w
 14804662,"Uamusse, Alfeu Filimao",MOZ,M,,,,1723,0,40,OCT25,1991,i
 14805839,"Uamusse, Stelio Henriques",MOZ,M,,,,1834,0,40,OCT25,1994,
 14800403,Vasco Mateus Felizardo Viageiro,MOZ,M,,,,1950,0,20,OCT25,2003,
 14803704,"Victorino Mafuca, Amelia Carlos",MOZ,F,,,,1465,4,40,OCT25,2002,w
-14800144,"Vilhete, Vania Fausto Da T.",MOZ,F,WIM,WIM,,1843,0,20,OCT25,1985,w
+14800144,"Vilhete, Vania Fausto Da T.",MOZ,F,WIM,WIM,,1844,0,20,OCT25,1985,w
 14801817,"Viola, Napoleao D Henriques",MOZ,M,,,,1692,0,40,OCT25,1987,i
 14801523,"Zavala, Fernando",MOZ,M,,,,1710,3,40,OCT25,1995,
 14802902,"Zimba, Domingos Fabiao",MOZ,M,,,,1551,4,40,OCT25,1966,

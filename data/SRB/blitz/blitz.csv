@@ -55,7 +55,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 946842,"Andric, Igor",SRB,M,,,,1942,0,20,OCT25,1995,i
 9250101,"Andric, Jovan",SRB,M,,,,1455,0,40,OCT25,2011,
 9210673,"Andric, Luka",SRB,M,,,,1707,0,20,OCT25,2000,i
-9211025,"Andric, Nikola",SRB,M,,,,AFM,1914,0,OCT25,2007,i
+9211025,"Andric, Nikola",SRB,M,,,,1914,0,,OCT25,2007,i
 9210630,"Andric, Pavle",SRB,M,,,,1892,0,20,OCT25,2002,
 941719,"Andric, Vladimir",SRB,M,,,,1943,13,20,OCT25,1979,
 9256029,"Andrijasevic, Vuk",SRB,M,,,,1562,0,20,OCT25,1985,
@@ -66,7 +66,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 936995,"Antic, Dragan",SRB,M,,,,2090,0,20,OCT25,1966,i
 9206080,"Antic, Jovica",SRB,M,,,,1812,0,20,OCT25,1989,i
 9221802,"Antic, Luka",SRB,M,,,,1608,0,20,OCT25,1999,i
-9241153,"Antic, Maksimilian",SRB,M,,,,ACM,1527,0,OCT25,2013,
+9241153,"Antic, Maksimilian",SRB,M,,,,1527,0,,OCT25,2013,
 949370,"Antic, Mile",SRB,M,,,,1660,9,20,OCT25,1966,
 944149,"Antic, Nenad",SRB,M,,,,1996,0,20,OCT25,1989,i
 9218623,"Antonic, Isidora",SRB,F,,,,1590,0,40,OCT25,2010,w
@@ -77,10 +77,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9226758,"Arar, Danilo",SRB,M,,,,1537,0,40,OCT25,2009,i
 916234,"Ardeljan, Jon",SRB,M,,,,1985,0,20,OCT25,1955,
 9208504,"Armus, Ognjen",SRB,M,,,,1705,0,20,OCT25,2003,i
-9238330,"Arnaut, Mina",SRB,F,,,,1553,8,40,OCT25,2014,w
+9238330,"Arnaut, Mina",SRB,F,,,,1551,8,40,OCT25,2014,w
 9212650,"Arsenijevic, Dusan",SRB,M,,,,1651,0,20,OCT25,2000,
 944157,"Arsenijevic, Ivan",SRB,M,,,,2009,0,20,OCT25,1987,
-9219077,"Arsenijevic, Matija",SRB,M,,,,1787,11,40,OCT25,2016,
+9219077,"Arsenijevic, Matija",SRB,M,,,,1788,11,40,OCT25,2016,
 9208806,"Arsenijevic, Spasa",SRB,M,,,,1792,0,20,OCT25,1962,i
 905488,"Arsenovic, Arsen",SRB,M,,,,1906,0,20,OCT25,1955,i
 940909,"Arsenovic, Zlatko",SRB,M,,,,2040,0,20,OCT25,1959,
@@ -211,7 +211,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9217686,"Bilic, Jovan",SRB,M,,,,2061,25,40,OCT25,2015,
 960063,"Bilic, Marijana",SRB,F,,,,1950,0,20,OCT25,2004,wi
 9250853,"Bilic, Marijana Dj",SRB,F,,,,1494,0,40,OCT25,2018,w
-9217694,"Bilic, Mihajlo",SRB,M,,,,1852,25,40,OCT25,2015,
+9217694,"Bilic, Mihajlo",SRB,M,,,,1853,25,40,OCT25,2015,
 966843,"Bilic, Milanko",SRB,M,,,,2049,0,20,OCT25,2001,
 920819,"Biljanic, Ljubomir",SRB,M,FM,,,2179,0,20,OCT25,1964,
 908541,"Biocanin, Goran",SRB,M,FM,FI,,2155,0,20,OCT25,1970,
@@ -231,12 +231,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 909157,"Blagojevic, Nebojsa",SRB,M,,,,2056,0,20,OCT25,1955,
 949590,"Blagojevic, Nikola",SRB,M,,NA,,1872,0,20,OCT25,1996,
 925047,"Blagojevic, Srdjan",SRB,M,,,,2055,0,20,OCT25,1975,
-9219638,"Blanusa, Vukan",SRB,M,,,,1599,9,40,OCT25,2014,
+9219638,"Blanusa, Vukan",SRB,M,,,,1600,9,40,OCT25,2014,
 9208091,"Blesic, Luka",SRB,M,,,,1722,0,20,OCT25,2003,i
 9221977,"Blesic, Tadija",SRB,M,,,,1495,0,40,OCT25,2010,i
 930733,"Blesic, Vaso",SRB,M,IM,,,2377,0,10,OCT25,1983,i
-9209772,"Bobisuth, Antonije",SRB,M,,,,1731,0,40,OCT25,2009,
-9216930,"Bobisuth, Leonard",SRB,M,,,,1745,13,20,OCT25,1962,
+9209772,"Bobisuth, Antonije",SRB,M,,,,1732,0,40,OCT25,2009,
+9216930,"Bobisuth, Leonard",SRB,M,,,,1746,13,20,OCT25,1962,
 934984,"Bobusic, Milan",SRB,M,,,,1821,0,20,OCT25,1949,
 915700,"Bodiroga, Predrag",SRB,M,IM,,,2225,0,20,OCT25,1969,
 9228572,"Bogdanic, Vuk D",SRB,M,,,,1667,11,40,OCT25,2008,
@@ -294,7 +294,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9210800,"Brajic, Boris",SRB,M,,,,1528,0,40,OCT25,2014,
 923109,"Brajic, Djordje",SRB,M,FM,,,2142,0,20,OCT25,1965,i
 922358,"Brajic, Miloje",SRB,M,FM,,,2160,0,20,OCT25,1978,
-9225182,"Brajovic, Milos",SRB,M,,,,AIM,1958,22,OCT25,1998,
+9225182,"Brajovic, Milos",SRB,M,,,,1958,22,,OCT25,1998,
 9232790,"Brakovic, Vuk",SRB,M,,,,1530,0,40,OCT25,2010,i
 987921,"Brancic, Dusan",SRB,M,,,,1821,0,20,OCT25,2002,i
 2900866,"Brankov, Krasimir",SRB,M,FM,,,2300,0,20,OCT25,1970,i
@@ -344,7 +344,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 973726,"Buntic, Ljubomir",SRB,M,,,,1862,12,20,OCT25,1956,
 928550,"Bura, Goran",SRB,M,,,,2072,0,20,OCT25,1968,
 923966,"Bura, Radovan",SRB,M,,,,2117,0,20,OCT25,1960,
-9241501,"Burgic, Andrej",SRB,M,,,,1651,0,40,OCT25,2015,
+9241501,"Burgic, Andrej",SRB,M,,,,1641,0,40,OCT25,2015,
 985040,"Burtanovic, Nikola",SRB,M,,,,1717,0,20,OCT25,1999,i
 957291,"Buzdumovic, Jevrem",SRB,M,,,,1968,0,20,OCT25,1985,i
 916420,"Cabarkapa, Mijomir",SRB,M,FM,,,2079,0,20,OCT25,1957,i
@@ -409,8 +409,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9201461,"Ciric, Mateja",SRB,M,,,,1632,0,20,OCT25,2003,i
 974641,"Ciric, Pavle",SRB,M,FM,,,2118,0,40,OCT25,2007,
 9234319,"Ciric, Rastko",SRB,M,,,,1504,8,40,OCT25,2010,
-984760,"Ciric, Sava",SRB,M,,,,ACM,1757,0,OCT25,2010,i
-9237199,"Cirkovic, Mateja",SRB,M,,,,AFM,1840,0,OCT25,2009,
+984760,"Ciric, Sava",SRB,M,,,,1757,0,,OCT25,2010,i
+9237199,"Cirkovic, Mateja",SRB,M,,,,1840,0,,OCT25,2009,
 9230372,"Cirkovic, Nenad V",SRB,M,,,,1615,0,20,OCT25,1999,i
 992917,"Cirkovic, Vuk",SRB,M,,,,1779,0,40,OCT25,2011,
 986860,"Cirovic, Branislav",SRB,M,,,,1780,11,20,OCT25,1991,
@@ -424,7 +424,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 958417,"Cmiljanic, Milan",SRB,M,,,,1839,0,20,OCT25,1952,i
 977357,"Cmiljanic, Mladjen",SRB,M,,,,1673,0,20,OCT25,1959,i
 976288,"Cmiljanic, Slobodan",SRB,M,,,,1831,0,20,OCT25,1956,i
-9246228,"Cobanovic, Nenad",SRB,M,,,,1657,11,40,OCT25,2016,
+9246228,"Cobanovic, Nenad",SRB,M,,,,1656,11,40,OCT25,2016,
 9219999,"Cobeljic, Stefan",SRB,M,,,,1579,0,20,OCT25,2002,i
 908819,"Cobic, Vladimir",SRB,M,FM,,,2087,0,20,OCT25,1968,
 9234114,"Coccia, Francesko",SRB,M,,,,1633,0,20,OCT25,2000,i
@@ -473,7 +473,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9213214,"Cvejin, Vuk",SRB,M,,,,1749,0,40,OCT25,2013,i
 932582,"Cvetanovic, Aleksandar",SRB,M,,,,2036,0,20,OCT25,1969,
 953776,"Cvetanovic, Damjan",SRB,M,,,,2034,0,20,OCT25,1999,i
-9250578,"Cvetanovic, Matej",SRB,M,,,,1719,0,40,OCT25,2011,
+9250578,"Cvetanovic, Matej",SRB,M,,,,1718,0,40,OCT25,2011,
 953210,"Cvetanovic, Nebojsa",SRB,M,,,,1661,0,20,OCT25,1965,
 953229,"Cvetanovic, Nikola",SRB,M,,,,1768,0,20,OCT25,1987,
 900672,"Cvetanovic, Uros",SRB,M,CM,,,2299,0,10,OCT25,1995,
@@ -583,7 +583,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 943720,"Djanic, Ivan",SRB,M,,,,1840,0,20,OCT25,1955,
 967319,"Djekic, Mirko",SRB,M,,,,1851,0,20,OCT25,1978,i
 968102,"Djelic, Jovan",SRB,M,,,,1689,0,20,OCT25,2006,
-986151,"Djenic, Teodor",SRB,M,,,,ACM,1870,0,OCT25,1985,i
+986151,"Djenic, Teodor",SRB,M,,,,1870,0,,OCT25,1985,i
 906603,"Djerfi, Karolj",SRB,M,FM,,,2098,13,20,OCT25,1956,
 9224917,"Djerman, Uros",SRB,M,,,,1706,0,20,OCT25,2000,i
 9206145,"Djermanovic, Dragan",SRB,M,,,,1674,0,20,OCT25,1958,
@@ -620,7 +620,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9252864,"Djordjevic, Dragan A",SRB,M,,,,1582,0,20,OCT25,1963,
 9225018,"Djordjevic, Dragan B",SRB,M,,,,1854,0,20,OCT25,1979,
 9200198,"Djordjevic, Dragan M",SRB,M,,,,1633,0,20,OCT25,1971,
-9204355,"Djordjevic, Dragan T",SRB,M,,,,1697,0,20,OCT25,1970,
+9204355,"Djordjevic, Dragan T",SRB,M,,,,1698,0,20,OCT25,1970,
 902080,"Djordjevic, Lazar",SRB,M,,,,1940,0,20,OCT25,1998,
 964050,"Djordjevic, Luka",SRB,M,,,,1746,0,20,OCT25,2001,i
 9209314,"Djordjevic, Maja",SRB,F,,,,1464,0,40,OCT25,2010,wi
@@ -629,7 +629,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 914240,"Djordjevic, Nebojsa",SRB,M,FM,,,2354,0,20,OCT25,1963,i
 9217201,"Djordjevic, Nemanja",SRB,M,,,,1587,0,20,OCT25,2005,i
 9207311,"Djordjevic, Nenad Z",SRB,M,,,,1774,0,20,OCT25,1995,i
-954918,"Djordjevic, Nevena",SRB,F,,NA,,1715,0,20,OCT25,2004,w
+954918,"Djordjevic, Nevena",SRB,F,,NA,,1714,0,20,OCT25,2004,w
 964590,"Djordjevic, Nikola",SRB,M,,,,1692,9,20,OCT25,2002,
 988189,"Djordjevic, Nikola A",SRB,M,,,,1720,0,20,OCT25,1994,i
 9209365,"Djordjevic, Nikola D",SRB,M,,,,1814,0,20,OCT25,1997,i
@@ -661,18 +661,18 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 922226,"Djurasevic, Branislav",SRB,M,,,,1940,0,20,OCT25,1957,
 903043,"Djurdjevic, Dejan",SRB,M,,,,1854,0,20,OCT25,1968,
 9216230,"Djurdjevic, Ivan Z",SRB,M,,,,1709,0,20,OCT25,2004,i
-9252163,"Djurdjevic, Teodor",SRB,M,,,,1557,11,40,OCT25,2012,
+9252163,"Djurdjevic, Teodor",SRB,M,,,,1558,11,40,OCT25,2012,
 952605,"Djurdjevic, Zoran",SRB,M,,,,1789,0,20,OCT25,1955,
 904449,"Djuretanovic, Ivan",SRB,M,,,,1936,0,20,OCT25,1949,i
-978990,"Djuric Katanovic, Zoran",SRB,M,,,,AFM,1893,0,OCT25,1967,i
+978990,"Djuric Katanovic, Zoran",SRB,M,,,,1893,0,,OCT25,1967,i
 9226006,"Djuric, Aleksandar S",SRB,M,,,,1546,0,20,OCT25,2005,i
-9235854,"Djuric, Andrej",SRB,M,,,,1603,0,40,OCT25,2015,
+9235854,"Djuric, Andrej",SRB,M,,,,1602,0,40,OCT25,2015,
 9249910,"Djuric, Bogoljub",SRB,M,,,,1821,0,20,OCT25,1957,
 991333,"Djuric, Djurica",SRB,M,,,,1862,0,20,OCT25,1961,
 953547,"Djuric, Dragoljub",SRB,M,,,,1939,0,20,OCT25,1963,i
 941530,"Djuric, Goran",SRB,M,,,,1914,0,20,OCT25,1975,
 959952,"Djuric, Goran J",SRB,M,,,,1812,0,20,OCT25,1964,i
-9239620,"Djuric, Lazar D",SRB,M,,,,ACM,1561,19,OCT25,2011,
+9239620,"Djuric, Lazar D",SRB,M,,,,1561,19,,OCT25,2011,
 902489,"Djuric, Miroslav",SRB,M,,,,1756,0,20,OCT25,1945,i
 959294,"Djuric, Predrag",SRB,M,,,,1945,0,20,OCT25,1962,i
 9257408,"Djuric, Raco",SRB,M,,,,1537,0,20,OCT25,1956,
@@ -687,7 +687,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9203197,"Djuric, Zeljko",SRB,M,,,,1808,0,20,OCT25,1970,i
 914436,"Djuric, Zoran",SRB,M,,,,2210,0,10,OCT25,1973,
 947300,"Djurica, Milorad",SRB,M,,,,1896,0,20,OCT25,1955,
-9205513,"Djuricic, Ema",SRB,F,,,,1557,0,40,OCT25,2009,w
+9205513,"Djuricic, Ema",SRB,F,,NA,,1557,0,40,OCT25,2009,w
 966703,"Djurin, Cedomir",SRB,M,,,,1705,0,20,OCT25,2004,i
 918121,"Djurnic, Strahinja",SRB,M,,,,2039,0,20,OCT25,1994,i
 954845,"Djurosev, Djordje",SRB,M,,,,1693,0,20,OCT25,1935,i
@@ -746,7 +746,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9209888,"Dramicanin, Dejan",SRB,M,,,,1889,0,20,OCT25,1976,
 9225271,"Dramicanin, Milutin",SRB,M,,,,1599,0,20,OCT25,1962,
 9241455,"Drasko, Marko",SRB,M,,,,1890,0,20,OCT25,1994,i
-167105340,"Draskovic, Veljko",SRB,M,,,,AFM,1581,10,OCT25,2010,
+167105340,"Draskovic, Veljko",SRB,M,,,,1580,10,,OCT25,2010,
 940593,"Drazic, Dusan",SRB,M,,,,1608,0,20,OCT25,2003,i
 921769,"Drazic, Miodrag",SRB,M,,,,1931,0,20,OCT25,1955,i
 901172,"Drazic, Sinisa",SRB,M,GM,,,2318,29,10,OCT25,1967,
@@ -770,9 +770,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 988863,"Dujovic, Rade",SRB,M,,,,1819,0,20,OCT25,1966,i
 911909,"Dukic, Aleksandar",SRB,M,,,,2016,0,20,OCT25,1969,i
 982172,"Dukic, Marjan",SRB,M,,,,1917,0,20,OCT25,1948,i
-9204088,"Dukic, Pavle",SRB,M,,,,1551,0,40,OCT25,2011,
+9204088,"Dukic, Pavle",SRB,M,,,,1550,0,40,OCT25,2011,
 926817,"Dumancic, Pero",SRB,M,,,,1996,0,20,OCT25,1952,i
-9204525,"Dumbelovic, Novak",SRB,M,,,,2273,13,20,OCT25,2011,
+9204525,"Dumbelovic, Novak",SRB,M,FM,,,2273,13,20,OCT25,2011,
 9209632,"Dunda, Marko",SRB,M,,,,1813,0,20,OCT25,1983,i
 939668,"Dunjic, Dragan",SRB,M,,,,2012,12,20,OCT25,1968,
 984299,"Duvnjak, Milorad",SRB,M,,,,1981,0,20,OCT25,1953,i
@@ -802,7 +802,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 910848,"Farkas, Sandor I",SRB,M,,,,2023,0,20,OCT25,1994,i
 933333,"Farkas, Tibor",SRB,M,IM,,,2276,0,20,OCT25,1969,
 949493,"Fatyol, Istvan",SRB,M,,,,1947,0,20,OCT25,1958,i
-984310,"Feckes, Zoltan",SRB,M,,,,1828,0,20,OCT25,1963,i
+984310,"Feckes, Zoltan",SRB,M,,,,1827,0,20,OCT25,1963,i
 913693,"Fejsov, Jasmina",SRB,F,,,,1894,0,20,OCT25,1991,wi
 9204460,"Fejsov, Vladimir",SRB,M,,,,1828,0,20,OCT25,1987,i
 9234670,"Feldezdi, Laslo",SRB,M,,,,1916,0,20,OCT25,1981,i
@@ -879,11 +879,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 962708,"Gligoric, Dragoljub",SRB,M,,,,1943,0,20,OCT25,1976,
 9201380,"Gligoric, Nikola D",SRB,M,,,,1816,0,40,OCT25,2009,i
 993514,"Gligoric, Sofija",SRB,F,,,,1755,0,20,OCT25,2006,wi
-9249308,"Gligorijevic, Mica",SRB,M,,,,1656,0,20,OCT25,1973,
+9249308,"Gligorijevic, Mica",SRB,M,,,,1657,0,20,OCT25,1973,
 970182,"Gligorijevic, Pera",SRB,M,,,,1758,0,20,OCT25,1952,i
 9208547,"Glisic, Dragoslav R",SRB,M,,,,1646,0,20,OCT25,1948,i
 992232,"Glisic, Luka",SRB,M,,,,1707,0,20,OCT25,2002,i
-9215462,"Glisin, Jovan",SRB,M,,,,1819,0,40,OCT25,2014,i
+9215462,"Glisin, Jovan",SRB,M,,,,1818,0,40,OCT25,2014,i
 9213877,"Glisin, Zarko",SRB,M,,,,1684,0,40,OCT25,2010,i
 9222019,"Glisovic, Helena",SRB,F,,,,1412,16,40,OCT25,2012,w
 980382,"Godar, Dragan",SRB,M,,,,2007,0,20,OCT25,1968,i
@@ -955,9 +955,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9221039,"Hamidovic, Seha",SRB,M,,,,1835,0,20,OCT25,1980,i
 991341,"Hedji, Martin",SRB,M,,,,1754,0,20,OCT25,1972,i
 9255200,"Hee, Milan",SRB,M,,,,1736,0,20,OCT25,1992,
-17010764,"Helenyi, Zoltan",SRB,M,,IA,,AIM,1985,0,OCT25,1955,
+17010764,"Helenyi, Zoltan",SRB,M,,IA,,1985,0,,OCT25,1955,
 935816,"Herceg, Zvonko",SRB,M,,,,1993,0,20,OCT25,1976,i
-911747,"Hlebec, Darko",SRB,M,,,,AIM,1992,23,OCT25,1984,
+911747,"Hlebec, Darko",SRB,M,,,,1992,23,,OCT25,1984,
 998265,"Hlozan, Martin",SRB,M,,,,1622,0,20,OCT25,1991,
 938386,"Hodzic, Elvir",SRB,M,,,,1879,0,20,OCT25,1974,i
 923770,"Hodzic, Isidora",SRB,F,,,,1836,0,20,OCT25,1994,w
@@ -971,7 +971,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 955426,"Hrustanovic, Smail",SRB,M,,,,1796,0,20,OCT25,1962,i
 922838,"Hrzic, Ivan",SRB,M,FM,,,2180,0,20,OCT25,1979,
 949400,"Ibraimovic, Bogoljub",SRB,M,,,,1919,0,20,OCT25,1953,i
-399112330,"Icic, Gabriel",SRB,M,,,,1677,0,40,OCT25,2008,
+399112330,"Icic, Gabriel",SRB,M,,,,1678,0,40,OCT25,2008,
 9241625,"Icic, Leka",SRB,M,,,,1480,0,40,OCT25,2011,
 925136,"Igaz, Ervin",SRB,M,FM,,,1972,0,20,OCT25,1952,i
 906824,"Igic, Vladan",SRB,M,,,,1993,0,20,OCT25,1982,i
@@ -984,7 +984,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9205726,"Igracki, Miodrag",SRB,M,,,,1691,0,20,OCT25,1947,
 934496,"Ikic, Alija",SRB,M,,,,2075,0,20,OCT25,1950,i
 9227312,"Ikic, Damir",SRB,M,,,,1526,0,20,OCT25,2004,i
-9237628,"Ilcic, Aleksa",SRB,M,,,,1807,0,40,OCT25,2013,
+9237628,"Ilcic, Aleksa",SRB,M,,,,1808,0,40,OCT25,2013,
 938327,"Ilic, Aleksandar",SRB,M,,,,2079,0,20,OCT25,1963,i
 9209900,"Ilic, Andrej",SRB,M,,,,1601,0,40,OCT25,2009,i
 905690,"Ilic, Bogdan",SRB,M,,,,1930,0,20,OCT25,1964,i
@@ -997,7 +997,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 996335,"Ilic, Lazar I",SRB,M,,,,1582,0,40,OCT25,2008,
 980242,"Ilic, Marin",SRB,M,,,,1789,0,20,OCT25,1953,i
 9213370,"Ilic, Mia",SRB,F,,,,1687,0,40,OCT25,2009,w
-9202980,"Ilic, Mihajlo Lj",SRB,M,,,,AFM,1685,9,OCT25,2011,
+9202980,"Ilic, Mihajlo Lj",SRB,M,,,,1685,9,,OCT25,2011,
 971677,"Ilic, Mihajlo N",SRB,M,,,,1655,0,20,OCT25,2000,i
 949280,"Ilic, Milenko",SRB,M,,,,1904,0,20,OCT25,1965,
 9231514,"Ilic, Milenko S",SRB,M,,,,1591,0,20,OCT25,1986,i
@@ -1044,7 +1044,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9206897,"Ivanovic, Igor P",SRB,M,,,,1675,0,20,OCT25,1983,
 9220610,"Ivanovic, Lav",SRB,M,,,,1552,0,40,OCT25,2008,i
 943177,"Ivanovic, Lazar",SRB,M,,,,2004,0,20,OCT25,1991,i
-9214512,"Ivanovic, Leonid",SRB,M,,,,2022,0,40,OCT25,2015,
+9214512,"Ivanovic, Leonid",SRB,M,,,,2023,0,40,OCT25,2015,
 9233649,"Ivanovic, Longin",SRB,M,,,,1457,0,40,OCT25,2017,i
 967408,"Ivanovic, Marko",SRB,M,,,,2254,26,20,OCT25,2004,
 906972,"Ivanovic, Miroslav",SRB,M,,,,2049,0,20,OCT25,1955,i
@@ -1128,7 +1128,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 997196,"Jankovic, Stefan",SRB,M,,,,1536,0,20,OCT25,2004,i
 995959,"Jankovic, Tamara",SRB,F,,,,1890,37,40,OCT25,2009,w
 987972,"Jankovic, Teodora",SRB,F,,,,1575,0,20,OCT25,2006,wi
-966592,"Jankovic, Uros",SRB,M,,,,AIM,2053,0,OCT25,2000,i
+966592,"Jankovic, Uros",SRB,M,,,,2053,0,,OCT25,2000,i
 9231522,"Jankovic, Zlatko",SRB,M,,,,1823,0,20,OCT25,1985,
 9257416,"Janosev, Nemanja",SRB,M,,,,1484,0,20,OCT25,1989,
 9233215,"Janosevic, Ilija",SRB,M,,,,1545,0,20,OCT25,1997,i
@@ -1137,7 +1137,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9208261,"Jatic, Nenad",SRB,M,,,,1687,0,20,OCT25,1966,
 997617,"Jaukovic, Teodora",SRB,F,,,,1713,0,40,OCT25,2009,w
 978876,"Jazic, Dusko",SRB,M,,,,1956,0,20,OCT25,1954,
-974188,"Jazic, Radovan",SRB,M,,,,AFM,1833,0,OCT25,1952,i
+974188,"Jazic, Radovan",SRB,M,,,,1833,0,,OCT25,1952,i
 972452,"Jecinac, Milos",SRB,M,,,,1779,0,20,OCT25,1955,i
 998389,"Jecmenica, Vukasin",SRB,M,,,,1817,0,20,OCT25,2001,i
 937347,"Jedjini, Pavel",SRB,M,,,,1839,0,20,OCT25,1958,
@@ -1177,27 +1177,27 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9212269,"Jokic, Bojan",SRB,M,,,,1844,23,20,OCT25,1979,
 928267,"Jokic, Jovan",SRB,M,,,,1758,0,20,OCT25,1996,i
 9212277,"Jokic, Matej",SRB,M,,,,1882,23,40,OCT25,2013,
-922366,"Jokic, Miodrag",SRB,M,CM,FA,,1941,12,20,OCT25,1958,
+922366,"Jokic, Miodrag",SRB,M,CM,FA,,1942,12,20,OCT25,1958,
 938351,"Joksimovic, Dusko",SRB,M,,,,2114,0,20,OCT25,1960,i
 9217988,"Joksimovic, Marko",SRB,M,,,,1668,0,20,OCT25,2000,i
 9234866,"Joksimovic, Miladin",SRB,M,,,,1753,0,20,OCT25,1976,
 9225026,"Joncic, Lazar",SRB,M,,,,1869,0,20,OCT25,1996,i
 906913,"Jonic, Dragisa",SRB,M,,,,2069,0,20,OCT25,1946,i
-9200465,"Jonic, Nikola",SRB,M,,,,1526,0,20,OCT25,1998,
+9200465,"Jonic, Nikola",SRB,M,,,,1525,0,20,OCT25,1998,
 980994,"Jordanov, Dragan",SRB,M,,,,1885,0,20,OCT25,1979,
 985503,"Josic, Branislav",SRB,M,,,,1641,0,20,OCT25,1956,
 934674,"Josipovic, Dragan",SRB,M,,,,2001,0,20,OCT25,1982,
 943410,"Josipovic, Milan",SRB,M,,,,1987,0,20,OCT25,1970,i
 924920,"Jotic, Vladimir",SRB,M,FM,,,2188,0,20,OCT25,1980,
 980188,"Jovancic, Strahinja",SRB,M,,,,1794,0,20,OCT25,2002,i
-9203456,"Jovanoski, Konstantin",SRB,M,,,,AFM,1731,12,OCT25,2010,
+9203456,"Jovanoski, Konstantin",SRB,M,,,,1731,12,,OCT25,2010,
 9237113,"Jovanov, Novak",SRB,M,,,,1458,0,40,OCT25,2012,
 9221446,"Jovanovic, Aleksa S",SRB,M,,,,1804,0,20,OCT25,2005,i
 931942,"Jovanovic, Aleksandar D",SRB,M,,,,2167,0,20,OCT25,1964,
 980285,"Jovanovic, Aleksandar Dr",SRB,M,,,,1853,0,20,OCT25,1987,i
 976857,"Jovanovic, Aleksandar S",SRB,M,,,,1696,0,20,OCT25,2002,i
 9241218,"Jovanovic, Ana M",SRB,F,,,,1436,0,40,OCT25,2014,w
-972991,"Jovanovic, Anja",SRB,F,,,,2049,0,20,OCT25,2006,w
+972991,"Jovanovic, Anja",SRB,F,,,,2048,0,20,OCT25,2006,w
 943002,"Jovanovic, Bozidar",SRB,M,,,,1865,0,20,OCT25,1962,i
 998800,"Jovanovic, Branimir",SRB,M,,,,1653,0,20,OCT25,1974,i
 980714,"Jovanovic, Branislav D",SRB,M,,,,1664,0,20,OCT25,1955,i
@@ -1282,13 +1282,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 923206,"Jovic, Stevan",SRB,M,FM,,,2171,0,20,OCT25,1977,i
 9201496,"Jovic, Strahinja",SRB,M,,,,1732,0,20,OCT25,1978,
 9216337,"Jovic, Vladimir",SRB,M,,,,1482,0,20,OCT25,1975,i
-953253,"Jovicic, Damir",SRB,M,,,,1798,0,20,OCT25,1977,
+953253,"Jovicic, Damir",SRB,M,,,,1799,0,20,OCT25,1977,
 964522,"Jovicic, Dragan",SRB,M,,IA,,1711,0,20,OCT25,1977,
 942871,"Jovicic, Dragomir",SRB,M,,,,2117,0,20,OCT25,1973,i
 967521,"Jovicic, Janko",SRB,M,,,,1671,0,20,OCT25,1999,i
 9220148,"Jovicic, Jovan",SRB,M,,,,1880,11,20,OCT25,1980,
 903108,"Jovicic, Milos",SRB,M,IM,,,2284,0,20,OCT25,1947,i
-958263,"Jovicic, Radisa",SRB,M,,,,1702,0,20,OCT25,1960,
+958263,"Jovicic, Radisa",SRB,M,,,,1703,0,20,OCT25,1960,
 914657,"Jovicic, Radosav",SRB,M,,,,2104,0,20,OCT25,1961,
 9206684,"Jovin, Nikola",SRB,M,,,,1591,0,40,OCT25,2014,i
 981001,"Jovkic, Nikola",SRB,M,,,,1739,0,20,OCT25,1972,
@@ -1301,7 +1301,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9232278,"Jurcsak, Richard",SRB,M,,,,1402,0,40,OCT25,2016,i
 9233690,"Jurinjak, Zoran",SRB,M,,,,1784,0,20,OCT25,1955,i
 987484,"Jurisevic, Nemanja",SRB,M,,,,1791,0,20,OCT25,1989,i
-9249316,"Jurisevic, Zeljko",SRB,M,,,,AFM,1629,15,OCT25,1997,
+9249316,"Jurisevic, Zeljko",SRB,M,,,,1629,15,,OCT25,1997,
 993751,"Jurisic, Iskra",SRB,F,,,,1818,0,20,OCT25,2002,wi
 9213729,"Jurisic, Lukas",SRB,M,,,,1815,26,40,OCT25,2010,
 973017,"Jurosevic, Sinisa",SRB,M,,,,1953,0,20,OCT25,1973,i
@@ -1312,18 +1312,18 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9200929,"Kadriu, Sokol",SRB,M,,,,1678,0,20,OCT25,1975,
 940828,"Kahrovic, Mersid",SRB,M,FM,,,2216,0,20,OCT25,1979,i
 986925,"Kainovic, Branislav",SRB,M,,,,2009,0,20,OCT25,1981,
-9241692,"Kais, Viktor",SRB,M,,,,1523,0,40,OCT25,2010,
+9241692,"Kais, Viktor",SRB,M,,,,1525,0,40,OCT25,2010,
 941565,"Kajtez, Mladen",SRB,M,,,,1846,0,20,OCT25,1963,
 958441,"Kalafirovic, Radosav",SRB,M,,,,1614,0,20,OCT25,1952,i
 952419,"Kalajdzic, Zoran",SRB,M,,,,1865,0,20,OCT25,1957,i
 910945,"Kalmar, Robert",SRB,M,,,,1898,0,20,OCT25,1963,i
 9235170,"Kaludjer, Janos",SRB,M,,,,1801,0,20,OCT25,1989,
 9246058,"Kamidzorac, Luka",SRB,M,,,,1749,0,20,OCT25,2002,
-9213761,"Kanacki, Aljosa",SRB,M,,,,AFM,1762,0,OCT25,2013,
+9213761,"Kanacki, Aljosa",SRB,M,,,,1762,0,,OCT25,2013,
 9220121,"Kanacki, Branislav",SRB,M,,,,1903,0,20,OCT25,1961,i
 911364,"Kanacki, Nemanja",SRB,M,,,,1900,0,20,OCT25,1978,i
 9203464,"Kanacki, Vladimir",SRB,M,,NA,,1788,0,20,OCT25,1976,i
-995010,"Kanacki, Vuk",SRB,M,,,,AFM,2031,0,OCT25,2008,
+995010,"Kanacki, Vuk",SRB,M,,,,2031,0,,OCT25,2008,
 926752,"Kandic, Milan",SRB,M,FM,,,2019,0,20,OCT25,1971,
 979651,"Kandjolas, Konstantin",SRB,M,,,,1982,0,20,OCT25,2005,
 932698,"Kanjuh, Vladimir",SRB,M,,,,1996,0,20,OCT25,1976,i
@@ -1368,7 +1368,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 987670,"Kisic, Dusan",SRB,M,,,,1808,0,40,OCT25,2008,i
 987689,"Kisic, Jovan",SRB,M,,,,2076,0,40,OCT25,2010,
 939218,"Kiss, Rudolf",SRB,M,,,,1820,0,20,OCT25,1950,i
-9240300,"Kitanovic, David S",SRB,M,,,,1527,0,40,OCT25,2011,
+9240300,"Kitanovic, David S",SRB,M,,,,1528,0,40,OCT25,2011,
 9219565,"Kitic, Aleksa",SRB,M,,,,1562,0,20,OCT25,1999,i
 934194,"Kitic, Radislav",SRB,M,,,,2166,0,20,OCT25,1971,i
 9218259,"Klajic, Aleksa",SRB,M,,,,1588,0,40,OCT25,2007,i
@@ -1376,7 +1376,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 921599,"Klasovic, Andreja",SRB,M,,,,1990,0,20,OCT25,1979,i
 959081,"Klcesko, Aleksandar",SRB,M,,,,1839,0,20,OCT25,1994,i
 941115,"Klcesko, Nebojsa",SRB,M,,,,1993,0,20,OCT25,1956,i
-55825044,"Klekovkin, Aleksandr",SRB,M,,,,1607,0,40,OCT25,2016,
+55825044,"Klekovkin, Aleksandr",SRB,M,,,,1605,0,40,OCT25,2016,
 934828,"Kler, Borko",SRB,M,,,,2102,0,20,OCT25,1978,
 9222361,"Klipa, Petar",SRB,M,,,,1430,0,40,OCT25,2014,
 951242,"Klisaric, Vitomir",SRB,M,,,,1944,0,20,OCT25,1976,
@@ -1392,10 +1392,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 950238,"Knezevic, Milorad V",SRB,M,,,,1891,0,20,OCT25,1949,
 933481,"Knezevic, Mladen Z",SRB,M,,,,2041,0,20,OCT25,1966,
 954080,"Knezevic, Veljko",SRB,M,,,,2043,0,20,OCT25,1997,i
-9231255,"Knezi, Alex",SRB,M,,,,AFM,1932,0,OCT25,2009,
-9231263,"Knezi, Kazimir",SRB,M,,,,AFM,1626,0,OCT25,1972,
+9231255,"Knezi, Alex",SRB,M,,,,1932,0,,OCT25,2009,
+9231263,"Knezi, Kazimir",SRB,M,,,,1626,0,,OCT25,1972,
 9216990,"Knezic, Jovan",SRB,M,,,,1523,0,40,OCT25,2010,i
-9222051,"Knezic, Lazar",SRB,M,,,,1556,0,40,OCT25,2014,
+9222051,"Knezic, Lazar",SRB,M,,,,1555,0,40,OCT25,2014,
 991945,"Kocalo, Luka",SRB,M,,,,1987,0,20,OCT25,2005,i
 9218607,"Kocanovic, Uros",SRB,M,,,,1771,0,20,OCT25,1996,i
 54188113,"Kochev, Igor",SRB,M,,,,1866,0,20,OCT25,2005,i
@@ -1422,7 +1422,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 940674,"Kolompar, Ivan",SRB,M,,,,2025,0,20,OCT25,1974,
 9200848,"Kolundzija, Dusan",SRB,M,,,,1904,0,20,OCT25,1947,i
 936723,"Komaromi, Sandor",SRB,M,,,,1916,0,20,OCT25,1962,i
-985767,"Komatinovic, Milan",SRB,M,,,,1853,0,40,OCT25,2007,
+985767,"Komatinovic, Milan",SRB,M,,,,1852,0,40,OCT25,2007,
 903604,"Komnenic, Branko",SRB,M,FM,,,2190,0,20,OCT25,1958,i
 988928,"Komnenic, Vladimir",SRB,M,,,,1858,0,20,OCT25,1941,i
 9201712,"Konc, Oliver A",SRB,M,,,,1568,0,40,OCT25,2008,i
@@ -1472,7 +1472,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 921874,"Kostic, Tomislav",SRB,M,,,,1972,0,20,OCT25,1995,i
 969168,"Kostic, Vasilije",SRB,M,,,,1910,0,20,OCT25,2001,i
 901482,"Kostic, Vladimir G",SRB,M,GM,FT,,2214,0,10,OCT25,1953,
-903620,"Kostic, Vladimir V",SRB,M,FM,,,2038,12,20,OCT25,1948,
+903620,"Kostic, Vladimir V",SRB,M,FM,,,2039,12,20,OCT25,1948,
 944610,"Kostic, Zivojin",SRB,M,,,,1868,22,20,OCT25,1950,
 9232103,"Kosutic, Luka",SRB,M,,,,1713,0,20,OCT25,1996,i
 9232111,"Kosutic, Sasa",SRB,M,,,,1422,0,20,OCT25,1998,i
@@ -1497,11 +1497,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 969753,"Kovacevic, Dragisa M",SRB,M,,,,1734,0,20,OCT25,1962,i
 947920,"Kovacevic, Dusan",SRB,M,,,,1758,0,20,OCT25,1954,i
 9250497,"Kovacevic, Dusan NN",SRB,M,,,,1510,0,40,OCT25,2007,
-998532,"Kovacevic, Dusan V",SRB,M,,,,1571,11,40,OCT25,2007,
+998532,"Kovacevic, Dusan V",SRB,M,,,,1570,11,40,OCT25,2007,
 916293,"Kovacevic, Goran B",SRB,M,,,,1966,0,20,OCT25,1969,i
 947016,"Kovacevic, Goran D",SRB,M,,,,2097,0,20,OCT25,1976,i
 9239248,"Kovacevic, Goran N",SRB,M,,,,1828,0,40,OCT25,2012,i
-9230135,"Kovacevic, Konstantin",SRB,M,,,,1546,0,40,OCT25,2011,
+9230135,"Kovacevic, Konstantin",SRB,M,,,,1548,0,40,OCT25,2011,
 949604,"Kovacevic, Marko D",SRB,M,,,,1911,0,20,OCT25,1997,i
 958956,"Kovacevic, Matija D",SRB,M,,,,1728,0,20,OCT25,2003,i
 9230143,"Kovacevic, Mihajlo",SRB,M,,,,1504,0,40,OCT25,2011,
@@ -1565,7 +1565,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 958808,"Krstic, Zoran",SRB,M,,,,1918,0,20,OCT25,1967,i
 931926,"Krstin, Petar",SRB,M,,,,1890,0,20,OCT25,1996,i
 997277,"Krunic, Djordje",SRB,M,,,,1739,0,20,OCT25,2006,i
-917745,"Krunic, Dusan",SRB,M,,,,AIM,2104,0,OCT25,1975,
+917745,"Krunic, Dusan",SRB,M,,,,2104,0,,OCT25,1975,
 9238144,"Krupnikovic, Milos",SRB,M,,,,1797,0,20,OCT25,1955,
 9256800,"Krupnikovic, Stevan",SRB,M,,,,1896,0,20,OCT25,1979,
 9223880,"Krutikov, Konstantin",SRB,M,,,,1730,0,40,OCT25,2015,
@@ -1584,7 +1584,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 978760,"Kuridza, Trivo",SRB,M,,,,1930,0,20,OCT25,1956,i
 971901,"Kusic, Mile",SRB,M,,,,1779,0,20,OCT25,1949,i
 987697,"Kutanjac, Aleksandar",SRB,M,,,,2045,12,40,OCT25,2010,
-9233991,"Kutanjac, Nemanja",SRB,M,,,,1499,0,40,OCT25,2013,
+9233991,"Kutanjac, Nemanja",SRB,M,,,,1502,0,40,OCT25,2013,
 9254301,"Kuvekalovic, Lazar",SRB,M,,,,1580,0,20,OCT25,2005,
 953458,"Kuzmanovic, Aleksa",SRB,M,,,,1983,0,20,OCT25,1997,i
 970042,"Kuzmanovic, Dragoljub",SRB,M,,,,1827,0,20,OCT25,1938,i
@@ -1612,7 +1612,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 979821,"Lalic, Nikola",SRB,M,,,,1998,20,20,OCT25,2002,
 926558,"Landup, Darko",SRB,M,,,,2041,0,20,OCT25,1954,i
 912280,"Lapcevic, Dragutin",SRB,M,,,,1822,0,20,OCT25,1952,
-977284,"Lapcevic, Goran",SRB,M,,,,AFM,1792,0,OCT25,1970,i
+977284,"Lapcevic, Goran",SRB,M,,,,1792,0,,OCT25,1970,i
 936278,"Lapcevic, Milos",SRB,M,IM,,,2386,0,20,OCT25,1989,i
 9227053,"Latov, Tanja",SRB,M,,,,1476,0,20,OCT25,1968,i
 9202360,"Lauko, Mihal",SRB,M,,,,1705,0,20,OCT25,1953,i
@@ -1630,8 +1630,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9232731,"Lazic, Aleksa",SRB,M,,,,1745,0,20,OCT25,2003,i
 9211246,"Lazic, Ana",SRB,F,,NA,,1638,41,40,OCT25,2008,w
 9211254,"Lazic, Andrej B",SRB,M,,,,1475,0,40,OCT25,2011,
-9211262,"Lazic, Arsenije",SRB,M,,,,1400,0,40,OCT25,2013,
-994758,"Lazic, Boban",SRB,M,,,,1904,11,20,OCT25,1965,
+9211262,"Lazic, Arsenije",SRB,M,,,,1401,0,40,OCT25,2013,
+994758,"Lazic, Boban",SRB,M,,,,1905,11,20,OCT25,1965,
 914630,"Lazic, Dragan",SRB,M,,NA,,1969,0,20,OCT25,1964,i
 9212722,"Lazic, Dunja D",SRB,F,,,,1418,0,40,OCT25,2011,wi
 996491,"Lazic, Filip",SRB,M,,,,1732,0,40,OCT25,2007,i
@@ -1710,7 +1710,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 995568,"Lukic, Caslav",SRB,M,,,,1960,0,20,OCT25,1995,i
 9203596,"Lukic, Damjan",SRB,M,,,,1651,0,40,OCT25,2007,i
 9211670,"Lukic, Darko",SRB,M,,,,1872,0,20,OCT25,1988,
-9211459,"Lukic, David",SRB,M,,,,1879,10,40,OCT25,2009,
+9211459,"Lukic, David",SRB,M,,,,1880,10,40,OCT25,2009,
 902497,"Lukic, Dragan M",SRB,M,FM,,,2051,0,20,OCT25,1952,
 964980,"Lukic, Dusan",SRB,M,,,,1846,0,20,OCT25,1961,
 978531,"Lukic, Dusan M",SRB,M,,,,1877,0,20,OCT25,1978,i
@@ -1755,7 +1755,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9247380,"Maksimovic, Dalibor",SRB,M,,,,1731,0,20,OCT25,2002,
 916129,"Maksimovic, Dejan",SRB,M,IM,,,2430,0,10,OCT25,1970,i
 930040,"Maksimovic, Dragan",SRB,M,,,,2141,0,20,OCT25,1978,i
-9244810,"Maksimovic, Jovan S",SRB,M,,,,1543,0,20,OCT25,2005,
+9244810,"Maksimovic, Jovan S",SRB,M,,,,1544,0,20,OCT25,2005,
 958115,"Maksimovic, Marin",SRB,M,,,,1869,0,20,OCT25,1977,
 929220,"Maksimovic, Marko",SRB,M,,,,2112,0,20,OCT25,1982,
 9258471,"Maksimovic, Nebojsa",SRB,M,,,,1652,8,40,OCT25,1974,
@@ -1823,7 +1823,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 959146,"Marinkovic, Djordje",SRB,M,,,,1848,0,20,OCT25,1992,i
 900419,"Marinkovic, Ivan",SRB,M,IM,,,2308,0,10,OCT25,1967,
 9246880,"Marinkovic, Ivan V",SRB,M,,,,1608,0,20,OCT25,1977,
-977055,"Marinkovic, Marjan",SRB,M,,,,1692,0,20,OCT25,2001,
+977055,"Marinkovic, Marjan",SRB,M,,,,1691,0,20,OCT25,2001,
 9232995,"Marinkovic, Marko S",SRB,M,,,,1426,0,40,OCT25,2013,i
 9240955,"Marinkovic, Milan S",SRB,M,,,,1526,0,20,OCT25,2004,i
 964743,"Marinkovic, Nikola",SRB,M,,,,1815,0,20,OCT25,2000,
@@ -1840,14 +1840,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 941433,"Marjanovic, Dragan",SRB,M,,,,1823,0,20,OCT25,1953,
 9218224,"Marjanovic, Eva",SRB,F,,,,1455,0,40,OCT25,2008,wi
 957798,"Marjanovic, Ivan D",SRB,M,,NA,,2064,0,20,OCT25,1999,
-9223910,"Marjanovic, Jaksa",SRB,M,,,,1502,8,40,OCT25,2017,
+9223910,"Marjanovic, Jaksa",SRB,M,,,,1501,8,40,OCT25,2017,
 964158,"Marjanovic, Milija",SRB,M,,,,1768,0,20,OCT25,1950,i
 9221810,"Marjanovic, Milutin D",SRB,M,,,,1747,0,20,OCT25,1961,i
 933767,"Marjanovic, Novica",SRB,M,,,,1996,0,20,OCT25,1949,i
 995053,"Marjanovic, Rastko",SRB,M,,,,2153,13,20,OCT25,2006,
 900354,"Marjanovic, Slavoljub",SRB,M,GM,,,2388,0,10,OCT25,1955,i
 930539,"Marjanovic, Srdjan",SRB,M,,,,2109,0,20,OCT25,1961,i
-904694,"Marjanovic, Toplica",SRB,M,,,,1832,0,20,OCT25,1953,
+904694,"Marjanovic, Toplica",SRB,M,,,,1833,0,20,OCT25,1953,
 961515,"Marjanovic, Zoran L",SRB,M,,,,1893,0,20,OCT25,1953,i
 936200,"Marjanovic, Zvezdan",SRB,M,,,,1986,0,20,OCT25,1961,
 965740,"Marjanusic, Stipan",SRB,M,,,,1878,0,20,OCT25,1997,i
@@ -1868,7 +1868,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 952796,"Markovic, Jevrem",SRB,M,,,,2069,0,20,OCT25,1983,
 905852,"Markovic, Jovan",SRB,M,,,,2065,0,20,OCT25,1955,i
 9249952,"Markovic, Jovica",SRB,M,,,,1752,0,20,OCT25,1979,
-9233819,"Markovic, Kosta",SRB,M,,,,ACM,1899,0,OCT25,2010,
+9233819,"Markovic, Kosta",SRB,M,,,,1899,0,,OCT25,2010,
 976989,"Markovic, Luka A",SRB,M,,,,1533,0,40,OCT25,2007,i
 920860,"Markovic, Marko",SRB,M,FM,,,2100,0,20,OCT25,1974,
 984582,"Markovic, Milos",SRB,M,,,,1919,0,20,OCT25,2005,
@@ -1903,7 +1903,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 917168,"Markovic, Zoran Ran",SRB,M,,,,1846,0,20,OCT25,1955,
 970344,"Markovic, Zoran Rat",SRB,M,,,,1776,0,20,OCT25,1977,i
 904570,"Markovic, Zoran S",SRB,M,IM,,,2245,0,20,OCT25,1966,i
-978051,"Markovic, Zoran Sr",SRB,M,,,,AFM,1712,0,OCT25,1966,i
+978051,"Markovic, Zoran Sr",SRB,M,,,,1712,0,,OCT25,1966,i
 991740,"Markus, Pavle",SRB,M,,,,1824,0,40,OCT25,2007,
 921637,"Markus, Robert",SRB,M,GM,,,2623,0,10,OCT25,1983,i
 9203979,"Markus, Szabolcs",SRB,M,,,,1966,0,20,OCT25,1987,i
@@ -1923,7 +1923,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 955019,"Maslar, Ljubisa",SRB,M,,,,1580,23,20,OCT25,1960,
 924954,"Mastrapovic, Vladimir",SRB,M,FM,,,2201,0,20,OCT25,1977,i
 9247917,"Matejevic, Bojan",SRB,M,,,,1835,0,20,OCT25,1985,
-9229544,"Matejic, Aleksa",SRB,M,,,,ACM,1742,0,OCT25,2010,
+9229544,"Matejic, Aleksa",SRB,M,,,,1742,0,,OCT25,2010,
 9233940,"Matejic, Aleksandar",SRB,M,,,,1732,0,20,OCT25,2006,
 9217490,"Matejic, Elena",SRB,F,,,,1568,0,40,OCT25,2012,wi
 903302,"Matejic, Ivica",SRB,M,,,,1748,0,20,OCT25,1955,
@@ -1934,12 +1934,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 982180,"Matic, Nikola",SRB,M,,,,2002,0,20,OCT25,1990,
 916803,"Matic, Novica",SRB,M,CM,,,1960,0,20,OCT25,1969,i
 933503,"Matic, Petar",SRB,M,,,,2071,0,20,OCT25,1975,
-9216604,"Matic, Petar O",SRB,M,,,,AFM,1639,0,OCT25,2010,i
+9216604,"Matic, Petar O",SRB,M,,,,1639,0,,OCT25,2010,i
 983977,"Matic, Sinisa",SRB,M,,,,1701,0,20,OCT25,1986,i
 9208563,"Matic, Slavoljub",SRB,M,,,,1713,0,20,OCT25,1960,i
 988936,"Matic, Stanoje",SRB,M,,,,1752,0,20,OCT25,1962,i
 9218135,"Matic, Tomislav M",SRB,M,,,,1865,0,20,OCT25,1952,i
-9215497,"Matic, Veljko",SRB,M,,,,1409,0,40,OCT25,2014,
+9215497,"Matic, Veljko",SRB,M,,,,1412,0,40,OCT25,2014,
 903426,"Matijasevic, Milutin",SRB,M,FM,,,2042,0,20,OCT25,1956,
 997854,"Matijevic, Dimitrije",SRB,M,,,,1607,0,40,OCT25,2008,i
 916064,"Matijevic, Radovan",SRB,M,,,,1976,0,20,OCT25,1958,i
@@ -1960,7 +1960,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9243881,"Medic, Branko",SRB,M,,,,1431,0,40,OCT25,2019,
 982296,"Medic, Danilo",SRB,M,,,,1858,0,20,OCT25,1952,i
 9232294,"Medic, Milovan A",SRB,M,,,,1556,0,40,OCT25,2016,
-901903,"Medic, Nebojsa B",SRB,M,,,,1750,0,20,OCT25,1989,
+901903,"Medic, Nebojsa B",SRB,M,,,,1751,0,20,OCT25,1989,
 980064,"Medic, Relja",SRB,M,,NA,,1862,0,20,OCT25,2005,
 966541,"Medjesi, Zvonimir",SRB,M,,,,1783,0,20,OCT25,1965,
 9235552,"Medovic, Mahmut",SRB,M,,,,1777,0,20,OCT25,1975,
@@ -1997,13 +1997,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 914495,"Mihalj, Miroslav M",SRB,M,FM,,,2159,0,20,OCT25,1973,
 932370,"Mihic, Petar",SRB,M,,,,1954,0,20,OCT25,1948,i
 9238012,"Mihok, Aron",SRB,M,,,,1749,0,20,OCT25,2002,i
-9230275,"Mijailovic, Lazar",SRB,M,,,,1502,0,40,OCT25,2014,
+9230275,"Mijailovic, Lazar",SRB,M,,,,1510,0,40,OCT25,2014,
 979686,"Mijailovic, Luka",SRB,M,,,,1831,0,20,OCT25,2002,i
 9258242,"Mijailovic, Stefan",SRB,M,,,,1788,11,40,OCT25,2009,
 902900,"Mijailovic, Zoran",SRB,M,IM,,,2242,0,10,OCT25,1966,
 959766,"Mijajlovic, Jovan",SRB,M,,NA,,2005,11,20,OCT25,1998,
 959774,"Mijajlovic, Milutin",SRB,M,,,,1811,0,20,OCT25,1949,i
-9228190,"Mijalcic, Nikola",SRB,M,,,,1764,0,40,OCT25,2011,
+9228190,"Mijalcic, Nikola",SRB,M,,,,1763,0,40,OCT25,2011,
 934224,"Mijanovic, Dragan",SRB,M,,,,1934,0,20,OCT25,1960,
 9212480,"Mijatov, Marko",SRB,M,,,,1714,0,20,OCT25,2004,i
 953814,"Mijatovic, Bogdan",SRB,M,,,,1912,0,20,OCT25,1989,i
@@ -2048,14 +2048,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9228807,"Milanovic, Todor",SRB,M,,,,1516,0,40,OCT25,2012,
 9228815,"Milanovic, Vukan",SRB,M,,,,1442,0,40,OCT25,2012,
 9207680,"Milanovic, Zivadin",SRB,M,,,,1733,0,20,OCT25,1952,i
-9230895,"Milanovic, Zlatko",SRB,M,,,,1647,0,20,OCT25,1976,
+9230895,"Milanovic, Zlatko",SRB,M,,,,1646,0,20,OCT25,1976,
 982474,"Milanovic, Zoran",SRB,M,,,,1868,0,20,OCT25,1967,
 942561,"Milenkovic, Aleksandar",SRB,M,,,,2089,0,20,OCT25,1991,i
 9218992,"Milenkovic, Anastazija",SRB,F,,,,1593,0,40,OCT25,2011,wi
 9256894,"Milenkovic, Danilo",SRB,M,,,,1573,0,40,OCT25,2007,
 9244683,"Milenkovic, Filip",SRB,M,,,,1522,0,20,OCT25,2003,i
 989282,"Milenkovic, Iva",SRB,F,,,,1702,0,20,OCT25,2006,wi
-9214687,"Milenkovic, Marko",SRB,M,,,,AIM,1700,0,OCT25,2009,
+9214687,"Milenkovic, Marko",SRB,M,,,,1700,0,,OCT25,2009,
 965057,"Milenkovic, Mihailo",SRB,M,,,,1755,0,20,OCT25,2000,i
 913375,"Milenkovic, Mladen",SRB,M,IM,"FT,IA",,2251,0,10,OCT25,1973,
 9214695,"Milenkovic, Pavle",SRB,M,,,,2052,0,40,OCT25,2009,
@@ -2092,7 +2092,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9204819,"Milicevic, Marko D",SRB,M,,,,1810,0,20,OCT25,1991,i
 9224763,"Milicevic, Miroslav",SRB,M,,,,1722,0,20,OCT25,1959,i
 941166,"Milicevic, Petar",SRB,M,,,,1852,0,20,OCT25,1963,
-9240190,"Milicevic, Vasil",SRB,M,,,,1434,0,40,OCT25,2016,
+9240190,"Milicevic, Vasil",SRB,M,,,,1430,0,40,OCT25,2016,
 9222590,"Milicic, Stefan",SRB,M,,,,1749,0,20,OCT25,1996,i
 948730,"Milikic, Milorad",SRB,M,,,,1999,0,20,OCT25,1959,i
 930474,"Milin, Dragan",SRB,M,,,,1979,0,20,OCT25,1946,
@@ -2127,16 +2127,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 998656,"Milkovski, Brane",SRB,M,,,,1764,0,20,OCT25,1956,i
 901946,"Milojcic, Zeljko",SRB,M,,,,1823,0,20,OCT25,1960,i
 983780,"Milojevic, Aleksa Z",SRB,M,,,,1767,0,20,OCT25,2004,
-943657,"Milojevic, Boban",SRB,M,,,,AIM,1860,0,OCT25,1960,i
+943657,"Milojevic, Boban",SRB,M,,,,1860,0,,OCT25,1960,i
 9206013,"Milojevic, Djordje",SRB,M,,,,1534,0,20,OCT25,2005,i
-9219662,"Milojevic, Dunja",SRB,F,,,,1663,34,40,OCT25,2014,w
+9219662,"Milojevic, Dunja",SRB,F,,,,1662,34,40,OCT25,2014,w
 922994,"Milojevic, Dusan",SRB,M,,,,2128,0,20,OCT25,1964,
 9232200,"Milojevic, Jelena",SRB,F,,,,1690,13,20,OCT25,1983,w
 964166,"Milojevic, Milorad",SRB,M,,,,1794,0,20,OCT25,1944,i
 907464,"Milojevic, Miodrag",SRB,M,,,,1896,0,20,OCT25,1972,
 995371,"Milojevic, Miroslav",SRB,M,,,,1720,0,20,OCT25,1949,i
 931810,"Milojevic, Nebojsa",SRB,M,,,,1910,0,20,OCT25,1981,i
-983110,"Milojevic, Nenad",SRB,M,,,,1678,0,20,OCT25,2005,
+983110,"Milojevic, Nenad",SRB,M,,,,1677,0,20,OCT25,2005,
 9228823,"Milojevic, Petar",SRB,M,,,,1572,0,40,OCT25,2011,
 9220776,"Milojevic, Tadija",SRB,M,,,,1651,0,40,OCT25,2011,
 977683,"Milojic, Predrag",SRB,M,,,,1738,0,20,OCT25,1949,i
@@ -2159,7 +2159,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 985376,"Milosevic, Aleksandar J",SRB,M,,,,2135,0,20,OCT25,1996,
 9234157,"Milosevic, Andrej",SRB,M,,,,1829,0,40,OCT25,2010,
 931756,"Milosevic, Boban",SRB,M,,,,2221,0,20,OCT25,1970,i
-9255847,"Milosevic, Dragan A",SRB,M,,,,1547,0,20,OCT25,1979,
+9255847,"Milosevic, Dragan A",SRB,M,,,,1548,0,20,OCT25,1979,
 900427,"Milosevic, Jovana",SRB,F,WFM,WFM,,2042,0,20,OCT25,1996,wi
 9212927,"Milosevic, Justina",SRB,F,,,,1699,24,40,OCT25,2011,w
 985783,"Milosevic, Lazar D",SRB,M,,,,1600,0,20,OCT25,2002,i
@@ -2250,7 +2250,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 967580,"Mitrovic, Aleksandar",SRB,M,,,,1961,0,20,OCT25,1984,i
 9234564,"Mitrovic, Ana",SRB,F,,,,1499,0,40,OCT25,2011,w
 9244462,"Mitrovic, Andrej",SRB,M,,,,1455,0,20,OCT25,1992,i
-9223244,"Mitrovic, Anja",SRB,F,,,,1661,0,40,OCT25,2011,w
+9223244,"Mitrovic, Anja",SRB,F,,,,1659,0,40,OCT25,2011,w
 927023,"Mitrovic, Darko R",SRB,M,FM,,,2150,0,20,OCT25,1981,i
 917605,"Mitrovic, Dragan S",SRB,M,,,,1909,0,20,OCT25,1956,i
 914410,"Mitrovic, Goran",SRB,M,,,,1963,0,20,OCT25,1979,i
@@ -2270,10 +2270,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 940690,"Mladenovic, Aleksandar D",SRB,M,,,,2036,10,20,OCT25,1988,
 933848,"Mladenovic, Aleksandar M",SRB,M,,,,1714,0,20,OCT25,1978,
 9211874,"Mladenovic, Dragan",SRB,M,,,,1910,0,20,OCT25,1954,
-932612,"Mladenovic, Dusan",SRB,M,,,,2046,11,20,OCT25,1957,
+932612,"Mladenovic, Dusan",SRB,M,,,,2047,11,20,OCT25,1957,
 9211548,"Mladenovic, Iva",SRB,F,,,,1781,0,20,OCT25,2005,wi
 9216914,"Mladenovic, Luka",SRB,M,,,,1549,0,40,OCT25,2008,i
-990060,"Mladenovic, Masa",SRB,F,,,,1589,0,40,OCT25,2009,w
+990060,"Mladenovic, Masa",SRB,F,,NA,,1589,0,40,OCT25,2009,w
 904864,"Mladenovic, Miodrag",SRB,M,,,,2123,0,20,OCT25,1949,i
 942227,"Mladenovic, Stefan",SRB,M,FM,,,2320,0,10,OCT25,1995,i
 995738,"Mladenovic, Vladimir",SRB,M,,,,1713,0,20,OCT25,1958,i
@@ -2291,7 +2291,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 969044,"Molnar, Luka",SRB,M,,,,1840,0,20,OCT25,2005,i
 981532,"Momcilovic, Mihailo",SRB,M,,,,1932,0,40,OCT25,2007,i
 9250926,"Momcilovic, Sergej",SRB,M,,,,1436,0,40,OCT25,2018,
-9240971,"Momic Gose, Adrian",SRB,M,,,,1642,0,40,OCT25,2013,
+9240971,"Momic Gose, Adrian",SRB,M,,,,1641,0,40,OCT25,2013,
 9233436,"Morosan, Sinisa",SRB,M,,,,1979,0,20,OCT25,1961,i
 970093,"Moskovljevic, Zoran",SRB,M,,,,1982,0,20,OCT25,1967,i
 986704,"Mosur, Mihailo",SRB,M,,,,1648,0,40,OCT25,2009,
@@ -2299,11 +2299,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 933406,"Mrdak, Milomir",SRB,M,,,,1855,0,20,OCT25,1954,
 9235137,"Mrdja, Nikola",SRB,M,,,,1728,0,20,OCT25,1999,i
 9237342,"Mrdjen, Aleksa",SRB,M,,,,1495,0,20,OCT25,2000,i
-907766,"Mrsevic, Miroslav",SRB,M,,,,2120,0,20,OCT25,1962,
+907766,"Mrsevic, Miroslav",SRB,M,,,,2119,0,20,OCT25,1962,
 9249960,"Mrvic, Luka",SRB,M,,,,1679,9,20,OCT25,2003,
 922307,"Mrzic, Branko",SRB,M,,,,1823,0,20,OCT25,1951,i
 9248077,"Mucalica, Jaksa",SRB,M,,,,1547,0,40,OCT25,2015,
-9245019,"Muci, Robert",SRB,M,,,,1544,0,20,OCT25,1990,
+9245019,"Muci, Robert",SRB,M,,,,1543,0,20,OCT25,1990,
 9224216,"Mucibacic, Bane",SRB,M,,,,1809,0,20,OCT25,1994,i
 915416,"Mujovic, Galib",SRB,M,,,,2060,0,20,OCT25,1951,i
 9233169,"Mukhametshin, Rinat R",SRB,M,,,,1581,0,20,OCT25,1990,i
@@ -2325,7 +2325,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 934003,"Nadj Hedjesi, Balind",SRB,M,IM,,,2349,0,10,OCT25,1985,
 925845,"Nadj, Zoltan",SRB,M,,,,2001,0,20,OCT25,1955,i
 9258480,"Nadrljanski, Srdjan",SRB,M,,,,1592,6,40,OCT25,1976,
-931420,"Nagy Abonyi, Arnold",SRB,M,,,,1552,0,20,OCT25,1978,
+931420,"Nagy Abonyi, Arnold",SRB,M,,,,1551,0,20,OCT25,1978,
 927660,"Nagy, Attila N",SRB,M,,,,2142,0,20,OCT25,1971,
 9249456,"Nahtman, Bozidar",SRB,M,,,,1615,0,20,OCT25,1970,
 985791,"Najdanovic, Veljko",SRB,M,,,,1744,0,20,OCT25,2004,i
@@ -2334,7 +2334,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 978370,"Nastic, Branislav",SRB,M,,,,1783,0,20,OCT25,1982,
 9208784,"Nastic, Veselin",SRB,M,,,,1930,0,20,OCT25,1955,i
 931438,"Naumov, Marinko",SRB,M,,,,1858,0,20,OCT25,1982,i
-947105,"Naumovski, Jovica",SRB,M,,,,1758,0,20,OCT25,1990,
+947105,"Naumovski, Jovica",SRB,M,,,,1759,0,20,OCT25,1990,
 915599,"Navratil, Tomislav",SRB,M,,,,2075,0,20,OCT25,1964,i
 9227371,"Nebesni, Boris",SRB,M,,,,1541,0,20,OCT25,1993,i
 929620,"Necevski, Aleksandar",SRB,M,FM,,,2283,0,20,OCT25,1981,i
@@ -2349,7 +2349,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 941620,"Nedeljkovic, Radmila",SRB,F,,,,1972,0,20,OCT25,1991,wi
 995177,"Nedeljkovic, Slobodan",SRB,M,,,,1691,0,20,OCT25,1965,
 914134,"Nedeljkovic, Stanislava",SRB,F,,,,1773,0,20,OCT25,1995,wi
-998397,"Nedeljkovic, Velja",SRB,M,,,,AIM,2005,0,OCT25,2010,i
+998397,"Nedeljkovic, Velja",SRB,M,,,,2005,0,,OCT25,2010,i
 9246198,"Nedic, Matija",SRB,M,,,,1451,0,40,OCT25,2015,
 975834,"Nejkovic, Miroljub",SRB,M,,,,2003,0,20,OCT25,1961,i
 9246988,"Nenadov, Bosko",SRB,M,,,,1748,11,20,OCT25,1952,
@@ -2361,7 +2361,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 957194,"Nesic, Vladimir",SRB,M,,,,1937,0,20,OCT25,1961,
 980358,"Nesic, Vladimir Z",SRB,M,,,,2054,0,20,OCT25,1971,
 9217449,"Nesic, Vojin",SRB,M,,,,1652,0,40,OCT25,2008,i
-984663,"Nesic, Vukadin",SRB,M,,,,AFM,1916,0,OCT25,1978,
+984663,"Nesic, Vukadin",SRB,M,,,,1916,0,,OCT25,1978,
 970263,"Neskovic, Aleksandar",SRB,M,,,,1931,0,20,OCT25,1951,
 9250489,"Neskovic, Slavko",SRB,M,,,,1881,0,20,OCT25,1969,
 9212935,"Neskovic, Vidak",SRB,M,,,,1694,0,40,OCT25,2009,i
@@ -2436,7 +2436,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 941697,"Nisavic, Pavle",SRB,M,,,,2070,0,20,OCT25,1949,i
 948578,"Nisic, Miroslav",SRB,M,,,,1907,0,20,OCT25,1962,
 9216000,"Niskic, Ognjen",SRB,M,,,,1825,0,40,OCT25,2007,i
-902543,"Njaguljevic, Dragan",SRB,M,,NA,,1821,10,20,OCT25,1960,
+902543,"Njaguljevic, Dragan",SRB,M,,NA,,1822,10,20,OCT25,1960,
 904996,"Njegic, Vladimir",SRB,M,,,,2132,0,20,OCT25,1980,
 944920,"Nonkovic, Bogdana",SRB,F,,,,2016,0,20,OCT25,1994,wi
 944939,"Nonkovic, Nikola",SRB,M,,,,1933,0,20,OCT25,1995,i
@@ -2459,7 +2459,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9216302,"Novcic, Marko",SRB,M,,,,1741,0,20,OCT25,1985,i
 964093,"Novcic, Milan",SRB,M,,,,1926,0,20,OCT25,1964,i
 912778,"Novcic, Tomislav",SRB,M,,,,1845,0,20,OCT25,1955,i
-15007111,"Novevski, Bojan",SRB,M,,,,AFM,1610,0,OCT25,1986,
+15007111,"Novevski, Bojan",SRB,M,,,,1610,0,,OCT25,1986,
 9248085,"Novkovic, Nikodin",SRB,M,,,,1408,0,40,OCT25,2014,
 901970,"Novoselski, Zoran",SRB,M,IM,,,2260,0,10,OCT25,1955,
 939390,"Novovic, Veljko",SRB,M,,,,1854,0,20,OCT25,1991,i
@@ -2497,7 +2497,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 996726,"Opacic, Aleksa",SRB,M,,,,1702,0,40,OCT25,2007,i
 936812,"Orcik, Istvan",SRB,M,,,,1777,0,20,OCT25,1964,i
 9215373,"Orlic, Helena",SRB,F,,,,1528,0,40,OCT25,2012,wi
-9200538,"Orlic, Vukasin",SRB,M,,,,1875,13,40,OCT25,2007,
+9200538,"Orlic, Vukasin",SRB,M,,,,1876,13,40,OCT25,2007,
 906352,"Orlov, Konstantin",SRB,M,FM,,,2107,0,20,OCT25,1952,
 998680,"Orlovic, Jovan",SRB,M,,,,1677,0,20,OCT25,1978,i
 997595,"Orlovic, Slavoljub",SRB,M,,,,1765,0,20,OCT25,1951,i
@@ -2534,7 +2534,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 963160,"Panov, Kiro",SRB,M,,,,1849,0,20,OCT25,1945,i
 9219646,"Pantelic, Andrija",SRB,M,,,,1494,0,40,OCT25,2011,i
 9230925,"Pantelic, Igor",SRB,M,,,,1604,0,20,OCT25,2002,
-977667,"Pantelic, Ilija",SRB,M,,,,1511,87,20,OCT25,2001,
+977667,"Pantelic, Ilija",SRB,M,,,,1512,87,20,OCT25,2001,
 933210,"Pantelic, Sasa",SRB,M,FM,,,2233,0,20,OCT25,1971,
 992445,"Pantelic, Zoran",SRB,M,,,,1716,0,20,OCT25,1963,
 915777,"Pantic, Dejan",SRB,M,,,,1881,11,20,OCT25,1974,
@@ -2542,7 +2542,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 962783,"Pantic, Milos",SRB,M,,,,1857,0,20,OCT25,1999,i
 918342,"Pantic, Miroslav",SRB,M,,,,1780,42,20,OCT25,1962,
 971502,"Pantic, Slobodan",SRB,M,,,,1745,0,20,OCT25,1965,
-9216027,"Pantic, Vanja",SRB,M,,,,ACM,1616,0,OCT25,2008,i
+9216027,"Pantic, Vanja",SRB,M,,,,1616,0,,OCT25,2008,i
 9234718,"Pantic, Vojislav",SRB,M,,,,1720,0,20,OCT25,2000,i
 915211,"Pantovic, Dragan M",SRB,M,,,,2070,0,20,OCT25,1968,i
 905038,"Pantovic, Milutin",SRB,M,,,,1858,0,20,OCT25,1955,i
@@ -2567,7 +2567,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9202859,"Patarica, Attila",SRB,M,,,,1571,0,40,OCT25,2008,i
 932680,"Paulic, Damir",SRB,M,,,,2014,0,20,OCT25,1984,i
 9252155,"Paunovic, Dimitrije",SRB,M,,,,1535,0,40,OCT25,2018,
-985775,"Paunovic, Lazar",SRB,M,,,,1879,0,40,OCT25,2007,
+985775,"Paunovic, Lazar",SRB,M,,,,1878,0,40,OCT25,2007,
 970921,"Paunovic, Ljubomir",SRB,M,,,,1963,0,20,OCT25,1946,i
 912786,"Paunovic, Miljko",SRB,M,,,,1935,0,20,OCT25,1959,i
 987018,"Paunovic, Srdjan",SRB,M,,,,1912,0,20,OCT25,1969,i
@@ -2584,7 +2584,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 958352,"Pavlasevic, Dragisa",SRB,M,,,,1790,0,20,OCT25,1987,
 957836,"Pavlicevic, Predrag",SRB,M,,,,1993,0,20,OCT25,1962,i
 9209195,"Pavlik, Dunja",SRB,F,,,,1546,0,40,OCT25,2009,wi
-9224259,"Pavlovic, Aleksej",SRB,M,,,,1678,9,40,OCT25,2014,
+9224259,"Pavlovic, Aleksej",SRB,M,,,,1679,9,40,OCT25,2014,
 979678,"Pavlovic, Andrea",SRB,F,,,,1788,0,20,OCT25,2004,wi
 979635,"Pavlovic, Andrija",SRB,M,,,,1933,11,20,OCT25,2004,
 959197,"Pavlovic, Branka",SRB,F,,,,1875,0,20,OCT25,1977,wi
@@ -2625,7 +2625,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 969320,"Pejovic, Velibor",SRB,M,,,,1770,0,20,OCT25,1949,
 989231,"Pekic, Pavle",SRB,M,,,,1640,0,20,OCT25,2005,i
 933155,"Pekovic, Zoran",SRB,M,,,,1991,0,20,OCT25,1951,i
-9252465,"Pendic, Milos",SRB,M,,,,1621,0,20,OCT25,1991,
+9252465,"Pendic, Milos",SRB,M,,,,1622,0,20,OCT25,1991,
 919900,"Peovic, Milos",SRB,M,,NA,,2137,0,20,OCT25,1960,i
 906760,"Pepic, Rizo",SRB,M,,,,2094,11,20,OCT25,1962,
 983500,"Percevic, Velimir",SRB,M,,,,1849,0,20,OCT25,1960,i
@@ -2723,7 +2723,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 954667,"Petrovic, Petar R",SRB,M,,NA,,1990,0,20,OCT25,1999,i
 978264,"Petrovic, Petar T",SRB,M,,,,1557,0,20,OCT25,2005,i
 9223112,"Petrovic, Radoslav",SRB,M,,,,1490,0,20,OCT25,1956,
-9230712,"Petrovic, Relja V",SRB,M,,,,1638,0,40,OCT25,2014,
+9230712,"Petrovic, Relja V",SRB,M,,,,1639,0,40,OCT25,2014,
 992380,"Petrovic, Sasa Zi",SRB,M,,,,1726,0,20,OCT25,1965,i
 982369,"Petrovic, Slavoljub",SRB,M,,,,1721,0,20,OCT25,1935,i
 938831,"Petrovic, Tamara",SRB,F,,,,1805,0,20,OCT25,1998,wi
@@ -2772,9 +2772,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 913227,"Poleksic, Petar",SRB,M,,,,1944,0,20,OCT25,1993,
 9201429,"Poletanovic, Pero",SRB,M,,,,1772,0,20,OCT25,1958,i
 9256797,"Polic, Stefan",SRB,M,,,,1633,0,20,OCT25,2006,
-2502887,"Polimac, Darko",SRB,M,,,,AIM,1993,0,OCT25,1970,i
+2502887,"Polimac, Darko",SRB,M,,,,1993,0,,OCT25,1970,i
 955469,"Poljakovic, Goran",SRB,M,,,,2035,0,20,OCT25,1969,i
-9242168,"Popadic, Bane",SRB,M,,,,1613,28,20,OCT25,1988,
+9242168,"Popadic, Bane",SRB,M,,,,1614,28,20,OCT25,1988,
 975800,"Popadic, Dragan B",SRB,M,,,,1916,0,20,OCT25,1955,
 9215527,"Popadic, Filip",SRB,M,,,,1536,11,40,OCT25,2016,
 9221209,"Popic, Pantelija",SRB,M,,,,1719,0,40,OCT25,2011,i
@@ -2871,7 +2871,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9224194,"Radenkovic, Ilija",SRB,M,,,,1525,0,40,OCT25,2016,i
 9208776,"Radenkovic, Irina",SRB,F,,,,1527,0,40,OCT25,2012,wi
 9210231,"Radenkovic, Josif",SRB,M,,,,1788,11,20,OCT25,1995,
-9213788,"Radenkovic, Lena",SRB,F,,,,1462,6,40,OCT25,2013,w
+9213788,"Radenkovic, Lena",SRB,F,,,,1463,6,40,OCT25,2013,w
 9237580,"Radenkovic, Luka",SRB,M,,,,1674,0,40,OCT25,2014,i
 979953,"Radenkovic, Mila",SRB,F,,NA,,1967,22,40,OCT25,2007,w
 982954,"Radenkovic, Mina",SRB,F,,NA,,1716,0,20,OCT25,2003,wi
@@ -2901,12 +2901,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 979902,"Radivojevic, Stojanca",SRB,M,,,,1751,0,20,OCT25,1950,i
 907219,"Radivojevic, Tomislav",SRB,M,,,,2092,0,20,OCT25,1972,
 9212129,"Radivojevic, Vukasin",SRB,M,,,,1888,0,20,OCT25,2003,
-996440,"Radivojevic, Zelimir",SRB,M,,,,AFM,1772,0,OCT25,1977,
+996440,"Radivojevic, Zelimir",SRB,M,,,,1772,0,,OCT25,1977,
 964468,"Radivojevic, Zoran",SRB,M,,,,1809,0,20,OCT25,1952,i
 927333,"Radjenovic, Dejan",SRB,M,,,,1972,0,20,OCT25,1979,i
 907430,"Radlovacki, Jovan",SRB,M,IM,,,2262,13,10,OCT25,1967,
 996742,"Radmanovic, Anja",SRB,F,,,,1633,0,40,OCT25,2008,wi
-9231271,"Radnic, Aleksa",SRB,M,,,,AIM,2024,0,OCT25,2012,
+9231271,"Radnic, Aleksa",SRB,M,,,,2024,0,,OCT25,2012,
 9233177,"Radnic, Slavko",SRB,M,,,,1745,0,20,OCT25,1981,
 9255529,"Radojevic, Marko",SRB,M,,,,1604,0,20,OCT25,1999,
 931551,"Radojevic, Sasa Z",SRB,M,,,,1959,0,20,OCT25,1970,
@@ -2956,7 +2956,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 957860,"Radovic, Zeljko",SRB,M,,,,1967,0,20,OCT25,1964,i
 956317,"Radulov, Nevena",SRB,F,,,,1893,0,20,OCT25,2000,wi
 9231280,"Radulovic, Filip R",SRB,M,,,,1638,0,40,OCT25,2010,
-9227886,"Radulovic, Filip V",SRB,M,,,,1660,13,40,OCT25,2014,
+9227886,"Radulovic, Filip V",SRB,M,,,,1662,13,40,OCT25,2014,
 973068,"Radulovic, Miroslav",SRB,M,,,,1747,0,20,OCT25,1963,
 957682,"Radulovic, Sasa",SRB,M,,,,1914,0,20,OCT25,1978,i
 939986,"Radusinovic, Lazar",SRB,M,,,,2354,0,10,OCT25,1993,
@@ -2988,7 +2988,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9223970,"Rajkovic, Petra",SRB,F,,,,1441,9,40,OCT25,2013,w
 909106,"Rajkovic, Slobodan",SRB,M,,,,1858,0,20,OCT25,1944,i
 953369,"Rajkovic, Zoran",SRB,M,,,,1822,0,20,OCT25,1959,
-997650,"Rajlic, Boris",SRB,M,,,,2093,13,40,OCT25,2008,
+997650,"Rajlic, Boris",SRB,M,,,,2094,13,40,OCT25,2008,
 9204789,"Rajlic, Irina",SRB,F,,,,1637,13,40,OCT25,2012,w
 967661,"Rajs, Vladimir",SRB,M,,,,1836,0,20,OCT25,1982,i
 9212951,"Rajsic, Jovan",SRB,M,,,,1693,0,20,OCT25,2000,i
@@ -3000,7 +3000,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 961604,"Rakic, Matija",SRB,M,,,,1831,0,20,OCT25,1938,
 926248,"Rakic, Miodrag",SRB,M,,,,1981,0,20,OCT25,1957,i
 952249,"Rakic, Nikola",SRB,M,,,,1785,0,20,OCT25,2002,i
-9210975,"Rakic, Nikola V",SRB,M,,,,1880,0,40,OCT25,2011,
+9210975,"Rakic, Nikola V",SRB,M,,,,1879,0,40,OCT25,2011,
 953377,"Rakic, Ognjan",SRB,M,,,,1739,0,20,OCT25,1944,
 979198,"Rakic, Sasa",SRB,M,,,,1765,0,20,OCT25,1973,i
 974617,"Rakic, Sava",SRB,M,,,,1834,0,20,OCT25,2001,i
@@ -3093,7 +3093,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9221713,"Rogic, Vuk",SRB,M,,,,1561,0,40,OCT25,2009,i
 916668,"Rolic, Gojko",SRB,M,CM,NA,,1922,0,20,OCT25,1960,
 920363,"Rolj, Petar",SRB,M,,,,1925,0,20,OCT25,1945,i
-9231484,"Roman, Jon",SRB,M,,,,1675,0,20,OCT25,1990,
+9231484,"Roman, Jon",SRB,M,,,,1674,0,20,OCT25,1990,
 9232219,"Roman, Jonel",SRB,M,,,,1645,0,20,OCT25,1959,
 917265,"Romanovic, Trajan",SRB,M,,,,2178,0,20,OCT25,1949,
 909858,"Roska, Branislav",SRB,M,,,,2119,21,20,OCT25,1965,
@@ -3101,7 +3101,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 926930,"Rudovic, Anja",SRB,F,,,,1725,0,20,OCT25,1999,wi
 954926,"Rudovic, Masa",SRB,F,,,,1640,0,20,OCT25,2004,wi
 982377,"Rutesic, Vuk",SRB,M,,,,2017,0,20,OCT25,2002,i
-9253305,"Ruzan, Stefan",SRB,M,,,,1418,0,40,OCT25,2011,
+9253305,"Ruzan, Stefan",SRB,M,,,,1419,0,40,OCT25,2011,
 9210568,"Ruzic, Bojan",SRB,M,,,,1663,0,20,OCT25,1978,i
 972673,"Ruzicic, Darko",SRB,M,,,,1971,0,20,OCT25,1987,
 9203090,"Ruzicic, Jakov",SRB,M,,,,1668,0,40,OCT25,2009,i
@@ -3123,17 +3123,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9244942,"Sakota, Milan",SRB,M,,,,1654,0,20,OCT25,1994,
 955329,"Sakotic, Ana",SRB,F,,NA,,1737,0,20,OCT25,2003,w
 9210274,"Sakotic, Djoko",SRB,M,,,,1756,0,20,OCT25,1955,
-9218275,"Sakotic, Nikola",SRB,M,,,,AFM,2047,9,OCT25,2012,
+9218275,"Sakotic, Nikola",SRB,M,,,,2047,9,,OCT25,2012,
 936308,"Salapura, Zeljko",SRB,M,,,,1831,0,20,OCT25,1975,i
 936316,"Salgo, Sandor",SRB,M,,,,1969,0,20,OCT25,1945,i
 9231298,"Samardzic, Sergej",SRB,M,,,,1598,0,40,OCT25,2011,
 9221241,"Samardzic, Vuk",SRB,M,,,,1606,0,40,OCT25,2014,
 982199,"Sandic, Dimitrije",SRB,M,,,,1599,0,20,OCT25,2001,i
 901784,"Sandic, Vladeta",SRB,M,FM,,,2179,0,20,OCT25,1958,
-956325,"Saponja, Vladimir",SRB,M,,NA,,AFM,1830,0,OCT25,1980,
+956325,"Saponja, Vladimir",SRB,M,,NA,,1830,0,,OCT25,1980,
 9212749,"Sarac, Dalibor",SRB,M,,,,1440,0,40,OCT25,2011,i
 9212757,"Sarac, Dejan",SRB,M,,,,1507,0,40,OCT25,2007,i
-24133795,"Sarana, Alexey",SRB,M,GM,,,2703,0,10,OCT25,2000,
+24133795,"Sarana, Alexey",SRB,M,GM,,,2704,0,10,OCT25,2000,
 936669,"Sarenac, David",SRB,M,,,,2257,13,10,OCT25,1990,
 938165,"Sarenac, Ivan",SRB,M,IM,,,2296,13,10,OCT25,1990,
 986950,"Saric, Miroslav",SRB,M,,,,1899,0,20,OCT25,1961,i
@@ -3232,7 +3232,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9242885,"Siladji, Leon",SRB,M,,,,1470,0,40,OCT25,2010,i
 9214121,"Simanic, Pavle",SRB,M,,,,1525,0,40,OCT25,2010,i
 2900513,"Simeonov, Stefan",SRB,M,,,,2240,0,20,OCT25,1964,i
-936146,"Simetic, Ostoja",SRB,M,,,,AIM,1757,9,OCT25,1977,
+936146,"Simetic, Ostoja",SRB,M,,,,1757,9,,OCT25,1977,
 927112,"Simeunovic, Predrag",SRB,M,,,,1975,0,20,OCT25,1963,i
 958670,"Simic, Anja",SRB,F,,,,1798,0,20,OCT25,2001,wi
 9224100,"Simic, Anja S",SRB,F,,,,1710,0,40,OCT25,2009,wi
@@ -3316,10 +3316,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9201011,"Solajic, Miloljub",SRB,M,,,,1667,0,20,OCT25,1953,
 923591,"Solak, Rade",SRB,M,,,,1939,0,20,OCT25,1951,i
 14400596,"Solomunovic, Igor",SRB,M,IM,,,2447,0,10,OCT25,1972,i
-949094,"Solymosi, Andras",SRB,M,CM,,,2050,0,20,OCT25,1993,
+949094,"Solymosi, Andras",SRB,M,CM,,,2049,0,20,OCT25,1993,
 997374,"Somborac, Dejan",SRB,M,,,,1918,0,20,OCT25,1967,i
 906115,"Somborski, Nebojsa",SRB,M,FM,,,2218,0,20,OCT25,1964,
-9244977,"Sopov, Petr",SRB,M,,,,1410,0,40,OCT25,2011,
+9244977,"Sopov, Petr",SRB,M,,,,1411,0,40,OCT25,2011,
 941867,"Spahic, Nevzet",SRB,M,,,,1966,0,20,OCT25,1959,i
 9212765,"Spajic, Ivan",SRB,M,,,,1806,0,20,OCT25,1975,
 9242265,"Spajic, Stefan",SRB,M,,,,1544,0,20,OCT25,1992,i
@@ -3422,7 +3422,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 959995,"Stanojevic, Ilija",SRB,M,FM,,,2227,26,20,OCT25,2001,
 964107,"Stanojevic, Jovan",SRB,M,,,,1649,0,20,OCT25,2005,i
 9201658,"Stanojevic, Lazar",SRB,M,,,,1690,0,20,OCT25,2003,
-9245728,"Stanojevic, Marko",SRB,M,,,,1623,13,20,OCT25,2005,
+9245728,"Stanojevic, Marko",SRB,M,,,,1624,13,20,OCT25,2005,
 9228440,"Stanojevic, Miroslav",SRB,M,,,,1467,0,20,OCT25,1991,i
 972509,"Stanojevic, Nikola",SRB,M,,,,1813,0,20,OCT25,1997,i
 919071,"Stanojevic, Slavko",SRB,M,,,,1950,0,20,OCT25,1954,i
@@ -3532,7 +3532,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9204991,"Stojanovic, Zarko",SRB,M,,,,1875,0,20,OCT25,1971,
 915270,"Stojanovic, Zoran H",SRB,M,,,,2056,0,20,OCT25,1970,i
 938009,"Stojanovski, Branko",SRB,M,,,,1894,0,20,OCT25,1972,i
-9258498,"Stojcic, Marko",SRB,M,,,,1548,8,40,OCT25,1974,
+9258498,"Stojcic, Marko",SRB,M,,,,1549,8,40,OCT25,1974,
 9237903,"Stojcic, Mateja",SRB,M,,,,1714,0,20,OCT25,2005,i
 974668,"Stojev, Nikola",SRB,M,,,,1779,0,20,OCT25,1998,i
 9245434,"Stojicevic, Mihajlo",SRB,M,,,,1559,0,40,OCT25,2011,i
@@ -3651,7 +3651,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 998303,"Teslic, Maksim",SRB,M,,,,1807,0,20,OCT25,2003,i
 9221543,"Teslic, Marko",SRB,M,,,,1574,0,40,OCT25,2009,i
 24114928,"Tilicheev, Viacheslav",SRB,M,GM,,,2451,0,10,OCT25,1994,i
-34419535,"Timofeeva, Darya Iv.",SRB,F,,,,1955,13,40,OCT25,2010,w
+34419535,"Timofeeva, Darya Iv.",SRB,F,,,,1956,13,40,OCT25,2010,w
 920614,"Tisma, Ivan",SRB,M,CM,,,2068,25,20,OCT25,1977,
 911402,"Tisma, Vladimir",SRB,M,,,,1915,0,20,OCT25,1978,i
 931284,"Titov, Ivan",SRB,M,FM,,,2114,0,20,OCT25,1984,
@@ -3665,7 +3665,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 943568,"Todorovic, Goran Z",SRB,M,,,,1963,0,20,OCT25,1968,i
 905526,"Todorovic, Jovan",SRB,M,IM,,,2291,0,10,OCT25,1970,
 938610,"Todorovic, Kosta",SRB,M,,NA,,1952,0,20,OCT25,1992,
-9254131,"Todorovic, Lazar D",SRB,M,,,,1503,0,40,OCT25,2012,
+9254131,"Todorovic, Lazar D",SRB,M,,,,1504,0,40,OCT25,2012,
 983594,"Todorovic, Ljubica",SRB,F,,,,1662,0,40,OCT25,2007,wi
 9244799,"Todorovic, Mateja",SRB,M,,,,1554,0,40,OCT25,2007,i
 992488,"Todorovic, Mikan",SRB,M,,,,1857,0,20,OCT25,1956,i
@@ -3712,12 +3712,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 977420,"Tomic, Zoran S",SRB,M,,,,1923,0,20,OCT25,1958,i
 945307,"Tomin, Bogdan",SRB,M,,,,2019,11,20,OCT25,1994,
 959413,"Tomovic, Miroslav",SRB,M,,,,1914,0,20,OCT25,1955,i
-969087,"Toncic, Danilo",SRB,M,,,,1984,24,20,OCT25,1983,
+969087,"Toncic, Danilo",SRB,M,,,,1983,24,20,OCT25,1983,
 952168,"Tonic, Milos",SRB,M,,,,2077,0,20,OCT25,1991,
 9232944,"Tonkovic, Slobodan",SRB,M,,,,1678,0,20,OCT25,1977,i
 925659,"Topalov, Aleksandar",SRB,M,CM,,,2151,0,20,OCT25,1977,i
 935964,"Torbica, Milos",SRB,M,,,,1978,42,20,OCT25,1962,
-9231310,"Tosic, Aleksandar",SRB,M,,,,AIM,1950,0,OCT25,1979,i
+9231310,"Tosic, Aleksandar",SRB,M,,,,1950,0,,OCT25,1979,i
 932221,"Tosic, Dragoljub",SRB,M,,,,1814,0,20,OCT25,1964,i
 989525,"Tosic, Jovan",SRB,M,,,,1679,0,20,OCT25,1960,
 922463,"Tosic, Nebojsa",SRB,M,,,,2061,0,20,OCT25,1970,
@@ -3876,9 +3876,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9222264,"Vidanovic, Vid",SRB,M,,,,1438,0,40,OCT25,2016,i
 951820,"Videkanic, Milan",SRB,M,,,,2030,0,20,OCT25,1962,
 9216035,"Videnovic, Boris",SRB,M,,,,1556,0,40,OCT25,2013,
-9232189,"Videnovic, Vuk",SRB,M,,,,1410,0,40,OCT25,2014,
+9232189,"Videnovic, Vuk",SRB,M,,,,1453,0,40,OCT25,2014,
 943622,"Vidic, Dobrivoje",SRB,M,,,,1814,0,20,OCT25,1934,i
-9207699,"Vidojevic, Marjan",SRB,M,,,,1677,7,20,OCT25,1983,
+9207699,"Vidojevic, Marjan",SRB,M,,,,1676,7,20,OCT25,1983,
 9243890,"Vidojevic, Vuk",SRB,M,,,,1768,0,20,OCT25,1989,i
 977977,"Vidojkovic, Ilija",SRB,M,,,,1799,0,20,OCT25,2002,i
 9254271,"Vidojkovic, Radmilo",SRB,M,,,,1804,0,20,OCT25,1956,
@@ -3910,7 +3910,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 992011,"Voina, Denis",SRB,M,,,,1468,0,20,OCT25,2006,
 930156,"Voina, Pau",SRB,M,,,,1959,0,20,OCT25,1961,
 9211963,"Voina, Victor",SRB,M,,,,1685,0,40,OCT25,2010,
-9211971,"Vojin, Lucijan",SRB,M,,,,1854,0,20,OCT25,1963,
+9211971,"Vojin, Lucijan",SRB,M,,,,1855,0,20,OCT25,1963,
 982156,"Vojinovic, Anastasija",SRB,F,,,,1702,0,40,OCT25,2008,w
 988006,"Vojinovic, Dmitar",SRB,M,,,,1615,0,20,OCT25,2006,i
 922846,"Vojinovic, Luka",SRB,M,FM,,,2245,0,20,OCT25,1995,
@@ -4005,7 +4005,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 940356,"Vukajlovic, Jovan",SRB,M,,,,1765,0,20,OCT25,2001,i
 9208644,"Vukanic, Vanja",SRB,M,,,,2089,0,40,OCT25,2008,
 9238268,"Vukanovic, Dusan",SRB,M,,,,1727,13,20,OCT25,1980,
-9238276,"Vukanovic, Vuk",SRB,M,,,,1489,12,40,OCT25,2011,
+9238276,"Vukanovic, Vuk",SRB,M,,,,1490,12,40,OCT25,2011,
 995894,"Vukasin, Ivana",SRB,F,,,,1563,0,40,OCT25,2007,wi
 9212137,"Vukasinovic, Darko",SRB,M,,,,2033,0,20,OCT25,1993,
 930628,"Vukasinovic, Dragan",SRB,M,,,,2018,0,20,OCT25,1962,i
@@ -4034,8 +4034,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9211130,"Vukovic, Marko",SRB,M,,,,1585,0,40,OCT25,2008,i
 9253488,"Vukovic, Matija",SRB,M,,,,1408,0,40,OCT25,2013,
 912018,"Vukovic, Miroslav R",SRB,M,,,,2144,0,20,OCT25,1973,
-9209225,"Vukovic, Momcilo D",SRB,M,,,,1830,43,40,OCT25,2009,
-9208741,"Vukovic, Uros",SRB,M,,,,1600,9,40,OCT25,1998,
+9209225,"Vukovic, Momcilo D",SRB,M,,,,1831,43,40,OCT25,2009,
+9208741,"Vukovic, Uros",SRB,M,,,,1599,9,40,OCT25,1998,
 914860,"Vukovic, Vladan",SRB,M,FM,,,2145,0,20,OCT25,1961,
 992178,"Vuksan, Branislav",SRB,M,,,,1855,0,20,OCT25,1957,i
 901130,"Vuksanovic, Djordjije",SRB,M,,,,1881,0,20,OCT25,1947,
@@ -4083,13 +4083,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 948276,"Zezelj, Dalibor",SRB,M,,,,1921,0,20,OCT25,1953,i
 9250802,"Zhang, Kaixin",SRB,M,,,,1706,13,40,OCT25,2012,
 9237741,"Zhiliakov, Vladislav",SRB,M,,,,1542,0,20,OCT25,1999,i
-9242311,"Zhivotov, Igor",SRB,M,,,,1488,0,20,OCT25,1989,
+9242311,"Zhivotov, Igor",SRB,M,,,,1492,0,20,OCT25,1989,
 9242303,"Zhivotova, Maiia",SRB,F,,,,1616,0,40,OCT25,2017,w
 915882,"Zigic, Stevan",SRB,M,,,,1729,0,20,OCT25,1960,i
 977594,"Zikic, Ljubomir",SRB,M,,,,1797,0,20,OCT25,1962,i
 9203820,"Zikic, Milivoje",SRB,M,,,,1749,0,20,OCT25,1954,i
 993727,"Zikic, Misa",SRB,M,,,,1906,0,20,OCT25,1985,i
-982911,"Zikic, Petar",SRB,M,,,,AFM,1677,0,OCT25,2004,i
+982911,"Zikic, Petar",SRB,M,,,,1677,0,,OCT25,2004,i
 9225514,"Zirojevic, Acim",SRB,M,,,,1597,0,40,OCT25,2011,i
 9212064,"Zivadinovic, Nikola",SRB,M,,,,1605,0,40,OCT25,2009,i
 9228661,"Zivadinovic, Zoran",SRB,M,,,,1740,0,20,OCT25,1986,i
@@ -4100,7 +4100,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9228874,"Zivanovic, Dobrica",SRB,M,,,,1488,0,40,OCT25,2009,i
 964727,"Zivanovic, Dragisa",SRB,M,,,,1783,0,20,OCT25,1936,i
 9211270,"Zivanovic, Dusica",SRB,F,,,,1664,0,40,OCT25,2009,wi
-9245418,"Zivanovic, Igor",SRB,M,,,,1735,0,20,OCT25,1973,
+9245418,"Zivanovic, Igor",SRB,M,,,,1736,0,20,OCT25,1973,
 973491,"Zivanovic, Ivan Z",SRB,M,,,,1846,0,20,OCT25,1981,i
 9211289,"Zivanovic, Julijana",SRB,F,,,,1500,0,40,OCT25,2007,wi
 995940,"Zivanovic, Lazar",SRB,M,,,,1639,0,40,OCT25,2010,i

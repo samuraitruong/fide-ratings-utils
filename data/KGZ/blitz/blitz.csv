@@ -1,18 +1,18 @@
 ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
-13804472,"Abaeva, Aiana",KGZ,F,WCM,WCM,,1645,0,40,OCT25,2009,w
+13804472,"Abaeva, Aiana",KGZ,F,WCM,WCM,,1646,0,40,OCT25,2009,w
 13834738,"Abdimitalipov, Abai",KGZ,M,,,,1864,0,40,OCT25,2008,
-13804413,"Abdivaliev, Daniial",KGZ,M,,,,1669,6,20,OCT25,1994,
+13804413,"Abdivaliev, Daniial",KGZ,M,,,,1668,6,20,OCT25,1994,
 13836633,"Abdizhalilov, Iliyaz",KGZ,M,,,,1549,0,40,OCT25,2008,
 13802364,"Abdrahmanov, Abduvali",KGZ,M,,,,1728,0,20,OCT25,1968,i
 13824295,"Abdraimov, Aibek",KGZ,M,,,,1534,0,20,OCT25,2003,i
 13847473,"Abdullaev, Bakhtier",KGZ,M,,,,1581,0,20,OCT25,2004,i
-13821385,"Abdullaev, Ysmayil",KGZ,M,,,,1948,7,40,OCT25,1995,
+13821385,"Abdullaev, Ysmayil",KGZ,M,,,,1949,7,40,OCT25,1995,
 13800256,"Abdurahmanov, Kamil",KGZ,M,,NA,,1591,0,20,OCT25,1954,
 13825321,"Abdurahmanov, Osmonbek",KGZ,M,,,,1746,0,20,OCT25,2000,i
 13807374,"Abdurahmanova, Ramina",KGZ,F,,,,1495,0,40,OCT25,2008,wi
-13803476,"Abdyldaev, Nurislam",KGZ,M,,,,AFM,1739,0,OCT25,2007,i
+13803476,"Abdyldaev, Nurislam",KGZ,M,,,,1739,0,,OCT25,2007,i
 13818007,"Abdyldaev, Nurzhigit",KGZ,M,,,,1558,0,40,OCT25,2009,i
-13820702,"Abdyrahmanov, Rysbek",KGZ,M,,,,AFM,1719,0,OCT25,2003,i
+13820702,"Abdyrahmanov, Rysbek",KGZ,M,,,,1719,0,,OCT25,2003,i
 13803700,"Abdyraimov, Smail",KGZ,M,,,,1488,0,20,OCT25,1956,
 13800337,"Abdyzhapar, Asylbek",KGZ,M,IM,,,2287,0,20,OCT25,1988,
 13800361,"Abdyzhaparov, Aidar",KGZ,M,,,,2002,0,20,OCT25,1978,i
@@ -30,14 +30,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13800264,"Akimov, Israil",KGZ,M,,,,1783,0,20,OCT25,1963,i
 13806882,"Akmatbekov, Aitegin",KGZ,M,,,,1749,0,20,OCT25,2003,
 13801600,"Akmatov, Altay",KGZ,M,,NA,,1770,0,20,OCT25,2003,i
-13809210,"Akmatov, Zhoomart",KGZ,M,,,,AGM,2034,9,OCT25,2008,
+13809210,"Akmatov, Zhoomart",KGZ,M,,,,2034,9,,OCT25,2008,
 13800353,"Akylbekov, Nasyr",KGZ,M,FM,,,2310,0,20,OCT25,1984,i
 13800990,"Aldashukurov, Yrysbek",KGZ,M,,,,1916,0,20,OCT25,1977,i
 13845039,"Alimbekov, Adahan",KGZ,M,,,,1563,0,40,OCT25,2010,i
 13850830,"Alimbekov, Alinur",KGZ,M,,,,1535,0,40,OCT25,2013,i
 13807170,"Alisherov, Abdulla",KGZ,M,,,,1797,0,20,OCT25,1948,i
 13802909,"Alisherov, Alikhan",KGZ,M,,,,1618,0,40,OCT25,2008,i
-13851187,"Alisherov, Altai",KGZ,M,,,,1635,11,40,OCT25,2017,
+13851187,"Alisherov, Altai",KGZ,M,,,,1634,11,40,OCT25,2017,
 13804090,"Almanbetov, Kubanych",KGZ,M,,,,1766,9,20,OCT25,1985,
 13830279,"Almazbekov, Alinur",KGZ,M,,,,1466,0,40,OCT25,2013,i
 13847546,"Almazbekov, Bekzhan",KGZ,M,,,,1726,0,40,OCT25,2009,
@@ -50,7 +50,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13819372,"Alymbekov, Arslan",KGZ,M,,,,1627,0,20,OCT25,2006,i
 13833499,"Amanbekova, Rozel",KGZ,F,,,,1445,0,40,OCT25,2011,wi
 13807773,"Amanov, Asad",KGZ,M,,,,1639,0,40,OCT25,2012,i
-13834100,"Amanova, Adiya",KGZ,F,,,,1478,0,40,OCT25,2013,wi
+13834100,"Amanova, Adiya",KGZ,F,,,,1479,0,40,OCT25,2013,wi
 13818732,"Amirazhanov, Bekbol",KGZ,M,,,,1914,9,40,OCT25,2008,
 13808931,"Amirjan, Bekbolot",KGZ,M,,,,1498,0,40,OCT25,2008,
 13804154,"Anarkasov, Aidar",KGZ,M,,,,1765,0,20,OCT25,1999,i
@@ -77,14 +77,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13846752,"Ataibekov, Islam",KGZ,M,,,,1492,0,40,OCT25,2017,i
 13807196,"Ataibekova, Aisuluu",KGZ,F,,,,1512,0,40,OCT25,2012,wi
 13802399,"Atakanov, Adil",KGZ,M,,,,1861,0,20,OCT25,2001,i
-13806084,"Atambaev, Selim",KGZ,M,,,,ACM,1593,0,OCT25,2008,i
+13806084,"Atambaev, Selim",KGZ,M,,,,1593,0,,OCT25,2008,i
 13800418,"Attokurov, Adilet",KGZ,M,,NA,,2004,0,20,OCT25,1986,i
 13836722,"Avazbekov, Elkhan",KGZ,M,,,,1510,0,40,OCT25,2013,i
 13808770,"Azarov, Alim",KGZ,M,,NA,,1537,0,40,OCT25,2007,i
 13808761,"Azarov, Azim",KGZ,M,,NA,,1511,0,40,OCT25,2007,i
 13805150,"Azhibaev, Keneshbek",KGZ,M,,,,1597,0,20,OCT25,1947,i
 13801970,"Azhigulov, Nurmat",KGZ,M,,,,1750,0,20,OCT25,2002,i
-13818090,"Azimov, Aslan",KGZ,M,,,,AIM,1794,0,OCT25,2009,
+13818090,"Azimov, Aslan",KGZ,M,,,,1794,0,,OCT25,2009,
 13818082,"Azimov, Islam",KGZ,M,,,,1737,0,40,OCT25,2009,
 13818104,"Azimov, Umar",KGZ,M,,,,1620,0,40,OCT25,2010,i
 13826298,"Azizbekov, Baiel",KGZ,M,,,,1405,0,40,OCT25,2011,i
@@ -97,7 +97,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13800841,"Baisynov, Islambek",KGZ,M,,NA,,1849,0,20,OCT25,1980,
 13842617,"Baiyshev, Iliyaz",KGZ,M,,,,1608,0,20,OCT25,2002,i
 13833260,"Bakirov, Azamat",KGZ,M,,,,1594,0,20,OCT25,1989,i
-13841327,"Baktybek Kyzy, Alika",KGZ,F,,,,1408,0,40,OCT25,2015,w
+13841327,"Baktybek Kyzy, Alika",KGZ,F,,,,1410,0,40,OCT25,2015,w
 13831631,"Bakytbek Uulu, Belek",KGZ,M,,,,1585,0,40,OCT25,2007,i
 13812467,"Bakytova, Altynai",KGZ,F,,,,1435,0,40,OCT25,2010,wi
 13813404,"Bakytova, Begimay",KGZ,F,,,,1569,0,20,OCT25,2004,wi
@@ -112,14 +112,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13802135,"Beishembaev, Zhusup",KGZ,M,,,,1987,0,20,OCT25,1998,i
 13803387,"Beishembiev, U",KGZ,M,,,,1698,0,20,OCT25,1961,
 13816942,"Bekbasarova, Nurnisa",KGZ,F,,,,1639,0,40,OCT25,2007,wi
-13816063,"Beknazarov, Emir",KGZ,M,,,,AIM,1881,0,OCT25,2010,
+13816063,"Beknazarov, Emir",KGZ,M,,,,1881,0,,OCT25,2010,
 13835483,"Beknazarov, Rahim",KGZ,M,,,,1675,0,40,OCT25,2015,
 13828959,"Bekova, Urnisa",KGZ,M,,,,1554,0,40,OCT25,2010,i
-13832557,"Bektemir uulu, Kairatbek",KGZ,M,,NA,,AIM,1697,0,OCT25,2005,
+13832557,"Bektemir uulu, Kairatbek",KGZ,M,,NA,,1697,0,,OCT25,2005,
 13835041,"Bektemirov, Bekzhan",KGZ,M,,,,1574,0,40,OCT25,2012,i
-13847562,"Bekturganov, Tynchtykbek",KGZ,M,,,,1693,0,20,OCT25,2003,
+13847562,"Bekturganov, Tynchtykbek",KGZ,M,,,,1692,0,20,OCT25,2003,
 13841335,"Bekturov, Atai",KGZ,M,,,,1516,0,40,OCT25,2014,i
-13802801,"Bektursunov, Nursultan",KGZ,M,,FA,,AFM,1719,0,OCT25,2002,
+13802801,"Bektursunov, Nursultan",KGZ,M,,FA,,1719,0,,OCT25,2002,
 13835726,"Belekov, Samidin",KGZ,M,,,,1663,0,20,OCT25,1965,i
 13816870,"Berdibaeva, Edisa",KGZ,F,,,,1699,0,40,OCT25,2010,wi
 13803670,"Beshimov, Mikhail",KGZ,M,,,,1961,0,20,OCT25,2002,
@@ -154,14 +154,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13840592,"Djumaliev, Talantbek",KGZ,M,,,,1819,8,20,OCT25,1983,
 13829807,"Dogdurbaev, Bael",KGZ,M,,,,1539,0,40,OCT25,2013,
 13857614,"Duishenaliev, Akbar",KGZ,M,,,,1508,0,20,OCT25,2000,
-13818155,"Duishenaliev, Dastan",KGZ,M,,,,1484,0,40,OCT25,2010,
+13818155,"Duishenaliev, Dastan",KGZ,M,,,,1483,0,40,OCT25,2010,
 13829734,"Duishenaliev, Eldar",KGZ,M,,,,1518,0,40,OCT25,2012,i
 13810812,"Duishenbekov, Elhan",KGZ,M,,,,1559,0,40,OCT25,2008,i
 13803409,Dulatov Batyrbek,KGZ,M,,,,1944,0,20,OCT25,1961,i
 13802780,"Dulatova, Aliia",KGZ,F,,,,1569,0,20,OCT25,1998,wi
 13813978,"Dzhansakov, Muratbek",KGZ,M,,,,1683,0,20,OCT25,1953,i
 13803689,"Dzhaparov, Medet",KGZ,M,,NA,,1814,0,20,OCT25,1975,i
-13836773,"Dzhaparova, Tatyna",KGZ,F,,,,1497,0,40,OCT25,2013,w
+13836773,"Dzhaparova, Tatyna",KGZ,F,,,,1494,0,40,OCT25,2013,w
 13835904,"Dzheenchoroev, Kubanychbek",KGZ,M,,,,1613,0,20,OCT25,1968,i
 13832263,"Dzhekshebaev, Nurali",KGZ,M,,,,1507,0,40,OCT25,2013,
 13802470,"Dzhenaliev, Azamat",KGZ,M,,,,1854,0,20,OCT25,1986,
@@ -169,13 +169,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13804529,"Dzhumagulov, Almanbet",KGZ,M,,,,1741,0,20,OCT25,1952,i
 13812777,"Dzhunushev, Altay",KGZ,M,,,,1689,0,40,OCT25,2010,i
 13814273,"Engalychev, Evgeniy",KGZ,M,,,,1657,0,20,OCT25,1990,i
-13835289,"Ermekov, Aaly",KGZ,M,,,,AIM,1589,0,OCT25,2011,i
+13835289,"Ermekov, Aaly",KGZ,M,,,,1589,0,,OCT25,2011,i
 13845250,"Ermekov, Davlet",KGZ,M,,,,1443,0,40,OCT25,2013,i
 13830120,Erzhanova Akinay,KGZ,F,,,,1684,0,40,OCT25,2013,wi
-13842005,"Esenaliev, Tabyshbek",KGZ,M,,,,1658,8,20,OCT25,1961,
+13842005,"Esenaliev, Tabyshbek",KGZ,M,,,,1657,8,20,OCT25,1961,
 13803573,"Esenbek kyzy, Aizhyldyz",KGZ,F,,,,1486,0,40,OCT25,2007,wi
 13800736,"Esenbek Uulu, Bakai",KGZ,M,,NA,,1931,0,20,OCT25,1995,
-13800680,"Esenbek Uulu, Ilimbek",KGZ,M,,"FI,IA",,AFM,1937,0,OCT25,1989,i
+13800680,"Esenbek Uulu, Ilimbek",KGZ,M,,"FI,IA",,1937,0,,OCT25,1989,i
 13845977,"Esengulov, Aitegin",KGZ,M,,,,1689,0,40,OCT25,2012,i
 13824686,"Esengulov, Yryskeldi",KGZ,M,,,,1758,0,40,OCT25,2009,i
 13803727,"Eshbekov, Kattabek",KGZ,M,,,,2026,0,20,OCT25,1973,i
@@ -204,7 +204,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13815091,"Isaev, Bakhodur",KGZ,M,,,,1623,0,20,OCT25,1989,i
 13801660,"Isaev, Chyngyz",KGZ,M,,,,2003,0,20,OCT25,1999,
 13806157,"Isaeva, Ainura",KGZ,F,,,,1473,0,40,OCT25,2011,wi
-13830325,"Isakov, Amin",KGZ,M,,,,1845,8,40,OCT25,2012,
+13830325,"Isakov, Amin",KGZ,M,,,,1844,8,40,OCT25,2012,
 13827898,"Isakov, Artem",KGZ,M,,,,1512,0,40,OCT25,2007,i
 13836889,"Isakov, Dastan",KGZ,M,,,,1675,0,20,OCT25,1992,i
 13808079,"Isakov, Mukhammad",KGZ,M,,FA,,1696,0,20,OCT25,1990,i
@@ -214,7 +214,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13802402,"Isirailov, Nurgazy",KGZ,M,,,,1785,0,20,OCT25,1985,
 13800868,"Isirailov, Tynar",KGZ,M,,,,1720,0,20,OCT25,1972,i
 13806556,"Iskenderbekov, Erbol",KGZ,M,,,,1542,0,20,OCT25,2005,i
-13840401,"Ismailov, Abu-Bakr",KGZ,M,,,,1679,0,40,OCT25,2014,i
+13840401,"Ismailov, Abu-Bakr",KGZ,M,,,,1680,0,40,OCT25,2014,i
 13855050,"Ismailov, Alinur",KGZ,M,,,,1548,0,40,OCT25,2016,
 13837095,"Ismailov, Hairula",KGZ,M,,,,1621,0,20,OCT25,1978,i
 13804219,"Iuldashev, Akmataly",KGZ,M,,,,1812,0,20,OCT25,1981,i
@@ -258,7 +258,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13815822,"Kazieva, Asema",KGZ,F,,,,1491,0,20,OCT25,2006,wi
 13803328,"Kazizov, Ydrys",KGZ,M,,,,1728,0,20,OCT25,1951,i
 13802313,"Kedeibaeva, Nurzhan",KGZ,F,,NA,,1702,0,20,OCT25,1991,wi
-13801058,"Keldibaev, Daniiar",KGZ,M,,,,1727,0,20,OCT25,1973,
+13801058,"Keldibaev, Daniiar",KGZ,M,,,,1726,0,20,OCT25,1973,
 13837176,"Keldibek Uulu, Aktilek",KGZ,M,,,,1486,0,20,OCT25,2002,i
 13848968,"Kemelbekova, Aidai",KGZ,F,,,,1411,0,40,OCT25,2015,w
 13801180,"Kenenbaev, Aidar",KGZ,M,,,,1977,0,20,OCT25,1999,i
@@ -274,7 +274,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14200287,"Khoroshev, Nikita",KGZ,M,IM,,,2264,0,20,OCT25,1992,
 13815229,"Kim, David",KGZ,M,,,,1590,0,40,OCT25,2012,i
 13801554,"Kim, Eduard",KGZ,M,,,,1550,8,20,OCT25,1960,
-13800523,"Kim, Valeria",KGZ,F,,,,1875,0,20,OCT25,1991,w
+13800523,"Kim, Valeria",KGZ,F,,,,1874,0,20,OCT25,1991,w
 13800884,"Kitikov, Oleg",KGZ,M,,,,1781,0,20,OCT25,1949,i
 13801309,"Kobonov, Omurbek",KGZ,M,,,,1716,0,20,OCT25,1955,i
 13835750,"Koibagarov, Djergalbek",KGZ,M,,,,1536,0,20,OCT25,1952,i
@@ -285,7 +285,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13813137,"Kubanychbekov, Ulukbek",KGZ,M,,,,1450,0,40,OCT25,2007,i
 13841114,"Kubanychbekov, Zalkar",KGZ,M,,,,1601,8,40,OCT25,2014,
 13803166,"Kubatbek kyzy, Perizat",KGZ,F,,,,1600,0,20,OCT25,1997,wi
-13855042,"Kudaibergenov, Badiuzzaman",KGZ,M,,,,1464,8,40,OCT25,2011,
+13855042,"Kudaibergenov, Badiuzzaman",KGZ,M,,,,1463,8,40,OCT25,2011,
 13805541,"Kudainazarova, Daira",KGZ,F,,,,1495,0,40,OCT25,2007,wi
 13819283,"Kudainazarova, Dariia",KGZ,F,,,,1634,0,40,OCT25,2007,wi
 13818228,"Kulzhabekov, Emir",KGZ,M,,,,1492,0,40,OCT25,2010,i
@@ -293,7 +293,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13817000,"Kurmanbekov, Aktan",KGZ,M,,,,1588,0,40,OCT25,2011,
 13843745,"Kurmanbekov, Baiel",KGZ,M,,,,1493,0,40,OCT25,2009,i
 13818252,"Kurumbekov, Marat",KGZ,M,,,,1509,0,40,OCT25,2010,i
-13810103,"Kush, Agniya",KGZ,F,,,,1611,0,40,OCT25,2010,w
+13810103,"Kush, Agniya",KGZ,F,,,,1609,0,40,OCT25,2010,w
 13805339,"Kushbakov, Uralbai",KGZ,M,,,,1621,0,20,OCT25,2003,i
 13804561,"Kushubekov, Aibek",KGZ,M,,,,1743,0,20,OCT25,1984,i
 13804146,"Kuvan, Aigul",KGZ,F,,,,1734,0,20,OCT25,2003,wi
@@ -305,14 +305,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13801651,"Lee, Dariya",KGZ,F,WCM,WCM,FA,1665,0,20,OCT25,2003,wi
 13800280,"Lee, Igor",KGZ,M,,,,1968,0,20,OCT25,1970,i
 13713248,"Lesbekova, Assel",KGZ,F,WCM,WCM,FA,1978,22,20,OCT25,2004,w
-13852850,"Liventsov, Anton",KGZ,M,,,,1492,8,40,OCT25,2006,
+13852850,"Liventsov, Anton",KGZ,M,,,,1490,8,40,OCT25,2006,
 13802321,"Loboda, Diana",KGZ,F,,,,1826,0,20,OCT25,1996,wi
 13805983,"Maatkerimov, Nurbek",KGZ,M,,,,1666,0,20,OCT25,1966,i
 13800124,"Magai, Vladimir",KGZ,M,IM,,,2526,0,10,OCT25,1971,i
 13847317,"Mahamatsharipova, Nazella",KGZ,F,,,,1416,0,40,OCT25,2007,wi
 13804430,"Maimanov, A",KGZ,M,,,,1683,0,20,OCT25,2001,
 13801511,"Mairambekova, Aiperi",KGZ,F,,,,1677,0,20,OCT25,2002,wi
-13837273,"Makambaeva, Shirin",KGZ,F,,,,1422,0,20,OCT25,2005,w
+13837273,"Makambaeva, Shirin",KGZ,F,,,,1423,0,20,OCT25,2005,w
 13806955,"Maksatbekov, Nurtegin",KGZ,M,,FA,,1637,0,20,OCT25,2003,
 13832271,"Malikov, Arsen",KGZ,M,,,,1503,0,40,OCT25,2014,i
 13846078,"Malikova, Aikol",KGZ,F,,,,1418,0,40,OCT25,2016,w
@@ -338,7 +338,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13801333,"Moldobaev, Erik",KGZ,M,,,,1759,0,20,OCT25,1961,i
 13805398,"Moldobekov, Nasir",KGZ,M,,,,1758,0,20,OCT25,2002,i
 13812203,"Moldokulov, Alan",KGZ,M,,,,1462,0,40,OCT25,2011,i
-13812211,"Momunaliev, Ruslan",KGZ,M,CM,,,2098,9,40,OCT25,2011,
+13812211,"Momunaliev, Ruslan",KGZ,M,CM,,,2099,9,40,OCT25,2011,
 13800760,"Momunalieva, Shaadat",KGZ,F,,,,1663,0,20,OCT25,1996,wi
 13803131,"Momunkulova, Imannur",KGZ,F,,,,1575,0,40,OCT25,2007,wi
 13804294,"Monoldorov, Rashid",KGZ,M,,,,1776,0,20,OCT25,1972,i
@@ -346,7 +346,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13800906,"Morozov, Aleksandr",KGZ,M,,,,1613,0,20,OCT25,1953,
 13836498,"Mukanov, Ilnur",KGZ,M,,,,1403,0,40,OCT25,2013,i
 13829599,"Mukanov, Iskender",KGZ,M,,,,1866,11,40,OCT25,2013,
-13810170,"Mukanova, Rayana",KGZ,F,,NA,,1569,0,40,OCT25,2008,w
+13810170,"Mukanova, Rayana",KGZ,F,,NA,,1570,0,40,OCT25,2008,w
 13841246,"Mukhtarov, Umar",KGZ,M,,,,1513,0,40,OCT25,2013,i
 13829521,Muktarbekov Ratbek,KGZ,M,,,,1644,0,40,OCT25,2012,i
 13821580,"Muradylov, Baiel",KGZ,M,,,,1847,0,40,OCT25,2011,
@@ -360,15 +360,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13814168,"Namazaliev, Daniar",KGZ,M,,,,1837,0,20,OCT25,1978,i
 13803085,"Narbekov, Mamytbek",KGZ,M,,FA,,1842,0,20,OCT25,2000,i
 13831615,"Nazarov, Tynychbek",KGZ,M,,,,1642,0,20,OCT25,1963,
-13817477,"Nogoev, Daniiar",KGZ,M,,,,ACM,1539,0,OCT25,2006,i
-13840690,"Nogoeva, Aiturgan",KGZ,F,,,,1466,0,40,OCT25,2015,wi
+13817477,"Nogoev, Daniiar",KGZ,M,,,,1539,0,,OCT25,2006,i
+13840690,"Nogoeva, Aiturgan",KGZ,F,,,,1473,0,40,OCT25,2015,wi
 13835254,"Nogoibaeva, Naima",KGZ,M,,,,1623,0,40,OCT25,2013,i
 13800310,"Nolletov, Vladimir",KGZ,M,,,,1982,0,20,OCT25,1950,i
 13836609,"Nurakhunov, Makhmud",KGZ,M,,,,1460,0,40,OCT25,2010,
 13801848,"Nuraliev, Berdibek",KGZ,M,,,,1902,0,20,OCT25,1977,i
 13830180,Nurbaeva Zhamilya,KGZ,F,,,,1681,0,40,OCT25,2010,wi
-13841122,"Nurbekov, Ali Nur",KGZ,M,,,,1588,7,40,OCT25,2014,
-13800183,"Nurdin Uulu, Sardarbek",KGZ,M,,"NI,IA",,AFM,1885,0,OCT25,1989,i
+13841122,"Nurbekov, Ali Nur",KGZ,M,,,,1583,7,40,OCT25,2014,
+13800183,"Nurdin Uulu, Sardarbek",KGZ,M,,"NI,IA",,1885,0,,OCT25,1989,i
 13802011,"Nurdinov, Aibolot",KGZ,M,,,,1713,0,20,OCT25,1998,i
 13806971,"Nurdinov, Azamat",KGZ,M,,NA,,2038,9,20,OCT25,2004,
 13831526,Nurlanbek uulu Talantbek,KGZ,M,,,,1542,0,20,OCT25,2000,i
@@ -382,7 +382,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13801953,"Olzhobai Kyzy, Alisa",KGZ,F,,,,1754,0,20,OCT25,1999,wi
 13801929,"Olzhobai, Evr",KGZ,M,,,,1616,0,20,OCT25,2001,i
 13803697,"Omuraliev, Kairat",KGZ,M,,,,1853,0,20,OCT25,1966,i
-13807498,"Omuralieva, Zhumagul",KGZ,F,,,,1434,0,40,OCT25,2007,w
+13807498,"Omuralieva, Zhumagul",KGZ,F,,,,1436,0,40,OCT25,2007,w
 13800752,"Omurbekova, Diana",KGZ,F,WCM,WCM,NA,1806,0,20,OCT25,1999,w
 13808958,"Omurzakov, Bair",KGZ,M,,,,1547,0,40,OCT25,2008,i
 13802682,"Omurzakov, Sabyrbek",KGZ,M,,,,1503,0,20,OCT25,1957,i
@@ -390,7 +390,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13804596,"Onufrienko, Vladimir",KGZ,M,,,,1425,0,20,OCT25,2005,i
 13804332,"Onufrienko, Vladislav",KGZ,M,,NA,,2145,0,20,OCT25,2004,
 13814761,"Ormushev, Aidar",KGZ,M,,,,1609,0,40,OCT25,2008,i
-13802240,"Orozbaev, Eldiyar",KGZ,M,IM,,,2364,9,20,OCT25,2006,
+13802240,"Orozbaev, Eldiyar",KGZ,M,IM,,,2365,9,20,OCT25,2006,
 13817841,"Orozbaev, Zhursunbek",KGZ,M,,,,1486,0,20,OCT25,1950,
 13804464,"Orozbekova, Aiiza",KGZ,F,,,,1565,0,20,OCT25,2006,w
 13802437,"Orozobaev, Zamirbek",KGZ,M,,,,1782,0,20,OCT25,1985,i
@@ -405,15 +405,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13821423,"Patar Uulu, Barsbek",KGZ,M,,,,1608,0,20,OCT25,2004,i
 13806203,"Pazylbekova, Nurzhamal",KGZ,F,,,,1501,0,40,OCT25,2009,wi
 13831623,"Pazylov, Topchubek",KGZ,M,,,,1531,0,20,OCT25,1963,
-13840380,"Poliak, Margarita",KGZ,F,,,,1737,8,40,OCT25,2014,w
+13840380,"Poliak, Margarita",KGZ,F,,,,1739,8,40,OCT25,2014,w
 13810065,"Prikop, David",KGZ,M,,,,1542,0,20,OCT25,2000,i
 13805894,"Rahmatulin, Bakyt",KGZ,M,,,,1849,0,20,OCT25,1983,i
-13846043,"Raiymbekov, Nurali",KGZ,M,,,,1437,0,40,OCT25,2016,i
+13846043,"Raiymbekov, Nurali",KGZ,M,,,,1439,0,40,OCT25,2016,i
 13836501,"Raiymbekov, Nurel",KGZ,M,,,,1548,0,40,OCT25,2012,i
 13807277,"Raiymbekova, Aia",KGZ,M,,,,1528,0,40,OCT25,2010,i
-13838393,"Rakmat Uulu, Talas",KGZ,M,,,,1670,0,20,OCT25,1985,
+13838393,"Rakmat Uulu, Talas",KGZ,M,,,,1669,0,20,OCT25,1985,
 13815130,"Ramanov, Almanbet",KGZ,M,,,,1714,0,20,OCT25,1999,i
-13829939,"Ramisova, Adelina",KGZ,F,,,,1698,0,40,OCT25,2013,w
+13829939,"Ramisova, Adelina",KGZ,F,,,,1699,0,40,OCT25,2013,w
 13847988,"Razabaev, Imran",KGZ,M,,,,1440,0,40,OCT25,2013,
 13842684,"Rustamov, Elmyrza",KGZ,M,,,,1438,0,40,OCT25,2014,i
 13817094,"Rustamov, Emir",KGZ,M,,,,1611,0,20,OCT25,2005,i
@@ -422,35 +422,35 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13813510,"Rysmatov, Azamat",KGZ,M,,,,1636,0,20,OCT25,1996,i
 13840371,"Ryspaeva, Alsu",KGZ,F,,,,1470,0,40,OCT25,2009,wi
 13804952,"Sabyrbekov, Akim",KGZ,M,,,,1605,0,40,OCT25,2007,i
-13810294,"Sabyrbekova, Aizhan",KGZ,F,,,,1674,0,40,OCT25,2012,w
+13810294,"Sabyrbekova, Aizhan",KGZ,F,,,,1675,0,40,OCT25,2012,w
 13842706,"Sabyrov, Nurtaazim",KGZ,M,,,,1419,0,40,OCT25,2015,i
 13847236,"Sadirov, Erlan",KGZ,M,,,,1638,0,20,OCT25,2004,i
 13824759,"Sadykov, Zhakyp",KGZ,M,,,,1598,0,20,OCT25,1983,i
-13816896,"Sagynbekova, Alsu",KGZ,F,,,,1628,0,40,OCT25,2008,w
+13816896,"Sagynbekova, Alsu",KGZ,F,,,,1629,0,40,OCT25,2008,w
 13820621,"Sagynbekova, Zhibek",KGZ,F,,,,1530,0,40,OCT25,2013,w
 13809695,"Sagyndyk uulu, Maksat",KGZ,M,,,,1512,0,20,OCT25,1988,i
 13801503,"Sagyndykov, Samat",KGZ,M,,,,1550,0,20,OCT25,1996,i
 13807153,"Saiakbaev, Bektemir",KGZ,M,,,,1692,0,20,OCT25,2003,i
 13841017,"Saidinov, Kalybai",KGZ,M,,,,1623,0,20,OCT25,1980,i
 13817108,"Saidova, Samira",KGZ,F,,,,1597,0,40,OCT25,2007,wi
-13842510,"Saitmamat uulu, Nuradyl",KGZ,M,,,,AFM,1541,0,OCT25,2003,i
+13842510,"Saitmamat uulu, Nuradyl",KGZ,M,,,,1541,0,,OCT25,2003,i
 13835866,"Saizildaeva, Aimana",KGZ,F,,,,1511,0,40,OCT25,2014,w
 13804340,"Sakibaev, Nursultan",KGZ,M,,,,1818,0,20,OCT25,2004,i
 13830147,Salamatov Muslim,KGZ,M,,,,1676,0,40,OCT25,2013,i
 13800221,"Samaganova, Aleksandra",KGZ,F,WFM,WFM,FI,1890,0,20,OCT25,1986,w
 13800345,"Samakov, Nurdin",KGZ,M,FM,,,2220,0,20,OCT25,1985,i
 13801147,"Samudin, Elina",KGZ,F,,,,1795,0,20,OCT25,1998,wi
-13844326,"Santashbekova, Eliyana",KGZ,F,,,,1494,0,40,OCT25,2010,w
+13844326,"Santashbekova, Eliyana",KGZ,F,,,,1495,0,40,OCT25,2010,w
 13839900,"Santashbekova, Evelina",KGZ,F,,,,1531,0,40,OCT25,2012,w
-13852949,"Saryldykov, Abai",KGZ,M,,,,1508,10,40,OCT25,2017,
+13852949,"Saryldykov, Abai",KGZ,M,,,,1506,10,40,OCT25,2017,
 13843770,"Satanov, Baiel",KGZ,M,,,,1513,0,40,OCT25,2010,
-13850202,"Satanov, Daniel",KGZ,M,,,,1450,0,40,OCT25,2013,
+13850202,"Satanov, Daniel",KGZ,M,,,,1451,0,40,OCT25,2013,
 13809733,"Sattarov, Inat",KGZ,M,,,,1585,0,20,OCT25,1964,
 13803948,"Satybaev, Akylbek",KGZ,M,,,,1666,0,20,OCT25,2001,i
 13800582,"Seitaliev, Erlan",KGZ,M,,,,1968,0,20,OCT25,1995,i
 13824473,"Serkebaev, Azamat",KGZ,M,,,,1588,0,20,OCT25,2004,i
 13801627,"Sezdbekov, Almaz",KGZ,M,,,,1814,0,20,OCT25,2004,i
-13802046,"Sezdbekov, Arzybek",KGZ,M,,NA,,ACM,1988,0,OCT25,2001,
+13802046,"Sezdbekov, Arzybek",KGZ,M,,NA,,1988,0,,OCT25,2001,
 13808028,"Sezdbekov, Nursultan",KGZ,M,,,,1593,0,40,OCT25,2012,i
 13801856,"Sezdbekov, Ruslan",KGZ,M,FM,NA,,2122,9,20,OCT25,2002,
 13826018,"Sezdbekova, Aida",KGZ,F,,,,1575,0,40,OCT25,2014,wi
@@ -480,15 +480,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13805118,"Shukuraliev, Tengis",KGZ,M,,,,1420,0,40,OCT25,2010,i
 13800531,"Shyngys Kyzy, Aizharkyn",KGZ,F,,,,1842,0,20,OCT25,1993,wi
 13817302,"Si-Chi-Za, Sogdiana",KGZ,F,,,,1520,0,40,OCT25,2008,wi
-13832948,"Smagulova, Rayana",KGZ,F,,,,1549,0,40,OCT25,2010,w
-13841343,"Smagulova, Umutai",KGZ,F,,,,1580,0,40,OCT25,2016,wi
+13832948,"Smagulova, Rayana",KGZ,F,,,,1550,0,40,OCT25,2010,w
+13841343,"Smagulova, Umutai",KGZ,F,,,,1607,0,40,OCT25,2016,wi
 13816020,"Soghomonyan, Khachik",KGZ,M,,,,1561,0,40,OCT25,2007,i
 13801945,"Solomko, Artur",KGZ,M,,,,1715,0,20,OCT25,2006,
 13801910,"Sovetbekova, Nurai",KGZ,F,WFM,WFM,,1948,0,20,OCT25,2005,w
 13844709,"Spiridonov, Kirill",KGZ,M,,,,1838,0,20,OCT25,1987,
 13802917,"Stalbekov, Kantemir",KGZ,M,,,,1676,0,20,OCT25,2005,i
 13804081,"Stankulov, Ilim",KGZ,M,,,,1531,0,40,OCT25,2007,i
-13829726,"Subankulova, Kanykei",KGZ,F,,,,1461,0,40,OCT25,2012,w
+13829726,"Subankulova, Kanykei",KGZ,F,,,,1462,0,40,OCT25,2012,w
 13846795,"Subanov, Aytegin",KGZ,M,,,,1404,0,40,OCT25,2014,i
 13847619,"Suiunbaev, Umar",KGZ,M,,,,1429,0,40,OCT25,2013,i
 13804499,"Sulaimanov, Tilekmatali",KGZ,M,,,,1698,0,40,OCT25,2007,
@@ -504,7 +504,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13837982,"Sydykbekov, Nurdin",KGZ,M,,,,1604,0,20,OCT25,2002,
 13805916,"Sydykov, Almaz",KGZ,M,,,,1677,0,20,OCT25,1983,i
 13811738,"Sydykov, Bakyt",KGZ,M,,,,1722,0,20,OCT25,1965,i
-13829610,"Sydykov, Bayastan",KGZ,M,FM,,,2351,16,20,OCT25,2011,
+13829610,"Sydykov, Bayastan",KGZ,M,FM,,,2352,16,20,OCT25,2011,
 13840444,"Sydykov, Ernazar",KGZ,M,,,,1716,7,20,OCT25,2000,
 13841726,"Sydykov, Temirlan",KGZ,M,,,,1478,0,40,OCT25,2008,i
 13802062,"Sydykova, Akylai",KGZ,F,,,,1569,0,40,OCT25,2007,wi
@@ -522,9 +522,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13847538,"Talantbekov, Daiyrbek",KGZ,M,,NA,,1595,0,20,OCT25,1993,i
 13811959,"Tapaev, Totuhan",KGZ,M,,NA,,1868,9,20,OCT25,2006,
 13809113,"Tashmat uulu, Tariel",KGZ,M,,,,1575,0,40,OCT25,2008,i
-13834258,"Tavaldyeva, Alija",KGZ,F,,,,1621,0,40,OCT25,2007,w
+13834258,"Tavaldyeva, Alija",KGZ,F,,NA,,1621,0,40,OCT25,2007,w
 13814133,"Tazhimyrzaev, Elzarbek",KGZ,M,,,,1912,8,20,OCT25,1981,
-13846094,"Te, Sofia",KGZ,F,,,,1552,0,40,OCT25,2016,wi
+13846094,"Te, Sofia",KGZ,F,,,,1553,0,40,OCT25,2016,wi
 13801937,"Teiitbaev, Aktilek",KGZ,M,,,,1986,0,20,OCT25,2000,i
 13802798,"Temir, Musa",KGZ,M,,,,1729,0,20,OCT25,2004,i
 13851039,"Temirbekov, Baiaman",KGZ,M,,,,1718,9,40,OCT25,2015,
@@ -541,12 +541,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13839187,"Tokmergenov, Adil",KGZ,M,,,,1670,0,20,OCT25,2006,i
 13802623,"Toksombaev, Sanzhar",KGZ,M,,,,1528,0,20,OCT25,2005,i
 13816489,"Toktaaliev, Namys",KGZ,M,,,,1789,0,40,OCT25,2013,
-13832778,"Toktaalieva, Ayana",KGZ,F,,,,1623,0,40,OCT25,2014,w
+13832778,"Toktaalieva, Ayana",KGZ,F,,,,1626,0,40,OCT25,2014,w
 13835653,"Toktobekov, Bekmat",KGZ,M,,,,1557,0,40,OCT25,2009,
 13808044,"Toktobekov, Shabdan",KGZ,M,,,,1570,0,40,OCT25,2012,
 13803778,"Toktobekova, Azema",KGZ,F,,,,1540,0,40,OCT25,2008,wi
 13800299,"Toktogonov, Damil",KGZ,M,,,,2077,0,20,OCT25,1963,
-13800957,"Toktokozhoev, Azamat",KGZ,M,,FA,,1808,0,20,OCT25,1984,
+13800957,"Toktokozhoev, Azamat",KGZ,M,,FA,,1806,0,20,OCT25,1984,
 13807420,"Toktokozhoeva, Altynai",KGZ,F,,,,1574,0,40,OCT25,2008,w
 13805045,"Toktomushev, Bek",KGZ,M,,,,1557,0,20,OCT25,2006,i
 13814451,"Toktonaliev, Ernak",KGZ,M,,,,1821,0,20,OCT25,1980,i
@@ -563,7 +563,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13826905,"Turksoi, Zhanpolat",KGZ,M,,,,1969,9,40,OCT25,2008,
 13839659,"Tursunaliev, Daniel",KGZ,M,,,,1461,0,40,OCT25,2009,i
 13817310,"Tursunalieva, Nuraiym",KGZ,F,,,,1693,0,40,OCT25,2010,w
-13817329,"Tursunalieva, Nurelina",KGZ,F,WCM,WCM,,1628,0,40,OCT25,2012,w
+13817329,"Tursunalieva, Nurelina",KGZ,F,WCM,WCM,,1629,0,40,OCT25,2012,w
 13814338,"Turunbekov, Kurmanbek",KGZ,M,,,,1657,0,20,OCT25,1980,i
 13836692,"Tynaliev, Maulen",KGZ,M,,,,1512,0,40,OCT25,2008,i
 13832301,"Tynchtykbekov, Aidar",KGZ,M,,,,1561,0,40,OCT25,2012,i
@@ -576,10 +576,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13816853,"Urkadyrov, Syimyk",KGZ,M,,,,1691,0,20,OCT25,2006,
 13817523,"Urkeev, Nursultan",KGZ,M,,,,1615,0,40,OCT25,2010,
 13814419,"Urkunbaev, Aalybek",KGZ,M,,,,1656,0,20,OCT25,1964,i
-13819100,"Urmanbetov, Temirlan",KGZ,M,,,,AFM,1673,0,OCT25,2008,
+13819100,"Urmanbetov, Temirlan",KGZ,M,,,,1673,0,,OCT25,2008,
 13817116,"Urmatov, Arslan",KGZ,M,,,,1632,0,40,OCT25,2008,i
 13802461,"Usmanov, Ulugbek",KGZ,M,,,,1739,0,20,OCT25,1985,
-13832930,"Usmanova, Aisha",KGZ,F,,,,1482,0,40,OCT25,2012,w
+13832930,"Usmanova, Aisha",KGZ,F,,,,1481,0,40,OCT25,2012,w
 13823264,"Usubaliev, Arlan",KGZ,M,,,,1462,0,40,OCT25,2013,i
 13802569,"Usubaliev, Ermat",KGZ,M,,,,1778,0,20,OCT25,1935,i
 13829491,"Usubaliev, Nursultan",KGZ,M,,,,1455,0,40,OCT25,2011,i
@@ -589,7 +589,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13800450,"Vilinsky, Vladimir",KGZ,M,,,,1898,0,20,OCT25,1941,i
 13803174,"Vishentsev, Aleksandr",KGZ,M,,,,1866,0,20,OCT25,2001,i
 13848259,"Ymanbaev, Alymbek",KGZ,M,,,,1481,0,40,OCT25,2015,i
-13835459,"Yrysov, Timur",KGZ,M,,,,1694,11,40,OCT25,2015,
+13835459,"Yrysov, Timur",KGZ,M,,,,1709,11,40,OCT25,2015,
 13803603,"Zairbek kyzy, Begimai",KGZ,F,WFM,WFM,,1946,0,20,OCT25,2001,w
 13809750,"Zakirov, Shainazar",KGZ,M,,,,1760,0,20,OCT25,1961,i
 13805312,"Zamirbek uulu, Adilet",KGZ,M,,,,1647,0,20,OCT25,2004,i
@@ -604,7 +604,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13803379,"Zhanaliev, S",KGZ,M,,,,1711,0,20,OCT25,1947,
 13835386,"Zhanybekov, Aktan",KGZ,M,,,,1515,0,40,OCT25,2012,
 13817981,"Zhanybekov, Syimyk",KGZ,M,,,,1681,0,20,OCT25,2001,i
-13819356,"Zhanybekova, Begimay",KGZ,F,WIM,WIM,,1618,0,40,OCT25,2007,w
+13819356,"Zhanybekova, Begimay",KGZ,F,WIM,WIM,,1619,0,40,OCT25,2007,w
 13822624,"Zhaparov, Altynbek",KGZ,M,,,,1414,0,40,OCT25,2012,i
 13832921,"Zheenaliev, Azamat",KGZ,M,,,,1709,0,20,OCT25,1986,i
 13800485,"Zheenbekov, Nurgazy",KGZ,M,,FI,,2014,9,20,OCT25,1986,
@@ -613,7 +613,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13805932,"Zholdoshbek kyzy, Adinai",KGZ,F,,,,1528,0,20,OCT25,2002,wi
 13830902,"Zholdoshbekov, Nuradyl",KGZ,M,,,,1588,0,40,OCT25,2007,i
 13832514,"Zholdoshev, Baiel",KGZ,M,,,,1529,0,40,OCT25,2009,i
-13801635,"Zholdoshmamatov, Adilet",KGZ,M,,NA,,AIM,1733,8,OCT25,2003,
+13801635,"Zholdoshmamatov, Adilet",KGZ,M,,NA,,1733,8,,OCT25,2003,
 13829041,"Zholdoshov, Iskhak",KGZ,M,,,,1683,0,40,OCT25,2008,i
 13833383,"Zhoraev, Adahamzhan",KGZ,M,,,,1557,0,20,OCT25,1967,
 13825046,"Zhorobekov, Kalmamat",KGZ,M,,,,1779,0,20,OCT25,1961,i
@@ -621,9 +621,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13832662,"Zhumanazar Uulu, Syimyk",KGZ,M,,,,1530,0,20,OCT25,1999,i
 13809628,"Zhumataev, Erlan",KGZ,M,,,,1726,0,20,OCT25,2001,i
 13819780,"Zhumataev, Nursultan",KGZ,M,,,,1497,0,20,OCT25,2003,i
-13841190,"Zhumaturdu, Kutmanbek",KGZ,M,,,,1411,9,40,OCT25,2015,
-13821938,"Zhunusaliev, Islam",KGZ,M,,NA,,AFM,1648,0,OCT25,2005,
-13810251,"Zhunusbekova, Aimonchok",KGZ,F,WFM,WFM,NA,1918,0,40,OCT25,2009,w
+13841190,"Zhumaturdu, Kutmanbek",KGZ,M,,,,1408,9,40,OCT25,2015,
+13821938,"Zhunusaliev, Islam",KGZ,M,,NA,,1648,0,,OCT25,2005,
+13810251,"Zhunusbekova, Aimonchok",KGZ,F,WFM,WFM,NA,1917,0,40,OCT25,2009,w
 13824465,"Zhunushev, Atai",KGZ,M,,,,1593,0,20,OCT25,2006,i
 13800876,"Zhusupov, Mairambek",KGZ,M,,,,1787,9,20,OCT25,1953,
 13835688,"Zhuzumaliev, A",KGZ,M,,,,1409,0,20,OCT25,2002,

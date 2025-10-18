@@ -45,7 +45,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14650770,"Avgustin, Simona",SLO,M,,,,1461,0,40,OCT25,2011,i
 14663368,"Avsec, Anastasiia",SLO,F,,,,1590,0,40,OCT25,1995,wi
 14646439,"Avsec, Roman",SLO,M,,,,1812,0,20,OCT25,1960,
-14654830,"Azinovic, Igor",SLO,M,,,,1779,7,20,OCT25,1970,
+14654830,"Azinovic, Igor",SLO,M,,,,1780,7,20,OCT25,1970,
 14630311,"Azman, Jaka",SLO,M,,,,1777,0,20,OCT25,1980,i
 14641429,"Babarovic, Fran",SLO,M,,,,1833,0,40,OCT25,2010,
 14659654,"Babic Stanek, David",SLO,M,,,,1583,0,40,OCT25,2010,i
@@ -58,10 +58,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14627558,"Bacic, Domagoj",SLO,M,,,,1821,0,20,OCT25,1961,
 14642220,"Bahlen Dogbatsey, Etsey Taras",SLO,M,,,,1431,0,40,OCT25,2011,i
 14611570,"Bajc, Aleksander",SLO,M,,,,1867,0,20,OCT25,2001,i
-14668327,"Bajc, Martin",SLO,M,,,,1535,0,40,OCT25,2012,
+14668327,"Bajc, Martin",SLO,M,,,,1534,0,40,OCT25,2012,
 14644460,"Bajda, Aljaz",SLO,M,,,,1462,0,40,OCT25,2012,
-14613522,"Bajda, Rado",SLO,M,,,,AFM,1916,0,OCT25,1970,i
-14638509,"Bajda, Zan",SLO,M,,,,AFM,1966,0,OCT25,2008,
+14613522,"Bajda, Rado",SLO,M,,,,1916,0,,OCT25,1970,i
+14638509,"Bajda, Zan",SLO,M,,,,1966,0,,OCT25,2008,
 14673207,"Bajde, Zan",SLO,M,,,,1577,6,40,OCT25,2015,
 14606755,"Bajec, Borut",SLO,M,,,,1697,8,20,OCT25,1958,
 14628953,"Bajec, Peter",SLO,M,,,,1784,0,20,OCT25,1944,i
@@ -117,17 +117,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14602377,"Beliavsky, Alexander G",SLO,M,GM,,,2557,0,10,OCT25,1953,i
 14646986,"Belojevic, Vladimir",SLO,M,,,,2047,0,40,OCT25,1976,
 14606852,"Belsak, Zan",SLO,M,,,,2129,0,20,OCT25,1993,
-14641771,"Belyaletdinov, Leonard",SLO,M,,,,AIM,2029,7,OCT25,2013,
+14641771,"Belyaletdinov, Leonard",SLO,M,,,,2029,7,,OCT25,2013,
 14648059,"Bender, Elias",SLO,M,,,,1939,0,40,OCT25,2009,
 14655900,"Benedek, Andraz",SLO,M,,,,1462,1,40,OCT25,2015,
-14606771,"Benko, Bostjan",SLO,M,,,,AIM,1942,0,OCT25,1977,
+14606771,"Benko, Bostjan",SLO,M,,,,1942,0,,OCT25,1977,
 14645270,"Beranic, Alisa",SLO,M,,,,1481,0,40,OCT25,2011,
 14675757,"Bercko, Iza",SLO,F,,,,1432,0,40,OCT25,2013,w
 14646820,"Berdnik, Boris",SLO,M,,,,1466,4,20,OCT25,1954,
 14610426,"Berhtold, Franc",SLO,M,,,,1786,0,20,OCT25,1945,i
 14640155,"Berisha, Enver",SLO,M,,,,1593,0,20,OCT25,1981,i
 14682575,"Berk Gostencnik, Raj",SLO,M,,,,1617,6,40,OCT25,2013,
-14665930,"Berk, Jaka",SLO,M,,,,1488,0,40,OCT25,2015,
+14665930,"Berk, Jaka",SLO,M,,,,1487,0,40,OCT25,2015,
 14600994,"Bernik, Alja",SLO,F,,,,1800,0,20,OCT25,1996,wi
 14640210,"Bevc Taranis, Tin",SLO,M,,,,1483,0,40,OCT25,2006,i
 14632918,"Bevc, Peter",SLO,M,,,,1515,0,40,OCT25,2008,i
@@ -206,7 +206,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14640171,"Brezner, Franci",SLO,M,,,,1786,0,20,OCT25,1990,i
 14619970,"Breznik Ceh, Lovro",SLO,M,,,,1629,0,20,OCT25,2002,i
 14601362,"Breznik, Kristijan",SLO,M,,,,2136,0,20,OCT25,1976,
-14667169,"Breznik, Marko",SLO,M,,,,1480,0,40,OCT25,2018,
+14667169,"Breznik, Marko",SLO,M,,,,1482,0,40,OCT25,2018,
 14667738,"Breznik, Oto",SLO,M,,,,1471,0,40,OCT25,2014,
 14632713,"Breznjak, Stefan",SLO,M,,,,1801,0,20,OCT25,1968,i
 14602300,"Brezovar, Matjaz",SLO,M,FM,,,2196,0,20,OCT25,1966,i
@@ -254,7 +254,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14661721,"Cebelic, Lan",SLO,M,,,,1650,0,40,OCT25,2012,i
 14617234,"Cebron, Asja",SLO,F,WCM,WCM,,1686,0,20,OCT25,2004,wi
 14623277,"Cebron, Robert",SLO,M,,,,1618,0,20,OCT25,1977,i
-14669145,"Cebulc, Miha",SLO,M,,,,1531,0,40,OCT25,2012,
+14669145,"Cebulc, Miha",SLO,M,,,,1530,0,40,OCT25,2012,
 14610906,"Cebulj Sifrer, Ozbej",SLO,M,,,,1609,0,20,OCT25,2001,i
 14642999,"Cefarin, Drago",SLO,M,,,,1469,0,20,OCT25,1955,i
 14618753,"Ceke, Erik",SLO,M,,,,1616,0,20,OCT25,1999,i
@@ -292,7 +292,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14664330,"Cesnik, Sebastjan",SLO,M,,,,1705,0,40,OCT25,1971,
 14663465,"Cestar, Lan",SLO,M,,,,1522,0,40,OCT25,2009,i
 14635577,"Cetina, Davor",SLO,M,,,,1752,0,20,OCT25,1976,i
-14654130,"Cetina, Maks",SLO,M,,,,1527,0,40,OCT25,2009,
+14654130,"Cetina, Maks",SLO,M,,,,1528,0,40,OCT25,2009,
 14681951,"Cevka, Anze",SLO,M,,,,1537,0,40,OCT25,1985,
 14681960,"Cevka, Domen",SLO,M,,,,1642,13,40,OCT25,1995,
 14680122,"Cevka, Ksenija",SLO,F,,,,1490,13,40,OCT25,1959,w
@@ -330,8 +330,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14600102,"Crepan, Marjan",SLO,M,FM,,,2166,0,20,OCT25,1962,
 14654202,"Crepinko, Matic",SLO,M,,,,1512,6,40,OCT25,2013,
 14608480,"Cretnik, Urban",SLO,M,,,,2095,0,20,OCT25,1998,i
-14661101,"Crnigoj, David",SLO,M,,,,1465,0,40,OCT25,2008,
+14661101,"Crnigoj, David",SLO,M,,,,1464,0,40,OCT25,2008,
 14662337,"Crnigoj, Tadej",SLO,M,,,,1444,0,40,OCT25,2010,
+14666960,"Crnigoj, Tobija",SLO,M,,,,1451,10,40,OCT25,2016,
 14674432,"Crnivec, Enrika",SLO,F,,,,1545,0,40,OCT25,1958,w
 14645157,"Crnjakovic, Tom",SLO,M,,,,1862,0,40,OCT25,2011,
 14651092,"Crnobrnja, Slavko",SLO,M,,,,1704,0,40,OCT25,1951,i
@@ -340,6 +341,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14635798,"Cuden, Ziga",SLO,M,,,,1535,0,40,OCT25,2009,i
 14676303,"Cufurovic, Din",SLO,M,,,,1757,0,20,OCT25,2004,
 14666189,"Cunder, Rudi",SLO,M,,,,1483,0,20,OCT25,1998,i
+14660300,"Curhalek, Mia",SLO,F,,,,1407,8,40,OCT25,2014,w
 14634015,"Curic, Enej",SLO,M,,,,1483,0,40,OCT25,2008,i
 14653044,"Curkovic, Jan",SLO,M,,,,1612,0,40,OCT25,2009,
 14672944,"Custo, Smail",SLO,M,,,,1663,0,40,OCT25,1981,
@@ -368,14 +370,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14652439,"Delic, Taj",SLO,M,,,,1404,0,40,OCT25,2013,
 14609789,"Delost, Josko",SLO,M,,,,1718,6,20,OCT25,1962,
 4160258,"Demchenko, Anton",SLO,M,GM,,,2512,0,10,OCT25,1987,i
-14668580,"Demsar, Lovro",SLO,M,,,,1433,0,40,OCT25,2013,
+14668580,"Demsar, Lovro",SLO,M,,,,1432,0,40,OCT25,2013,
 14634805,"Demsar, Maks",SLO,M,,,,1993,0,40,OCT25,2007,
 14638703,"Despotovic, Pavle",SLO,M,,,,1530,0,40,OCT25,2010,i
 14625300,"Deticek, Dusan",SLO,M,,,,1741,0,20,OCT25,1947,
 14609290,"Dezelak, Brane",SLO,M,,,,1933,0,20,OCT25,1958,
 14623021,"Dezelak, Nik",SLO,M,,,,1583,0,20,OCT25,2005,i
 14626764,"Dezman, Aljaz",SLO,M,,,,1420,0,20,OCT25,2003,i
-14645114,"Di Batista, Liam",SLO,M,,,,1435,6,40,OCT25,2011,
+14645114,"Di Batista, Liam",SLO,M,,,,1406,7,40,OCT25,2011,
 14676052,"Diatel, Mykyta",SLO,M,,,,1511,0,40,OCT25,2011,
 14642336,"Dimec, Jana",SLO,M,,,,1658,0,20,OCT25,1967,i
 14629941,"Dimec, Tadej",SLO,M,,,,1522,0,40,OCT25,2005,i
@@ -396,7 +398,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14643090,"Dobaj, Bojan",SLO,M,,,,1794,0,20,OCT25,1967,
 14654822,"Dobnikar, Nik",SLO,M,,,,1707,0,20,OCT25,1998,
 14608766,"Dobravec, Blaz",SLO,M,,,,1660,0,20,OCT25,1997,i
-14664283,"Dobrilla Ruzic, Robertino",SLO,M,,,,AIM,1858,0,OCT25,2008,
+14664283,"Dobrilla Ruzic, Robertino",SLO,M,,,,1858,0,,OCT25,2008,
 14612593,"Dobrovoljc, Andrej",SLO,M,,,,1676,0,20,OCT25,1967,i
 14609835,"Dobrovoljc, Andreja",SLO,F,,NI,,1818,0,20,OCT25,1997,w
 14609843,"Dobrovoljc, Vid",SLO,M,IM,,,2301,0,20,OCT25,2000,i
@@ -411,7 +413,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14610019,"Dominko, Darko",SLO,M,,,,1848,0,20,OCT25,1975,
 14670534,"Dormis, Bruno",SLO,M,,,,1538,0,40,OCT25,1942,i
 14643456,"Dornik, Primoz",SLO,M,,,,1612,0,40,OCT25,2007,i
-14656124,"Doutlik, Mak",SLO,M,,,,1403,10,40,OCT25,2014,
 14678926,"Dragicevic, Igor",SLO,M,,,,1627,0,40,OCT25,2013,
 14682591,"Draksler, Robert",SLO,M,,,,1569,8,40,OCT25,1961,
 14679639,"Draksler, Robert",SLO,M,,,,1577,0,40,OCT25,1960,
@@ -431,7 +432,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14619199,"Drobnic, Rok",SLO,M,,,,1550,0,40,OCT25,2005,i
 14613433,"Drobnic, Simona",SLO,F,,,,1656,0,20,OCT25,2000,wi
 14656604,"Druzinec, Srecko",SLO,M,,,,1617,0,20,OCT25,1961,
-14645696,"Dujic, Roko",SLO,M,,,,1602,7,40,OCT25,2011,
+14645696,"Dujic, Roko",SLO,M,,,,1601,7,40,OCT25,2011,
 14672766,"Durdzic, Anes",SLO,M,,,,1477,0,40,OCT25,2013,i
 14611643,"Dusak, Aljaz",SLO,M,,,,2003,0,20,OCT25,1982,
 14638754,"Duvnjak, Timotej",SLO,M,,,,1768,0,20,OCT25,1995,i
@@ -443,15 +444,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14671077,"Eman, Tadej",SLO,M,,,,1710,6,20,OCT25,1969,
 14605821,"Engelman, Tomaz",SLO,M,,,,1843,0,20,OCT25,1980,
 14612607,"Erazem, Franc",SLO,M,,,,1716,0,20,OCT25,1951,i
-14668890,"Ercek, Lan",SLO,M,,,,1644,6,40,OCT25,2015,
+14668890,"Ercek, Lan",SLO,M,,,,1487,14,40,OCT25,2015,
 14642522,"Erdelic, Cedo",SLO,M,,,,1670,0,20,OCT25,1955,i
-14670780,"Erlah, Jozef Pij",SLO,M,,,,ACM,1493,16,OCT25,2015,
-14652919,"Erman, Igor",SLO,M,,,,1457,0,20,OCT25,1960,
+14670780,"Erlah, Jozef Pij",SLO,M,,,,1493,16,,OCT25,2015,
+14652919,"Erman, Igor",SLO,M,,,,1456,0,20,OCT25,1960,
 14658216,"Erzen, Matjaz",SLO,M,,,,1464,0,40,OCT25,2012,
 14663112,"Fabjancic, Lenart",SLO,M,,,,1581,0,40,OCT25,2013,
 14665891,"Fadda, Diego",SLO,M,,,,1523,0,40,OCT25,2015,
 14619148,"Faganel, Kaja",SLO,F,,,,1788,0,20,OCT25,2003,wi
-14676419,"Faganel, Sven",SLO,M,,,,1465,0,40,OCT25,2016,
+14676419,"Faganel, Sven",SLO,M,,,,1464,0,40,OCT25,2016,
 14652510,"Fajfar, Anton",SLO,M,,,,1783,0,20,OCT25,1963,
 14659875,"Fatur, Jure",SLO,M,,,,1473,0,40,OCT25,2009,i
 24130737,"Fedoseev, Vladimir",SLO,M,GM,,,2740,0,10,OCT25,1995,
@@ -472,6 +473,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14613360,"Figar, Rok",SLO,M,,,,1567,0,20,OCT25,2000,i
 14656043,"Filej, Inja",SLO,F,,,,1420,0,40,OCT25,2012,wi
 14637960,"Filipic, Dusan",SLO,M,,,,1609,0,20,OCT25,1976,
+14673568,"Filipic, Nejc",SLO,M,,,,1481,5,40,OCT25,2008,
 14627574,"Filiposki, Cedo",SLO,M,,,,1641,0,20,OCT25,1955,i
 14629119,"Filipovic, Dragan",SLO,M,,,,1710,0,20,OCT25,1950,
 14638819,Filippovskiy Nikita,SLO,M,,,,1860,0,20,OCT25,2005,i
@@ -504,8 +506,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14671573,"Gaberscek, Maj",SLO,M,,,,1748,0,20,OCT25,1999,
 14627701,"Gabrijan, Arnej",SLO,M,,,,1428,0,20,OCT25,2004,i
 14624559,"Gabrijan, Timotej",SLO,M,,,,1753,0,20,OCT25,2001,i
-14674564,"Gabrovsek, Domen",SLO,M,,,,AFM,1856,9,OCT25,1994,
-14640660,"Gabrscek, Nejc",SLO,M,,,,1588,0,40,OCT25,2009,
+14674564,"Gabrovsek, Domen",SLO,M,,,,1856,9,,OCT25,1994,
+14640660,"Gabrscek, Nejc",SLO,M,,,,1590,0,40,OCT25,2009,
 14653311,"Gacnik, Aljaz",SLO,M,,,,1530,0,20,OCT25,1984,
 14679850,"Gadler, Tino",SLO,M,,,,1430,0,40,OCT25,2013,
 14676095,"Gajski, Gal",SLO,M,,,,1542,0,40,OCT25,2010,
@@ -519,7 +521,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14603675,"Gazvoda, Franc",SLO,M,,,,1935,0,20,OCT25,1945,i
 14660890,"Gec Mravlje, Janez",SLO,M,,,,1624,0,40,OCT25,2008,i
 14621568,"Gegorc, Anze",SLO,M,,,,1494,0,20,OCT25,1996,i
-14673266,"Genc, Gregor",SLO,M,,,,AFM,1676,0,OCT25,2012,
+14673266,"Genc, Gregor",SLO,M,,,,1676,0,,OCT25,2012,
 14638100,"Gerbec, Luka",SLO,M,,,,1634,0,40,OCT25,2009,
 14622670,"Gerencser, Gellert",SLO,M,,,,1561,0,20,OCT25,1998,i
 14632330,"Gimpelj, Jan",SLO,M,,,,1652,0,20,OCT25,1999,i
@@ -531,7 +533,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14635810,"Glas, Bruno",SLO,M,,,,2078,0,40,OCT25,2009,
 14682524,"Glaser, Jure",SLO,M,,,,1530,5,40,OCT25,2001,
 14611015,"Glavac, Igor",SLO,M,,,,1797,0,20,OCT25,1979,
-14643723,"Glavac, Leo",SLO,M,,,,2027,6,40,OCT25,2009,
+14643723,"Glavac, Leo",SLO,M,,,,2028,6,40,OCT25,2009,
 14644380,"Glavac, Rozle",SLO,M,,,,1516,0,40,OCT25,2010,
 14667770,"Glavac, Urh",SLO,M,,,,1516,0,40,OCT25,2011,
 14666170,"Glavina, Miha",SLO,M,,,,1494,0,40,OCT25,2000,i
@@ -555,8 +557,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14603098,"Gombac, Jan",SLO,M,FM,,,2252,0,20,OCT25,1982,i
 14612062,"Gombac, Matevz",SLO,M,,,,1693,0,20,OCT25,2001,
 14656981,"Gombosi, Roland",SLO,M,,,,1647,0,20,OCT25,1979,i
-14656582,"Gombosi, Svit",SLO,M,,,,1581,7,40,OCT25,2015,
-14656574,"Gombosi, Zarja",SLO,F,,,,1673,0,40,OCT25,2015,w
+14656582,"Gombosi, Svit",SLO,M,,,,1580,7,40,OCT25,2015,
+14656574,"Gombosi, Zarja",SLO,F,,,,1674,0,40,OCT25,2015,w
 14663023,"Gorc, Brane",SLO,M,,,,1541,0,40,OCT25,1959,i
 14647621,"Gorenc, Damjan",SLO,M,,,,1893,0,20,OCT25,1976,i
 14656825,"Gorenc, Matic",SLO,M,,,,1498,0,40,OCT25,2009,i
@@ -584,12 +586,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14635828,"Gradisek, Bor",SLO,M,,,,1901,7,40,OCT25,2008,
 14648750,"Gradisek, Roman",SLO,M,,,,1438,0,20,OCT25,1971,i
 14606100,"Grah, Matej",SLO,M,,,,1989,0,20,OCT25,1994,i
-14678691,"Grancer, Jan",SLO,M,,,,1561,0,40,OCT25,2010,
+14678691,"Grancer, Jan",SLO,M,,,,1560,0,40,OCT25,2010,
 14612615,"Grasic, Marjan",SLO,M,,,,1773,0,20,OCT25,1967,
 14661756,"Grasselli, Miha",SLO,M,,,,1584,0,40,OCT25,2007,i
 14651211,"Grassi, Tao",SLO,M,,,,1445,0,40,OCT25,2012,i
 14607352,"Gratton, Damjan",SLO,M,,,,1769,0,20,OCT25,1964,i
-14660377,"Grcar, Aleks",SLO,M,,,,1475,0,40,OCT25,2013,
+14660377,"Grcar, Aleks",SLO,M,,,,1474,0,40,OCT25,2013,
 14607549,"Grcar, Janez",SLO,M,,,,1770,0,20,OCT25,1942,
 14635100,"Grdic, Vili",SLO,M,,,,1852,0,20,OCT25,1999,i
 14629461,"Gregoric, Andraz",SLO,M,,,,2159,0,40,OCT25,2007,
@@ -606,9 +608,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14654270,"Grizonic, Ludvik",SLO,M,,,,1578,0,40,OCT25,2007,i
 14640384,"Grlj, Viljem",SLO,M,,,,1459,0,20,OCT25,1948,
 14607050,"Grm, Ivan",SLO,M,,,,1926,0,20,OCT25,1950,i
-14668335,"Grmek, Izak",SLO,M,,,,1443,0,40,OCT25,2010,
+14668335,"Grmek, Izak",SLO,M,,,,1442,0,40,OCT25,2010,
 14625440,"Grobelsek, Devi",SLO,F,,,,1462,0,40,OCT25,2006,wi
-14665778,"Grobotek, Liam",SLO,M,,,,AFM,1568,0,OCT25,2012,
+14665778,"Grobotek, Liam",SLO,M,,,,1568,0,,OCT25,2012,
 14665107,"Grobotek, Vanessa Eva",SLO,F,,,,1467,0,40,OCT25,2015,w
 14605031,"Grobovsek, Ivan",SLO,M,,,,1896,0,20,OCT25,1955,i
 14607891,"Grosar, Gari",SLO,M,,,,1926,0,20,OCT25,1993,i
@@ -659,7 +661,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14621460,"Hercog, Nandi",SLO,M,,,,1713,0,20,OCT25,1973,
 14614324,"Hercog, Nusa",SLO,F,WFM,WFM,,1986,0,20,OCT25,2003,w
 14634724,"Herega, Bostjan",SLO,M,,,,1626,0,20,OCT25,1980,i
-14650932,"Herega, Nastja",SLO,F,,,,1463,0,40,OCT25,2012,w
+14650932,"Herega, Nastja",SLO,F,,,,1462,0,40,OCT25,2012,w
 14634058,"Herega, Nejc",SLO,M,CM,,,2239,9,40,OCT25,2007,
 14644916,"Heric, Lucka",SLO,F,,,,1553,5,40,OCT25,2013,w
 14641062,"Heric, Luka",SLO,M,,,,1485,0,40,OCT25,2007,i
@@ -681,7 +683,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14631652,"Hodzic, Belmin",SLO,M,,,,1701,0,20,OCT25,1997,i
 14613247,"Hodzic, Jasmin",SLO,F,,,,1468,0,20,OCT25,1966,wi
 14655659,"Hofbauer, Ratko",SLO,M,,,,1780,0,20,OCT25,1963,i
-14605830,"Homan, Alojz",SLO,M,,,,1816,0,20,OCT25,1951,
+14605830,"Homan, Alojz",SLO,M,,,,1817,0,20,OCT25,1951,
 14620740,"Horvat, Anton",SLO,M,,,,1672,0,40,OCT25,1943,
 14637634,"Horvat, Bozidar",SLO,M,,,,1622,5,20,OCT25,1964,
 14633213,"Horvat, Ivana",SLO,M,,,,1475,0,20,OCT25,2004,
@@ -701,7 +703,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14611023,"Hribar, Andrej",SLO,M,,,,1800,0,20,OCT25,1975,i
 14602210,"Hribar, Bojan",SLO,M,,,,2244,0,20,OCT25,1977,i
 14612623,"Hribar, Franc",SLO,M,,,,1642,0,20,OCT25,1950,i
-14670658,"Hribar, Izak",SLO,M,,,,1758,6,40,OCT25,2011,
+14670658,"Hribar, Izak",SLO,M,,,,1757,6,40,OCT25,2011,
 14601443,"Hribar, Janez",SLO,M,,,,1789,0,20,OCT25,1947,
 14612631,"Hribar, Sebastjan",SLO,M,,,,1626,0,20,OCT25,1977,i
 14613638,"Hribar, Stane",SLO,M,,,,1438,0,20,OCT25,1949,
@@ -721,7 +723,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14627256,"Hvala, Arja Ela",SLO,F,,,,1483,0,20,OCT25,2006,wi
 14620596,"Hvala, Inja Ajda",SLO,F,,,,1518,0,20,OCT25,2003,wi
 14663490,"Hvala, Martin",SLO,M,,,,1479,0,40,OCT25,2010,
-14681471,"Ian, Lukas",SLO,M,,,,1462,3,40,OCT25,2013,
+14681471,"Ian, Lukas",SLO,M,,,,1461,3,40,OCT25,2013,
 14618567,"Ibrisimovic, Salko",SLO,M,,,,1766,0,20,OCT25,1956,i
 14676508,"Ilic, Jurica",SLO,M,,,,1599,0,40,OCT25,1953,
 14615223,"Iljaz, Igor",SLO,M,,,,1935,0,20,OCT25,1953,
@@ -753,7 +755,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14656280,"Jakob, Levon",SLO,M,,,,1535,0,40,OCT25,2017,
 14655306,"Jakob, Quentin",SLO,M,,,,1414,0,40,OCT25,2012,
 14602903,"Jaksa, Cvetko",SLO,M,,,,1954,0,20,OCT25,1953,
-14656434,"Jaksa, Ema",SLO,F,,,,1846,11,40,OCT25,2014,w
+14656434,"Jaksa, Ema",SLO,F,,,,1848,11,40,OCT25,2014,w
 14634597,"Jalovec, Igor",SLO,M,,,,1904,0,40,OCT25,2009,
 14628627,"Jamnik, Joze",SLO,M,,,,1734,0,20,OCT25,1956,i
 14650053,"Jamnik, Urban",SLO,M,,,,1629,0,40,OCT25,2005,i
@@ -781,12 +783,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14638223,"Javornik, Lina",SLO,F,,,,1767,0,40,OCT25,2009,w
 14636549,"Javornik, Nik",SLO,M,FM,,,2228,0,20,OCT25,2007,
 14675714,"Jazbec, Aleks",SLO,M,,,,1443,0,40,OCT25,2013,
-14667100,"Jazbec, Artur",SLO,M,,,,AFM,1758,0,OCT25,2010,
+14667100,"Jazbec, Artur",SLO,M,,,,1758,0,,OCT25,2010,
 14619750,"Jazbec, Hinko",SLO,M,,,,1898,0,20,OCT25,1938,i
 14644983,"Jazbinsek, Joze",SLO,M,,,,1558,6,20,OCT25,1953,
 14602407,"Jazbinsek, Vera",SLO,F,,,,1710,0,20,OCT25,1957,w
 14612640,"Jeglic, Uros",SLO,M,,,,1670,0,20,OCT25,1983,
-14660105,"Jehart, Jan",SLO,M,,,,ACM,1501,0,OCT25,2009,
+14660105,"Jehart, Jan",SLO,M,,,,1501,0,,OCT25,2009,
 14625458,"Jelen, Anja",SLO,F,,,,1552,0,20,OCT25,2006,w
 14600668,"Jelen, Igor",SLO,M,IM,FT,,2229,0,10,OCT25,1972,i
 14632985,"Jelen, Luka",SLO,M,,,,1588,0,40,OCT25,2008,i
@@ -801,7 +803,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14639378,Jencek Gasper,SLO,M,,,,1435,0,40,OCT25,2010,i
 14604965,"Jencek, Darko",SLO,M,,,,1827,0,20,OCT25,1965,i
 14669293,"Jenko, Andraz",SLO,M,,,,1469,0,40,OCT25,2009,
-14680521,"Jenko, Maj",SLO,M,,,,1528,0,40,OCT25,2008,
+14680521,"Jenko, Maj",SLO,M,,,,1529,0,40,OCT25,2008,
 14625750,"Jeraj, Jan",SLO,M,,,,1467,0,40,OCT25,2005,i
 14601010,"Jeraj, Zlatko",SLO,M,,,,2009,8,20,OCT25,1957,
 14604612,"Jeran, Bostjan",SLO,M,CM,,,2192,0,20,OCT25,1977,i
@@ -974,7 +976,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14611155,"Kocmur, Boris",SLO,M,,,,1755,0,20,OCT25,1966,
 14653095,"Kodek, Mihael",SLO,M,,,,1453,0,40,OCT25,2010,i
 14602180,"Kodela, Marko",SLO,M,,,,1839,8,20,OCT25,1940,
-14602628,"Kodela, Matjaz",SLO,M,,,,1981,9,20,OCT25,1971,
+14602628,"Kodela, Matjaz",SLO,M,,,,1982,9,20,OCT25,1971,
 14613689,"Koderman, Ivan",SLO,M,,,,1576,0,20,OCT25,1948,
 14625806,"Koderman, Maj",SLO,M,,,,1479,0,40,OCT25,2005,i
 14640325,"Kodirc, Ales",SLO,M,,,,1707,0,20,OCT25,1990,i
@@ -984,7 +986,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14650967,"Kodric, Rene",SLO,M,,,,1591,7,40,OCT25,2012,
 14613859,"Kodric, Tilen",SLO,M,,,,1995,0,20,OCT25,1999,i
 14604264,"Kodric, Vladimir",SLO,M,,,,1918,0,20,OCT25,1956,
-14659220,"Kofol, Rafael",SLO,M,,,,1467,0,40,OCT25,2012,
+14659220,"Kofol, Rafael",SLO,M,,,,1466,0,40,OCT25,2012,
 14605562,"Kogoj, Boris",SLO,M,,,,1818,0,20,OCT25,1959,i
 14628902,"Kogoj, Tina",SLO,F,,,,1465,0,20,OCT25,1993,wi
 14604060,"Kohek, Maja",SLO,F,,,,1942,0,20,OCT25,1985,w
@@ -1020,7 +1022,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14636182,"Konec, Azbe",SLO,M,,,,1620,0,40,OCT25,2007,i
 14615312,"Konecnik, Branko",SLO,M,,,,1777,0,20,OCT25,1951,i
 14642140,"Konjar, Franc",SLO,M,,,,1500,5,20,OCT25,1951,
-14680947,"Konjicek Polic, Masa",SLO,F,,,,1493,10,40,OCT25,2010,w
+14680947,"Konjicek Polic, Masa",SLO,F,,,,1491,10,40,OCT25,2010,w
 14656230,"Konopatskyi, Aleksandr",SLO,M,,,,1824,13,40,OCT25,2014,
 14615320,"Kontler, Sasa",SLO,M,,,,1901,0,20,OCT25,1955,
 14655667,"Konusek, Heidi",SLO,F,,,,1497,0,40,OCT25,2008,wi
@@ -1109,8 +1111,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14600960,"Kragelj, Igor",SLO,M,FM,,,2106,0,20,OCT25,1973,
 14656299,"Kragelj, Rok",SLO,M,,,,1441,0,40,OCT25,2015,
 14647338,"Krajnc, Andrej",SLO,M,,,,1950,0,20,OCT25,1973,
-14656108,"Krajnc, Jakob",SLO,M,,,,AIM,1722,28,OCT25,2015,
-14652528,"Krajnc, Maksim",SLO,M,,,,AGM,1890,24,OCT25,2014,
+14656108,"Krajnc, Jakob",SLO,M,,,,1722,28,,OCT25,2015,
+14652528,"Krajnc, Maksim",SLO,M,,,,1890,24,,OCT25,2014,
 14615380,"Krajnc, Radovan",SLO,M,,,,1773,0,20,OCT25,1956,i
 14615398,"Krajnc, Rudolf",SLO,M,,,,1835,7,20,OCT25,1960,
 14608910,"Kralj, Manca",SLO,F,,,,1815,0,20,OCT25,1997,wi
@@ -1163,7 +1165,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14668017,"Kryvenko, Sviatoslav",SLO,M,,,,1416,0,40,OCT25,2010,i
 14618877,"Krzan, Peter",SLO,M,,,,1734,0,20,OCT25,2002,i
 14653745,"Krzic, Ales",SLO,M,,,,1745,0,40,OCT25,1984,
-14667576,"Krzic, Edvard",SLO,M,,,,1480,8,20,OCT25,1953,
+14667576,"Krzic, Edvard",SLO,M,,,,1479,8,20,OCT25,1953,
 14607107,"Kubale, Marko",SLO,M,,,,1921,0,20,OCT25,1969,
 14642476,"Kuhar, Andrej",SLO,M,,,,1740,0,20,OCT25,1981,i
 14625504,"Kuhar, Larisa",SLO,F,WFM,WFM,,1966,0,20,OCT25,2004,wi
@@ -1226,6 +1228,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14633949,"Leksan, Bostjan",SLO,M,,,,1607,0,20,OCT25,1972,i
 14636123,"Lencek Kranjec, Dani",SLO,M,,,,1645,0,20,OCT25,2004,i
 14634449,"Lencek-Kranjec, Jozi",SLO,M,,,,1536,0,20,OCT25,2004,i
+14678594,"Lenic, Lev",SLO,M,,,,1407,14,40,OCT25,2018,
 14603853,"Lenic, Luka",SLO,M,GM,,,2641,4,10,OCT25,1988,
 14678586,"Lenic, Olivia",SLO,F,,,,1407,1,40,OCT25,2016,w
 14637235,"Leon, Redek",SLO,M,,,,1758,0,20,OCT25,1999,
@@ -1250,7 +1253,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14679558,"Lilic, Predrag",SLO,M,,,,1748,8,40,OCT25,1985,
 14610574,"Lindner, Mihael",SLO,M,,,,2068,0,20,OCT25,1963,
 14625326,"Lipovsek, Anton",SLO,M,,,,1789,0,20,OCT25,1948,i
-14668289,"Lipuscek, Janus",SLO,M,,,,1492,0,40,OCT25,2012,i
+14668289,"Lipuscek, Janus",SLO,M,,,,1506,0,40,OCT25,2012,i
 14661454,"Lipuscek, Lev",SLO,M,,,,1576,0,40,OCT25,2009,
 14637111,"Lisac, Lev Gregor",SLO,M,,,,1452,0,40,OCT25,2005,i
 14624362,"Ljika, Ramadan",SLO,M,,,,1927,0,20,OCT25,1950,i
@@ -1258,7 +1261,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14610345,"Loknar, Kresimir",SLO,M,,,,1842,5,40,OCT25,1959,
 14641151,"Loncar, Rok",SLO,M,,,,1509,0,40,OCT25,2008,i
 14651262,"Loncarevic, Aleks",SLO,M,,,,1476,0,40,OCT25,2013,
-14664607,"Loncarevic, Ana",SLO,F,,,,1401,5,40,OCT25,2015,w
 14641070,"Loncarevic, Jovo",SLO,M,,,,1718,6,20,OCT25,1954,
 14673606,"Lorbeg, Simon",SLO,M,,,,1612,0,40,OCT25,2007,i
 14614260,"Lorencak, Ivan",SLO,M,,,,1856,7,20,OCT25,1966,
@@ -1269,7 +1271,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14646625,"Lovrencic, Lucian",SLO,M,,,,1588,0,40,OCT25,2010,i
 14666782,"Lovric, Tit",SLO,M,,,,1462,0,40,OCT25,2008,
 14637480,"Lovrin, Jakob",SLO,M,,,,1447,0,40,OCT25,2005,i
-14658151,"Lovsin, Bor",SLO,M,,,,1477,9,40,OCT25,2016,
 14635178,"Lubej, Ivan",SLO,M,,,,1744,0,20,OCT25,1943,
 14608960,"Lucovnik, Tilen",SLO,M,,,,2134,0,20,OCT25,1995,
 14651785,"Ludvik, Vid",SLO,M,,,,1480,0,40,OCT25,2009,i
@@ -1350,7 +1351,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14619245,"Marn, Jan",SLO,M,FM,,,2302,0,20,OCT25,2004,
 14646765,"Marn, Mitja",SLO,M,,,,1716,0,20,OCT25,1981,i
 54600944,"Marovt, Nejc",SLO,M,,,,1946,0,20,OCT25,2003,
-14667827,"Martincic, Timotej",SLO,M,,,,1546,0,40,OCT25,2009,
+14667827,"Martincic, Timotej",SLO,M,,,,1547,0,40,OCT25,2009,
 14644339,"Martinec, Patrik",SLO,M,,,,1543,0,20,OCT25,2004,i
 14618907,"Martinuc, Jani",SLO,M,,,,1560,0,20,OCT25,2002,i
 14600358,"Maslesa, Branko",SLO,M,,,,2119,0,20,OCT25,1952,
@@ -1464,7 +1465,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14660130,"Molnar, Andrija",SLO,F,,,,1467,0,40,OCT25,2014,w
 14667630,"Moravec Medle, Ben",SLO,M,,,,1434,0,40,OCT25,2011,i
 14615002,"More, Erlend",SLO,M,,,,1789,0,20,OCT25,1968,i
-14640678,"Morencic, Mathias",SLO,M,,,,1485,0,40,OCT25,2010,
+14640678,"Morencic, Mathias",SLO,M,,,,1482,0,40,OCT25,2010,
 14615568,"Mori, Rudi",SLO,M,,,,1930,0,20,OCT25,1941,i
 14656361,"Moseeva, Anna",SLO,F,,,,1617,0,20,OCT25,1980,w
 14618729,"Mozgan, Timotej",SLO,M,,,,1504,0,20,OCT25,2001,i
@@ -1499,7 +1500,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14610094,"Nemec, Hana",SLO,F,,,,1911,0,20,OCT25,1999,wi
 14643324,"Nemec, Matej",SLO,M,,,,1786,0,40,OCT25,1995,
 14612453,"Nerat, Brigita",SLO,F,,,,1784,0,20,OCT25,1966,wi
-14665867,"Nevenkic, Marussig Svit",SLO,M,,,,1433,7,40,OCT25,2014,
 14609363,"Nikic, Saso",SLO,M,,,,1857,0,20,OCT25,2000,i
 14644444,"Nikl, Rene",SLO,M,,,,1432,0,40,OCT25,2010,
 14609274,"Nikl-Hutinski, Alenka",SLO,F,,,,1726,0,20,OCT25,1964,w
@@ -1525,7 +1525,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14608588,"Novak, Matic",SLO,M,,,,1792,0,40,OCT25,1993,i
 14608340,"Novak, Rok",SLO,M,,,,1772,0,20,OCT25,1991,
 14622432,"Novak, Simon",SLO,M,,,,1966,0,20,OCT25,1983,i
-14628384,"Novak, Simona",SLO,F,,,,1710,0,20,OCT25,1962,w
+14628384,"Novak, Simona",SLO,F,,,,1711,0,20,OCT25,1962,w
 14621592,"Novak, Stane",SLO,M,,,,1770,0,20,OCT25,1952,i
 14615584,"Novak, Stefan",SLO,M,,,,1749,7,40,OCT25,1953,
 14612992,"Novakovic, Gosto",SLO,M,,,,1699,23,20,OCT25,1959,
@@ -1551,7 +1551,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14682478,"Okorn, Bojan",SLO,M,,,,1836,6,40,OCT25,1982,
 14626004,"Okorn, Filip",SLO,M,,,,1473,0,40,OCT25,2006,i
 14604809,"Okorn, Nejc",SLO,M,,,,1865,0,20,OCT25,1994,i
-14675730,"Okorn, Vita",SLO,F,,,,1500,13,40,OCT25,2017,w
+14675730,"Okorn, Vita",SLO,F,,,,1475,24,40,OCT25,2017,w
 14623048,"Okroznik, Gorazd",SLO,M,,,,1630,0,20,OCT25,1963,i
 14633264,"Olenik Campa, Rudi",SLO,M,FM,,,2298,7,40,OCT25,2007,
 14605805,"Omahen, Gasper",SLO,M,,,,1845,0,20,OCT25,1979,
@@ -1712,7 +1712,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14668165,"Poljanec, Svit",SLO,M,,,,1407,0,40,OCT25,2009,i
 14607166,"Polutnik, Jure",SLO,M,,,,1972,0,20,OCT25,1984,i
 14643413,"Pompe, Niko",SLO,M,,,,1926,0,40,OCT25,2007,
-14642689,"Pompe, Zeljko",SLO,M,,,,1867,9,40,OCT25,1961,
+14642689,"Pompe, Zeljko",SLO,M,,,,1866,9,40,OCT25,1961,
 14655047,"Pona, Viktoriia",SLO,F,,,,1407,0,40,OCT25,2007,wi
 14604230,"Pongrac, Alojzija",SLO,F,,,,1814,0,20,OCT25,1931,wi
 14609800,"Popovic, Dragi",SLO,M,,,,1845,0,20,OCT25,1972,i
@@ -1744,6 +1744,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14657201,"Praprotnik Simunic, Izak",SLO,M,,,,1502,4,40,OCT25,2012,
 14676370,"Prastalo, Vid",SLO,M,,,,1474,0,40,OCT25,2012,
 14600382,"Praznik, Anton",SLO,M,FM,,,2169,0,20,OCT25,1949,i
+14655020,"Praznik, Nikolaj",SLO,M,,,,1420,65,40,OCT25,2015,
 14659573,"Predin, Mara",SLO,F,,,,1719,7,40,OCT25,2014,w
 14602610,"Pregarac, Valter",SLO,M,,,,2100,0,20,OCT25,1979,i
 14613778,"Pregelj, Ervin",SLO,M,,,,1702,0,20,OCT25,1960,i
@@ -1777,14 +1778,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14656051,"Psenicnik, Mihael",SLO,M,,,,1554,0,20,OCT25,1945,
 14604116,"Pucelj, Joze",SLO,M,,,,2097,7,20,OCT25,1956,
 14650169,"Pucihar, Samo",SLO,M,,,,1677,0,20,OCT25,2002,i
-14649845,"Pugelj, Vanja",SLO,F,,,,1418,7,40,OCT25,2009,w
 14606402,"Pukl, Daniel",SLO,M,,,,2022,0,20,OCT25,1977,i
 14630346,"Pukl, Simon",SLO,M,,,,1897,0,20,OCT25,1980,i
 14661829,"Pungercar, Vid",SLO,M,,,,1549,0,20,OCT25,2004,i
 14615673,"Puntigam, Silvester",SLO,M,,,,1967,0,20,OCT25,1978,
 14651220,"Purg, Damjan",SLO,M,,,,1786,0,20,OCT25,1963,i
 14644134,"Purisic, Radenko",SLO,M,,,,1670,0,20,OCT25,1955,
-14655462,"Pusnik, Hinko",SLO,M,,,,1767,7,20,OCT25,1967,
+14655462,"Pusnik, Hinko",SLO,M,,,,1766,7,20,OCT25,1967,
 14634651,"Puz, Jernej",SLO,M,,,,1407,0,40,OCT25,2007,i
 14603195,"Rabic, Drago",SLO,M,,,,1860,0,20,OCT25,1949,
 14613018,"Racnik, Tone",SLO,M,,,,2044,0,20,OCT25,1976,i
@@ -1807,12 +1807,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14650177,"Raljic, David",SLO,M,,,,1546,0,20,OCT25,2002,i
 14618680,"Ramadani, Adelina",SLO,F,,,,1566,0,20,OCT25,2001,wi
 14605350,"Ramadani, Sarah",SLO,F,,,,1904,0,20,OCT25,1999,wi
-14660636,"Ramoves Primozic, Vid",SLO,M,,,,1406,6,40,OCT25,2016,
 14635003,"Ramsak, Denis",SLO,M,,,,2014,0,20,OCT25,1999,
 14632276,"Ramsak, Igor",SLO,M,,,,2037,0,20,OCT25,1978,
-14651351,"Randelovic, Nikolas",SLO,M,,,,1458,12,40,OCT25,2011,
+14651351,"Randelovic, Nikolas",SLO,M,,,,1429,14,40,OCT25,2011,
 14652110,"Randjelovic, Anastasija",SLO,F,,,,1650,0,20,OCT25,2002,wi
-14637804,"Rangus, Peter",SLO,M,,,,AFM,1749,0,OCT25,1994,i
+14637804,"Rangus, Peter",SLO,M,,,,1749,0,,OCT25,1994,i
 14674777,"Rant, Jan",SLO,M,,,,1622,0,40,OCT25,1992,i
 14642123,"Rant, Pavle",SLO,M,,,,1753,0,20,OCT25,1949,
 14674114,"Rant, Tim",SLO,M,,,,1468,0,40,OCT25,2015,
@@ -1961,7 +1960,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14600110,"Sifrer, Darko",SLO,M,IM,,,2339,0,20,OCT25,1956,i
 14650185,"Sifrer, Ozbej",SLO,M,,,,1788,0,20,OCT25,2001,i
 14639874,"Silveri, Eliot",SLO,M,,,,1877,0,20,OCT25,1998,i
-14672286,"Simcic, Aneja",SLO,M,,,,1435,6,40,OCT25,2013,
 14678128,"Simcic, Danijel",SLO,M,,,,1458,4,40,OCT25,1987,
 14634783,"Simic Pusnik, Vito",SLO,M,,,,1687,0,20,OCT25,2006,
 14600803,"Simic, Dragan",SLO,M,FM,,,2117,0,20,OCT25,1970,
@@ -1987,7 +1985,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14647303,"Skarlovnik, Aljaz",SLO,M,,,,1811,7,40,OCT25,2012,
 14653214,"Skarlovnik, Stasa",SLO,F,,,,1415,5,20,OCT25,1986,w
 14653222,"Skarlovnik, Uros",SLO,M,,,,1615,7,20,OCT25,1978,
-14654814,"Skarlovnik, Zarja",SLO,F,,,,1619,6,40,OCT25,2014,w
+14654814,"Skarlovnik, Zarja",SLO,F,,,,1618,6,40,OCT25,2014,w
 14621428,"Skerget, Zvonko",SLO,M,,,,1563,0,40,OCT25,1947,
 14635194,"Skerlj, Tone",SLO,M,,,,1857,0,20,OCT25,1935,i
 14639670,Sketa Samo,SLO,M,,,,1547,0,20,OCT25,1964,i
@@ -2015,7 +2013,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14645106,"Skrlep, Lovro",SLO,M,,,,1413,0,40,OCT25,2011,i
 14640619,"Skrt, Matija",SLO,M,,,,1555,0,20,OCT25,2004,i
 14666987,"Skube, Zan",SLO,M,,,,1855,9,40,OCT25,2009,
-14665417,"Skuber, Mia",SLO,F,,,,1555,6,40,OCT25,2013,w
+14665417,"Skuber, Mia",SLO,F,,,,1560,9,40,OCT25,2013,w
 14661845,"Skubic, David",SLO,M,,,,1527,0,40,OCT25,2005,i
 14605465,"Skuhala, Barbara",SLO,F,WFM,WFM,,2124,0,20,OCT25,1996,w
 14605651,"Skuhala, Jernej",SLO,M,FM,,,2359,0,20,OCT25,1998,
@@ -2043,7 +2041,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14608138,"Smon, Gregor",SLO,M,,,,2025,7,20,OCT25,1971,
 14655217,"Snedec, Aljaz",SLO,M,,,,1665,0,40,OCT25,2006,i
 14655322,"Soba, Franc",SLO,M,,,,1514,21,20,OCT25,1970,
-14653613,"Sodnik, Mark",SLO,M,,,,1567,16,40,OCT25,2011,i
+14653613,"Sodnik, Mark",SLO,M,,,,1530,19,40,OCT25,2011,i
 14660776,"Softic, Kenan",SLO,M,,,,1409,0,40,OCT25,2015,
 14672154,"Sojka, Roman",SLO,M,,,,1517,5,40,OCT25,2016,
 14613042,"Sokac, Stefan",SLO,M,,,,1631,0,40,OCT25,1942,
@@ -2079,7 +2077,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14642506,"Srebre, Beno",SLO,M,,,,1656,0,20,OCT25,1958,
 14603314,"Srebrnic, Ana",SLO,F,WGM,WGM,,2094,0,20,OCT25,1984,wi
 14603616,"Srebrnic, Marko",SLO,M,FM,,,2252,0,20,OCT25,1987,
-14600498,"Srebrnic, Vojko",SLO,M,,,,AIM,2093,9,OCT25,1948,
+14600498,"Srebrnic, Vojko",SLO,M,,,,2093,9,,OCT25,1948,
 14622157,"Srimf, Silvester",SLO,M,,,,1773,5,20,OCT25,1957,
 14604078,"Stajner, Samo",SLO,M,FM,,,2323,0,20,OCT25,1987,
 14676435,"Stajner, Teodor",SLO,M,,,,1423,0,40,OCT25,2011,
@@ -2122,8 +2120,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14620278,"Stokanovic, Marjan",SLO,M,,,,1814,0,20,OCT25,1948,i
 14633973,"Stopar, Samo",SLO,M,,,,1635,0,20,OCT25,1991,i
 14674386,"Storgel, Nik",SLO,M,,,,1886,0,40,OCT25,1989,
-14644371,"Storman, Jaka",SLO,M,,,,1434,0,40,OCT25,2008,
-14640716,"Storman, Luka",SLO,M,,,,1544,0,40,OCT25,2010,
+14644371,"Storman, Jaka",SLO,M,,,,1435,0,40,OCT25,2008,
+14640716,"Storman, Luka",SLO,M,,,,1545,0,40,OCT25,2010,
 14647958,"Stradovnik, Edvard",SLO,M,,,,1734,0,40,OCT25,1977,i
 14641968,"Strajhar, Albin",SLO,M,,,,1680,17,20,OCT25,1942,
 14611686,"Straze , Jurij",SLO,M,,,,1584,0,20,OCT25,2003,i
@@ -2149,7 +2147,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14601664,"Stucl, Bozo",SLO,M,FM,,,2184,0,20,OCT25,1963,i
 14659301,"Stuhec, David",SLO,M,,,,1454,0,40,OCT25,2012,
 14629267,"Stukelj, Gasper",SLO,M,,,,1908,0,20,OCT25,1993,i
-14668041,"Sturm, Egon",SLO,M,,,,1537,0,40,OCT25,2009,
+14668041,"Sturm, Egon",SLO,M,,,,1538,0,40,OCT25,2009,
 14618630,"Sturm, Zala",SLO,F,,,,1581,0,20,OCT25,1999,wi
 14662132,"Suban, Nik",SLO,M,,,,1482,0,40,OCT25,2009,i
 14618583,"Subelj, Jan",SLO,M,GM,,,2527,0,10,OCT25,2004,
@@ -2157,8 +2155,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14601648,"Suc, Timothy",SLO,M,,,,2049,0,20,OCT25,1971,i
 14681439,"Suhadolnik, Ana",SLO,F,,,,1673,0,40,OCT25,1993,w
 14609185,"Suhadolnik, Jernej",SLO,M,,,,1958,0,20,OCT25,1996,
-14667681,"Sulcic, Aljaz",SLO,M,,,,ACM,1695,0,OCT25,1994,
-14669170,"Suligoj Kunilo,Rubi",SLO,F,,,,1547,0,40,OCT25,2012,w
+14667681,"Sulcic, Aljaz",SLO,M,,,,1695,0,,OCT25,1994,
+14669170,"Suligoj Kunilo,Rubi",SLO,F,,,,1546,0,40,OCT25,2012,w
 14614332,"Suligoj, Nejc",SLO,M,,,,1682,0,20,OCT25,1999,
 14624486,"Suljanovic, Zuhdija",SLO,M,,,,1873,8,20,OCT25,1954,
 14640260,"Sumak, Klemen",SLO,M,,,,1496,0,40,OCT25,2007,i
@@ -2189,7 +2187,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14647451,"Svetlin Kastelic, Nadja",SLO,F,,,,1461,0,20,OCT25,1973,w
 14603535,"Svigelj, Domen",SLO,M,,,,1846,0,20,OCT25,1992,
 14666812,"Tadina, Bozo",SLO,M,,,,1412,0,40,OCT25,1954,
-14656345,"Taljan, Anej",SLO,M,,,,1449,6,40,OCT25,2014,
 14637987,"Tansek, Branko",SLO,M,,,,1667,0,40,OCT25,2008,
 14643944,"Tavcar, Gal",SLO,M,,,,1465,0,40,OCT25,2012,
 14660970,"Teran, Nejc",SLO,M,,,,1458,0,40,OCT25,2008,i
@@ -2210,13 +2207,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14627663,"Tomasic, Tine",SLO,M,,,,1667,0,20,OCT25,2004,i
 14605287,"Tomazic, Martin",SLO,M,,,,1727,9,20,OCT25,1953,
 14656183,"Tomazin Kosorok, Tadej",SLO,M,,,,1754,5,40,OCT25,2013,
-14614294,"Tomazin, James Marijan",SLO,M,,"SI,NA",,AIM,1980,4,OCT25,1961,
+14614294,"Tomazin, James Marijan",SLO,M,,"SI,NA",,1980,4,,OCT25,1961,
 14608154,"Tomazini, Aljosa",SLO,M,FM,,,2311,0,20,OCT25,1993,
 14608162,"Tomazini, Zan",SLO,M,IM,,,2328,0,20,OCT25,1994,
 14618982,"Tome, Jakob",SLO,M,,,,1663,0,20,OCT25,2000,i
 14627647,"Tompa, Gasper",SLO,M,,,,1960,0,20,OCT25,1979,i
 14655527,"Tomsic, Kris",SLO,M,,,,1589,9,40,OCT25,2015,
 14606011,"Topic, Jelena",SLO,F,,,,1932,0,20,OCT25,1990,wi
+14656647,"Topic, Nikola",SLO,M,,,,1452,9,40,OCT25,2014,
 14678713,"Topler, Grega",SLO,M,,,,1540,0,40,OCT25,2012,
 14626144,"Toplisek, Maj",SLO,M,,,,1567,0,20,OCT25,2005,i
 14634813,"Topolovec, Vid",SLO,M,,,,1801,0,20,OCT25,1992,i
@@ -2243,7 +2241,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13713051,"Trussevich, Simon",SLO,M,,,,2067,0,20,OCT25,2004,i
 14610744,"Tubic, Zoran",SLO,M,,,,1648,0,20,OCT25,2000,i
 14606020,"Turek, Lan Timotej",SLO,M,,,,2004,0,20,OCT25,1990,i
-14604930,"Turicnik, Vlado",SLO,M,,,,AFM,2126,0,OCT25,1964,i
+14604930,"Turicnik, Vlado",SLO,M,,,,2126,0,,OCT25,1964,i
 14654245,"Turk, Jan",SLO,M,,,,1525,6,40,OCT25,2014,
 14604167,"Turkovic, Igor",SLO,M,,,,1822,0,20,OCT25,1970,i
 14651769,"Turnsek, Leon",SLO,M,,,,1795,0,20,OCT25,1943,i
@@ -2322,10 +2320,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14667568,"Vesel, Vito",SLO,M,,,,1513,0,40,OCT25,2011,
 14653354,"Veselic, Maks",SLO,M,,,,2245,9,40,OCT25,2010,
 14611325,"Veskovic, Dzemal",SLO,M,,,,1833,21,20,OCT25,1963,
-14668181,"Vezjak, David",SLO,M,,,,1625,0,40,OCT25,2013,
+14668181,"Vezjak, David",SLO,M,,,,1624,0,40,OCT25,2013,
 14632764,"Vicic, Maks",SLO,M,,,,1706,0,40,OCT25,2009,i
 14632772,"Vicic, Mark",SLO,M,,,,1746,0,40,OCT25,2007,i
-14608545,"Vida, Dorian",SLO,M,,,,1881,0,40,OCT25,1995,
+14608545,"Vida, Dorian",SLO,M,,,,1880,0,40,OCT25,1995,
 14656515,"Vidakovic, Darko",SLO,M,,,,1614,0,20,OCT25,1988,i
 14604221,"Vidali, Joze",SLO,M,,,,1725,0,20,OCT25,1936,i
 14654164,"Videc, Milan",SLO,M,,,,1680,6,20,OCT25,1966,
@@ -2380,6 +2378,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14603454,"Vrcon, Damijan",SLO,M,,,,2216,0,20,OCT25,1968,i
 14606038,"Vrecek, Matej",SLO,M,,,,1700,3,20,OCT25,1965,
 14605490,"Vrecic, Marko",SLO,M,,,,1989,6,20,OCT25,1961,
+14665476,"Vreg, Jasa",SLO,M,,,,1506,7,40,OCT25,2016,
 14660431,"Vucak, Vid",SLO,M,,,,1494,0,40,OCT25,2014,
 14657686,"Vucko, Franc",SLO,M,,,,1673,0,40,OCT25,1959,
 14630290,"Vujic, Nikola",SLO,M,,,,1683,0,20,OCT25,1991,i
@@ -2430,7 +2429,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14652021,"Zibert, Tomaz",SLO,M,,,,1601,0,20,OCT25,1991,i
 14629585,"Zidar, Jernej",SLO,M,,,,2037,0,40,OCT25,2007,
 14671204,"Zidar, Sebastjan",SLO,M,,,,1639,8,40,OCT25,2003,
-14671026,"Ziher, Peter",SLO,M,,,,1497,5,40,OCT25,2011,
+14671026,"Ziher, Peter",SLO,M,,,,1458,8,40,OCT25,2011,
 14613395,"Zirkelbach, Maj",SLO,M,FM,,,2146,0,20,OCT25,1998,
 14643952,"Zitnik, Aleksander",SLO,M,,,,1422,0,40,OCT25,2005,i
 14682036,"Zitnik, Anja",SLO,F,,,,1651,5,40,OCT25,1982,w
@@ -2441,7 +2440,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14661870,"Zlatanov, Igor",SLO,M,,,,1784,0,20,OCT25,1975,
 14626195,"Zlatanovic, Marcus",SLO,M,,,,1735,0,20,OCT25,2005,
 14632217,"Zlatanovic, Srdjan",SLO,M,,,,1743,0,20,OCT25,1981,
-14661373,"Zlatolas, Anej",SLO,M,,,,1856,0,40,OCT25,2009,
+14661373,"Zlatolas, Anej",SLO,M,,,,1857,0,40,OCT25,2009,
 14642883,"Zlebic, Eva",SLO,F,,,,1406,0,40,OCT25,2009,wi
 14633124,"Zlicar, Jure",SLO,M,,,,1739,0,40,OCT25,2007,i
 14652986,"Zlindra, Aljaz",SLO,M,,,,1941,0,40,OCT25,2007,
@@ -2474,9 +2473,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14634856,"Zunic, Bostjan",SLO,M,,,,1628,0,20,OCT25,1975,
 14610108,"Zunic, Gregor",SLO,M,,,,1709,0,20,OCT25,2000,i
 14658780,"Zupan, Azbe",SLO,M,,,,1476,0,40,OCT25,2008,i
-14670895,"Zupan, Blaz",SLO,M,,,,1710,6,40,OCT25,2009,
+14670895,"Zupan, Blaz",SLO,M,,,,1709,6,40,OCT25,2009,
 14632462,"Zupan, Borut",SLO,M,,,,1575,0,20,OCT25,1998,i
-14631725,"Zupan, Gorazd",SLO,M,,,,ACM,1893,0,OCT25,1991,
+14631725,"Zupan, Gorazd",SLO,M,,,,1893,0,,OCT25,1991,
 14631733,"Zupan, Ksenija",SLO,F,,,,1561,0,20,OCT25,1964,w
 14674785,"Zupan, Luka",SLO,M,,,,1527,0,40,OCT25,2007,
 14643600,"Zupan, Mirko",SLO,M,,,,1786,0,20,OCT25,1978,i

@@ -33,8 +33,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14393204,"Borrett, Ryan",RSA,M,,,,1652,0,40,OCT25,1995,
 14329930,"Boshoma, Chisomo",RSA,F,WFM,WFM,,1767,0,40,OCT25,2007,wi
 534004181,"Botes, Renier",RSA,M,,,,1591,0,40,OCT25,1976,
-14356333,"Botha, Chris",RSA,M,,,,1466,0,40,OCT25,2011,
-14376792,"Botha, Johannes Cornel",RSA,M,,,,ACM,1460,0,OCT25,2011,i
+14356333,"Botha, Chris",RSA,M,,,,1465,0,40,OCT25,2011,
+14376792,"Botha, Johannes Cornel",RSA,M,,,,1459,0,,OCT25,2011,i
 14351137,"Botha, Tyler",RSA,M,,,,1577,0,40,OCT25,2010,
 14356228,"Bothma, Liandri",RSA,F,,,,1481,0,40,OCT25,2006,wi
 14318261,"Bothma, Louis",RSA,M,,,,1855,0,20,OCT25,1987,i
@@ -50,7 +50,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14320738,"Bucceri, Draven",RSA,M,,,,1797,0,20,OCT25,2000,i
 14375974,"Budge, Daniel",RSA,M,,,,1719,0,20,OCT25,2006,
 14343509,"Budhram, Kaylee",RSA,F,,,,1494,0,40,OCT25,2012,wi
-14368595,"Bulelani, Stephen",RSA,M,,,,1852,0,40,OCT25,2009,
+14368595,"Bulelani, Stephen",RSA,M,,,,1854,0,40,OCT25,2009,
 14327279,"Buthelezi, Simphiwe",RSA,M,,,,1690,0,20,OCT25,1997,i
 14303248,"Caesar, Chante",RSA,F,,,,1810,0,20,OCT25,1994,wi
 14305259,"Caesar, Leon G.",RSA,M,,,,1867,0,20,OCT25,1963,i
@@ -64,15 +64,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14346850,"CHIPUNZA, Jared",RSA,M,,,,1628,0,40,OCT25,2011,
 14357186,"Claassen, Raynier",RSA,M,,,,1964,0,40,OCT25,2010,
 14352281,"Cloete, Ralph",RSA,M,,,,1601,0,40,OCT25,1978,
-14358387,"Cloete, Willem Francois",RSA,M,,,,1585,0,20,OCT25,1977,
-14356937,"Cockin, Ruan",RSA,M,,,,ACM,1510,0,OCT25,2010,
-14334453,"Coetsee, Dewald",RSA,M,,,,AFM,1646,0,OCT25,2008,i
+14358387,"Cloete, Willem Francois",RSA,M,,,,1586,0,20,OCT25,1977,
+14356937,"Cockin, Ruan",RSA,M,,,,1510,0,,OCT25,2010,
+14334453,"Coetsee, Dewald",RSA,M,,,,1646,0,,OCT25,2008,i
 534022015,"Coetzer, Johan",RSA,M,,,,1728,0,40,OCT25,1965,
 14328917,"Coetzer, Quinn",RSA,M,,,,1442,0,40,OCT25,2007,i
 14352303,"Daniels, Reuben",RSA,M,,,,1556,0,40,OCT25,2007,
 14307472,"De Abreu, Roberto N",RSA,M,FM,,,2084,0,20,OCT25,1996,i
 14317982,"De Jager, Luan",RSA,M,,,,1899,0,20,OCT25,2000,i
-14378434,"De Kock, Wade",RSA,M,,,,AIM,1675,0,OCT25,2008,
+14378434,"De Kock, Wade",RSA,M,,,,1675,0,,OCT25,2008,
 14363097,"De Villiers, Ammen Mohammed",RSA,M,,,,1641,0,20,OCT25,2001,
 14300028,"De Villiers, Charles",RSA,M,FM,,,2097,0,20,OCT25,1953,i
 410802,"Dekker, Alain",RSA,M,,,,2076,0,20,OCT25,1973,
@@ -84,10 +84,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14376814,"Dikobe, Goabaone Khumo",RSA,M,,,,1582,0,40,OCT25,2009,i
 14372002,"Dikolomela, Tlhogi",RSA,F,,,,1442,0,40,OCT25,2011,w
 14358271,"Dlamini, Njabulo",RSA,M,,,,1587,0,40,OCT25,2003,
-14338017,"Dove, Megan",RSA,F,,DI,,ACM,1501,0,OCT25,2007,w
-14346885,"DRISCOLL, Samuel",RSA,M,,,,ACM,1567,0,OCT25,2013,i
+14338017,"Dove, Megan",RSA,F,,DI,,1501,0,,OCT25,2007,w
+14346885,"DRISCOLL, Samuel",RSA,M,,,,1567,0,,OCT25,2013,i
 14318610,"Du Plessis, Anika",RSA,F,WIM,WIM,SI,1787,0,20,OCT25,2000,wi
-123105276,"du Toit, Daniel",RSA,M,,,,AFM,1422,0,OCT25,2011,i
+123105276,"du Toit, Daniel",RSA,M,,,,1422,0,,OCT25,2011,i
 14385538,"Dubbeld, Benjamin",RSA,M,,,,1516,0,40,OCT25,2009,
 14385597,"Dubbeld, Bernard",RSA,M,,,,1569,0,40,OCT25,1978,
 14371510,"Ellender, Asher",RSA,M,,,,1452,0,40,OCT25,2015,i
@@ -106,15 +106,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14322773,"Galant, Warren",RSA,M,,,,1826,0,20,OCT25,1997,i
 14345897,"Gall, Jenken",RSA,M,,,,1639,0,40,OCT25,2002,
 14317443,"Gama, Edivaldo",RSA,M,,,,2029,0,20,OCT25,0,i
-14368773,"Gandasarakula, Nibhish",RSA,M,,,,1584,10,40,OCT25,2012,
+14368773,"Gandasarakula, Nibhish",RSA,M,,,,1589,10,40,OCT25,2012,
 14306867,"Gardiner, Nina",RSA,F,WFM,WFM,,1677,0,20,OCT25,2000,w
 14350807,"George, Aaron",RSA,M,,,,1450,0,40,OCT25,2013,
-14355663,"Geyser, Johan",RSA,M,,,,AFM,1565,6,OCT25,1994,
+14355663,"Geyser, Johan",RSA,M,,,,1565,6,,OCT25,1994,
 14334020,"Gluckman, Ivan",RSA,M,,,,1746,0,20,OCT25,0,i
 14317737,"Goldberg, Shmuel",RSA,M,,,,1906,0,20,OCT25,1998,i
-14382733,"Goncalves, Emilio",RSA,M,,,,1611,0,40,OCT25,2015,
+14382733,"Goncalves, Emilio",RSA,M,,,,1610,0,40,OCT25,2015,
 14301709,"Goosen, Anton",RSA,M,CM,,,1969,0,20,OCT25,1961,i
-14311887,"Goredema, Dione",RSA,M,,,,AFM,1876,0,OCT25,1997,
+14311887,"Goredema, Dione",RSA,M,,,,1876,0,,OCT25,1997,
 14391970,"Gosha, William",RSA,M,,,,1596,0,40,OCT25,1982,
 14322072,"Govender, Kaedan",RSA,M,CM,,,1576,0,40,OCT25,2009,i
 14328550,"Govender, Keniesha",RSA,F,,,,1501,0,40,OCT25,2007,wi
@@ -123,16 +123,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14307650,"Grobbelaar, Jacqui",RSA,F,,,,1761,0,20,OCT25,1994,wi
 14372967,"Groener, Begravian",RSA,M,,,,1562,0,40,OCT25,2009,
 14372975,"Groener, Gladwin",RSA,M,,,,1688,0,40,OCT25,2010,
-14371634,"Gurayah, Tharshey",RSA,M,,,,1552,0,40,OCT25,2013,
+14371634,"Gurayah, Tharshey",RSA,M,,,,1553,0,40,OCT25,2013,
 14364549,"Handley, Stephen",RSA,M,,,,1574,0,40,OCT25,2008,
 14355140,"Hartley, Ameen",RSA,M,,,,1682,0,40,OCT25,1994,
 14322960,"Hempe, Lilitha",RSA,M,,,,1873,0,20,OCT25,1999,i
 14396181,"Hendricks, Siddeeq",RSA,M,,,,1451,0,40,OCT25,2002,
 14301938,"Hercules, Benjamin Vincent",RSA,M,CM,,,2162,0,20,OCT25,1991,i
-14377861,"Hibbins, Graeme",RSA,M,,,,1660,0,40,OCT25,2010,
+14377861,"Hibbins, Graeme",RSA,M,,,,1661,0,40,OCT25,2010,
 14334267,"Hlakula, Thando",RSA,M,,FI,,1700,0,20,OCT25,1982,i
 14329018,"Holroyd, Kea",RSA,M,,,,1474,0,40,OCT25,2005,i
-14385546,"Hone, Ryan",RSA,M,,,,ACM,1571,0,OCT25,2009,
+14385546,"Hone, Ryan",RSA,M,,,,1571,0,,OCT25,2009,
 534005714,"Hottie, Kingston",RSA,M,,,,1658,0,40,OCT25,1972,
 14387077,"Howe, Andrew",RSA,M,,,,1518,0,40,OCT25,1966,i
 14357143,"Ilenikhena, Basil",RSA,M,,,,1817,0,40,OCT25,1989,i
@@ -155,7 +155,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14356945,"Joubert, Joshua Johannes",RSA,M,,,,1439,0,40,OCT25,2015,
 14313260,"Joubert, Natasha",RSA,F,WCM,WCM,,1720,0,20,OCT25,2005,w
 14358980,"Joya, Imkhita",RSA,F,,,,1725,0,40,OCT25,2011,w
-14346044,"Jugree, Arav",RSA,M,,,,AFM,1617,0,OCT25,2009,i
+14346044,"Jugree, Arav",RSA,M,,,,1617,0,,OCT25,2009,i
 14300788,"Jurgensen, Graham",RSA,M,CM,,,2099,0,20,OCT25,1979,i
 14310066,"Kabi, Thato",RSA,M,,,,1828,0,20,OCT25,1993,i
 14342855,"Kapp, Ettiene",RSA,M,,,,1766,0,40,OCT25,1987,
@@ -164,9 +164,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14365537,"Karsten, Keagan",RSA,M,,,,1518,0,40,OCT25,2009,
 14334240,"Kedama, Sandiso",RSA,M,,,,1919,0,20,OCT25,2003,
 14318415,"Kgaphola, Moloko",RSA,M,,,,1578,0,20,OCT25,1998,i
-14325608,"Kgosimotswedi, Aaron Masisi",RSA,M,,,,AFM,1719,0,OCT25,1983,i
+14325608,"Kgosimotswedi, Aaron Masisi",RSA,M,,,,1719,0,,OCT25,1983,i
 14319470,"Khumalo, Keith",RSA,M,CM,,,1987,0,20,OCT25,2001,i
-14396190,"Kirthan, Vajra",RSA,F,,,,1446,0,40,OCT25,2011,w
+14396190,"Kirthan, Vajra",RSA,F,,,,1445,0,40,OCT25,2011,w
 14300133,"Klaasen, Calvin John",RSA,M,FM,FT,,2167,0,20,OCT25,1987,
 14305020,"Klaasen, Robyn Julian",RSA,F,,,,1779,0,20,OCT25,1996,wi
 14301725,"Klaver, Cornelis",RSA,M,,,,2012,0,20,OCT25,1981,i
@@ -176,7 +176,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14307820,"Kolver, Chris",RSA,M,CM,,,2013,0,20,OCT25,1999,i
 14369079,"Krieger, Brian",RSA,M,,,,1469,0,40,OCT25,2009,
 14354764,"Krieger, Charles",RSA,M,,,,1619,0,40,OCT25,1983,
-14340577,"Kritzinger, Andre",RSA,M,,NA,,AFM,1704,0,OCT25,1982,i
+14340577,"Kritzinger, Andre",RSA,M,,NA,,1704,0,,OCT25,1982,i
 14300206,"Kromhout, Ewan",RSA,M,,,,1930,0,20,OCT25,1957,i
 14316609,"Kroutz, Jonathan",RSA,M,,,,1597,0,20,OCT25,1999,i
 534007326,"Kruse, Michael",RSA,M,,,,1682,0,40,OCT25,2005,
@@ -185,7 +185,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14328828,"Lagardien, Ismaeel",RSA,M,,,,1560,0,40,OCT25,2007,i
 14307871,"Latib, Tameez",RSA,M,,,,1935,0,20,OCT25,1998,i
 14300800,"Laubscher, Anzel",RSA,F,WIM,WIM,"FI,LSI,SLI",1810,0,20,OCT25,1978,wi
-14393107,"Laubscher, Erick",RSA,M,,,,1632,3,40,OCT25,2006,
+14393107,"Laubscher, Erick",RSA,M,,,,1633,3,40,OCT25,2006,
 14324237,"Laurie, John D",RSA,M,,,,2026,0,20,OCT25,1971,
 14351340,"Le Fleur, Shaun",RSA,M,,,,1574,0,40,OCT25,1987,
 14341280,"Le Grange, Rauen",RSA,M,,,,1801,0,20,OCT25,1996,i
@@ -202,9 +202,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14382792,"Letsoeisa, Modimoonthatile",RSA,M,,,,1641,0,40,OCT25,2008,
 14332620,"Levitan, Caleb Levi",RSA,M,IM,,,2213,0,40,OCT25,2010,i
 14327252,"Levy, Darren",RSA,M,,,,1898,0,20,OCT25,1978,i
-14337851,"Lewaks, Shaundre",RSA,M,,,,ACM,1622,0,OCT25,2008,
+14337851,"Lewaks, Shaundre",RSA,M,,,,1621,0,,OCT25,2008,
 14305674,"Lewis, Mark Mm.",RSA,M,,,,1958,0,20,OCT25,1962,i
-14361604,"Li, Zhengfei",RSA,M,,,,AIM,1722,0,OCT25,2009,
+14361604,"Li, Zhengfei",RSA,M,,,,1722,0,,OCT25,2009,
 14355094,"Lielieveld, Franco",RSA,M,,,,1725,0,20,OCT25,2006,
 14355175,"Lielieveld, Jadrian",RSA,M,,,,1640,0,40,OCT25,2010,
 14325810,"Lombard, Luke",RSA,M,,,,1769,0,20,OCT25,2002,
@@ -242,13 +242,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14357623,"Maneveld, Conrad",RSA,M,,,,1622,0,20,OCT25,1970,
 14330644,"Mangoro, Richard",RSA,M,,,,1664,0,20,OCT25,1993,
 14334798,"Mankga, Thabang",RSA,M,,,,1662,0,20,OCT25,2004,i
-123104822,"Manning, Callan",RSA,M,,,,ACM,1624,0,OCT25,2014,
+123104822,"Manning, Callan",RSA,M,,,,1624,0,,OCT25,2014,
 14390027,"Mansfield-Scaddan, Sefton",RSA,M,,,,1585,0,40,OCT25,2006,
 14338319,"Manto, Martha",RSA,F,,,,1535,0,40,OCT25,2006,wi
 534019774,"Maphomy, Blane",RSA,M,,,,1611,0,40,OCT25,2008,
 14349957,"Mapokane, Eric",RSA,M,,,,1643,0,20,OCT25,1997,i
 14316340,"Marcus, Natasha",RSA,F,,,,1515,0,40,OCT25,1992,wi
-534009426,"Marner, Bryan Neil",RSA,M,,,,1452,0,40,OCT25,2013,
+534009426,"Marner, Bryan Neil",RSA,M,,,,1453,0,40,OCT25,2013,
 14380951,"Martin, Tim",RSA,M,,,,1504,0,40,OCT25,2004,
 14378752,"Maruma, Kamogelo",RSA,M,,,,1528,0,40,OCT25,2011,i
 14357461,"Maruma, Katlego",RSA,M,,,,1539,0,40,OCT25,2007,i
@@ -267,14 +267,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14357470,"Mcmanus, Dale",RSA,M,,,,1649,0,20,OCT25,2002,
 14348667,"Mehlape, Tebogo Given",RSA,M,,,,1670,0,20,OCT25,2001,i
 14319225,"Meiboom, Cornelis",RSA,M,,,,1861,0,20,OCT25,1957,i
-14332566,"Meise, Keagen",RSA,M,,,,AIM,1557,0,OCT25,2006,i
+14332566,"Meise, Keagen",RSA,M,,,,1557,0,,OCT25,2006,i
 534023275,"Meissenheimer, Kyle",RSA,M,,,,1446,0,40,OCT25,2012,
 14325756,"Mello, Nkwadi",RSA,M,,,,1692,0,20,OCT25,0,i
 14307073,"Mendelsohn, David C.",RSA,M,,,,1908,0,20,OCT25,1955,i
 14326477,"Menyuku, Madimetja William",RSA,M,,,,1816,0,20,OCT25,1997,i
 14320797,"Mfundisi, Sandile",RSA,M,,,,1926,0,20,OCT25,1992,i
 14327040,"Mhango, Banele",RSA,M,FM,,,2243,17,20,OCT25,2003,
-14359081,"Michaels, Antonio",RSA,M,,,,1822,0,40,OCT25,2007,
+14359081,"Michaels, Antonio",RSA,M,,,,1823,0,40,OCT25,2007,
 14339609,"Michiel, Raidan",RSA,M,,,,1569,0,40,OCT25,2009,i
 14318687,"Millard, Chad",RSA,M,,,,1699,0,20,OCT25,2002,i
 14320363,"Millard, Charlotte",RSA,F,WCM,WCM,,1538,0,40,OCT25,2006,wi
@@ -304,9 +304,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14332337,"Mthembu, Lovers",RSA,M,,,,1747,0,20,OCT25,2003,i
 534006311,"Mthethwa, Nkanyiso",RSA,M,,,,1578,0,40,OCT25,2004,
 14311054,"Mthunzi, Brighton",RSA,M,,,,2027,0,20,OCT25,1982,i
-14308460,"Mthunzi, Clive",RSA,M,,"NI,FA",,AFM,1935,0,OCT25,1994,i
-14340682,"Muller, Kaden",RSA,M,,,,AIM,1567,0,OCT25,2003,
-14341646,"Mungal, Ethan",RSA,M,,,,1642,0,40,OCT25,2010,
+14308460,"Mthunzi, Clive",RSA,M,,"NI,FA",,1935,0,,OCT25,1994,i
+14340682,"Muller, Kaden",RSA,M,,,,1567,0,,OCT25,2003,
+14341646,"Mungal, Ethan",RSA,M,,,,1643,0,40,OCT25,2010,
 14355310,"Mungal, Shane",RSA,M,,,,1569,0,40,OCT25,1984,i
 14378108,"Munro, Jonathan",RSA,M,,,,1724,0,40,OCT25,2002,
 534010106,"Musakwa, Carlton",RSA,M,,,,1561,0,40,OCT25,2012,
@@ -314,41 +314,41 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14364425,"Mzizi, Olwethu",RSA,M,,,,1535,0,40,OCT25,2003,
 14372045,"Naidoo, Dhiya",RSA,F,,,,1694,0,40,OCT25,2011,w
 14341077,"Naidoo, Kajol",RSA,F,,,,1515,0,40,OCT25,2011,wi
-14339617,"Naidoo, Kirthan",RSA,M,,,,ACM,1799,0,OCT25,2009,
+14339617,"Naidoo, Kirthan",RSA,M,,,,1800,0,,OCT25,2009,
 72300329,"Naidoo, Tashil",RSA,M,,,,1760,0,20,OCT25,2004,i
 14353091,"Ncethelo, Bongolethu",RSA,M,,,,1873,0,20,OCT25,2006,
 14349159,"Ndinise, Luzuko",RSA,M,,NA,,1674,0,40,OCT25,1986,i
 14352079,"Ndlebe, Anda",RSA,M,,,,1742,0,40,OCT25,2006,i
-14364603,"Ndyova, Thanduxolo",RSA,M,,,,ACM,1625,0,OCT25,1985,
-14363313,"Nel, Charles Paul",RSA,M,,,,ACM,1544,0,OCT25,2013,
+14364603,"Ndyova, Thanduxolo",RSA,M,,,,1625,0,,OCT25,1985,
+14363313,"Nel, Charles Paul",RSA,M,,,,1544,0,,OCT25,2013,
 14338688,"Nel, Hayley",RSA,F,WCM,WCM,,1527,0,40,OCT25,2006,wi
 534006338,"Nelson, Delano",RSA,M,,,,1506,0,40,OCT25,2001,
 14300400,"Nelson, Jaco",RSA,M,,,,1968,0,20,OCT25,1978,i
 14306760,"Nene, Themba",RSA,M,,,,1956,0,20,OCT25,1984,i
 14312603,"Nevin, Tyler",RSA,M,CM,,,1821,0,40,OCT25,2006,i
-14392267,"Ngidi, Ndumiso",RSA,M,,,,1446,0,40,OCT25,2011,
+14392267,"Ngidi, Ndumiso",RSA,M,,,,1447,0,40,OCT25,2011,
 14322170,"Nhamuave, Eleazar",RSA,M,,,,1783,0,20,OCT25,2003,i
 14383446,"Nieuwoudt, Peter Francois",RSA,M,,,,1515,0,40,OCT25,1955,
-14377004,"Nkabinde, Lwazi",RSA,M,,,,AFM,1538,0,OCT25,2010,i
+14377004,"Nkabinde, Lwazi",RSA,M,,,,1538,0,,OCT25,2010,i
 14366614,"Nkhwashu, Geraldine",RSA,F,,,,1534,0,40,OCT25,2007,wi
 14314916,"Nkosi, Dumisa Jacob",RSA,M,,,,1896,0,20,OCT25,1982,i
 534007237,"Nortje, Pieter",RSA,M,,,,1625,0,40,OCT25,1986,
-14334402,"Nqakala, Nkosinathi",RSA,M,,,,1694,0,40,OCT25,1997,
+14334402,"Nqakala, Nkosinathi",RSA,M,,,,1693,0,40,OCT25,1997,
 14369311,"Nthlangoe, Nkadimeng",RSA,M,,,,1634,0,40,OCT25,1991,i
 14353903,"Nyathi, Oscar",RSA,M,,,,1701,0,20,OCT25,1987,i
 14302250,"Oberholzer, Francois",RSA,M,FM,,,2094,0,20,OCT25,1995,i
 14301067,"Odendaal, Frederick",RSA,M,,"NI,SI,LSI,NA",,2049,0,20,OCT25,1980,i
-14325845,"Ohlson, Cecil",RSA,M,,,,AIM,1705,0,OCT25,1961,i
-14302411,"Oliver, Henry Noel",RSA,M,,,,AIM,1855,0,OCT25,1992,i
+14325845,"Ohlson, Cecil",RSA,M,,,,1705,0,,OCT25,1961,i
+14302411,"Oliver, Henry Noel",RSA,M,,,,1855,0,,OCT25,1992,i
 14360012,"Oosthuizen, Ethan",RSA,M,,,,1445,0,40,OCT25,2010,
 14316781,"Oosthuizen, Michal Jacobus",RSA,M,FM,,,1900,0,40,OCT25,2005,i
 534016139,"Opperman, Caden",RSA,M,,,,1488,0,40,OCT25,2015,
-14352710,"Opperman, Connor Gavin",RSA,M,,,,AFM,1746,5,OCT25,2010,
+14352710,"Opperman, Connor Gavin",RSA,M,,,,1746,5,,OCT25,2010,
 14341840,"Opperman, Matthew",RSA,M,,,,1544,0,40,OCT25,2008,
 14300460,"Ovcina, Dennis",RSA,M,,,,2163,0,20,OCT25,1980,i
-14339641,"Palmer, Jesse",RSA,M,,,,AIM,1777,0,OCT25,2009,
+14339641,"Palmer, Jesse",RSA,M,,,,1777,0,,OCT25,2009,
 14322145,"Palmer, Reegan",RSA,M,CM,,,1970,0,40,OCT25,2007,i
-14338718,"Palmer, Zante",RSA,F,,,,ACM,1603,0,OCT25,2005,wi
+14338718,"Palmer, Zante",RSA,F,,,,1603,0,,OCT25,2005,wi
 14371944,"Papanicolaou, Mila",RSA,F,,,,1478,0,40,OCT25,2013,w
 14309424,"Parker, Francis",RSA,M,,,,1959,0,20,OCT25,0,i
 14352729,"Pearson, Dane Kevin",RSA,M,,,,1468,0,40,OCT25,2008,
@@ -362,12 +362,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14329506,"Petlele, Motheo",RSA,F,,,,1460,0,40,OCT25,2005,wi
 14355132,"Pietersen, Willmore",RSA,M,,,,1587,0,40,OCT25,1989,i
 14338432,"Pillay, Mikhael",RSA,M,,,,1512,0,40,OCT25,2005,i
-123110347,"Pillay, Nathin",RSA,M,,,,AFM,1803,5,OCT25,1999,
+123110347,"Pillay, Nathin",RSA,M,,,,1803,5,,OCT25,1999,
 14378230,"Platen, Declan",RSA,M,,,,1753,0,40,OCT25,2005,
 14301644,"Pon, Matt",RSA,M,FM,,,2186,0,20,OCT25,1996,i
 14373190,"Poorun, Argon",RSA,M,,,,1599,0,40,OCT25,1995,i
 14350645,"Potgieter, Werne",RSA,M,,,,1704,0,40,OCT25,2009,
-14352419,"Preston, Waylon",RSA,M,,,,ACM,1489,0,OCT25,1999,
+14352419,"Preston, Waylon",RSA,M,,,,1489,0,,OCT25,1999,
 14366860,"Priestley, Logan",RSA,M,,,,1526,0,40,OCT25,2009,i
 14323192,"Prithipal, Abhay",RSA,M,,,,1629,0,20,OCT25,2003,i
 534007245,"Pryse, Jayson",RSA,M,,,,1754,0,40,OCT25,1995,
@@ -379,11 +379,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14342898,"Ressel, Tane",RSA,M,,,,1809,0,20,OCT25,2003,
 14316854,"Richter, Jan-Michael",RSA,M,,,,1704,0,20,OCT25,2001,i
 14331420,"Riet, Cassious",RSA,M,,,,1460,0,20,OCT25,1998,i
-14312662,"Rishworth, Justin James",RSA,M,,,,AFM,1528,0,OCT25,1996,
+14312662,"Rishworth, Justin James",RSA,M,,,,1528,0,,OCT25,1996,
 14305968,"Ristovich, Dmitar S.",RSA,M,,,,2020,0,20,OCT25,1988,i
 14300184,"Roberts, Marcel",RSA,M,CM,,,1907,0,20,OCT25,1996,i
-14383063,"Rogov, Evgeniy",RSA,M,,,,AFM,1643,0,OCT25,2012,
-123108859,"Roode, Uben",RSA,M,,,,AFM,1917,0,OCT25,1996,
+14383063,"Rogov, Evgeniy",RSA,M,,,,1643,0,,OCT25,2012,
+123108859,"Roode, Uben",RSA,M,,,,1917,0,,OCT25,1996,
 14358115,"Rosenberg, Wagheed",RSA,M,,,,1617,0,40,OCT25,2008,i
 14346575,"Rust, Christoph",RSA,M,,,,1469,0,40,OCT25,2012,i
 14315807,"Sadie, Johan Jacobus Hendrik",RSA,M,,,,1830,0,20,OCT25,1998,i
@@ -394,13 +394,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14313073,"Scheepers, Jonathan",RSA,M,,,,1629,0,40,OCT25,2004,
 14341867,"Schroeder, Liam",RSA,M,,,,1541,0,40,OCT25,2009,
 14309548,"Schuller, Ashley",RSA,M,,,,1751,0,20,OCT25,0,
-14351048,"Schwartz, Michael",RSA,M,,,,AFM,1777,0,OCT25,2012,
+14351048,"Schwartz, Michael",RSA,M,,,,1776,0,,OCT25,2012,
 14349183,"Sedibeng, Kamogelo",RSA,F,,,,1672,0,20,OCT25,2000,wi
 14356988,"Segal, Jamie Dylan",RSA,M,,,,1433,0,40,OCT25,2012,i
 14351536,"Seleko, Onalenna",RSA,M,,,,1600,0,40,OCT25,2008,
 14339056,"Selepe, Lwazi",RSA,M,,,,1746,0,20,OCT25,2004,i
 14338750,"September, Mckenzie",RSA,F,,,,1482,0,40,OCT25,2006,wi
-14343266,"Shapiro, Matthew",RSA,M,,,,AIM,1770,0,OCT25,2011,
+14343266,"Shapiro, Matthew",RSA,M,,,,1770,0,,OCT25,2011,
 14373319,"Sibanda, Takudzwa",RSA,M,,,,1748,0,40,OCT25,2007,i
 14358611,"Sibengile, Zolani",RSA,M,,,,1593,0,40,OCT25,1999,
 14311321,"Sikwati, Lizo",RSA,M,,,,1850,0,20,OCT25,1998,i
@@ -414,14 +414,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14341034,"Slabbert, Zander Nicolaas",RSA,M,,,,1467,0,40,OCT25,2011,
 14330849,"Smit, Devon",RSA,M,,,,1857,0,40,OCT25,2005,i
 14351056,"Smith, Zion",RSA,M,,,,1495,0,40,OCT25,2011,
-14350955,"Snyman, Mila Marie",RSA,F,,,,ACM,1611,0,OCT25,2011,w
+14350955,"Snyman, Mila Marie",RSA,F,,,,1612,0,,OCT25,2011,w
 14321670,"Solomon, Aubrey",RSA,M,,,,1664,0,20,OCT25,1962,
 14360179,"Solomon, Izaiah",RSA,M,,,,1593,0,40,OCT25,2009,
 14300192,"Solomon, Kenneth Terence",RSA,M,GM,,,2349,17,10,OCT25,1979,
 14300478,"Solomon, Maxwell",RSA,M,CM,,,2039,0,20,OCT25,1967,
 14369389,"Solomon, Simamkele",RSA,M,,,,1520,0,20,OCT25,2004,
 14306050,"Solomon, William C.",RSA,M,,,,1476,0,40,OCT25,1985,
-14356279,"Somai, Ruhan",RSA,M,,,,AFM,1504,0,OCT25,2008,
+14356279,"Somai, Ruhan",RSA,M,,,,1504,0,,OCT25,2008,
 14328666,"Soojay, Jorah",RSA,M,FM,,,1732,0,40,OCT25,2008,i
 14303191,"Southey, Andrew M.",RSA,M,,,,1719,0,20,OCT25,1947,
 14356201,"Stadler, Helgard",RSA,M,,,,1541,0,40,OCT25,2006,i
@@ -434,19 +434,19 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14372452,"Stone, Renato",RSA,M,,,,1688,0,40,OCT25,2001,
 14333082,"Strong, Davida",RSA,F,,,,1660,0,40,OCT25,2008,wi
 14356392,"Strydom, Henroux",RSA,M,,,,1509,0,40,OCT25,2011,
-123065368,"Strydom, Jean-Pierre",RSA,M,,NA,,AFM,1806,0,OCT25,1985,
+123065368,"Strydom, Jean-Pierre",RSA,M,,NA,,1806,0,,OCT25,1985,
 14348179,"Stuurman, Pedro Caleb",RSA,M,,,,1679,0,40,OCT25,2011,
-14332698,"Stuurman, Petrus",RSA,M,,"NI,NA",,AFM,1739,0,OCT25,1983,i
+14332698,"Stuurman, Petrus",RSA,M,,"NI,NA",,1739,0,,OCT25,1983,i
 14320460,"Subke, Jason James",RSA,M,,,,1941,0,20,OCT25,1972,i
-14357658,"Subramoney, Tivek",RSA,M,,,,AFM,1501,0,OCT25,2009,i
+14357658,"Subramoney, Tivek",RSA,M,,,,1501,0,,OCT25,2009,i
 14315122,"Swart, George",RSA,M,,,,1754,0,20,OCT25,1999,
 14315130,"Swart, Sune",RSA,F,,,,1506,0,20,OCT25,2001,w
 14352443,"Swartbooi, Gabriel",RSA,M,,,,1438,0,40,OCT25,1992,
-14363003,"Swarts, Paul",RSA,M,,,,ACM,1525,0,OCT25,1976,
+14363003,"Swarts, Paul",RSA,M,,,,1525,0,,OCT25,1976,
 14323281,"Swartz, David",RSA,M,,,,1942,0,20,OCT25,1983,i
 14346613,"Tak, Rannveer",RSA,M,,,,1812,0,40,OCT25,2013,i
-14352451,"Taute, Clayden",RSA,M,,,,AFM,1712,0,OCT25,2005,
-14328682,"Teeke, Karabo",RSA,M,,,,AIM,1929,0,OCT25,1998,i
+14352451,"Taute, Clayden",RSA,M,,,,1712,0,,OCT25,2005,
+14328682,"Teeke, Karabo",RSA,M,,,,1929,0,,OCT25,1998,i
 14308797,"Tenzer, Daniel",RSA,M,,,,1661,0,20,OCT25,1985,i
 14377098,"Terblanche, Johann",RSA,M,,,,1449,0,40,OCT25,2011,i
 14373211,"Theko, Philani Prince",RSA,M,,,,1657,0,40,OCT25,2005,
@@ -456,7 +456,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14354160,"Tlaka, Shimane",RSA,M,,,,1606,0,40,OCT25,2006,i
 14304503,"Tlale, Tshepang",RSA,F,WIM,WIM,,1960,0,20,OCT25,1997,wi
 14328860,"To, Himson",RSA,M,,,,1830,0,20,OCT25,2000,i
-14340453,"Tokoyi, Romeo",RSA,M,,,,AFM,1697,0,OCT25,2000,
+14340453,"Tokoyi, Romeo",RSA,M,,,,1697,0,,OCT25,2000,
 14338530,"Totose, Zimi",RSA,M,,,,1712,0,40,OCT25,2006,i
 14364018,"Tsabola, Bright",RSA,M,,,,1749,0,40,OCT25,2010,
 14371014,"Tshinavhe, Rembuluwani",RSA,M,,,,1669,0,40,OCT25,2002,i
@@ -464,10 +464,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14343533,"Van Beeck, Trinity",RSA,F,,,,1628,0,40,OCT25,2007,w
 14357496,"Van Den Bergh, Marilene",RSA,F,,,,1547,0,40,OCT25,2005,w
 534009221,"Van Der Merwe, Oliver",RSA,M,,,,1422,0,40,OCT25,2015,
-14358794,"Van Der Merwe, Schalk Wolf",RSA,M,,,,AFM,1493,0,OCT25,2015,
+14358794,"Van Der Merwe, Schalk Wolf",RSA,M,,,,1492,0,,OCT25,2015,
 14303116,"Van Der Walt, Pierre E.",RSA,M,,,,1953,0,20,OCT25,1956,i
 14394502,"Van Der Walt, Tjaart",RSA,M,,,,1492,0,40,OCT25,2008,
-14357917,"Van der Westhuizen, Lihan",RSA,M,,,,ACM,1518,0,OCT25,2013,i
+14357917,"Van der Westhuizen, Lihan",RSA,M,,,,1518,0,,OCT25,2013,i
 14309408,"Van Der Westhuizen, Willem",RSA,M,,,,2040,0,20,OCT25,1983,i
 14311356,"Van Heerden, Claude",RSA,M,,,,1802,0,40,OCT25,1969,
 14351315,"van Heerden, Ethan Joel",RSA,M,,,,1638,0,40,OCT25,2008,i
@@ -483,15 +483,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14364050,"van Zyl, Michael",RSA,M,,,,1669,0,40,OCT25,2000,
 14309017,"Van Zyl-Rudd, Jack",RSA,M,FM,,,2164,0,20,OCT25,2002,i
 14333414,"Venter, Zanri",RSA,F,,,,1419,0,40,OCT25,2006,wi
-14303272,"Vermaak, Ashley Christopher",RSA,M,,,,AIM,1872,0,OCT25,1988,i
+14303272,"Vermaak, Ashley Christopher",RSA,M,,,,1872,0,,OCT25,1988,i
 14363470,"Vermeulen, Leonardus",RSA,M,,,,1708,0,40,OCT25,1972,
-534005277,"Vlok, Adiaan",RSA,M,,,,1409,0,40,OCT25,2013,
+534005277,"Vlok, Adiaan",RSA,M,,,,1410,0,40,OCT25,2013,
 14339951,"Vundla, Mthandazo",RSA,M,,,,1845,0,20,OCT25,2001,i
 14311704,"Wagner, Gerald",RSA,M,,,,1828,0,20,OCT25,2000,i
 14320860,"Waters, Anre",RSA,M,,,,1774,0,20,OCT25,1999,i
-14385740,"Weideman, Janko X",RSA,M,,,,AFM,1801,0,OCT25,2012,
-534012460,"Westermann, Inge",RSA,F,,,,1413,0,40,OCT25,2015,w
-14379635,"Westermann, Liezl",RSA,F,,,,1468,0,40,OCT25,2013,w
+14385740,"Weideman, Janko X",RSA,M,,,,1801,0,,OCT25,2012,
+534012460,"Westermann, Inge",RSA,F,,,,1409,0,40,OCT25,2015,w
+14379635,"Westermann, Liezl",RSA,F,,,,1471,0,40,OCT25,2013,w
 14301431,"Wilken, Justin Barend",RSA,M,,,,1951,0,20,OCT25,1971,i
 14303230,"Willenberg, Athon",RSA,M,,,,1943,0,20,OCT25,1973,i
 14300532,"Willenberg, Craig Glen",RSA,M,,,,1984,0,20,OCT25,1987,i
@@ -509,7 +509,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14320665,"Xulu, Lindokuhle",RSA,M,,,,1882,0,20,OCT25,1991,i
 14352591,"Yan, Weilun",RSA,M,,,,1747,0,40,OCT25,2008,
 14333325,"Yang, Alex",RSA,M,,,,1451,0,40,OCT25,2009,
-14339501,"Zenzile, Amahle",RSA,F,,,,1645,0,40,OCT25,2008,w
+14339501,"Zenzile, Amahle",RSA,F,,,,1646,0,40,OCT25,2008,w
 14330938,"Ziegenhagen, Vian Luke",RSA,M,,,,1501,0,40,OCT25,2008,i
 14301172,"Zitha, Ll",RSA,M,,,,2080,0,20,OCT25,1987,i
 14369370,"Zitha, Smangaliso",RSA,M,,,,1658,0,40,OCT25,2003,i

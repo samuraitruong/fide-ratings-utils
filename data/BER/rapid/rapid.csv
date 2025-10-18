@@ -13,9 +13,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14346877,"Dennis, Nathan",BER,M,,,,1985,0,40,OCT25,1994,i
 8801584,"Easton, Trace",BER,M,,,,1609,0,20,OCT25,1979,i
 8800103,"Faulks, Nick",BER,M,CM,,,1908,0,20,OCT25,1952,i
-8801207,"Flanagan, Dylan",BER,M,,,,AFM,1556,0,OCT25,2013,i
+8801207,"Flanagan, Dylan",BER,M,,,,1556,0,,OCT25,2013,i
 8800880,"Flanagan, Mark",BER,M,CM,FI,,1924,0,20,OCT25,1981,i
-8801193,"Flanagan, Odin",BER,M,,,,AFM,1470,0,OCT25,2011,i
+8801193,"Flanagan, Odin",BER,M,,,,1470,0,,OCT25,2011,i
 8800979,"Gontcharov, Dimitri",BER,M,CM,,,1704,0,40,OCT25,2007,i
 8800871,"Gontcharov, Serguei",BER,M,CM,NI,,1913,0,20,OCT25,1966,i
 8801312,"Gontcharova, Olga",BER,F,,,,1600,0,20,OCT25,1965,wi
@@ -28,7 +28,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8800367,"Mufandaedza, Moses",BER,M,,,,1977,0,20,OCT25,1981,i
 8801339,"Place, Wolde",BER,M,,SI,,1743,0,20,OCT25,1978,i
 8801231,"Robinson, James",BER,M,,,,1664,0,20,OCT25,1987,i
-8801142,"Robinson, Tristan",BER,M,,,,ACM,1530,0,OCT25,2007,i
+8801142,"Robinson, Tristan",BER,M,,,,1530,0,,OCT25,2007,i
 8800677,"Smith, Allan",BER,M,,,,1755,0,20,OCT25,1950,i
 8801479,"Varwandkar, Neil",BER,M,,,,1461,0,40,OCT25,2006,i
 8800812,"Virgil, Abdullah",BER,M,,,,1575,0,20,OCT25,1978,i

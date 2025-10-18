@@ -5,7 +5,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6412513,"Acosta, Orlando",DOM,M,,,,1753,0,40,OCT25,0,
 6434908,"Aguero Mercedes, Rose Esmeralda",DOM,F,,,,1569,6,40,OCT25,2011,w
 6401279,"Alegria, Abel",DOM,M,,,,2057,7,20,OCT25,1957,
-6437354,"Almonte Rosario, Bruno Said",DOM,M,,,,1555,6,40,OCT25,2016,
+6437354,"Almonte Rosario, Bruno Said",DOM,M,,,,1556,6,40,OCT25,2016,
 6409431,"Almonte, Denio",DOM,M,,,,1927,0,40,OCT25,1981,
 6415725,"Almonte, Henrry Nicolas",DOM,M,,,,1647,0,40,OCT25,1991,
 6400310,"Alvarado Sepulveda, Nelson Damian",DOM,M,FM,,,2181,9,20,OCT25,1967,
@@ -24,7 +24,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6408265,"Brunet, Eric",DOM,M,,,,1762,0,20,OCT25,1965,i
 6441670,"Bueno Rostro, Kevin",DOM,M,,,,1657,7,40,OCT25,1990,
 6433090,"Cabreja Lora, Manuel Fidel",DOM,M,,,,1666,0,40,OCT25,2009,i
-6407870,"Cabrera, Luis",DOM,M,,,,1841,0,40,OCT25,0,
+6407870,"Cabrera Lorenzo, Luis Manuel",DOM,M,,NA,,1841,0,40,OCT25,1981,
 6420761,"Caceres, Ronalda",DOM,F,,,,1703,0,20,OCT25,1998,wi
 6408885,"Camacho Campusano, David Daniel",DOM,M,FM,,,2233,0,20,OCT25,1993,
 6405061,"Caraballo Del Rosario, Abraham Ernesto",DOM,M,,,,1937,8,20,OCT25,1989,
@@ -51,17 +51,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6406173,"Del Rosario Batista, Nobel Oscar",DOM,M,CM,,,1975,9,20,OCT25,1980,
 6406165,"Del Rosario Moreno, Carlos",DOM,M,,,,2043,0,20,OCT25,1982,i
 6428738,"Diaz Diaz, Federico",DOM,M,,,,1800,0,20,OCT25,2000,i
-6422705,"Diaz Espaillat, Ariangel",DOM,M,,,,1831,0,20,OCT25,1994,
+6422705,"Diaz Espaillat, Ariangel",DOM,M,,,,1830,0,20,OCT25,1994,
 6428746,"Diaz Zapata, Edgar",DOM,M,,,,2046,7,20,OCT25,2000,
 6400124,"Dominguez, Jose Manuel",DOM,M,IM,,,2161,0,20,OCT25,1963,
 6401660,"Dominguez, Roberto",DOM,M,,,,1890,0,20,OCT25,0,
-6430163,"Duarte Gomez, Yoeliberto",DOM,M,,,,1852,0,40,OCT25,2001,
+6430163,"Duarte Gomez, Yoeliberto",DOM,M,,NA,,1852,0,40,OCT25,2001,
 6419291,"Encarnacion, Keyner Vladimir",DOM,M,,,,1740,0,20,OCT25,2002,i
-6438610,"Encarnacion, Rafael",DOM,M,,,,1656,0,40,OCT25,2006,
+6438610,"Encarnacion, Rafael",DOM,M,,,,1655,0,40,OCT25,2006,
 6431739,"Espinal Franco, Hector Yohenry",DOM,M,,,,1917,0,40,OCT25,1980,
 6413927,"Espinal, Virgilio Antonio",DOM,M,,,,1894,0,20,OCT25,1953,i
 6437788,"Estevez Peralta, Starlyn",DOM,M,,,,1626,0,40,OCT25,2010,
-6402798,"Estevez Polanco, Leonardo Rafael",DOM,M,FM,"SI,FA",,2097,0,20,OCT25,1981,
+6402798,"Estevez Polanco, Leonardo Rafael",DOM,M,FM,"SI,FA",,2096,0,20,OCT25,1981,
 6405312,"Estrella Gomez, Jose Ormandy",DOM,M,,,,1940,0,20,OCT25,1962,i
 6428061,"Fabian Duran, Jahn Alberto",DOM,M,,,,1732,0,20,OCT25,1987,i
 6416560,"Feliz Custodio, Miguel Angel",DOM,M,,,,1881,0,20,OCT25,1995,i
@@ -109,7 +109,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6402860,"Jorge, Alberto",DOM,M,CM,,,2039,0,20,OCT25,1985,
 6419461,"King Rodriguez, Os Misael",DOM,M,CM,,,1930,0,40,OCT25,2005,
 6419470,"King Soriano, Misael",DOM,M,,,,1912,0,20,OCT25,1972,i
-6430910,"Lara Santos, Angel Sebastian",DOM,M,CM,,,2071,6,40,OCT25,2012,
+6430910,"Lara Santos, Angel Sebastian",DOM,M,CM,,,2072,6,40,OCT25,2012,
 6423396,"Lopez Duran, Zaury",DOM,M,,,,1751,0,40,OCT25,1989,
 6408648,"Lopez Mallen, Neudys Enmanuel",DOM,M,,,,1962,0,20,OCT25,1994,i
 6426883,"Lopez Villafana, Braulio",DOM,M,,,,1856,0,40,OCT25,1993,
@@ -117,13 +117,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6408184,"Luna Lantigua, Jose Miguel",DOM,M,,,,1812,0,40,OCT25,1991,
 6407927,"Luna Zapata, Nidio Esteban",DOM,M,,,,1909,0,20,OCT25,1990,
 6433154,"Manuel Emilio, Olivares Burgos",DOM,M,,,,1808,0,40,OCT25,1990,i
-6432832,"Marmol Genao, Raul",DOM,M,,,,1790,0,20,OCT25,1953,
+6432832,"Marmol Genao, Raul",DOM,M,,NA,,1790,0,20,OCT25,1953,
 6401449,"Marquez Moya, Eddy",DOM,M,,,,2007,0,20,OCT25,1957,i
 6415768,"Marrero Garcia, Lendry Ismael",DOM,M,,,,1890,0,20,OCT25,1999,i
 6401600,"Martinez Castillo, Julio Antonio",DOM,M,CM,,,2133,0,20,OCT25,1984,i
 6430147,"Martinez Hidalgo, Mario Jose",DOM,M,,,,1683,0,20,OCT25,2003,i
 6410227,"Martinez Mateo, Arthur",DOM,M,,,,1959,0,20,OCT25,1989,i
-6416519,"Martinez Pena, Victor",DOM,M,,,,1638,7,40,OCT25,1968,
+6416519,"Martinez Pena, Victor",DOM,M,,,,1639,7,40,OCT25,1968,
 6438636,"Martinez Perez, Luis Manuel Johnc",DOM,M,,,,1698,0,40,OCT25,2006,
 6434525,"Martinez Rodriguez, Moises",DOM,M,,,,1667,0,40,OCT25,2008,
 6429025,"Medina Perez, Wilson Javier",DOM,M,,,,1955,0,40,OCT25,2003,
@@ -148,7 +148,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6437729,"Morel Reyes, Fraimy Alexander",DOM,M,,,,1937,0,40,OCT25,2010,
 6400370,"Moscoso Silva, Carlos Antonio",DOM,M,CM,SI,,1975,0,20,OCT25,1960,
 6432263,"Munoz Feliz, Alejandro",DOM,M,,,,1837,7,40,OCT25,2014,
-6432271,"Munoz Feliz, Lisanny",DOM,M,,,,1484,0,40,OCT25,2011,
+6432271,"Munoz Feliz, Lisanny",DOM,M,,,,1515,0,40,OCT25,2011,
 6431801,"Munoz Manzueta, Junior",DOM,M,,,,1743,0,40,OCT25,2000,
 6400361,"Munoz Santana, Jose Lisandro",DOM,M,IM,,,2338,0,10,OCT25,1986,
 6440479,"Nova, Luis Roberto",DOM,M,,,,1800,8,40,OCT25,1970,
@@ -160,7 +160,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6435378,"Ortiz Olivo, Arianny",DOM,F,,,,1721,0,40,OCT25,2013,w
 6435386,"Ortiz Olivo, Christian",DOM,M,,,,1552,0,40,OCT25,2015,
 6421644,"Pacheco Marte, Sergio Andres",DOM,M,,,,1976,0,20,OCT25,2000,
-6427740,"Paula Valerio, Aarony Miguel",DOM,M,,,,1805,7,20,OCT25,1997,
+6427740,"Paula Valerio, Aarony Miguel",DOM,M,,,,1804,7,20,OCT25,1997,
 6416209,"Paulino Jacobo, Ruby Manuel",DOM,M,,,,1923,0,40,OCT25,1990,
 6427162,"Paulino Leal, Matias",DOM,M,,,,1732,0,40,OCT25,2007,i
 6433561,"Payano Cruz, Fred",DOM,M,,,,1782,0,40,OCT25,2004,
@@ -189,18 +189,18 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6401007,"Ramirez Reyes, Braulio Fernando",DOM,M,FM,"FI,SI,NA",,2114,0,20,OCT25,1980,i
 6431470,"Regalado Nicasio, Jean Franco",DOM,M,,,,1726,0,40,OCT25,2009,
 6403697,"Reyes Acevedo, Ismael",DOM,M,,,,2110,0,20,OCT25,1961,
-6437990,"Reyes Checo, Sebastian Antonio",DOM,M,,,,1654,0,40,OCT25,2005,
+6437990,"Reyes Checo, Sebastian Antonio",DOM,M,,,,1653,0,40,OCT25,2005,
 6429262,"Reyes Gonzalez, Joel Kennedy",DOM,M,,,,1956,0,20,OCT25,1998,
 6416861,"Reyes Perez, Eury Luis",DOM,M,,,,2052,0,20,OCT25,1994,
 6435041,"Reynoso Almonte, Emir",DOM,M,,,,1686,0,40,OCT25,2009,
 6436200,"Reynoso, Jesus",DOM,M,,,,1672,0,40,OCT25,1973,
-6405207,"Rodriguez Blanco, Manuel A.",DOM,M,,NA,,AGM,2022,7,OCT25,1971,
+6405207,"Rodriguez Blanco, Manuel A.",DOM,M,,NA,,2022,7,,OCT25,1971,
 6431038,"Rodriguez Manzanillo, Luis Yael",DOM,M,,,,1722,0,40,OCT25,2008,
 6427278,"Rodriguez Matias, Nathanael",DOM,M,,,,1878,0,40,OCT25,1996,
 6419712,"Rodriguez Mejia, Eddy Gabriel",DOM,M,,NI,,2036,8,20,OCT25,1997,
-6435122,"Rodriguez Munoz, Omar de Jesus",DOM,M,,,,1724,0,40,OCT25,2012,
+6435122,"Rodriguez Munoz, Omar de Jesus",DOM,M,,,,1723,0,40,OCT25,2012,
 6424724,"Rodriguez Rodriguez, Juan Rafael",DOM,M,,,,1799,0,20,OCT25,1959,
-6405444,"Rodriguez Torres, Carlos Manuel",DOM,M,,,,1993,0,20,OCT25,1976,
+6405444,"Rodriguez Torres, Carlos Manuel",DOM,M,,,,1992,0,20,OCT25,1976,
 6403662,"Rodriguez Troncoso, Francisco Eugenio",DOM,M,,,,1872,0,40,OCT25,1961,i
 6438237,"Rodriguez, Radhames",DOM,M,,,,1706,0,40,OCT25,1981,
 6400612,"Rosario Morillo, Angel",DOM,M,,,,1921,0,20,OCT25,1956,i
@@ -209,16 +209,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6427510,"Sanchez Lantigua, Miguel Andres",DOM,M,,,,1764,0,20,OCT25,1984,i
 6401228,"Sanchez Puente, Carlos Johan",DOM,M,,,,1947,0,20,OCT25,1980,i
 6431534,"Santiago Ceballos, Christian",DOM,M,,,,1673,0,40,OCT25,2013,
-6431542,"Santiago Ceballos, Starlyn",DOM,M,,,,1569,0,40,OCT25,2012,
+6431542,"Santiago Ceballos, Starlyn",DOM,M,,,,1568,0,40,OCT25,2012,
 6417884,"Santiago Osorio, Estalyn",DOM,M,,,,1589,0,40,OCT25,1989,
 6419607,"Sarante Feliz, Genesis Melquisedec",DOM,M,,,,1795,0,20,OCT25,1996,i
 6404057,"Segura Encarnacion, Ronald Eliesel",DOM,M,,,,2001,8,20,OCT25,1991,
 6400272,"Sena, Juan",DOM,M,,,,2142,0,20,OCT25,1961,i
-6426565,"Simo Paulino, Leonardo Michael",DOM,M,,,,1672,0,40,OCT25,2012,
-6405215,"Sosa Moran, Anthony Marc",DOM,M,,NA,,AFM,1929,0,OCT25,1988,
+6426565,"Simo Paulino, Leonardo Michael",DOM,M,,,,1671,0,40,OCT25,2012,
+6405215,"Sosa Moran, Anthony Marc",DOM,M,,NA,,1929,0,,OCT25,1988,
 6412807,"Sosa Moran, Bryan Marc",DOM,M,,,,1918,0,20,OCT25,2000,
 6405983,"Sosa Moran, Edward Marc",DOM,M,,,,1986,0,40,OCT25,1994,
-6425232,"Sosa Torres, Milciades",DOM,M,,,,AFM,1691,0,OCT25,1981,i
+6425232,"Sosa Torres, Milciades",DOM,M,,,,1691,0,,OCT25,1981,i
 6405487,"Sosa, Jonathan",DOM,M,,,,2023,0,20,OCT25,1988,i
 6400345,"Subervi, Jonathan Sigfredo",DOM,M,FM,,,2026,0,20,OCT25,1980,
 6402658,"Tavarez Rodriguez, Malfio Joel",DOM,M,,,,2079,0,20,OCT25,1988,i
@@ -233,11 +233,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6422829,"Valencia Gonzalez, Manuel Alejandro",DOM,M,,,,1786,0,20,OCT25,2002,i
 6401260,"Vargas Gomez, Hector Ramon",DOM,M,,,,1793,0,20,OCT25,1949,
 6403034,"Vargas Gomez, Rafael Apolinar",DOM,M,,,,1772,0,20,OCT25,1947,
-6438016,"Vargas Rodriguez, Christopher Manuel",DOM,M,,,,1716,0,40,OCT25,1998,
+6438016,"Vargas Rodriguez, Christopher Manuel",DOM,M,,,,1715,0,40,OCT25,1998,
 6410707,"Vargas, Hanoy",DOM,M,,,,1871,0,40,OCT25,1974,
 6432166,"Vargas, Wandi Antonio",DOM,M,,,,1558,0,40,OCT25,1985,
 6423094,"Ventura Rosario, Julio Esdeulin",DOM,M,,,,1898,0,20,OCT25,2000,
 6413315,"Veras De Jesus, Randolf",DOM,M,,,,1903,0,20,OCT25,1991,i
 6409547,"Villalona Arias, Fidel Bienvenido",DOM,M,,,,1917,0,20,OCT25,1983,
-6435807,"Villamil Gil, Luis Felipe",DOM,M,,,,1625,0,40,OCT25,2010,
+6435807,"Villamil Gil, Luis Felipe",DOM,M,,,,1624,0,40,OCT25,2010,
 6409113,"Zorrilla Jimenez, Wilber Edwin",DOM,M,,,,2074,0,20,OCT25,1990,i

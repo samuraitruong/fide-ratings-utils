@@ -1,5 +1,5 @@
 ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
-13535234,"Abakunchyk, Akim",BLR,M,,,,1598,9,40,OCT25,2013,
+13535234,"Abakunchyk, Akim",BLR,M,,,,1597,9,40,OCT25,2013,
 13505700,"Abramenko, Sergey",BLR,M,,,,2066,0,20,OCT25,1989,i
 13517775,"Abramenko, Vladimir",BLR,M,,,,1610,0,20,OCT25,2005,i
 13519883,"Abramov, Vladimir",BLR,M,,,,1525,0,40,OCT25,2005,i
@@ -8,7 +8,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13538594,"Ageev, Alexander",BLR,M,,,,1559,8,40,OCT25,2012,
 13506544,"Agrafenin, Andrey",BLR,M,,,,1996,0,20,OCT25,1988,i
 13513850,"Ajusheva, Renata",BLR,F,,,,1710,0,20,OCT25,2006,wi
-13540890,"Aksionau, Aliaksei",BLR,M,,,,1551,5,40,OCT25,2014,
+13540890,"Aksionau, Aliaksei",BLR,M,,,,1544,9,40,OCT25,2014,
 13505467,"Akulenko, Artem",BLR,M,,,,2171,0,20,OCT25,1983,i
 13526197,"Al Sheikh, Alena",BLR,M,,,,1575,0,20,OCT25,2004,i
 13519956,"Alekperov, Sakhib",BLR,M,,,,1730,0,40,OCT25,2005,i
@@ -80,10 +80,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13538080,"Barayan, Arseni",BLR,M,,,,1458,10,40,OCT25,2012,
 13538748,"Bareika, Artsiom",BLR,M,,,,1513,0,40,OCT25,2014,
 13527657,"Bareka, Tatyana",BLR,F,,,,1426,0,40,OCT25,2007,wi
-13519697,"Barguer, Alexey",BLR,M,,,,AFM,1630,0,OCT25,1973,i
+13519697,"Barguer, Alexey",BLR,M,,,,1630,0,,OCT25,1973,i
 13509357,"Barkovskiy, Aliaksandr",BLR,M,,,,1890,0,20,OCT25,2002,
 13505688,"Barski, Viktar",BLR,M,,,,1886,0,20,OCT25,1993,i
-13532634,"Bartash, Saveli",BLR,M,,,,1821,9,40,OCT25,2014,
+13532634,"Bartash, Saveli",BLR,M,,,,1820,9,40,OCT25,2014,
 13530321,"Bas, Marsel",BLR,M,,,,1775,8,40,OCT25,2009,
 13513788,"Bashinski, Mikita",BLR,M,,,,1672,0,40,OCT25,2006,i
 13537091,"Bashmakov, Gleb",BLR,M,,,,1585,8,40,OCT25,2012,
@@ -97,7 +97,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13513184,"Belmach, Dmitriy",BLR,M,,,,1654,0,20,OCT25,2005,i
 13516191,"Belov, Mikhail",BLR,M,,,,1768,0,20,OCT25,2005,i
 13523775,"Berillo, Denis",BLR,M,,,,1541,0,40,OCT25,2011,i
-13528840,"Berillo, Pavel",BLR,M,,,,1598,9,40,OCT25,2014,
+13528840,"Berillo, Pavel",BLR,M,,,,1599,9,40,OCT25,2014,
 13505491,"Berlin, Dmitriy",BLR,M,,,,2030,0,20,OCT25,1975,i
 13511700,"Berlin, Olga",BLR,F,,,,1821,0,20,OCT25,0,wi
 13510428,"Beyma, Angelika",BLR,F,,,,1568,0,20,OCT25,2003,wi
@@ -144,6 +144,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13530577,"Brovko, Yan",BLR,M,,,,1533,0,40,OCT25,2008,
 13526286,"Brutski, Denis",BLR,M,,,,1997,0,40,OCT25,2008,
 13519662,"Brytsikau, Makar",BLR,M,,,,1895,20,40,OCT25,2008,
+13533193,"Brytsko, Yahor",BLR,M,,,,1410,6,40,OCT25,2012,
 13533355,"Bryzitski, Dzmitry",BLR,M,,,,1558,6,20,OCT25,1987,
 13503430,"Budkovsky, Dmitry",BLR,M,,,,2072,0,20,OCT25,1997,i
 13508539,"Buevich, Anton",BLR,M,,,,1745,0,20,OCT25,0,i
@@ -171,7 +172,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13521454,"Chapialiuk, Aliaksei",BLR,M,,,,1737,0,40,OCT25,2006,i
 13515888,"Chebatarev, Danila",BLR,M,,,,1651,0,40,OCT25,2005,i
 13520903,"Cheboganov, Mark",BLR,M,,,,1479,0,40,OCT25,2008,i
-13537105,"Chechet, Matvei",BLR,M,,,,1679,15,40,OCT25,2013,
+13537105,"Chechet, Matvei",BLR,M,,,,1681,15,40,OCT25,2013,
 13534483,"Cheha, Yury",BLR,M,,,,1417,0,20,OCT25,1986,i
 13519573,"Chenusha, Yury",BLR,M,,,,1671,0,40,OCT25,2009,i
 13534122,"Cherapovich, Valery",BLR,M,,,,1702,0,20,OCT25,1953,i
@@ -188,7 +189,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13517503,"Chugaevsky, Pantelei",BLR,M,,,,1792,0,20,OCT25,1946,i
 13511840,"Chukhonski, Pavel",BLR,M,,,,1705,0,20,OCT25,0,i
 13520482,"Chuprynenka, Yauheni",BLR,M,,,,1810,0,20,OCT25,2005,
-13541277,"Chvirov, Pavel",BLR,M,,,,1605,5,40,OCT25,1986,
+13541277,"Chvirov, Pavel",BLR,M,,,,1606,5,40,OCT25,1986,
 13518828,"Chystsiakou, Mikita",BLR,M,,,,1686,0,20,OCT25,2005,i
 13518836,"Chyzhou, Kiryl",BLR,M,,,,1801,0,20,OCT25,2004,i
 13511149,"Dabkene, Tatiana",BLR,F,,,,1757,0,20,OCT25,0,wi
@@ -197,7 +198,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13522531,"Daineka, Leanid",BLR,M,,,,1748,0,20,OCT25,1974,
 13520660,"Dalatsenka, Volha",BLR,F,,,,1501,0,40,OCT25,2008,wi
 13520016,"Dalidovich, Vlada",BLR,M,,,,1520,0,40,OCT25,2005,i
-13541285,"Dambrouski, Mikhail",BLR,M,,,,1780,5,40,OCT25,1958,
+13541285,"Dambrouski, Mikhail",BLR,M,,,,1781,5,40,OCT25,1958,
 13536559,"Damnitski, Uladzislau",BLR,M,,,,1633,8,40,OCT25,2016,
 13521381,"Danchanka, Zlata",BLR,F,,,,1765,0,20,OCT25,2005,wi
 13522540,"Danilava, Varvara",BLR,M,,,,1723,0,40,OCT25,2005,i
@@ -234,13 +235,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13539590,"Doroshenko, Vladislav",BLR,M,,,,1448,0,40,OCT25,2002,
 13520695,"Douhi, Ivan",BLR,M,,,,1502,0,40,OCT25,2008,i
 13510177,"Drapun, Aleksandr",BLR,M,,,,1882,0,20,OCT25,2001,i
-13537156,"Dratsevich, Darya",BLR,F,,,,1505,6,40,OCT25,2012,w
+13537156,"Dratsevich, Darya",BLR,F,,,,1504,6,40,OCT25,2012,w
 13538977,"Drazdovich, Alena",BLR,F,,,,1503,0,40,OCT25,1951,w
 13524747,"Drobyshev, Vladislav",BLR,M,,,,1429,0,40,OCT25,2010,i
-13511041,"Drobyshevsky, Vasily",BLR,M,,,,AGM,1651,0,OCT25,1979,
+13511041,"Drobyshevsky, Vasily",BLR,M,,,,1651,0,,OCT25,1979,
 13529781,"Drozd , Alexandr",BLR,M,,,,1859,22,40,OCT25,2012,
 13519930,"Dubiaha, Stanislau",BLR,M,,,,1617,0,40,OCT25,2005,i
-13535250,"Dubina, Yauheni",BLR,M,,,,1842,9,40,OCT25,2014,
+13535250,"Dubina, Yauheni",BLR,M,,,,1843,9,40,OCT25,2014,
 13535390,"Dubina, Yuliya",BLR,F,,,,1420,5,40,OCT25,2010,w
 13514873,"Dubitskiy, Konstantin",BLR,M,,,,1715,0,20,OCT25,1952,i
 13517481,"Dubovik, Aleksandr",BLR,M,,,,1623,0,20,OCT25,1956,i
@@ -254,7 +255,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13521845,"Dyl, Nikita",BLR,M,,,,1715,0,20,OCT25,2005,i
 13524305,"Dzelnik, Yana",BLR,F,,,,1650,0,40,OCT25,2010,w
 13541196,"Dzenisevich, Katsiaryna",BLR,F,,,,1538,0,40,OCT25,2016,w
-13536079,"Dzeviatnikava, Marharyta",BLR,F,,,,1564,8,40,OCT25,2014,w
+13536079,"Dzeviatnikava, Marharyta",BLR,F,,,,1565,8,40,OCT25,2014,w
 13521730,"Dzianishchyk, Anton",BLR,M,,,,1503,0,40,OCT25,2010,i
 13520652,"Dziarkach, Aliaksandr",BLR,M,,,,2043,18,40,OCT25,2009,
 13532111,"Dziomin, Pavel",BLR,M,,,,1403,0,20,OCT25,1985,i
@@ -264,7 +265,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13531620,"Elberg, Mikhail",BLR,M,,,,1488,0,40,OCT25,2012,i
 13501240,"Elkin, Leonid",BLR,M,,,,2047,0,20,OCT25,1977,i
 13528114,"Elyashevich, Zakhar",BLR,M,,,,1674,8,40,OCT25,2012,
-13511238,"Emchenko, Makar",BLR,M,,,,AFM,1775,0,OCT25,2001,
+13511238,"Emchenko, Makar",BLR,M,,,,1775,0,,OCT25,2001,
 13517490,"Emeljanenko, Rostislav",BLR,M,,,,1719,0,20,OCT25,2002,i
 13514768,"Emelyanovich, Maksim",BLR,M,,,,1690,0,20,OCT25,2004,i
 13533916,"Ermakov, Andrei",BLR,M,,,,1502,0,40,OCT25,2009,i
@@ -405,7 +406,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13519611,"Ivanov, Anatoly",BLR,M,,,,1578,0,20,OCT25,1953,i
 13524100,"Ivanova, Eva",BLR,F,,,,1510,0,40,OCT25,2009,wi
 13506048,"Ivanova, Olga",BLR,F,,,,1927,0,20,OCT25,1993,wi
-13540440,"Kachanava, Palina",BLR,F,,,,1477,4,40,OCT25,2009,w
+13540440,"Kachanava, Palina",BLR,F,,,,1476,4,40,OCT25,2009,w
 13511939,"Kachanovski, Igor",BLR,M,,,,1858,0,20,OCT25,0,i
 13519344,"Kachavy, Dzmitri",BLR,M,,,,1953,0,20,OCT25,1973,i
 13536028,"Kaiser, Maxim",BLR,M,,,,1495,0,40,OCT25,2012,i
@@ -459,6 +460,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13519638,"Kasperovich, Valery",BLR,M,,,,1629,0,40,OCT25,2008,
 13533002,"Kastornov, Yaromir",BLR,M,,,,1439,0,40,OCT25,2006,i
 13539000,"Kastsiukovich, Kanstantsin",BLR,M,,,,1648,0,40,OCT25,1956,
+13532715,"Kasyan, Andrei",BLR,M,,,,1445,0,40,OCT25,2012,i
 13514059,"Katashuk, Lana",BLR,F,,,,1716,0,20,OCT25,2005,wi
 13505432,"Katashuk, Uladzislau",BLR,M,FM,,,2014,0,20,OCT25,1975,
 13535463,"Kavaleuski, Siarhei",BLR,M,,,,1449,0,40,OCT25,2009,i
@@ -469,7 +471,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13537261,"Kazak, Siamion",BLR,M,,,,1582,0,40,OCT25,2016,
 13536486,"Kazakova, Sviatlana",BLR,F,,,,1470,0,40,OCT25,1973,wi
 13500910,"Kazantsev, Valentin",BLR,M,,,,1861,0,20,OCT25,1946,
-13541307,"Kaziuliou, Ivan",BLR,M,,,,1432,6,40,OCT25,1994,
+13541307,"Kaziuliou, Ivan",BLR,M,,,,1431,6,40,OCT25,1994,
 13537270,"Kazlou, Albert",BLR,M,,,,1589,27,40,OCT25,2012,
 13533134,"Kazlou, Petr",BLR,M,,,,1765,18,40,OCT25,2012,
 13527401,"Kazlou, Yahor",BLR,M,,,,1491,0,40,OCT25,2009,i
@@ -545,7 +547,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13514504,"Koishman, Evgenij",BLR,M,,,,1936,0,20,OCT25,1973,
 13522663,"Kolesau, Uladzislau",BLR,M,,,,1721,0,20,OCT25,1978,
 13501062,"Kolesnik, Eduard",BLR,M,IM,,,2174,0,20,OCT25,1965,i
-13521934,"Kolesnikov, Svyatoslav",BLR,M,,,,1459,0,40,OCT25,2010,
+13521934,"Kolesnikov, Svyatoslav",BLR,M,,,,1461,0,40,OCT25,2010,
 13517856,"Koliada, Aleksei",BLR,M,,,,1678,0,20,OCT25,1993,
 13534726,"Koliadov, Ivan",BLR,M,,,,1437,0,40,OCT25,2010,i
 13506560,"Kolodko, Mikhail",BLR,M,,,,1815,0,20,OCT25,1953,i
@@ -557,7 +559,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13503480,"Konyshko, Ivan",BLR,M,,,,1732,0,20,OCT25,1941,i
 13510665,"Korbut, Aleksandra",BLR,F,,,,1777,0,20,OCT25,1999,wi
 13500180,"Korneevets, Alexander",BLR,M,IM,,,2256,0,10,OCT25,1963,
-13535897,"Korneevets, Anastasia",BLR,F,,,,1509,0,40,OCT25,2008,w
+13535897,"Korneevets, Anastasia",BLR,F,,,,1508,0,40,OCT25,2008,w
 13505386,"Korolev, Alexandr",BLR,M,,,,1860,0,20,OCT25,1987,
 13516833,"Korovitskij, Aleksej",BLR,M,,,,1585,0,40,OCT25,2007,i
 13500040,"Korzubov, Peter",BLR,M,IM,,,2314,0,10,OCT25,1962,
@@ -575,7 +577,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13536222,"Kotau, Aliaksandar",BLR,M,,,,1717,0,40,OCT25,1984,i
 13510495,"Kotau, Arseni",BLR,M,,,,2171,0,20,OCT25,2002,i
 13522582,"Kotava, Iryna",BLR,M,,,,1571,0,40,OCT25,2007,i
-13534602,"Kotava, Natallia",BLR,F,,,,1413,6,40,OCT25,2016,w
+13534602,"Kotava, Natallia",BLR,F,,,,1416,6,40,OCT25,2016,w
 13539213,"Koushar, Aliaksandr",BLR,M,,,,1789,0,40,OCT25,1982,
 13529153,"Kovalchuk, Pavel",BLR,M,,,,1520,0,40,OCT25,2006,i
 13500023,"Kovalev, Andrei",BLR,M,GM,FST,,2308,0,10,OCT25,1961,
@@ -590,7 +592,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13518569,"Kozhich, Ivan",BLR,M,,,,1875,0,20,OCT25,1945,
 13513346,"Kozlov, Aleksandr V",BLR,M,,,,1846,0,20,OCT25,1979,
 13522310,"Kozlov, Pavel",BLR,M,,,,1497,0,40,OCT25,2008,i
-13512226,"Kozlov, Sergey",BLR,M,,,,AGM,1683,0,OCT25,1981,i
+13512226,"Kozlov, Sergey",BLR,M,,,,1683,0,,OCT25,1981,i
 13506145,"Kozlov, Valentin",BLR,M,,,,1632,0,20,OCT25,1959,i
 13530984,"Kozlovskaia, Nataliya",BLR,F,,,,1626,0,40,OCT25,2010,wi
 13518259,"Kozlovski, Anatoly",BLR,M,,,,1791,0,20,OCT25,1978,i
@@ -618,7 +620,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13523368,"Krukouski, Yaugenii",BLR,M,,,,1449,0,40,OCT25,2010,i
 13534157,"Krutous, Anatoly",BLR,M,,,,1618,0,20,OCT25,1958,
 13528254,"Kryklivy, Tsimafei",BLR,M,,,,1642,9,40,OCT25,2013,
-13525379,"Kubatsin, Mert-Maksim",BLR,M,,,,1612,0,40,OCT25,2006,i
+13525379,"Kubatsin, Mert-Maksim",BLR,M,,,,1613,0,40,OCT25,2006,i
 13516299,"Kuchin, Mikhail",BLR,M,,,,1693,0,20,OCT25,2002,i
 13529811,"Kudlasevich, Ivan",BLR,M,,,,1442,0,40,OCT25,2010,i
 13501402,"Kulagina, Svetlana",BLR,F,,,,1940,0,20,OCT25,1968,w
@@ -701,7 +703,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13537814,"Makarevich, Tsimafei",BLR,M,,,,1571,0,40,OCT25,2011,i
 13539523,"Makarov, Kirill",BLR,M,,,,1721,0,40,OCT25,1990,
 13528343,"Makarychev, Artem",BLR,M,,,,1590,9,40,OCT25,2013,
-13540017,"Makeeva, Diana",BLR,M,,,,1415,6,40,OCT25,2010,
 13502433,"Makevich, P.",BLR,M,,,,1999,0,20,OCT25,1982,i
 13535021,"Makhnach, Mikalai",BLR,M,,,,1459,0,40,OCT25,2010,
 13535030,"Makhnach, Pavel",BLR,M,,,,1426,0,40,OCT25,2010,
@@ -711,10 +712,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13503529,"Maksimova, Elena",BLR,F,WFM,WFM,,2097,0,20,OCT25,1988,wi
 13520881,"Maksimuk, Ryhor",BLR,M,,,,1599,0,40,OCT25,2008,i
 13536214,"Makutin, Gleb",BLR,M,,,,1493,0,40,OCT25,2011,
-13540920,"Malafei, Andrei",BLR,M,,,,1485,5,40,OCT25,2010,
+13540920,"Malafei, Andrei",BLR,M,,,,1487,5,40,OCT25,2010,
 13508512,"Malatsilava, Volha",BLR,F,,,,1963,0,20,OCT25,1998,wi
 13520156,"Malikov, Maxim",BLR,M,,,,1651,0,20,OCT25,1990,i
-13541323,"Malinouski, Mikhail",BLR,M,,,,1720,9,40,OCT25,1983,
+13541323,"Malinouski, Mikhail",BLR,M,,,,1722,9,40,OCT25,1983,
 13514695,"Malinovski, Matvei",BLR,M,,,,1607,0,20,OCT25,2003,i
 13500724,"Maliush, Andrei",BLR,M,FM,,,1987,0,20,OCT25,1972,i
 13524607,"Malukha, Alena",BLR,F,,,,1729,0,20,OCT25,1991,wi
@@ -743,7 +744,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13536915,"Maslovaty, Yauheni",BLR,M,,,,1561,0,40,OCT25,1978,i
 13527002,"Matiuk, Maxim",BLR,M,,,,1648,0,40,OCT25,2007,i
 13512811,"Matkovski, Artem",BLR,M,,,,1755,0,20,OCT25,2003,i
-13540980,"Matros, Dzmitry",BLR,M,,,,1437,0,40,OCT25,2013,
+13540980,"Matros, Dzmitry",BLR,M,,,,1438,0,40,OCT25,2013,
 13524801,"Matseralnik, Vera",BLR,F,,,,1606,7,40,OCT25,2009,w
 13528572,"Matsias, Yelisei",BLR,M,,,,1473,0,40,OCT25,2010,
 13536621,"Matsiushenka, Viktor",BLR,M,,,,1505,0,40,OCT25,1958,
@@ -761,7 +762,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13535340,"Meleshko, Varvara",BLR,M,,,,1481,7,40,OCT25,2011,
 13524720,"Melnichenka, Adelina",BLR,F,,,,1480,0,40,OCT25,2008,wi
 13535595,"Melnik, Hleb",BLR,M,,,,1420,0,40,OCT25,2015,
-13535358,"Melnik, Kristina",BLR,F,,,,1501,7,40,OCT25,2014,w
+13535358,"Melnik, Kristina",BLR,F,,,,1500,7,40,OCT25,2014,w
 13516949,"Melnikau, Aliaksei",BLR,M,,,,1801,0,20,OCT25,2006,
 13519816,"Melnikava, Natallia",BLR,F,,,,1654,0,20,OCT25,2004,wi
 13504363,"Meribanov, Vitaly",BLR,M,IM,,,2312,0,10,OCT25,1994,i
@@ -773,7 +774,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13540700,"Meshkevich, Veronika",BLR,F,,,,1594,11,40,OCT25,2014,w
 13512234,"Mezentseva, Taisia",BLR,F,,,,1579,0,40,OCT25,2005,wi
 13536729,"Miadvedka, Raman",BLR,M,,,,1481,0,40,OCT25,2010,i
-13535862,"Miadzvedz, Raman",BLR,M,,,,1450,5,40,OCT25,1983,i
 13524380,"Miadzvetskaya, Mariya",BLR,M,,,,1609,0,40,OCT25,2007,i
 13504959,"Miadzvetski, Dzmitry",BLR,M,,,,1843,0,20,OCT25,1978,i
 13534165,"Mialeshkin, Ryhor",BLR,M,,,,1701,0,20,OCT25,1962,
@@ -803,24 +803,24 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13509462,"Molokovich, Aleksei",BLR,M,,,,1746,0,20,OCT25,1998,i
 13502271,"Morgaenko, Ekaterina",BLR,F,,,,1902,0,20,OCT25,1994,wi
 13514121,"Moroz, Ekaterina",BLR,M,,,,1624,0,20,OCT25,2000,i
-13539035,"Moroz, Mikhail",BLR,M,,,,1719,0,40,OCT25,1952,
+13539035,"Moroz, Mikhail",BLR,M,,,,1720,0,40,OCT25,1952,
 13520539,"Morozov, Aleksandr",BLR,M,,,,1879,0,20,OCT25,2002,i
 13512242,"Moskalev, Viktor",BLR,M,,,,1614,0,20,OCT25,1959,
 13507273,"Motovilnik, Jurij",BLR,M,,,,1960,0,20,OCT25,1997,i
 13527380,"Mrishchuk, Volodymyr",BLR,M,,,,1676,9,40,OCT25,2012,
 13501127,"Muivid, Yury",BLR,M,,,,2038,0,20,OCT25,1941,
-13540939,"Mukha, Vadzim",BLR,M,,,,1522,1,40,OCT25,2014,
+13540939,"Mukha, Vadzim",BLR,M,,,,1523,1,40,OCT25,2014,
 13508997,"Mukhin, Pavel",BLR,M,,,,2019,0,20,OCT25,1974,
 13523007,"Mukhin, Vladislav",BLR,M,,,,1959,0,20,OCT25,2003,i
 13508610,"Mukovozchik, Evgeny",BLR,M,,,,1851,0,20,OCT25,1998,i
 13534297,"Mulitsa, Yan",BLR,M,,,,1632,9,40,OCT25,2015,
 13517287,"Mursic, Daria",BLR,F,,,,1464,0,20,OCT25,2004,wi
 13514547,"Mushaev, Sergej",BLR,M,,,,1719,0,20,OCT25,1959,i
-13535102,"Nabiulina, Albina",BLR,F,,,,1721,20,40,OCT25,2007,w
+13535102,"Nabiulina, Albina",BLR,F,,,,1722,20,40,OCT25,2007,w
 13535110,"Nabiulina, Angelina",BLR,F,,,,1613,19,40,OCT25,2007,w
 13523643,"Nadziozhkina, Maryiana",BLR,F,,,,1465,0,40,OCT25,2012,wi
 13514555,"Narchuk, Sergej",BLR,M,,,,1705,0,20,OCT25,1967,
-13538578,"Nartovich, Daminika",BLR,F,,,,1552,8,40,OCT25,2013,w
+13538578,"Nartovich, Daminika",BLR,F,,,,1553,8,40,OCT25,2013,w
 13526499,"Nasenia, Matsvei",BLR,M,,,,1901,17,40,OCT25,2011,
 13530470,"Nasenya, Matvei",BLR,M,,,,1569,0,40,OCT25,2011,i
 13540661,"Naumenko, Viktor",BLR,M,,,,1508,0,40,OCT25,2009,
@@ -828,7 +828,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13522744,"Naumov, Sergey",BLR,M,,,,1497,0,40,OCT25,2009,i
 13530038,"Naumovich, Dzmitry",BLR,M,,,,1662,0,40,OCT25,2010,i
 13518461,"Naumovich, Marina",BLR,M,,,,1699,0,20,OCT25,1987,i
-13514563,"Naumovich, Yaroslav",BLR,M,,,,AGM,1993,0,OCT25,2005,
+13514563,"Naumovich, Yaroslav",BLR,M,,,,1993,0,,OCT25,2005,
 13520814,"Navumenka, Makar",BLR,M,,,,1995,9,40,OCT25,2010,
 13539426,"Nazarau, Ivan",BLR,M,,,,1578,0,40,OCT25,2008,
 13520490,"Nazarenko, Konstantin",BLR,M,,,,1981,0,20,OCT25,2000,i
@@ -857,12 +857,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13502964,"Obuhov, Filipp",BLR,M,,,,2151,0,20,OCT25,1993,i
 13535129,"Okruh, Alexander",BLR,M,,,,1656,0,40,OCT25,2008,i
 13531050,"Olenev, Maksim",BLR,M,,,,1514,0,40,OCT25,2007,i
-13540718,"Oreshchenko, Artem",BLR,M,,,,1558,0,40,OCT25,2016,
+13540718,"Oreshchenko, Artem",BLR,M,,,,1559,0,40,OCT25,2016,
 13507478,"Orlov, Aleksey",BLR,M,,NA,,1786,0,20,OCT25,1999,i
 13533436,"Ormanzhy, Timur",BLR,M,,,,1489,7,40,OCT25,2010,
 13507486,"Osipov, Vladimir",BLR,M,,,,1641,0,20,OCT25,1953,i
 13509705,"Ostapchik, Anton",BLR,M,,,,1959,0,20,OCT25,1998,i
-13527312,"Otchik, Polina",BLR,M,,,,1437,0,40,OCT25,2010,
+13527312,"Otchik, Polina",BLR,M,,,,1436,0,40,OCT25,2010,
 13509870,"Ovchinina, Olga",BLR,F,,,,1724,0,20,OCT25,2003,wi
 13527037,"Ovdienko, Illia",BLR,M,,,,1455,0,40,OCT25,2007,i
 13520121,"Ovechkin, Ivan",BLR,M,,,,1481,0,40,OCT25,2007,i
@@ -882,8 +882,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13536516,"Paliy, Vladimir",BLR,M,,,,1672,0,40,OCT25,1966,i
 13528360,"Paltarzhytski, Pavel",BLR,M,,,,1407,0,40,OCT25,2012,
 13529943,"Paludniakou, Usevalad",BLR,M,,,,1514,0,40,OCT25,2013,
-13532510,"Panichava, Maryia",BLR,F,,,,1406,6,40,OCT25,2014,w
-13537300,"Panicheva, Mariya",BLR,F,,,,1400,0,40,OCT25,2014,w
+13532510,"Panichava, Maryia",BLR,F,,,,1407,6,40,OCT25,2014,w
+13537300,"Panicheva, Mariya",BLR,F,,,,1402,0,40,OCT25,2014,w
 13513176,"Panysh, Vladimir",BLR,M,,,,1897,0,20,OCT25,0,i
 13535900,"Papiol, Artsiom",BLR,M,,,,1605,0,40,OCT25,1998,i
 13524895,"Papkovich, Denis",BLR,M,,,,1647,0,40,OCT25,2008,i
@@ -899,12 +899,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13524151,"Pasiashnichenka, Dzmitry",BLR,M,,,,1800,16,40,OCT25,2009,
 13520890,"Patapovich, Mitrafan",BLR,M,,,,1653,0,40,OCT25,2009,i
 13519425,"Patarocha, Ulyana",BLR,F,,,,1554,0,40,OCT25,2008,wi
-13534360,"Patupchyk, Krystsina",BLR,F,,,,1590,7,40,OCT25,2014,w
+13534360,"Patupchyk, Krystsina",BLR,F,,,,1503,11,40,OCT25,2014,w
 13515128,"Pauliuchkou, Daniil",BLR,M,,,,1607,0,20,OCT25,2006,i
 13537326,"Pauliukevich, Nikita",BLR,M,,,,1715,0,40,OCT25,2004,i
 13520318,"Paulyshka, Roman",BLR,M,,,,1508,0,40,OCT25,2008,i
 13516582,"Pavlenko, Denis",BLR,M,,,,1548,0,20,OCT25,1981,i
-13537946,"Pavlenok, Vladislav",BLR,M,,,,1606,0,40,OCT25,2004,
+13537946,"Pavlenok, Vladislav",BLR,M,,,,1609,0,40,OCT25,2004,
 13508016,"Pavlov, Andrei",BLR,M,,,,2133,0,20,OCT25,1963,i
 13520326,"Pavlov, Andrey Yu",BLR,M,,,,1588,0,20,OCT25,1963,
 13535048,"Pavlovich, Platon",BLR,M,,,,1593,0,40,OCT25,2010,
@@ -938,7 +938,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13506730,"Pleshkevich, Konstantin",BLR,M,,,,1798,0,20,OCT25,1992,i
 13511688,"Pliaskach, Uladzislau",BLR,M,,,,1882,0,20,OCT25,1999,i
 13518046,"Podajko, Sergej",BLR,M,,,,1897,0,20,OCT25,1987,i
-13539442,"Podbereznaya, Darya",BLR,M,,,,1455,0,40,OCT25,2010,
+13539442,"Podbereznaya, Darya",BLR,M,,,,1460,0,40,OCT25,2010,
 13539450,"Podgayskiy, Andrei",BLR,M,,,,1408,7,40,OCT25,2010,
 13534041,"Podkopaev, Andrei",BLR,M,,,,1672,0,40,OCT25,2015,
 13502999,"Podobedov, Filipp",BLR,M,,,,2084,0,20,OCT25,0,i
@@ -970,7 +970,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13529340,"Prylutski, Mikhail",BLR,M,,,,1623,17,40,OCT25,2012,
 13527711,"Puchkouski, Arsenii",BLR,M,,,,1752,8,40,OCT25,2012,
 13501364,"Puchkov, Andrey",BLR,M,,,,2188,0,20,OCT25,1980,i
-13540858,"Puchynets, Palina",BLR,F,,,,1435,7,40,OCT25,2013,w
+13540858,"Puchynets, Palina",BLR,F,,,,1417,10,40,OCT25,2013,w
 13509802,"Pugachev, Stanislav",BLR,M,,,,1810,0,20,OCT25,2000,i
 13522078,"Punko, Anton",BLR,M,,,,1771,0,20,OCT25,1996,i
 13534769,"Pup, Aleksandr",BLR,M,,,,1760,0,20,OCT25,1988,i
@@ -982,7 +982,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13531069,"Pytsko, Lev",BLR,M,,,,1566,0,40,OCT25,2007,i
 13530461,"Rabchinskaya, Vitaliya",BLR,F,,,,1580,0,40,OCT25,2005,wi
 13517317,"Rabkouskaya, Katsiarina",BLR,F,,,,1680,0,20,OCT25,2004,wi
-13540955,"Raboi, Viktar",BLR,M,,,,1481,5,40,OCT25,2011,
+13540955,"Raboi, Viktar",BLR,M,,,,1482,5,40,OCT25,2011,
 13533096,"Radiukevich, Viacheslau",BLR,M,,,,1460,9,40,OCT25,2014,
 13514580,"Radomskij, Anatolij",BLR,M,,,,1802,0,20,OCT25,1940,
 13515411,"Radziush, Roman",BLR,M,,,,1637,0,40,OCT25,1999,
@@ -1038,7 +1038,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13521837,"Safonau, Yahor",BLR,M,,,,1401,0,40,OCT25,2005,i
 13512366,"Safonau, Yauheni",BLR,M,,,,1706,0,20,OCT25,2005,i
 13518690,Safonchyk. Mikhail,BLR,M,,,,1405,0,40,OCT25,2007,i
-13532677,"Sakavets, Aliaksei",BLR,M,,,,1436,8,40,OCT25,2014,
+13532677,"Sakavets, Aliaksei",BLR,M,,,,1437,8,40,OCT25,2014,
 13535161,"Sakovets, Alex",BLR,M,,,,1484,0,40,OCT25,2014,
 13505203,"Sakovich, Dmitrij",BLR,M,,,,1883,0,20,OCT25,0,
 13525140,"Sakun, Ilya",BLR,M,,,,1492,0,40,OCT25,2007,i
@@ -1106,7 +1106,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13519654,"Shelyagovich, Aleksandr",BLR,M,,,,1877,0,20,OCT25,1988,i
 13537210,"Shepelevich, Roman",BLR,M,,,,1462,0,40,OCT25,1999,
 13504452,"Sheremet, Anton",BLR,M,,,,2142,0,20,OCT25,1999,i
-13540947,"Sheremetyev, Semion",BLR,M,,,,1518,7,40,OCT25,2012,
+13540947,"Sheremetyev, Semion",BLR,M,,,,1489,11,40,OCT25,2012,
 13507516,"Sheshko, Nikolay",BLR,M,,,,1751,0,20,OCT25,2000,i
 13519018,"Sheuchyk, Aliaksandr",BLR,M,,,,1682,0,20,OCT25,1950,
 13505785,"Shihov, Nikolai",BLR,M,,,,2084,0,20,OCT25,1985,i
@@ -1129,10 +1129,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13523694,"Shuliak, Zakhar",BLR,M,,,,1872,18,40,OCT25,2010,
 13513443,"Shusta, Matsvei",BLR,M,,,,1749,0,20,OCT25,2003,i
 13529854,"Shustsikau, Pavel",BLR,M,,,,1691,0,40,OCT25,2009,
-13512250,"Shved, Dmitriy",BLR,M,,,,AIM,1628,0,OCT25,1999,i
+13512250,"Shved, Dmitriy",BLR,M,,,,1628,0,,OCT25,1999,i
 13510908,"Shvedau, Mikhail",BLR,M,,,,1858,0,20,OCT25,2002,i
 13522523,"Shydlouski, Artsiom",BLR,M,,,,1804,0,40,OCT25,2009,
-13541242,"Shykhir, Anna",BLR,F,,,,1434,0,40,OCT25,2015,w
+13541242,"Shykhir, Anna",BLR,F,,,,1433,0,40,OCT25,2015,w
 13534637,"Shyla, Tsimafei",BLR,M,,,,1431,0,40,OCT25,2010,i
 13521560,"Shyman, Aliaksei",BLR,M,,,,1593,0,40,OCT25,2009,i
 13509365,"Shynkevich, Pavel",BLR,M,,,,1885,0,20,OCT25,1997,i
@@ -1143,7 +1143,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13526456,Siamionava Hanna,BLR,F,,,,1641,0,40,OCT25,2009,wi
 13519050,"Siardziuk, Mikita",BLR,M,,,,1551,0,20,OCT25,2001,i
 13531930,"Siarkou, Aliaksandr",BLR,M,,,,1623,0,20,OCT25,1974,
-13520920,"Sidorenja, Milena",BLR,F,,,,1881,17,40,OCT25,2009,w
+13520920,"Sidorenja, Milena",BLR,F,,,,1880,17,40,OCT25,2009,w
 13509888,"Sidorenko, Ilya",BLR,M,,,,1952,0,40,OCT25,2001,
 13532782,"Silanova, Taisiya",BLR,F,,,,1527,0,40,OCT25,2011,w
 13527509,"Silin, Dzmitry",BLR,M,,,,1430,0,40,OCT25,2010,i
@@ -1180,8 +1180,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13520555,"Sorokin, Dmitry",BLR,M,,,,1765,0,20,OCT25,2002,i
 13518496,"Sosnovskaja, Tatjana",BLR,M,,,,1704,0,20,OCT25,1983,i
 13539051,"Sosnovsky, Stanislav",BLR,M,,,,1802,0,40,OCT25,1953,
-13538233,"Spirydonava, Ulyana",BLR,M,,,,1579,6,40,OCT25,2010,
-13541064,"Spiryn, Kanstantsin",BLR,M,,,,1644,10,40,OCT25,1979,
+13538233,"Spirydonava, Ulyana",BLR,M,,,,1422,15,40,OCT25,2010,
+13541064,"Spiryn, Kanstantsin",BLR,M,,,,1643,10,40,OCT25,1979,
 13516078,"Spizharny, Mikhail",BLR,M,FM,,,2105,0,20,OCT25,2006,
 13534912,"Stalinia, Semen",BLR,M,,,,1406,0,40,OCT25,2014,i
 13523597,"Stambrouskaya, Maryia",BLR,F,,,,1603,0,40,OCT25,2007,wi
@@ -1228,7 +1228,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13513338,Taraikovski Mikhail,BLR,M,,,,1504,0,20,OCT25,2003,i
 13532898,"Tarasenia, Arseni",BLR,M,,,,1700,0,40,OCT25,2012,
 13514288,"Tarasenka, Aliaksandra",BLR,F,WFM,WFM,,2147,9,20,OCT25,2006,w
-13539957,"Tarasevich, Ivan",BLR,M,,,,1521,0,40,OCT25,2011,
+13539957,"Tarasevich, Ivan",BLR,M,,,,1518,0,40,OCT25,2011,
 13515098,"Tarasevich, Mikhail",BLR,M,,,,2059,0,20,OCT25,2002,i
 13523511,"Tarasevich, Yan",BLR,M,,,,1516,0,40,OCT25,2011,i
 13535366,"Tarasiuk, Eva",BLR,F,,,,1528,0,40,OCT25,2011,wi
@@ -1278,7 +1278,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13518011,"Tsyrkun, Raman",BLR,M,,,,1456,0,40,OCT25,2008,i
 13523864,"Tyletski, Aliaksandr",BLR,M,,,,1473,0,40,OCT25,2007,i
 13530658,"Tylkov, Timofey",BLR,M,,,,1803,8,40,OCT25,2012,
-13538284,"Ulasenka, Daniil",BLR,M,,,,1465,6,40,OCT25,2013,
+13538284,"Ulasenka, Daniil",BLR,M,,,,1467,6,40,OCT25,2013,
 13519875,"Unukouski, Aliaxandr",BLR,M,,,,1725,0,40,OCT25,2008,i
 13520075,"Unukouski, Ivan",BLR,M,,,,1554,0,20,OCT25,1973,i
 13515489,"Urbanovich, Aliaksei",BLR,M,,,,1758,0,20,OCT25,2002,i
@@ -1302,7 +1302,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13505637,"Varantsou, Ivan",BLR,M,,,,1722,0,20,OCT25,1947,
 13533185,"Vargan, Nikita",BLR,M,,,,1620,0,20,OCT25,2004,i
 13506676,"Vashchilov, Sergey",BLR,M,,,,1949,0,20,OCT25,1988,i
-13524615,"Vasilenka, Vadzim",BLR,M,,,,AFM,1650,0,OCT25,1988,i
+13524615,"Vasilenka, Vadzim",BLR,M,,,,1650,0,,OCT25,1988,i
 13540556,"Vasiliuk, Hleb",BLR,M,,,,1505,9,40,OCT25,2015,
 13514636,"Vasiljev, Aleksandr",BLR,M,,,,1849,0,20,OCT25,1983,i
 13538535,Vasiluk Matvey,BLR,M,,,,1748,0,40,OCT25,2006,
@@ -1316,7 +1316,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13538730,"Verenich, Aliaksei",BLR,M,,,,1600,0,40,OCT25,2009,
 13510410,"Veretennikov, Vladimir",BLR,M,,,,1837,0,20,OCT25,1952,
 13503839,"Veter, Igor",BLR,M,,,,2155,0,20,OCT25,1970,i
-13538683,"Vevel, Alesia",BLR,F,,,,1432,15,40,OCT25,2013,w
+13538683,"Vevel, Alesia",BLR,F,,,,1433,15,40,OCT25,2013,w
 13513710,"Vialitchanka, Mikalai",BLR,M,,,,1690,0,40,OCT25,2007,i
 13520458,"Viarshok, Leanid",BLR,M,,,,1443,0,40,OCT25,2008,i
 13540998,"Viarutsin, Maksim",BLR,M,,,,1546,0,40,OCT25,2000,
@@ -1324,12 +1324,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13536923,"Viktorchyk, Siarhei",BLR,M,,,,1413,0,40,OCT25,1975,i
 13516760,"Vitalisov, Ivan",BLR,M,,,,1813,0,20,OCT25,2001,i
 13534920,"Vlasovets, Ilya",BLR,M,,,,1444,0,40,OCT25,2011,i
-13532197,"Voishnis, Ivan",BLR,M,,,,1668,17,40,OCT25,2013,
+13532197,"Voishnis, Ivan",BLR,M,,,,1667,17,40,OCT25,2013,
 13513079,"Voiteshonok, Viacheslav",BLR,M,,,,1624,0,20,OCT25,2002,i
 13503847,"Volianuk, Vitaly",BLR,M,,,,2090,0,20,OCT25,1983,
 13511769,"Volkov, Igor",BLR,M,,,,1789,0,20,OCT25,1950,i
 13529625,"Volkov, Yan",BLR,M,,,,1690,0,40,OCT25,2011,
-13538187,"Volovich, Arkady",BLR,M,,,,1566,8,40,OCT25,2013,
+13538187,"Volovich, Arkady",BLR,M,,,,1565,8,40,OCT25,2013,
 13517910,"Vorobiov, Vladimir",BLR,M,,,,1935,0,20,OCT25,1955,i
 13522949,"Voronko, Maksim",BLR,M,,,,1564,0,40,OCT25,2010,i
 13534343,"Yadzievich, Mark",BLR,M,,,,1555,0,40,OCT25,2010,
@@ -1337,21 +1337,20 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13534807,"Yahont, Ignatiy",BLR,M,,,,1750,9,40,OCT25,2008,
 13516639,"Yakatsuk, Fedor",BLR,M,,,,1802,0,40,OCT25,2006,i
 13533266,"Yakavenka, Daniil",BLR,M,,,,1558,8,40,OCT25,2015,
-13535374,"Yakavenka, Katsiaryna",BLR,M,,,,1602,0,40,OCT25,2012,
+13535374,"Yakavenka, Katsiaryna",BLR,M,,,,1601,0,40,OCT25,2012,
 13524755,"Yakavenka, Yauheni",BLR,M,,,,1945,0,20,OCT25,1974,i
 13533568,"Yakovenko, Daniil",BLR,M,,,,1534,0,40,OCT25,2015,
-13535978,"Yakovenko, Ekaterina",BLR,F,,,,1497,15,40,OCT25,2012,w
+13535978,"Yakovenko, Ekaterina",BLR,F,,,,1498,15,40,OCT25,2012,w
 13536745,"Yakovleva, Katrina",BLR,F,,,,1567,0,40,OCT25,2013,w
 13524429,"Yakubenia, Kirill",BLR,M,,,,1540,0,40,OCT25,2008,i
 13525158,"Yakubovskii, Dmitry",BLR,M,,,,1452,0,40,OCT25,2006,i
 13533550,"Yakushevich, Anna",BLR,M,,,,1429,0,40,OCT25,2006,i
 13517244,"Yankouskaya, Palina",BLR,F,,,,1670,0,20,OCT25,1986,wi
 13505327,"Yankouski, Vitali",BLR,M,,,,1789,0,20,OCT25,1981,i
-13528831,"Yankovich, Sergey",BLR,M,,,,1573,7,40,OCT25,1964,
 13539507,"Yanovich, Vladislav",BLR,M,,,,1563,0,40,OCT25,2004,
 13534084,"Yanushevsky, Nikolay",BLR,M,,,,1634,0,20,OCT25,1960,i
 13531093,"Yarets, Andrey",BLR,M,,,,1425,0,40,OCT25,2012,i
-13528386,"Yaroshyk, Mikhail",BLR,M,,,,1454,8,40,OCT25,2012,
+13528386,"Yaroshyk, Mikhail",BLR,M,,,,1473,10,40,OCT25,2012,
 13520270,"Yarotski, Aliaksei",BLR,M,,,,1574,0,40,OCT25,2010,i
 13515080,"Yashchuk, Mikhail",BLR,M,,,,1926,0,20,OCT25,2003,
 13537679,"Yasinski, Kiryl",BLR,M,,,,1506,0,40,OCT25,2006,i
@@ -1422,8 +1421,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13540408,"Zhydamirau, Mark",BLR,M,,,,1520,7,40,OCT25,2015,
 13524054,"Zhykhar, Dzianis",BLR,M,,,,1523,0,40,OCT25,2009,i
 13531212,"Zhykhar, Ilya",BLR,M,,,,1449,0,40,OCT25,2015,i
-13531107,"Zhylchyk, Mark",BLR,M,,,,AFM,1429,7,OCT25,2011,
-13537059,"Zhytkevich, Valeryia",BLR,F,,,,1494,0,40,OCT25,2016,w
+13531107,"Zhylchyk, Mark",BLR,M,,,,1429,7,,OCT25,2011,
+13537059,"Zhytkevich, Valeryia",BLR,F,,,,1485,0,40,OCT25,2016,w
 13517457,"Zianevich, Uliana",BLR,F,,,,1579,0,40,OCT25,2005,wi
 13524658,"Zianiuk, Tsimafei",BLR,M,,,,1459,0,40,OCT25,2009,i
 13508695,"Ziaziulkin, Pavel",BLR,M,,,,1721,0,20,OCT25,2002,i

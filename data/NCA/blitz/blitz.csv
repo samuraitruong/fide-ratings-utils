@@ -39,7 +39,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6102859,"Bazan, Jose Vicente",NCA,M,,,,1869,0,20,OCT25,0,i
 6112560,"Bendana Corea, Paul",NCA,M,,,,1599,0,40,OCT25,2007,i
 6100236,"Bendana-Guerrero, Guy Dr.",NCA,M,,,,1971,0,20,OCT25,1950,i
-6110193,"Berrios Cuadra, Michael Stefan",NCA,M,,,,AFM,1725,0,OCT25,2012,i
+6110193,"Berrios Cuadra, Michael Stefan",NCA,M,,,,1725,0,,OCT25,2012,i
 6110207,"Berrios Moreno, Michael Jesus",NCA,M,,,,1714,0,20,OCT25,1985,i
 6111530,"Berrios Munguia, Luis Angel",NCA,M,,,,1615,0,20,OCT25,1994,i
 6111645,"Berrios Rodriguez, Roger Israel",NCA,M,,,,1622,0,20,OCT25,2003,i
@@ -67,7 +67,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6105971,"Cabezas Calero, Abigail Carolina",NCA,F,CM,WFM,,1682,0,40,OCT25,2008,w
 6110711,"Calderon Mesa, Joel Ernesto",NCA,M,,,,1608,0,20,OCT25,1995,i
 6107613,"Calero Hernandez, Denis Salomon",NCA,M,,,,1724,0,20,OCT25,1981,i
-6113567,"Cano, Wanderlee Joseph",NCA,M,,,,ACM,1590,0,OCT25,1987,i
+6113567,"Cano, Wanderlee Joseph",NCA,M,,,,1590,0,,OCT25,1987,i
 6108792,"Cantero Turcios, Randy Jose",NCA,M,,,,1798,0,40,OCT25,2007,
 6111777,"Carcache Acevedo, Henry Jose",NCA,M,,,,1721,0,20,OCT25,2005,i
 6103022,"Cardoza, Cesar Mauiricio",NCA,M,,,,1931,0,20,OCT25,0,i
@@ -140,7 +140,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6103081,"Fonseca, Ulises",NCA,M,,,,1946,0,20,OCT25,0,i
 6113214,"Gadea Gill, Hanssel Farid",NCA,M,,,,1780,0,20,OCT25,1998,i
 6108687,"Gadea Velasquez, Isaac Daniel",NCA,M,,,,1710,0,20,OCT25,1987,i
-6101690,"Gaitan Rivas, Norlan Miguel",NCA,M,,"NI,SI",,ACM,1631,0,OCT25,1983,i
+6101690,"Gaitan Rivas, Norlan Miguel",NCA,M,,"NI,SI",,1631,0,,OCT25,1983,i
 6102670,"Galan, Daniela",NCA,F,,,,1836,0,20,OCT25,0,wi
 6107850,"Galeano Cabrales, Gabriel Omar",NCA,M,,,,1526,0,20,OCT25,2002,i
 6107036,"Galeano Cabrales, Omar Emilio",NCA,M,,,,1885,0,20,OCT25,2001,i
@@ -262,7 +262,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6109730,"Monge Lopez, Jairo Humberto",NCA,M,,,,1697,0,20,OCT25,1974,i
 6110290,"Monje Ocampo, Francisco Emanuel",NCA,M,,,,1603,0,40,OCT25,2008,i
 6109721,"Montes, Luis Roberto",NCA,M,,,,1732,0,20,OCT25,1974,i
-6112919,"Montoya Murillo, Jairo Emanuel",NCA,M,,,,1632,0,40,OCT25,2014,
+6112919,"Montoya Murillo, Jairo Emanuel",NCA,M,,,,1631,0,40,OCT25,2014,
 6105394,"Montoya Olivares, Cindy Violet",NCA,F,,,,1581,0,20,OCT25,1998,wi
 6102115,"Moraga, Maria",NCA,F,,,,1846,0,20,OCT25,0,wi
 6103049,"Morales Castillo, Angel",NCA,M,,,,1582,0,20,OCT25,0,i
@@ -288,7 +288,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6109110,"Oporta Garcia, Dhairyck Enoc",NCA,M,,,,1501,0,20,OCT25,2003,i
 6111637,"Ordonez Aguilar, Omar Efrain",NCA,M,,,,1710,0,20,OCT25,2003,i
 6102298,"Ordonez, Alvaro",NCA,M,,,,1918,0,20,OCT25,0,i
-6103928,"Ordonez, Randall Raul",NCA,M,,,,AFM,1785,0,OCT25,1999,i
+6103928,"Ordonez, Randall Raul",NCA,M,,,,1785,0,,OCT25,1999,i
 6107931,"Orochena Barbas, Jose Manuel",NCA,M,,,,1561,0,20,OCT25,1965,i
 6104290,"Orozco Cantillano,Aurelio Ismael",NCA,M,,,,1746,0,20,OCT25,1983,
 6109977,"Orozco Rivera, Jeffry Jose",NCA,M,,,,1791,0,20,OCT25,1998,i
@@ -388,7 +388,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6113095,"Sanchez Obregon, Cesar Ramon",NCA,M,,,,1584,0,20,OCT25,2000,i
 6100171,"Sanchez, Eneo",NCA,M,,,,1893,0,20,OCT25,1960,i
 6101755,"Sanchez, Gabriel Ivan",NCA,M,,,,1850,0,20,OCT25,0,i
-6102727,"Sanchez, Jainner",NCA,M,,,,AGM,1771,0,OCT25,0,i
+6102727,"Sanchez, Jainner",NCA,M,,,,1771,0,,OCT25,0,i
 6102344,"Sanchez, Jonathan",NCA,M,,,,1980,0,20,OCT25,0,i
 6101860,"Sanchez, Jose (NCA)",NCA,M,,,,1858,0,20,OCT25,0,i
 6100201,"Sanchez, Ramon",NCA,M,,,,2009,0,20,OCT25,0,i
@@ -434,7 +434,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6112897,"Urbina Espinoza, Josthin Antonio",NCA,M,,,,1762,0,40,OCT25,2009,i
 6110355,"Urroz Gonzalez, Chester Alonso",NCA,M,,,,1461,0,40,OCT25,2010,i
 6107001,"Useda Bodan, Jesus Ernesto",NCA,M,,,,1678,0,20,OCT25,2004,i
-6109560,"Valle Alonso, Moises Abraham",NCA,M,,,,1846,8,40,OCT25,2008,
+6109560,"Valle Alonso, Moises Abraham",NCA,M,,,,1847,8,40,OCT25,2008,
 6112153,"Valle, Christian Antonio",NCA,M,,,,1646,0,20,OCT25,2006,i
 6101763,"Valle, Moises",NCA,M,,,,1803,0,20,OCT25,0,i
 6102328,"Vallecillo, Saul",NCA,M,,,,1895,0,20,OCT25,0,i

@@ -32,11 +32,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4704673,"Boci, Petro",ALB,M,,FA,,1919,0,20,OCT25,2004,
 4709497,"Brami, Renato",ALB,M,,,,1865,0,20,OCT25,1979,
 4701739,"Bregu, Riza",ALB,M,CM,,,2094,0,20,OCT25,1991,
-4702204,"Budakova, Taulant",ALB,M,,,,AIM,2101,0,OCT25,1988,i
+4702204,"Budakova, Taulant",ALB,M,,,,2101,0,,OCT25,1988,i
 4705394,"Budini, Etmond",ALB,M,,,,1748,0,20,OCT25,1983,i
 4706633,"Bushi, Geraldo",ALB,M,,NA,,1805,0,20,OCT25,1998,
 4703413,"Cacaj, Skerdi",ALB,M,,,,1708,0,20,OCT25,2005,i
-4704703,"Caku, Kler",ALB,F,WFM,WFM,,2030,0,40,OCT25,2010,w
+4704703,"Caku, Kler",ALB,F,WFM,WFM,,2031,0,40,OCT25,2010,w
 4709080,"Caku, Mia",ALB,F,,,,1659,0,40,OCT25,2017,w
 4711432,"Calleku, Erdi",ALB,M,,,,1620,0,40,OCT25,2012,
 4704924,"Cani, Armando",ALB,M,,"DI,DI",,1858,0,20,OCT25,1974,
@@ -119,7 +119,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4709802,"Kollcaku, Alvin",ALB,M,,,,1859,0,20,OCT25,2003,i
 4703383,"Kolndreu, Albion",ALB,M,,,,1827,0,20,OCT25,1983,
 4703855,"Kosta, Kelvin",ALB,M,,,,2171,0,40,OCT25,2007,
-4702778,"Kote, Aleks",ALB,M,,,,AFM,1846,0,OCT25,2009,i
+4702778,"Kote, Aleks",ALB,M,,,,1846,0,,OCT25,2009,i
 4704827,"Kotorri, Ermir",ALB,M,,,,1795,0,20,OCT25,1988,
 4709837,"Koxhjoni, Zaharia",ALB,M,,,,1576,0,40,OCT25,2012,
 4703901,"Kozaj, Aranit",ALB,M,,,,1869,0,20,OCT25,1963,
@@ -139,7 +139,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4706889,"Malocaj, Ferdinand",ALB,M,,,,1667,0,20,OCT25,1966,
 4703634,"Marku, Pashko",ALB,M,,,,1825,0,20,OCT25,1958,i
 4706706,"Marku, Xhordi",ALB,M,,,,1729,0,20,OCT25,2001,i
-4701879,"Masha, Rexhep",ALB,M,,,,1980,0,20,OCT25,1966,
+4701879,"Masha, Rexhep",ALB,M,,,,1981,0,20,OCT25,1966,
 4702158,"Mashi, Isa",ALB,M,,,,1938,0,20,OCT25,1966,i
 4708172,"Medani, Alex",ALB,M,,,,1465,0,40,OCT25,2012,i
 4700600,"Mehmeti, Dritan",ALB,M,IM,,,2342,0,20,OCT25,1978,i
@@ -189,7 +189,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4707176,"Senjo, Sotiraq",ALB,M,,,,1701,0,20,OCT25,1981,i
 4700562,"Shabanaj, Eglantina",ALB,F,WCM,WCM,,2032,0,20,OCT25,1979,w
 4701224,"Shabanaj, Saimir",ALB,M,,,,2091,0,20,OCT25,1986,i
-303043162,"Shametaj, Gerti",ALB,M,,,,AIM,1852,0,OCT25,1979,
+303043162,"Shametaj, Gerti",ALB,M,,,,1852,0,,OCT25,1979,
 4709748,"Shehu, Ersi",ALB,M,,,,1701,0,40,OCT25,2007,i
 4709985,"Shehu, Ramadan",ALB,M,,,,1821,0,20,OCT25,1976,i
 4705874,"Sherollari, Semion",ALB,M,,,,1635,0,40,OCT25,2008,i
@@ -199,7 +199,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4709560,"Shtembari, Jurgen",ALB,M,,,,1504,0,20,OCT25,1996,i
 4709683,"Shtiza, Brendon",ALB,M,,,,1866,0,40,OCT25,2009,
 4710070,"Shtiza, Diamant",ALB,M,,,,1691,0,20,OCT25,1971,
-4710088,"Shtiza, Ted",ALB,M,,,,1519,0,40,OCT25,2012,
+4710088,"Shtiza, Ted",ALB,M,,,,1521,0,40,OCT25,2012,
 4701585,"Shuqja, Klean",ALB,F,WFM,WFM,,1992,9,20,OCT25,2006,w
 4703596,"Sinanaj, Ennio",ALB,M,,NA,,1879,0,20,OCT25,1996,
 4706021,"Skuqi, Uran",ALB,M,,,,1827,0,20,OCT25,1941,i
@@ -216,7 +216,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4705599,"Tafa, Ezel",ALB,M,,,,1898,0,20,OCT25,1975,i
 4702735,"Tani, Florian",ALB,M,,,,1786,0,20,OCT25,1990,i
 4702352,"Tashi, Josif",ALB,M,,,,1706,0,20,OCT25,1947,
-4701470,"Tavasja, Elvis",ALB,M,,,,AFM,2028,0,OCT25,1986,i
+4701470,"Tavasja, Elvis",ALB,M,,,,2028,0,,OCT25,1986,i
 4703502,"Temali, Erion",ALB,M,,DI,,1846,0,20,OCT25,1981,i
 4710916,"Trebicka, Dean",ALB,M,,,,1545,0,40,OCT25,2012,
 4706358,"Troshani, Henri",ALB,M,,,,1577,0,40,OCT25,2014,

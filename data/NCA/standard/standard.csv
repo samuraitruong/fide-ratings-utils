@@ -5,11 +5,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6108156,"Acevedo Pupiro, Gabriel Ernesto",NCA,M,,,,1846,0,40,OCT25,2001,i
 6100228,"Acevedo, Guillermo",NCA,M,,,,1875,0,20,OCT25,0,i
 6101828,"Acosta, Kenner",NCA,M,,FI,,1915,0,20,OCT25,0,i
-6109705,"Aguilar Bejarano, Pablo Sebastian",NCA,M,,,,1706,5,20,OCT25,2006,
-6112102,"Aguirre Espinoza, Jonathan David",NCA,M,,,,1645,0,40,OCT25,2010,
+6109705,"Aguilar Bejarano, Pablo Sebastian",NCA,M,,,,1707,5,20,OCT25,2006,
+6112102,"Aguirre Espinoza, Jonathan David",NCA,M,,,,1644,0,40,OCT25,2010,
 6106650,"Aguirre Lopez, Juan Manuel",NCA,M,,,,1786,0,40,OCT25,1988,i
 6100848,"Alarcon, David",NCA,M,,,,1962,0,20,OCT25,1993,i
-6100694,"Alarcon, Pamela",NCA,F,WFM,WFM,,1950,7,20,OCT25,1993,w
+6100694,"Alarcon, Pamela",NCA,F,WFM,WFM,,1949,7,20,OCT25,1993,w
 6109420,"Aleman Martinez, Verania Monserrat",NCA,F,,,,1546,0,40,OCT25,2009,wi
 6100457,"Alfaro, William",NCA,M,FM,FI,,2112,0,20,OCT25,1982,
 6105602,"Allen Montes, Charles Mijail",NCA,M,,,,1704,0,20,OCT25,1981,i
@@ -47,7 +47,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6100180,"Batres, Francisco",NCA,M,FM,,,2008,0,20,OCT25,1955,i
 6102859,"Bazan, Jose Vicente",NCA,M,,,,1896,0,20,OCT25,0,i
 6100236,"Bendana-Guerrero, Guy Dr.",NCA,M,,,,2052,0,20,OCT25,1950,i
-6110193,"Berrios Cuadra, Michael Stefan",NCA,M,,,,AFM,1562,7,OCT25,2012,
+6110193,"Berrios Cuadra, Michael Stefan",NCA,M,,,,1562,7,,OCT25,2012,
 6111530,"Berrios Munguia, Luis Angel",NCA,M,,,,1678,0,40,OCT25,1994,i
 6107214,"Berrios Vanegas, Yanko Antonio",NCA,M,,,,1706,0,20,OCT25,1971,i
 6103456,"Berrios, Denis",NCA,M,,,,1735,0,20,OCT25,0,i
@@ -60,7 +60,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6113168,"Blanco Garay, Gabriela Aurora",NCA,F,,,,1510,0,40,OCT25,1981,wi
 6106676,"Blandon Talavera, Daniel Antonio",NCA,M,,,,1806,0,40,OCT25,1972,i
 6110428,"Blandon, Diego Angel",NCA,M,,,,1454,0,40,OCT25,2007,i
-6112854,"Bojorge Plata,Edwin Ramses",NCA,M,,,,1800,10,40,OCT25,2008,
+6112854,"Bojorge Plata,Edwin Ramses",NCA,M,,,,1799,10,40,OCT25,2008,
 6106226,"Bolanos Garcia, Heidi Paola",NCA,F,,,,1595,0,20,OCT25,1997,wi
 6110843,"Borge Garcia, Jose Gabriel",NCA,M,,,,1509,0,40,OCT25,2005,i
 6106889,"Borge Gonzalez, Fernando Antonio",NCA,M,,,,1588,4,40,OCT25,2008,
@@ -83,7 +83,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6111505,"Canales Wilson, Edu Rodrigo",NCA,M,,,,1829,0,40,OCT25,2002,i
 6100015,"Canda, Danilo",NCA,M,IM,,,2262,0,10,OCT25,1961,i
 6114300,"Cano Conrado, Joseph David",NCA,M,,,,1502,6,40,OCT25,2013,
-6100791,"Cano, Carlos",NCA,M,,,,1890,7,20,OCT25,0,
+6100791,"Cano, Carlos",NCA,M,,,,1891,7,20,OCT25,0,
 6108792,"Cantero Turcios, Randy Jose",NCA,M,,,,1712,4,40,OCT25,2007,
 6103731,"Carballo Carranza, Juan De Dios",NCA,M,,,,1710,0,40,OCT25,2000,i
 6111777,"Carcache Acevedo, Henry Jose",NCA,M,,,,1654,0,40,OCT25,2005,i
@@ -142,7 +142,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6106641,"Escorcia Obando, Carlos David",NCA,M,,,,1960,0,20,OCT25,2004,i
 6111831,"Escoto Espinoza, Joaquin Orlando",NCA,M,,,,1567,0,40,OCT25,2004,i
 6101844,"Espinoza Aranda, Virgilio Antonio",NCA,M,,,,1872,0,20,OCT25,1985,i
-6112790,"Espinoza Barrios, Marelys Cristina",NCA,F,,,,1595,5,40,OCT25,2008,w
+6112790,"Espinoza Barrios, Marelys Cristina",NCA,F,,,,1594,5,40,OCT25,2008,w
 6114148,"Espinoza Berrios, Cristiano Gabriel",NCA,M,,,,1562,5,40,OCT25,2010,
 6112390,"Espinoza Guerrero, David Alexander",NCA,M,,,,1464,1,40,OCT25,2015,
 6104819,"Espinoza Guerrero, Elizabeth",NCA,F,,,,1609,0,20,OCT25,2003,wi
@@ -166,7 +166,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6109551,"Fonseca Trana, Norlan Antonio",NCA,M,,,,1677,0,20,OCT25,1976,i
 6103081,"Fonseca, Ulises",NCA,M,,,,1804,0,40,OCT25,0,i
 6106412,"Francis Artola, Weddy Jonathan",NCA,M,,,,1588,0,40,OCT25,2000,i
-6101690,"Gaitan Rivas, Norlan Miguel",NCA,M,,"NI,SI",,ACM,1723,0,OCT25,1983,i
+6101690,"Gaitan Rivas, Norlan Miguel",NCA,M,,"NI,SI",,1723,0,,OCT25,1983,i
 6102670,"Galan, Daniela",NCA,F,,,,1766,0,20,OCT25,0,wi
 6107036,"Galeano Cabrales, Omar Emilio",NCA,M,,,,1907,0,20,OCT25,2001,i
 6101704,"Gallo, Felix",NCA,M,,,,1786,0,20,OCT25,0,i
@@ -229,7 +229,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6104517,"Ibarra Lopez, Cecilia",NCA,F,,,,1540,0,40,OCT25,2003,wi
 6100139,"Izaba, Rodolfo",NCA,M,FM,,,1998,0,20,OCT25,1972,i
 6110061,"Jimenez Lira, Julio Cesar",NCA,M,,,,1890,6,40,OCT25,2007,
-6110045,"Jimenez Lopez, Javier Jesus",NCA,M,,,,1727,0,40,OCT25,2009,
+6110045,"Jimenez Lopez, Javier Jesus",NCA,M,,,,1725,0,40,OCT25,2009,
 6102476,"Jimenez Martinez, Alexander",NCA,M,,,,2010,0,20,OCT25,0,i
 6101348,"Jimenez, Lester",NCA,M,,,,1972,4,20,OCT25,0,
 6107257,"Kraudy Montenegro, Angel Elian",NCA,M,,,,1804,0,40,OCT25,2002,i
@@ -258,7 +258,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6103847,"Lopez Martinez, German",NCA,M,,,,1839,0,40,OCT25,1977,i
 6108474,"Lopez Masis, Kenard Evans",NCA,M,,,,1705,0,40,OCT25,1997,i
 6108482,"Lopez Morales, Kevin William",NCA,M,,,,1744,0,40,OCT25,2005,i
-6109381,"Lopez Murillo, Eliseo Josue",NCA,M,,,,1622,0,40,OCT25,2010,
+6109381,"Lopez Murillo, Eliseo Josue",NCA,M,,,,1620,0,40,OCT25,2010,
 6102867,"Lopez Narvaez, Julio Cesar",NCA,M,,,,1686,0,40,OCT25,0,i
 6108091,"Lopez Reyes, Manuel Alexander",NCA,M,,,,1914,0,20,OCT25,1984,i
 6105688,"Lopez Saavedra, Javier Eduardo",NCA,M,,,,1779,0,20,OCT25,1983,i
@@ -269,7 +269,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6100392,"Lopez, Cezar",NCA,M,,,,2162,0,40,OCT25,0,i
 6100430,"Lopez, Omar",NCA,M,,,,1950,0,20,OCT25,0,
 6100473,"Lorente, Salomon",NCA,M,,,,2008,0,20,OCT25,0,i
-6106480,"Machado Garcia, Ruben Efrain",NCA,M,,,,1871,6,20,OCT25,1968,
+6106480,"Machado Garcia, Ruben Efrain",NCA,M,,,,1872,6,20,OCT25,1968,
 6106722,"Madrigal Melendez, Edgardo Renato",NCA,M,,,,1705,0,40,OCT25,1979,i
 6101097,"Madrigal, Ana Daniela",NCA,F,WFM,WFM,,2061,0,20,OCT25,1990,w
 6100961,"Madrigal, Mariano",NCA,M,IM,,,2165,0,20,OCT25,1994,i
@@ -331,7 +331,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6102280,"Munguia, Juan Carlos",NCA,M,,,,1835,0,40,OCT25,0,i
 6107915,"Muniz Roa, Hiram David",NCA,M,,,,1581,0,40,OCT25,1966,i
 6107923,"Muniz Rojas, Kenneth Alexel",NCA,M,,,,1624,0,40,OCT25,1998,i
-6109527,"Munoz Cortez, Anahi Alexandra",NCA,F,,,,1843,12,20,OCT25,2006,w
+6109527,"Munoz Cortez, Anahi Alexandra",NCA,F,,,,1844,12,20,OCT25,2006,w
 6109535,"Munoz Cortez, Jonathan Eduardo",NCA,M,,,,1742,6,40,OCT25,2007,
 6107486,"Munoz Molina, Kevin Wesly",NCA,M,,,,1621,0,20,OCT25,2001,i
 6109888,"Munoz Morales, Lester Wladinov",NCA,M,,,,1598,0,40,OCT25,2001,i
@@ -343,13 +343,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6100520,"Olivares, Emilio",NCA,M,,,,2028,0,40,OCT25,0,i
 6101119,"Olivares, Odell",NCA,M,,,,1605,2,20,OCT25,0,
 6103901,"Olivas Hernandez, Tomas",NCA,M,,,,1756,0,40,OCT25,1961,i
-6101399,"Olivas Montiel, Carlos Fernando",NCA,M,,,,AIM,1973,0,OCT25,1966,i
+6101399,"Olivas Montiel, Carlos Fernando",NCA,M,,,,1973,0,,OCT25,1966,i
 6104193,"Olivas Siles, Roberto Carlos",NCA,M,,,,1757,0,20,OCT25,1984,i
 6110789,"Oporta Carballo, Manuel Josue",NCA,M,,,,1431,0,40,OCT25,2003,i
 6111637,"Ordonez Aguilar, Omar Efrain",NCA,M,,,,1574,0,40,OCT25,2003,i
 6102298,"Ordonez, Alvaro",NCA,M,,,,1885,0,20,OCT25,0,i
 6103910,"Ordonez, Jessenia Carolina",NCA,M,,,,1639,0,40,OCT25,1997,i
-6103928,"Ordonez, Randall Raul",NCA,M,,,,AFM,1766,0,OCT25,1999,i
+6103928,"Ordonez, Randall Raul",NCA,M,,,,1766,0,,OCT25,1999,i
 6107931,"Orochena Barbas, Jose Manuel",NCA,M,,,,1566,0,40,OCT25,1965,i
 6104290,"Orozco Cantillano,Aurelio Ismael",NCA,M,,,,1745,0,40,OCT25,1983,i
 6109977,"Orozco Rivera, Jeffry Jose",NCA,M,,,,1602,0,40,OCT25,1998,i
@@ -378,10 +378,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6108520,"Perez Gutierrez, Julian Angel",NCA,M,,,,1676,0,40,OCT25,1991,i
 6108997,"Perez Salazar, Jimmy Alberto",NCA,M,,,,1794,0,20,OCT25,2005,i
 6110398,"Perez Sandigo, Roberto Guillermo",NCA,M,,,,1641,0,40,OCT25,2000,i
-6112064,"Perez Wong, Liang Noel",NCA,M,,,,1725,0,40,OCT25,2012,
-6112528,"Perez Wong, Noham Francisco",NCA,M,,,,1557,0,40,OCT25,2014,
+6112064,"Perez Wong, Liang Noel",NCA,M,,,,1726,0,40,OCT25,2012,
+6112528,"Perez Wong, Noham Francisco",NCA,M,,,,1556,0,40,OCT25,2014,
 6102620,"Perez, Guillermo",NCA,M,,,,1897,0,20,OCT25,0,i
-6114253,"Petters Rodrigues, Fatima Sofia",NCA,F,,,,1630,7,40,OCT25,2013,w
+6114253,"Petters Rodrigues, Fatima Sofia",NCA,F,,,,1637,7,40,OCT25,2013,w
 6100481,"Picado Gradis, Rolando Benito",NCA,M,,,,1888,0,20,OCT25,1975,
 6100376,"Picado, Jorge",NCA,M,,,,2025,6,20,OCT25,1980,
 6100660,"Pichardo, Carlos",NCA,M,,,,1743,0,20,OCT25,0,i
@@ -432,7 +432,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6104118,"Rodriguez Guerrero, Cristhian David",NCA,M,,,,1850,0,20,OCT25,2000,i
 6104240,"Rodriguez Guerrero, Diana Michel",NCA,F,,,,1646,0,20,OCT25,2002,wi
 6113206,"Rodriguez Hernandez, Ezequiel Alejandro",NCA,M,,,,1535,0,40,OCT25,2011,i
-6114636,"Rodriguez Lopez, Jaime Rene",NCA,M,,,,1869,6,40,OCT25,2005,
+6114636,"Rodriguez Lopez, Jaime Rene",NCA,M,,,,1870,6,40,OCT25,2005,
 6106633,"Rodriguez Matamoros, Manfred Wilfredo",NCA,M,,,,1933,0,40,OCT25,1990,i
 6102999,"Rodriguez Ramirez, Leonel",NCA,M,,,,1734,0,40,OCT25,0,i
 6106749,"Rodriguez Velasquez, Allan Eliuth",NCA,M,,,,1949,0,20,OCT25,1990,i
@@ -468,7 +468,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6100171,"Sanchez, Eneo",NCA,M,,,,1922,0,20,OCT25,1960,i
 6100872,"Sanchez, Evgueni",NCA,M,,,,1943,0,20,OCT25,0,i
 6101755,"Sanchez, Gabriel Ivan",NCA,M,,,,1860,0,20,OCT25,0,i
-6102727,"Sanchez, Jainner",NCA,M,,,,AGM,1755,0,OCT25,0,i
+6102727,"Sanchez, Jainner",NCA,M,,,,1755,0,,OCT25,0,i
 6102344,"Sanchez, Jonathan",NCA,M,,,,1962,0,20,OCT25,0,i
 6101860,"Sanchez, Jose (NCA)",NCA,M,,,,1879,0,20,OCT25,0,i
 6100201,"Sanchez, Ramon",NCA,M,,,,2017,0,20,OCT25,0,i
@@ -483,7 +483,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6103952,"Sequeira Guadamuz, Jhoel",NCA,M,,,,1866,0,20,OCT25,2001,i
 6113133,"Sequeira Vargas, Cristopher",NCA,M,,,,1576,5,40,OCT25,2008,
 6106188,"Sequeira, Randall Danilo",NCA,M,,,,1765,0,20,OCT25,1997,i
-6107168,"Serrano Herrera, Daniela de Andrea",NCA,F,,,,1593,5,40,OCT25,2007,w
+6107168,"Serrano Herrera, Daniela de Andrea",NCA,F,,,,1594,5,40,OCT25,2007,w
 6113192,"Serrano Ortez, Dominique Nicole",NCA,F,,,,1417,0,40,OCT25,2011,wi
 6103251,"Serrano, Krimhild",NCA,F,,,,1726,0,40,OCT25,0,wi
 6100880,"Serrano, Ludwing",NCA,M,,,,1860,0,40,OCT25,0,i
@@ -539,7 +539,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6107206,"Venerio Lovo, Jaime",NCA,M,,,,1678,0,40,OCT25,1967,i
 6106340,"Villanueva Mena, Fhernando Ariel",NCA,M,,,,1776,0,20,OCT25,2002,i
 6113885,"Wong Weil, Lee David",NCA,M,,,,1616,0,40,OCT25,1991,i
-6114440,"Zapata Pereira, Carlos Eduardo",NCA,M,,,,1542,6,40,OCT25,2014,
+6114440,"Zapata Pereira, Carlos Eduardo",NCA,M,,,,1543,6,40,OCT25,2014,
 6106773,"Zelaya Aguilera, Cristian Ignacio",NCA,M,,,,1846,0,20,OCT25,1979,i
 6106781,"Zelaya Mendoza, Roger Jose",NCA,M,,,,1759,0,40,OCT25,1992,i
 6105718,"Zeledon Diaz, Juan Israel",NCA,M,,,,1560,0,40,OCT25,1987,i

@@ -1,7 +1,7 @@
 ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12601756,Aarush Thakkar,GHA,M,,,,1728,0,40,OCT25,2008,i
-12602280,Acheampong Dave Quansah Chief,GHA,M,,,,AFM,1653,0,OCT25,2012,i
-12602680,Acheampong Jedidiah Nana Osei,GHA,M,,,,ACM,1555,0,OCT25,2014,i
+12602280,Acheampong Dave Quansah Chief,GHA,M,,,,1653,0,,OCT25,2012,i
+12602680,Acheampong Jedidiah Nana Osei,GHA,M,,,,1555,0,,OCT25,2014,i
 12600202,"Ackun, Henry Mensah",GHA,M,,,,1838,0,20,OCT25,1987,i
 12601713,Adanu Richard Kofi Mawuena,GHA,M,,,,1723,0,20,OCT25,1968,i
 12600750,"Adu Jnr, Lionel",GHA,M,CM,,,1918,0,20,OCT25,1984,i
@@ -22,7 +22,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12600580,"Anhwere, Bernard",GHA,M,CM,,,1891,0,20,OCT25,1995,i
 12600148,"Anquandah, Francis Eric",GHA,M,IM,,,2031,0,20,OCT25,1965,i
 12603201,"Antwi, Samuel",GHA,M,,,,1806,0,20,OCT25,1991,i
-12600156,"Arko-Dadzie, George Kweku",GHA,M,,IA,,1632,0,20,OCT25,1964,
+12600156,"Arko-Dadzie, George Kweku",GHA,M,,IA,,1630,0,20,OCT25,1964,
 12603724,Asamoah-Okyere Kofi Asamoah,GHA,M,,,,1639,0,40,OCT25,2008,
 12600393,"Asante,Frank",GHA,M,,,,1663,0,40,OCT25,1988,
 12600474,"Ashley, Christiana Naa Merley",GHA,F,,IA,,1574,0,20,OCT25,1984,wi
@@ -69,7 +69,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12601500,Nyamful Martin Kurth Cobbinah,GHA,M,,,,1594,0,20,OCT25,1996,i
 12603368,Obeng Valerie Ekua,GHA,F,,,,1606,0,40,OCT25,1989,wi
 12600903,"Okaitei, Christopher",GHA,M,,,,1734,0,20,OCT25,1964,i
-12602213,Onuoha Wilson,GHA,M,,"NI,NI",,AIM,1808,0,OCT25,1994,i
+12602213,Onuoha Wilson,GHA,M,,"NI,NI",,1808,0,,OCT25,1994,i
 12602264,Oware Derrick,GHA,M,,,,1665,0,20,OCT25,1996,i
 12603163,Ridham,GHA,F,,,,1409,0,40,OCT25,2015,wi
 12600105,"Sackey, Robert Alex",GHA,M,,,,1843,0,20,OCT25,1974,i

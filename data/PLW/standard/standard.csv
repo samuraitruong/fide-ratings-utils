@@ -5,7 +5,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 16601556,"Angeles, Jennifer",PLW,F,,,,1512,0,40,OCT25,1982,wi
 16600274,"Anzawa, George",PLW,M,,,,1626,0,40,OCT25,2000,i
 16602820,"Arquillo, Manuel",PLW,M,,,,1594,0,40,OCT25,1995,
-16600240,"Balbalosa, Jeffrey",PLW,M,,,,AFM,1833,0,OCT25,1979,
+16600240,"Balbalosa, Jeffrey",PLW,M,,,,1833,0,,OCT25,1979,
 16601190,"Balute, Joey Jaime",PLW,M,,,,1486,0,40,OCT25,1972,i
 16601548,"Barrameda, Wilson",PLW,M,,,,1642,0,40,OCT25,1976,i
 16602021,"Benito, Ehmjie",PLW,F,,,,1472,0,40,OCT25,1977,wi
@@ -24,7 +24,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 16600177,"Escapatoria, Gonzalo",PLW,M,,,,1737,0,20,OCT25,1967,
 16600096,"Garcia, Bernardo",PLW,M,CM,,,1831,0,20,OCT25,1976,i
 16602846,"Gemota, Ivan",PLW,M,,,,1766,0,40,OCT25,2011,
-16601289,"Gemota, Joan",PLW,F,,,,1514,0,20,OCT25,1985,wi
+16601289,"Gemota, Joan",PLW,F,,,,1515,0,20,OCT25,1985,wi
 16601483,"Gemota, Joel",PLW,M,,,,1638,0,40,OCT25,1990,i
 16600150,"Gonzales, Dennis",PLW,M,,,,1763,0,20,OCT25,1978,i
 16600193,"Gutierrez, Ferdinand",PLW,M,,,,1671,0,20,OCT25,1974,i
@@ -104,7 +104,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 16600770,"Surangel, Ultei Angelei",PLW,F,,,,1549,0,20,OCT25,2005,wi
 16600134,"Suringa Jr, Paquito",PLW,M,,,,1830,0,20,OCT25,1973,i
 16601300,"Tamayo, John Mark",PLW,M,,,,1560,0,40,OCT25,1985,i
-16601661,"Tan, Santiago Jr",PLW,M,,,,AIM,1824,0,OCT25,1978,
+16601661,"Tan, Santiago Jr",PLW,M,,,,1824,0,,OCT25,1978,
 16600738,"Tmetchul, Dichem",PLW,F,,,,1487,0,40,OCT25,2003,wi
 16600690,"Tmetchul, Mlib",PLW,M,,,,1636,0,40,OCT25,1958,i
 16601246,"Toribiong, Leif",PLW,M,,,,1582,0,40,OCT25,1984,i

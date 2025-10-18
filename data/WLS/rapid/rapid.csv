@@ -5,7 +5,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1809121,"Are, Jai Hrithvik Adithya",WLS,M,,,,1425,0,40,OCT25,2017,
 1805703,"Bagga, Khushi",WLS,F,,,,1597,0,40,OCT25,2008,wi
 1806580,"Bani Hani, Madged",WLS,M,,,,1747,0,20,OCT25,1998,
-1808320,"Bartlett-Davis, Otto",WLS,M,,,,1497,0,40,OCT25,2012,
+1808320,"Bartlett-Davis, Otto",WLS,M,,,,1498,0,40,OCT25,2012,
 1804987,"Bastow, Mark A",WLS,M,,,,1852,0,20,OCT25,1958,i
 1806220,"Belochkin, David",WLS,M,,,,1611,0,40,OCT25,2010,
 1800825,"Bennion, David",WLS,M,,,,1948,0,20,OCT25,1960,i
@@ -18,7 +18,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1808877,"Blankley, Toby",WLS,M,,,,1493,0,40,OCT25,2013,
 1804260,"Bonutto, Stephen",WLS,M,,,,1671,0,20,OCT25,1992,i
 1803786,"Borkowski, J Andrew",WLS,M,,,,1858,0,20,OCT25,1943,i
-1805967,"Bourne, Patrick",WLS,M,,,,1643,0,40,OCT25,2001,
+1805967,"Bourne, Patrick",WLS,M,,,,1644,0,40,OCT25,2001,
 1803166,"Bowers, John",WLS,M,,,,1815,0,20,OCT25,1950,i
 1801430,"Brown, Thomas",WLS,M,,,,2062,0,20,OCT25,1976,i
 1806068,"Browse, Joseph",WLS,M,,,,1659,0,40,OCT25,2002,
@@ -26,7 +26,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1807420,"Bull, Jack",WLS,M,,,,1667,0,40,OCT25,2007,
 1801627,"Bullen, Alex",WLS,M,CM,,,1997,0,20,OCT25,1994,
 1804910,"Burrows, Mike",WLS,M,,,,1729,0,20,OCT25,1970,i
-1808192,"Burton, Henry",WLS,M,,,,ACM,1473,4,OCT25,2015,
+1808192,"Burton, Henry",WLS,M,,,,1473,4,,OCT25,2015,
 1802712,"Cadden, Gordon",WLS,M,,,,1712,0,20,OCT25,1941,i
 1803743,"Calist, Aron",WLS,M,,,,1676,0,20,OCT25,2001,i
 2265427,"Camacho Collados, Jose",WLS,M,IM,,,2347,0,20,OCT25,1988,i
@@ -113,10 +113,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1805940,"Kong, Emma Zihan",WLS,F,,,,1533,0,40,OCT25,2010,wi
 1805983,"Korovski, Georgi",WLS,M,,,,1756,0,40,OCT25,1997,i
 349500,"Kozusek, Daniel",WLS,M,FM,,,2303,0,20,OCT25,1999,i
-1802992,"Larg, Richard",WLS,M,,,,1805,0,20,OCT25,1961,
+1802992,"Larg, Richard",WLS,M,,NA,,1805,0,20,OCT25,1961,
 1804103,"Ley, Cyril",WLS,M,,,,1707,0,20,OCT25,1944,i
 1806610,"Liesniak, Nikita",WLS,M,,,,1672,0,40,OCT25,2000,
-1806416,"Liu, Yimo",WLS,F,,,,1519,0,40,OCT25,2012,w
+1806416,"Liu, Yimo",WLS,F,,,,1520,0,40,OCT25,2012,w
 1803450,"Livermore, Richard",WLS,M,,,,1704,0,20,OCT25,1946,i
 422479,"Llewellyn, Alan M",WLS,M,,,,1719,0,20,OCT25,1971,i
 1803077,"Lutchman Singh, Aishwarya",WLS,F,,,,1626,0,20,OCT25,2003,wi
@@ -144,7 +144,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1803956,"Penny, Liam",WLS,M,,,,1819,0,20,OCT25,1952,i
 1804553,"Petkov, Anton",WLS,M,,,,1692,0,20,OCT25,2004,i
 1804545,"Petkov, Petko (WLS)",WLS,M,,,,1747,0,20,OCT25,2002,i
-1809008,"Phillips, Joshua",WLS,M,,,,1439,0,40,OCT25,2004,
+1809008,"Phillips, Joshua",WLS,M,,,,1440,0,40,OCT25,2004,
 414344,"Phillips, William",WLS,M,,,,1901,0,20,OCT25,1944,i
 411337,"Pleasants, Allan J",WLS,M,,,,2092,0,20,OCT25,1960,i
 1804952,"Postans, Harrison",WLS,M,,,,1439,0,40,OCT25,2005,i
@@ -203,7 +203,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1807552,"Tuson, Jon",WLS,M,,,,1854,0,40,OCT25,1965,
 1809245,"van Helden, Oliver",WLS,M,,,,1488,0,40,OCT25,2004,
 402796,"Van Kemenade, Julie",WLS,F,,,,1775,0,20,OCT25,1959,wi
-410942,"Van Kemenade, Rudy",WLS,M,,,,AGM,2000,0,OCT25,1946,i
+410942,"Van Kemenade, Rudy",WLS,M,,,,2000,0,,OCT25,1946,i
 417297,"Wagner, Guy",WLS,M,,,,1900,0,20,OCT25,1963,i
 1802267,"Wang, Alyssa",WLS,F,,,,1827,0,20,OCT25,2000,wi
 1804359,"Watkin-Jones, Adam",WLS,M,,,,1853,0,40,OCT25,1972,i

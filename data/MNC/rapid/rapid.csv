@@ -12,7 +12,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 134104992,"Bosov, Kirill",MNC,M,,,,1681,0,20,OCT25,2002,i
 5402190,"Bozzo , Antonio",MNC,M,,,,1615,0,40,OCT25,1991,i
 5400090,"Bussacchini, Michel",MNC,M,,,,1858,0,20,OCT25,1967,
-26076918,"Cahen, Alexis",MNC,M,,,,AIM,2073,17,OCT25,2000,
+26076918,"Cahen, Alexis",MNC,M,,,,2073,17,,OCT25,2000,
 5401500,"Carr , Alexandre",MNC,M,,,,1638,0,40,OCT25,2010,i
 652032531,"Charrier, Francois",MNC,M,,,,1709,0,40,OCT25,2014,
 676446,"Chung, Mathilde",MNC,F,WFM,WFM,,1981,0,20,OCT25,1999,w
@@ -21,7 +21,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5401054,"Cotterchio, Dante",MNC,M,,,,1408,0,40,OCT25,2012,i
 36007293,"Cuttoli, Alexandre",MNC,M,,,,1957,0,20,OCT25,2005,i
 5401097,"Dinoni, David",MNC,M,,,,1539,0,20,OCT25,1957,i
-5401542,"Dornbusch, Anna",MNC,F,,,,1409,0,40,OCT25,2016,w
+5401542,"Dornbusch, Anna",MNC,F,,,,1405,0,40,OCT25,2016,w
 14107449,"Dornbusch, Tatiana",MNC,F,WGM,WGM,"FI,SI",2172,0,20,OCT25,1982,w
 601926,"Dubois, Martine",MNC,F,WIM,WIM,NA,1805,7,20,OCT25,1959,w
 806404,"Efimov, Igor",MNC,M,GM,FST,,2369,9,10,OCT25,1960,
@@ -30,10 +30,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5400929,Gaillard Kellyan,MNC,M,,,,1407,0,40,OCT25,2011,i
 5400074,"Gentilleau, Jean-Philippe",MNC,M,FM,,,2176,0,20,OCT25,1965,i
 5401267,"Gerbaudo, Pascal",MNC,M,,,,1773,0,20,OCT25,1967,i
-5401526,"Golubeva, Alina",MNC,F,,,,1479,0,40,OCT25,2011,w
+5401526,"Golubeva, Alina",MNC,F,,,,1478,0,40,OCT25,2011,w
 26087464,"Jamalov, Adam",MNC,M,,,,1837,0,20,OCT25,2003,i
 6401074,"Jose de Ribbegren, Kenia",MNC,F,WCM,WCM,SI,1809,4,20,OCT25,1985,w
-5401658,"Karpov , Gregory",MNC,M,,,,1564,7,40,OCT25,2012,
+5401658,"Karpov , Gregory",MNC,M,,,,1563,7,40,OCT25,2012,
 5401844,kavetska valeriia,MNC,F,,,,1408,0,40,OCT25,2009,wi
 36018180,"Kien, Clovis",MNC,M,,,,1920,0,20,OCT25,2005,i
 36052400,"Kien, Lancelot",MNC,M,,,,1633,0,40,OCT25,2007,i
@@ -56,31 +56,30 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 600423,"Marciano, David",MNC,M,GM,,,2463,9,10,OCT25,1969,
 20603762,"Mattei, Jean-charles",MNC,M,,,,1791,0,20,OCT25,1948,i
 1301225,"Meylan, Andre",MNC,M,CM,,,2075,0,20,OCT25,1995,
-5402930,"Mihalev , Philippe",MNC,M,,,,1482,0,40,OCT25,2014,
+5402930,"Mihalev , Philippe",MNC,M,,,,1478,0,40,OCT25,2014,
 623830,"Nelis, Jean-Francois",MNC,M,,,,2004,7,20,OCT25,1968,
 5400945,Nenasheva Nataliya,MNC,F,,,,1617,0,20,OCT25,1987,wi
-652032833,"Pecoraro, Jan",MNC,M,,,,1648,0,40,OCT25,2012,
+652032833,"Pecoraro, Jan",MNC,M,,,,1647,0,40,OCT25,2012,
 5400880,"Pugachev , Sergej",MNC,M,,,,1487,0,40,OCT25,2009,i
 5400023,"Rapaire, Jean-Michel",MNC,M,,,,1805,4,20,OCT25,1965,
 5400040,"Ribbegren, Karl Johan",MNC,M,,,,2082,0,20,OCT25,1955,i
-5401550,"Ribbegren, Kimberly",MNC,F,,,,1473,0,40,OCT25,2016,w
+5401550,"Ribbegren, Kimberly",MNC,F,,,,1467,0,40,OCT25,2016,w
 26091305,"Rubsamen, Anais",MNC,F,,,,1784,0,20,OCT25,2003,wi
 5401062,"Samorukov, Egor",MNC,M,,,,1497,0,40,OCT25,2008,
 5402808,"Savich , Svetlana",MNC,F,,,,1628,0,40,OCT25,1972,wi
-5401240,"Stoyanov, Victor",MNC,M,,,,1666,7,40,OCT25,2014,
+5401240,"Stoyanov, Victor",MNC,M,,,,1664,7,40,OCT25,2014,
 5401429,"Subkhanberdin , Michelle",MNC,F,,,,1447,0,40,OCT25,2013,wi
 5401208,"Subkhanberdin, Janibek",MNC,M,,,,1548,0,40,OCT25,2008,i
 5403529,"Szilagyi , Ludovic",MNC,M,,,,1735,9,40,OCT25,1968,
-5400716,"Thoreux-Josso, Aaron",MNC,M,,,,1690,8,40,OCT25,2007,
+5400716,"Thoreux-Josso, Aaron",MNC,M,,,,1691,8,40,OCT25,2007,
 5400813,"Thoreux-Josso, Ambre",MNC,F,,,,1524,0,40,OCT25,2009,w
 5402204,"To, Nam",MNC,M,,,,1476,0,40,OCT25,1983,i
 551059266,"To, Nam Long",MNC,M,,,,1755,0,40,OCT25,2012,
 824909,"Tortorella, Giancarlo",MNC,M,,,,1886,0,20,OCT25,1968,
 5400503,"Tripodi, redolphe",MNC,M,,,,1812,0,20,OCT25,1975,i
-5403090,"Ucok , Evren",MNC,M,,,,1738,9,40,OCT25,1975,
+5403090,"Ucok , Evren",MNC,M,,,,1722,13,40,OCT25,1975,
 200999,"Van Hoolandt, Patrick",MNC,M,FM,,,1986,8,20,OCT25,1958,
 606340,"Verdier, Patrice",MNC,M,FM,,,2106,9,20,OCT25,1962,
-5403162,"Vicefield , Joshua",MNC,M,,,,1401,9,40,OCT25,2017,
 5400619,"Vigny, Arthur",MNC,M,,,,1683,0,20,OCT25,1996,i
 650609,"Vigny, Philippe",MNC,M,,,,1836,0,20,OCT25,1964,i
 654183,"Villegas, Pierre",MNC,M,IM,"FI,NA",,2373,0,10,OCT25,1992,

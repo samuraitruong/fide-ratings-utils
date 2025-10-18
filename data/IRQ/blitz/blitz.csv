@@ -22,7 +22,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4830210,"Abdullah, Khaled Ali",IRQ,M,,,,1629,0,20,OCT25,2002,i
 4826787,"Abdullah, Khaled Nasser",IRQ,M,,,,1686,0,40,OCT25,2007,i
 4817575,"Abdullah, Nazar Qasim",IRQ,M,,,,1764,0,20,OCT25,2001,i
-4824776,"Abdullah, Sinan Kareem",IRQ,M,,,,ACM,1697,0,OCT25,2007,i
+4824776,"Abdullah, Sinan Kareem",IRQ,M,,,,1697,0,,OCT25,2007,i
 4819608,"Abdullah, Thaaer Mohammed",IRQ,M,,,,1519,0,20,OCT25,2006,i
 4841603,"Abdullah, Wahhab Marjan",IRQ,M,,,,1626,0,20,OCT25,2005,
 4818172,"Abdullahgailan, Abdulkhaliq",IRQ,M,,,,1641,0,20,OCT25,1994,i
@@ -38,7 +38,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4813731,"Adham, Hameed Jabbar AL-Aqbi",IRQ,M,,,,1759,0,20,OCT25,2005,i
 4800079,"Adil, Ali Jalal",IRQ,M,FM,,,2112,0,20,OCT25,1952,i
 4821971,"Adil, Hadi Hasoon",IRQ,M,,,,1754,0,20,OCT25,1975,i
-4817117,"Adil, Hashim Ali",IRQ,M,,,,AFM,1708,0,OCT25,1977,
+4817117,"Adil, Hashim Ali",IRQ,M,,,,1708,0,,OCT25,1977,
 4814118,"Adnan, Ibrahim Khalil",IRQ,M,,,,1599,0,20,OCT25,1961,i
 4811232,"Ahamed Ouda , Mohoes",IRQ,M,,,,1690,0,20,OCT25,2001,i
 4808118,"Ahmad, Al-Qudsi",IRQ,M,,,,1569,0,20,OCT25,1992,
@@ -46,7 +46,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4820401,"Ahmed, Abdul Fattah Ahmed",IRQ,M,,,,1701,0,20,OCT25,1990,i
 4826108,"Ahmed, Ali Nasir",IRQ,M,,,,1885,0,20,OCT25,1996,i
 4816773,"Ahmed, Atyah Allaw",IRQ,M,,,,1637,0,20,OCT25,1967,i
-4840712,"Ahmed, Ayad Ali",IRQ,M,,,,ACM,1540,6,OCT25,1994,
+4840712,"Ahmed, Ayad Ali",IRQ,M,,,,1540,6,,OCT25,1994,
 4824270,"Ahmed, Emad Ibrahim",IRQ,M,,,,1642,0,20,OCT25,2002,i
 4827309,"Ahmed, Ismail Mohammed Ali",IRQ,M,,,,1766,0,20,OCT25,1990,i
 4802071,"Ahmed, J.Majeed",IRQ,M,,,,2062,0,20,OCT25,1976,i
@@ -64,7 +64,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4813014,"Akar, Omiad Saber",IRQ,M,,,,1663,0,20,OCT25,2004,i
 4800230,"Akrawi, Samir",IRQ,M,FM,,,2122,0,20,OCT25,1970,i
 4802179,"Al -Rubaye, Hasan Abed Shahwaz",IRQ,M,,,,1825,0,20,OCT25,1968,i
-4846044,AL AGELE KHATTAB HAYDER RIYADH,IRQ,M,,,,1507,0,20,OCT25,2003,
+4846044,AL AGELE KHATTAB HAYDER RIYADH,IRQ,M,,,,1521,0,20,OCT25,2003,
 4807235,"Al Falahi, Ziad Tarik Mohammad",IRQ,M,,,,1650,0,20,OCT25,1973,i
 4807766,"Al Harith, Emad Nawaf",IRQ,M,,,,1765,0,20,OCT25,2002,i
 4805623,"Al Yhya, Dhamir Jabar Mossa",IRQ,M,,,,1867,0,20,OCT25,1974,i
@@ -104,7 +104,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4806050,ali khalid khudhair,IRQ,M,,,,1823,0,20,OCT25,1996,i
 4802870,Ali Noor Hadi,IRQ,M,,,,1987,0,20,OCT25,1977,i
 4807340,"Ali Sattar, Hussein",IRQ,M,,,,1648,0,20,OCT25,0,i
-4817702,ALI ZAIN Al ABDIN HAMEED AL-MUSAWI,IRQ,M,,,,AFM,1809,0,OCT25,2007,i
+4817702,ALI ZAIN Al ABDIN HAMEED AL-MUSAWI,IRQ,M,,,,1809,0,,OCT25,2007,i
 4817443,"Ali, Ahamed Mezhir",IRQ,M,,,,1534,0,40,OCT25,2010,i
 4806093,"Ali, Ahmed",IRQ,M,,,,2066,0,20,OCT25,1973,i
 4821017,"Ali, Ahmed Lutfi",IRQ,M,,,,1794,0,20,OCT25,1994,i
@@ -144,7 +144,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4816374,"Almojtaba, Munaf Jalal",IRQ,M,,,,1754,0,20,OCT25,1997,i
 4801920,"Alothman ,Ali Layth Ahmed",IRQ,M,FM,,,2160,0,20,OCT25,1987,i
 4809068,Alwaeli Basil,IRQ,M,,,,1745,0,20,OCT25,2001,
-4805127,"Alwaeli, Looay",IRQ,M,,NA,,1708,0,20,OCT25,1987,
+4805127,"Alwaeli, Looay",IRQ,M,,NA,,1709,0,20,OCT25,1987,
 4805135,"Amal, Majid Khudhair",IRQ,F,,,,1699,0,20,OCT25,1999,wi
 4817478,"Amar, Abduljabar Khudhair",IRQ,M,,,,1857,0,20,OCT25,1981,i
 4822110,"Amar, Abdulsaid Madhmoom",IRQ,M,,,,1696,0,20,OCT25,1977,i
@@ -164,7 +164,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4805151,"Aos, Hassan Ibrahim",IRQ,M,,,,1966,0,20,OCT25,1984,i
 4800400,"Aram, Abdulla  Fattah",IRQ,M,,,,1861,0,20,OCT25,1961,i
 4802543,"Ares, Saber Majeed",IRQ,M,,,,2063,0,20,OCT25,1972,
-4814681,"Arikar, Omiad Saber",IRQ,M,,,,AFM,1624,0,OCT25,2012,i
+4814681,"Arikar, Omiad Saber",IRQ,M,,,,1624,0,,OCT25,2012,i
 4803035,"Arqam, Zaki",IRQ,M,,,,1849,0,20,OCT25,0,i
 4829654,"Arshad, Fareed Thabit",IRQ,M,,,,1742,0,40,OCT25,2007,
 4813235,"Aryan, Ali Ehsan",IRQ,M,CM,,,2070,0,20,OCT25,1998,
@@ -249,7 +249,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4821106,"Falah, Abid Bashir",IRQ,M,,,,1674,0,20,OCT25,1972,i
 4820584,"Falah, Lateef Salih",IRQ,M,,,,1720,0,20,OCT25,1962,i
 4821645,"Falah, Mohammed Hassan",IRQ,M,,,,1658,0,20,OCT25,1993,i
-4836170,"Farhad, Rashid Kareem",IRQ,M,,,,AFM,1670,0,OCT25,1969,i
+4836170,"Farhad, Rashid Kareem",IRQ,M,,,,1670,0,,OCT25,1969,i
 4835417,"Farhad, Younis Abdullah",IRQ,M,,,,1546,0,20,OCT25,1972,
 4805011,"Farhan, Naseer Jasim Alhasnawi",IRQ,M,,,,1970,0,20,OCT25,1959,i
 4803396,"Faris, A-.Ameer",IRQ,M,,,,2004,0,20,OCT25,1956,i
@@ -269,7 +269,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4810953,Ghanm Abd Khanjer,IRQ,M,,,,1795,0,20,OCT25,1968,i
 4815459,"Ghezel, Nawar Ahmed",IRQ,F,,,,1567,0,40,OCT25,2011,wi
 4816846,"Goran, Qahhar Othman",IRQ,M,,,,1689,0,20,OCT25,1987,i
-4806140,"Habeeb, Kairullah Lafta",IRQ,M,,,,AFM,1908,0,OCT25,1968,i
+4806140,"Habeeb, Kairullah Lafta",IRQ,M,,,,1908,0,,OCT25,1968,i
 4808800,"Hadhi, Ahmed Attiyah",IRQ,M,,,,1791,0,20,OCT25,2001,i
 4818032,"Hadi, Ahmed Hadi",IRQ,M,,,,1813,0,20,OCT25,1992,
 4817613,"Haidar, Faisal Ghazi",IRQ,M,,,,1477,0,20,OCT25,1997,i
@@ -358,12 +358,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4811755,"Ismail, Khalel Tariq",IRQ,M,,,,1690,0,20,OCT25,2006,i
 4800796,"Issa, Mohi Al-Dein",IRQ,M,,,,2167,0,20,OCT25,1962,i
 4807871,"Jaafer, Hayder A. Jaafer",IRQ,M,,,,1827,0,20,OCT25,1996,i
-4817508,"Jabbar, Naser Issa",IRQ,M,,,,AIM,1969,0,OCT25,1978,i
+4817508,"Jabbar, Naser Issa",IRQ,M,,,,1969,0,,OCT25,1978,i
 4800338,"Jabbar, Toyfeeq",IRQ,M,,,,2134,0,20,OCT25,1959,i
 4800974,"Jabr, Jwad Majeed",IRQ,M,,FA,,1861,0,20,OCT25,1961,i
 4814517,"Jack, Habib Bia",IRQ,M,,,,1690,0,20,OCT25,1998,i
 4804007,"Jalal Al Deen, Dalin",IRQ,F,,,,1694,0,20,OCT25,1997,wi
-4801148,"Jalal, Hazhar",IRQ,M,,,,AGM,1993,0,OCT25,1987,i
+4801148,"Jalal, Hazhar",IRQ,M,,,,1993,0,,OCT25,1987,i
 4801024,"Jamal, Khreshi Obeid",IRQ,M,,,,1999,0,20,OCT25,1953,i
 4811062,Jasim Wisam Hashim,IRQ,M,,,,1771,0,20,OCT25,1982,i
 4800281,"Jasim, Hussein Mayoof.",IRQ,M,CM,,,2163,0,20,OCT25,1967,i
@@ -373,7 +373,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4830229,"Jawad, Emad Louse",IRQ,M,,,,1536,0,20,OCT25,2006,i
 4829301,"Jawad, Kadhim Alamary",IRQ,M,,,,1594,0,20,OCT25,1966,i
 4840585,Jawdat Maan Hattab,IRQ,M,,,,1446,0,40,OCT25,2013,
-369104991,"Kadhim Dhahir, Ali",IRQ,M,,,,AFM,1628,0,OCT25,1976,i
+369104991,"Kadhim Dhahir, Ali",IRQ,M,,,,1628,0,,OCT25,1976,i
 4835727,"Kadhim, Faqi Braim Ghafour",IRQ,M,,,,1496,0,20,OCT25,1948,i
 4803310,"Kaka Khan, Ismail Ibrahim",IRQ,M,,,,1946,0,20,OCT25,1960,i
 4801172,Kamal JalalAdin Mustafa,IRQ,M,,,,2077,0,20,OCT25,1965,i
@@ -386,7 +386,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4835735,"Karwan, Sulhi Majeed",IRQ,M,,,,1453,0,20,OCT25,2002,i
 4817990,"Karzan, Ahmed Abdullah",IRQ,M,,,,1627,0,20,OCT25,1994,i
 4800311,"Kashush, H. Abdul Kareem",IRQ,M,CM,,,1999,0,20,OCT25,1959,i
-4803388,"Kasib, Abdul A.Humadi",IRQ,M,,,,1633,0,20,OCT25,1955,
+4803388,"Kasib, Abdul A.Humadi",IRQ,M,,,,1634,0,20,OCT25,1955,
 4837673,"Kawan, Araz Sabr",IRQ,M,,,,1525,0,20,OCT25,2004,i
 4813090,"Kaziwa, Salah Abdullah",IRQ,F,,,,1586,0,20,OCT25,2000,wi
 4814045,"Khabat, Laiaq Zorab",IRQ,M,,,,1776,0,20,OCT25,1978,i
@@ -407,7 +407,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4816285,"Lara, Samir Anwar",IRQ,F,,,,1492,0,40,OCT25,2011,wi
 4804651,"Lawen, Mohammed",IRQ,F,,,,1681,0,20,OCT25,1994,wi
 4818008,"Lawin, Mohammed Taher",IRQ,M,,,,1754,0,40,OCT25,2011,i
-4831810,"Lawy, Ibrahim Noory",IRQ,M,,,,ACM,1552,0,OCT25,2010,i
+4831810,"Lawy, Ibrahim Noory",IRQ,M,,,,1552,0,,OCT25,2010,i
 4803353,Layth Yhyh Hafedh,IRQ,M,,,,1873,0,20,OCT25,1974,i
 4832639,"Lya, Ibrahim Noory",IRQ,F,,,,1433,0,40,OCT25,2013,wi
 4800435,Mahdi Attiyah Abdullah,IRQ,M,,,,2079,0,20,OCT25,1968,i
@@ -425,8 +425,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4801270,"Maroof, Mohammad Salem",IRQ,M,,,,1769,0,20,OCT25,1964,i
 4805852,Marwa Mohammed Khalaf,IRQ,F,,,,1554,0,20,OCT25,1985,wi
 4813596,"Marwan, Hama Xalb Ahmed",IRQ,M,,,,1702,0,20,OCT25,1989,i
-4816226,"Masar, Sadi Rahim",IRQ,M,,,,1650,0,20,OCT25,1983,i
 4821181,"Masar, Sadi Rahim",IRQ,M,,,,1633,0,20,OCT25,1984,i
+4816226,"Masar, Sadi Rahim",IRQ,M,,,,1650,0,20,OCT25,1983,i
 4802110,"Maythem, Naom Salih",IRQ,M,,NA,,1924,0,20,OCT25,1973,i
 4801288,"Mazin, Adham Tawfeeq",IRQ,M,,,,1986,0,20,OCT25,1962,i
 4823575,"Meeran, Sabah Ali",IRQ,M,,,,1690,0,20,OCT25,1986,i
@@ -445,8 +445,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4817320,Mohammed Ahmed M Zaki Abdul Raman Agha,IRQ,M,,,,1544,0,20,OCT25,1999,i
 4808843,"Mohammed Al-Sadik, Firas Qassim",IRQ,M,,,,1620,0,20,OCT25,1999,i
 4811577,Mohammed Ali Adnan,IRQ,M,,,,1870,0,20,OCT25,1999,i
-4801792,Mohammed Ali MahdiAl-Kinani,IRQ,M,CM,,,1931,0,20,OCT25,1965,
-4808673,"Mohammed Khaleel, Majeed",IRQ,M,,,,AIM,1812,0,OCT25,1987,
+4801792,Mohammed Ali MahdiAl-Kinani,IRQ,M,CM,,,1932,0,20,OCT25,1965,
+4808673,"Mohammed Khaleel, Majeed",IRQ,M,,,,1812,0,,OCT25,1987,
 4802144,"Mohammed Qane,Jannar Worya",IRQ,F,WFM,WFM,,1960,0,20,OCT25,1977,wi
 4803400,Mohammed Rashid Kaka Sur,IRQ,M,,,,1983,0,20,OCT25,1965,i
 4810929,Mohammed Saad Abbas,IRQ,M,,,,1741,0,20,OCT25,2003,i
@@ -478,7 +478,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4819861,"Mohammed, Sleman Meer Ahmed",IRQ,M,,,,1739,0,20,OCT25,1987,i
 4821262,"Mohammed, Talib Yasir",IRQ,M,,,,1678,0,20,OCT25,1994,i
 4845374,"Mohammed, Wafiq Hussien",IRQ,M,,,,1759,8,40,OCT25,1998,
-4826892,"Mohammed, Waleed Ali",IRQ,M,,,,AFM,1700,0,OCT25,1997,i
+4826892,"Mohammed, Waleed Ali",IRQ,M,,,,1700,0,,OCT25,1997,i
 4823605,"Mohammed, Zaghir Lieibi Yasin",IRQ,M,,,,1623,0,20,OCT25,1965,i
 4817788,"Mohmmeed, Jaseb Bader",IRQ,M,,,,1710,0,20,OCT25,1995,i
 4820665,"Mokhles, Abdulmohsin Daraj",IRQ,M,,,,1810,0,20,OCT25,1983,i
@@ -532,8 +532,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4814363,"Nawar, Ahmed Mahmood",IRQ,M,,,,1705,0,20,OCT25,1978,i
 4827422,"Nawfal, Hamad Yousuf",IRQ,M,,,,1664,0,20,OCT25,1977,i
 4805046,Nazar Mohsin hussein,IRQ,M,,,,1720,0,20,OCT25,1961,i
-4806883,"Nazar, Jamil Khalid",IRQ,M,,,,AFM,1773,0,OCT25,1978,i
-4817192,"Nhen, Zana Ismail",IRQ,M,,,,AFM,1502,0,OCT25,2004,i
+4806883,"Nazar, Jamil Khalid",IRQ,M,,,,1773,0,,OCT25,1978,i
+4817192,"Nhen, Zana Ismail",IRQ,M,,,,1502,0,,OCT25,2004,i
 4809394,"Nihad, Sabah Noori",IRQ,F,,,,1655,0,20,OCT25,2005,wi
 4813510,"Nma, Qasim Osman",IRQ,F,,,,1428,0,20,OCT25,2003,wi
 4800249,"Noah, A .H. Al-Ali",IRQ,M,IM,,,2283,0,20,OCT25,1970,i
@@ -568,7 +568,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4805542,"Qalata Sori, Shwan Othman Hussein",IRQ,M,,,,1701,0,20,OCT25,1974,i
 4802888,"Qambar, Salah Noori Qambar",IRQ,M,,,,2029,0,20,OCT25,1977,i
 4822455,"Qasim, Ali Hadi",IRQ,M,,,,1798,0,20,OCT25,1998,i
-4811020,Qutaiba Sadeq Yair Almajbool,IRQ,M,,,,AFM,1741,0,OCT25,1989,
+4811020,Qutaiba Sadeq Yair Almajbool,IRQ,M,,,,1741,0,,OCT25,1989,
 4823621,"Raad, Muttair Faraj",IRQ,M,,,,1654,0,20,OCT25,1971,i
 4809645,Rabar Bakhtyar Hama Saleh,IRQ,M,,,,1699,0,20,OCT25,2000,i
 4806212,"Rabeea, Sabah Nori",IRQ,M,FM,,,2016,8,20,OCT25,2002,
@@ -640,13 +640,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4818792,"Sarezh, Dlshad Hasan",IRQ,F,,,,1615,0,20,OCT25,2005,wi
 4807219,"Sarkawat, Hamad Mohammed",IRQ,M,,,,1906,0,20,OCT25,1982,
 4812956,SARKUOT MOHAMMED QASIM,IRQ,M,,,,1844,0,20,OCT25,1988,i
-4802357,Sarmad L Ismael,IRQ,M,,,,AFM,1936,0,OCT25,1967,i
+4802357,Sarmad L Ismael,IRQ,M,,,,1936,0,,OCT25,1967,i
 4831438,"Saryan, Soran Mohammed",IRQ,M,,,,1616,0,40,OCT25,2009,
 4809033,"Sattar J Al-isawi, Abdullah",IRQ,M,,,,1986,0,20,OCT25,1994,i
 4801121,"Sattar, Jaber Al-Isawi",IRQ,M,,,,2031,0,20,OCT25,1964,
 4817222,"Shad, Salah Abdullah",IRQ,M,,,,1556,0,20,OCT25,2005,i
 4814541,"Shadi, Fouad Mohammed",IRQ,M,,,,1502,0,40,OCT25,2010,i
-4812310,Shahram Hayder Faiaq,IRQ,M,,,,1514,0,20,OCT25,1977,
+4812310,Shahram Hayder Faiaq,IRQ,M,,,,1528,0,20,OCT25,1977,
 4835867,"Shakhawan, Amrulla Abdullah",IRQ,M,,,,1645,0,20,OCT25,1982,
 4800630,shakir hammood zghayer,IRQ,M,,,,2019,0,20,OCT25,1960,i
 4816579,"Shalyar, Kamal Jalaladeen",IRQ,M,,,,1447,0,40,OCT25,2008,i
@@ -657,7 +657,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4805828,Shkar Hamid Abdullah,IRQ,M,,,,1776,0,20,OCT25,2000,i
 4812271,Shkar Wast Rawzan,IRQ,M,,,,1989,0,20,OCT25,1991,i
 4832132,"Shko, Taha Taib",IRQ,M,,,,1608,0,20,OCT25,1998,
-4828143,"Sivan, Sarkan Tofiq",IRQ,M,,,,AIM,1976,0,OCT25,2010,
+4828143,"Sivan, Sarkan Tofiq",IRQ,M,,,,1976,0,,OCT25,2010,
 4804821,"Sonia, Taha Ali",IRQ,F,,,,1770,0,20,OCT25,1991,wi
 4806301,Sufian Younus Abdulrazzaq,IRQ,M,,,,1938,0,20,OCT25,1988,i
 4818326,Suhad Sabah Noori Shahwani,IRQ,F,,,,1468,0,40,OCT25,2012,wi

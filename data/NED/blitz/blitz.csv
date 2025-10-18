@@ -3,7 +3,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1012975,"Abcouwer, Jan-Bart",NED,M,,,,2022,0,20,OCT25,1966,i
 1091107,"Adams, Oscar",NED,M,,,,1932,0,20,OCT25,2006,i
 40120783,"Adang, Xavi",NED,M,,,,1786,0,40,OCT25,2010,
-1055011,"Adavatkar, Rugved",NED,M,,,,1809,23,20,OCT25,1998,
+1055011,"Adavatkar, Rugved",NED,M,,,,1808,23,20,OCT25,1998,
 1019716,"Admiraal, Miguoel",NED,M,IM,,,2431,0,10,OCT25,1994,i
 1017349,"Agter, Frank",NED,M,,,,2179,0,20,OCT25,1979,i
 1033093,"Agterberg, Mark",NED,M,,,,2105,0,20,OCT25,1988,i
@@ -13,7 +13,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1053760,"Albertus, Bram",NED,M,,,,1948,0,20,OCT25,2003,i
 1062735,"Aldenberg, Hendrik",NED,M,,,,1807,0,20,OCT25,1984,i
 40121895,"Alhalabi, Mohammad Faisal",NED,M,,,,1824,0,20,OCT25,1993,
-11515090,"Alhasan, Husam",NED,M,,"NI,NA",,AFM,1835,23,OCT25,1986,
+11515090,"Alhasan, Husam",NED,M,,"NI,NA",,1835,23,,OCT25,1986,
 1053272,"Allaart, Jesse",NED,M,,,,1750,0,20,OCT25,2003,i
 1086952,"Alvares, Eric",NED,M,,,,1730,0,20,OCT25,1971,i
 1072668,"Alvares, Thomas",NED,M,,,,1870,0,20,OCT25,2006,i
@@ -73,7 +73,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1022016,"Berendsen, David",NED,M,,,,1844,23,20,OCT25,1986,
 1040103,"Berghuis, Marten",NED,M,,,,1961,0,20,OCT25,1989,
 1042327,"Bergmans, Dirk",NED,M,,,,1966,0,20,OCT25,1983,
-40118827,"Bernards, Job",NED,M,,,,1821,0,20,OCT25,2001,
+40118827,"Bernards, Job",NED,M,,,,1820,0,20,OCT25,2001,
 1054520,"Bertrand, Sjors",NED,M,,,,1736,0,20,OCT25,1985,i
 1045601,"Bes, Roland",NED,M,,,,1927,0,20,OCT25,1965,i
 203530,"Beukema, Henk Jan",NED,M,,,,1928,0,20,OCT25,1967,i
@@ -152,7 +152,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1043650,"Bouwmans, Erik",NED,M,,,,1777,0,20,OCT25,1954,i
 1005685,"Bouwmeester, Andre",NED,M,,,,2167,0,20,OCT25,1961,i
 1022911,"Bovens, Noel",NED,M,,,,1865,0,20,OCT25,1963,i
-40122492,"Bozanic, Leon",NED,M,,,,1701,21,40,OCT25,2002,
+40122492,"Bozanic, Leon",NED,M,,,,1700,21,40,OCT25,2002,
 40122506,"Bozanic, Sasa",NED,M,,,,1611,19,40,OCT25,1974,
 1042360,"Braam, Marco",NED,M,,,,1827,0,20,OCT25,1969,
 1024191,"Brachten, Ron",NED,M,,,,1798,0,20,OCT25,1959,
@@ -204,14 +204,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1047787,"Buschman, Rob",NED,M,,,,1753,0,20,OCT25,1951,i
 1067168,"Busstra, Freek",NED,M,,,,1941,0,20,OCT25,1992,i
 1008153,"Cako, Laszlo",NED,M,,,,2133,0,20,OCT25,1966,i
-1014420,"Casareno, Erwin",NED,M,,,,AIM,1903,0,OCT25,1960,i
+1014420,"Casareno, Erwin",NED,M,,,,1903,0,,OCT25,1960,i
 1041657,"Casteleijn, Diederick",NED,M,,,,2073,0,20,OCT25,1995,
 1057553,"Catalan, Ciro",NED,M,,,,1768,0,20,OCT25,2006,i
 1055160,"Cchung, Chi Yun",NED,M,,,,1859,22,20,OCT25,2003,
 1042386,"Chappin, Rene",NED,M,,,,1791,0,20,OCT25,1963,i
 1092740,"Chardon, Kayen",NED,M,,,,1545,0,40,OCT25,2009,i
 40115321,"Chaudhuri, Aarini",NED,F,,,,1504,12,40,OCT25,2015,w
-1041991,"Cheng, Fon Kee",NED,M,,,,AFM,1533,3,OCT25,1968,
+1041991,"Cheng, Fon Kee",NED,M,,,,1533,3,,OCT25,1968,
 1072226,"Cherepanov, Daniil A",NED,M,,,,1671,0,40,OCT25,2010,i
 1010735,"Cheung, Jan",NED,M,,,,1920,0,20,OCT25,1969,
 1037897,"Cheung, Tsjisang",NED,M,,,,1927,0,20,OCT25,1959,i
@@ -255,7 +255,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 40112349,"De Gier, Jarno",NED,M,,,,1538,0,40,OCT25,2008,i
 1005677,"De Graaf, Dick",NED,M,,,,2033,0,20,OCT25,1964,i
 1087541,"De Graaf, Gerard",NED,M,,,,1766,0,20,OCT25,1970,i
-107105230,"de Graaf, Jurrian",NED,M,,,,AFM,1833,20,OCT25,2002,
+107105230,"de Graaf, Jurrian",NED,M,,,,1833,20,,OCT25,2002,
 1092324,"De Graaf, Mark",NED,M,,,,1823,0,20,OCT25,2005,i
 40102262,"De Graauw, Simon",NED,M,,,,1963,0,40,OCT25,2007,i
 1017870,"De Groote, Ewoud",NED,M,,,,2124,0,20,OCT25,1989,i
@@ -294,7 +294,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 452572,"De Martin, Lilian",NED,F,,,,1719,0,20,OCT25,1983,wi
 1049623,"De Mon, Gino",NED,M,,,,2101,0,20,OCT25,1995,
 1024868,"De Moor, Eric",NED,M,,,,2111,0,20,OCT25,1988,i
-1019902,"De Pooter, Ronald",NED,M,,,,1867,0,20,OCT25,1976,
+1019902,"De Pooter, Ronald",NED,M,,,,1866,0,20,OCT25,1976,
 1053388,"De Putter, Peter",NED,M,,,,1762,0,20,OCT25,1978,i
 1052594,"De Putter, Sven",NED,M,,,,1740,0,20,OCT25,2006,i
 40119556,"De Ridder, Dorian",NED,M,,,,1759,0,40,OCT25,2014,
@@ -334,7 +334,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1062174,"Dekker, Jos",NED,M,,,,1795,0,20,OCT25,1992,i
 1009540,"Dekker, Kees",NED,M,,,,2051,0,20,OCT25,1947,i
 1002260,"Dekker, Theo",NED,M,,,,1915,0,20,OCT25,1969,i
-1024299,"Dekker, Willem",NED,M,,,,1569,0,20,OCT25,1954,i
+1024299,"Dekker, Willem",NED,M,,,,1568,0,20,OCT25,1954,i
 40102254,"Demmers, Rick",NED,M,,,,1708,0,20,OCT25,2000,i
 1032798,"Den Boer, Lennard",NED,M,,,,2152,25,20,OCT25,1991,
 1055020,"Den Breejen, Wilfred",NED,M,,,,1756,0,20,OCT25,1983,i
@@ -370,7 +370,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1011081,"Duijzer, Jan Willem",NED,M,,,,2071,0,20,OCT25,1962,i
 1020447,"Duin, Ritchy",NED,M,,,,1852,0,20,OCT25,1967,i
 40100839,"Duindam, Hedde",NED,M,,,,1580,0,40,OCT25,2008,i
-1057979,"Dumont, Ties",NED,M,,,,1872,0,20,OCT25,2004,
+1057979,"Dumont, Ties",NED,M,,,,1871,0,20,OCT25,2004,
 1064339,"Dupain, Peter",NED,M,,,,1796,0,20,OCT25,1951,
 1055038,"Duson, Robin",NED,F,,,,2040,0,20,OCT25,2002,wi
 1073079,"Duynkerke, Lennard",NED,M,,,,1899,0,20,OCT25,2002,i
@@ -398,14 +398,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1004689,"Ernst, Sipke",NED,M,GM,FT,,2436,0,10,OCT25,1979,i
 1004638,"Erwich, Frans",NED,M,,,,1951,0,20,OCT25,1945,i
 40111636,"Eskif, Muhammed",NED,M,,,,1899,0,20,OCT25,1971,
-1084267,"Etienne, Ghilon",NED,M,,,,1880,0,40,OCT25,2011,
+1084267,"Etienne, Ghilon",NED,M,,,,1881,0,40,OCT25,2011,
 40100448,"Eustratiadis, Panagiotis",NED,M,,,,1714,0,20,OCT25,1991,
 1036262,"Eveleens, Ed",NED,M,,,,1705,0,20,OCT25,1955,
 1099884,"Faber, Roel",NED,M,,,,1892,0,20,OCT25,1995,i
 1073095,"Fallaux, Storm",NED,M,,,,1934,0,40,OCT25,2009,i
 1084046,"Faverey, Eddy",NED,M,,,,1754,0,20,OCT25,1969,i
 1054694,"Fedyszyn, Gerard",NED,M,,,,1906,0,20,OCT25,1988,i
-1088653,"Feijen, Niels",NED,M,,,,AFM,1843,0,OCT25,1999,
+1088653,"Feijen, Niels",NED,M,,,,1843,0,,OCT25,1999,
 1042645,"Feiner, Reinier",NED,M,,,,1899,0,20,OCT25,1977,i
 1074334,"Feng, Elysia",NED,F,,,,1723,0,40,OCT25,2008,wi
 1013688,"Flierman, Edwin",NED,M,,,,1917,0,20,OCT25,1969,i
@@ -416,7 +416,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1092758,"Fluegel, Michael",NED,M,,,,1884,24,40,OCT25,2008,
 1082205,"Fokkinga, Tijl",NED,M,,,,1997,0,40,OCT25,2008,i
 1072803,"Folkers, Sono",NED,M,,,,1765,0,40,OCT25,2008,i
-1094750,"Formanoy, David",NED,M,,,,1732,21,40,OCT25,2011,
+1094750,"Formanoy, David",NED,M,,,,1731,21,40,OCT25,2011,
 40101487,"Fransen, Jean-Paul",NED,M,,,,1881,24,20,OCT25,1970,
 1068539,"Franx, Kees",NED,M,,,,1760,0,20,OCT25,1962,i
 1013459,"Freeke, Matthieu",NED,M,FM,,,2317,0,20,OCT25,1984,i
@@ -451,7 +451,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1021150,"Goudriaan, Etienne",NED,M,IM,,,2347,0,20,OCT25,1990,
 1063162,"Goudriaan, Rafael",NED,M,,,,2089,20,20,OCT25,2005,
 1058096,"Gras, Arjan",NED,M,,,,1782,0,20,OCT25,1976,i
-1093045,"Grave, Laurens",NED,M,,,,ACM,1765,0,OCT25,1994,i
+1093045,"Grave, Laurens",NED,M,,,,1765,0,,OCT25,1994,i
 1048236,"Graveland, Wilfried",NED,M,,,,1947,0,20,OCT25,1976,i
 1036149,"Gravemaker, Wim Laurens",NED,M,,,,2032,0,20,OCT25,1994,i
 1082213,"Greve, Wouter",NED,M,,,,1877,0,20,OCT25,1994,i
@@ -463,7 +463,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1004140,"Groffen, Hans",NED,M,,,,2130,0,20,OCT25,1959,i
 1058100,"Groffen, Ludo",NED,M,,,,1852,0,20,OCT25,1962,i
 1000330,"Grooten, Herman",NED,M,IM,,,2214,25,20,OCT25,1958,
-1068806,"Grooten, Tommy",NED,M,,,,2147,25,40,OCT25,2010,
+1068806,"Grooten, Tommy",NED,M,,,,2148,25,40,OCT25,2010,
 1057472,"Grutter, Tim",NED,M,IM,,,2333,20,20,OCT25,2003,
 1097091,"Guillaumond, Matthieu",NED,M,,,,1885,0,40,OCT25,2012,i
 40104753,"Gujran, Krithik",NED,M,,,,1687,0,20,OCT25,1997,i
@@ -477,7 +477,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1021133,"Haast, Mark",NED,M,IM,,,2350,0,20,OCT25,1991,i
 1054597,"Haast, Rob",NED,M,,,,1932,0,20,OCT25,1988,i
 1048651,"Habibi, Hamoen",NED,M,,,,2058,0,20,OCT25,1990,
-1049240,"Habig, Bryan",NED,M,,,,AIM,2052,25,OCT25,1997,
+1049240,"Habig, Bryan",NED,M,,,,2052,25,,OCT25,1997,
 1091190,"Hagen, Carlijn",NED,F,,,,1914,0,40,OCT25,2009,wi
 1094890,"Hagen, Maurits",NED,M,,,,1727,0,40,OCT25,2011,i
 1045946,"Halfhide, Sebastian",NED,M,FM,,,2122,0,20,OCT25,2001,i
@@ -500,7 +500,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1039849,"Haver, Bas",NED,M,FM,,,2198,20,20,OCT25,1996,
 1035258,"Haver, Daan",NED,M,CM,,,2147,0,20,OCT25,1996,i
 1017306,"Hazenberg, Frans",NED,M,,,,1911,0,20,OCT25,1959,
-1094955,"Heeres, Felix",NED,M,,,,1843,0,40,OCT25,2013,
+1094955,"Heeres, Felix",NED,M,,,,1844,0,40,OCT25,2013,
 40121585,"Heij, Frans",NED,M,,,,1621,0,20,OCT25,1991,
 1042505,"Heijmans, Stan",NED,M,,,,1930,24,20,OCT25,1972,
 40109305,"Heikamp, Hendrik",NED,M,,,,1838,0,40,OCT25,2009,i
@@ -547,7 +547,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1051407,"Hopman-Been, Rob",NED,M,,,,1935,0,20,OCT25,1957,i
 1067451,"Hopmans, Wesley",NED,M,,,,1658,0,20,OCT25,1982,i
 40111105,"Houwink, Peter",NED,M,,,,1921,0,20,OCT25,1994,i
-40104184,"Huang, Vincent",NED,M,,,,AFM,1838,0,OCT25,2013,
+40104184,"Huang, Vincent",NED,M,,,,1839,0,,OCT25,2013,
 40105288,"Huang, Ziyang",NED,M,,,,1646,0,40,OCT25,2015,i
 1054589,"Hubers, Daan",NED,M,,,,1808,0,20,OCT25,2004,
 1023861,"Hubregtse, Sjoerd",NED,M,,,,1852,0,20,OCT25,1980,i
@@ -589,7 +589,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1094165,"Jellema, Pieter",NED,M,,,,2031,0,20,OCT25,2001,i
 1007394,"Jens, Jelmer",NED,M,IM,,,2326,0,20,OCT25,1982,
 40104230,"Jermin, Ayleanna",NED,F,,,,1590,0,40,OCT25,2013,wi
-1025457,"Jeurissen, Roland",NED,M,,,,AFM,1854,0,OCT25,1983,
+1025457,"Jeurissen, Roland",NED,M,,,,1854,0,,OCT25,1983,
 1046390,"Jolly, Mark",NED,M,,,,1732,0,20,OCT25,1985,i
 1042637,"Jongste, David",NED,M,,,,2126,0,20,OCT25,1998,i
 1002708,"Jonkman, Harmen",NED,M,GM,,,2368,0,10,OCT25,1975,i
@@ -643,7 +643,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1035002,"Kloppenburg, Geert",NED,M,,,,1938,0,20,OCT25,1957,i
 1049313,"Kloppers, Eric",NED,M,,,,1737,0,20,OCT25,1959,
 1073249,"Kluijfhout, Anthon",NED,M,,,,1746,0,20,OCT25,1989,i
-1040839,"Knight, David",NED,M,,,,AGM,1875,0,OCT25,1981,i
+1040839,"Knight, David",NED,M,,,,1875,0,,OCT25,1981,i
 1084291,"Knobbe, Elise",NED,F,,,,1874,0,40,OCT25,2008,wi
 1059521,"Knol, Daniel",NED,M,,,,1905,0,20,OCT25,2006,i
 1018370,"Kocken, Wilbert",NED,M,,,,1992,0,20,OCT25,1956,i
@@ -651,7 +651,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1068369,"Koelewijn, Sjoerd",NED,M,,,,1761,0,20,OCT25,1981,i
 1011588,"Koelmans, Jan Willem",NED,M,,,,1894,0,20,OCT25,1960,
 1037862,"Koeweiden, Bart",NED,M,,,,1877,0,20,OCT25,1981,
-1040081,"Koeweiden, Theo",NED,M,,,,1658,0,20,OCT25,1978,
+1040081,"Koeweiden, Theo",NED,M,,,,1656,0,20,OCT25,1978,
 1050702,"Kok, Cas",NED,M,,,,2001,0,20,OCT25,1995,i
 1037951,"Kok, Fred",NED,M,,,,1904,0,20,OCT25,1963,i
 1022024,"Kok, Ivo",NED,M,,,,2183,0,20,OCT25,1993,i
@@ -721,11 +721,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1007092,"Lahaye, Rick",NED,M,,,,2359,0,20,OCT25,1983,i
 1038257,"Lai, Hing Ting",NED,M,IM,,,2608,21,10,OCT25,1997,
 1089293,"Lalkota, Naresh Kumar",NED,M,,,,1537,0,20,OCT25,1985,
-1087690,"Lalkota, Sai Pranav Tejas",NED,M,,,,AFM,1811,0,OCT25,2012,
+1087690,"Lalkota, Sai Pranav Tejas",NED,M,,,,1811,0,,OCT25,2012,
 1098667,"Lalkota, Srikar",NED,M,,,,1501,0,40,OCT25,2017,
 1032720,"Lambregts, Frank",NED,M,,,,1922,23,20,OCT25,1993,
 1008803,"Lammens, Tim",NED,M,FM,,,2393,0,20,OCT25,1979,i
-1054660,"Lammers, Anton",NED,M,,,,1823,0,20,OCT25,1965,
+1054660,"Lammers, Anton",NED,M,,,,1824,0,20,OCT25,1965,
 1080458,"Lammers, Hans",NED,M,,,,1508,13,20,OCT25,1975,
 1072285,"Landman, Chelvan",NED,M,,,,1726,20,20,OCT25,1996,
 40106306,"Landman, Renzo",NED,M,,,,1952,0,40,OCT25,2007,
@@ -740,7 +740,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1081802,"Lee, Jungmin",NED,M,,,,1789,0,40,OCT25,2007,i
 1098543,"Lee, Quinten",NED,M,,,,1981,0,40,OCT25,2008,
 1083937,"Leenen, Boyd",NED,M,CM,,,2050,24,40,OCT25,2012,
-40108848,"Leenes, Robert",NED,M,,,,AFM,1825,0,OCT25,1966,i
+40108848,"Leenes, Robert",NED,M,,,,1825,0,,OCT25,1966,i
 1008439,"Leenhouts, Koen",NED,M,GM,,,2424,0,10,OCT25,1984,i
 1038222,"Legemaat, Gerrit",NED,M,,,,1917,0,20,OCT25,1962,i
 1004743,"Legemaat, Gert",NED,M,,,,2166,0,20,OCT25,1963,i
@@ -755,7 +755,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 40110753,"Liu, Jan Peter",NED,M,,,,1541,0,40,OCT25,2015,i
 40102327,"Liyanage, Nuwan",NED,M,,,,1707,0,20,OCT25,1985,
 1067508,"Ljungstrom, Gunnar-Emanuel",NED,M,,,,1731,0,20,OCT25,1950,i
-1089838,"Lobo, Dhruv",NED,M,,,,1550,0,40,OCT25,2010,
+1089838,"Lobo, Dhruv",NED,M,,,,1552,0,40,OCT25,2010,
 1032852,"Lombaers, Peter",NED,M,FM,,,2352,0,20,OCT25,1991,i
 40114937,"Londhe, Svar",NED,M,,,,1781,21,40,OCT25,2011,
 1038877,"Looijer, Dave",NED,M,,,,2017,0,20,OCT25,1997,i
@@ -850,7 +850,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1020595,"Nagel, Jan",NED,M,,,,1873,0,20,OCT25,1939,i
 1001752,"Nagel, Yvette",NED,F,WFM,WFM,,1924,0,20,OCT25,1964,wi
 40109135,"Nair, Pranav Prasobh",NED,M,,,,1817,0,40,OCT25,2013,i
-1083465,"Neus, Frans",NED,M,,,,AFM,1877,0,OCT25,1954,i
+1083465,"Neus, Frans",NED,M,,,,1877,0,,OCT25,1954,i
 1066668,"Neuteboom, Martin",NED,M,,,,1618,0,20,OCT25,1951,i
 1086510,"Ngangbam, Chingthang",NED,M,,,,1871,23,40,OCT25,2012,
 40102343,"Ngangbam, Malem",NED,F,,,,1625,23,40,OCT25,2016,w
@@ -905,7 +905,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 40118967,"Ozdemir, Orhan Galip",NED,M,,,,1667,24,40,OCT25,2013,
 1054023,"Paays, Dominggus",NED,M,,,,1827,0,20,OCT25,2003,i
 40111245,"Pardijs, Richard",NED,M,,,,1653,0,20,OCT25,1998,i
-1071351,"Pastijn, Jasper",NED,M,,,,ACM,1658,0,OCT25,1979,i
+1071351,"Pastijn, Jasper",NED,M,,,,1658,0,,OCT25,1979,i
 40107817,"Pata, Teodor-Stefan",NED,M,,,,1433,15,40,OCT25,2015,
 40113000,"Pater, Martijn",NED,M,,,,1597,0,20,OCT25,1985,
 1044575,"Paternotte, Stephan",NED,M,,,,1955,0,20,OCT25,1963,i
@@ -939,7 +939,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 40118754,"Polman, Hans",NED,M,,,,1792,0,20,OCT25,1957,
 1051040,"Pols, Arne",NED,M,,,,2015,0,20,OCT25,2000,i
 1053710,"Pols, Wiggert",NED,M,,,,2152,0,20,OCT25,2001,i
-1072315,"Pompert, Edwin",NED,M,,,,AFM,1756,0,OCT25,1961,i
+1072315,"Pompert, Edwin",NED,M,,,,1756,0,,OCT25,1961,i
 40116700,"Ponte, Manuel",NED,M,,,,1632,0,40,OCT25,2008,
 40105466,"Pop, Ioan",NED,M,,,,1715,0,20,OCT25,1956,i
 40123189,"Popa, Alexandru",NED,M,,,,1564,12,40,OCT25,2006,
@@ -964,7 +964,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1025996,"Rademakers, Evert",NED,M,FM,,,2228,0,20,OCT25,1991,i
 1068490,"Radfar, Bahman",NED,M,,,,1865,0,20,OCT25,1981,i
 40118487,"Rajput, Atharv",NED,M,,,,1554,0,40,OCT25,2013,
-40119530,"Rama, Rajiv",NED,M,,,,1654,0,20,OCT25,2001,
+40119530,"Rama, Rajiv",NED,M,,,,1653,0,20,OCT25,2001,
 1098276,"Ramak, Brett",NED,M,,,,1774,0,20,OCT25,2003,i
 1098730,"Ramak, Vince",NED,M,,,,1905,0,40,OCT25,2007,i
 1076990,"Ramdien, Steven",NED,M,,,,1873,0,40,OCT25,2008,i
@@ -986,7 +986,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 40118711,"Remmerts, John",NED,M,,,,1869,0,20,OCT25,1979,
 1034626,"Rensen, Martin",NED,M,,,,1755,20,20,OCT25,1970,
 16207017,"Ricken, Katharina",NED,F,WFM,WFM,NA,2168,0,20,OCT25,2004,wi
-1059661,"Riedstra, Symon",NED,M,,,,1751,0,20,OCT25,1968,
+1059661,"Riedstra, Symon",NED,M,,,,1750,0,20,OCT25,1968,
 1050710,"Riemens, Koen",NED,M,,,,1957,0,20,OCT25,1997,i
 1005626,"Rietveld, Leo",NED,M,,,,1993,0,20,OCT25,1961,i
 1050990,"Rijken, Jasper",NED,M,,,,1939,0,20,OCT25,1999,i
@@ -1070,7 +1070,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1013246,"Sijpkens, Michiel",NED,M,,,,2115,0,20,OCT25,1989,i
 1012916,"Simenon, Jozef",NED,M,FM,,,2147,0,20,OCT25,1987,i
 4165322,"Sinev, Anton",NED,M,,,,2232,0,20,OCT25,1987,i
-40105164,"Singh, Harman",NED,M,,,,ACM,1750,0,OCT25,1993,
+40105164,"Singh, Harman",NED,M,,,,1749,0,,OCT25,1993,
 1030787,"Sitton, Ben",NED,M,,,,1913,21,20,OCT25,1985,
 40110443,"Sivakumar, Hansika",NED,F,,,,1407,0,40,OCT25,2010,w
 1032178,"Skrobic, Dragan",NED,M,,,,2379,24,10,OCT25,1988,
@@ -1087,7 +1087,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1060805,"Sluiter, Albert",NED,M,,,,1833,0,20,OCT25,1956,i
 1031368,"Smeele, Pieter",NED,M,,,,1768,0,20,OCT25,1965,
 1094645,"Smeenk, Merijn",NED,M,,,,1776,0,40,OCT25,2008,i
-1092499,"Smeets, Bent",NED,M,,,,1790,24,40,OCT25,2011,
+1092499,"Smeets, Bent",NED,M,,,,1789,24,40,OCT25,2011,
 1007246,"Smeets, Jan",NED,M,GM,FST,,2518,0,10,OCT25,1985,
 1063910,"Smeets, Kobe",NED,M,FM,,,2323,45,20,OCT25,2008,
 1035843,"Smeets, Sebastiaan",NED,M,,,,1866,0,20,OCT25,1991,i
@@ -1114,7 +1114,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1052772,"Spanjer, Joris",NED,M,,,,1825,9,20,OCT25,2001,
 1083864,"Spannring, Peter",NED,M,,,,1852,0,20,OCT25,1985,i
 1048244,"Sparreboom, Ronald",NED,M,,,,1993,0,20,OCT25,1967,i
-1096320,"Spee, Jean",NED,M,,,,1843,0,20,OCT25,1956,
+1096320,"Spee, Jean",NED,M,,,,1844,0,20,OCT25,1956,
 1055933,"Spil, Bert",NED,M,,,,1943,0,20,OCT25,1957,i
 1068881,"Spit, Vincent",NED,M,,,,2068,0,20,OCT25,2000,i
 1010891,"Spoelman, Wouter",NED,M,GM,,,2534,0,10,OCT25,1990,i
@@ -1124,7 +1124,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1026771,"Sprong, Pia",NED,F,,,,1617,0,20,OCT25,1958,wi
 1073508,"Spuij, Arie",NED,M,,,,1881,0,20,OCT25,1993,
 40118150,"Srivastava, Shaurya",NED,M,,,,1484,13,40,OCT25,2015,
-40108317,"Srivatsa, Kirtin",NED,M,,,,AFM,1829,23,OCT25,2013,
+40108317,"Srivatsa, Kirtin",NED,M,,,,1829,23,,OCT25,2013,
 1083953,"Staal, Ryan",NED,M,,,,1973,0,20,OCT25,2006,i
 1054716,"Stada, Jim",NED,M,,,,1815,0,20,OCT25,1947,i
 1074830,"Stadhouders, Rene",NED,M,,,,1798,0,20,OCT25,1967,
@@ -1286,7 +1286,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1008722,"Van der Linden, Lukas",NED,M,FM,,,2252,0,20,OCT25,1970,i
 1048325,"Van der Linden, Marco",NED,M,,,,2076,0,20,OCT25,1970,i
 1027964,"Van der Linden, Ronald",NED,M,,,,1760,0,20,OCT25,1988,
-1068920,"Van der Lubben, Arno",NED,M,,,,AIM,2058,25,OCT25,2001,
+1068920,"Van der Lubben, Arno",NED,M,,,,2058,25,,OCT25,2001,
 40109658,"Van der Maas, Matthias",NED,M,,,,1602,0,40,OCT25,2012,
 1068393,"Van der Mast, David",NED,M,,,,2017,0,20,OCT25,1985,i
 1012061,"Van der Meiden, Dirk",NED,M,,,,1987,0,20,OCT25,1967,i
@@ -1394,7 +1394,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1003666,"Van Oostrum, Gerrit",NED,M,,,,1972,0,20,OCT25,1952,i
 1048317,"Van Oostrum, Wim",NED,M,,,,1911,0,20,OCT25,1957,i
 1019422,"Van Opheusden, Bas",NED,M,,,,2106,0,20,OCT25,1989,i
-40107825,"Van Opstal, Wout",NED,M,,,,1617,0,40,OCT25,2007,i
+40107825,"Van Opstal, Wout",NED,M,,,,1616,0,40,OCT25,2007,i
 1047051,"Van Orsouw, Theo",NED,M,,,,1886,0,20,OCT25,1960,
 1035967,"Van Osch, Mees",NED,M,FM,,,2244,0,20,OCT25,1993,
 40111121,"Van Oudheusden, Jason",NED,M,,,,1840,0,20,OCT25,1998,i
@@ -1508,14 +1508,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1051083,"Wagenvoorde, Guido",NED,M,,,,2109,0,20,OCT25,2000,i
 1030256,"Wagner, Andre",NED,M,,NA,,1883,0,20,OCT25,1959,i
 1021990,"Wakkee, Colijn",NED,M,,,,1965,0,20,OCT25,1984,i
-1024175,"Wandy, Kasim",NED,M,,,,AFM,1654,0,OCT25,1963,
+1024175,"Wandy, Kasim",NED,M,,,,1654,0,,OCT25,1963,
 1048104,"Warmerdam, Max",NED,M,GM,,,2542,0,10,OCT25,2000,i
 1050036,"Warnaar, Alisha",NED,F,,,,1935,0,20,OCT25,2003,wi
 1060996,"Warnaar, Mark",NED,M,,,,1498,0,20,OCT25,2003,i
 1053787,"Wedda, Dries",NED,M,,,,2070,0,20,OCT25,2002,i
 1059815,"Weijers, Ralf",NED,M,,,,1902,0,20,OCT25,1983,i
 1004182,"Wemmers, Xander",NED,M,IM,,,2332,0,20,OCT25,1974,i
-107210595,"Werkhoven, Gerard",NED,M,,,,AFM,1844,0,OCT25,1963,i
+107210595,"Werkhoven, Gerard",NED,M,,,,1844,0,,OCT25,1963,i
 1014188,"Werkhoven, Maarten",NED,M,,,,1792,0,20,OCT25,1962,
 1007009,"Werksma, Arie",NED,M,,,,2180,0,20,OCT25,1959,i
 1213261,"Werle, Iozefina",NED,F,WGM,WGM,,2255,0,20,OCT25,1989,wi
@@ -1556,14 +1556,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 40102041,"Yantur, Arda",NED,M,,,,1863,24,40,OCT25,2011,
 1003038,"Ydo, Pim",NED,M,,,,1973,0,20,OCT25,1950,
 1058568,"Yeh, Timo",NED,M,,,,1913,0,20,OCT25,2005,i
-40118908,"Yildirim, Efekan",NED,M,,,,1795,0,40,OCT25,2007,
+40118908,"Yildirim, Efekan",NED,M,,,,1794,0,40,OCT25,2007,
 1057928,"Ypma, Jord",NED,M,,,,2009,0,20,OCT25,2002,i
 1027255,"Ypma, Peter",NED,M,FM,,,2237,0,20,OCT25,1992,i
 40109534,"Zaal, Emil",NED,M,,,,1964,0,20,OCT25,1996,i
 1063804,"Zaalmink, Bram",NED,M,,,,1664,0,20,OCT25,2005,i
 40111148,"Zantingh, Kyo",NED,M,,,,1816,0,40,OCT25,2013,i
 1073826,"Zecha, Oscar",NED,M,,,,2029,24,40,OCT25,2011,
-40101932,"Zeenni, Joseph",NED,M,,,,AFM,1821,0,OCT25,2010,
+40101932,"Zeenni, Joseph",NED,M,,,,1821,0,,OCT25,2010,
 40102386,"Zhang, Xiheng",NED,M,,,,1916,23,40,OCT25,2014,
 40109739,"Zhou, Yanyang",NED,M,,,,1659,0,40,OCT25,2014,i
 1080687,"Zhu, Chenwu",NED,M,,,,2210,25,40,OCT25,2009,

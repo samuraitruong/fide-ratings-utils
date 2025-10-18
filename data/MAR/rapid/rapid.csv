@@ -26,8 +26,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9001220,"ADEL, Abdelaziz",MAR,M,,,,2068,0,20,OCT25,1975,
 9034200,"Adouan, Mohamed Taha",MAR,M,,,,1711,0,40,OCT25,2003,
 9003924,"Adraoui, Mbarek",MAR,M,,SI,,1841,0,40,OCT25,1975,
-9034021,"Adzinova, Ailina",MAR,F,,,,ACM,1695,0,OCT25,2007,wi
-9034030,"Adzinova, Salima",MAR,F,,,,AFM,1693,0,OCT25,2013,w
+9034021,"Adzinova, Ailina",MAR,F,,,,1695,0,,OCT25,2007,wi
+9034030,"Adzinova, Salima",MAR,F,,,,1693,0,,OCT25,2013,w
 9050990,"AFANKHAR, ANIR",MAR,M,,,,1799,0,40,OCT25,2010,
 9062360,"AFYF,BADR",MAR,M,,,,1642,0,40,OCT25,2003,
 9024344,"Agouram, Aymane",MAR,M,,,,1979,0,20,OCT25,2001,
@@ -39,7 +39,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9045031,"Aherrass, Mohamed",MAR,M,,,,1886,0,40,OCT25,1999,i
 9018107,AICH NAJIB,MAR,M,,,,1817,0,40,OCT25,2010,i
 9011765,"Ait Bentaleb, Anas",MAR,M,,,,1709,0,40,OCT25,2010,
-9010327,"Ait Bentaleb, Hiba",MAR,F,,,,1679,0,20,OCT25,2006,w
+9010327,"Ait Bentaleb, Hiba",MAR,F,,,,1680,0,20,OCT25,2006,w
 9013733,"Ait Hammou Mohamed, Rayane",MAR,M,,,,1711,0,40,OCT25,2006,i
 9000720,"Aithmidou, Mohamed-Mehdi",MAR,M,FM,,,2249,5,20,OCT25,1990,
 9035036,AITSAIR OUSSAMA,MAR,M,,,,1810,0,40,OCT25,2005,i
@@ -50,7 +50,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9007903,Akil taha,MAR,M,,,,1938,0,20,OCT25,1998,i
 9041320,"Akjouj, Hamza",MAR,M,,,,1862,0,40,OCT25,2002,
 9009922,"Al Fargali, Issam",MAR,M,,,,1792,0,20,OCT25,1980,i
-9007164,Alaissaoui aziz,MAR,M,,NI,,AIM,1973,0,OCT25,1972,i
+9007164,Alaissaoui aziz,MAR,M,,NI,,1973,0,,OCT25,1972,i
 9009710,"Alami Afilal, Khalid",MAR,M,,,,1993,0,20,OCT25,1961,
 9001123,"Alami, Halim",MAR,M,,,,1927,0,20,OCT25,1960,
 9002375,"Alaoui Belghiti, Chaimaa",MAR,F,WFM,WFM,,1807,0,20,OCT25,1998,wi
@@ -123,7 +123,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9035109,BELAYD ZAKARIA,MAR,M,,,,1821,0,40,OCT25,2005,i
 9006540,"Belfaida, Mohammed Reda",MAR,M,,,,1616,0,40,OCT25,2003,
 9047930,"Belfaqih, Youssef",MAR,M,,,,1901,0,40,OCT25,1998,i
-9024115,"Belghali, Amine",MAR,M,,,,1775,0,20,OCT25,1985,
+9024115,"Belghali, Amine",MAR,M,,,,1774,0,20,OCT25,1985,
 9055231,"Belghiti, Yassine",MAR,M,,,,1677,0,40,OCT25,2001,i
 9042954,"Belkhayat Zouggari, Ilyass",MAR,M,,,,1576,0,40,OCT25,2011,
 9042997,"Belkhayat Zouggari, Mohammad Taha",MAR,M,,,,1753,0,40,OCT25,2008,
@@ -158,7 +158,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9024590,"Benlaqlib, Anouar",MAR,M,,,,1824,0,20,OCT25,1993,
 9020039,Benmakhlouf Younes,MAR,M,,,,1808,0,20,OCT25,1989,
 9061045,"BENNANI,MOHAMED AMINE",MAR,M,,,,1822,0,40,OCT25,1970,
-9020403,"Bennis, Saad",MAR,M,,,,AIM,1911,0,OCT25,2010,i
+9020403,"Bennis, Saad",MAR,M,,,,1911,0,,OCT25,2010,i
 9004637,Bensaad AHMED,MAR,M,,,,2067,0,20,OCT25,1988,i
 9059210,"Bensaria, Khalid",MAR,M,,,,1740,0,40,OCT25,1970,i
 9003959,"Bensghir, Imad",MAR,M,,,,1946,0,20,OCT25,1991,i
@@ -175,7 +175,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9047697,"Berraho, Mohamed Adam",MAR,M,,,,1776,0,40,OCT25,2008,i
 9027459,"Berri, Lamyaa",MAR,F,,"DI,SI,NA",,1522,0,40,OCT25,1996,wi
 9026177,"Bertit, Abderrahim",MAR,M,,,,1905,0,20,OCT25,1997,i
-9054987,"Bouaddi, Youssef",MAR,M,,,,AFM,1706,0,OCT25,1992,
+9054987,"Bouaddi, Youssef",MAR,M,,,,1706,0,,OCT25,1992,
 9016171,"Boualkim, Adam",MAR,M,,,,1770,0,40,OCT25,2006,
 9000364,"Bouassria, Mohamed",MAR,M,,,,2055,0,20,OCT25,0,i
 9023240,"Bouayad, Anas",MAR,M,,,,1782,0,20,OCT25,1998,i
@@ -226,7 +226,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9050825,"CHAOUKI, AIMRANE",MAR,M,,,,1527,0,40,OCT25,2012,
 9015884,Charaf asma,MAR,F,,,,1603,0,20,OCT25,1981,wi
 9007733,CHARAFEDDINE SOUSSI,MAR,M,,,,1736,0,40,OCT25,1988,
-9034013,"Charof, Mustapha",MAR,M,,,,ACM,1714,0,OCT25,1972,
+9034013,"Charof, Mustapha",MAR,M,,,,1714,0,,OCT25,1972,
 9035524,CHATIR ABDELAZIZ,MAR,M,,,,1916,0,40,OCT25,1977,i
 9063730,"CHATIR,ILYASSE",MAR,M,,,,1777,0,40,OCT25,2006,
 9063790,"CHATIR,OUSSAMA",MAR,M,,,,1692,0,40,OCT25,2009,
@@ -234,11 +234,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9030026,"Chbbaki, Rayane",MAR,M,,,,1558,0,40,OCT25,2008,i
 9002510,"Chellaf, Abdeslam",MAR,M,,,,1938,0,40,OCT25,1963,i
 9039945,"Chellah, Mourad",MAR,M,,,,1780,0,20,OCT25,1993,i
-9015078,Chemaou lilya,MAR,F,,,,ACM,1592,0,OCT25,2012,w
+9015078,Chemaou lilya,MAR,F,,,,1592,0,,OCT25,2012,w
+9024158,"Chemaou, Malak",MAR,F,,,,1523,8,40,OCT25,2015,w
 9026703,"Chemaou, Mohamed Yassir",MAR,M,,,,1523,0,20,OCT25,1973,i
-9016180,"Chemaou, Nermine",MAR,F,,,,AFM,1421,0,OCT25,2014,w
+9016180,"Chemaou, Nermine",MAR,F,,,,1421,0,,OCT25,2014,w
 9050507,"CHEMLAL, AMIR",MAR,M,,,,1642,0,40,OCT25,2013,i
-9002529,"Cherigui, Mourad",MAR,M,,NA,,AIM,1947,0,OCT25,1987,i
+9002529,"Cherigui, Mourad",MAR,M,,NA,,1947,0,,OCT25,1987,i
 9056408,"Cherqaoui, Anass",MAR,M,,,,1761,0,40,OCT25,1999,i
 9007989,Chia Abdellah,MAR,M,,,,1825,0,20,OCT25,1999,
 9013059,"Chitoukli, Mohamed",MAR,M,,,,1853,0,20,OCT25,1972,i
@@ -255,7 +256,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9047956,"Chrorou, Nour Mohamed",MAR,M,,,,1665,0,40,OCT25,2004,
 9048634,"Chtioui, Mehdi",MAR,M,,,,1714,0,40,OCT25,2006,i
 9057820,"Daghay, Hamdi",MAR,M,,,,1730,0,40,OCT25,1999,
-9049614,"DAHMANI, HAMZA",MAR,M,,,,1585,0,20,OCT25,1986,
+9049614,"DAHMANI, HAMZA",MAR,M,,,,1584,0,20,OCT25,1986,
 9009205,Dahraoui kamal,MAR,M,,,,1727,0,20,OCT25,1984,i
 9048642,"Daoud, Haitam",MAR,M,,,,1635,0,40,OCT25,2006,
 9001069,"Daoudi, Kamal",MAR,M,CM,,,2181,0,20,OCT25,1985,
@@ -270,7 +271,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9049622,"DOUWAH, FARES",MAR,M,,,,1642,0,40,OCT25,2006,i
 9005404,Drais Ali,MAR,M,,,,1901,0,20,OCT25,2002,
 9000305,"Draoui, Najib",MAR,M,FM,,,2248,0,20,OCT25,1974,i
-9005463,Driouich Mohamed Nizar,MAR,M,,,,AIM,2018,0,OCT25,1994,i
+9005463,Driouich Mohamed Nizar,MAR,M,,,,2018,0,,OCT25,1994,i
 9002537,"Echajari, Khalid",MAR,M,,,,2018,0,20,OCT25,1982,
 9011480,Echchaib Adil,MAR,M,,,,1956,0,20,OCT25,1974,i
 9014837,"Echcharbiny, Houda",MAR,F,,,,1723,0,40,OCT25,2007,w
@@ -298,7 +299,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9017640,"EL BAKKALI,WAHB",MAR,M,,,,1859,0,40,OCT25,2007,i
 7811012,"El Bakkar, Rayan",MAR,M,,,,2046,0,40,OCT25,2009,
 9009086,El baouni abdelmoula,MAR,M,,,,1996,0,20,OCT25,1958,i
-26051419,"El Barbry, Sarah",MAR,F,,,,1812,0,20,OCT25,2001,w
+26051419,"El Barbry, Sarah",MAR,F,,,,1810,0,20,OCT25,2001,w
 9005382,"El Baroudi, Abderrahmane",MAR,M,,"NI,NA",,1894,0,20,OCT25,1990,i
 9041036,"El Baz, Ibrahim",MAR,M,,,,1559,0,40,OCT25,2000,
 9060448,"El Boujaadi, Rida",MAR,M,,,,1834,0,40,OCT25,2005,
@@ -367,12 +368,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9041575,"El Mteri, Khadija",MAR,F,,,,1717,0,40,OCT25,2009,w
 9058079,"El Ouaragli, Zayd",MAR,M,,,,1967,0,40,OCT25,2003,i
 9058133,"El Ouarrai, Walid",MAR,M,,,,1770,0,40,OCT25,2004,i
-9025693,"El Qasmi, Mohamed Omar",MAR,M,,,,ACM,1647,0,OCT25,2011,
+9025693,"El Qasmi, Mohamed Omar",MAR,M,,,,1647,0,,OCT25,2011,
 9047433,"EL YAKOUBI,AROUA",MAR,F,,,,1444,0,40,OCT25,2013,wi
 9000488,"El Yazidi, Mustapha",MAR,M,,NA,,1889,0,20,OCT25,1977,i
 9006184,"El, Aradi Issam",MAR,M,,,,1780,0,40,OCT25,1990,
 9002006,"El-Amri, Abdelhafid",MAR,M,,,,1768,0,40,OCT25,1954,i
-9050868,"ELAASRI, OMAR",MAR,M,,,,1664,0,40,OCT25,2009,
+9050868,"ELAASRI, OMAR",MAR,M,,,,1665,0,40,OCT25,2009,
 9016864,Elachhab walid,MAR,M,,,,1876,0,40,OCT25,2008,
 9034765,ELAINI AMINE,MAR,M,,,,1726,0,20,OCT25,1994,i
 9039554,"Elallaoui, Lamya",MAR,F,,,,1682,0,40,OCT25,2008,wi
@@ -395,7 +396,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9057625,"ELHADDADI, ILIAS",MAR,M,,,,1647,0,40,OCT25,2006,
 9034781,ELHADJ KACEM ABDELHAFID,MAR,M,,,,1825,0,20,OCT25,1998,i
 9000518,"Elhaimer, Mohamed",MAR,M,,,,1847,0,20,OCT25,0,i
-9026258,"Elhajoui, Anass",MAR,M,,,,AFM,1791,0,OCT25,2008,i
+9026258,"Elhajoui, Anass",MAR,M,,,,1791,0,,OCT25,2008,i
 9050744,"ELHAMAOUI, ALI",MAR,M,,,,1813,0,40,OCT25,2010,i
 9067833,"Elhamdani,Mahdi",MAR,M,,,,1649,0,40,OCT25,2004,
 9037756,"Elhamri, Yassine",MAR,M,,,,1711,0,40,OCT25,2007,i
@@ -427,7 +428,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9001271,"Erbahi, Fouad",MAR,M,,,,1839,0,20,OCT25,1979,i
 9009310,Erraji AYman,MAR,M,,,,1591,0,40,OCT25,2008,i
 9018514,ERRAJI MALAK,MAR,F,,,,1599,0,40,OCT25,2010,w
-9017062,ERRANDANI ZAKARIA,MAR,M,,,,AFM,1886,0,OCT25,1996,
+9017062,ERRANDANI ZAKARIA,MAR,M,,,,1886,0,,OCT25,1996,
 9044477,"Essadaoui, Zineb",MAR,M,,,,1655,0,40,OCT25,2011,
 9016546,Essagh Aziz,MAR,M,,,,1734,0,20,OCT25,1998,i
 9068554,"Essalhi,Saad",MAR,M,,,,1595,0,40,OCT25,2008,
@@ -449,7 +450,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9007725,"Fariat,Marouan",MAR,M,,,,2098,0,40,OCT25,1991,
 9050345,"FAROUJ, ACHRAF",MAR,M,,,,1799,0,40,OCT25,1993,i
 9007598,FARSAN ISSAM,MAR,M,,,,1894,0,20,OCT25,1982,i
-9046810,"Fatihi, Abderrahman",MAR,M,,,,1689,5,40,OCT25,2004,
+9046810,"Fatihi, Abderrahman",MAR,M,,,,1796,8,40,OCT25,2004,
 9000569,"Fellousi, Abdelaziz",MAR,M,,,,1960,0,20,OCT25,1963,
 9016260,"Fernandou Selvapento, Med Louis",MAR,M,,,,1641,0,40,OCT25,2007,i
 9034331,"Fikry, Abdellatif",MAR,M,,,,1797,0,20,OCT25,1968,i
@@ -462,7 +463,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9034870,GHAITI OMAR,MAR,M,,DI,,1950,0,20,OCT25,1971,i
 9000593,"Ghalmane, Abdelmoujoud",MAR,M,,,,1880,0,20,OCT25,0,i
 9003231,"Ghanoui, Nidal",MAR,M,,,,2084,0,20,OCT25,2000,
-9017437,GHARBOUJ SOUFIANE,MAR,M,,,,AFM,1741,0,OCT25,1992,
+9017437,GHARBOUJ SOUFIANE,MAR,M,,,,1741,0,,OCT25,1992,
 9048022,"Ghilani, Aziz",MAR,M,,,,1734,3,40,OCT25,1968,
 9031979,"Gouhier, Gilles Pierre Roger",MAR,M,,,,1549,0,40,OCT25,1955,
 9013350,Gouiza Khalid,MAR,M,,,,1906,0,20,OCT25,1980,
@@ -473,7 +474,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9011641,"Guedira, Said",MAR,M,,,,1846,0,20,OCT25,1959,
 9003240,"Guemmah, Nasser",MAR,M,,,,1883,0,20,OCT25,2000,i
 9068678,"GUENDOUL,SALMANE",MAR,M,,,,1686,0,40,OCT25,2007,
-9001778,"Gueznai, Achraf",MAR,M,,,,1924,0,20,OCT25,1984,
+9001778,"Gueznai, Achraf",MAR,M,,,,1925,0,20,OCT25,1984,
 9015965,Gzouli hamza,MAR,M,,,,1566,0,40,OCT25,2007,i
 9048030,"Habibi Akka, Jamal",MAR,M,,,,1764,0,40,OCT25,1980,
 9009531,"Haboun, Zakaria",MAR,M,,,,1659,0,20,OCT25,1979,i
@@ -482,7 +483,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9056874,"Haddouch, Hicham",MAR,M,,,,1796,0,40,OCT25,1998,i
 9002910,"Hadj Kacem, Hafid",MAR,M,,,,1865,0,20,OCT25,1959,i
 9003258,"Hadj Kholti, Yasser",MAR,M,CM,,,2219,0,20,OCT25,2002,
-9017119,HADOUANE MOSTAFA,MAR,M,,,,ACM,1783,0,OCT25,1998,i
+9017119,HADOUANE MOSTAFA,MAR,M,,,,1783,0,,OCT25,1998,i
 9011340,"Hadouch, Imad",MAR,M,,,,1911,0,20,OCT25,1996,i
 9014705,haifane sohail,MAR,M,,,,1698,0,20,OCT25,1978,i
 9046879,"Hajji, Haytham",MAR,M,,,,1592,1,40,OCT25,2009,
@@ -491,7 +492,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9049169,"Haliwa, Yoni",MAR,M,,,,1517,0,40,OCT25,2011,i
 9014918,"Hamami, Yassine",MAR,M,,,,1661,0,20,OCT25,1997,i
 9031618,"Hamdan, Kaoutar",MAR,F,,,,1803,0,40,OCT25,1999,wi
-9016520,Hamdouchi Adam,MAR,M,,,,1864,9,40,OCT25,2011,
+9016520,Hamdouchi Adam,MAR,M,,,,1860,9,40,OCT25,2011,
 9000011,"Hamdouchi, Hicham",MAR,M,GM,FT,,2493,0,10,OCT25,1972,
 9003754,"Hamidi, Mly Hfid",MAR,M,,NA,,1874,0,20,OCT25,1997,i
 9004653,hammou hicham,MAR,M,,,,1734,0,20,OCT25,1982,i
@@ -501,7 +502,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9046887,"Hani, Abdelhakim",MAR,M,,,,1640,0,40,OCT25,2001,
 9044906,"Hanif, Ilias",MAR,M,,,,1782,0,40,OCT25,2009,
 9023437,"Hari, Othmane",MAR,M,,,,1698,0,20,OCT25,1997,i
-9018441,"Harrasse,Hamza",MAR,M,,,,AFM,1821,0,OCT25,2001,i
+9018441,"Harrasse,Hamza",MAR,M,,,,1821,0,,OCT25,2001,i
 9009779,"Harrouch, Yassine",MAR,M,,,,1828,0,20,OCT25,1991,i
 9007881,Hassani mohamed,MAR,M,,,,1668,0,40,OCT25,1966,i
 9034536,HASSIK MUSTAPHA,MAR,M,,,,1883,0,20,OCT25,1968,i
@@ -538,7 +539,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9044930,"Jaanit, Khalil",MAR,M,,,,1620,0,40,OCT25,2009,
 9017151,JADBY ABDERRAHIM,MAR,M,,,,1446,0,40,OCT25,2002,i
 9016317,"Jadrahmane, Hachimi",MAR,M,,,,1511,0,40,OCT25,2011,i
-9059326,"Jaidi, Mohammed Taha",MAR,M,,,,1697,0,40,OCT25,1993,
+9059326,"Jaidi, Mohammed Taha",MAR,M,,,,1696,0,40,OCT25,1993,
 9043381,"Jalal, Abdesselam",MAR,M,,,,1961,0,40,OCT25,1967,i
 9006346,"Jalil, Mohamed",MAR,M,,,,1984,0,20,OCT25,1990,i
 9019669,Jallal abderrahmane,MAR,M,,,,1488,0,40,OCT25,2008,i
@@ -552,13 +553,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9067884,"Jitite,Boutaina",MAR,F,,,,1600,0,40,OCT25,2005,w
 9009337,Kacem Rian,MAR,M,IM,,,1887,0,20,OCT25,1959,i
 9034056,"Kadiri, Jalil",MAR,M,,,,1491,0,40,OCT25,1982,i
-9004564,kajaj arsalan,MAR,M,,,,AIM,1917,0,OCT25,1986,
+9004564,kajaj arsalan,MAR,M,,,,1917,0,,OCT25,1986,
 9017160,KAJAJ HOUDAIFA,MAR,M,,,,1516,0,40,OCT25,2011,i
 9000461,"Kamous, ALi",MAR,M,FM,,,2182,0,20,OCT25,1977,
 9024450,"Kandil, Haitam",MAR,M,,,,1661,0,20,OCT25,1990,i
 625736,"Karim, Ismael",MAR,M,IM,FT,,2317,0,20,OCT25,1985,
 9008012,Karkri mohamed,MAR,M,,,,1937,0,20,OCT25,1979,i
 9043365,"Karnas, Ziad",MAR,M,,,,1783,0,40,OCT25,2003,
+9036369,"Karouite, Ahmed",MAR,M,,,,1539,8,40,OCT25,1976,
 9061860,"Karoum,Mohamed",MAR,M,,,,1635,0,40,OCT25,2012,
 9049681,"KARTTI, ZAKARIA",MAR,M,,,,1730,0,40,OCT25,1987,i
 9034161,"Kasri, Mohamed Ali",MAR,M,,,,1754,0,40,OCT25,2010,
@@ -573,11 +575,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9009264,KHABIR FAHD,MAR,M,,NA,,1728,0,20,OCT25,1988,
 9058052,"Khaddi, Kacem",MAR,M,,,,1648,0,40,OCT25,2006,i
 9009990,"Khalis, Ali",MAR,M,,,,1910,0,20,OCT25,1957,i
-9029397,"Khalis, Sophia",MAR,F,,,,1649,0,20,OCT25,1996,w
+9029397,"Khalis, Sophia",MAR,F,,,,1643,0,20,OCT25,1996,w
 9002855,"Khamli, Mustapha",MAR,M,,,,1943,0,20,OCT25,1968,i
 9003355,"Khamli, Raja",MAR,F,,,,1515,0,20,OCT25,2004,wi
 9003363,"Khamli, Yassine",MAR,M,,,,1869,0,20,OCT25,2002,i
-9058044,"Khamlichi, Mohamed Aymen",MAR,M,,,,AFM,1639,0,OCT25,2008,i
+9058044,"Khamlichi, Mohamed Aymen",MAR,M,,,,1639,0,,OCT25,2008,i
 9001026,"Kharbouch, Mounir",MAR,M,,,,2263,0,20,OCT25,0,i
 9049401,"KHATIR, ANAS",MAR,M,,NA,,1867,0,40,OCT25,1999,
 9049967,"KHATRAB, KAMAL",MAR,M,,,,1503,0,40,OCT25,1998,i
@@ -674,15 +676,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7810970,"Messah, Abdelbari",MAR,M,,,,1842,0,20,OCT25,2000,
 9000682,"Messala, Jamal",MAR,M,,"SI,FI,FA",,2005,0,20,OCT25,1980,i
 9001476,"Messala, Noureddine",MAR,M,,"SI,NA",,1997,0,20,OCT25,1990,
-203149,"Metioui, Mourad",MAR,M,,,,AIM,2003,0,OCT25,1967,i
+203149,"Metioui, Mourad",MAR,M,,,,2003,0,,OCT25,1967,i
 9014667,Mezzian noureddine,MAR,M,,,,1797,0,20,OCT25,1988,
 9034064,"MGhari, Anass",MAR,M,,,,1748,0,20,OCT25,1997,i
 9018450,MGHAZLI ILYAS,MAR,M,,,,1877,0,20,OCT25,1998,i
+9002367,"Mguil, Wadie",MAR,M,,,,1904,0,20,OCT25,1978,
 9011684,"Mhamdi Alaoui, Mohamed",MAR,M,,,,2070,0,20,OCT25,1990,i
 9017216,MHAND MOHAMMED,MAR,M,,,,1968,0,20,OCT25,1994,
 9019561,Mhasni Saad,MAR,M,,,,1721,0,40,OCT25,2009,i
-9068910,"MICHAEL DIETER OTTO,BISCOP",MAR,M,,,,1558,0,40,OCT25,1960,
-9017224,MIGUADERN ASMA,MAR,F,,,,1638,0,40,OCT25,2000,w
+9068910,"MICHAEL DIETER OTTO,BISCOP",MAR,M,,,,1557,0,40,OCT25,1960,
+9017224,MIGUADERN ASMA,MAR,F,,,,1639,0,40,OCT25,2000,w
 9011900,"Moayad, Anas",MAR,M,CM,,,1979,0,40,OCT25,2007,
 9047077,"Mohamed Bistarine, P",MAR,M,,,,1613,0,40,OCT25,2007,i
 9018557,MOHAMED REDA HOUSSAINI SQALLI,MAR,M,,,,1687,0,20,OCT25,1989,i
@@ -715,7 +718,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 675938,"Msellek, Ilyass",MAR,M,IM,,,2365,0,20,OCT25,1998,i
 9051260,"MSIID, YOUSSEF",MAR,M,,,,1865,0,40,OCT25,2010,
 9016384,"Myesser, Anas Badr",MAR,M,,,,1706,0,20,OCT25,2001,
-9002367,"M`guil, Wadie",MAR,M,,,,1904,0,20,OCT25,1978,
 9061185,"NABBOU,GHASSANE",MAR,M,,,,1904,6,40,OCT25,2013,
 9035281,NABILI ABDERRAHIM,MAR,M,,,,1752,0,20,OCT25,1997,i
 9034439,NACHAT BADRE,MAR,M,,,,1763,0,20,OCT25,1994,i
@@ -733,7 +735,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9054650,"Najem, Adam",MAR,M,,,,1522,1,40,OCT25,2014,
 9010130,"Najimi, Mohamed Khalil",MAR,M,,,,2063,0,40,OCT25,2008,i
 9015647,"Najimi, Ziad",MAR,M,,,,1601,0,40,OCT25,2013,i
-9011706,"Nasih,Said",MAR,M,,NA,,AIM,2045,0,OCT25,1992,
+9011706,"Nasih,Said",MAR,M,,NA,,2045,0,,OCT25,1992,
 9004696,Nasreddine Fateh,MAR,M,,,,1668,0,20,OCT25,1984,i
 9012150,"Nebkhout, Omar",MAR,M,,,,1769,0,20,OCT25,1981,
 9047115,"Nejjari, Omar",MAR,M,,,,1834,0,40,OCT25,2002,
@@ -767,14 +769,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9025197,"Ouamane, Younes",MAR,M,,,,1598,0,40,OCT25,2010,i
 9026630,"Ouardi, Achraf",MAR,M,,,,1717,0,20,OCT25,1993,i
 9038094,Ouarrach yasser,MAR,M,,,,1572,0,40,OCT25,2013,i
-9004750,Ouaziz Ismail,MAR,M,,NA,,AIM,1951,0,OCT25,1977,
+9004750,Ouaziz Ismail,MAR,M,,NA,,1951,0,,OCT25,1977,
 9004173,"Ouazri, Anass",MAR,M,,,,1991,0,20,OCT25,1997,
 9024832,"Ouazzani, Saad",MAR,M,,,,1773,0,40,OCT25,2007,
 9017674,OUBOUJEMAA Abderrahman,MAR,M,,NA,,1810,0,40,OCT25,1974,
 9007679,OUCHELH MOHAMED,MAR,M,,,,1731,0,20,OCT25,1965,i
 9001921,"Ouchleh, Mohamed",MAR,M,,,,1915,0,20,OCT25,1968,
 9026932,"Oudrhiri, Douae",MAR,F,,,,1668,0,40,OCT25,2008,wi
-9067965,"Oudriouch,Sami",MAR,M,,,,1720,0,40,OCT25,2003,
+9067965,"Oudriouch,Sami",MAR,M,,,,1719,0,40,OCT25,2003,
 9002596,"Oueld El Hachemi, Abdelhaq",MAR,M,,,,1835,0,20,OCT25,0,
 9020756,"Oufqir, Rachid",MAR,M,,,,1892,0,20,OCT25,1996,
 9014284,"Oujaa, Mohamed Lahbib",MAR,M,,NA,,1734,0,20,OCT25,1988,i
@@ -790,7 +792,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9057080,"Oussalah, Hicham",MAR,M,,,,1686,0,40,OCT25,1980,
 9008748,QANDAR MOHAMED,MAR,M,,,,1862,0,20,OCT25,1990,i
 9005200,QARIOUH ANAS,MAR,M,,,,1683,0,20,OCT25,2001,i
-9036628,"Qassoud, Driss",MAR,M,,,,1891,0,20,OCT25,1965,
+9036628,"Qassoud, Driss",MAR,M,,,,1890,0,20,OCT25,1965,
 9057870,"Qatice, Amine",MAR,M,,,,1684,0,40,OCT25,1991,
 9016422,"Raamsis, Youssef",MAR,M,,,,1833,0,20,OCT25,1987,i
 9006869,"Rabhi, Nabil",MAR,M,,,,1753,0,20,OCT25,1982,i
@@ -804,7 +806,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9005439,Rahali Taha,MAR,M,,,,1627,0,20,OCT25,2004,
 9043306,"Rahmoun, Bakr",MAR,M,,,,1734,0,40,OCT25,2003,i
 9014470,"Rahouti, Azedine",MAR,M,,,,1755,0,20,OCT25,1981,
-9040617,"Rais, Naoufal",MAR,M,,,,ACM,1560,0,OCT25,1987,
+9040617,"Rais, Naoufal",MAR,M,,,,1560,0,,OCT25,1987,
 9001930,"Rajraji, Mohamed",MAR,M,,,,1984,0,20,OCT25,0,i
 9027963,Rakrak Mohamed,MAR,M,,,,1814,0,20,OCT25,2002,i
 9025138,"Rami, Elamine",MAR,M,,,,1545,0,20,OCT25,1971,i
@@ -824,7 +826,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9002324,"Rzin, Mehdi",MAR,M,,,,1874,0,20,OCT25,1987,i
 9014683,saadaoui ayoub,MAR,M,,,,1776,0,40,OCT25,1992,
 9000810,"Saber, Anas",MAR,M,,,,2022,0,20,OCT25,0,
-9010980,"Saber, Saad",MAR,M,,,,AIM,1870,0,OCT25,2003,i
+9010980,"Saber, Saad",MAR,M,,,,1870,0,,OCT25,2003,i
 9001948,"Saber, Yasser",MAR,M,,,,2196,0,20,OCT25,1988,i
 9007350,SADIKI RACHID,MAR,M,,,,1710,0,20,OCT25,1980,i
 9020535,"Safraoui, Yassine",MAR,M,,,,1709,0,20,OCT25,2002,i
@@ -883,7 +885,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9040510,"Talibi, Oussama",MAR,M,,,,1742,0,40,OCT25,2001,i
 9035443,TARAFI WALID,MAR,M,,,,1599,0,40,OCT25,2008,i
 9040013,"Tarano Lasarte, Andres",MAR,M,,,,1662,0,20,OCT25,1981,i
-9004769,tarbaoui yassine,MAR,M,,,,1847,0,20,OCT25,1982,
+9004769,tarbaoui yassine,MAR,M,,,,1846,0,20,OCT25,1982,
 9045767,"Tauf, Oussama",MAR,M,,,,1777,0,40,OCT25,2006,i
 9049746,"TAZI, ACHRAF",MAR,M,,,,1706,0,40,OCT25,2000,i
 9002936,"Thaili, Jamal",MAR,M,,,,1852,0,20,OCT25,1962,i
@@ -891,7 +893,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9000240,"Tissir, Mohamed",MAR,M,IM,"FT,FA",,2330,0,10,OCT25,1976,
 9002669,"Tit, Zeyd",MAR,M,,,,1836,0,20,OCT25,1986,
 9025650,"Touahri, Reda",MAR,M,,,,1818,0,20,OCT25,1997,i
-9004246,Toumi Mohamed-Jad,MAR,M,CM,,,1977,0,20,OCT25,2006,
+9004246,Toumi Mohamed-Jad,MAR,M,CM,,,1978,0,20,OCT25,2006,
 9029788,"Tremouille, Antoine",MAR,M,,,,1506,0,40,OCT25,2009,i
 9024433,"Tsertsvadze, Ilya",MAR,M,,,,1819,0,20,OCT25,1991,
 9011714,"Tyarti, Ahmed",MAR,M,,,,1767,0,20,OCT25,1990,i
@@ -901,7 +903,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9047620,"Wahman, Ali",MAR,M,,,,1588,0,40,OCT25,2007,i
 9050361,"WAQIFI, MOHAMMED ABDELILAH",MAR,M,,,,1511,0,40,OCT25,2005,i
 9034528,YAKINE AMINE,MAR,M,,,,1708,0,40,OCT25,2007,
-9021612,"Youssef, Belahsen",MAR,M,,,,AFM,1690,0,OCT25,2007,
+9021612,"Youssef, Belahsen",MAR,M,,,,1689,0,,OCT25,2007,
 9011722,"Youssef, Harrak",MAR,M,,,,1755,0,40,OCT25,1980,
 9013814,"Youssef, Mohamed",MAR,M,,,,1689,7,40,OCT25,2009,
 9052208,"ZAABOUL, GHOFRAN",MAR,F,,,,1771,0,40,OCT25,2007,w
@@ -924,13 +926,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9042725,"Zetati, Abdelhakim",MAR,M,,,,1834,0,20,OCT25,2002,i
 9017305,ZHAR MOHAMMED REDA,MAR,M,,,,1534,0,20,OCT25,2003,i
 9060863,"Ziani, Mohamed Amine",MAR,M,,,,1610,0,40,OCT25,2006,
-9020691,"Ziani, Oubai",MAR,M,,,,AFM,1691,0,OCT25,2007,i
+9020691,"Ziani, Oubai",MAR,M,,,,1691,0,,OCT25,2007,i
 9006958,"Zidane, Chakib",MAR,M,,,,1711,0,20,OCT25,1971,
 9045392,"Zidane, Mehdi",MAR,M,,,,1653,0,40,OCT25,2010,
 9005560,Zidour Charaf-Eddine,MAR,M,,,,1770,0,20,OCT25,1992,i
 9016490,"Zigui, Bouchaib",MAR,M,,,,1744,0,20,OCT25,1968,i
 9014365,"Zilaoui, Mohamed",MAR,M,,,,1825,0,40,OCT25,1986,i
-9068015,"Zinba,Jabess",MAR,M,,,,1767,0,40,OCT25,2000,
+9068015,"Zinba,Jabess",MAR,M,,,,1766,0,40,OCT25,2000,
 9037853,"Zine, Mohamed Taha",MAR,M,,,,1730,0,40,OCT25,2007,
 9002685,"Zitan, Abdelhay",MAR,M,,,,1784,0,20,OCT25,1953,i
 9051996,"Ziti, Lylia",MAR,F,,,,1572,0,40,OCT25,2008,wi

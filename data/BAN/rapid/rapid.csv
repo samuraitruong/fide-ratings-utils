@@ -1,18 +1,18 @@
 ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10245154,"A B M Jobair, Hossain",BAN,M,,,,1738,0,20,OCT25,1998,
 10207538,"A E M, Doshtagir",BAN,M,,,,1902,0,20,OCT25,1974,i
-532004656,"A F M Ehteshamul, Hoque (tuhin",BAN,M,,,,1761,0,40,OCT25,1977,
+532004656,"A F M Ehteshamul, Hoque (tuhin",BAN,M,,,,1760,0,40,OCT25,1977,
 10273611,A F M Ziaur Rahman,BAN,M,,,,1642,0,40,OCT25,2007,i
 10292101,A H Al-Ahsan Abhro,BAN,M,,,,1615,0,40,OCT25,2006,
 532005539,A I Sabbir,BAN,M,,,,1587,0,40,OCT25,1995,
 10215727,"A K M Jane, Alam",BAN,M,,,,1765,0,20,OCT25,1969,i
 10296875,"A K M Nubair, Karim",BAN,M,,,,1536,0,40,OCT25,2016,
 10240080,"A R Zahangir, Alam",BAN,M,,,,1966,0,20,OCT25,1979,i
-10291695,"A S M Mashrur, Zaman",BAN,M,,,,1613,0,40,OCT25,2008,
+10291695,"A S M Mashrur, Zaman",BAN,M,,,,1614,0,40,OCT25,2008,
 10287884,"A S M Soyaeb, Reza",BAN,M,,,,1696,0,40,OCT25,2006,
 10246762,"A, H M Moinuddin",BAN,M,,,,1607,0,40,OCT25,1951,i
 10257853,"A, L M Wayes Faruki",BAN,M,,,,1819,0,40,OCT25,2015,
-10247360,"A, N M Ziaul Islam Mithu",BAN,M,,,,ACM,1708,0,OCT25,1974,i
+10247360,"A, N M Ziaul Islam Mithu",BAN,M,,,,1708,0,,OCT25,1974,i
 10202650,"A. K. Azad, Akhond",BAN,M,,,,1819,0,20,OCT25,1971,i
 10220518,"A. K. M., Kamruzzaman",BAN,M,,,,1914,0,20,OCT25,1978,i
 10201971,"A.f.m., Mahfuzul Haque",BAN,M,,,,1848,0,20,OCT25,0,i
@@ -46,9 +46,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10236945,"Abdul, Hamid",BAN,M,,,,1635,0,20,OCT25,1998,i
 532003145,"Abdul, Haque",BAN,M,,,,1869,0,40,OCT25,1971,
 10247580,"Abdul, Jalil",BAN,M,,,,1866,0,20,OCT25,1977,
-532017375,"Abdul, Khaleque",BAN,M,,,,1555,0,40,OCT25,1979,
-10244700,"Abdul, Kuddus",BAN,M,,,,1785,0,20,OCT25,1975,i
+532017375,"Abdul, Khaleque",BAN,M,,,,1556,0,40,OCT25,1979,
 10297545,"Abdul, Kuddus",BAN,M,,,,1908,0,40,OCT25,1982,
+10244700,"Abdul, Kuddus",BAN,M,,,,1785,0,20,OCT25,1975,i
 10293043,"Abdul, Mannan",BAN,M,,,,1728,0,40,OCT25,1977,i
 10215000,"Abdul, Mannan",BAN,M,,,,1783,0,20,OCT25,0,i
 532007043,"Abdul, Matin",BAN,M,,,,1498,5,40,OCT25,1979,
@@ -69,7 +69,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10217355,"Abdullah Al, Muhit",BAN,M,,,,1845,0,20,OCT25,1999,i
 532014058,"Abdullah Al, Nahian",BAN,M,,,,1711,0,40,OCT25,1996,
 532008600,"Abdullah Bin, Amin",BAN,M,,,,1800,0,40,OCT25,1995,
-532022158,"Abdullah Ehsan, Jubayer",BAN,M,,,,1672,0,40,OCT25,2009,
+532022158,"Abdullah Ehsan, Jubayer",BAN,M,,,,1671,0,40,OCT25,2009,
 10290176,"Abdullah Farook, Popel",BAN,M,,,,1668,0,40,OCT25,1978,
 532005148,"Abdullah Mohammad, Mahi",BAN,M,,,,1546,0,40,OCT25,2011,
 532012403,"Abdullah Muhammad, Mahi",BAN,M,,,,1661,0,40,OCT25,2011,
@@ -96,14 +96,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10247262,"Abdur, Rouf Khan",BAN,M,,,,1611,0,20,OCT25,2001,i
 10255940,"Abdur, Salam",BAN,M,,,,1791,0,20,OCT25,1975,
 10283994,"Abdus, Salam",BAN,M,,,,1617,0,40,OCT25,1976,
-532003560,"Abdus, Salam",BAN,M,,,,1594,0,40,OCT25,1987,i
 10271295,"Abdus, Salam",BAN,M,,,,1817,0,20,OCT25,1968,
+532003560,"Abdus, Salam",BAN,M,,,,1594,0,40,OCT25,1987,i
 532007280,"Abdus, Sattar",BAN,M,,,,1937,0,20,OCT25,1990,
 10207988,"Abedin, Md. Afanur",BAN,M,,,,1735,0,20,OCT25,1984,i
 10203338,"Abedin, Md. Jaynul",BAN,M,,,,1822,0,20,OCT25,1976,
 10200193,"Abedin, Zainal",BAN,M,,,,1929,0,20,OCT25,1980,i
 10285059,"Abhijit, Dutta",BAN,M,,,,1642,0,40,OCT25,2008,
-10211152,"Abhijit, Mondal",BAN,M,,,,AFM,1870,0,OCT25,1993,i
+10211152,"Abhijit, Mondal",BAN,M,,,,1870,0,,OCT25,1993,i
 10248668,"Abid Hasan, Antor",BAN,M,,,,1914,0,40,OCT25,1996,
 10266550,"Abid, Hasan",BAN,M,,,,1825,0,40,OCT25,2010,
 10260935,"Abid, Hossain Abir",BAN,M,,,,1655,5,40,OCT25,1997,
@@ -113,10 +113,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10260943,"Abraham, Howlader",BAN,M,,,,1687,0,40,OCT25,2005,
 10266631,"Abrar, Ajim, Mahi",BAN,M,,,,1533,0,40,OCT25,2013,i
 532023642,"Abrar, Jahin",BAN,M,,,,1697,0,40,OCT25,2009,
-10275720,"Abrar, Reazul Ahnaf Mohammad",BAN,M,,,,ACM,1732,0,OCT25,2016,
+10275720,"Abrar, Reazul Ahnaf Mohammad",BAN,M,,,,1733,0,,OCT25,2016,
 532003382,"Abrar, Sarker",BAN,M,,,,1799,0,40,OCT25,2008,
 10286241,"Abrar, Uddin",BAN,M,,,,1686,0,40,OCT25,2009,i
-10297995,"Abrar, Yasir Jaiyan",BAN,M,,,,1731,4,40,OCT25,2011,
+10297995,"Abrar, Yasir Jaiyan",BAN,M,,,,1732,4,40,OCT25,2011,
 10269568,"Abrar, Zaheen",BAN,M,,,,1786,0,40,OCT25,2008,
 10289240,"Abrar, Zaman",BAN,M,,,,1917,0,40,OCT25,2007,
 10212418,"Abu Foez, Md. Nayem",BAN,M,,,,1859,0,20,OCT25,1981,i
@@ -142,8 +142,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10272992,"Abul Bashar, Mohammad",BAN,M,,,,1663,0,20,OCT25,1977,i
 10233180,"Abul Kalam Molla, Md.",BAN,M,,,,1838,0,20,OCT25,1963,
 532023898,"Abul Kalam, Azad",BAN,M,,,,1609,6,40,OCT25,1975,
-10205349,"Abul Kalam, Azad",BAN,M,,,,1682,0,40,OCT25,0,
 10244182,"Abul Kalam, Azad",BAN,M,,,,1771,0,20,OCT25,1972,i
+10205349,"Abul Kalam, Azad",BAN,M,,,,1682,0,40,OCT25,0,
 10212183,"Abul Kalam, Azad Lilu",BAN,M,,,,1991,0,20,OCT25,1972,i
 532000073,"Abul Kalam, Khan",BAN,M,,,,1493,0,40,OCT25,1963,
 10202005,"Abul, Hasnat",BAN,M,,,,1865,0,20,OCT25,0,
@@ -161,6 +161,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532006870,"Adian, Hossain",BAN,M,,,,1448,0,40,OCT25,2012,
 10275592,"Adiatzzaman, Sarkar",BAN,M,,,,1824,0,40,OCT25,2006,
 10242058,"Adib Mohammad, Mahin",BAN,M,,,,1629,0,20,OCT25,2004,i
+532020619,"Adil, Ahnaf",BAN,M,,,,1586,6,40,OCT25,2014,
 10298339,"Aditta, Roy Adi",BAN,M,,,,1686,0,40,OCT25,2010,
 10258221,"Aditya, Chakraborty",BAN,M,,,,1692,0,40,OCT25,2001,i
 10285075,"Aditya, Das",BAN,M,,,,1493,0,40,OCT25,2007,i
@@ -182,12 +183,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10251847,"Afif, Chowdhury Eshin",BAN,M,,,,1698,0,40,OCT25,2009,i
 10272925,"Afif, Newaj",BAN,M,,,,1644,0,40,OCT25,2008,
 10279407,"Afnan, Islam",BAN,M,,,,1584,0,40,OCT25,2010,i
-10265171,"Afnan, Zarif Haque",BAN,M,,,,2029,0,40,OCT25,2008,
+10265171,"Afnan, Zarif Haque",BAN,M,,,,2030,0,40,OCT25,2008,
 10277005,"Afraj, Areeb",BAN,M,,,,1457,0,40,OCT25,2013,
 10212582,"Afrin Jahan, Munia",BAN,F,,,,1801,0,20,OCT25,1998,wi
 10288651,"Afsan Abdullah, Yousuf",BAN,M,,,,1689,0,40,OCT25,2011,
 10285660,"Afsara Afrin, Binte Faisal",BAN,F,,,,1455,0,40,OCT25,2012,w
-10297316,"Afshan Ahliat, Kreste",BAN,F,,,,1412,1,40,OCT25,2016,w
+10297316,"Afshan Ahliat, Kreste",BAN,F,,,,1411,1,40,OCT25,2016,w
 10201530,"Afzal, Kazi Md. Mahbub",BAN,M,,FA,,1852,0,20,OCT25,1967,
 10208313,"Ahad, Syed Abdul",BAN,M,,NI,,1751,0,20,OCT25,1974,
 10203834,"Ahammed, Nure Alam",BAN,M,,,,1815,0,20,OCT25,1976,i
@@ -217,7 +218,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10201564,"Ahmed, Shafiq",BAN,M,CM,,,2041,0,20,OCT25,1976,
 10200525,"Ahmed, Sheikh Nasir",BAN,M,FM,,,2122,0,20,OCT25,1975,
 10201335,"Ahmed, Tanvir",BAN,M,,,,1874,0,20,OCT25,0,i
-2831193,"Ahmed, Walijah",BAN,F,WCM,WCM,,1940,0,20,OCT25,2003,w
+2831193,"Ahmed, Walijah",BAN,F,WCM,WCM,,1941,0,20,OCT25,2003,w
 10274219,"Ahmed, Yarup",BAN,M,,,,1714,0,20,OCT25,1982,i
 10227962,"Ahmedullah, Santo",BAN,M,,,,1809,0,20,OCT25,1986,i
 10269592,"Ahnaf Rashid, Chowdhury",BAN,M,,,,1832,0,40,OCT25,2009,
@@ -226,7 +227,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10261095,"Ahnaf, Hossain",BAN,M,,,,1652,3,40,OCT25,2007,
 10276572,"Ahnaf, Rahman",BAN,M,,,,1605,0,40,OCT25,2007,i
 10291733,"Ahnaf, Sadik",BAN,M,,,,1668,0,40,OCT25,2009,
-10287477,"Ahnaf, Shehzaad",BAN,M,,,,1708,7,40,OCT25,2014,
+10287477,"Ahnaf, Shehzaad",BAN,M,,,,1709,7,40,OCT25,2014,
 10247505,"Ahnaf, Sulaiman",BAN,M,,,,1638,0,20,OCT25,2004,
 10267875,"Ahnaf, Tahmid Daian",BAN,M,,,,1738,0,40,OCT25,2010,
 10294937,"Ahnoar, Pasha",BAN,M,,,,1782,0,40,OCT25,1982,i
@@ -295,7 +296,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532021585,"Ali, Md? Sahadot",BAN,M,,,,1787,0,40,OCT25,1984,
 10207554,"Ali, Mir Mosharraf",BAN,M,,,,1856,0,20,OCT25,1962,i
 10203699,"Ali, Mohammad",BAN,M,,,,1710,0,20,OCT25,1975,i
-10202684,"Ali, Mohammad Amir",BAN,M,,,,AIM,1857,0,OCT25,1977,i
+10202684,"Ali, Mohammad Amir",BAN,M,,,,1857,0,,OCT25,1977,i
 10203346,"Ali, Mohammad Imran",BAN,M,,,,2121,0,20,OCT25,1989,
 10223037,"Alif, Hossain",BAN,M,,,,1829,0,20,OCT25,1972,i
 10249583,"Alim, Khan",BAN,M,,,,1758,0,20,OCT25,1994,i
@@ -320,9 +321,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10216227,"Amir, Sohel",BAN,M,,,,1893,0,20,OCT25,1984,i
 10225269,"Amit Bikram, Roy",BAN,M,,,,1889,0,20,OCT25,2002,
 10282025,"Amit, Chakroborty",BAN,M,,,,1714,0,20,OCT25,1998,
-532009208,"Amitabh, Khan",BAN,M,,,,1510,0,40,OCT25,2013,
+532009208,"Amitabh, Khan",BAN,M,,,,1511,0,40,OCT25,2013,
 10294996,"Amitava, Sarkar",BAN,M,,,,1603,0,40,OCT25,2010,i
-532010729,"Amiya, Sarker",BAN,M,,,,1541,0,40,OCT25,2013,
+532010729,"Amiya, Sarker",BAN,M,,,,1543,0,40,OCT25,2013,
 10249001,"Amkar, Dhar",BAN,M,,,,1554,0,20,OCT25,2004,i
 10296778,"Amran, Hossain",BAN,M,,,,1673,5,40,OCT25,1995,
 10287485,"Anahid, Ashraf",BAN,M,,,,1672,0,40,OCT25,2010,
@@ -334,18 +335,18 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10269363,"Ananta Noor, Anan",BAN,M,,,,1734,0,20,OCT25,2000,i
 10273026,"Anarul, Haque",BAN,M,,,,1809,0,20,OCT25,1987,i
 10230408,"Anas, Marwah",BAN,M,,,,1806,0,20,OCT25,1995,i
-10215026,"Anata, Choudhury",BAN,M,,,,2255,0,20,OCT25,2000,
+10215026,"Anata, Choudhury",BAN,M,,,,2256,0,20,OCT25,2000,
 10269290,"Anik, Barman",BAN,M,,,,1651,0,40,OCT25,1998,
 10269053,"Anik, Roy",BAN,M,,,,1693,0,20,OCT25,2001,i
 10213341,"Animesh, Khashkel",BAN,M,,,,1821,0,20,OCT25,1997,
-10258256,"Aninda Rrick, Digbijoy",BAN,M,,,,1624,0,40,OCT25,2013,
+10258256,"Aninda Rrick, Digbijoy",BAN,M,,,,1623,0,40,OCT25,2013,
 10293400,"Anindaya, Kar Chowdury",BAN,M,,,,1834,0,40,OCT25,2011,i
 10246789,"Anindya Singha , Argho",BAN,M,,,,1940,0,20,OCT25,2006,i
 10259759,"Anindya, Arannyak",BAN,M,,,,1445,0,40,OCT25,2012,
 10284001,"Anirban, Biswas",BAN,M,,,,1608,0,40,OCT25,2014,
 10269371,"Anirban, Saha",BAN,M,,,,1479,0,40,OCT25,2010,
 10260528,"Anis, Ahmed",BAN,M,,,,1796,0,40,OCT25,1974,i
-10215956,"Anis, Sikder",BAN,M,,,,1873,0,20,OCT25,1985,
+10215956,"Anis, Sikder",BAN,M,,,,1872,0,20,OCT25,1985,
 10270655,"Anis, Uzzaman",BAN,M,,,,1806,0,20,OCT25,1999,
 10231676,"Anisur , Rahman",BAN,M,,,,1799,5,20,OCT25,1983,
 10267638,"Anisur, Rahman",BAN,M,,,,1724,0,20,OCT25,1973,i
@@ -408,7 +409,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532009763,"Arnab, Dutta",BAN,M,,,,1697,3,40,OCT25,2007,
 10273620,"Aroj, Ali",BAN,M,,,,1644,0,20,OCT25,1996,i
 532003420,"Arpon, Mazumder Arghya",BAN,M,,,,1541,0,40,OCT25,2008,
-532017014,"Arup Kumar, Das",BAN,M,,,,1583,0,40,OCT25,2001,
+532017014,"Arup Kumar, Das",BAN,M,,,,1584,0,40,OCT25,2001,
 10225099,"Arup Kumar, Mondal",BAN,M,,,,1784,0,20,OCT25,1976,
 10282041,"Arup, Aich",BAN,M,,,,1661,0,40,OCT25,2001,
 10229612,"Arup, Golder",BAN,M,,,,2007,5,20,OCT25,1984,
@@ -458,11 +459,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532011164,"Aurpit, Sarker",BAN,M,,,,1611,8,40,OCT25,2009,
 532016549,"Avijit, Samadder",BAN,M,,,,1579,0,40,OCT25,1987,
 10211187,"Avik, Sarker",BAN,M,CM,,,2055,0,20,OCT25,1996,
-10253904,"Avishek Roy , Archan",BAN,M,,,,1755,0,20,OCT25,1997,
+10253904,"Avishek Roy , Archan",BAN,M,,,,1756,0,20,OCT25,1997,
 10263667,"Avishek, Das",BAN,M,,,,1619,2,40,OCT25,2010,
 10236627,"Avishek, Das",BAN,M,,,,1690,0,20,OCT25,2004,i
 10278877,"Avrajit Saha, Atul",BAN,M,,,,1734,0,40,OCT25,2008,
-10287604,"Awsaf, Chowdhury",BAN,M,,,,1718,0,40,OCT25,2012,
+10287604,"Awsaf, Chowdhury",BAN,M,,,,1719,0,40,OCT25,2012,
 10222863,"Ayaana, Chowdhury",BAN,F,,,,1606,0,20,OCT25,2003,wi
 532006896,"Ayan Reza, Aolad",BAN,M,,,,1663,0,40,OCT25,2012,
 10261893,"Ayan, Krishna Paul",BAN,M,,,,1563,0,20,OCT25,2004,i
@@ -473,7 +474,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10246266,"Ayman, Ahmed",BAN,M,,,,1591,0,40,OCT25,2006,
 10269665,"Aysha Akter, Habiba",BAN,F,,,,1478,0,40,OCT25,2011,w
 10250557,"Aysha, Siddika",BAN,F,,,,1742,0,40,OCT25,2012,w
-10283668,"Azaan, Mahmood",BAN,M,,,,1662,0,40,OCT25,2017,
+10283668,"Azaan, Mahmood",BAN,M,,,,1665,0,40,OCT25,2017,
 532017553,"Azaanul, Muhaimeen",BAN,M,,,,1518,0,40,OCT25,2014,
 10299955,"Azad, Fahim Bin",BAN,M,,,,1545,0,40,OCT25,2005,i
 532027869,"Azfar, Ahil",BAN,M,,,,1605,0,40,OCT25,2016,
@@ -489,7 +490,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10231498,"Bablu, Sheikh",BAN,M,,,,1818,0,20,OCT25,1976,i
 10205179,"Babul, Mollick",BAN,M,,,,1859,16,20,OCT25,1973,
 10227024,"Babul, Morol",BAN,M,,,,1865,3,20,OCT25,1992,
-10235302,Badal Das,BAN,M,,,,1667,0,40,OCT25,1970,
+10235302,Badal Das,BAN,M,,,,1668,0,40,OCT25,1970,
 10214259,"Badal, Halder",BAN,M,,,,1910,0,20,OCT25,1983,
 10284710,"Badhan, Roy",BAN,M,,,,1613,0,40,OCT25,1997,
 10204300,"Badiul, Alam",BAN,M,,,,1780,0,20,OCT25,0,i
@@ -502,7 +503,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10280596,"Bala Shimon, Harichand",BAN,M,,,,1868,0,20,OCT25,1979,i
 10280600,"Bala, Ashim",BAN,M,,,,1886,0,20,OCT25,1984,
 10267379,"Bala, Kamol",BAN,M,,,,1747,6,20,OCT25,1981,
-10290222,"Baniyamin Robin, Rahman",BAN,M,,,,1545,0,40,OCT25,2000,
+10290222,"Baniyamin Robin, Rahman",BAN,M,,,,1546,0,40,OCT25,2000,
 10204067,"Bappi, A.b.",BAN,M,,,,1948,6,20,OCT25,1975,
 10235434,"Barek, Hossain",BAN,M,,,,1699,0,20,OCT25,1993,i
 10208364,"Barua(patharghata), Sumon",BAN,M,,,,1902,0,20,OCT25,0,i
@@ -514,7 +515,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10289720,"Bashar, Md Abul",BAN,M,,,,1730,0,40,OCT25,1976,i
 10249621,"Basudeb, Poddar",BAN,M,,,,1734,0,20,OCT25,1982,i
 10200878,"Begum, Masuda",BAN,F,,,,1886,0,20,OCT25,1963,wi
-532018240,"Belal Hossain, Nazat",BAN,M,,,,1512,3,40,OCT25,2018,
+532018240,"Belal Hossain, Nazat",BAN,M,,,,1513,3,40,OCT25,2018,
 10226109,"Belal, Hossain",BAN,M,,,,1720,0,20,OCT25,1967,i
 10298800,"Belal, Hossen",BAN,M,,,,1770,0,40,OCT25,1977,
 10276084,"Bellal, Hossain",BAN,M,,,,1791,7,40,OCT25,2000,
@@ -527,7 +528,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532005032,"Bijit, Singha",BAN,M,,,,1564,0,40,OCT25,1992,
 10280219,"Bijoy Kumar, Paul",BAN,M,,,,1829,0,40,OCT25,2006,
 532006675,"Bijoy, Kumar",BAN,M,,,,1700,0,40,OCT25,2004,
-532001240,"Bijoy, Marma",BAN,M,,,,1591,5,40,OCT25,2007,
+532001240,"Bijoy, Marma",BAN,M,,,,1590,5,40,OCT25,2007,
 10205187,"Bikas, Ranjan Das",BAN,M,,NA,,1956,0,20,OCT25,0,i
 10249630,"Bikash, Shill",BAN,M,,,,1819,0,20,OCT25,1991,i
 532006403,"Bikorno, Shikder",BAN,M,,,,1728,0,40,OCT25,1980,
@@ -584,7 +585,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10277110,"Chowdhury, Sarjil Jawad",BAN,M,,,,1631,0,40,OCT25,2008,i
 532006411,"Chowdhury, Shahin Alam",BAN,M,,,,1688,0,40,OCT25,1986,
 10207570,"Chowdhury, Shajjad Hossain",BAN,M,,,,1731,0,20,OCT25,0,
-10201114,"Chowdhury, Sohel",BAN,M,CM,,,2112,0,20,OCT25,1972,
+10201114,"Chowdhury, Sohel",BAN,M,CM,,,2113,0,20,OCT25,1972,
 10204814,"Chowdhury, Touhidul Bari Sadi",BAN,M,,,,1837,0,20,OCT25,1972,i
 10279350,"Chowdury, Muhammad Ayaan Zaman",BAN,M,,,,1468,0,40,OCT25,2012,
 10223266,"Christopher, Roy",BAN,M,,,,1898,0,40,OCT25,2005,i
@@ -629,7 +630,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10277129,"Dhritiman, Mazumder",BAN,M,,,,1502,0,40,OCT25,2014,
 10254390,"Dhrubo , Bari",BAN,M,,,,1678,0,40,OCT25,2005,i
 10297642,"Dhrubojyoti, Mutsuddy",BAN,M,,,,1605,0,40,OCT25,2011,i
-532018983,"Dibakar, Chakma",BAN,M,,,,1903,0,40,OCT25,1993,
+532018983,"Dibakar, Chakma",BAN,M,,,,1904,0,40,OCT25,1993,
 10221662,"Dibakar, Dibya",BAN,M,,,,1827,0,20,OCT25,2002,i
 10255036,"Dibayendu, Debnath",BAN,M,,,,1483,0,40,OCT25,2010,
 10233830,"Dibya, Das Gupta",BAN,M,,,,2092,7,20,OCT25,2004,
@@ -701,10 +702,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10267000,"Faisal, Mohammed Pasha",BAN,M,,,,1638,0,20,OCT25,1992,i
 10260960,"Faiyaz, Chowdhury",BAN,M,,,,1702,7,40,OCT25,2009,
 10237534,"Faiyaz, Mahmud",BAN,M,,,,1555,0,40,OCT25,2005,i
-10249010,"Faiyaz, Mahmud Nirob",BAN,M,,,,AFM,1732,0,OCT25,2005,i
+10249010,"Faiyaz, Mahmud Nirob",BAN,M,,,,1732,0,,OCT25,2005,i
 10212213,"Faizul , Anam",BAN,M,,NA,,1843,0,20,OCT25,1973,
 10221700,"Fakir Md., Ariful Islam",BAN,M,,,,1815,0,20,OCT25,1979,
-10208550,Fakruddin Khan,BAN,M,,,,AFM,1610,0,OCT25,1986,
+10208550,Fakruddin Khan,BAN,M,,,,1610,0,,OCT25,1986,
 10259414,"Fardin, Haque",BAN,M,,,,1668,0,20,OCT25,1998,i
 532011202,"Fardin, Helal",BAN,M,,,,1773,0,40,OCT25,2000,
 10200452,"Fardous, Mahbub Ali",BAN,M,,,,2097,0,20,OCT25,0,i
@@ -721,12 +722,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10294511,"Farhan, Labib",BAN,M,,,,1493,0,40,OCT25,2003,i
 10277153,"Farhan, Nur Hamim",BAN,M,,,,1602,0,40,OCT25,2008,
 10224238,"Farhim Alam, Chowdhury",BAN,M,,,,1782,0,20,OCT25,1981,
-532010770,"Farian, Hyder",BAN,M,,,,1659,0,40,OCT25,2009,
+532010770,"Farian, Hyder",BAN,M,,,,1660,0,40,OCT25,2009,
 10277161,"Fariha, Alam",BAN,F,,,,1552,0,40,OCT25,2006,w
 10253343,"Fariha, Sumona",BAN,F,,NA,,1711,0,20,OCT25,2002,w
 10280634,"Fariya, Jahan Sohani",BAN,F,,,,1521,0,40,OCT25,2011,w
 10273638,Farsat Hossain Ayyaan,BAN,M,,,,1509,0,40,OCT25,2015,
-10202900,"Faruk, Mallik",BAN,M,,,,1750,7,20,OCT25,1971,
+10202900,"Faruk, Mallik",BAN,M,,,,1751,7,20,OCT25,1971,
 10279288,"Farzad, Areen",BAN,M,,,,1742,0,40,OCT25,2004,
 10235710,"Fatema , Hasan Diya",BAN,M,,,,1573,0,40,OCT25,2008,i
 10243933,"Fatiha, Eyenoon Diya",BAN,F,,,,1558,0,40,OCT25,2009,wi
@@ -748,7 +749,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532014082,"Firoj, Kabir",BAN,M,,,,1694,0,40,OCT25,1967,
 10227580,"Firoz Uddin , Bahar",BAN,M,,,,1720,0,40,OCT25,1968,i
 10254412,"Flint, Rahman",BAN,M,,,,1519,0,20,OCT25,1987,i
-10294864,"FM, Sharafatul Islam",BAN,M,,NA,,AFM,1738,0,OCT25,1992,
+10294864,"FM, Sharafatul Islam",BAN,M,,NA,,1738,0,,OCT25,1992,
 10239545,"Foez, Mohammad Toasin",BAN,M,,,,1781,0,40,OCT25,2009,i
 10237992,"Fojal , Ahamed Aakash",BAN,M,,,,1825,0,20,OCT25,1997,i
 10289526,"Fuad, Al Hasib",BAN,M,,,,1613,0,40,OCT25,1999,
@@ -772,8 +773,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10201858,"Ghosh, Chanchal Kumer",BAN,M,CM,FI,,2130,7,20,OCT25,1977,
 10202617,"Gias Uddin, Ahmed",BAN,M,,,,1946,0,20,OCT25,1978,
 10261133,"Gias, Uddin",BAN,M,,,,1692,0,20,OCT25,1998,i
-10239553,"Gias, Uddin",BAN,M,,,,1794,0,40,OCT25,1980,i
 10262890,"Gias, Uddin",BAN,M,,,,1813,0,20,OCT25,1999,i
+10239553,"Gias, Uddin",BAN,M,,,,1794,0,40,OCT25,1980,i
 10238646,"Gm, Junayed",BAN,M,,,,1708,0,20,OCT25,1998,i
 10226885,"Golam Hafijul, Hoque",BAN,M,,,,1735,0,20,OCT25,1971,i
 10276890,"Golam Md Sani, Yasnain",BAN,M,,,,1608,0,40,OCT25,2010,i
@@ -781,7 +782,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10230068,"Golam, Kibria",BAN,M,,,,1775,0,20,OCT25,2002,i
 10253645,"Golam, Kibria",BAN,M,,,,1640,0,20,OCT25,1971,
 10258850,"Golam, Kibria",BAN,M,,,,1860,0,40,OCT25,1993,
-10212248,"Golam, Sorowar",BAN,M,,,,1803,0,20,OCT25,1976,
+10212248,"Golam, Sorowar",BAN,M,,,,1804,0,20,OCT25,1976,
 10230270,"Golam, Yeazdani",BAN,M,,,,1670,0,20,OCT25,1992,i
 10228446,"Golenur, Miah",BAN,M,,,,1557,0,20,OCT25,1969,
 10256962,"Goljar, Hossain",BAN,M,,,,1669,0,40,OCT25,1981,
@@ -803,8 +804,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10293582,"Habibur Rahman, Khan",BAN,M,,,,1865,0,40,OCT25,1974,i
 10262180,"Habibur Rahman, Prince",BAN,M,,,,1900,0,20,OCT25,1998,i
 10205373,"Habibur Rahman, Sohel",BAN,M,,,,1987,0,20,OCT25,0,i
-532003579,"Habibur, Rahman",BAN,M,,,,1880,0,40,OCT25,1972,i
 532023324,"Habibur, Rahman",BAN,M,,,,1617,0,40,OCT25,1976,
+532003579,"Habibur, Rahman",BAN,M,,,,1880,0,40,OCT25,1972,i
 532002920,"Hafijul, Alam Noyan",BAN,M,,,,1955,0,40,OCT25,2001,
 10222340,"Hafizul, Islam",BAN,M,,,,1716,0,40,OCT25,2001,i
 10236040,"Hafizul, Rahman",BAN,M,,,,1853,0,20,OCT25,1983,i
@@ -856,7 +857,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10237070,"Hasan, Rabbi",BAN,M,,,,1757,0,20,OCT25,1994,i
 10232168,"Hasan, Rafiqul",BAN,M,,,,1659,0,20,OCT25,1981,i
 10232060,"Hasan, Rajib",BAN,M,,,,1895,0,20,OCT25,1986,i
-10202730,"Hasan, Sk. Rashedul",BAN,M,,,,1992,0,20,OCT25,1980,
+10202730,"Hasan, Sk. Rashedul",BAN,M,,,,1993,0,20,OCT25,1980,
 532016310,"Hashem, Abu Abrar",BAN,M,,,,1605,0,40,OCT25,2009,
 10294902,"Hasib, Bin Raihan",BAN,M,,,,1600,0,40,OCT25,2008,i
 10248315,"Hasin Raihan, Abir",BAN,M,,,,1764,0,20,OCT25,1997,i
@@ -875,7 +876,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532017740,"Himel, Khan",BAN,M,,,,1502,0,40,OCT25,2005,
 10276602,"Hira, Ahmed",BAN,M,,,,1906,0,40,OCT25,1982,i
 532011245,"Hm, Shahariar",BAN,M,,,,1517,0,40,OCT25,1990,
-532018797,"Hobykul Islam, Emon",BAN,M,,,,1695,0,40,OCT25,1990,
+532018797,"Hobykul Islam, Emon",BAN,M,,,,1696,0,40,OCT25,1990,
 532026250,"Hoqe, Md? Azizul",BAN,M,,,,1797,0,40,OCT25,1995,
 532006926,"Hosam, Md Sheraj",BAN,M,,,,1753,0,40,OCT25,1980,
 10259422,"Hosen, Md Emarat",BAN,M,,,,1695,0,20,OCT25,1999,i
@@ -898,12 +899,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10299580,"Hossain, Ikram",BAN,M,,,,1640,0,40,OCT25,2006,
 10220330,"Hossain, Kazi Iquball",BAN,M,,,,1773,0,20,OCT25,1978,i
 532023502,"Hossain, Md Iftikhar",BAN,M,,,,1726,4,40,OCT25,1997,
-10214364,"Hossain, Md. Akmol",BAN,M,,,,1929,0,20,OCT25,1970,
+10214364,"Hossain, Md. Akmol",BAN,M,,NA,,1929,0,20,OCT25,1970,
 10202757,"Hossain, Md. Alamgir",BAN,M,,,,2035,0,20,OCT25,0,i
 10229035,"Hossain, Md. Amir",BAN,M,,,,1725,0,20,OCT25,1959,i
 10202080,"Hossain, Md. Aslam",BAN,M,,,,1905,0,20,OCT25,1965,i
 10213155,"Hossain, Md. Rasel",BAN,M,,,,2000,0,20,OCT25,1990,i
-10272712,"Hossain, Meer Anwar",BAN,M,,,,1675,0,40,OCT25,1968,
+10272712,"Hossain, Meer Anwar",BAN,M,,,,1674,0,40,OCT25,1968,
 10200959,"Hossain, Monir",BAN,M,CM,,,2061,0,20,OCT25,1974,
 10229051,"Hossain, Mosharaf",BAN,M,,,,1710,0,20,OCT25,1987,i
 532028776,"Hossain, Mubarak",BAN,M,,,,1675,0,40,OCT25,1967,
@@ -918,7 +919,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532027150,"Hossen, Jahid",BAN,M,,,,1733,5,40,OCT25,1989,
 532001690,"Hossen, Md Helal",BAN,M,,,,1665,0,40,OCT25,1983,i
 10276920,"Hridoy, Barmon",BAN,M,,,,1636,0,40,OCT25,2009,i
-532017561,"Hrishav Araf, Khan",BAN,M,,,,1644,0,40,OCT25,2014,
+532017561,"Hrishav Araf, Khan",BAN,M,,,,1645,0,40,OCT25,2014,
 10233954,"Hrishin, Talukder",BAN,M,,,,1912,6,20,OCT25,2005,
 10255702,"Hrishit, Sayeed Hrid",BAN,M,,,,1711,0,40,OCT25,2005,i
 10267409,"Huda, Galib Safatul",BAN,M,,,,1789,0,20,OCT25,2001,i
@@ -931,17 +932,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10298606,"Ibrahim Bepary, Bepary",BAN,M,,,,1803,0,40,OCT25,1975,i
 10290699,"Ibrahim, Morol",BAN,M,,,,1789,0,20,OCT25,1982,
 10273166,"Ibrahim, Mostafa",BAN,M,,,,1802,0,40,OCT25,2000,
-532020775,"Ibrahim, Mursalin",BAN,M,,,,ACM,1652,0,OCT25,2009,
+532020775,"Ibrahim, Mursalin",BAN,M,,,,1652,0,,OCT25,2009,
 10202960,"Ibrahim, Parvej",BAN,M,,,,1845,0,20,OCT25,1968,i
 10287000,Ibtesam Sorwar Elham,BAN,M,,,,1597,0,40,OCT25,2007,i
 532009674,"Iftekhar, Feroz Zawad",BAN,M,,,,1581,0,40,OCT25,2008,
 532017642,"Iftekhar, Mahmud",BAN,M,,,,1796,0,40,OCT25,2011,
-532011059,Ihtiram Ahmad,BAN,M,,,,1568,0,40,OCT25,2014,
+532011059,Ihtiram Ahmad,BAN,M,,,,1554,0,40,OCT25,2014,
 10226303,"Ikramul Amin, Babu",BAN,M,,,,1712,0,20,OCT25,1968,
 10202595,"Ikramul, Haq Siam",BAN,M,CM,,,2133,0,20,OCT25,1997,i
 10290702,"Ikramul, Hossain",BAN,M,,,,1697,0,40,OCT25,1990,i
 10291970,"Ilham Ahsan, Kalimullah",BAN,M,,,,1432,0,40,OCT25,2008,
-10270787,"Imad Uddin, Ahmad Hasin",BAN,M,,,,1659,0,40,OCT25,2005,i
+10270787,"Imad Uddin, Ahmad Hasin",BAN,M,,,,1660,0,40,OCT25,2005,i
 532006934,"Imam Hossain, Lemon",BAN,M,,,,1659,0,40,OCT25,1996,
 10242104,"Imam Mehedi, Talha",BAN,M,,,,1571,0,40,OCT25,2005,i
 10256660,"Imam, Baihaki",BAN,M,,,,1709,0,40,OCT25,2006,i
@@ -951,20 +952,20 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10216421,"Imamul Hasan , Emon",BAN,M,,,,1818,0,20,OCT25,1984,i
 10244077,"Imon, Ahmed",BAN,M,,,,1683,0,20,OCT25,1997,i
 10213163,"Imran Hossain, Md.",BAN,M,,,,1866,0,20,OCT25,0,i
-532011261,"Imran Shorif, Shuvo",BAN,M,,,,1572,0,40,OCT25,2001,
+532011261,"Imran Shorif, Shuvo",BAN,M,,,,1571,0,40,OCT25,2001,
 10268766,"Imran, Hossain",BAN,M,,,,1605,0,20,OCT25,1992,i
 10268774,"Imran, Mahbub",BAN,M,,,,1527,0,20,OCT25,1988,i
 10279113,"Imrul, Nafiz",BAN,M,,,,1615,0,20,OCT25,1995,i
 10249389,"Imtiajul, Islam",BAN,M,,,,1883,0,20,OCT25,1977,i
 10235442,"Imtiaz, Chowdhury",BAN,M,,,,1572,0,20,OCT25,1997,i
-532021267,"Imtiaz, Noor",BAN,M,,,,1605,0,40,OCT25,2001,
+532021267,"Imtiaz, Noor",BAN,M,,,,1606,0,40,OCT25,2001,
 10254420,"Inaaya, Afsheen",BAN,F,,,,1473,0,40,OCT25,2015,wi
 10240110,"Inaaya, Zaman Khan",BAN,F,,,,1477,0,40,OCT25,2010,wi
 532018908,"Indrajit, Gaine",BAN,M,,,,1578,0,40,OCT25,1982,
 10226656,"Inkiad Hossain, Arnob",BAN,M,,,,1753,0,20,OCT25,2002,i
-10278044,"Inshirah Amin, Aourna",BAN,M,,,,1471,0,40,OCT25,2012,
+10278044,"Inshirah Amin, Aourna",BAN,M,,,,1472,0,40,OCT25,2012,
 10243909,"Intisher, Imrul Bhuiyan",BAN,M,,,,1666,0,20,OCT25,2003,i
-10217860,"Ipsha, Azad",BAN,M,,,,1791,0,20,OCT25,1981,
+10217860,"Ipsha, Azad",BAN,M,,,,1792,0,20,OCT25,1981,
 10263128,"Iqbal, Alam",BAN,M,,,,1779,0,20,OCT25,1967,
 10293094,"Iqbal, Hossain",BAN,M,,,,1735,0,40,OCT25,1980,i
 10279296,"Iqbal, Shekh",BAN,M,,,,1732,0,20,OCT25,1999,i
@@ -987,7 +988,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10227466,"Islam, Babul",BAN,M,,,,1850,0,20,OCT25,1982,i
 10274251,"Islam, Fakrul",BAN,M,,,,1711,0,20,OCT25,1990,i
 10201211,"Islam, Kazi Taherul",BAN,M,,FA,,2049,0,20,OCT25,1974,
-10200975,"Islam, Khandaker Aminul",BAN,M,FM,,,2164,0,20,OCT25,1977,
+10200975,"Islam, Khandaker Aminul",BAN,M,FM,,,2165,0,20,OCT25,1977,
 10204008,"Islam, M.M. Zahirul",BAN,M,,NA,,1936,0,20,OCT25,1980,
 532023510,"Islam, Md Aminul",BAN,M,,,,1760,5,40,OCT25,1976,
 532023529,"Islam, Md Munjurul",BAN,M,,,,1651,0,40,OCT25,1989,
@@ -1000,15 +1001,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10204512,"Islam, Md. Aminul Ridoy",BAN,M,,,,1960,0,20,OCT25,0,i
 10200762,"Islam, Md. Nazrul",BAN,M,,,,1993,0,20,OCT25,1972,i
 10202552,"Islam, Md. Rafiqul",BAN,M,,,,1928,0,20,OCT25,0,i
-532016360,"Islam, Md? Nazrul",BAN,M,,,,1764,0,40,OCT25,1977,
 532016352,"Islam, Md? Nazrul",BAN,M,,,,1671,0,40,OCT25,1997,
+532016360,"Islam, Md? Nazrul",BAN,M,,,,1764,0,40,OCT25,1977,
 532021593,"Islam, Md? Sofikul",BAN,M,,,,1557,0,40,OCT25,1978,
 532016476,"Islam, Md? Ziaul",BAN,M,,,,1869,0,40,OCT25,1991,
 10267417,"Islam, Mm Tariqul",BAN,M,,,,1806,0,20,OCT25,1993,i
-10200967,"Islam, Mohammad Aminul",BAN,M,,,,2005,0,20,OCT25,1974,
+10200967,"Islam, Mohammad Aminul",BAN,M,,,,2006,0,20,OCT25,1974,
 10211870,"Islam, Mohammed",BAN,M,,,,1758,0,20,OCT25,1981,i
 10202056,"Islam, Mohammed Hafizul",BAN,M,,,,2047,0,20,OCT25,1972,i
-10274332,"Islam, Mynul",BAN,M,,,,1604,0,20,OCT25,1996,
+10274332,"Islam, Mynul",BAN,M,,,,1605,0,20,OCT25,1996,
 10205560,"Islam, Nazrul David",BAN,M,,,,1968,0,20,OCT25,0,i
 10202471,"Islam, Obaidul Shahin",BAN,M,,,,1922,5,20,OCT25,1984,
 10200428,"Islam, Rafiqul",BAN,M,,,,2065,0,20,OCT25,0,i
@@ -1018,7 +1019,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10218270,"Islam, Saiful",BAN,M,,,,1869,0,20,OCT25,1967,i
 10298517,"Islam, Saiful",BAN,M,,,,1666,0,40,OCT25,1982,i
 10205764,"Islam, Sheik Md. Khairul",BAN,M,,NA,,2049,0,20,OCT25,1980,
-10206043,"Islam, Shihab Tanim",BAN,M,,,,AFM,1863,0,OCT25,1985,
+10206043,"Islam, Shihab Tanim",BAN,M,,,,1863,0,,OCT25,1985,
 532023537,"Islam, Sk Nurul",BAN,M,,,,1729,6,40,OCT25,1975,
 532024479,"Islam, Toufik",BAN,M,,,,1733,0,40,OCT25,2002,
 10202315,"Islam, Zohirul",BAN,M,,,,1969,0,20,OCT25,1962,i
@@ -1065,7 +1066,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10229655,"Jaman, Sadik",BAN,M,,,,1861,0,20,OCT25,1987,i
 532018681,"Jami, Imtiaz Ahsan",BAN,M,,,,1694,0,40,OCT25,2004,
 10236058,"Jamil, Ahmad",BAN,M,,,,1863,0,20,OCT25,1985,i
-532006020,"Jamil, Farhan Sakief",BAN,M,,,,1619,4,40,OCT25,2007,
+532006020,"Jamil, Farhan Sakief",BAN,M,,,,1620,4,40,OCT25,2007,
 10279318,"Jamil, Hassain",BAN,M,,,,1603,0,20,OCT25,1999,
 10267042,"Jamil, Talukdar",BAN,M,,,,1829,0,20,OCT25,1988,i
 10207953,"Jamshed, Alam",BAN,M,,,,1857,0,20,OCT25,1969,i
@@ -1084,7 +1085,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532030070,"Jasif, Arifin",BAN,M,,,,1613,5,40,OCT25,2011,
 10218645,"Jasim, Uddin",BAN,M,,,,1852,0,20,OCT25,1979,i
 10210288,"Jasimuddin, Md.",BAN,M,,,,1835,0,20,OCT25,1977,i
-532012284,"Jawdath, Rahman Roza",BAN,M,,,,1620,0,40,OCT25,2012,
+532012284,"Jawdath, Rahman Roza",BAN,M,,,,1619,0,40,OCT25,2012,
 532015577,"Jayed, Ahmed",BAN,M,,,,1822,0,40,OCT25,2005,
 10249028,"Jayid, Bin Ahmmed",BAN,M,,,,1720,0,20,OCT25,1994,i
 10256970,Jaynal,BAN,M,,,,1759,0,40,OCT25,1962,
@@ -1166,8 +1167,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10221310,"Kamrul Hasan, Chowdhury",BAN,M,,,,1581,4,20,OCT25,1987,
 532007345,"Kamrul Islam, Bokul",BAN,M,,,,1744,6,40,OCT25,1968,
 532008694,"Kamrul, Hasan",BAN,M,,,,1771,0,40,OCT25,1977,
-10234489,"Kamrul, Hasan",BAN,M,,,,1797,0,20,OCT25,1974,i
 10224904,"Kamrul, Hasan",BAN,M,,,,1755,0,20,OCT25,1962,i
+10234489,"Kamrul, Hasan",BAN,M,,,,1797,0,20,OCT25,1974,i
 10220534,"Kamrul, Hasan Milton",BAN,M,,,,1797,0,20,OCT25,1982,i
 532006942,"Kamrul, Islam",BAN,M,,,,1794,0,40,OCT25,1994,
 10246282,"Kamruzzaman, Mamun",BAN,M,,,,1774,0,20,OCT25,1996,
@@ -1217,7 +1218,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10267654,"Kazi, Moshiqur Rahaman",BAN,M,,,,1848,0,20,OCT25,1980,i
 10298428,"Kazi, Refat",BAN,M,,,,1705,0,40,OCT25,2007,i
 10253963,"Kazi, Saiyf",BAN,M,,,,2022,20,20,OCT25,2003,
-10268790,"Kazi, Salauddin",BAN,M,,,,AIM,1674,0,OCT25,1980,
+10268790,"Kazi, Salauddin",BAN,M,,,,1674,0,,OCT25,1980,
 10259996,"Kazi, Sharif Uddin",BAN,M,,,,1807,0,20,OCT25,1968,i
 10270817,"Kazi, Yameen, Ahnaf",BAN,M,,,,1612,0,40,OCT25,2006,i
 10275266,"Kh Assaduzzaman, Sohan",BAN,M,,,,1679,0,20,OCT25,1997,i
@@ -1238,13 +1239,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10213180,"Khan, Md. Quayyum",BAN,M,,,,1850,0,20,OCT25,0,i
 532026293,"Khan, Md? Helal",BAN,M,,,,1927,0,40,OCT25,1985,
 10208569,"Khan, Minnat Ali",BAN,M,,,,1874,0,20,OCT25,0,
-10206078,"Khan, Mukaddesur Rahman",BAN,M,,,,AIM,1935,0,OCT25,1980,
+10206078,"Khan, Mukaddesur Rahman",BAN,M,,,,1935,0,,OCT25,1980,
 10201734,"Khan, Nazrana",BAN,F,WFM,WFM,,1972,0,20,OCT25,1973,wi
 10203397,"Khan, Shamim",BAN,M,,,,1994,0,20,OCT25,1973,i
 10201793,"Khanam, Afroza",BAN,F,WFM,WFM,,1876,0,20,OCT25,1971,wi
 10222650,"Khandakar Zakaria, Ahmed",BAN,M,,,,1839,0,20,OCT25,1975,i
 10233482,"Khandakar, Furkanuzzaman Antor",BAN,M,,,,1776,0,20,OCT25,1995,i
-10235744,"Khandaker Anisha, Amin",BAN,F,,,,1558,0,40,OCT25,2009,w
+10235744,"Khandaker Anisha, Amin",BAN,F,,,,1559,0,40,OCT25,2009,w
 10279490,"Khandaker Raiyan, Sahir",BAN,M,,,,1504,0,40,OCT25,2013,i
 532020252,"Khandokar Fahim, Ahmed",BAN,M,,,,1614,0,40,OCT25,2008,
 10292900,"Khayrul, Anam",BAN,M,,,,1738,0,40,OCT25,2006,i
@@ -1295,7 +1296,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532000758,"M A Bari, Siddiki",BAN,M,,,,1687,0,40,OCT25,1995,i
 10244328,M A Gofur,BAN,M,,,,1769,0,20,OCT25,1959,i
 10291989,"M A Munim, Jinan",BAN,M,,,,1477,0,40,OCT25,2006,
-532022085,"M A, Muaz",BAN,M,,,,1659,8,40,OCT25,2015,
+532022085,"M A, Muaz",BAN,M,,,,1589,14,40,OCT25,2015,
 532021933,"M Altaf, Mahmud",BAN,M,,,,1851,0,40,OCT25,1984,
 10260846,M M Mazharul Hassan,BAN,M,,,,1478,0,20,OCT25,2000,
 10203320,"M MSirajul, Islam Shahin",BAN,M,,,,1891,0,20,OCT25,1970,i
@@ -1322,7 +1323,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10291997,"Mahbeer Alam, Liyan",BAN,M,,,,1500,1,40,OCT25,2016,
 10267484,"Mahbub, Ashfaque",BAN,M,,,,1779,0,20,OCT25,1984,
 10206108,"Mahbub, Uddin Ahmed",BAN,M,,,,1782,0,20,OCT25,1959,i
-10219021,"Mahbubul, Alam",BAN,M,,,,1849,0,20,OCT25,1979,
+10219021,"Mahbubul, Alam",BAN,M,,,,1850,0,20,OCT25,1979,
 10264795,"Mahbubul, Haque",BAN,M,,,,1871,0,20,OCT25,1976,i
 10251375,"Mahbubur Rahman, Kazi",BAN,M,,,,1627,0,20,OCT25,1976,i
 10236570,"Mahbubur Rashid, Md",BAN,M,,,,1762,4,20,OCT25,1983,
@@ -1397,7 +1398,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10263160,"Marjan, Akbar",BAN,M,,,,1773,0,40,OCT25,2006,
 532010796,"Mark, Anindo Bose",BAN,M,,,,1819,0,40,OCT25,2002,
 10221760,"Martin T, Biswas",BAN,M,,,,1792,0,20,OCT25,1966,i
-10247181,Maruf Ahmad,BAN,M,,,,AGM,1700,0,OCT25,1986,i
+10247181,Maruf Ahmad,BAN,M,,,,1700,0,,OCT25,1986,i
 10230491,"Maruf, Hossain",BAN,M,,,,1744,0,20,OCT25,1987,i
 10226702,"Marufa Azad, Sukanna",BAN,F,,,,1544,0,20,OCT25,2002,wi
 10279539,"Marufa, Ferdousy",BAN,F,,,,1478,0,40,OCT25,2014,w
@@ -1436,8 +1437,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10245979,"Md Abdul, Latif",BAN,M,,,,1854,0,20,OCT25,1971,i
 10245987,"Md Abdul, Majid",BAN,M,,,,1775,0,20,OCT25,1974,i
 532004583,"Md Abdul, Mannan Sheikh",BAN,M,,,,1640,6,20,OCT25,1985,
-10283862,"Md Abdul, Momin",BAN,M,,,,1839,0,40,OCT25,1973,i
 532014112,"Md Abdul, Momin",BAN,M,,,,1728,0,40,OCT25,1991,
+10283862,"Md Abdul, Momin",BAN,M,,,,1839,0,40,OCT25,1973,i
 532004397,"Md Abdul, Motin",BAN,M,,,,1869,0,40,OCT25,1984,i
 532004591,"Md Abdul, Motin",BAN,M,,,,1583,0,40,OCT25,1979,i
 10283870,"Md Abdul, Motin Bepari",BAN,M,,,,1726,0,40,OCT25,1973,i
@@ -1446,7 +1447,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10283587,"Md Abdulla Al, Roman",BAN,M,,,,1709,0,20,OCT25,1980,
 10257080,"Md Abdulla, Al Mamun",BAN,M,,NA,,1846,0,20,OCT25,1992,
 10245995,"Md Abdullah Al, Mamun",BAN,M,,FA,,1745,0,20,OCT25,1980,i
-532025777,"Md Abdullah Hossien, Molla",BAN,M,,,,1641,0,40,OCT25,2000,
+532025777,"Md Abdullah Hossien, Molla",BAN,M,,,,1642,0,40,OCT25,2000,
 532026587,"Md Abdullah, Bhuiyan",BAN,M,,,,1491,0,40,OCT25,2001,
 10276939,"Md Abdur, Rahim",BAN,M,,,,1832,0,20,OCT25,1998,
 10237100,"Md Abdur, Rashid",BAN,M,,,,1680,0,20,OCT25,1967,i
@@ -1465,7 +1466,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532005938,Md Abu Said,BAN,M,,,,1632,0,40,OCT25,1999,
 10281533,"Md Abu Sayed, Hossain",BAN,M,,,,1843,0,20,OCT25,1980,
 10257128,"Md Abu, Bakr Siddique",BAN,M,,,,1717,0,40,OCT25,1965,
-532010540,"Md Abu, Hanif",BAN,M,,,,1614,0,40,OCT25,2004,
+532010540,"Md Abu, Hanif",BAN,M,,,,1613,0,40,OCT25,2004,
 10281479,"Md Abu, Musa",BAN,M,,,,1736,0,40,OCT25,1982,i
 10254005,"Md Abu, Said",BAN,M,,,,1767,0,20,OCT25,1985,
 532021275,"Md Abu, Saleh",BAN,M,,,,1909,0,40,OCT25,1976,
@@ -1484,7 +1485,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532029799,"Md Afzal, Hossain",BAN,M,,,,1645,6,40,OCT25,1990,
 532017065,"Md Ahasanul Kabir, Tahsin",BAN,M,,,,1555,0,40,OCT25,2006,
 10274510,"Md Ahasanul, Haque",BAN,M,,,,1815,0,40,OCT25,1969,
-532006233,Md Ahasanullah Babu,BAN,M,,,,1926,0,20,OCT25,1979,
+532006233,Md Ahasanullah Babu,BAN,M,,,,1928,0,20,OCT25,1979,
 532010818,"Md Ahnaf, Mohtasim Khan",BAN,M,,,,1523,0,40,OCT25,2011,
 532014694,"Md Ahnaf, Tahmid",BAN,M,,,,1745,0,40,OCT25,2010,
 10284826,"Md Ahosan, Habib",BAN,M,,,,1544,0,40,OCT25,1999,
@@ -1494,12 +1495,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10277722,"Md Akram, Hossain",BAN,M,,,,1752,0,20,OCT25,1995,i
 10293132,"Md Aksadur, Rahman",BAN,M,,,,1849,0,40,OCT25,1985,i
 10268391,Md Al Amin,BAN,M,,,,1828,0,40,OCT25,1988,i
-532006462,"Md Al Amin, Hossain",BAN,M,,,,1861,0,40,OCT25,1996,
 532006454,"Md Al Amin, Hossain",BAN,M,,,,1614,0,40,OCT25,1995,
+532006462,"Md Al Amin, Hossain",BAN,M,,,,1861,0,40,OCT25,1996,
 532010559,"Md Al Mani Mostakin, Tahsin",BAN,M,,NA,,1535,0,40,OCT25,2004,
 10297693,"Md Al, Amin",BAN,M,,,,1672,0,40,OCT25,1996,i
 10286594,"Md Al-Amin, Hossain",BAN,M,,,,1834,0,40,OCT25,1997,i
-10268278,"Md Al-Amin, Shaikh",BAN,M,,,,1789,4,20,OCT25,1991,
+10268278,"Md Al-Amin, Shaikh",BAN,M,,,,1790,4,20,OCT25,1991,
 10248110,"Md Alam, Hossain",BAN,M,,,,1927,0,20,OCT25,1988,i
 10242554,"Md Alamgir , Hosen",BAN,M,,,,1671,0,20,OCT25,2000,i
 10241388,"Md Alamgir , Hossain",BAN,M,,,,1795,0,20,OCT25,2000,i
@@ -1518,12 +1519,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10286748,"Md Aliul, Azim",BAN,M,,,,1565,0,40,OCT25,1990,
 10241264,"Md Aliza, Hossain",BAN,M,,,,1741,2,20,OCT25,1965,
 10246339,"Md Alomgir, Hossen",BAN,M,,,,1777,0,40,OCT25,1974,
-10206574,Md Aminul Islam,BAN,M,,,,1907,0,20,OCT25,1979,
+10206574,Md Aminul Islam,BAN,M,,,,1908,0,20,OCT25,1979,
 532016883,"Md Aminul Islam, Oli",BAN,M,,,,1723,0,40,OCT25,1974,
 10245375,"Md Aminul, Islam",BAN,M,,,,1583,0,20,OCT25,1970,
 10272739,"Md Aminul, Islam",BAN,M,,,,1823,0,40,OCT25,1977,
-10245200,"Md Aminul, Islam",BAN,M,,,,1706,0,20,OCT25,1977,i
 10298835,"Md Aminul, Islam",BAN,M,,,,1722,0,40,OCT25,1992,i
+10245200,"Md Aminul, Islam",BAN,M,,,,1706,0,20,OCT25,1977,i
 10294465,"Md Aminur, Rahman",BAN,M,,,,1760,0,40,OCT25,1978,i
 10266488,"Md Amir, Hamja",BAN,M,,,,1789,0,40,OCT25,2010,
 10232559,"Md Amirul , Islam",BAN,M,,,,1776,0,20,OCT25,1989,
@@ -1551,8 +1552,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532025815,"Md Arif, Morshed",BAN,M,,,,1596,0,40,OCT25,2003,
 10232567,"Md Ariful , Islam",BAN,M,,,,1909,0,20,OCT25,1988,
 10235752,"Md Ariful, Islam",BAN,M,,,,1770,0,20,OCT25,1996,
-532018800,"Md Arifur, Rahman",BAN,M,,,,1487,0,40,OCT25,2011,
 10258965,"Md Arifur, Rahman",BAN,M,,,,1793,4,40,OCT25,1988,
+532018800,"Md Arifur, Rahman",BAN,M,,,,1487,0,40,OCT25,2011,
 10205063,"Md Arifuzzaman, Arif",BAN,M,,"NI,NA",,1840,0,20,OCT25,1978,i
 10266500,Md Arman Biswas,BAN,M,,,,1681,0,20,OCT25,1996,i
 10236368,"Md Arob , Ali",BAN,M,,,,1833,0,20,OCT25,1989,
@@ -1582,7 +1583,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532011466,"Md Azahar, Uddin",BAN,M,,,,1442,0,40,OCT25,2005,
 10261478,"Md Azbahauddin, Khan",BAN,M,,,,1789,0,20,OCT25,2003,i
 532023359,"Md Azizul Haque, Akhond",BAN,M,,,,1734,0,40,OCT25,1986,
-532009372,"Md Azizul, Hoque",BAN,M,,,,1401,0,20,OCT25,1990,
+532009372,"Md Azizul, Hoque",BAN,M,,,,1403,0,20,OCT25,1990,
 532017073,"Md Azmain Mahtab, Mahir",BAN,M,,,,1626,0,40,OCT25,2006,
 10273093,Md Bablu,BAN,M,,,,1772,0,20,OCT25,1975,i
 10244093,"Md Babul, Akter",BAN,M,,,,1598,0,20,OCT25,1978,i
@@ -1643,12 +1644,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10270841,"Md Fuad Al, Alam",BAN,M,,,,1754,0,20,OCT25,2004,i
 10282297,"Md Gafur, Badsha",BAN,M,,,,1804,0,20,OCT25,1995,i
 10254463,"Md Gazzali , Bhuiyan",BAN,M,,,,1510,0,20,OCT25,1998,i
-10290150,"Md Gias, Uddin",BAN,M,,,,1882,0,40,OCT25,1992,
-10288023,"Md Gias, Uddin",BAN,M,,,,1588,9,20,OCT25,1963,
+10290150,"Md Gias, Uddin",BAN,M,,,,1883,0,40,OCT25,1992,
+10288023,"Md Gias, Uddin",BAN,M,,,,1589,9,20,OCT25,1963,
 10294805,Md Giyas Uddin,BAN,M,,,,1591,0,40,OCT25,1979,i
 10264507,Md Golam Ajom,BAN,M,,,,1861,0,20,OCT25,1972,i
 10262334,"Md Golam, Azom",BAN,M,,,,1833,0,20,OCT25,1972,i
-532017081,"Md Golam, Kibria",BAN,M,,,,1501,0,40,OCT25,2001,
+532017081,"Md Golam, Kibria",BAN,M,,,,1502,0,40,OCT25,2001,
 532009852,"Md Golam, Mostafa",BAN,M,,,,1655,0,40,OCT25,1980,
 10284834,"Md Golam, Mostofa",BAN,M,,,,1735,0,40,OCT25,1999,i
 10257179,"Md Golam, Nabi Khan",BAN,M,,,,1816,0,20,OCT25,1968,i
@@ -1657,8 +1658,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10289321,"Md Habibul Hasan, Niloy",BAN,M,,,,1707,0,40,OCT25,2008,i
 10202226,Md Habibur Rahman,BAN,M,,,,1848,0,20,OCT25,1972,i
 10256253,Md Habibur Rahman,BAN,M,,,,1774,0,40,OCT25,1962,
-10246029,"Md Habibur, Rahman",BAN,M,,,,1732,0,20,OCT25,1982,i
 10237232,"Md Habibur, Rahman",BAN,M,,,,1956,0,20,OCT25,1998,i
+10246029,"Md Habibur, Rahman",BAN,M,,,,1732,0,20,OCT25,1982,i
 532025530,"Md Hadid Al, Muin",BAN,M,,,,1599,0,40,OCT25,2010,
 10274367,"Md Hadisur, Rahman",BAN,M,,,,1831,0,20,OCT25,1995,i
 10273107,Md Hadiuzzaman,BAN,M,,,,1824,0,20,OCT25,1982,i
@@ -1705,11 +1706,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532004613,"Md Jahurul, Islam",BAN,M,,,,1529,5,40,OCT25,1978,
 532007566,Md Jakaria Chowdhury,BAN,M,,,,1809,0,40,OCT25,2007,
 10258086,"Md Jakibul Islam, Ayon",BAN,M,,,,1615,0,40,OCT25,2013,i
-10290761,"Md Jamal, Uddin",BAN,M,,,,1824,0,40,OCT25,1994,i
 532001380,"Md Jamal, Uddin",BAN,M,,,,1596,0,40,OCT25,1989,i
+10290761,"Md Jamal, Uddin",BAN,M,,,,1824,0,40,OCT25,1994,i
 10279261,Md Jamil Hossain,BAN,M,,,,1499,0,40,OCT25,2008,
 10267867,"Md Jane, Alam",BAN,M,,,,1579,0,20,OCT25,1993,i
-532015704,"Md Jannatun, Nayeem",BAN,M,,,,1622,0,40,OCT25,1998,
+532015704,"Md Jannatun, Nayeem",BAN,M,,,,1623,0,40,OCT25,1998,
 10258094,"Md Jariful Islam, Jayon",BAN,M,,,,1414,0,40,OCT25,2010,i
 10286624,"Md Jasim Ali, Mollik",BAN,M,,,,1710,0,40,OCT25,1989,i
 10256563,"Md Jasim Uiddin, Josim",BAN,M,,,,1587,0,20,OCT25,1984,i
@@ -1745,8 +1746,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10248609,"Md Khaja, Suzon",BAN,M,,,,1830,0,20,OCT25,2003,i
 10283897,"Md Khokon, Pramanik",BAN,M,,,,1588,0,40,OCT25,1970,i
 10257950,Md Khorsed Alam,BAN,M,,,,1765,0,40,OCT25,1962,i
-10298746,"Md Khorshed, Alam",BAN,M,,,,1883,0,40,OCT25,1972,i
 532004419,"Md Khorshed, Alam",BAN,M,,,,1673,0,40,OCT25,1962,i
+10298746,"Md Khorshed, Alam",BAN,M,,,,1883,0,40,OCT25,1972,i
 10228969,Md Khurshed Alam Sarker,BAN,M,,,,1756,0,20,OCT25,1982,
 10299254,"Md Khurshed, Alam",BAN,M,,,,1728,0,40,OCT25,1972,i
 10299858,Md Kiosmotullah,BAN,M,,,,1764,0,40,OCT25,1987,
@@ -1774,7 +1775,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10238468,"Md Mamun-Or-, Rashid",BAN,M,,,,1549,0,20,OCT25,1991,i
 10268421,Md Mamunur Rashid,BAN,M,,,,1766,0,20,OCT25,1982,
 10260587,"Md Mamunur Rasid, Mamun",BAN,M,,,,1809,0,20,OCT25,1987,i
-10281568,"Md Manik, Mia",BAN,M,,,,1666,0,40,OCT25,1972,
+10281568,"Md Manik, Mia",BAN,M,,,,1667,0,40,OCT25,1972,
 10246045,"Md Manik, Uddin",BAN,M,,,,1856,0,20,OCT25,1988,i
 10298657,Md Manikujjaman,BAN,M,,,,1883,0,40,OCT25,1983,
 10243127,"Md Mannan, Miah",BAN,M,,,,1822,0,20,OCT25,1984,
@@ -1816,8 +1817,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10260129,Md Mizanur Rahaman,BAN,M,,,,1844,0,20,OCT25,1980,i
 10255524,"Md Mizanur, Rahman",BAN,M,,,,1737,0,20,OCT25,1985,i
 10246053,"Md Mizanur, Rahman",BAN,M,,,,1829,0,20,OCT25,1964,i
-532030126,"Md Mizanur, Rahman",BAN,M,,,,1598,6,40,OCT25,1961,
 532007370,"Md Mizanur, Rahman",BAN,M,,,,1905,6,40,OCT25,2004,
+532030126,"Md Mizanur, Rahman",BAN,M,,,,1598,6,40,OCT25,1961,
 10237283,"Md Mobarak, Hossain",BAN,M,,,,1710,0,20,OCT25,1960,i
 10295941,"Md Mobarak, Husen",BAN,M,,,,1650,0,40,OCT25,1982,i
 10299866,Md Mobarok Hosssain,BAN,M,,,,1717,0,40,OCT25,1967,i
@@ -1829,7 +1830,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10242171,"Md Mohinul, Islam",BAN,M,,,,1708,0,20,OCT25,2001,i
 10280723,"Md Mohshin, Hossain",BAN,M,,,,1918,0,20,OCT25,1987,i
 10259481,"Md Moinul, Haque",BAN,M,,,,1511,0,20,OCT25,1970,
-10285822,"Md Mojahidul, Islam",BAN,M,,,,1745,0,40,OCT25,1981,i
+10285822,"Md Mojahidul, Islam",BAN,M,,NA,,1745,0,40,OCT25,1981,i
 10262466,"Md Mojibur Rahman, Shopon",BAN,M,,,,1954,0,20,OCT25,1983,i
 10275029,Md Mokaddesh Ali,BAN,M,,,,1804,0,20,OCT25,1981,i
 10273255,Md Momin,BAN,M,,,,1791,0,20,OCT25,1985,
@@ -1840,13 +1841,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10204415,"Md Monir, Hossain",BAN,M,,,,1873,0,20,OCT25,1976,i
 10254030,"Md Monir, Hossain",BAN,M,,,,1552,0,40,OCT25,1990,
 10270574,"Md Monir, Hossain",BAN,M,,,,1653,0,20,OCT25,1970,i
-10268430,Md Monirul Islam,BAN,M,,,,1685,0,40,OCT25,1987,i
 10299874,Md Monirul Islam,BAN,M,,,,1789,0,40,OCT25,1981,
+10268430,Md Monirul Islam,BAN,M,,,,1685,0,40,OCT25,1987,i
 532028962,"Md Monirul Islm, Litu",BAN,M,,,,1860,0,40,OCT25,1972,
 532009887,"Md Monirul, Alam",BAN,M,,,,1678,2,40,OCT25,1979,
 532006527,"Md Monirul, Islam",BAN,M,,,,1668,0,40,OCT25,1980,
-10290770,"Md Monirul, Islam",BAN,M,,,,1759,0,40,OCT25,1993,i
 10286810,"Md Monirul, Islam",BAN,M,,,,1632,0,40,OCT25,2005,
+10290770,"Md Monirul, Islam",BAN,M,,,,1759,0,40,OCT25,1993,i
 10275207,"Md Moniruzzaman, Khan",BAN,M,,,,1757,0,20,OCT25,1975,
 10244425,"Md Moniruzzaman, Milon",BAN,M,,,,1838,0,20,OCT25,1990,
 10229094,"Md Monjil, Hossain",BAN,M,,,,1713,0,20,OCT25,1977,i
@@ -1859,8 +1860,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10259082,"Md Mortaza Hassan, Shawon",BAN,M,,,,1878,0,20,OCT25,1999,
 10202927,Md Mosabbir Ali,BAN,M,,,,1939,0,20,OCT25,1975,i
 10294910,"Md Mosharaf, Hossain",BAN,M,,,,1710,0,40,OCT25,1981,i
-10285296,"Md Mosharraf, Hossain",BAN,M,,,,1757,0,40,OCT25,1981,i
 532011873,"Md Mosharraf, Hossain",BAN,M,,,,1688,0,40,OCT25,1979,
+10285296,"Md Mosharraf, Hossain",BAN,M,,,,1757,0,40,OCT25,1981,i
 532006535,"Md Mosharrof Hossain, Mukul",BAN,M,,,,1882,0,40,OCT25,1970,
 10245480,"Md Mosharrof, Hossain",BAN,M,,,,1753,0,20,OCT25,1996,i
 10260455,"Md Moshiul, Kobir",BAN,M,,,,1723,0,20,OCT25,1977,i
@@ -1879,7 +1880,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532016905,"Md Mozirul, Islam",BAN,M,,,,1742,0,40,OCT25,1973,
 532005687,Md Mufti Mahmud,BAN,M,,,,1814,0,40,OCT25,1975,
 10259643,"Md Mujibur, Rahman Khan",BAN,M,,,,1649,0,20,OCT25,1968,i
-10291326,"Md Muktadir, Majumder",BAN,M,,,,1726,0,40,OCT25,2003,
+10291326,"Md Muktadir, Majumder",BAN,M,,,,1725,0,40,OCT25,2003,
 10261290,"Md Muminul, Islam",BAN,M,,,,1726,0,20,OCT25,1984,i
 10260854,"Md Munirul, Islam",BAN,M,,,,1588,0,20,OCT25,1986,i
 10282327,"Md Musraful Islam, Mahim",BAN,M,,,,1672,0,20,OCT25,2001,
@@ -1929,13 +1930,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10297006,"Md Rafi, Tahiat",BAN,M,,,,1663,0,40,OCT25,2002,i
 10245383,"Md Rafiqul Islam , Palash",BAN,M,,,,1831,0,20,OCT25,1980,i
 10246088,"Md Rafiqul Islam, Swapan",BAN,M,,,,1768,0,20,OCT25,1980,i
-10274405,"Md Rafiqul, Islam",BAN,M,,,,1837,0,20,OCT25,1985,
 532009909,"Md Rafiqul, Islam",BAN,M,,,,1574,0,40,OCT25,1973,
+10274405,"Md Rafiqul, Islam",BAN,M,,,,1837,0,20,OCT25,1985,
 10248021,"Md Ragib Rownok, Islam",BAN,M,,,,1713,0,40,OCT25,2008,i
 10262474,"Md Rahat Ahmed, Chodhury",BAN,M,,,,1668,0,40,OCT25,1987,i
 532001193,"Md Raihan, Ali",BAN,M,,,,1665,0,40,OCT25,1996,i
 532029810,"Md Raihan, Uddin",BAN,M,,,,1638,7,40,OCT25,2005,
-532011881,"Md Raiyanul Huq, Bhuiyan",BAN,M,,,,1483,3,40,OCT25,2013,
+532011881,"Md Raiyanul Huq, Bhuiyan",BAN,M,,,,1484,3,40,OCT25,2013,
 10241990,Md Rajib Hasan,BAN,M,,,,1838,0,20,OCT25,2003,i
 10245278,"Md Raju , Hossain",BAN,M,,,,1865,0,20,OCT25,2001,i
 532004451,"Md Raju, Ahmed",BAN,M,,,,1694,0,40,OCT25,1982,
@@ -1987,7 +1988,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532015062,"Md Ruhul, Amin",BAN,M,,,,1699,0,40,OCT25,1964,
 10238697,"Md Sadab, Rahaman Ridam",BAN,M,,,,1627,0,20,OCT25,1996,
 532001584,Md Saddam Hossain,BAN,M,,,,1601,0,40,OCT25,1991,i
-532017812,"Md Sadek, Mia",BAN,M,,,,1510,0,40,OCT25,1995,
+532017812,"Md Sadek, Mia",BAN,M,,,,1511,0,40,OCT25,1995,
 10282360,"Md Sadid Ehsan, Sunny",BAN,M,,,,1552,0,20,OCT25,2001,i
 10248188,"Md Safaet, Doza",BAN,M,,,,1659,0,20,OCT25,1993,i
 532006713,"Md Sahin, Uddin",BAN,M,,,,1651,0,40,OCT25,1996,
@@ -2025,7 +2026,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532001622,"Md Sarziul Sifat, Khan",BAN,M,,,,1518,0,40,OCT25,2001,
 10274995,"Md Sattok, Ali",BAN,M,,,,1685,0,20,OCT25,1981,
 10298649,"Md Sayal, Rahman",BAN,M,,,,1734,0,40,OCT25,1982,i
-532025890,"Md Sayed, Al Shahab",BAN,M,,,,1596,0,40,OCT25,2004,
+532025890,"Md Sayed, Al Shahab",BAN,M,,,,1597,0,40,OCT25,2004,
 10254811,"Md Sayedur, Rahman",BAN,M,,,,1848,0,20,OCT25,1989,i
 10292829,"Md Sayedur, Rahman Aroz",BAN,M,,,,1625,0,40,OCT25,1979,
 10259503,"Md Sayeedi, Hasan",BAN,M,,,,1519,0,20,OCT25,1997,i
@@ -2033,7 +2034,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10288066,"Md Sazidul, Islam",BAN,M,,,,1647,0,40,OCT25,2001,
 532027125,"Md Sekander, Ali",BAN,M,,,,1719,0,40,OCT25,1974,
 10285571,"Md Selim, Reza",BAN,M,,,,1755,0,40,OCT25,1985,
-532023375,"Md Sha, Alam",BAN,M,,,,1653,0,40,OCT25,1982,
+532023375,"Md Sha, Alam",BAN,M,,,,1654,0,40,OCT25,1982,
 532007604,Md Shadman Said,BAN,M,,,,1732,0,40,OCT25,2008,
 10246118,"Md Shafiqul, Islam",BAN,M,,,,1700,0,20,OCT25,1983,
 532017820,"Md Shafiqul, Islam",BAN,M,,,,1564,0,40,OCT25,2002,
@@ -2062,7 +2063,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532017090,"Md Shahriar, Taj",BAN,M,,,,1558,0,40,OCT25,2013,
 10272780,"Md Shaidur, Rahman",BAN,M,,,,1710,7,40,OCT25,1985,
 10262911,"Md Shajahan, Mondol",BAN,M,,,,1759,0,20,OCT25,1985,i
-532026625,"Md Shakib, Hassan",BAN,M,,,,1554,0,40,OCT25,2002,
+532026625,"Md Shakib, Hassan",BAN,M,,,,1555,0,40,OCT25,2002,
 532007639,Md Shakil Ahomed,BAN,M,,,,1776,0,40,OCT25,2002,
 10299904,Md Shakirul Hasan,BAN,M,,,,1756,0,40,OCT25,2005,i
 532025904,"Md Shakirul Islam, Khan",BAN,M,,,,1607,0,40,OCT25,2010,
@@ -2099,7 +2100,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10296069,"Md Sirazul, Islam-2",BAN,M,,,,1632,0,40,OCT25,1971,
 10298851,"Md Sobuj, Ali",BAN,M,,,,1758,0,40,OCT25,1997,
 10225170,"Md Sohel , Rana Pritom",BAN,M,,,,1713,0,20,OCT25,1990,
-10225188,"Md Sohel, Rana",BAN,M,,,,1873,0,20,OCT25,1985,
+10225188,"Md Sohel, Rana",BAN,M,,,,1874,0,20,OCT25,1985,
 10255150,"Md Soriful, Islam",BAN,M,,,,1927,0,20,OCT25,1988,i
 10286004,Md Suaibur Rahman,BAN,M,,,,1745,0,40,OCT25,1987,
 10237372,"Md Sujob, Ali",BAN,M,,,,1855,0,20,OCT25,1983,i
@@ -2147,7 +2148,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10278672,Md Zakir Ul Asad (Moni),BAN,M,,,,1640,0,20,OCT25,1983,i
 532001401,"Md Zakir, Hossain",BAN,M,,,,1611,0,40,OCT25,1974,
 10277790,"Md Zakir, Hossain",BAN,M,,,,1725,0,20,OCT25,1974,
-10285709,"Md Zayan, Khan",BAN,M,,,,1625,6,40,OCT25,2011,
+10285709,"Md Zayan, Khan",BAN,M,,,,1626,6,40,OCT25,2011,
 532004141,"Md Zayed, Umer",BAN,M,,,,1539,0,40,OCT25,2011,
 10203125,Md Zia Uddin,BAN,M,,,,1792,0,20,OCT25,1983,
 10259660,"Md Zulfikar Ali, Khandaker",BAN,M,,,,1822,0,20,OCT25,1979,
@@ -2171,8 +2172,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10245715,"Md, Al Minar Uddin",BAN,M,,,,1617,0,20,OCT25,1967,i
 532005172,"Md, Al-Fine",BAN,M,,,,1514,0,40,OCT25,1996,
 532006160,"Md, Alamgir",BAN,M,,,,1702,0,40,OCT25,1986,
-10256571,"Md, Alamin",BAN,M,,,,1848,0,20,OCT25,1988,i
 10235825,"Md, Alamin",BAN,M,,,,1720,0,20,OCT25,1990,i
+10256571,"Md, Alamin",BAN,M,,,,1848,0,20,OCT25,1988,i
 10246380,"Md, Alim",BAN,M,,,,1799,0,20,OCT25,1980,i
 10284117,"Md, Alimuzzaman",BAN,M,,,,1714,0,40,OCT25,1996,i
 10245553,"Md, Aminul Islam",BAN,M,,,,1671,0,20,OCT25,1997,
@@ -2183,7 +2184,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10233130,"Md, Arif Ahamed",BAN,M,,,,1773,0,20,OCT25,1977,i
 10265112,"Md, Arifur Rahman",BAN,M,,,,1710,0,20,OCT25,1973,
 532005474,"Md, Arifur Rahman",BAN,M,,,,1843,0,40,OCT25,1981,
-532017596,"Md, Arifurjaman",BAN,M,,,,1702,0,40,OCT25,1983,
+532017596,"Md, Arifurjaman",BAN,M,,,,1703,0,40,OCT25,1983,
 532017618,"Md, Arifuzzaman",BAN,M,,,,1742,0,40,OCT25,1983,
 10268596,"Md, Arshad",BAN,M,,,,1713,0,40,OCT25,1974,i
 10201726,"Md, Asadujjaman",BAN,M,,,,1802,5,20,OCT25,1964,
@@ -2209,7 +2210,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10255230,"Md, Golam Mustafa Sarwar",BAN,M,,,,1548,0,20,OCT25,1973,i
 10232630,"Md, Golam Soroar",BAN,M,,,,1879,0,20,OCT25,1984,
 10239669,"Md, Halim Uddin Elahi",BAN,M,,,,1749,0,40,OCT25,2007,i
-532020368,"Md, Hamim",BAN,M,,,,1568,0,40,OCT25,2009,
+532020368,"Md, Hamim",BAN,M,,,,1569,0,40,OCT25,2009,
 10254838,"Md, Hanif",BAN,M,,,,1815,0,20,OCT25,1980,i
 10279326,"Md, Haron Or Rashid",BAN,M,,,,1855,0,20,OCT25,1988,i
 10243950,"Md, Hasan",BAN,M,,,,1824,0,20,OCT25,1984,i
@@ -2235,8 +2236,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532010362,"Md, Kaber Ahmed",BAN,M,,,,1659,0,40,OCT25,1987,
 532017294,"Md, Kabir Hossain",BAN,M,,,,1865,0,40,OCT25,1975,
 10246835,"Md, Kais Shami",BAN,M,,,,1641,0,40,OCT25,1978,
-10248536,"Md, Kajol",BAN,M,,,,1776,0,20,OCT25,1972,i
 10248625,"Md, Kajol",BAN,M,,,,1730,0,20,OCT25,1989,i
+10248536,"Md, Kajol",BAN,M,,,,1776,0,20,OCT25,1972,i
 10209735,"Md, Kamal Ahmed",BAN,M,,,,1854,0,20,OCT25,0,i
 10269134,"Md, Kamal Hossain",BAN,M,,,,1790,0,20,OCT25,1977,i
 10256024,"Md, Kamruzzaman",BAN,M,,,,1552,0,40,OCT25,1996,
@@ -2364,8 +2365,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10254854,"Md, Yousuf",BAN,M,,,,1789,0,20,OCT25,1981,i
 10249060,"Md, Yusuf Chalegue",BAN,M,,,,1536,0,20,OCT25,2004,i
 10243976,"Md, Zahirul Islam",BAN,M,,,,1783,0,20,OCT25,1989,i
-10253670,"Md, Ziaur Rahman",BAN,M,,,,1498,0,20,OCT25,1985,i
 10263489,"Md, Ziaur Rahman",BAN,M,,,,1599,0,40,OCT25,1986,
+10253670,"Md, Ziaur Rahman",BAN,M,,,,1498,0,20,OCT25,1985,i
 10233270,"Md. , Basheduzzaman",BAN,M,,,,1821,0,20,OCT25,1991,i
 10207970,"Md. Abbas, Uddin",BAN,M,,,,1935,0,20,OCT25,1975,i
 10221506,"Md. Abdul Hannan, Hossain",BAN,M,,,,1778,0,20,OCT25,1981,
@@ -2463,7 +2464,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10219625,"Md. Hafijur , Rahman",BAN,M,,,,1740,0,20,OCT25,1984,i
 10220798,"Md. Hamidur, Rahman",BAN,M,,,,1836,0,20,OCT25,1972,i
 10221042,"Md. Hanif Bin, Islam Rony",BAN,M,,,,1840,0,20,OCT25,1987,
-10203974,Md. Hasan,BAN,M,,,,1790,0,20,OCT25,1974,
+10203974,Md. Hasan,BAN,M,,,,1791,0,20,OCT25,1974,
 10227326,"Md. Hasnat, Awal",BAN,M,,,,1673,0,20,OCT25,1993,i
 10228098,"Md. Hossen, Ali",BAN,M,,,,1713,0,20,OCT25,1983,i
 10229329,"Md. Humayun , Kabir",BAN,M,,,,1713,0,20,OCT25,1977,
@@ -2504,12 +2505,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10217886,"Md. Maruf, Sarkar",BAN,M,,,,1755,0,20,OCT25,1994,
 10222278,"Md. Masud , Alam",BAN,M,,,,1726,0,20,OCT25,1976,
 10214372,"Md. Masud -Ul-, Alam",BAN,M,,,,1834,0,20,OCT25,1989,i
-10216073,"Md. Masud, Rana",BAN,M,,,,1939,0,20,OCT25,1984,
+10216073,"Md. Masud, Rana",BAN,M,,,,1940,0,20,OCT25,1984,
 10215522,"Md. Masudur , Rahman Masud",BAN,M,,,,1806,0,20,OCT25,0,i
 10219633,"Md. Masudur Rahman Chowdhury, Ch",BAN,M,,,,1643,0,20,OCT25,1985,
 10210717,Md. Masum Rahi,BAN,M,,,,1787,0,20,OCT25,1963,i
 10212000,"Md. Masum, Billah",BAN,M,,,,1854,0,20,OCT25,1989,
-10203133,"Md. Masum, Hossain",BAN,M,CM,,,1997,3,20,OCT25,1989,
+10203133,"Md. Masum, Hossain",BAN,M,CM,,,1998,3,20,OCT25,1989,
 10220550,"Md. Mehedi, Hasan",BAN,M,,,,1794,0,20,OCT25,1985,
 10213678,"Md. Mijanul, Islam",BAN,M,,,,1838,0,20,OCT25,1987,
 10224033,Md. Millon Hossain,BAN,M,,,,1863,0,20,OCT25,1988,i
@@ -2559,7 +2560,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10215573,"Md. Nurul, Islam",BAN,M,,,,1974,0,20,OCT25,0,i
 10231730,"Md. Obaidur, Rahman",BAN,M,,,,1831,0,20,OCT25,1995,i
 10222456,"Md. Pannu, Khan",BAN,M,,,,1789,0,20,OCT25,1976,i
-10219650,"Md. Rabby, Salim",BAN,M,,,,1930,0,20,OCT25,1988,
+10219650,"Md. Rabby, Salim",BAN,M,,,,1931,0,20,OCT25,1988,
 10215590,"Md. Rafikul, Islam",BAN,M,,,,1758,0,20,OCT25,1985,i
 10230300,"Md. Rafikul, Islam",BAN,M,,,,1807,0,20,OCT25,1970,
 10217762,"Md. Rafiqul , Islam",BAN,M,,,,1820,0,20,OCT25,1975,i
@@ -2569,7 +2570,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10213686,"Md. Raja, Mia",BAN,M,,,,1853,0,20,OCT25,1972,i
 10216090,"Md. Rajibul, Hasan",BAN,M,,,,1854,0,20,OCT25,1988,
 10217770,"Md. Raju, Ahmed",BAN,M,,,,1944,0,20,OCT25,1988,
-10216480,"Md. Raju, Ahmed",BAN,M,,,,1657,0,20,OCT25,1995,
+10216480,"Md. Raju, Ahmed",BAN,M,,,,1658,0,20,OCT25,1995,
 10220283,"Md. Raphael, Kabir",BAN,M,,,,1706,0,20,OCT25,2000,i
 10212531,"Md. Raqibul, Azad",BAN,M,,,,1712,0,20,OCT25,1985,i
 10223843,"Md. Rasel Khan, Joni",BAN,M,,,,1747,0,20,OCT25,1983,i
@@ -2582,8 +2583,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10222472,"Md. Rejve, Rahat",BAN,M,,,,1854,0,20,OCT25,1988,i
 10225994,"Md. Rezaul, Islam",BAN,M,,,,1573,0,20,OCT25,1995,i
 10208020,"Md. Rezaul, Karim",BAN,M,,,,1840,0,20,OCT25,1969,
-10222480,"Md. Rezaul, Karim",BAN,M,,,,1805,0,20,OCT25,1984,i
 10231145,"Md. Rezaul, Karim",BAN,M,,,,1889,0,20,OCT25,1971,i
+10222480,"Md. Rezaul, Karim",BAN,M,,,,1805,0,20,OCT25,1984,i
 10219676,"Md. Rezaur, Rahman",BAN,M,,,,1893,0,20,OCT25,1970,i
 10224327,"Md. Ridwan, Chowdhury",BAN,M,,,,1809,0,20,OCT25,1986,
 10225730,"Md. Rimon, Sheikh",BAN,M,,,,1888,0,20,OCT25,1997,i
@@ -2595,7 +2596,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10228179,"Md. Ruhul, Amin",BAN,M,,,,1655,0,20,OCT25,1993,i
 10225811,"Md. Sabbir, Hossain",BAN,M,,,,1744,0,20,OCT25,1996,i
 10226400,"Md. Sabujur, Rahman",BAN,M,,,,1865,0,20,OCT25,1995,
-10206299,Md. Sagor,BAN,M,,,,AGM,1985,0,OCT25,1994,
+10206299,Md. Sagor,BAN,M,,,,1985,0,,OCT25,1994,
 10234853,"Md. Sahab, Uddin",BAN,M,,,,1672,0,20,OCT25,1980,i
 10212302,"Md. Sahin, Badsa",BAN,M,,,,1832,0,20,OCT25,1985,
 10213600,Md. Saiful Islam,BAN,M,,,,1853,0,20,OCT25,1992,
@@ -2654,7 +2655,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10215603,"Md. Wakib, Islam",BAN,M,,,,1600,0,20,OCT25,0,i
 10221778,"Md. Yasir, Arafat",BAN,M,,,,1842,0,20,OCT25,1982,i
 10231889,"Md. Yousuf Husain, Bhuiyan",BAN,M,,,,1443,0,40,OCT25,1969,i
-10212264,Md. Zaber Al Hamid,BAN,M,,,,AFM,1967,7,OCT25,1993,
+10212264,Md. Zaber Al Hamid,BAN,M,,,,1967,7,,OCT25,1993,
 10214453,"Md. Zafrul, Islam",BAN,M,,NA,,1981,0,20,OCT25,1982,
 10212337,"Md. Zahid, Hossain",BAN,M,,,,1858,0,20,OCT25,1983,
 10222049,"Md. Zahid, Hossain Bhuyain",BAN,M,,,,1725,0,20,OCT25,1971,i
@@ -2716,7 +2717,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10223533,"Md.aftabul, Islam",BAN,M,,,,1798,0,20,OCT25,1979,
 10223061,"Md.akram, Hossain",BAN,M,,,,1715,0,20,OCT25,1978,i
 10221999,"Md.alamgir, Hossain",BAN,M,,,,1732,0,20,OCT25,1961,i
-10221824,"Md.anikuzzaman, Anu",BAN,M,,NA,,1926,0,20,OCT25,1990,
+10221824,"Md.anikuzzaman, Anu",BAN,M,,NA,,1927,0,20,OCT25,1990,
 10220100,"Md.arif, Sheik(rubel)",BAN,M,,,,1544,0,40,OCT25,1969,i
 10222006,"Md.ariful , Amin",BAN,M,,,,2007,0,20,OCT25,1992,
 10219323,"Md.ariful, Amin",BAN,M,,,,1835,0,20,OCT25,1992,i
@@ -2738,7 +2739,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10219340,"Md.shafiqul, Islam",BAN,M,,,,1859,0,20,OCT25,1982,
 10215301,"Md.wakif, Islam",BAN,M,,,,1632,0,20,OCT25,1977,i
 532015674,"Md? Ashraful, Islam",BAN,M,,,,1691,0,40,OCT25,2005,
-532026641,"Md? Maruf Hossan, Likhon",BAN,M,,,,1575,0,40,OCT25,2006,
+532026641,"Md? Maruf Hossan, Likhon",BAN,M,,,,1576,0,40,OCT25,2006,
 532019343,"Md? Nayem, Uddin",BAN,M,,,,1740,0,40,OCT25,1998,
 532026668,"Md? Sazid Alam, Patwary",BAN,M,,,,1741,0,40,OCT25,1999,
 532015712,"Md? Shafat, Ilham",BAN,M,,,,1485,0,40,OCT25,2003,
@@ -2827,7 +2828,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10235841,"Mohammad , Ali Emon",BAN,M,,,,1555,0,20,OCT25,1996,i
 10216162,"Mohammad Abdur , Razzak",BAN,M,,,,1783,0,20,OCT25,1953,i
 10250190,"Mohammad Abul Hashem, Kohen",BAN,M,,,,1773,0,20,OCT25,1977,
-10297367,Mohammad Adil Ahnaf Nowrose,BAN,M,,,,1487,0,40,OCT25,2010,
+10297367,Mohammad Adil Ahnaf Nowrose,BAN,M,,,,1488,0,40,OCT25,2010,
 532006756,"Mohammad Ali Ahsan, Raabi",BAN,M,,,,1608,0,40,OCT25,2008,
 10203362,Mohammad Aminul Islam,BAN,M,,,,1896,0,20,OCT25,1973,
 10293965,"Mohammad Ariful, Hoque",BAN,M,,,,1667,0,40,OCT25,2007,
@@ -2847,7 +2848,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10262016,"Mohammad Mabrur, Raadh",BAN,M,,,,1458,0,40,OCT25,2016,
 10235850,"Mohammad Mahbubul Azam, Khan",BAN,M,,,,1746,0,20,OCT25,1991,i
 10295186,"Mohammad Maheen, Rahman",BAN,M,,,,1618,0,40,OCT25,2010,
-10297413,"Mohammad Mahfuzul, Karim",BAN,M,,,,1472,0,40,OCT25,1969,
+10297413,"Mohammad Mahfuzul, Karim",BAN,M,,,,1473,0,40,OCT25,1969,
 532026684,"Mohammad Mahiuddin, Shadi",BAN,M,,,,1474,0,40,OCT25,2006,
 10236414,"Mohammad Mamun, Hossain",BAN,M,,,,1852,0,20,OCT25,1979,
 10227148,"Mohammad Mamun, Mollah",BAN,M,,,,1930,0,20,OCT25,1979,i
@@ -2859,7 +2860,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10254102,"Mohammad Moshiur, Rahman",BAN,M,,,,1849,0,20,OCT25,1992,
 10226923,"Mohammad Murad, Hossain",BAN,M,,,,1746,0,20,OCT25,1984,i
 10279806,"Mohammad Musa, Ibrahim",BAN,M,,,,1440,0,40,OCT25,2014,i
-10205128,"Mohammad Mynul, Hasan",BAN,M,,,,1861,0,20,OCT25,1981,
+10205128,"Mohammad Mynul, Hasan",BAN,M,,,,1862,0,20,OCT25,1981,
 10207643,"Mohammad Nahid, Munshi",BAN,M,,,,1853,0,20,OCT25,0,i
 10219773,"Mohammad Navid Bin, Zahid",BAN,M,,,,1778,0,20,OCT25,1991,i
 10212060,"Mohammad Nazmul, Hasan",BAN,M,,,,1861,0,20,OCT25,1979,i
@@ -2889,14 +2890,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10227156,"Mohammad, Alamgir",BAN,M,,,,1820,0,20,OCT25,1967,i
 10206892,"Mohammad, Alamgir-2",BAN,M,,,,1877,0,20,OCT25,1972,i
 10239758,"Mohammad, Alauddin Elahi",BAN,M,,,,1771,0,20,OCT25,1985,i
-532000030,"Mohammad, Ali",BAN,M,,,,1638,0,40,OCT25,1976,i
 10245316,"Mohammad, Ali",BAN,M,,,,1595,0,20,OCT25,1974,i
+532000030,"Mohammad, Ali",BAN,M,,,,1638,0,40,OCT25,1976,i
 10233890,"Mohammad, Arifur Rahaman (rimon)",BAN,M,,,,1667,2,20,OCT25,1997,
 10245324,"Mohammad, Asaduzzaman",BAN,M,,,,1730,0,20,OCT25,1978,i
 10234411,"Mohammad, Aziz Uddin",BAN,M,,,,1861,0,20,OCT25,1978,i
 10201181,"Mohammad, Din",BAN,M,,,,1933,0,20,OCT25,1968,
 10213988,"Mohammad, Elias",BAN,M,,,,1725,0,20,OCT25,1965,
-10238042,"Mohammad, Emon",BAN,M,,,,1786,5,20,OCT25,2001,
+10238042,"Mohammad, Emon",BAN,M,,,,1787,5,20,OCT25,2001,
 10233156,"Mohammad, Hasan",BAN,M,,,,1861,5,20,OCT25,1982,
 10221867,"Mohammad, Hasan Mia",BAN,M,,,,1912,0,20,OCT25,1984,
 10239766,"Mohammad, Ibrahim",BAN,M,,,,1766,0,40,OCT25,2006,i
@@ -2905,7 +2906,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10235876,"Mohammad, Inzamam",BAN,M,,,,1579,0,20,OCT25,1995,
 10233903,"Mohammad, Ishaque",BAN,F,,,,1727,0,20,OCT25,1961,wi
 10200983,"Mohammad, Javed",BAN,M,FM,,,2052,0,20,OCT25,1983,
-10218149,"Mohammad, Jewel",BAN,M,,,,1887,0,20,OCT25,1976,
+10218149,"Mohammad, Jewel",BAN,M,,,,1888,0,20,OCT25,1976,
 10226206,"Mohammad, Kaisar",BAN,M,,,,1708,0,20,OCT25,1983,i
 10223649,"Mohammad, Kaisar Uddin",BAN,M,,,,1698,0,20,OCT25,1977,i
 10210156,"Mohammad, Kamruzzaman",BAN,M,,,,1871,0,20,OCT25,1975,i
@@ -2951,7 +2952,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10238050,"Mohammed, Abdul Jabbar",BAN,M,,,,1668,0,20,OCT25,2000,i
 10256733,"Mohammed, Alamgir",BAN,M,,,,1839,0,20,OCT25,1976,i
 10212981,"Mohammed, Anisuzzaman",BAN,M,,,,1750,0,20,OCT25,1971,i
-532023693,"Mohammed, Arman Hossain",BAN,M,,,,1541,0,40,OCT25,2009,
+532023693,"Mohammed, Arman Hossain",BAN,M,,,,1540,0,40,OCT25,2009,
 10223665,"Mohammed, Babarul Islam Babar",BAN,M,,,,1872,0,20,OCT25,1978,i
 10259848,"Mohammed, Hafizur Rahman",BAN,M,,,,1673,0,20,OCT25,1975,
 532028016,"Mohammed, Imtiaj Uddin",BAN,M,,,,1413,4,40,OCT25,1995,
@@ -2960,7 +2961,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10201882,"Mohammed, Mainuddin",BAN,M,,,,1899,0,20,OCT25,0,i
 10236708,"Mohammed, Maruf Chowdhury",BAN,M,,,,1793,6,20,OCT25,1965,
 10294538,"Mohammed, Naqibur Rahman",BAN,M,,,,1618,0,40,OCT25,2004,i
-10204237,"Mohammed, Salim",BAN,M,,,,1867,7,20,OCT25,1974,
+10204237,"Mohammed, Salim",BAN,M,,,,1868,7,20,OCT25,1974,
 10249150,"Mohammed, Shaker Ullah",BAN,M,,,,2121,0,40,OCT25,2007,
 10209921,"Mohammed, Tajul Islam",BAN,M,,,,1889,0,20,OCT25,1966,i
 10292861,"Mohammod Khurshid, Alam",BAN,M,,,,1801,0,40,OCT25,1982,i
@@ -3063,7 +3064,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10279040,"Muhammad Sadman, Saifan",BAN,M,,,,1435,0,40,OCT25,2010,
 10298983,"Muhammad Zaman, Molla",BAN,M,,,,1521,0,40,OCT25,1976,i
 532005830,"Muhammad, Abdullah Farook",BAN,M,,,,1696,0,40,OCT25,1971,
-532020422,"Muhammad, Anas",BAN,M,,,,1479,0,40,OCT25,2009,
+532020422,"Muhammad, Anas",BAN,M,,,,1480,0,40,OCT25,2009,
 10269045,"Muhammad, Hasan Takib",BAN,M,,,,1807,0,20,OCT25,2000,i
 10287124,"Muhammad, Iftakhar Reza Rahman",BAN,M,,,,1527,0,40,OCT25,2005,
 532029110,"Muhammad, Jaber",BAN,M,,,,1533,5,40,OCT25,2007,
@@ -3155,7 +3156,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10277803,"Naimul Islam, Avik",BAN,M,,,,1623,0,40,OCT25,2009,i
 10284915,"Naimul Islam, Naeem",BAN,M,,,,1888,0,40,OCT25,2001,
 10269177,"Naimul, Islam Naeem",BAN,M,,,,1448,0,20,OCT25,1999,i
-10269479,"Naimur Rahman, Durjoy",BAN,M,,,,1492,0,40,OCT25,2000,
+10269479,"Naimur Rahman, Durjoy",BAN,M,,,,1493,0,40,OCT25,2000,
 10230866,"Naiyemul, Hasan",BAN,M,,,,1639,0,20,OCT25,1996,i
 10272968,"Najif, Niaj",BAN,M,,,,1787,9,40,OCT25,2015,
 10235884,"Nakibul, Gani Labib",BAN,M,,,,1554,0,20,OCT25,2006,i
@@ -3198,7 +3199,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532007663,"Nazmus, Shahadat",BAN,M,,,,1774,0,40,OCT25,2003,
 10254978,"Neelava, Choudhury",BAN,F,WCM,WCM,,1882,10,40,OCT25,2010,w
 10275312,"Nehal, Towhid",BAN,M,,,,1687,0,40,OCT25,2006,i
-10288856,"Nehan, Abdullah",BAN,M,,,,AFM,1715,3,OCT25,2014,
+10288856,"Nehan, Abdullah",BAN,M,,,,1715,3,,OCT25,2014,
 10213996,"Neloy, Debnath",BAN,M,,,,1967,6,20,OCT25,1990,
 10230130,"Nepal, Candra Sarkar(wstat)",BAN,M,,,,1685,0,20,OCT25,1972,i
 10260897,"Neshad, Neloy",BAN,M,,,,1624,0,20,OCT25,2000,i
@@ -3207,13 +3208,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10227172,"Niamul, Haque",BAN,M,,,,1759,0,20,OCT25,1973,i
 10258140,"Nidhi, Cathirine Das",BAN,M,,,,1497,0,40,OCT25,2003,
 532025939,"Nijum, Barua",BAN,M,,,,1597,0,40,OCT25,2001,
-10284320,"Nilav, Kumar Gupta",BAN,M,,,,1516,9,40,OCT25,2013,
 10238484,"Nilotpaul, Sen",BAN,M,,,,1691,0,20,OCT25,2001,
 10282459,"Niloy, Chowdhury",BAN,M,,,,1657,0,20,OCT25,2002,
 10246576,"Niloy, Sarker",BAN,M,,,,1717,0,20,OCT25,2000,i
 10257748,"Nion, Al Safi",BAN,M,,,,1756,0,40,OCT25,2010,
 10220607,"Nirapada, Biswas",BAN,M,,,,1998,0,20,OCT25,1973,i
-532018711,"Nirol, Chowdhury",BAN,M,,,,1569,7,40,OCT25,2011,
+532018711,"Nirol, Chowdhury",BAN,M,,,,1516,11,40,OCT25,2011,
 10247718,"Nirothay, Dev Aurab",BAN,M,,,,1615,0,40,OCT25,2011,i
 10289925,"Nishan, Muslim Uddin",BAN,M,,,,1637,0,40,OCT25,1997,i
 10289097,"Nishat, Anjum",BAN,F,,,,1573,0,40,OCT25,2006,wi
@@ -3237,7 +3237,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10228195,"Nur, Muhammad",BAN,M,,,,1717,0,20,OCT25,1995,i
 10264019,"Nur, Nahar",BAN,M,,,,1522,0,40,OCT25,2009,i
 10264752,Nuralam,BAN,M,,,,1593,0,20,OCT25,2001,i
-532025947,"Nurul Mahfuz Hasan, Anan",BAN,M,,,,1412,0,40,OCT25,2004,
+532025947,"Nurul Mahfuz Hasan, Anan",BAN,M,,,,1413,0,40,OCT25,2004,
 532003129,"Nurul, Alam",BAN,M,,,,1637,0,40,OCT25,2004,
 10232222,"Nurul, Amin",BAN,M,,,,1601,0,20,OCT25,1993,i
 10250948,"Nurul, Islam (isha)",BAN,M,,,,1726,0,20,OCT25,1968,i
@@ -3272,8 +3272,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10269932,"Osman Faruk, Sami",BAN,M,,,,1568,0,40,OCT25,2008,i
 10254161,"Osman Goni, Chayan",BAN,M,,,,1734,0,20,OCT25,2004,i
 10276386,"Osman, Goni",BAN,M,,,,1884,0,20,OCT25,1995,i
-10211446,"Osman, Goni",BAN,M,,,,1740,13,20,OCT25,0,
-532006772,"Oyhin, Enayet",BAN,M,,,,1500,0,40,OCT25,2011,
+10211446,"Osman, Goni",BAN,M,,,,1741,13,20,OCT25,0,
+532006772,"Oyhin, Enayet",BAN,M,,,,1502,0,40,OCT25,2011,
 10210741,"Oyon, Nur Newaz",BAN,M,,,,1755,0,20,OCT25,2002,i
 10287159,"Paban, Barua",BAN,M,,,,1519,0,40,OCT25,2007,i
 532028067,"Pabel, Roaza",BAN,M,,,,1725,0,40,OCT25,2004,
@@ -3314,7 +3314,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10298690,"Prasanta, Joydhar",BAN,M,,,,1553,0,40,OCT25,1988,i
 10225838,"Pratick, Bhowmick",BAN,M,,,,1581,0,20,OCT25,2001,i
 10267913,"Pravash, Bhowmik",BAN,M,,,,1555,0,20,OCT25,1979,i
-10254170,"Preetam, Barua",BAN,M,,,,1601,0,20,OCT25,1983,
+10254170,"Preetam, Barua",BAN,M,,,,1602,0,20,OCT25,1983,
 10234551,"Preethul, Ornob",BAN,M,,,,1481,0,20,OCT25,1997,i
 10297952,"Pretam, Mondal",BAN,M,,,,1639,0,40,OCT25,2011,i
 10253700,"Prietom, Sarkar",BAN,M,,,,1516,0,20,OCT25,2002,i
@@ -3351,6 +3351,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10275428,"Prottoyee, Joyti Barua",BAN,F,,,,1457,0,40,OCT25,2007,wi
 10297030,"Provhudeb, Paul",BAN,M,,,,1477,0,40,OCT25,2007,
 532020473,"Pulok Kumar, Basu",BAN,M,,,,1773,0,40,OCT25,2004,
+10295461,"Purba, Aparajita Das",BAN,F,,,,1488,5,40,OCT25,2016,w
 10250468,"Purnendu, Biswas",BAN,M,,,,1893,0,20,OCT25,1984,
 532003722,"Purno, Aritra Barua",BAN,M,,,,1417,10,40,OCT25,2011,
 10279059,"Quafshed Tayush, Nur",BAN,M,,,,1613,0,40,OCT25,2004,
@@ -3371,7 +3372,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10287620,"Rafe Imam, Rohan",BAN,M,,,,1708,0,40,OCT25,2007,
 532025971,"Rafi, Abdullah",BAN,M,,,,1652,0,40,OCT25,2003,
 10231986,"Rafi, Islam",BAN,M,,,,1855,0,20,OCT25,1999,i
-10278095,"Rafid Arian, Suddho",BAN,M,,,,1722,0,40,OCT25,2009,
+10278095,"Rafid Arian, Suddho",BAN,M,,,,1723,0,40,OCT25,2009,
 10270922,"Rafid Umayer, , Murshed",BAN,M,,,,1591,0,20,OCT25,1997,i
 10214798,"Rafid, Jawad",BAN,M,,,,1746,0,20,OCT25,1997,i
 10248226,"Rafikul, Islam",BAN,M,,,,1548,0,20,OCT25,1985,i
@@ -3382,12 +3383,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10269193,"Rafiqul, Islam (liton)",BAN,M,,,,1658,0,20,OCT25,1977,
 10285911,"Rafiul Islam, Rakib",BAN,M,,,,1615,0,40,OCT25,2008,i
 10234764,"Rafiul Rowshan , Majeed Fahim",BAN,M,,,,1842,0,20,OCT25,1985,
-10276742,"Rafiul, Hsan Pranto",BAN,M,,,,1732,0,40,OCT25,2008,i
+10276742,"Rafiul, Hasan Pranto",BAN,M,,,,1732,0,40,OCT25,2008,i
 10231307,"Rafsaan Muhab, Shams",BAN,M,,,,1603,0,20,OCT25,2000,i
 10233105,"Rafsan Billah, Md.",BAN,M,,,,1569,0,20,OCT25,1996,i
 10278109,"Rafsan Reza, Bukhari",BAN,M,,,,1521,0,40,OCT25,2015,
 532015240,"Rafsan, Khan",BAN,M,,,,1646,0,40,OCT25,2004,
-10285717,"Rafsan, Shabib",BAN,M,,,,1420,4,40,OCT25,2014,
+10285717,"Rafsan, Shabib",BAN,M,,,,1419,4,40,OCT25,2014,
 10292284,"Rafsun, Zame",BAN,M,,,,1718,0,40,OCT25,2006,i
 532003200,"Raghav, Pantha",BAN,M,,,,1598,0,40,OCT25,2006,
 10238751,"Ragib, Shahriar",BAN,M,,,,1628,0,20,OCT25,1998,
@@ -3404,8 +3405,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10202803,"Rahman, Mahfuzur Shahin",BAN,M,,,,1987,0,20,OCT25,0,
 10201289,"Rahman, Masudur",BAN,M,,,,1998,0,20,OCT25,0,i
 10203044,"Rahman, Masudur Bari",BAN,M,,,,2025,0,20,OCT25,1982,i
-10292950,"Rahman, Md Alaur",BAN,M,,,,1833,0,40,OCT25,1975,i
 10291164,"Rahman, Md Alaur",BAN,M,,,,1785,0,40,OCT25,1984,i
+10292950,"Rahman, Md Alaur",BAN,M,,,,1833,0,40,OCT25,1975,i
 10289968,"Rahman, Md Atikur",BAN,M,,,,1706,0,40,OCT25,1970,
 532027184,"Rahman, Md Imran",BAN,M,,,,1622,0,40,OCT25,2010,
 532003323,"Rahman, Md Tariqur",BAN,M,,,,1511,0,40,OCT25,2010,
@@ -3461,7 +3462,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10222545,"Raju, Ahmed",BAN,M,,,,1750,0,20,OCT25,1986,i
 10270582,"Raju, Ahmed",BAN,M,,,,1888,0,20,OCT25,2002,i
 10224050,"Rajwan, Mollik",BAN,M,,,,1814,13,20,OCT25,1980,
-10215433,"Rakib Ahmed , Saleh",BAN,M,,,,AFM,1920,0,OCT25,1984,i
+10215433,"Rakib Ahmed , Saleh",BAN,M,,,,1920,0,,OCT25,1984,i
 10255559,"Rakib, Uddin",BAN,M,,,,1728,0,20,OCT25,1991,
 10234225,"Rakibul Islam Maruf, Md.",BAN,M,,,,1630,0,20,OCT25,1999,i
 532018959,"Rakibul Islam, Babu",BAN,M,,,,1826,0,40,OCT25,1978,
@@ -3485,8 +3486,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10292667,"Rashid Majid, Dhaniya",BAN,M,,,,1568,3,40,OCT25,1973,
 10294007,"Rashid, Mutahammil",BAN,M,,,,1541,0,40,OCT25,2010,i
 10272810,"Rashid, Samin",BAN,M,,,,1545,0,40,OCT25,2001,i
-10298142,"Rashidun Karim, Rahim",BAN,M,,,,1810,0,40,OCT25,2007,i
 10297294,"Rashidun Karim, Rahim",BAN,M,,,,1753,0,40,OCT25,2010,i
+10298142,"Rashidun Karim, Rahim",BAN,M,,,,1810,0,40,OCT25,2007,i
+10276432,"Rashni, Rob",BAN,M,,,,1426,9,40,OCT25,2010,
 10249109,"Ratan Kumar, Chakma",BAN,M,,,,1881,0,20,OCT25,1979,i
 10291377,"Ratan, Biswas",BAN,M,,NA,,1785,0,40,OCT25,1985,
 10254218,"Ratan, Chakma",BAN,M,,,,1892,0,20,OCT25,1979,i
@@ -3504,24 +3506,24 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10228730,"Razaul, Karim",BAN,M,,,,1604,0,40,OCT25,1987,
 10257780,"Razib, Md Hasinur Rahman",BAN,M,,,,1889,0,20,OCT25,1986,
 10283625,"Razibul, Haque",BAN,M,,,,1830,0,20,OCT25,1995,
-10204466,Reasat-E-Noor,BAN,M,,FA,,AGM,1918,0,OCT25,1991,
+10204466,Reasat-E-Noor,BAN,M,,FA,,1918,0,,OCT25,1991,
 10200207,"Reefat, Bin-Sattar",BAN,M,GM,,,2401,0,10,OCT25,1974,
 532015879,"Refat Islam, Nibir",BAN,M,,,,1649,0,40,OCT25,2005,
 10254226,"Reja Muhammad, Bakhtier",BAN,M,,,,1904,0,20,OCT25,1991,i
 10242740,"Relish , Rongdi",BAN,M,,,,1708,0,20,OCT25,1996,i
-10254641,"Rene , Rasikh",BAN,M,,,,1844,0,40,OCT25,2007,
+10254641,"Rene , Rasikh",BAN,M,,,,1845,0,40,OCT25,2007,
 10296239,Repon,BAN,M,,NA,,1838,0,40,OCT25,1995,
 10233938,"Reyana, Tanjim",BAN,F,,,,1641,0,20,OCT25,2002,wi
 10278796,"Reza Nur, Rishad",BAN,M,,,,1507,0,20,OCT25,1987,i
 10260412,"Reza, Ahmed",BAN,M,,,,1719,0,20,OCT25,1992,i
 10273980,"Reza, Md Selim",BAN,M,,,,1726,0,20,OCT25,1988,i
 10231218,"Rezaul Karim , Hiru",BAN,M,,,,1976,0,20,OCT25,1969,i
-10225781,"Rezaul, Karim",BAN,M,,,,1839,0,20,OCT25,1981,
+10225781,"Rezaul, Karim",BAN,M,,,,1840,0,20,OCT25,1981,
 10246924,"Rezaul, Karim Chowdhury",BAN,M,,,,1877,0,20,OCT25,1989,
 10233326,"Rezaul, Mondal",BAN,M,,,,1816,0,20,OCT25,1980,
 10226974,"Rezoanul , Khan",BAN,M,,,,1716,0,20,OCT25,1992,i
 10276459,"Rezwan, Khan",BAN,M,,,,1754,4,40,OCT25,2010,
-532026013,"Rhyme, Rayyan",BAN,M,,,,1652,0,40,OCT25,2005,
+532026013,"Rhyme, Rayyan",BAN,M,,,,1653,0,40,OCT25,2005,
 532004095,"Rhythm, B M Al Shahriar",BAN,M,,,,1636,0,40,OCT25,2008,
 532007434,"Riad, Mahmud Pele",BAN,M,,,,1686,0,40,OCT25,1980,
 532017880,"Riajur, Rahman",BAN,M,,,,1467,0,40,OCT25,2009,
@@ -3535,7 +3537,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10249958,"Ridwan, Rabbani",BAN,M,,,,1627,0,40,OCT25,2012,
 10279873,"Rifah Sayeara, Mubina",BAN,F,,,,1503,0,40,OCT25,2014,w
 10232273,"Rifat Uddin, Elahi",BAN,M,,,,1807,0,20,OCT25,1997,i
-532006861,"Rifat, Hasan",BAN,M,,,,1767,0,40,OCT25,2003,
+532006861,"Rifat, Hasan",BAN,M,,,,1768,0,40,OCT25,2003,
 532015887,"Rifat, Munshi",BAN,M,,,,1716,0,40,OCT25,2001,
 10290010,"Rifat, Tahsinul",BAN,M,,,,1668,0,40,OCT25,2000,
 10294970,"Rimon, Shil",BAN,M,,,,1690,0,40,OCT25,2004,i
@@ -3545,7 +3547,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532015283,"Rishad, Amin",BAN,M,,,,1482,0,40,OCT25,2001,
 10255699,"Rishikesh, Goswami",BAN,M,,,,1726,0,20,OCT25,1970,
 532021046,"Rishit, Mondal",BAN,M,,,,1595,0,40,OCT25,2013,
-10269975,"Ritvik, Joaddar",BAN,M,,,,1464,0,40,OCT25,2011,
+10269975,"Ritvik, Joaddar",BAN,M,,,,1465,0,40,OCT25,2011,
 10225358,Riyan -Ul- Islam,BAN,M,,,,1734,0,20,OCT25,2004,i
 532005520,"Riyasat, Tahsin",BAN,M,,,,1924,0,40,OCT25,2007,
 10255478,"Riz, Uddin",BAN,M,,,,1732,0,20,OCT25,2002,i
@@ -3568,30 +3570,30 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10296697,"Roy, Soikat",BAN,M,,,,1607,0,40,OCT25,2001,
 532028075,"Rubaer, Al Farhad Shafin",BAN,M,,,,1542,0,40,OCT25,2004,
 10253068,"Rubaiat Afroz, Aurnob",BAN,M,,,,1721,6,40,OCT25,2009,
-10297510,"Rubaiyat, Araaf",BAN,M,,,,ACM,1538,2,OCT25,2010,
+10297510,"Rubaiyat, Araaf",BAN,M,,,,1538,2,,OCT25,2010,
 10264566,Rubel Mollik,BAN,M,,,,1742,0,20,OCT25,1988,i
 10243046,"Rubel, Hossen",BAN,M,,,,1999,0,20,OCT25,1993,
 532003617,"Rubel, Khan",BAN,M,,,,1713,0,40,OCT25,1995,i
 10252223,"Rujhan, Amin",BAN,M,,,,1551,0,40,OCT25,2010,i
 10286080,"Rukon, Mia",BAN,M,,,,1753,0,40,OCT25,1971,i
 10233210,"Rukunuzzaman, Md.",BAN,M,,,,1609,0,20,OCT25,1985,i
-10224548,"Rumana, Ferdous",BAN,F,,FA,,AIM,1717,0,OCT25,1994,wi
+10224548,"Rumana, Ferdous",BAN,F,,FA,,1717,0,,OCT25,1994,wi
 10221352,Rumaysa Haider,BAN,F,,,,1651,0,40,OCT25,2006,wi
 10223703,"Rupam, Kumar Bhattachariya",BAN,M,,,,1521,0,20,OCT25,1981,i
 10281754,"Rupok Kanti, Dev",BAN,M,,,,1906,0,40,OCT25,1983,
 10230882,"Rushil, Aadheen Reza",BAN,M,,,,1470,0,40,OCT25,2008,i
 10209255,"S C Sarker, Shyamal",BAN,M,,,,1738,0,20,OCT25,0,i
-10270957,"S M A, Nahian",BAN,M,,,,AFM,1677,0,OCT25,2006,i
+10270957,"S M A, Nahian",BAN,M,,,,1677,0,,OCT25,2006,i
 10246215,"S M Abdul, Mannan",BAN,M,,,,1603,0,40,OCT25,1995,i
 10220860,"S M Abdur, Rahman",BAN,M,,,,1873,0,20,OCT25,1981,i
-10252231,"S M Abid Bin Gaffar, Abir",BAN,M,,,,1792,0,40,OCT25,2011,
+10252231,"S M Abid Bin Gaffar, Abir",BAN,M,,,,1793,0,40,OCT25,2011,
 10235370,S M Abir Hossain,BAN,M,,,,1546,0,40,OCT25,2009,i
 10245405,"S M Abu, Hasan",BAN,M,,,,1774,0,20,OCT25,1963,i
 532018770,"S M Ahnaf, Jawad",BAN,M,,,,1412,0,40,OCT25,2014,
 10217827,"S M Arman, Mehedi",BAN,M,,,,1911,0,20,OCT25,1992,i
 532010010,"S M Ayaan, Ahmed",BAN,M,,,,1606,5,40,OCT25,2010,
-10279199,S M Ghori,BAN,M,,,,1732,0,20,OCT25,1985,i
 10280138,S M Ghori,BAN,M,,,,1787,0,40,OCT25,1965,i
+10279199,S M Ghori,BAN,M,,,,1732,0,20,OCT25,1985,i
 10267735,"S M Hasan, Shafi",BAN,M,,,,1704,0,20,OCT25,2000,
 532007256,"S M Mahabubur, Rahman",BAN,M,,,,1775,0,40,OCT25,1978,
 10288155,"S M Muntasir, Nafi",BAN,M,,,,1493,0,40,OCT25,2007,
@@ -3612,7 +3614,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10208658,S. M. Tareq,BAN,M,,,,1900,6,20,OCT25,1975,
 10204474,"S.D., Pinku",BAN,M,,,,2010,0,20,OCT25,1978,i
 10227180,"S.m Rezwanul, Haque",BAN,M,,,,1945,0,20,OCT25,1995,i
-10222561,"S.m. Gofur, Uddin",BAN,M,,,,1777,0,20,OCT25,1979,
+10222561,"S.m. Gofur, Uddin",BAN,M,,,,1778,0,20,OCT25,1979,
 10202820,"S.m., Kotaiba Biplob",BAN,M,,,,1882,0,20,OCT25,0,
 10227911,"S.m.farhan, Shahriar",BAN,M,,,,1520,0,40,OCT25,2005,i
 10246231,"Saad Bin , Habib",BAN,M,,,,1607,0,40,OCT25,1997,
@@ -3636,7 +3638,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10204032,"Sabya, Sachi",BAN,M,,,,1922,0,20,OCT25,0,
 10276475,"Sabyashachi, Dey Joy",BAN,M,,,,1823,0,40,OCT25,1994,
 10213252,"Sacchu, Afzal Hossain",BAN,M,,,,1977,0,20,OCT25,1972,
-10270965,"Saccidananda, Paul, Smran",BAN,M,,,,1510,0,20,OCT25,2000,
+10270965,"Saccidananda, Paul, Smran",BAN,M,,,,1511,0,20,OCT25,2000,
 10240250,"Sadaath, Islam",BAN,M,,,,1651,0,20,OCT25,1999,i
 10248072,"Sadat Ibna, Sultan",BAN,M,,,,1848,0,20,OCT25,2001,
 532006799,"Sadat, Hossain",BAN,M,,,,1514,0,40,OCT25,2002,
@@ -3646,7 +3648,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10236449,"Sadhan Kumer , Sarkar",BAN,M,,,,1694,0,20,OCT25,1981,
 10208623,"Sadi, Shadman Abedin",BAN,M,,,,1670,0,20,OCT25,1995,
 10224556,"Sadia, Afrin Samia",BAN,F,,,,1672,0,40,OCT25,2007,wi
-532009526,"Sadid Munjir, Mehran",BAN,M,,,,1784,0,40,OCT25,2008,
+532009526,"Sadid Munjir, Mehran",BAN,M,,,,1783,0,40,OCT25,2008,
 532012004,"Sadid Munjir, Mehran",BAN,M,,,,1775,0,40,OCT25,2010,
 10282491,"Sadik Ibrahim, Galib",BAN,M,,,,1552,2,40,OCT25,2010,
 10292705,"Sadik Rashid, Dhaniya",BAN,M,,,,1503,1,40,OCT25,2008,
@@ -3662,7 +3664,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10245502,"Safayat, Kibria Azaan",BAN,M,,,,1928,7,40,OCT25,2014,
 10287558,"Safin, Karim",BAN,M,,,,1585,8,40,OCT25,2013,
 532006268,"Safiqul, Islam Tuhin",BAN,M,,,,1960,0,40,OCT25,1990,
-10255591,"Safkat, Tahmit Adib",BAN,M,,,,1704,0,20,OCT25,2006,
+10255591,"Safkat, Tahmit Adib",BAN,M,,,,1705,0,20,OCT25,2006,
 10274596,"Safwam, Shami",BAN,M,,,,1603,0,40,OCT25,2012,
 10246932,"Safwan Swadin, Orjan",BAN,M,,,,1977,0,40,OCT25,2007,
 10254560,"Safwan, Araf",BAN,M,,,,1594,0,20,OCT25,1999,i
@@ -3675,7 +3677,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10204261,"Saha, Probeer Chandra",BAN,M,,,,1947,0,20,OCT25,1975,
 10257810,"Saha, Sree Badol Kumar",BAN,M,,,,1837,0,20,OCT25,1985,
 10219218,"Sahaf Al, Tayef",BAN,M,,,,1668,0,40,OCT25,2005,i
-532008678,"Sahaf, Anwar",BAN,M,,,,1747,0,40,OCT25,2011,
+532008678,"Sahaf, Anwar",BAN,M,,,,1750,0,40,OCT25,2011,
 532006977,"Sahir Ahmed, Chowdhury",BAN,M,,,,1624,0,40,OCT25,2011,
 10200681,"Saidul, Islam",BAN,M,,,,1971,0,20,OCT25,0,i
 10260420,"Saidul, Sarkar",BAN,M,,,,1769,0,20,OCT25,1989,i
@@ -3685,7 +3687,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10227385,"Saif, Ahmed",BAN,M,,,,1793,0,20,OCT25,1994,i
 10231765,"Saif, Hassan",BAN,M,,,,1651,0,20,OCT25,1997,i
 10267204,"Saiful Alam, Reza",BAN,M,,,,1654,0,20,OCT25,1992,i
-10208038,"Saiful Islam, Chowdhury",BAN,M,CM,,,2071,0,20,OCT25,1983,
+10208038,"Saiful Islam, Chowdhury",BAN,M,CM,,,2072,0,20,OCT25,1983,
 10285407,"Saiful Islam, Rasel",BAN,M,,,,1611,0,40,OCT25,1996,
 10231773,"Saiful, Islam",BAN,M,,,,1939,0,20,OCT25,1972,i
 10223738,"Saiful, Islam",BAN,M,,,,1760,0,20,OCT25,1986,i
@@ -3696,7 +3698,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10286403,"Saiyara, Subah",BAN,F,,,,1542,0,40,OCT25,2011,w
 10208178,"Sajal, Biswas",BAN,M,,,,1874,0,20,OCT25,1979,
 10243836,"Sajedul, Kabir Sajed",BAN,M,,,,1709,0,20,OCT25,1997,
-532017928,"Sajib, Ahmad",BAN,M,,,,1533,5,40,OCT25,2009,
+532017928,"Sajib, Ahmad",BAN,M,,,,1534,5,40,OCT25,2009,
 10232010,"Sajib, Das",BAN,M,,,,1893,0,20,OCT25,2002,i
 532000650,"Sajib, Hossain",BAN,M,,,,1932,0,40,OCT25,1997,
 10255486,"Sajib, Sahariur",BAN,M,,,,1788,0,20,OCT25,1996,i
@@ -3720,7 +3722,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10224416,"Saleh, Ahmed",BAN,M,,,,1646,0,20,OCT25,1983,i
 10204040,"Salehin, Sumon",BAN,M,,,,1797,0,20,OCT25,1975,i
 10274910,"Salim, Ullah",BAN,M,,,,1643,0,20,OCT25,1974,i
-315277478,"Samadder, Mridul Kanti",BAN,M,,,,AIM,1766,0,OCT25,1981,i
+315277478,"Samadder, Mridul Kanti",BAN,M,,,,1766,0,,OCT25,1981,i
 10272194,"Samantha, Jahan",BAN,F,,,,1607,0,40,OCT25,2005,wi
 10286551,"Sameen, Hasan",BAN,M,,,,1657,3,40,OCT25,2008,
 10276491,"Sameul, Ashraf",BAN,M,,,,1782,0,20,OCT25,1971,
@@ -3752,7 +3754,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10251030,"Sanjida, Akter Khushi",BAN,F,,,,1570,0,40,OCT25,2006,wi
 10281762,"Sanjit, Roy",BAN,M,,,,1679,0,20,OCT25,1987,
 10246967,"Sanjoy Kumar , Bhowmik",BAN,M,,,,1576,0,40,OCT25,1988,
-532018975,"Sanjoy Kumar, Sana",BAN,M,,,,1745,0,40,OCT25,1979,
+532018975,"Sanjoy Kumar, Sana",BAN,M,,,,1744,0,40,OCT25,1979,
 532030339,"Sanjoy, Baroi",BAN,M,,,,1800,5,40,OCT25,1997,
 10239308,"Sanjoy, Bormon",BAN,M,,,,1859,0,20,OCT25,1997,i
 532000065,"Sanjoy, Kumar Talukder",BAN,M,,,,1746,0,40,OCT25,1983,i
@@ -3773,7 +3775,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532025165,"Sarder, Alamgir",BAN,M,,,,1756,0,40,OCT25,1999,
 10296751,"Sarit, Kumar Chakma",BAN,M,,,,1890,0,40,OCT25,1975,
 10227407,"Sarkar, Bappy",BAN,M,,,,1863,0,20,OCT25,1991,i
-10204563,"Sarkar, Md Ali Nawaz",BAN,M,,,,1933,0,20,OCT25,1984,
+10204563,"Sarkar, Md Ali Nawaz",BAN,M,,,,1934,0,20,OCT25,1984,
 10220151,"Sarkar, Rikta",BAN,F,,,,1486,0,20,OCT25,1973,w
 532029969,"Sarkar, Supada",BAN,M,,,,1651,5,40,OCT25,1972,
 10292721,"Sarker Md Abdullah, Azam",BAN,M,,,,1508,1,40,OCT25,1972,
@@ -3783,7 +3785,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21302642,"Sarker, Sahitto",BAN,M,,,,1555,0,40,OCT25,2010,i
 10234594,"Sarowar, Hossain",BAN,M,,,,1617,0,20,OCT25,1998,i
 10219919,"Sarower, Hossen",BAN,M,,,,1719,0,20,OCT25,1978,i
-10201076,"Sarwar, Hossain Ullash",BAN,M,,,,1953,3,20,OCT25,1979,
+10201076,"Sarwar, Hossain Ullash",BAN,M,,,,1954,3,20,OCT25,1979,
 10223967,"Sarwari, Mahbub",BAN,M,,,,1810,0,20,OCT25,1975,i
 10270167,"Satta Gopal, Bormon",BAN,M,,,,1586,0,40,OCT25,1989,
 10269223,"Sattagopal, Barmon",BAN,M,,,,1659,0,20,OCT25,1989,
@@ -3815,7 +3817,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532026099,"Shadman Sakib, Faruki",BAN,M,,,,1679,0,40,OCT25,2002,
 532000200,"Shadman Shakib, Dip",BAN,M,,,,1483,0,40,OCT25,2008,i
 10270981,"Shadman, Nahiyan",BAN,M,,,,1516,0,20,OCT25,2003,i
-532011733,"Shadman, Sihab",BAN,M,,,,1545,0,40,OCT25,2005,
+532011733,"Shadman, Sihab",BAN,M,,,,1544,0,40,OCT25,2005,
 10277668,"Shadnan Islam, Abir",BAN,M,,,,1715,0,40,OCT25,2009,i
 10222715,"Shafayet , Ashkari (riko)",BAN,M,,,,1868,0,20,OCT25,1984,
 532012055,"Shafeen Sufian, Meead",BAN,M,,,,1516,0,40,OCT25,2004,
@@ -3846,7 +3848,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10257438,"Shahidul, Islam Biswas",BAN,M,,,,1561,0,40,OCT25,1972,
 532021348,"Shahin, Khan",BAN,M,,,,1809,0,40,OCT25,1978,
 10290311,"Shahinur Rahman, Sabuz",BAN,M,,,,1770,0,40,OCT25,2002,
-10234713,"Shahinur, Haque",BAN,M,,,,1852,0,20,OCT25,1985,
+10234713,"Shahinur, Haque",BAN,M,,,,1853,0,20,OCT25,1985,
 10264124,"Shahinur, Khatun",BAN,M,,,,1421,0,40,OCT25,2010,
 10297073,"Shahir Aahil, Sumon",BAN,M,,,,1519,0,40,OCT25,2014,
 10243216,"Shahjad Hasim, Sadab",BAN,M,,,,1577,0,20,OCT25,2004,i
@@ -3876,8 +3878,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10220879,"Shakib, Shahrier Efty",BAN,M,,,,1714,0,20,OCT25,1997,i
 10232311,"Shakira, Islam",BAN,M,,,,1549,0,20,OCT25,2003,i
 10235965,"Shameem, Sohanee",BAN,M,,,,1750,0,20,OCT25,1993,i
-10264663,"Shamim, Ahmed",BAN,M,,,,1832,0,20,OCT25,1982,i
 532006284,"Shamim, Ahmed",BAN,M,,,,1813,0,40,OCT25,1988,
+10264663,"Shamim, Ahmed",BAN,M,,,,1832,0,20,OCT25,1982,i
 10256490,"Shamim, Ahmmed",BAN,M,,,,1926,0,20,OCT25,1982,i
 10207074,"Shamim, Hossain",BAN,M,,,,1851,0,20,OCT25,1976,i
 10280847,"Shamim, Sardar",BAN,M,,,,1719,0,20,OCT25,1993,i
@@ -3915,7 +3917,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10230904,"Shayaan Areeb, Reefat",BAN,M,,,,1638,0,40,OCT25,2011,
 532006071,"Shayaan, Ahmed",BAN,M,,,,1475,0,40,OCT25,2012,
 10299475,"Shayan Meerab, Hasan",BAN,M,,,,1702,0,40,OCT25,2011,
-10278141,"Shayan, Wadud",BAN,M,,,,ACM,1534,0,OCT25,2015,
+10278141,"Shayan, Wadud",BAN,M,,,,1534,0,,OCT25,2015,
 10242937,"Shayantan, Osman",BAN,M,,,,1436,0,40,OCT25,2013,i
 10284966,"Shazzad Hossain, Setu",BAN,M,,,,1491,0,40,OCT25,2003,
 532016930,"Shehzad, Shabib Ahmed",BAN,M,,,,1625,6,40,OCT25,2013,
@@ -3949,7 +3951,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10288325,"Shobontic, Saha",BAN,M,,,,1661,0,40,OCT25,2010,i
 10245359,"Shofu, Sarder",BAN,M,,,,1764,0,20,OCT25,1963,i
 10224564,"Shohan, Shake",BAN,M,,,,2008,0,20,OCT25,1989,
-532010397,"Shohanur, Rahman Shohan",BAN,M,,,,AFM,1690,0,OCT25,2005,
+532010397,"Shohanur, Rahman Shohan",BAN,M,,,,1690,0,,OCT25,2005,
 10238085,"Shohel, Chakma",BAN,M,,,,1854,0,20,OCT25,1988,i
 10281835,"Shohidul, Islam",BAN,M,,,,1633,0,40,OCT25,1982,
 10255567,"Shohir, Uddin",BAN,M,,,,1668,0,40,OCT25,1971,i
@@ -3974,7 +3976,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10268847,"Siam, Ahmed",BAN,M,,,,1757,0,20,OCT25,1997,
 10237771,"Siam, Chowdhury",BAN,M,,,,2049,14,40,OCT25,2011,
 532025173,"Siam, Tanvir Azad",BAN,M,,,,1514,0,40,OCT25,2009,
-10205543,"Sibu, Podder",BAN,M,,,,1744,0,20,OCT25,1983,
+10205543,"Sibu, Podder",BAN,M,,,,1745,0,20,OCT25,1983,
 10266771,"Sidana, Rakib Richi",BAN,F,,,,1455,0,20,OCT25,1999,wi
 10267620,"Siddik, Abu Jafor",BAN,M,,,,1724,0,40,OCT25,2001,
 10202846,"Siddique, Arman Mithu",BAN,M,,,,1965,0,20,OCT25,1977,
@@ -3994,7 +3996,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10279229,"Sirajus, Salekin",BAN,M,,,,1546,0,20,OCT25,1982,i
 10235396,Sk Anannyo Kader,BAN,M,,,,1510,0,40,OCT25,2006,i
 10235400,Sk Anupom Kader,BAN,M,,,,1584,0,40,OCT25,2008,
-10230254,Sk Ruman Ur Rashid,BAN,M,,,,AIM,1933,0,OCT25,1991,
+10230254,Sk Ruman Ur Rashid,BAN,M,,,,1933,0,,OCT25,1991,
 10280855,"Sk, Masududdin",BAN,M,,,,1834,0,20,OCT25,1973,i
 10293027,"Sk, Md Anas",BAN,M,,,,1554,0,40,OCT25,2003,i
 10207260,Sk. Al Amin Hossan Shourav,BAN,M,,,,1890,0,20,OCT25,1996,i
@@ -4018,7 +4020,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10293710,"Sohan, Sobhan",BAN,M,,,,1730,0,40,OCT25,1979,i
 10220186,"Sohel, Masud Aziz",BAN,M,,,,1778,0,20,OCT25,1981,i
 10266143,"Sohel, Mia",BAN,M,,,,1767,0,20,OCT25,1999,
-10240071,"Sohom, Saumeep",BAN,M,,,,1724,0,40,OCT25,1998,
+10240071,"Sohom, Saumeep",BAN,M,,,,1726,0,40,OCT25,1998,
 532006292,"Sohrab, Bhuiyan",BAN,M,,,,1647,0,40,OCT25,1978,
 10284184,"Sojib, Islam",BAN,M,,,,1913,0,40,OCT25,2000,
 10205586,"Somiun, Bashir",BAN,M,,,,1896,0,20,OCT25,1986,
@@ -4103,7 +4105,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10243798,"Swarat, Debnath",BAN,M,,,,1622,0,40,OCT25,2011,
 532026765,"Swarga Dipta Ghosh, Kushal",BAN,M,,,,1562,0,40,OCT25,2005,
 10214984,Swarnavo Choudhury,BAN,M,,,,2158,6,20,OCT25,2006,
-532021542,"Swasti, Ranjan",BAN,M,,,,1681,5,40,OCT25,2012,
+532021542,"Swasti, Ranjan",BAN,M,,,,1590,9,40,OCT25,2012,
 10271040,"Swayam, , Saukarja",BAN,M,,,,1518,0,40,OCT25,2005,i
 10202102,"Syed Abdul, Zaker",BAN,M,,,,1960,0,20,OCT25,1963,
 10230920,"Syed Ahnaf , Tahmid Sami",BAN,M,,,,1563,0,40,OCT25,2011,i
@@ -4112,9 +4114,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532006608,"Syed Ibnul, Hasan",BAN,M,,,,1683,0,40,OCT25,2010,
 10230661,"Syed Maisha, Mahfuz",BAN,F,,,,1480,0,40,OCT25,2012,wi
 532008066,"Syed Musnoon, Farhan",BAN,M,,,,1498,5,40,OCT25,2011,
-532008074,"Syed Mustakim, Abrar",BAN,M,,,,1485,4,40,OCT25,2009,
+532008074,"Syed Mustakim, Abrar",BAN,M,,,,1486,4,40,OCT25,2009,
 10212370,"Syed Noor- E-, Alam",BAN,M,,,,1755,0,20,OCT25,1990,i
-10207163,Syed Sazzad Hossain,BAN,M,,,,1931,0,20,OCT25,1973,
+10207163,Syed Sazzad Hossain,BAN,M,,,,1932,0,20,OCT25,1973,
 10207015,"Syed Shahjahan, Mehdi",BAN,M,,,,1811,0,20,OCT25,0,
 10278800,"Syed Tamzid, Islam",BAN,M,,,,1549,0,40,OCT25,2007,
 10297200,"Syed Wasi Abdullah, Noor",BAN,M,,,,1601,0,40,OCT25,2011,
@@ -4151,7 +4153,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10205713,"Tahmina, Akter Tisha",BAN,F,,,,1796,0,20,OCT25,1996,wi
 10282769,"Tahreem, Zaved",BAN,F,,,,1614,0,40,OCT25,2007,wi
 10245863,"Tahsanul, Haque Joheb",BAN,M,,,,1560,0,40,OCT25,2011,i
-532014414,"Tahsin Azad, Turan",BAN,M,,,,1519,5,40,OCT25,2008,
+532014414,"Tahsin Azad, Turan",BAN,M,,,,1520,5,40,OCT25,2008,
 10279636,"Tahsin Mirsab, Amin",BAN,M,,,,1567,0,40,OCT25,2010,
 532027044,"Tahsin, Ahmed",BAN,M,,,,1656,0,40,OCT25,2009,
 10235493,"Tahsin, Arko",BAN,M,,,,1677,0,20,OCT25,1998,i
@@ -4162,6 +4164,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10272917,"Tajwar Nafis, Dipro",BAN,M,,,,1645,0,20,OCT25,1999,i
 10299548,"Talha, Jobayer",BAN,M,,,,1550,0,40,OCT25,2010,
 10264230,"Talha, Zabir",BAN,M,,,,1588,0,40,OCT25,2004,
+532011024,"Talib Ahmed, Mahrus",BAN,M,,,,1419,17,40,OCT25,2016,
 10254617,"Talim Hasan, Rizbi",BAN,M,,,,1828,0,20,OCT25,1994,i
 10227512,"Talukder, Md. Firoz",BAN,M,,,,1975,0,20,OCT25,1971,i
 10232095,"Talukder, Tanoy",BAN,M,,,,1582,0,20,OCT25,1984,i
@@ -4187,8 +4190,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10284206,"Tanvir Ahmed, Rafi",BAN,M,,,,1621,0,40,OCT25,2010,
 532026145,"Tanvir Azad, Siam",BAN,M,,,,1669,0,40,OCT25,2009,
 532018592,"Tanvir Islam, Ayon",BAN,M,,,,1694,0,40,OCT25,2003,
-10239332,"Tanvir, Ahmed",BAN,M,,,,1803,0,20,OCT25,1997,i
 10284990,"Tanvir, Ahmed",BAN,M,,,,1615,0,40,OCT25,2003,i
+10239332,"Tanvir, Ahmed",BAN,M,,,,1803,0,20,OCT25,1997,i
 10253556,"Tanvir, Alam",BAN,M,,,,2031,0,20,OCT25,1999,
 10299556,"Tanvir, Alam Roni",BAN,M,,,,1641,0,40,OCT25,1979,i
 532020104,"Tanvir, Hasan",BAN,M,,,,1667,0,40,OCT25,2009,
@@ -4208,11 +4211,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10252320,"Tarikul, Hassan",BAN,M,,,,1759,0,20,OCT25,1994,i
 10225064,"Tariqul, Islam",BAN,M,,,,1831,0,20,OCT25,1962,i
 10259899,"Tariqul, Islam Ezab",BAN,M,,,,1712,0,40,OCT25,1998,
-532006985,"Tariqur, Rahman",BAN,M,,,,1604,0,40,OCT25,2009,
+532006985,"Tariqur, Rahman",BAN,M,,,,1605,0,40,OCT25,2009,
 532016972,"Tasdid, Jahid Nur Sultan",BAN,M,,,,1499,0,40,OCT25,2013,
 10233989,"Tasfia, Tahsin Prima",BAN,F,,,,1705,4,20,OCT25,2005,w
 10251324,Tashfikur Rahman,BAN,M,,,,1659,0,40,OCT25,2015,
-532021194,"Tashrif, Akon Shovon",BAN,M,,,,1573,5,40,OCT25,2012,
+532021194,"Tashrif, Akon Shovon",BAN,M,,,,1576,7,40,OCT25,2012,
 10244867,"Tashriq Saihan, Shan",BAN,M,,,,2110,0,40,OCT25,2008,
 532003366,"Taskin, Rahman",BAN,M,,,,1467,0,40,OCT25,2015,
 10222596,"Taslim Ahmed, Titu",BAN,M,,,,1809,0,20,OCT25,1976,i
@@ -4299,14 +4302,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532011032,"Waasi Fahim, Ahmed",BAN,M,,,,1429,0,40,OCT25,2014,
 532011040,"Wadi Hossain, Ilan",BAN,M,,,,1536,0,40,OCT25,2014,
 532003650,"Wadi, Easrib",BAN,M,,,,1649,0,40,OCT25,2000,i
-10226869,"Wadifa, Ahmed",BAN,F,WIM,WIM,,2021,0,40,OCT25,2008,w
+10226869,"Wadifa, Ahmed",BAN,F,WIM,WIM,,2022,0,40,OCT25,2008,w
 532016212,"Wahab, Md. Abdul",BAN,M,,,,1584,0,40,OCT25,1989,
 10214321,Waheduzzaman,BAN,M,,,,2007,0,20,OCT25,1988,i
 10222723,"Wajiul, Mehdi",BAN,M,,,,1943,0,20,OCT25,1993,
 10230181,"Walimul, Islam Khan",BAN,M,,,,1591,0,40,OCT25,2005,i
 10273859,"Waliul Islam, Sakib",BAN,M,,,,1703,0,40,OCT25,2005,i
 10221174,"Warech, Masud",BAN,M,,,,1848,0,20,OCT25,1975,
-10266798,Warisa Haider,BAN,F,WCM,WCM,,1668,0,40,OCT25,2016,w
+10266798,Warisa Haider,BAN,F,WCM,WCM,,1667,0,40,OCT25,2016,w
 10231668,"Warsia, Khusbu",BAN,F,WFM,WFM,,1911,0,40,OCT25,2012,w
 10270175,"Wasek, Billah",BAN,M,,,,1738,9,20,OCT25,1997,
 532000227,"Washim, Md",BAN,M,,,,1722,0,40,OCT25,2001,i
@@ -4332,7 +4335,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10216561,"Zahid, Hossain",BAN,M,,,,1884,0,20,OCT25,1981,i
 10281177,"Zahid, Md",BAN,M,,,,1561,0,20,OCT25,1972,i
 10201963,"Zahid, Sanatan",BAN,M,,,,1961,0,20,OCT25,0,
-10215476,"Zahidul, Islam Khan",BAN,M,,,,AFM,1799,0,OCT25,1985,
+10215476,"Zahidul, Islam Khan",BAN,M,,,,1799,0,,OCT25,1985,
 10220895,"Zahin, Raihan Nafi",BAN,M,,,,1637,0,20,OCT25,1999,i
 10245367,"Zahirul , Islam",BAN,M,,,,1578,0,20,OCT25,1988,i
 10221417,"Zaif, Khandkar",BAN,M,,,,1543,0,40,OCT25,2006,i
@@ -4353,7 +4356,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10289186,"Zayan, Hoque",BAN,M,,,,1489,0,40,OCT25,2010,
 10269550,"Zayed Bin, Mehedi",BAN,M,,,,1687,0,20,OCT25,1999,i
 10286489,"Zayeem, Basir",BAN,M,,,,1542,0,40,OCT25,2013,
-10211888,"Zia, Tahsin Tajwar",BAN,M,FM,,,2288,0,20,OCT25,2005,
+10211888,"Zia, Tahsin Tajwar",BAN,M,FM,,,2287,0,20,OCT25,2005,
 10238522,"Ziaul , Hassan",BAN,M,,,,1599,0,20,OCT25,1979,i
 10225072,"Ziaur, Rahman",BAN,M,,,,1819,0,20,OCT25,1973,i
 532009623,"Zihad Bin Alam, Radeet",BAN,M,,,,1502,0,40,OCT25,1999,

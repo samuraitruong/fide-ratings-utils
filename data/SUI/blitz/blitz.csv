@@ -9,8 +9,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1344854,"Aegerter, Fabrice",SUI,M,,,,1882,0,20,OCT25,1997,i
 1308220,"Aeschbach, Philipp",SUI,M,FM,,,2241,0,20,OCT25,1992,i
 551032830,"Aeschbacher, Dimitri",SUI,M,,,,2036,0,40,OCT25,2012,
-651084821,"Aeschbacher, Gregoire",SUI,M,,,,1693,0,40,OCT25,2014,
-1361511,"Aimar, Alessandro",SUI,M,,,,1544,0,20,OCT25,1988,
+651084821,"Aeschbacher, Gregoire",SUI,M,,,,1692,0,40,OCT25,2014,
+1361511,"Aimar, Alessandro",SUI,M,,,,1545,0,20,OCT25,1988,
 1311719,"Ait Benbrahim, Mohamed",SUI,M,,,,1760,0,20,OCT25,1965,i
 1305506,"Akermann, Thomas",SUI,M,,,,2056,0,20,OCT25,1974,i
 1346750,"Akinkhov, Mikhail",SUI,M,,,,1679,0,40,OCT25,2010,i
@@ -26,7 +26,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1332899,"Amir, Emam",SUI,M,,,,1963,0,20,OCT25,1978,i
 1357972,"Ammeter, Nicolas",SUI,M,,,,1639,0,40,OCT25,2008,i
 1363522,"Amsellen, Daniel",SUI,M,,,,1721,7,40,OCT25,2005,
-1336851,"Anand, Aryan",SUI,M,,,,ACM,1836,0,OCT25,2007,i
+1336851,"Anand, Aryan",SUI,M,,,,1836,0,,OCT25,2007,i
 1310410,"Andjelkovic, Slavoljub",SUI,M,,,,1858,0,20,OCT25,1961,i
 1341243,"Andrieu, Arnold",SUI,M,,,,1815,0,20,OCT25,1988,i
 1308718,"Andrist, Pascal",SUI,M,,,,2039,0,20,OCT25,1986,i
@@ -36,7 +36,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1319744,"Angst, Robin",SUI,M,,,,2130,0,20,OCT25,1994,
 1308106,"Antognini, Francesco",SUI,M,,,,2275,0,20,OCT25,1985,i
 1358189,"Anton, Theo",SUI,M,,,,1860,0,40,OCT25,2010,i
-1360620,"Antonetty, Julian",SUI,M,,,,1747,0,20,OCT25,2005,
+1360620,"Antonetty, Julian",SUI,M,,,,1746,0,20,OCT25,2005,
 1323725,"Arcuti, Davide",SUI,M,IM,,,2253,0,20,OCT25,1999,i
 1311476,"Arend, Michal",SUI,M,,,,1895,0,20,OCT25,1949,i
 1340301,"Arnold, Thomas",SUI,M,,,,1727,0,20,OCT25,1947,i
@@ -46,16 +46,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1346865,"Artan, Tamir",SUI,M,,,,1943,0,40,OCT25,2008,
 1335189,"Arulanantham, Aneet",SUI,M,,,,1890,0,20,OCT25,2000,i
 1341332,"Asllani, Dorian",SUI,M,FM,,,2150,0,40,OCT25,2007,
-1309951,"Atukeren, Erdal",SUI,M,,,,AFM,1866,0,OCT25,1964,i
+1309951,"Atukeren, Erdal",SUI,M,,,,1866,0,,OCT25,1964,i
 34166073,"Avilova, Yulia",SUI,F,,,,1805,0,20,OCT25,2004,w
 1310291,"Babel, Ludovic",SUI,M,,,,1710,0,20,OCT25,1981,i
 1337440,"Babineca, Darja",SUI,F,,,,1871,0,20,OCT25,2004,wi
-1357492,"Bachmann, Daniel",SUI,M,,,,ACM,1668,0,OCT25,1978,
+1357492,"Bachmann, Daniel",SUI,M,,,,1668,0,,OCT25,1978,
 1330110,"Baenziger, Fabian",SUI,M,IM,,,2431,0,10,OCT25,2002,
 1351753,"Baghirov, Rasul",SUI,M,,,,1975,0,20,OCT25,1969,
-1357395,"Baisse, Rose",SUI,F,,,,1646,0,40,OCT25,2011,w
-1333925,"Ballmer, Boris",SUI,M,,,,1964,0,20,OCT25,1975,
-1303970,"Ballmer, Mirko",SUI,M,,,,2001,0,20,OCT25,1979,
+1357395,"Baisse, Rose",SUI,F,,,,1647,0,40,OCT25,2011,w
+1333925,"Ballmer, Boris",SUI,M,,,,1963,0,20,OCT25,1975,
+1303970,"Ballmer, Mirko",SUI,M,,,,2002,0,20,OCT25,1979,
 1344102,"Bangerter, Ena",SUI,F,WCM,WCM,,1711,0,40,OCT25,2009,w
 1313100,"Bannwart, Remo",SUI,M,,NA,,1773,0,20,OCT25,1967,i
 1319779,"Barczyk, Janusz",SUI,M,,,,1803,0,20,OCT25,1952,i
@@ -70,7 +70,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1346008,"Begdullayeva, Diana",SUI,F,,,,1593,0,40,OCT25,2009,wi
 1346830,"Begdullayeva, Karina",SUI,F,,,,1554,0,40,OCT25,2013,wi
 1302434,"Belaz, Christian",SUI,M,,,,1983,0,20,OCT25,1965,i
-1350005,"Belet, Yves",SUI,M,,,,1688,7,20,OCT25,1957,
+1350005,"Belet, Yves",SUI,M,,,,1689,7,20,OCT25,1957,
 1349198,"Bellusci, Baykal",SUI,M,,,,1917,0,20,OCT25,1983,i
 1354302,"Belmadani, Naim",SUI,M,,,,1731,0,20,OCT25,2002,i
 1354671,"Ben Khalifa, Yassin",SUI,M,,,,1595,6,20,OCT25,1991,
@@ -88,7 +88,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1335065,"Bilin, Halil",SUI,M,,,,1680,0,20,OCT25,1982,i
 1307622,"Binggeli, Christian",SUI,M,,,,1865,0,20,OCT25,1990,
 1318268,"Birchmeier, Martin",SUI,M,,,,1908,0,20,OCT25,1962,i
-1361805,"Bischler, Gabriel",SUI,M,,,,1590,0,20,OCT25,1985,i
+1361805,"Bischler, Gabriel",SUI,M,,,,1589,0,20,OCT25,1985,i
 1322087,"Bischofberger, Dario",SUI,M,,,,2151,0,20,OCT25,1998,
 1330292,"Bjelogrlic, Goran",SUI,M,,,,2000,0,20,OCT25,1952,i
 1342428,"Blais, Mario",SUI,M,,,,1747,0,20,OCT25,1962,i
@@ -97,7 +97,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1344544,"Bodenstab, Stefan",SUI,M,,,,1965,0,20,OCT25,1963,i
 1310330,"Boffa, Mauro",SUI,M,,,,2150,0,20,OCT25,1985,
 4692055,"Bogner, Sebastian",SUI,M,GM,,,2495,0,10,OCT25,1991,i
-1344188,"Boillat, Maxime",SUI,M,,,,1739,0,20,OCT25,1997,i
+1344188,"Boillat, Maxime",SUI,M,,,,1740,0,20,OCT25,1997,i
 1350226,"Boivin, Remi",SUI,M,,,,1753,7,40,OCT25,2011,
 1307410,"Bojic, Zoran",SUI,M,,,,2076,0,20,OCT25,1950,
 1356186,"Bolleter, Arun",SUI,M,,,,1543,0,40,OCT25,2012,i
@@ -154,7 +154,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1360736,"Carbonne, Alain",SUI,M,,,,1687,0,20,OCT25,1988,i
 1352695,"Cardoso Rodrigues, Michael",SUI,M,,,,1753,0,20,OCT25,1993,i
 1360132,"Carimatto, Augusto",SUI,M,,,,1696,0,20,OCT25,1981,
-1345559,"Cattomio, Roberto",SUI,M,,NA,,1694,0,20,OCT25,1962,i
+1345559,"Cattomio, Roberto",SUI,M,,NA,,1693,0,20,OCT25,1962,i
 1321340,"Cavadini, Sergio",SUI,M,,,,1647,0,20,OCT25,1948,
 1354272,"Cendan, Jeremy",SUI,M,,,,1656,0,20,OCT25,2002,i
 1351800,"Cervelli, Eduard",SUI,M,,,,1918,0,40,OCT25,2007,
@@ -174,7 +174,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1349066,"Corazza, Alessandro",SUI,M,,,,1768,0,20,OCT25,2001,i
 1339010,"Cordy, Mathys",SUI,M,,,,1601,0,20,OCT25,2006,i
 1364561,"Cousin, Ismael",SUI,M,,,,1728,0,20,OCT25,1999,
-1366580,"Craig, Fitzgerald",SUI,M,,,,1525,0,20,OCT25,1983,
+1366580,"Craig, Fitzgerald",SUI,M,,,,1521,0,20,OCT25,1983,
 1303686,"Cruceli, Salvatore",SUI,M,,,,2059,0,20,OCT25,1966,i
 1354604,"Csombok, Jozsef",SUI,M,,,,1593,0,20,OCT25,1983,i
 1354264,"Da Silva, Rafael",SUI,M,,,,1508,0,20,OCT25,1991,
@@ -188,10 +188,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1310054,"De Gregorio, Alexis",SUI,M,,,,1940,0,20,OCT25,1972,i
 1354612,"De La Cruz, Gil",SUI,M,,,,1804,0,20,OCT25,1965,i
 1302540,"De La Rosa, Damian",SUI,M,,,,2030,0,20,OCT25,1975,i
-1344234,"De Schoutheete, Manuel",SUI,M,,,,1768,0,20,OCT25,2005,
+1344234,"De Schoutheete, Manuel",SUI,M,,,,1767,0,20,OCT25,2005,
 1305620,"De Seroux, Camille",SUI,F,WIM,WIM,,2070,0,20,OCT25,1993,w
 1348582,"Delangle, Alexander",SUI,M,,,,1918,7,40,OCT25,2009,
-1344730,"Delay, Isabelle",SUI,F,,,,1552,0,20,OCT25,1957,wi
+1344730,"Delay, Isabelle",SUI,F,,,,1550,0,20,OCT25,1957,wi
 1314475,"Delmonico, Nils",SUI,M,,,,1961,0,20,OCT25,1977,i
 1313436,"Delpin, Eric",SUI,M,,"FI,SI,FA",,2040,0,20,OCT25,1990,i
 1313770,"Delpin, Patrice",SUI,M,,,,1928,0,20,OCT25,1958,i
@@ -215,7 +215,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1359410,"Dubel, Nathan",SUI,M,,,,1714,0,40,OCT25,2008,
 1338447,"Duc, Jeremy",SUI,M,,,,1746,0,20,OCT25,1999,i
 1345710,"Dueck, Sebastian",SUI,M,,,,1524,0,40,OCT25,2013,i
-1336703,"Dueck,Maximilian",SUI,M,,,,1854,0,40,OCT25,2008,
+1336703,"Dueck,Maximilian",SUI,M,,,,1855,0,40,OCT25,2008,
 1305395,"Duerig, Willi",SUI,M,,,,1962,0,20,OCT25,1962,i
 1337211,"Duerst, Martin",SUI,M,,,,1962,0,20,OCT25,1964,i
 1358154,"Dunbar-Lugan, Zachary",SUI,M,,,,1509,0,40,OCT25,2010,i
@@ -223,19 +223,19 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1357964,"Durisch, Miro",SUI,M,,,,1788,0,20,OCT25,2003,i
 1335847,"Duruz, Sandy",SUI,F,,,,1674,0,20,OCT25,2000,wi
 1327674,"Eberle, Thomas",SUI,M,,,,1942,0,20,OCT25,1982,i
-1309404,"Edoecs, Joseph",SUI,M,,,,1992,0,20,OCT25,1960,i
+1309404,"Edoecs, Joseph",SUI,M,,,,1991,0,20,OCT25,1960,i
 1318411,"Eggenberger, Hans",SUI,M,,,,1774,0,20,OCT25,1944,
 1304224,"Eggenberger, Ulrich",SUI,M,,,,1890,0,20,OCT25,1940,i
 1337092,"Egger,Abraham",SUI,M,,,,1770,0,20,OCT25,1984,i
 1368044,"Eggs, Adrien",SUI,M,,,,1483,5,40,OCT25,2010,
-1306685,"Egli, Urs",SUI,M,,,,1875,10,20,OCT25,1961,
+1306685,"Egli, Urs",SUI,M,,,,1876,10,20,OCT25,1961,
 1333305,"Egoyan, Arnaud",SUI,M,,,,1920,0,20,OCT25,1988,i
 1342487,"Ehle, Eric",SUI,M,,,,1821,0,20,OCT25,1967,i
 1302302,"Ekstroem, Roland",SUI,M,IM,,,2408,0,10,OCT25,1956,i
 1346253,"El Hinnawy, Hamzah",SUI,M,,,,1737,0,40,OCT25,2008,i
 1312715,"El-Mais, Ibaa",SUI,M,,,,2012,0,20,OCT25,1991,i
 1346652,"Elhamdi, Firas",SUI,M,,,,1680,0,20,OCT25,1992,
-1330837,"Elkiess, Gregory",SUI,M,,,,AIM,1817,0,OCT25,1979,i
+1330837,"Elkiess, Gregory",SUI,M,,,,1817,0,,OCT25,1979,i
 1312367,"Emini, Emin",SUI,M,,,,1966,0,20,OCT25,1971,i
 1307088,"Emmott, Steven",SUI,M,,,,1901,0,20,OCT25,1962,i
 1328336,"Eppler, Beat",SUI,M,,,,1802,0,20,OCT25,1965,
@@ -243,7 +243,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1318438,"Erzinger, Paul",SUI,M,,,,1920,0,20,OCT25,1959,
 1326651,"Esper, Christian",SUI,M,,,,1933,0,20,OCT25,1983,i
 1312839,"Fabre, Mathias",SUI,M,,,,1969,0,20,OCT25,1990,
-1340557,"Fairis, Zulaikha",SUI,F,,,,1420,0,20,OCT25,2003,wi
+1340557,"Fairis, Zulaikha",SUI,F,,,,1417,0,20,OCT25,2003,wi
 1353896,"Fauquex, Raphael",SUI,M,,,,1867,0,20,OCT25,1990,i
 1334255,"Fecker, Jan",SUI,M,,,,1909,0,20,OCT25,2002,i
 1334263,"Fecker, Noah",SUI,M,FM,,,2374,0,20,OCT25,2004,
@@ -252,7 +252,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1349260,"Fehr, Gerhard",SUI,M,,,,1947,0,20,OCT25,1971,i
 1310429,"Felder, Thomas",SUI,M,,,,1884,0,20,OCT25,1960,i
 4641353,"Fend, Juergen",SUI,M,,,,2228,0,20,OCT25,1967,
-1354388,"Fernandes Barbosa, Gabriel",SUI,M,,,,2094,9,40,OCT25,2007,
+1354388,"Fernandes Barbosa, Gabriel",SUI,M,CM,,,2095,9,40,OCT25,2007,
 1328565,"Ferrari, Nicola",SUI,M,,,,1849,0,20,OCT25,1965,i
 1302132,"Fierz, Martin",SUI,M,FM,,,2237,0,20,OCT25,1971,
 34171584,"Filimonov, Arsenii",SUI,M,,,,1667,0,40,OCT25,2008,i
@@ -288,7 +288,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1345818,"Gafner, Lancelot",SUI,M,,,,1686,0,40,OCT25,2010,i
 1310186,"Gaier, Walter",SUI,M,,,,1847,0,20,OCT25,1960,i
 1347128,"Galerne, Nicolas",SUI,M,,,,1665,0,20,OCT25,2003,i
-1315056,"Galerne, Rene",SUI,M,,,,ACM,1771,0,OCT25,1961,i
+1315056,"Galerne, Rene",SUI,M,,,,1771,0,,OCT25,1961,i
 1303422,"Gallagher, Joseph G.",SUI,M,GM,,,2473,0,10,OCT25,1964,
 1358057,"Galli, Morris",SUI,M,,,,1855,0,20,OCT25,2003,i
 1322761,"Gallus, Matthias",SUI,M,,SI,,1831,0,20,OCT25,1976,i
@@ -367,7 +367,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1307312,"Heuberger, Christian",SUI,M,,,,2103,0,20,OCT25,1975,i
 1356445,"Hies, Norbert",SUI,M,,,,1724,0,20,OCT25,1967,i
 1305212,"Hindermann, Felix",SUI,M,FM,,,2206,0,20,OCT25,1983,i
-1302582,"Hirt, Markus",SUI,M,,,,1872,0,20,OCT25,1956,
+1302582,"Hirt, Markus",SUI,M,,,,1871,0,20,OCT25,1956,
 1341910,"Hirzel, Cedric",SUI,M,,,,1955,0,40,OCT25,2007,
 1342320,"Hirzel, Robin",SUI,M,,,,1926,0,20,OCT25,2006,
 1317733,"Hoang, Harry",SUI,M,,,,1990,0,20,OCT25,1999,i
@@ -393,7 +393,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1300431,"Illi, Hans-Joerg",SUI,M,,,,2023,0,20,OCT25,1943,i
 1346695,"Ingielewicz, Tomasz",SUI,M,,,,1845,0,40,OCT25,2011,
 1368311,"Ioannidi, Johannes",SUI,M,,,,1713,0,20,OCT25,1970,
-1366416,"Iseli, Cedric",SUI,M,,,,1725,0,20,OCT25,1994,
+1366416,"Iseli, Cedric",SUI,M,,,,1726,0,20,OCT25,1994,
 1349112,"Isler, Manuel",SUI,M,,,,1639,4,20,OCT25,1963,
 1306456,"Issler, Christian",SUI,M,,,,1966,0,20,OCT25,1947,i
 1361490,"Jaccoud, Evan",SUI,M,,,,1627,0,40,OCT25,2012,
@@ -410,11 +410,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1345060,"Javet, Nelson",SUI,M,,,,1560,0,20,OCT25,1996,
 1352687,"Jazayeri, Pouyan",SUI,M,,,,1799,0,20,OCT25,1981,i
 1315277,"Jedrinovic, Vitomir",SUI,M,,,,1825,0,20,OCT25,1966,i
+1349031,"Jelicic, Andre",SUI,M,,,,1400,0,20,OCT25,1980,i
 1349040,"Jelicic, Hugo",SUI,M,,,,1780,9,40,OCT25,2010,
 1352431,"Jencic, Nikola",SUI,M,,,,1765,0,20,OCT25,1994,i
 1304232,"Jenni, Florian",SUI,M,GM,,,2410,0,10,OCT25,1980,
 1336517,"Jenny,Philipp",SUI,M,,,,1956,0,20,OCT25,2002,
-1358626,"Jian, Ho Ryan",SUI,M,,,,1571,0,40,OCT25,2009,i
+1358626,"Jian, Ho Ryan",SUI,M,,,,1570,0,40,OCT25,2009,i
 1352571,"Jiang, Modest",SUI,M,,,,1877,0,20,OCT25,1995,i
 650420,"Joie, Sebastien",SUI,M,IM,,,2358,8,10,OCT25,1987,
 1303589,"Joller, Hans",SUI,M,,,,1913,0,20,OCT25,1954,
@@ -479,7 +480,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1310925,"Kupalov, Igor",SUI,M,,FA,,1991,8,20,OCT25,1968,
 1332562,"Kurapova, Olga",SUI,F,,,,1895,0,20,OCT25,1977,wi
 1308173,"Kurmann, Oliver",SUI,M,IM,,,2475,0,10,OCT25,1985,i
-1364804,"Kutonov, Yehor",SUI,M,,,,1733,7,40,OCT25,2012,
+1364804,"Kutonov, Yehor",SUI,M,,,,1734,7,40,OCT25,2012,
 1348736,"Kwiatkowski, Jakub",SUI,M,,,,1907,0,40,OCT25,2007,i
 1360175,"Kwiatkowski, Maciej",SUI,M,,,,1979,0,20,OCT25,1968,
 1336827,"Kwiatkowski,Antoni",SUI,M,,,,1744,0,20,OCT25,2005,
@@ -492,10 +493,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1365738,Lee Zayn,SUI,M,,,,1484,0,40,OCT25,2015,
 1309331,"Lehmann, Andreas",SUI,M,FM,,,2243,0,20,OCT25,1989,i
 1309862,"Lehmann, Marco",SUI,M,FM,,,2303,0,20,OCT25,1991,i
-1366564,"Lejdstrom, Yoav",SUI,M,,,,1672,0,40,OCT25,2010,
+1366564,"Lejdstrom, Yoav",SUI,M,,,,1671,0,40,OCT25,2010,
 1312901,"Leresche, Samuel",SUI,M,,,,1974,0,20,OCT25,1981,i
-1359878,"Lescut-Mueller, Jean",SUI,M,,,,1469,0,20,OCT25,1989,
-1367927,"Letac, Loig",SUI,M,,,,1726,0,20,OCT25,1999,
+1359878,"Lescut-Mueller, Jean",SUI,M,,,,1470,0,20,OCT25,1989,
+1367927,"Letac, Loig",SUI,M,,,,1724,0,20,OCT25,1999,
 1333011,"Leuthold, Cyrill",SUI,M,,,,1887,0,20,OCT25,1998,i
 1301969,"Leutwyler, Martin",SUI,M,,,,2035,0,20,OCT25,1967,
 1311158,"Leutwyler, Mathias",SUI,M,,,,2032,0,20,OCT25,1975,i
@@ -511,13 +512,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1305239,"Loetscher, Roland",SUI,M,IM,,,2361,0,10,OCT25,1982,i
 1352865,"Lopez Barreto, Bruno",SUI,M,,,,1740,9,20,OCT25,1994,
 1364170,"Lopez Vargas, Gustavo Andres",SUI,M,,,,1594,0,20,OCT25,1980,
-1306324,"Lopez, Manuel",SUI,M,,,,AIM,1873,8,OCT25,1967,
+1306324,"Lopez, Manuel",SUI,M,,,,1872,8,,OCT25,1967,
 1333267,"Lorman, Pierre",SUI,M,,,,1824,0,20,OCT25,1979,i
 1349562,"Losito, Luca",SUI,M,,,,1749,0,20,OCT25,2005,i
 1334972,"Lou, Vincent",SUI,M,,,,2102,0,20,OCT25,2003,i
-1338080,"Lovey, Fabrice",SUI,M,,NA,,1818,0,20,OCT25,2003,i
+1338080,"Lovey, Fabrice",SUI,M,,NA,,1813,0,20,OCT25,2003,i
 1325310,"Luca, Dragos",SUI,M,,,,1732,0,20,OCT25,1997,i
-1304950,"Ludin, Hubert",SUI,M,,,,1883,0,20,OCT25,1942,
+1304950,"Ludin, Hubert",SUI,M,,,,1884,0,20,OCT25,1942,
 1310178,"Lustenberger, Josef",SUI,M,,,,1758,0,20,OCT25,1964,
 1325299,"Lusti, Reto",SUI,M,,,,1838,0,20,OCT25,1964,i
 1351923,"Lutonins, Semjons",SUI,M,,,,1910,0,20,OCT25,1987,
@@ -538,7 +539,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14199220,"Manko, Mariia",SUI,F,WIM,WIM,,2014,0,40,OCT25,2007,w
 1351575,"Mansi, Vincent",SUI,M,,,,1595,0,20,OCT25,1988,
 1340654,"Manukyan, Levon",SUI,M,,,,1661,0,20,OCT25,1955,i
-134179198,"Mapanao, Dionisio",SUI,M,,,,ACM,1561,0,OCT25,1964,i
+134179198,"Mapanao, Dionisio",SUI,M,,,,1561,0,,OCT25,1964,i
 1331396,"Maradan, Christelle",SUI,F,,,,1856,0,20,OCT25,1998,wi
 1355449,"Marcus, Jack",SUI,M,,,,1544,0,40,OCT25,2009,i
 1346083,"Marinkovic, Zoran",SUI,M,,,,2038,0,20,OCT25,1968,
@@ -560,13 +561,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1329693,"Meier, Lukas",SUI,M,CM,,,2018,0,20,OCT25,2001,
 1309781,"Meier, Manuel",SUI,M,,,,1978,0,20,OCT25,1986,i
 1345133,"Menzi, Jonas",SUI,M,,,,2040,0,20,OCT25,2003,i
-1358618,"Menzies, Zacharie",SUI,M,,,,1725,0,40,OCT25,2008,i
+1358618,"Menzies, Zacharie",SUI,M,,,,1724,0,40,OCT25,2008,i
 1354221,"Merali, Alim",SUI,M,,,,1605,3,20,OCT25,1984,
 1311107,"Mergelkuhl, Dirk",SUI,M,,,,1906,7,20,OCT25,1974,
 1342959,"Meshach, Felix",SUI,M,,,,1851,0,20,OCT25,2006,
 1350250,"Metille, Natean",SUI,M,,,,1746,4,40,OCT25,2009,
 1311115,"Mettler, Marcel",SUI,M,,,,1863,0,20,OCT25,1964,i
-1358529,"Meyer, Hermann",SUI,M,,,,1617,0,40,OCT25,2007,
+1358529,"Meyer, Hermann",SUI,M,,,,1618,0,40,OCT25,2007,
 1306626,"Meylan, Pierre",SUI,M,,,,1977,0,20,OCT25,1961,i
 1304895,"Michaud, Christian",SUI,M,,,,2053,0,20,OCT25,1971,i
 1308726,"Mikavica, Dragoljub",SUI,M,,,,1983,0,20,OCT25,1950,i
@@ -578,13 +579,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1366785,"Miro Hoppe, Nils",SUI,M,,,,1701,0,40,OCT25,2010,
 1341952,"Mittero, Felix",SUI,M,,,,1876,0,20,OCT25,1993,i
 1345036,"Moesching, Colin",SUI,M,,,,1745,0,20,OCT25,2002,
-1356615,"Mogasale, Chetan",SUI,M,,,,ACM,1638,5,OCT25,2014,
+1356615,"Mogasale, Chetan",SUI,M,,,,1638,5,,OCT25,2014,
 1353110,"Mohammadi, Nosratullah",SUI,M,,,,1605,0,20,OCT25,1993,i
 1339427,"Mollia, Louis",SUI,M,,,,1711,0,20,OCT25,2002,i
 1303880,"Monnard, Daniel",SUI,M,,,,1705,0,20,OCT25,1954,i
 1347560,"Monney, Gonzague",SUI,M,,,,1585,0,20,OCT25,1981,i
 1314580,"Monteverde, Jonathan",SUI,M,,,,2079,0,20,OCT25,1992,i
-1343602,"Montmasson, Yvan",SUI,M,,,,1651,0,20,OCT25,1967,
+1343602,"Montmasson, Yvan",SUI,M,,,,1652,0,20,OCT25,1967,
 1303112,"Moor, Olivier",SUI,M,IM,,,2259,0,10,OCT25,1976,
 1302590,"Moor, Roger",SUI,M,IM,,,2377,0,10,OCT25,1976,
 1344676,"Moorhead Dimancesco, Nicholas",SUI,M,,,,1701,0,20,OCT25,1998,
@@ -627,7 +628,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1338951,"Paholok, Igor",SUI,M,,,,1707,0,20,OCT25,1982,
 1359266,"Palairet, Alexander",SUI,M,,,,1863,9,40,OCT25,2012,
 1305573,"Paleologu, Vladimir",SUI,M,,FI,,2062,5,20,OCT25,1971,
-652051005,"Palmieri Maltsev, Leonard",SUI,M,,,,1533,0,40,OCT25,2014,i
+652051005,"Palmieri Maltsev, Leonard",SUI,M,,,,1513,0,40,OCT25,2014,i
 1348973,"Paltani, Timo",SUI,M,,,,1733,0,20,OCT25,2006,
 24126608,"Panerai, Ksenia",SUI,F,,NA,,1964,0,20,OCT25,1994,wi
 1333739,"Pankow, Krzysztof",SUI,M,,,,1874,0,20,OCT25,1990,i
@@ -657,7 +658,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1337629,"Peter, Yul",SUI,M,,,,1714,0,20,OCT25,2005,i
 1346741,"Pfaltz, Maximilian",SUI,M,,,,1899,0,40,OCT25,2011,
 1358065,"Pfaltz, Niklas",SUI,M,,,,1532,0,40,OCT25,2013,
-1359274,"Phung, Felix",SUI,M,,,,1881,0,40,OCT25,2013,
+1359274,"Phung, Felix",SUI,M,,,,1882,0,40,OCT25,2013,
 1313800,"Pinchetti, Andrea",SUI,M,,,,1958,0,20,OCT25,1981,
 1348710,"Pinelli, Gian",SUI,M,,,,1770,0,40,OCT25,2011,
 1306049,"Piona, Marco",SUI,M,,,,1903,0,20,OCT25,1963,i
@@ -676,7 +677,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1300342,"Preissmann, Emmanuel",SUI,M,FM,,,2251,0,20,OCT25,1950,i
 1321633,"Priamo, Pierre-Andre",SUI,M,,,,1871,0,20,OCT25,1946,i
 1337637,"Python, Noe",SUI,M,,,,1944,9,20,OCT25,2004,
-1366556,"Qiu, Yuchen",SUI,M,,,,1623,0,40,OCT25,2013,
+1366556,"Qiu, Yuchen",SUI,M,,,,1625,0,40,OCT25,2013,
 1312510,"Racloz, Michel",SUI,M,,,,2028,0,20,OCT25,1969,i
 1313630,"Radt, Volker",SUI,M,,,,1978,0,20,OCT25,1972,i
 1302108,"Raeber, Markus",SUI,M,,NA,,2172,0,20,OCT25,1970,i
@@ -719,8 +720,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1363727,"Rossi, Patrick",SUI,M,,,,1584,0,20,OCT25,1974,
 1333917,"Roth, Daniel",SUI,M,,,,1862,0,20,OCT25,1963,i
 1313649,"Roth, Johannes",SUI,M,,,,1894,0,20,OCT25,1956,i
-1338528,"Rotunno, Flavio",SUI,M,,,,2016,8,40,OCT25,2007,
-1350145,"Rouiller, Leonard",SUI,M,,,,1691,0,20,OCT25,1994,i
+1338528,"Rotunno, Flavio",SUI,M,,,,2017,8,40,OCT25,2007,
+1350145,"Rouiller, Leonard",SUI,M,,,,1690,0,20,OCT25,1994,i
 1361589,"Roux, Matthieu",SUI,M,,,,1418,4,40,OCT25,2016,
 1339320,"Rudnev, Alexander",SUI,M,,,,1737,0,20,OCT25,1981,i
 1313819,"Ruiz, Jose",SUI,M,,,,2000,0,20,OCT25,1957,i
@@ -729,7 +730,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1306642,"Rychener, Henri",SUI,M,,,,1925,7,20,OCT25,1951,
 1304712,"Sadeghi, Hassan Roger",SUI,M,CM,,,2160,0,20,OCT25,1958,i
 1342053,"Sadeghi, Purya",SUI,M,,,,1914,0,20,OCT25,1996,i
-1354973,"Sadeh, David",SUI,M,,,,1415,5,40,OCT25,2017,
+1354973,"Sadeh, David",SUI,M,,,,1414,5,40,OCT25,2017,
 1305018,"Saesseli, David",SUI,M,,,,1728,0,20,OCT25,1968,i
 1333356,"Saeuberli, Guy",SUI,M,,,,1606,0,20,OCT25,1965,
 1356119,"Sahraei, Pedram",SUI,M,,,,1765,0,20,OCT25,1980,i
@@ -744,11 +745,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1362097,"Schaefer, Gion",SUI,M,,,,1764,0,40,OCT25,2007,i
 1308866,"Schaerer, Hanspeter",SUI,M,,,,2144,0,20,OCT25,1958,i
 1348663,"Schafft, Lorenz",SUI,M,,,,1501,0,40,OCT25,2009,i
-1348507,"Schaumberger, Lilly",SUI,F,,,,1520,0,40,OCT25,2007,w
+1348507,"Schaumberger, Lilly",SUI,F,,,,1519,0,40,OCT25,2007,w
 1346229,"Schellenberg, Pascal",SUI,M,,,,1866,0,40,OCT25,2010,i
 1345362,"Schellenberg, Simon",SUI,M,,,,2016,0,40,OCT25,2007,
-1364421,"Scherrer, Stephane",SUI,M,,,,1578,0,20,OCT25,1983,
-1365770,Scheu Rene,SUI,M,,,,1782,0,20,OCT25,1974,
+1364421,"Scherrer, Stephane",SUI,M,,,,1579,0,20,OCT25,1983,
+1365770,Scheu Rene,SUI,M,,,,1783,0,20,OCT25,1974,
 1309889,"Schiendorfer, Emanuel",SUI,M,FM,,,2233,0,20,OCT25,1990,i
 1312960,"Schiendorfer, Florian",SUI,M,,,,2123,0,20,OCT25,1990,i
 1334956,"Schlegel, Igor",SUI,M,FM,,,2204,0,20,OCT25,2005,i
@@ -778,15 +779,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 605832,"Sermier, Guillaume",SUI,M,IM,,,2398,0,20,OCT25,1978,i
 1352466,"Settegrana, Miro",SUI,M,,,,1708,0,40,OCT25,2007,i
 1303635,"Seybold, Bernhard",SUI,M,,,,2021,0,20,OCT25,1969,
-1349392,"Shahmammadli, Ramiz",SUI,M,,,,1440,0,40,OCT25,2016,
+1349392,"Shahmammadli, Ramiz",SUI,M,,,,1438,0,40,OCT25,2016,
 1347284,"Shahmammadli, Safkhan",SUI,M,,,,1962,0,20,OCT25,1976,
-527027007,"Shama, Oleksandr",SUI,M,,,,1613,6,40,OCT25,2012,
+527027007,"Shama, Oleksandr",SUI,M,,,,1612,6,,OCT25,2012,
 2828278,"Shatil, Shir",SUI,M,CM,,,1973,0,40,OCT25,2007,i
 1367633,"Shepherd, Paul M",SUI,M,,,,1771,7,40,OCT25,1976,
 1360183,"Shumilov, Ruslan",SUI,M,,,,1826,0,20,OCT25,1990,
 1329758,"Sidler, Samuel",SUI,M,,,,1888,0,20,OCT25,1962,i
-1359029,"Siegel, Felix",SUI,M,,,,1576,0,40,OCT25,2011,
-1332724,"Siegenthaler, Ivo",SUI,M,,,,ACM,1695,0,OCT25,1983,i
+1359029,"Siegel, Felix",SUI,M,,,,1579,0,40,OCT25,2011,
+1332724,"Siegenthaler, Ivo",SUI,M,,,,1695,0,,OCT25,1983,i
 1342380,"Siems, Keanu",SUI,M,,,,1827,0,20,OCT25,2006,i
 1342398,"Siems, Malia",SUI,F,,,,1462,0,20,OCT25,2006,wi
 1354370,"Silke Balerna, Pietro",SUI,M,,,,1704,0,20,OCT25,2000,
@@ -838,7 +839,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1320610,"Stucki, Matthias",SUI,M,,,,1819,0,20,OCT25,1959,i
 1319620,"Studer, Noel",SUI,M,GM,,,2453,9,10,OCT25,1996,
 1354078,"Sturm, Valery",SUI,M,,,,1786,0,20,OCT25,2006,i
-1358634,"Sturzenegger, Eric",SUI,M,,,,1734,0,20,OCT25,2000,i
+1358634,"Sturzenegger, Eric",SUI,M,,,,1733,0,20,OCT25,2000,i
 1331183,"Sulser, Nino",SUI,M,,,,1739,0,20,OCT25,1998,i
 1352610,"Sunilkumar, Prathyush",SUI,M,,,,1762,0,40,OCT25,2012,i
 1337670,"Surikov, George",SUI,M,,,,1644,0,40,OCT25,2008,i
@@ -861,7 +862,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1360159,"Thiran, Noe",SUI,M,,,,1801,0,20,OCT25,2003,
 1360981,"Thoeny, Linda",SUI,F,,,,1787,0,20,OCT25,1961,w
 1306758,"Thompson, Charles-William",SUI,M,,,,1534,0,20,OCT25,1960,i
-1364375,"Thorens, Johan",SUI,M,,,,1563,0,40,OCT25,2007,
+1364375,"Thorens, Johan",SUI,M,,,,1562,0,40,OCT25,2007,
 1302116,"Thuner, Stefan",SUI,M,,,,1972,0,20,OCT25,1976,i
 1310895,"Tikvic, Nikola",SUI,M,,,,1991,0,20,OCT25,1964,i
 1339303,"Tinguely, Frederic",SUI,M,,,,1837,0,20,OCT25,1968,i
@@ -872,7 +873,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14176726,"Toktomushev, Teimur",SUI,M,IM,,,2336,0,20,OCT25,2009,
 1353934,"Tolic, Vinko",SUI,M,,,,1728,0,20,OCT25,1990,i
 1335057,"Toth, Anatol",SUI,M,,,,1939,0,20,OCT25,2003,i
-42155126,"Toumpakaris, Grigorios Emmanouil",SUI,M,,,,1640,7,40,OCT25,2015,
+42155126,"Toumpakaris, Grigorios Emmanouil",SUI,M,,,,1642,7,40,OCT25,2015,
 1375407,"Trachsel, Theo",SUI,M,,,,1580,8,40,OCT25,1998,
 1310631,"Trang, Jean-Pierre",SUI,M,,,,2094,0,20,OCT25,1989,i
 1335030,"Troesch, Alexander",SUI,M,,,,1745,0,20,OCT25,2003,i
@@ -883,7 +884,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1321072,"Tschurr, Christof",SUI,M,,,,1901,0,20,OCT25,1954,i
 1332147,"Tuor, Elena",SUI,F,,,,1701,0,20,OCT25,1947,wi
 1358170,"Udech, Timon",SUI,M,,,,1689,0,40,OCT25,2013,
-134178753,"Udipi, Kala Kishan",SUI,M,,,,AIM,1930,0,OCT25,2010,i
+134178753,"Udipi, Kala Kishan",SUI,M,,,,1930,0,,OCT25,2010,i
 1302736,"Uhlmann, Felix",SUI,M,,,,2173,0,20,OCT25,1969,i
 1316770,"Ulmann, Olivier",SUI,M,,,,1843,0,20,OCT25,1988,i
 1348515,"Upadhyaya, Aamod",SUI,M,,,,1704,0,40,OCT25,2009,i
@@ -894,7 +895,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1351362,"Vaerini, Simone",SUI,M,,,,1643,0,20,OCT25,1983,i
 1367960,"Vallot, Lucien",SUI,M,,,,1619,6,40,OCT25,2017,
 1368524,"Valsecchi, Luca",SUI,M,,,,1846,0,20,OCT25,2003,
-1342142,"Van Aepelen, Nikolai",SUI,M,,,,AFM,1858,0,OCT25,2010,i
+1342142,"Van Aepelen, Nikolai",SUI,M,,,,1858,0,,OCT25,2010,i
 1313401,"Van Boltaringen, Erwin",SUI,M,,,,1954,0,20,OCT25,1966,i
 1366548,"Vanenkov, Andrey",SUI,M,,,,1706,8,20,OCT25,1991,
 1348302,"Vannutelli, Federico",SUI,M,,,,1676,0,20,OCT25,2005,i
@@ -905,7 +906,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 633046,"Vernay, Clovis",SUI,M,GM,"SI,FA",,2468,0,10,OCT25,1989,i
 1301799,"Vianin, Pascal",SUI,M,,,,2160,0,20,OCT25,1965,i
 1319060,"Vilagos, Nandor",SUI,M,,,,2069,0,20,OCT25,1961,i
-1364901,"Vilain, Charles",SUI,M,,,,1485,4,20,OCT25,1985,
+1364901,"Vilain, Charles",SUI,M,,,,1482,4,20,OCT25,1985,
 1310240,"Vilaseca, Laurent",SUI,M,,,,2100,0,20,OCT25,1981,
 1340891,"Villiger, Jan",SUI,M,,NA,,1750,0,20,OCT25,2000,i
 1346725,"Vinayagamoorthy, Apiram",SUI,M,,,,1773,0,20,OCT25,2004,i
@@ -921,7 +922,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1300393,"Vucenovic, Dragomir",SUI,M,FM,,,2129,0,20,OCT25,1941,i
 1305662,"Vuilleumier, Alexandre",SUI,M,IM,,,2203,0,20,OCT25,1982,
 1339044,"Vulliez, Ivan",SUI,M,,,,1747,0,40,OCT25,2008,i
-1358820,"Wachholz, Dario",SUI,M,,,,1642,0,20,OCT25,1986,i
+1358820,"Wachholz, Dario",SUI,M,,,,1641,0,20,OCT25,1986,i
 1326244,"Wachter, Thomas",SUI,M,,,,1741,0,20,OCT25,1977,i
 1303996,"Waelti, Thomas",SUI,M,,,,1940,0,20,OCT25,1965,i
 1317261,"Wagner, Peter",SUI,M,,,,1765,0,20,OCT25,1958,i
@@ -939,8 +940,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1347578,"Wicht, Denis",SUI,M,,,,1692,0,20,OCT25,1954,i
 1319124,"Wiesinger, Martin",SUI,M,,,,1934,0,20,OCT25,1965,i
 1308262,"Wiesmann, Dominique",SUI,M,,,,1912,0,20,OCT25,1966,i
-1319132,"Wigger, Michael",SUI,M,,,,AIM,1914,0,OCT25,1968,
-1320041,"Wild, Beat",SUI,M,,,,1634,0,20,OCT25,1953,
+1319132,"Wigger, Michael",SUI,M,,,,1914,0,,OCT25,1968,
+1320041,"Wild, Beat",SUI,M,,,,1633,0,20,OCT25,1953,
 1347039,"Wilhelm, Marco",SUI,M,,,,1685,0,40,OCT25,2013,
 1305808,"Wilhelm, Serge",SUI,M,,,,1913,0,20,OCT25,1978,
 1355295,"Willi, Patrik",SUI,M,,,,2067,0,20,OCT25,1995,
@@ -953,7 +954,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1326996,"Wunderlin, Thomas",SUI,M,,,,1806,0,20,OCT25,1959,i
 1311387,"Wyss, Jonas",SUI,M,FM,NA,,2029,0,20,OCT25,1987,
 1310267,"Wyss, Peter",SUI,M,,,,1849,0,20,OCT25,1954,
-25849166,"Zafeiridis, Athanasios",SUI,M,,,,AFM,1828,0,OCT25,2007,i
+25849166,"Zafeiridis, Athanasios",SUI,M,,,,1828,0,,OCT25,2007,i
 1325019,"Zamora, Ricardo",SUI,M,,,,1795,10,20,OCT25,1996,
 1337025,"Zani,Davide",SUI,M,,,,1938,0,20,OCT25,2003,i
 1342410,"Zargarov, Mikayel",SUI,M,,,,2006,9,40,OCT25,2007,

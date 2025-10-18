@@ -13,9 +13,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13100076,"Andrianarisoa, Luc Narda",MAD,M,,,,1750,0,20,OCT25,1946,i
 13103105,Andrianarison Ny Koloina,MAD,F,,,,1647,0,20,OCT25,1995,w
 13100971,"Andrianarivelo, Lova Eric",MAD,M,,,,1834,0,20,OCT25,1983,i
-13112325,"Andrianarivelo,Ambinintsoa Princy",MAD,M,,,,1446,0,20,OCT25,2000,
+13112325,"Andrianarivelo,Ambinintsoa Princy",MAD,M,,,,1447,0,20,OCT25,2000,
 13101048,"Andrianiaina, Heritiana",MAD,M,CM,,,2106,0,20,OCT25,1994,
-13112333,"ANDRIANIRINA,Kevin",MAD,M,,,,1661,0,20,OCT25,1990,
+13112333,"ANDRIANIRINA,Kevin",MAD,M,,,,1662,0,20,OCT25,1990,
 13104578,"Andrianjafisoa, Fitia Antoninhio",MAD,M,,,,1713,0,40,OCT25,2008,
 13101145,"Andrianomenjanahary, Noah",MAD,M,,,,1814,0,20,OCT25,1987,
 13104020,"Andrianomenjanahary, Sedranirina",MAD,M,,,,1826,0,20,OCT25,2006,i
@@ -24,7 +24,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13103130,Andriatsitairina Aime Jackinot,MAD,M,,,,1790,0,20,OCT25,1965,
 13108263,"CHISSANO, Elie Donald",MAD,M,,,,1686,0,40,OCT25,2010,i
 13106384,"Emadisson,Benjamina",MAD,M,,,,1788,0,20,OCT25,1969,i
-13106716,"Farasoa, Vololoniaina Jedidia",MAD,F,,,,1409,0,20,OCT25,1982,w
+13106716,"Farasoa, Vololoniaina Jedidia",MAD,F,,,,1410,0,20,OCT25,1982,w
 13100491,"Herilala, Manitra",MAD,M,,,,1861,0,20,OCT25,1986,i
 13108247,"HERIMANANA, Olivier",MAD,M,,,,1704,0,40,OCT25,2010,i
 13101480,"Hilary, Marion",MAD,M,,,,1822,0,20,OCT25,2001,i
@@ -33,7 +33,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13109715,"Koera, Arihaja Sacha",MAD,M,,,,1594,0,40,OCT25,2015,
 13107356,"LALANDE,Tantely",MAD,M,,,,1401,0,40,OCT25,2011,
 13108433,"MAHEFASOA DAVID,SOLOMON",MAD,M,,,,1701,0,20,OCT25,1992,i
-13101587,"Manjee, Parth",MAD,M,,,,AFM,1609,0,OCT25,1998,i
+13101587,"Manjee, Parth",MAD,M,,,,1609,0,,OCT25,1998,i
 13101455,"Miharimanana, Fabrice",MAD,M,,,,1939,0,20,OCT25,1994,i
 13102346,Mijoro Anjara Fifaliana,MAD,M,,,,1749,0,20,OCT25,1993,i
 13104101,"Nomenjanahary, Fanilo",MAD,M,,,,1934,0,20,OCT25,2006,i
@@ -75,7 +75,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13107887,"RAKOTONDRASOA,Nantenaina Anderson",MAD,M,,,,1760,0,20,OCT25,2000,i
 13100173,"Rakotoniaina, Antsiva",MAD,M,,,,1988,0,20,OCT25,1989,i
 13108239,"RAKOTONIAINA, Manambina Errich",MAD,M,,,,1749,0,40,OCT25,2010,i
-13102630,"Rakotoniaina, Tiana Johanna",MAD,F,,,,1677,0,20,OCT25,1996,w
+13102630,"Rakotoniaina, Tiana Johanna",MAD,F,,,,1676,0,20,OCT25,1996,w
 13100670,"Rakotovao, Hobinirina Sitraka",MAD,M,,,,1690,0,20,OCT25,1995,i
 13109375,"Ralaiarimasy,Manantsoa Voara Judickael",MAD,M,,,,1752,0,20,OCT25,2000,
 13101269,"Ralaiarisoa, Derarilaza Petera",MAD,M,,,,1853,0,20,OCT25,1987,
@@ -86,7 +86,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13100904,Ramaroson Rindra,MAD,M,,,,1896,0,20,OCT25,1980,i
 13100700,"Rambolamalalatiana, Haja",MAD,M,,,,1845,0,20,OCT25,1978,i
 13103334,Ramorasata Andriamparany,MAD,M,,NI,,1687,0,20,OCT25,1985,i
-13100726,"Ramorasata, Andrianina",MAD,M,,,,AFM,1787,0,OCT25,1991,i
+13100726,"Ramorasata, Andrianina",MAD,M,,,,1787,0,,OCT25,1991,i
 13100734,"Ramorasata, Tendry",MAD,M,,,,1817,0,20,OCT25,1995,i
 13107615,"RAMORASATA,Diary Vetsovetson Anjomara",MAD,F,,,,1612,0,40,OCT25,2013,w
 13107933,"RAMORASATA,Tsiory Fahendrena Andrianina",MAD,M,,,,1468,0,40,OCT25,2009,i
@@ -97,7 +97,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13102273,Randremasinjara Laza,MAD,M,,,,1673,0,20,OCT25,1992,i
 13101528,"Randriaharison, Christian",MAD,M,,,,1868,0,20,OCT25,1978,i
 13100742,"Randriamahefa, Fenitra Anthony",MAD,M,,,,1962,0,20,OCT25,1991,i
-13102354,Randriamanampisoa Mickael Kevin,MAD,M,,,,ACM,1723,0,OCT25,1997,i
+13102354,Randriamanampisoa Mickael Kevin,MAD,M,,,,1723,0,,OCT25,1997,i
 13100343,"Randriambololona, Herimanjatosoa",MAD,M,,,,1949,0,20,OCT25,1990,i
 13103679,Randrianarisoa Andy,MAD,M,,,,1730,0,20,OCT25,1982,
 13102052,Randrianarivelo Anja Marc,MAD,M,,,,1858,0,20,OCT25,1991,i
@@ -114,7 +114,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13103555,Ravelomihary Dio Mahasolo,MAD,M,,,,1654,0,20,OCT25,1981,i
 13101285,"Raveloson, Jose Alain",MAD,M,,,,1897,0,20,OCT25,1991,i
 13100823,"Razafimahefa, Lalaina Vololona",MAD,F,,,,1647,0,20,OCT25,1973,wi
-13104063,"Razafindrabe, Bakoly",MAD,F,,,,ACM,1604,0,OCT25,1995,w
+13104063,"Razafindrabe, Bakoly",MAD,F,,,,1604,0,,OCT25,1995,w
 13101536,"Razafindrabe, Ronaldo",MAD,M,,,,1825,0,20,OCT25,1995,i
 13100416,"Razafindrabiaza, Christine",MAD,F,WFM,WFM,,1695,0,20,OCT25,1978,w
 13102281,Razafindrakoto Naly,MAD,M,,,,1768,0,20,OCT25,1990,
@@ -122,7 +122,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13100955,Razafindratsimba Andry,MAD,M,,,,1829,0,20,OCT25,1985,i
 13101439,"Razanadrakotoarisoa, Toavina",MAD,M,FM,,,2121,0,20,OCT25,2003,
 13103091,Roudan Hasina Hajaina Ismael,MAD,M,,,,1665,0,20,OCT25,1996,i
-13105850,"Seheno, Rijaniaina",MAD,M,,,,AFM,1537,0,OCT25,1991,i
+13105850,"Seheno, Rijaniaina",MAD,M,,,,1537,0,,OCT25,1991,i
 13107364,"Tojomalala, Aiko",MAD,M,,,,1547,0,40,OCT25,2011,
 13108387,"TOMBOLAZA,SERGINOT",MAD,M,,,,1734,0,20,OCT25,2000,i
 13105450,"Tsinjoviniavo, Aina Mahasambatra",MAD,F,WCM,WCM,,1597,0,40,OCT25,2012,w

@@ -172,9 +172,9 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "AFM",
-    "Gms": "1707",
-    "K": "0",
+    "Rating": "1707",
+    "Gms": "0",
+    "K": "",
     "RatingMonth": "OCT25",
     "B-day": "1999",
     "Flag": "i"
@@ -352,9 +352,9 @@
     "Title": "",
     "WTit": "NA",
     "OTit": "",
-    "Rating": "ACM",
-    "Gms": "1489",
-    "K": "0",
+    "Rating": "1489",
+    "Gms": "0",
+    "K": "",
     "RatingMonth": "OCT25",
     "B-day": "1997",
     "Flag": "wi"
@@ -600,21 +600,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "21300470",
-    "Name": "Monaheng Motlomelo",
-    "Fed": "LES",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "FA",
-    "OTit": "",
-    "Rating": "1665",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT25",
-    "B-day": "1995",
-    "Flag": "i"
-  },
-  {
     "ID Number": "21300895",
     "Name": "Monyake Doti",
     "Fed": "LES",
@@ -672,6 +657,21 @@
     "K": "20",
     "RatingMonth": "OCT25",
     "B-day": "2003",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "21300470",
+    "Name": "Motlomelo, Monaheng",
+    "Fed": "LES",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "FA",
+    "OTit": "",
+    "Rating": "1665",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT25",
+    "B-day": "1995",
     "Flag": "i"
   },
   {

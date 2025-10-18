@@ -3,7 +3,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 510726,"Aalto, Patrik",FIN,M,FM,,,2150,24,20,OCT25,2004,
 504254,"Aberg, Tomi",FIN,M,,,,2106,0,20,OCT25,1980,i
 509191,"Ahonen, Jari",FIN,M,,,,1863,0,20,OCT25,1974,i
-511951,"Ahonen, Martin",FIN,M,,,,AIM,1854,0,OCT25,1991,
+511951,"Ahonen, Martin",FIN,M,,,,1854,0,,OCT25,1991,
 520179,"Ahtola, Aaron",FIN,M,,,,1428,0,40,OCT25,2011,
 507571,"Ahvenjarvi, Jani",FIN,M,FM,,,2314,0,20,OCT25,1995,i
 7603053,"Al Argha, Fatima",FIN,F,,,,1609,0,20,OCT25,2003,wi
@@ -14,11 +14,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 512060,"Alho, Olli",FIN,M,,,,1742,0,20,OCT25,1965,
 516740,"Alic, Muamer",FIN,M,,,,1958,0,20,OCT25,1988,i
 509701,"Alisaari, Vellu",FIN,M,,,,1462,0,20,OCT25,1979,
-512982,"Andreev, Atos",FIN,M,,,,1716,0,20,OCT25,2002,
+512982,"Andreev, Atos",FIN,M,,,,1717,0,20,OCT25,2002,
 519499,"Antonov, Alexey",FIN,M,,,,1886,0,20,OCT25,2003,
-524220,"Anttonen, Nikita",FIN,M,,,,1460,0,40,OCT25,2016,
+524220,"Anttonen, Nikita",FIN,M,,,,1461,0,40,OCT25,2016,
 520969,"Arala, Niilo",FIN,M,,,,1478,0,20,OCT25,2006,i
-33417075,Archishman Das,FIN,M,,,,1526,0,40,OCT25,2014,
+33417075,Archishman Das,FIN,M,,,,1525,0,40,OCT25,2014,
 513199,"Arfwedson, Peter",FIN,M,,,,1955,0,20,OCT25,1956,i
 7600127,"Argha, Hicham",FIN,M,FM,,,2182,0,20,OCT25,1960,i
 514659,"Aropaltio, Tapio",FIN,M,,,,1936,0,20,OCT25,1995,
@@ -26,9 +26,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 510602,"Aura, Daniel",FIN,M,,,,1773,0,20,OCT25,2004,i
 44105045,"Bacherikov, Alexander",FIN,M,,,,1822,0,20,OCT25,2006,i
 518883,"Barbashin, Daniil",FIN,M,,,,1574,0,40,OCT25,2007,i
-510360,"Bederdin, Lilja",FIN,F,WFM,WFM,,2063,0,20,OCT25,2001,w
+510360,"Bederdin, Lilja",FIN,F,WFM,WFM,,2064,0,20,OCT25,2001,w
 517640,"Berg, Juhani",FIN,M,,,,1847,0,20,OCT25,1943,i
-504033,"Bergman, Thomas",FIN,M,,,,AIM,1899,0,OCT25,1977,i
+504033,"Bergman, Thomas",FIN,M,,,,1899,0,,OCT25,1977,i
 518760,"Bhaumik, Mehr",FIN,F,,,,1565,0,40,OCT25,2014,w
 500151,"Binham, Timothy F.",FIN,M,IM,,,2187,0,20,OCT25,1956,
 523127,"Bisht, Sinhyana",FIN,F,,,,1446,0,40,OCT25,2014,w
@@ -44,7 +44,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 516058,"Corbanese, Demetrio",FIN,M,,,,1828,0,20,OCT25,2003,i
 517828,"Degot, Konstantin",FIN,M,,,,1953,0,20,OCT25,2004,i
 522236,"Do, Tuong Vinh",FIN,M,,,,1812,0,40,OCT25,2009,
-520705,"Donovan, Stephen",FIN,M,,,,1841,0,40,OCT25,2011,
+520705,"Donovan, Stephen",FIN,M,,,,1840,0,40,OCT25,2011,
 505170,"Ebeling, Daniel",FIN,M,IM,,,2356,0,20,OCT25,1996,i
 506591,"Ebeling, Gabriela",FIN,F,,,,1726,0,20,OCT25,1998,wi
 508071,"Ebeling, Mikaela",FIN,F,,,,1763,0,20,OCT25,2000,wi
@@ -62,7 +62,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 521671,"Haapala, Daniel",FIN,M,,,,1857,0,20,OCT25,2000,
 511030,"Haapanen, Aapo",FIN,M,,,,1879,0,20,OCT25,1976,
 524182,"Haikarainen, Ville",FIN,M,,,,1672,0,20,OCT25,2005,
-515973,"Hakkinen, Aleksandr",FIN,M,,,,1946,14,40,OCT25,2008,
+515973,"Hakkinen, Aleksandr",FIN,M,,,,1947,14,40,OCT25,2008,
 517682,"Hakulinen, Pauli",FIN,M,,,,1929,0,20,OCT25,1996,
 501271,"Hallenberg, Sami",FIN,M,,,,2018,0,20,OCT25,1977,
 508098,"Hallman, Valo",FIN,M,FM,,,2119,0,20,OCT25,2001,i
@@ -71,17 +71,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 519669,"Halonen, Aku",FIN,M,,,,1640,0,20,OCT25,2006,
 509221,"Hamalainen, Jussi",FIN,M,,,,2024,0,20,OCT25,1987,
 516066,"Hamina, Martti",FIN,M,,NA,,1749,0,20,OCT25,1955,
-523925,"Hannula, Elias",FIN,M,,,,1434,0,40,OCT25,2012,
+523925,"Hannula, Elias",FIN,M,,,,1436,0,40,OCT25,2012,
 521094,"Hansen, Kaius",FIN,M,,,,1554,0,40,OCT25,2007,i
 501417,"Hartikainen, Markku",FIN,M,FM,,,2287,0,20,OCT25,1973,i
 501549,"Hartio, Ilkka",FIN,M,,,,1916,0,20,OCT25,1961,i
-29981530,"Hatharasinghe, S S Oshini Shavind",FIN,F,,,,1471,0,40,OCT25,2012,w
+29981530,"Hatharasinghe, S S Oshini Shavind",FIN,F,,,,1472,0,40,OCT25,2012,w
 523933,"Hatharasinghe, S S Senuja",FIN,M,,,,1451,0,40,OCT25,2014,
 508241,"Hautaniemi, Jarmo",FIN,M,,,,1979,0,20,OCT25,1956,i
 507865,"Havumaki, Jani",FIN,M,,,,1854,0,20,OCT25,1983,i
 522996,"Havusela, Aleksi",FIN,M,,,,1882,0,40,OCT25,2009,
 501301,"Heikkinen, Jyrki",FIN,M,,,,1997,0,20,OCT25,1967,i
-517011,"Heino, Pessi",FIN,M,,,,2033,0,40,OCT25,2010,
+517011,"Heino, Pessi",FIN,M,CM,,,2033,0,40,OCT25,2010,
 1706063,"Heinola, Vesa",FIN,M,CM,,,2109,0,20,OCT25,1972,
 514101,"Helander, Benjamin",FIN,M,,,,1916,0,20,OCT25,1999,i
 520039,"Helmisola, Matti",FIN,M,,,,1798,0,20,OCT25,1971,
@@ -125,15 +125,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 523941,"Junkkarinen, Joel",FIN,M,,,,1478,0,40,OCT25,2009,
 509639,"Jylha-Ollila, Kaarlo",FIN,M,,,,1788,0,20,OCT25,1954,i
 514373,"Jyska, Ilmari",FIN,M,,,,1837,0,20,OCT25,1980,
-506800,"Kaatiala, Pekka",FIN,M,,,,1964,0,20,OCT25,1961,
-521183,"Kachanov, Alexander",FIN,M,,,,ACM,1419,0,OCT25,2012,
+506800,"Kaatiala, Pekka",FIN,M,,,,1965,0,20,OCT25,1961,
+521183,"Kachanov, Alexander",FIN,M,,,,1422,0,,OCT25,2012,
 518816,"Kahre, Kim",FIN,M,,,,2168,0,20,OCT25,2000,
 506958,"Kahri, Antti",FIN,M,,,,2135,0,20,OCT25,1988,
 516376,"Kalliola, Juha",FIN,M,,,,1669,0,20,OCT25,1947,i
 519650,"Kallunki, Karoliina",FIN,F,,,,1519,0,20,OCT25,2006,w
 518611,"Kallunki, Konsta",FIN,M,,,,1825,0,20,OCT25,2004,i
 519707,"Kalmykov, Danila",FIN,M,,,,1542,0,40,OCT25,2011,i
-522864,"Kanevskiy, Aleksandr",FIN,M,,,,1746,0,40,OCT25,2010,
+522864,"Kanevskiy, Aleksandr",FIN,M,,,,1747,0,40,OCT25,2010,
 508225,"Karasmaki, Seppo",FIN,M,,,,1670,0,20,OCT25,1962,
 513113,"Karhula, Adam",FIN,M,,,,1602,0,20,OCT25,2005,i
 512893,"Karhula, Sandro",FIN,M,,,,1784,0,20,OCT25,2002,i
@@ -151,7 +151,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 500348,"Kekki, Petri",FIN,M,IM,,,2201,0,20,OCT25,1966,
 919330,"Kelmendi, Isak",FIN,M,,,,1786,0,20,OCT25,1978,i
 508560,"Kesanen, Viljami",FIN,M,,,,1863,0,20,OCT25,1994,
-523887,"Kesavaara, Aarni",FIN,M,,,,1908,0,40,OCT25,2011,
+523887,"Kesavaara, Aarni",FIN,M,,,,1909,0,40,OCT25,2011,
 514942,"Keso, Elias",FIN,M,FM,,,2153,0,20,OCT25,2005,i
 505730,"Keto-Tokoi, Markko",FIN,M,,,,1933,0,20,OCT25,1966,i
 510505,"Khanov, Peter Malachi",FIN,M,,,,1978,0,20,OCT25,1998,i
@@ -173,12 +173,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 509779,"Kokkala, Janne",FIN,M,,,,1927,0,20,OCT25,1988,i
 501352,"Kokkila, Tero",FIN,M,FM,,,2170,0,20,OCT25,1968,i
 519120,"Kokkonen, Eelis",FIN,M,,,,1907,0,40,OCT25,2008,i
-519154,"Kokkonen, Kristian",FIN,M,,,,1766,0,40,OCT25,2011,
+519154,"Kokkonen, Kristian",FIN,M,,,,1767,0,40,OCT25,2011,
 514918,"Kokkonen, Lassi",FIN,M,,,,1880,0,20,OCT25,2004,i
 515183,"Kokkonen, Sirpa",FIN,F,,,,1587,0,20,OCT25,1968,wi
 521256,"Kolotushkin, Grigorii",FIN,M,,,,1592,0,40,OCT25,2010,
 511170,"Komulainen, Lauri",FIN,M,,,,1915,0,20,OCT25,1991,i
-34434712,"Kondratev, Denis Al.",FIN,M,,,,AFM,1953,0,OCT25,1985,i
+34434712,"Kondratev, Denis Al.",FIN,M,,,,1953,0,,OCT25,1985,i
 508993,"Konttinen, Timo",FIN,M,,,,1886,0,20,OCT25,1976,i
 515868,"Koota, Ilkka",FIN,M,,,,1868,0,40,OCT25,2008,i
 521493,"Koponen, Elliot",FIN,M,,,,1477,0,40,OCT25,2010,i
@@ -196,7 +196,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 517160,"Kovero, Mikko",FIN,M,,,,1947,0,20,OCT25,1989,i
 504319,"Koykka, Pekka",FIN,M,IM,,,2342,0,20,OCT25,1990,
 517968,"Krasniqi, Bashkim",FIN,M,,,,1846,0,20,OCT25,1971,i
-523666,"Krok, Niklas",FIN,M,,,,1584,0,40,OCT25,2014,
+523666,"Krok, Niklas",FIN,M,,,,1583,0,40,OCT25,2014,
 518042,"Kuisma, Juho",FIN,M,,,,1858,0,20,OCT25,1991,i
 514713,"Kukkonen, Martti",FIN,M,,,,1645,0,20,OCT25,1946,i
 513989,"Kulmala, Viktor",FIN,M,,,,1437,0,20,OCT25,2006,i
@@ -238,7 +238,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 501174,"Lehtosaari, Kalevi",FIN,M,,,,1950,0,20,OCT25,1943,i
 506001,"Lembidakis, Michael",FIN,M,,,,1735,0,20,OCT25,1949,i
 521680,"Leppanen, Aleksi",FIN,M,,,,1917,0,20,OCT25,1992,i
-520420,"Levanov, Nikolay",FIN,M,,,,1590,10,40,OCT25,2013,
+520420,"Levanov, Nikolay",FIN,M,,,,1591,10,40,OCT25,2013,
 505862,"Levomaki, Rikumatti",FIN,M,,,,2086,0,20,OCT25,1973,i
 502014,"Lindholm, Arto",FIN,M,,,,1926,0,20,OCT25,1962,i
 508012,"Lindholm, Jere",FIN,M,,,,2063,0,20,OCT25,1998,
@@ -256,7 +256,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522600,"Maki, Ahti",FIN,M,,,,1541,0,40,OCT25,2009,
 514357,"Maki-Franti, Petri",FIN,M,,,,1825,0,20,OCT25,1973,
 501344,"Maki-Uuro, Miikka",FIN,M,IM,,,2303,0,20,OCT25,1972,i
-510599,"Maki-Uuro, Tuure",FIN,M,,,,1449,0,20,OCT25,2005,
+510599,"Maki-Uuro, Tuure",FIN,M,,,,1450,0,20,OCT25,2005,
 1704036,"Makinen, Janne",FIN,M,,,,1933,0,20,OCT25,1979,i
 516384,"Makinen, Pekka",FIN,M,,,,1625,0,20,OCT25,1955,i
 502197,"Makinen, Ville",FIN,M,,,,1982,0,20,OCT25,1987,i
@@ -270,7 +270,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 524212,"Marjanen, Paul",FIN,M,,,,1800,0,20,OCT25,2005,
 520349,"Markkanen, Juho",FIN,M,,,,1729,0,40,OCT25,2008,i
 516228,"Martinec, Tamas",FIN,M,,,,1967,0,20,OCT25,2002,i
-509108,"Marttinen, Jussi",FIN,M,,,,AFM,1955,0,OCT25,1982,
+509108,"Marttinen, Jussi",FIN,M,,,,1955,0,,OCT25,1982,
 521019,"Mashhadi Aghajan, Rayan",FIN,M,,,,2001,0,40,OCT25,2015,
 522481,"Matikainen, Risto",FIN,M,,,,1649,0,20,OCT25,1981,i
 524484,"Matiusenko, Anna",FIN,F,,,,1662,0,20,OCT25,2005,w
@@ -311,7 +311,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 506567,"Nordman, Joonas",FIN,M,,,,1987,0,20,OCT25,1994,i
 4505344,"Norlamo, Sarabella",FIN,F,,,,1908,0,20,OCT25,2003,wi
 500160,"Norri, Joose",FIN,M,IM,,,2217,0,20,OCT25,1971,i
-522023,"Nousiainen, Roni",FIN,M,,,,1755,0,20,OCT25,2003,
+522023,"Nousiainen, Roni",FIN,M,,,,1754,0,20,OCT25,2003,
 519260,"Nukarinen, Henrik",FIN,M,,,,1713,0,40,OCT25,2009,
 505927,"Nurmela, Janne",FIN,M,,,,1957,0,20,OCT25,1968,
 523429,"Nurminen, Jimi",FIN,M,,,,1778,0,20,OCT25,1996,
@@ -345,7 +345,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 504092,"Patola, Eero",FIN,M,,,,1655,0,20,OCT25,1950,i
 514764,"Patosalmi, Juha",FIN,M,,,,1945,0,20,OCT25,1979,i
 516449,"Pelander, Pauliina",FIN,F,,,,1826,0,20,OCT25,1991,wi
-522724,"Pelenov, Egor",FIN,M,,,,1710,0,40,OCT25,2010,
+522724,"Pelenov, Egor",FIN,M,,,,1709,0,40,OCT25,2010,
 521108,"Peltola, Erik",FIN,M,,,,1503,0,20,OCT25,2006,i
 509337,"Peltola, Risto",FIN,M,,,,1856,0,20,OCT25,1957,i
 518930,"Peltola, Tommi",FIN,M,,,,1748,0,20,OCT25,2006,i
@@ -359,7 +359,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 520268,"Pitkanen, Artturi",FIN,M,,,,1744,0,20,OCT25,2005,
 506478,"Pohjala, Henri",FIN,M,FM,,,2366,0,10,OCT25,1992,i
 507156,"Pohjala, Ilari",FIN,M,,,,1818,0,20,OCT25,1991,
-523984,"Polkhovski, Jan",FIN,M,,,,1488,0,40,OCT25,2015,
+523984,"Polkhovski, Jan",FIN,M,,,,1489,0,40,OCT25,2015,
 515779,"Polkki, Eino",FIN,M,,,,1933,0,20,OCT25,2006,
 515957,"Polkki, Reko",FIN,M,,,,1585,0,40,OCT25,2008,
 505935,"Pollari, Pasi",FIN,M,,,,2153,0,20,OCT25,1965,i
@@ -378,7 +378,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 510050,"Rajakari, Janne",FIN,M,,,,1925,0,20,OCT25,1966,i
 505145,"Raki, Jyrki",FIN,M,,,,1981,0,20,OCT25,1970,i
 503738,"Ranki, Martti",FIN,M,,,,1963,0,20,OCT25,1943,i
-518832,"Rantala, Tuomas",FIN,M,,,,AFM,2011,0,OCT25,2011,
+518832,"Rantala, Tuomas",FIN,M,,,,2011,0,,OCT25,2011,
 508551,"Rasanen, Otto",FIN,M,,,,1989,0,20,OCT25,1995,i
 518867,"Rassouli, Sahar",FIN,F,,,,1450,0,20,OCT25,2003,wi
 500917,"Rauramaa, Julius",FIN,M,,,,1977,0,20,OCT25,1996,i
@@ -401,7 +401,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 501883,"Ruotanen, Helge",FIN,M,,,,1937,0,20,OCT25,1951,
 515590,"Ruusunen, Onni",FIN,M,,,,1774,0,40,OCT25,2008,i
 516104,"Said, Mohamed",FIN,M,,,,1732,0,20,OCT25,1952,
-502685,"Salimaki, Janne",FIN,M,FM,,,1856,0,20,OCT25,1969,
+502685,"Salimaki, Janne",FIN,M,FM,,,1855,0,20,OCT25,1969,
 512834,"Salmelin, Aaro",FIN,M,,,,1983,0,20,OCT25,2000,i
 516139,"Salmenkivi, Eero",FIN,M,,,,2018,0,20,OCT25,1958,
 508578,"Salminen, Aku",FIN,M,,,,1855,0,20,OCT25,1994,i
@@ -430,7 +430,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 516210,"Sillanpaa, Jyrki",FIN,M,,,,1541,0,20,OCT25,1962,
 503398,"Sinervuo, Veli-Pekka",FIN,M,,,,1916,0,20,OCT25,1962,i
 515191,"Sinitsyn, Anton",FIN,M,,,,2038,15,20,OCT25,2006,
-522414,"Sinitsyna, Julia",FIN,F,,,,1554,8,40,OCT25,2015,w
+522414,"Sinitsyna, Julia",FIN,F,,,,1553,8,40,OCT25,2015,w
 519286,"Sinkkonen, Eero",FIN,M,,,,1724,0,20,OCT25,1966,
 505455,"Sipila, Vilka",FIN,M,IM,,,2368,0,10,OCT25,1987,
 515450,"Sippola, Kai",FIN,M,,,,1723,0,20,OCT25,1977,i
@@ -440,10 +440,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 511129,"Sjoman, Tapani",FIN,M,,,,1979,0,20,OCT25,1963,
 4157052,"Sklyarov, Dmitry V.",FIN,M,IM,,,2446,0,10,OCT25,1983,i
 4169654,"Sklyarova, Alena",FIN,F,,,,1945,0,20,OCT25,1986,wi
-24280410,"Sobolev, Maksim S.",FIN,M,,,,1680,0,40,OCT25,2010,
+24280410,"Sobolev, Maksim S.",FIN,M,,,,1681,0,40,OCT25,2010,
 519766,"Sobolev, Mark",FIN,M,,,,1477,0,40,OCT25,2013,
 24296600,"Soboleva, Lidiia",FIN,F,,,,1497,0,40,OCT25,2007,wi
-500763,"Soikkeli, Raino",FIN,M,,,,AFM,1692,0,OCT25,1962,i
+500763,"Soikkeli, Raino",FIN,M,,,,1692,0,,OCT25,1962,i
 514160,"Sokka, Valtteri",FIN,M,,,,1611,0,40,OCT25,2007,
 524042,"Sonne, Nico",FIN,M,,,,1527,0,40,OCT25,2007,
 515418,"Sopjan, Agim",FIN,M,,,,1864,0,20,OCT25,1967,
@@ -476,7 +476,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522821,"Tkachov, Mykhailo",FIN,M,,,,1856,0,40,OCT25,2012,
 503622,"Tocklin, Tomi",FIN,M,,,,1854,0,20,OCT25,1968,i
 502740,"Topi-Hulmi, Teemu",FIN,M,FM,,,2241,0,20,OCT25,1981,i
-521329,"Toppinen, Neo",FIN,M,,,,1518,0,40,OCT25,2009,i
+521329,"Toppinen, Neo",FIN,M,,,,1517,0,40,OCT25,2009,i
 507660,"Torkkola, Henri",FIN,M,,,,2218,0,20,OCT25,1993,
 518590,"Tukiainen, Kasper",FIN,M,,,,1720,0,20,OCT25,2005,i
 507245,"Tuominen, Joona",FIN,M,,,,1924,0,20,OCT25,1989,i
@@ -500,9 +500,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 507555,"Valkama, Eero",FIN,M,FM,,,2246,0,20,OCT25,1998,
 510076,"Valkama, Samuli",FIN,M,,NA,,1929,0,20,OCT25,1965,i
 500054,"Valkesalmi, Kimmo",FIN,M,IM,,,2278,0,20,OCT25,1961,i
-517046,"Valpas, Jami",FIN,M,,,,1805,0,40,OCT25,2009,
+517046,"Valpas, Jami",FIN,M,,,,1806,0,40,OCT25,2009,
 520977,"van Uden, Iivari",FIN,M,,,,1506,0,20,OCT25,2006,i
-522740,"Varfolomeev, Maksim",FIN,M,,,,1584,0,40,OCT25,2014,
+522740,"Varfolomeev, Maksim",FIN,M,,,,1583,0,40,OCT25,2014,
 519065,"Varjakais, Mark",FIN,M,,,,1704,0,20,OCT25,2006,i
 34134603,"Vashchenko, Diana",FIN,F,,,,1833,0,20,OCT25,2006,w
 517208,"Vehkalahti, Samuel",FIN,M,,,,1890,0,20,OCT25,1980,i
@@ -516,7 +516,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 500607,"Viljava, Tapani",FIN,M,,,,2023,0,20,OCT25,1956,
 517461,"Vilkko, Arvo",FIN,M,,,,1849,0,20,OCT25,2005,
 1703196,"Vinke, Dietmar",FIN,M,FM,,,2136,0,20,OCT25,1951,i
-522783,"Virkkala, Vilho",FIN,M,,,,1424,0,40,OCT25,2016,
+522783,"Virkkala, Vilho",FIN,M,,,,1425,0,40,OCT25,2016,
 506486,"Virtanen, Esko",FIN,M,,,,1923,0,20,OCT25,1951,i
 509850,"Virtanen, Teemu",FIN,M,FM,,,2184,0,20,OCT25,1999,i
 34191442,"Volkov, Roman",FIN,M,,,,2081,0,20,OCT25,1998,i
@@ -524,7 +524,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 509876,"Vuorinen, Juha",FIN,M,,,,1561,0,20,OCT25,1977,
 508217,"Vyskubov, Dmitry",FIN,M,,,,1952,0,20,OCT25,1992,i
 506575,"Waara, Jorgen",FIN,M,,,,1924,0,20,OCT25,1973,i
-521230,"Walker, Misaiel",FIN,M,,,,AFM,1576,0,OCT25,2012,i
+521230,"Walker, Misaiel",FIN,M,,,,1576,0,,OCT25,2012,i
 503967,"Wallin, Aleksi",FIN,M,,,,2157,0,20,OCT25,1991,i
 517348,"Wallin, Axel",FIN,M,,,,1782,0,20,OCT25,1996,i
 520837,"Wang, Jialin",FIN,M,,,,1509,0,40,OCT25,2010,i
@@ -539,7 +539,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 520543,"Zhang, Yiming",FIN,M,,,,1765,0,40,OCT25,2014,
 522082,"Zhao, Yixuan",FIN,M,,,,1438,0,40,OCT25,2015,
 524174,"Zhivotova, Aleksandra",FIN,F,,,,1435,0,40,OCT25,2009,w
-8657734,"Zhu, Yunqing",FIN,M,,,,1584,0,40,OCT25,2014,
+8657734,"Zhu, Yunqing",FIN,M,,,,1583,0,40,OCT25,2014,
 522953,"Ziiagov, Ilia",FIN,M,,,,1543,0,40,OCT25,2008,
 522643,"Zyuzin, Stepan",FIN,M,,,,1463,0,40,OCT25,2016,
 519030,"Zyuzin, Zakhar",FIN,M,,,,1682,0,40,OCT25,2013,

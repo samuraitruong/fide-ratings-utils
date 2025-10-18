@@ -11,9 +11,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4502086,"Akimov, Filipp",EST,M,,,,1917,0,20,OCT25,1988,i
 4510160,"Aksjonova, Alisa",EST,F,,,,1420,0,20,OCT25,2005,wi
 4515374,"Akulistoi, Andrei",EST,M,,,,1494,0,40,OCT25,2011,i
-4516974,"Ala, Aivar",EST,M,,,,1523,10,40,OCT25,1965,
+4516974,"Ala, Aivar",EST,M,,,,1522,10,40,OCT25,1965,
 4512618,"Aland, Andor",EST,M,,,,1538,0,20,OCT25,1999,i
-4521153,"Alas, Mart Mattias",EST,M,,,,1725,14,40,OCT25,2013,
+4521153,"Alas, Mart Mattias",EST,M,,,,1726,14,40,OCT25,2013,
 4502000,"Alasoo, Kaarel",EST,M,,,,1981,0,20,OCT25,1986,i
 4513835,"Albrecht, Andero",EST,M,,,,1548,0,20,OCT25,2005,i
 4507045,"Aleksejev, Artjom",EST,M,,,,1606,0,40,OCT25,2008,i
@@ -47,14 +47,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4505999,"Beljajeva, Diana",EST,F,,,,1539,0,20,OCT25,2003,wi
 4503368,"Belov, Leonid",EST,M,,,,1624,0,20,OCT25,1946,i
 4509200,"Berting, Karl Sigmund",EST,M,,,,1482,0,20,OCT25,2003,i
-4529561,"Bessedin, Aleksandr",EST,M,,,,1459,0,40,OCT25,2009,
+4529561,"Bessedin, Aleksandr",EST,M,,,,1462,0,40,OCT25,2009,
 4525078,"Birjukov, Marat",EST,M,,,,1666,0,20,OCT25,2005,i
 4506014,"Bitkova, Elizavetta",EST,F,,,,1639,0,20,OCT25,2003,wi
 4513568,"Bivrov, Timur",EST,M,,,,1417,0,20,OCT25,2006,i
 4513282,"Blokhin, Georg",EST,M,,,,1516,0,40,OCT25,2010,
 4508190,"Blokhin, Sofia",EST,F,WFM,WFM,NA,2020,15,20,OCT25,2006,w
 4503015,"Bondar, Daniil",EST,M,,,,1810,0,20,OCT25,2001,i
-34105708,"Bondarenko, Dmitry",EST,M,,,,AGM,1957,47,OCT25,1976,
+34105708,"Bondarenko, Dmitry",EST,M,,,,1957,47,,OCT25,1976,
 4506910,"Bondarevskaja, Emilin",EST,F,,,,1584,0,20,OCT25,2004,wi
 4504089,"Borodavin, Maksim",EST,M,,,,1746,0,20,OCT25,1997,i
 4528050,"Braschinsky, Alan",EST,M,,,,1752,0,20,OCT25,1996,i
@@ -66,10 +66,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4510984,"Burkova, Milde",EST,F,,,,1706,0,20,OCT25,1951,wi
 449628,"Chapman, Benedict Anthony",EST,M,,,,1890,0,20,OCT25,1966,i
 4513347,"Cherentsov, Mikhail",EST,M,,,,1930,0,40,OCT25,2009,
-4519078,"Chernov, Iakov",EST,M,,,,1601,0,40,OCT25,2015,
+4519078,"Chernov, Iakov",EST,M,,,,1598,0,40,OCT25,2015,
 4503023,"Chukavin, Kirill",EST,M,FM,,,2277,0,20,OCT25,2002,
 4525612,"Chyrva, Artur",EST,M,,,,1625,12,40,OCT25,2014,
-4525620,"Chyrva, Yurii",EST,M,,,,1714,14,40,OCT25,2014,
+4525620,"Chyrva, Yurii",EST,M,,,,1717,14,40,OCT25,2014,
 4508521,"Danilina, Diana",EST,F,,,,1466,0,20,OCT25,2006,wi
 4501012,"Danilov, Nikolai",EST,M,,,,2159,0,20,OCT25,1984,i
 4504356,"Derevjanko, Dmitri",EST,M,,,,1831,0,20,OCT25,2002,i
@@ -117,22 +117,22 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4509218,"Gross, Uku",EST,M,,,,1561,0,20,OCT25,2003,i
 4517741,"Gvozdev, Artjom",EST,M,,,,1654,0,40,OCT25,2012,i
 4503600,"Gysson, Jyrgen",EST,M,,,,1686,0,20,OCT25,2005,i
-4534034,"Haapanen, Mikko",EST,M,,,,1520,0,20,OCT25,1966,
-4512286,"Haapsal, Maria Ioanna",EST,F,WCM,WCM,,1832,14,40,OCT25,2009,w
+4534034,"Haapanen, Mikko",EST,M,,,,1521,0,20,OCT25,1966,
+4512286,"Haapsal, Maria Ioanna",EST,F,WCM,WCM,,1833,14,40,OCT25,2009,w
 4502973,"Haavamae, Henrik",EST,M,,,,2032,0,20,OCT25,1998,i
 4513797,"Haidak, Meelis",EST,M,,,,1686,0,20,OCT25,1987,
 4501764,"Haitin, Ilja",EST,M,FM,,,2202,0,20,OCT25,1988,
 4514114,"Hajanen, Oliver",EST,M,,,,1422,0,40,OCT25,2008,i
 4506774,"Hannus, Lola",EST,F,,,,1518,0,40,OCT25,2007,wi
-4525957,"Hansen, Tormi",EST,M,,,,1452,10,40,OCT25,2017,
-4505620,"Hansson, Markus",EST,M,,FA,,AIM,2009,29,OCT25,2001,
+4525957,"Hansen, Tormi",EST,M,,,,1453,10,40,OCT25,2017,
+4505620,"Hansson, Markus",EST,M,,FA,,2009,29,,OCT25,2001,
 4501330,"Hanzatjan, Anaid",EST,F,,,,1889,0,20,OCT25,1995,wi
 4501560,"Hanzatjan, Elvira",EST,F,,,,1839,0,20,OCT25,1995,wi
 4525175,"Heinat, Alar",EST,M,,,,1579,0,20,OCT25,1982,
 4500962,"Heinmets, Tonu",EST,M,,,,2004,0,20,OCT25,1991,
 4501683,"Hermanson, Egon",EST,M,,,,1741,0,20,OCT25,1992,
 4515269,"Hermlin, Yllar",EST,M,,,,1814,0,20,OCT25,1941,i
-4526430,"Hiie, Hendry",EST,M,,,,1469,0,40,OCT25,2014,
+4526430,"Hiie, Hendry",EST,M,,,,1470,0,40,OCT25,2014,
 4526589,"Hiiemae, Riin",EST,F,,,,1438,0,40,OCT25,2012,w
 4509757,"Hiiesalu, Taago",EST,M,,,,1945,0,20,OCT25,1977,
 4509374,"Hirvi, Katarina",EST,F,,,,1531,0,20,OCT25,2005,wi
@@ -142,7 +142,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4508840,"Hommik, Hugo",EST,M,,,,1778,0,20,OCT25,1941,i
 4510372,"Hudilainen, Mihhail",EST,M,,,,1501,0,40,OCT25,2008,i
 4503627,"Iher, Mirjam",EST,F,,,,1672,0,20,OCT25,1996,wi
-4529103,"Ihermann, Andres",EST,M,,,,1722,0,20,OCT25,1958,
+4529103,"Ihermann, Andres",EST,M,,,,1723,0,20,OCT25,1958,
 4508165,"Ilja, Rein",EST,M,,,,1569,0,20,OCT25,1967,i
 4501624,"Ilves, Juri",EST,M,,,,1975,0,20,OCT25,1938,i
 4504070,"Innos, Jyrgen",EST,M,,,,2109,0,20,OCT25,1976,i
@@ -164,7 +164,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4502078,"Jezov, Roman",EST,M,FM,,,2260,0,20,OCT25,1990,i
 4525027,"Joeorg, Marius",EST,M,,,,1492,10,40,OCT25,2009,
 4508602,"Joerand, Jenna",EST,F,,,,1520,0,20,OCT25,2004,wi
-4509412,"Jogi, Henry",EST,M,,,,1919,13,40,OCT25,2007,
+4509412,"Jogi, Henry",EST,M,,,,1920,13,40,OCT25,2007,
 4521455,"Jurivete, Egert",EST,M,,,,1415,0,40,OCT25,2015,
 4516869,"Jurjo, Holger",EST,M,,,,1678,0,20,OCT25,2004,i
 4504100,"Jurtov, Aleksei",EST,M,,,,1817,0,20,OCT25,1997,i
@@ -172,7 +172,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4525477,"Kaal, Karl Villem",EST,M,,,,1497,0,40,OCT25,2007,i
 4511689,"Kaarmann, Karel",EST,M,,,,1565,0,20,OCT25,1983,
 4525515,"Kaganski, Sergei",EST,M,,,,1830,0,20,OCT25,1987,i
-4514459,"Kais, Kaarel",EST,M,,,,1633,11,20,OCT25,1974,
+4514459,"Kais, Kaarel",EST,M,,,,1632,11,20,OCT25,1974,
 4518241,"Kais, Kristofer",EST,M,,,,1942,14,40,OCT25,2014,
 4512677,"Kala, Carlos",EST,M,,,,1449,11,40,OCT25,2008,
 4503651,"Kaldjarv, Ergo",EST,M,,,,1492,0,20,OCT25,1976,i
@@ -205,9 +205,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4504143,"Kerem, Karolin",EST,F,,,,1585,0,20,OCT25,2003,wi
 4501225,"Keskel, Marko",EST,M,,,,1954,0,20,OCT25,1981,i
 4533909,"Keskula, Rait Mart",EST,M,,,,1447,0,40,OCT25,2010,
-4517601,"Kharkhan, Igor",EST,M,,,,1593,0,40,OCT25,2012,
+4517601,"Kharkhan, Igor",EST,M,,,,1594,0,40,OCT25,2012,
 4526600,"Kibe, Hanna-Liisa",EST,F,,,,1496,0,40,OCT25,2011,wi
-4527615,"Kibe, Marten",EST,M,,,,1767,7,40,OCT25,2014,
+4527615,"Kibe, Marten",EST,M,,,,1766,7,40,OCT25,2014,
 4500075,"Kiik, Kalle",EST,M,IM,,,2277,0,10,OCT25,1963,i
 4518209,"Kiiman, Kaspar",EST,M,,,,1639,0,20,OCT25,1989,i
 4518080,"Kikas, Olari",EST,M,,,,1480,0,20,OCT25,2001,i
@@ -216,9 +216,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4511379,"Kimlaychuk, Artjom",EST,M,,,,1462,0,40,OCT25,2008,i
 4511611,"Kipso, Agu",EST,M,,,,1869,0,20,OCT25,1977,i
 4522788,"Kirillov, Evgeniy",EST,M,,,,1705,0,20,OCT25,1978,
-4522010,"Kiritshenko, Platon",EST,M,,,,1850,14,40,OCT25,2016,
+4522010,"Kiritshenko, Platon",EST,M,,,,1851,14,40,OCT25,2016,
 4509439,"Kivi, Akira",EST,M,,,,1459,0,40,OCT25,2008,i
-4526619,"Kleinberg, Kaspar",EST,M,,,,1457,0,40,OCT25,2009,i
+4526619,"Kleinberg, Kaspar",EST,M,,,,1456,0,40,OCT25,2009,i
 4518250,"Kojus, Lukas",EST,M,,,,1438,0,40,OCT25,2013,
 4510674,"Kokk, Karl Mattias",EST,M,,,,1860,13,40,OCT25,2007,
 4508572,"Kolar, Johan-Eerik",EST,M,,,,1745,0,20,OCT25,1994,i
@@ -230,7 +230,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4511034,"Kool, Kaspar",EST,M,,,,1797,0,20,OCT25,1987,i
 4502795,"Kool, Lauri",EST,M,,,,2019,0,20,OCT25,0,i
 4500644,"Koop, Vyacheslav",EST,M,,,,2007,0,20,OCT25,1979,
-4509595,"Koosel, Hans-Georg",EST,M,,,,1841,14,40,OCT25,2010,
+4509595,"Koosel, Hans-Georg",EST,M,,,,1842,14,40,OCT25,2010,
 4500130,"Korban, Katrina",EST,F,,,,1869,0,20,OCT25,1997,wi
 4500725,"Korchagin, Oleg",EST,M,,FT,,1958,0,20,OCT25,1965,i
 4502310,"Korge, Kersti",EST,F,,,,1843,0,20,OCT25,1966,w
@@ -251,7 +251,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4501039,"Krupenski, Igor",EST,M,CM,,,2228,0,20,OCT25,1983,i
 4501101,"Krupenski, Juri",EST,M,IM,,,2253,0,10,OCT25,1982,
 4521250,"Krushevskaja, Anna",EST,F,,,,1406,0,20,OCT25,1978,wi
-4501810,"Kruusiauk, Heda",EST,F,,,,AFM,1658,11,OCT25,1949,w
+4501810,"Kruusiauk, Heda",EST,F,,,,1658,11,,OCT25,1949,w
 4503317,"Kukk, Raul",EST,M,,,,2043,0,20,OCT25,1964,i
 4502094,"Kukk, Sander",EST,M,,,,2224,0,10,OCT25,1987,
 4511620,"Kulaots, Aare",EST,M,,,,1655,0,20,OCT25,1952,i
@@ -265,7 +265,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4517083,"Kurs, Karl Markus",EST,M,,,,1488,0,20,OCT25,2003,i
 4517008,"Kushnir, Roman",EST,M,,,,1821,0,20,OCT25,1983,i
 4514467,"Kutt, Sulev",EST,M,,,,1576,0,20,OCT25,1950,i
-4523270,"Kuusesaar, Kaspar",EST,M,,,,1407,8,40,OCT25,2013,
+4523270,"Kuusesaar, Kaspar",EST,M,,,,1408,8,40,OCT25,2013,
 4506367,"Kuusik, Juri",EST,M,,,,1835,0,20,OCT25,1976,i
 4501675,"Kuusk, Andres",EST,M,,,,2025,0,20,OCT25,1981,i
 4502051,"Kuusk, Indrek",EST,M,,,,2186,0,20,OCT25,1981,i
@@ -307,7 +307,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4504666,"Liiv, Kristiina",EST,F,,,,1628,0,20,OCT25,2003,wi
 4504763,"Liiva, Ants",EST,M,,,,1814,0,20,OCT25,1942,i
 4500300,"Liiva, Riho",EST,M,IM,,,2542,0,10,OCT25,1975,i
-4519744,"Liivamagi, Peeter",EST,M,,,,1573,9,40,OCT25,2010,
+4519744,"Liivamagi, Peeter",EST,M,,,,1572,9,40,OCT25,2010,
 4515471,"Lillend, Fredi",EST,M,,,,1475,0,40,OCT25,2008,i
 4506189,"Lindsalu, Andreas",EST,M,,,,1613,0,20,OCT25,0,i
 4504526,"Linroos, Monika",EST,F,,,,1715,0,20,OCT25,1944,wi
@@ -315,7 +315,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4506545,"Lohmus, Kristofer",EST,M,,,,1630,0,20,OCT25,1998,i
 4521650,"Lohmus, Patric",EST,M,,,,1741,0,20,OCT25,1999,i
 4518152,"Lomp, Erki",EST,M,,,,1654,0,20,OCT25,1994,i
-4504925,"Lomp, Jaan",EST,M,,,,1466,0,20,OCT25,1969,
+4504925,"Lomp, Jaan",EST,M,,,,1467,0,20,OCT25,1969,
 4504704,"Lott, Toomas",EST,M,,,,2174,0,20,OCT25,1979,i
 4504534,"Luht, Vello",EST,M,,,,1899,0,20,OCT25,0,i
 4507878,"Luik, Ott-Robert",EST,M,,,,1632,0,20,OCT25,2006,i
@@ -325,13 +325,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4503295,"Lumiste, Rene",EST,M,,,,2175,14,20,OCT25,1999,
 4527232,"Lumiste, Taavo",EST,M,,,,1800,0,20,OCT25,1977,
 4502817,"Lvov, Leonid",EST,M,,,,2014,0,20,OCT25,1986,i
-4525671,"Lykk, Roland",EST,M,,,,1449,0,40,OCT25,2014,
+4525671,"Lykk, Roland",EST,M,,,,1455,0,40,OCT25,2014,
 4510321,"Maapalu, Ralf",EST,M,,,,1605,0,40,OCT25,2008,i
 4504178,"Maasik, Liisa",EST,F,,,,1727,0,20,OCT25,1998,wi
-4519043,"Maaten, Britta",EST,F,,,,1589,0,40,OCT25,2010,w
+4519043,"Maaten, Britta",EST,F,,,,1588,0,40,OCT25,2010,w
 4508858,"Maesalu, Oliver",EST,M,,,,1512,0,40,OCT25,2009,i
 4519361,"Magi, Ramon",EST,M,,,,1918,14,40,OCT25,2011,
-4527879,"Maidessoo, Marten",EST,M,,,,1596,11,40,OCT25,2013,
+4527879,"Maidessoo, Marten",EST,M,,,,1602,11,40,OCT25,2013,
 4500296,"Maidla, Vallo",EST,M,IM,,,2293,0,10,OCT25,1970,
 4503406,"Maido, Erki",EST,M,,,,1773,0,20,OCT25,1994,i
 4507088,"Makarov, Gleb",EST,M,,,,1532,0,20,OCT25,2005,i
@@ -345,16 +345,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4518926,"Mashkov, Sergei",EST,M,,,,1678,0,20,OCT25,1983,i
 4506294,"Matvejev, Nikolai",EST,M,,,,1750,0,20,OCT25,1997,i
 4515790,"Mazajev, Ilja",EST,M,,,,1405,0,40,OCT25,2011,i
-4501870,"Medar, Marti",EST,M,,,,AIM,2075,0,OCT25,1996,
+4501870,"Medar, Marti",EST,M,,,,2075,0,,OCT25,1996,
 4518365,"Meidra, Markus Harald",EST,M,,,,1406,0,40,OCT25,2009,i
 4508831,"Merilai, Arne",EST,M,,,,1594,0,20,OCT25,1961,i
 4522540,"Merivee, Romet-Renee",EST,M,,,,1949,28,40,OCT25,2010,
-4512421,"Mertins, Ostap",EST,M,,,,1813,0,40,OCT25,2009,
+4512421,"Mertins, Ostap",EST,M,,,,1814,0,40,OCT25,2009,
 4513657,"Metsala, Heiki",EST,M,,,,1695,0,20,OCT25,1961,i
 4502302,"Metsalu, Tauno",EST,M,,,,2126,0,20,OCT25,1986,i
 4510470,"Mihhailov, Artur",EST,M,,,,1576,0,40,OCT25,2007,i
 4510607,"Mihhailov, Nikita",EST,M,,,,1511,0,20,OCT25,2003,i
-4520874,"Mihhaltsenkov, Viktor",EST,M,,,,1464,0,40,OCT25,2015,i
+4520874,"Mihhaltsenkov, Viktor",EST,M,,,,1467,0,40,OCT25,2015,i
 4509633,"Mikko, Rondo",EST,M,,,,2265,0,40,OCT25,2007,
 4500431,"Mironov, Ruslan",EST,M,,,,2052,0,20,OCT25,1972,
 4508580,"Mogilny, Evgeny",EST,M,,,,1812,0,20,OCT25,1951,i
@@ -377,8 +377,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4504259,"Nael, Tonu",EST,M,,,,2020,0,20,OCT25,1968,i
 4506553,"Naestema, Joonas Aditya",EST,M,,,,1560,0,20,OCT25,2006,i
 4501187,"Nahkur, Madis",EST,M,FM,,,2025,0,20,OCT25,1992,
-4502477,"Narusberg, Peep",EST,M,,IA,,AFM,1757,14,OCT25,1961,
-4500148,"Narva, Jaan",EST,M,FM,,,1889,37,20,OCT25,1958,
+4502477,"Narusberg, Peep",EST,M,,IA,,1757,14,,OCT25,1961,
+4500148,"Narva, Jaan",EST,M,FM,,,1890,37,20,OCT25,1958,
 4508866,"Narva, Jaan Oskar",EST,M,,,,1576,0,20,OCT25,2005,i
 4500512,"Narva, Mai",EST,F,IM,WGM,,2375,15,20,OCT25,1999,w
 4503767,"Narva, Mart",EST,M,,,,1654,0,20,OCT25,2003,
@@ -400,7 +400,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4500652,"Nikulin, Oleg",EST,M,,,,2003,0,20,OCT25,1996,i
 4504240,"Nitsiportsik, Maksim",EST,M,,,,1783,0,20,OCT25,2001,i
 4513576,"Novikov, Sergei",EST,M,,,,1640,7,20,OCT25,1961,
-4505549,"Obolonin, Filipp",EST,M,,NI,,AGM,2087,38,OCT25,1997,
+4505549,"Obolonin, Filipp",EST,M,,NI,,2086,38,,OCT25,1997,
 4514815,"Oim, Mikk Kaarel",EST,M,,,,1978,14,40,OCT25,2009,
 4508874,"Oja, Malle",EST,F,,,,1611,0,20,OCT25,1941,wi
 4503783,"Okas, Andrus",EST,M,,,,1866,0,20,OCT25,1965,i
@@ -436,7 +436,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4506723,"Parviste, Janek",EST,M,,,,1822,0,20,OCT25,1970,i
 4522079,"Pavlov, Jan",EST,M,,,,1486,0,40,OCT25,2013,
 4519140,"Pechonkin, Andrii",EST,M,,,,1631,12,40,OCT25,2012,
-4519779,"Pedak, Egert",EST,M,,,,1724,0,40,OCT25,2007,
+4519779,"Pedak, Egert",EST,M,,,,1725,0,40,OCT25,2007,
 4505778,"Pedmanson, Albert",EST,M,,,,2057,0,40,OCT25,2007,
 4505786,"Pedmanson, Herman",EST,M,,,,2060,0,20,OCT25,2005,
 4504372,"Pedoson, Georg Aleksander",EST,M,,,,2293,30,20,OCT25,2004,
@@ -460,7 +460,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4518179,"Poltrago, Marek",EST,M,,,,1690,0,20,OCT25,1977,i
 44147350,"Poluektova, Arina",EST,F,,,,1579,0,20,OCT25,2006,wi
 4512731,"Pomaznjov, Aleksei",EST,M,,,,1711,0,40,OCT25,2008,
-4508882,"Pool, Linda Maria",EST,F,,NA,,1508,0,40,OCT25,2007,w
+4508882,"Pool, Linda Maria",EST,F,,NA,,1509,0,40,OCT25,2007,w
 4504321,"Poom, Mati",EST,M,,,,1782,0,20,OCT25,1944,i
 4503848,"Popman, Genadi",EST,M,,,,1805,0,20,OCT25,1937,i
 4525167,"Porila, Andree",EST,M,,,,1924,0,20,OCT25,1996,
@@ -475,7 +475,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4519990,"Prushinskii, Gleb",EST,M,,,,1669,0,40,OCT25,2013,i
 4525965,"Pullerits, Aivar",EST,M,,,,1632,0,20,OCT25,1956,i
 4516796,"Punning, Andero",EST,M,,,,1655,13,40,OCT25,2010,
-4527224,"Purre, Jaan",EST,M,,,,1511,0,40,OCT25,2013,
+4527224,"Purre, Jaan",EST,M,,,,1512,0,40,OCT25,2013,
 4534336,"Puura, Erik",EST,M,,,,1726,15,40,OCT25,1964,
 4502760,"Puusepp, Kaimar",EST,M,CM,,,2074,14,20,OCT25,1976,
 4516184,"Puusepp, Richard",EST,M,,,,1692,13,40,OCT25,2010,
@@ -490,7 +490,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4524977,"Ratshinski, Stanislav",EST,M,,,,1524,0,20,OCT25,1988,i
 4500091,"Raud, Rainer",EST,M,FM,FT,,2186,0,20,OCT25,1963,i
 4509978,"Raudsepp, Jaan",EST,M,,,,1565,0,20,OCT25,1973,i
-4523415,"Raudsepp, Marie",EST,F,,,,1657,12,40,OCT25,2012,w
+4523415,"Raudsepp, Marie",EST,F,,,,1658,12,40,OCT25,2012,w
 4501110,"Rauk, Tonu",EST,M,,,,1980,0,20,OCT25,1970,
 4505948,"Rebane, Ralf Aron",EST,M,,,,1679,0,20,OCT25,2004,i
 4527240,"Rebane, Raul",EST,M,,,,1789,13,20,OCT25,1953,
@@ -498,18 +498,18 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4507487,"Rebane, Taniel",EST,M,,,,1824,0,20,OCT25,1985,i
 4502876,"Reima, Heigo",EST,M,,,,1948,0,20,OCT25,0,i
 4501276,"Reimaa, Sven",EST,M,,,,1994,0,20,OCT25,1979,
-4516028,"Reinholm, Karl Kristjan",EST,M,,,,1784,13,40,OCT25,2011,
+4516028,"Reinholm, Karl Kristjan",EST,M,,,,1783,13,40,OCT25,2011,
 4503333,"Reinson, Juri",EST,M,,,,1501,0,20,OCT25,1948,i
 4524438,"Reinson, Oskar",EST,M,,,,1522,10,40,OCT25,2015,
-4523431,"Reinson, Tobias",EST,M,,,,1479,0,40,OCT25,2013,
-4522907,"Reinson, Tormi",EST,M,,,,1597,0,20,OCT25,1985,
+4523431,"Reinson, Tobias",EST,M,,,,1492,0,40,OCT25,2013,
+4522907,"Reinson, Tormi",EST,M,,,,1599,0,20,OCT25,1985,
 4515820,"Reintam, Lennart",EST,M,,,,1601,0,40,OCT25,2011,
 4505891,"Reinup, Hannes",EST,M,,,,1716,0,20,OCT25,1992,i
 4521765,"Reren, Alexis Miriam",EST,F,,,,1626,12,40,OCT25,2013,w
 4526350,"Riiel, Kristina",EST,F,,,,1457,0,20,OCT25,1985,wi
 4509862,"Rikas, Artur",EST,M,,,,1795,0,20,OCT25,2005,i
 4522508,"Robaltsenko, Vladimir",EST,M,,,,1828,11,20,OCT25,1957,
-4508890,"Rodin, Robert",EST,M,,,,1833,9,40,OCT25,2007,
+4508890,"Rodin, Robert",EST,M,,,,1834,9,40,OCT25,2007,
 4512359,"Rodina, Alisa",EST,F,,,,1424,0,40,OCT25,2010,wi
 4525507,"Rodionova, Dominika",EST,F,,,,1587,9,40,OCT25,2016,w
 4505476,"Rodkin, Viktor",EST,M,,,,1829,0,20,OCT25,1956,i
@@ -524,10 +524,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4503902,"Rozenblit, David",EST,M,,,,1846,0,20,OCT25,2001,i
 4518705,"Rudiger, Camilla Anna",EST,F,,,,1409,0,40,OCT25,2014,w
 4516915,"Rudiger, Emma Viktoria",EST,F,,,,1506,0,40,OCT25,2012,w
-4516087,"Rudiger, Maria Helena",EST,F,,,,1553,12,40,OCT25,2010,w
+4516087,"Rudiger, Maria Helena",EST,F,,,,1554,12,40,OCT25,2010,w
 4507657,"Rudnik, Viktoria",EST,F,,,,1590,0,20,OCT25,2006,wi
 4504860,"Runnel, Simo",EST,M,,,,1722,0,20,OCT25,1977,i
-4504461,"Ruus, Rein",EST,M,,,,1711,0,20,OCT25,1955,
+4504461,"Ruus, Rein",EST,M,,,,1712,0,20,OCT25,1955,
 4508459,"Rychagov, Anton",EST,M,,,,1963,15,40,OCT25,2008,
 4508394,"Rychagov, Nikita",EST,M,CM,,,2222,15,20,OCT25,2005,
 4501373,"Saag, Enith Li",EST,F,,,,1859,0,20,OCT25,1994,wi
@@ -541,7 +541,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4513827,"Saks, Mihkel",EST,M,,,,1731,0,20,OCT25,1988,i
 4521668,"Saks, Silver",EST,M,,,,1470,0,20,OCT25,1985,i
 4506146,"Salupere, Silvi",EST,F,,,,1580,0,20,OCT25,1956,w
-4508130,"Samberk, Vahur",EST,M,,,,1614,0,20,OCT25,1993,
+4508130,"Samberk, Vahur",EST,M,,,,1613,0,20,OCT25,1993,
 4501713,"Saraikin, Sergey",EST,M,,,,1917,0,20,OCT25,1934,i
 4502710,"Sarapik, Kristjan",EST,M,,,,1993,0,20,OCT25,1990,i
 4516885,"Sargava, Ants",EST,M,,,,2106,0,20,OCT25,1969,
@@ -559,7 +559,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4500423,"Sergejev, Roman",EST,M,FM,,,2184,0,20,OCT25,1975,
 4504941,"Serk, Ants",EST,M,,,,1885,0,20,OCT25,0,i
 4504410,"Shabarov, Fjodor",EST,M,,,,1665,0,20,OCT25,1949,i
-4510623,"Shadrina, Eva",EST,F,WCM,WCM,,1699,13,40,OCT25,2008,w
+4510623,"Shadrina, Eva",EST,F,WCM,WCM,,1700,13,40,OCT25,2008,w
 4505182,"Shamrai, Vladimir",EST,M,,,,1649,0,20,OCT25,1965,
 4500563,"Shishkov, Andrei",EST,M,IM,,,2297,41,10,OCT25,1978,
 4501845,"Shlykov, Vitali",EST,M,,,,2245,0,20,OCT25,1987,i
@@ -572,7 +572,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4500490,"Shvyrjov, Igor",EST,M,GM,FT,,2219,0,10,OCT25,1955,
 4513525,"Sidorov, Hannes",EST,M,,,,1479,0,20,OCT25,2003,i
 4501462,"Siemer, Tambet",EST,M,,,,2022,0,20,OCT25,1969,
-4524780,"Siff, Anton",EST,M,,,,AIM,1478,0,OCT25,2005,i
+4524780,"Siff, Anton",EST,M,,,,1478,0,,OCT25,2005,i
 4502264,"Siil, Marko",EST,M,,,,1868,0,20,OCT25,1968,i
 4508920,"Siimer, Juri",EST,M,,,,1572,0,20,OCT25,1933,i
 4529685,"Siinmaa, Ander",EST,M,,,,1755,0,40,OCT25,2007,
@@ -611,7 +611,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4508637,"Tahiste, Marc-Joosep",EST,M,,,,1599,0,20,OCT25,2003,i
 4505565,"Taliharm, Andrus",EST,M,,,,2074,0,20,OCT25,1962,i
 4505204,"Talving, Indrek",EST,M,,,,1542,0,20,OCT25,1982,
-4511670,"Tamm, Erik",EST,M,,,,1686,0,20,OCT25,1988,i
+4511670,"Tamm, Erik",EST,M,,,,1687,0,20,OCT25,1988,i
 4502019,"Tamm, Timo",EST,M,,,,1912,0,20,OCT25,1993,i
 4510950,"Tammisto, Janek",EST,M,,,,1878,0,20,OCT25,1972,i
 4501152,"Tanav, Tiit",EST,M,,,,2116,0,20,OCT25,1958,i
@@ -627,9 +627,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4509358,"Telliskivi, Laur",EST,M,,,,1776,0,20,OCT25,1989,i
 4509366,"Telliskivi, Sven",EST,M,,,,1813,0,20,OCT25,1985,i
 4525787,"Tennisberg, Targo",EST,M,,,,1539,0,20,OCT25,1978,i
-4528263,"Teppo, Mart",EST,M,,,,1670,0,40,OCT25,2008,i
+4528263,"Teppo, Mart",EST,M,,,,1671,0,40,OCT25,2008,i
 4515714,"Terk, Erik",EST,M,,,,1556,0,20,OCT25,1952,i
-4520378,"Thimm, Leelo Mia",EST,F,,,,1404,23,40,OCT25,2014,w
+4520378,"Thimm, Leelo Mia",EST,F,,,,1405,23,40,OCT25,2014,w
 4517253,"Tihhonov, Evhgenij",EST,M,,,,1500,0,20,OCT25,1971,i
 4504879,"Tiisler, Ander",EST,M,,,,1802,24,20,OCT25,1999,
 4504887,"Tiisler, Tanel",EST,M,,,,1891,21,20,OCT25,1997,
@@ -652,7 +652,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4515250,"Tonts, Kalev",EST,M,,,,1790,0,20,OCT25,1971,i
 4507363,"Tonurist, Tambet",EST,M,,,,1633,0,20,OCT25,1947,i
 4518233,"Toomast, Nora",EST,F,,,,1553,12,40,OCT25,2012,w
-4523490,"Toome, Oskar",EST,M,,,,1629,11,40,OCT25,2014,
+4523490,"Toome, Oskar",EST,M,,,,1633,11,40,OCT25,2014,
 4515382,"Torkin, Edward",EST,M,,,,1469,0,40,OCT25,2010,
 4525140,"Tors, Hugo",EST,M,,,,1580,0,20,OCT25,1949,i
 4504011,"Trohhelev, Boris",EST,M,,,,1925,0,20,OCT25,1950,i
@@ -669,14 +669,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4505956,"Uibokant, Karl Oskar",EST,M,,,,1718,0,20,OCT25,2004,i
 4505980,"Uibokant, Mathias Robert",EST,M,,,,2034,24,20,OCT25,2002,
 4505441,"Uibos, Andre",EST,M,,NA,,1813,0,20,OCT25,1992,i
-5907888,"Uljaseva, Arina",EST,F,,,,1416,10,40,OCT25,2012,w
+5907888,"Uljaseva, Arina",EST,F,,,,1414,10,40,OCT25,2012,w
 4523660,"Urbanovits, Hugo",EST,M,,,,1417,5,40,OCT25,2014,
 4503350,"Urbel, Aavo",EST,M,,,,1491,0,20,OCT25,1960,i
 4504038,"Urgas, Jaan",EST,M,,,,1765,0,20,OCT25,1972,i
 4518535,"Uukkivi, Raigo",EST,M,,,,1796,0,20,OCT25,1979,
 4505107,"Uurits, Karel",EST,M,,,,1679,14,20,OCT25,1970,
 4518276,"Vaar, Mart",EST,M,,,,1571,0,40,OCT25,2012,i
-4525949,"Vadi, Marten",EST,M,,,,1655,0,40,OCT25,2009,
+4525949,"Vadi, Marten",EST,M,,,,1656,0,40,OCT25,2009,
 4506740,"Vaher, Eino",EST,M,,,,1911,0,20,OCT25,1961,i
 4502060,"Vahtra, Tuuli",EST,F,WFM,WFM,,1962,0,20,OCT25,1989,wi
 4524179,"Vaiknurme, Einar",EST,M,,,,1808,0,20,OCT25,1974,
@@ -688,15 +688,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4521684,"Valmra, Egert",EST,M,,,,1478,0,20,OCT25,1977,i
 4509951,"Valmsen, Marju",EST,F,,,,1457,0,20,OCT25,1956,w
 4502205,"Valner, Uku",EST,M,FM,,,2173,0,20,OCT25,1990,i
-4529650,"Vals, Marten",EST,M,,,,1532,0,40,OCT25,2011,
+4529650,"Vals, Marten",EST,M,,,,1531,0,40,OCT25,2011,
 4534050,"Vanatoa, Sven",EST,M,,,,1504,0,20,OCT25,1966,
 4506006,"Varton, Eva",EST,F,,,,1525,0,20,OCT25,2004,wi
-4530705,"Vassiljev, Saveli",EST,M,,,,1545,0,40,OCT25,2009,
-4534417,"Vatsing, Mattias",EST,M,,,,1588,12,40,OCT25,2008,
+4530705,"Vassiljev, Saveli",EST,M,,,,1546,0,40,OCT25,2009,
+4534417,"Vatsing, Mattias",EST,M,,,,1589,12,40,OCT25,2008,
 4521773,"Vedernykov, Gennadi",EST,M,,,,1460,0,40,OCT25,2013,
 4527348,"Vedeshin, Ivan",EST,M,,,,1425,0,40,OCT25,2016,
 4524888,"Veelmaa, Allar",EST,M,,,,1460,0,20,OCT25,1963,i
-4506618,"Veerik, Oleg",EST,M,,,,1598,19,20,OCT25,2001,
+4506618,"Veerik, Oleg",EST,M,,,,1599,19,,OCT25,2001,
 4507509,"Veiper, Andres",EST,M,,,,1904,0,20,OCT25,1978,i
 4529120,"Velleramm, Eudor",EST,M,,,,1623,0,40,OCT25,2007,i
 4500555,"Vergun, Dmitri",EST,M,,,,2103,0,20,OCT25,1979,i
@@ -711,6 +711,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4515234,"Vija, Mattias",EST,M,,,,1442,0,40,OCT25,2009,i
 4519442,"Viks, Artur",EST,M,,,,1567,0,20,OCT25,2000,
 4517709,"Vilgats, Triin",EST,F,,,,1439,12,40,OCT25,1976,w
+4525396,"Vinogradov, Nikolai",EST,M,,,,1401,0,40,OCT25,2013,
 4505417,"Virro, Toomas",EST,M,,,,1824,0,20,OCT25,1974,i
 4516907,"Vohla, Mihkel",EST,M,,,,1907,0,20,OCT25,1989,
 4501950,"Volodin, Aleksandr",EST,M,GM,,,2421,41,10,OCT25,1990,
@@ -724,6 +725,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4503201,"Zigailov, Sergei",EST,M,,,,2059,0,20,OCT25,1986,i
 4513339,"Zilensk, Kuldar",EST,M,,,,1512,0,20,OCT25,2006,i
 4500288,"Zjukin, Sergei",EST,M,IM,,,2261,0,20,OCT25,1972,
-4521633,"Zolotarjov, Kirill",EST,M,,,,1691,10,40,OCT25,2001,
+4521633,"Zolotarjov, Kirill",EST,M,,,,1692,10,40,OCT25,2001,
 4503554,"Zubehhin, Aleksei",EST,M,,,,1861,0,20,OCT25,2000,
 4534298,"Zurakovski, Juri",EST,M,,,,1576,7,40,OCT25,1958,

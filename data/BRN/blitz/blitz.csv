@@ -16,7 +16,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11204540,"Abu Baker, Khaled",BRN,M,,,,1528,0,20,OCT25,1977,i
 11206896,"Adam, Abdulrahman",BRN,M,,,,1426,0,40,OCT25,2010,i
 11205920,"Ahmadi, Meisam",BRN,M,,,,1570,0,20,OCT25,2006,
-11202882,Ahmed Ebrahim Hasan,BRN,M,,"DI,NA",,AFM,1713,0,OCT25,1984,i
+11202882,Ahmed Ebrahim Hasan,BRN,M,,"DI,NA",,1713,0,,OCT25,1984,i
 11210303,Ahmed Neaman Alhasan,BRN,M,,,,1755,0,20,OCT25,1998,
 11204303,"Ahmed, Abukabeer",BRN,M,,,,1563,0,20,OCT25,1999,i
 11201819,"Ahmed, Hashim Hashim",BRN,M,,,,1735,0,20,OCT25,1980,i
@@ -38,11 +38,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11200170,"Al-Ghasra, Osama",BRN,M,,,,1797,0,20,OCT25,1993,
 11203005,"Al-Madani, Ebrahim",BRN,M,,,,1642,0,20,OCT25,1987,i
 11201959,"Al-Saboori,Khalil",BRN,M,,,,1719,0,20,OCT25,1990,i
-11208201,"AlAbbas, Ali",BRN,M,,,,ACM,1542,0,OCT25,2013,
+11208201,"AlAbbas, Ali",BRN,M,,,,1542,0,,OCT25,2013,
 11200723,"Alafoo, Zainab",BRN,F,WCM,WCM,,1537,0,20,OCT25,2002,wi
 11207663,"Alamiri, KHALIFA",BRN,M,,,,1585,0,20,OCT25,1991,i
 11205644,"Alammadi, Ahmed",BRN,M,,,,1620,0,20,OCT25,1978,i
-11207060,"Alasfoor, Hasan",BRN,M,,,,ACM,1465,0,OCT25,2011,
+11207060,"Alasfoor, Hasan",BRN,M,,,,1465,0,,OCT25,2011,
 11204168,"Alatewi, Mohamad",BRN,M,,,,1437,0,20,OCT25,1971,i
 11204338,"Alatoom, Ibrahim",BRN,M,,,,1621,0,20,OCT25,1993,i
 11200774,"Alattar, Majed",BRN,M,,,,1637,0,20,OCT25,1971,i
@@ -92,7 +92,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11203773,"Basem, Ayman",BRN,M,,,,1629,0,20,OCT25,2004,i
 11204133,"Basem, Waleed",BRN,M,,,,1692,0,20,OCT25,1997,i
 11202360,"Bayoneta, Richard",BRN,M,,,,2053,0,20,OCT25,0,i
-11204184,"Binzaiman, Ayman",BRN,M,,NA,,AFM,1531,0,OCT25,1985,
+11204184,"Binzaiman, Ayman",BRN,M,,NA,,1531,0,,OCT25,1985,
 11200359,"Bu Khammas, Abdulla",BRN,M,,,,1723,0,20,OCT25,0,i
 11208198,"Buhasan, Faisal",BRN,M,,,,1601,0,40,OCT25,2011,
 11205873,"Buhusain, Yaser",BRN,M,,,,1403,0,20,OCT25,2000,
@@ -134,7 +134,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11202955,Marwan Al Binali,BRN,M,,,,1670,0,40,OCT25,2007,
 11210184,Mohamed Ali Albuainain,BRN,M,,,,1459,0,20,OCT25,2002,
 11209046,"Mohamed, Ameer",BRN,M,,,,1452,0,20,OCT25,1973,i
-11205245,"Mohamed, Hamza",BRN,M,,,,1681,0,40,OCT25,2015,
+11205245,"Mohamed, Hamza",BRN,M,,,,1680,0,40,OCT25,2015,
 11200421,"Mohamed, Sheer",BRN,M,,,,1802,0,20,OCT25,1972,i
 11204265,"Monther, Alfardan",BRN,M,CM,,,1624,0,20,OCT25,1980,i
 11203242,"Mosa, Hamad",BRN,M,,,,1618,0,20,OCT25,2000,
@@ -150,7 +150,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11202718,"Pranesh, J.r.",BRN,M,,,,1585,0,40,OCT25,2007,i
 11205784,"Qusay, Akhalili",BRN,M,,,,1479,0,20,OCT25,1977,i
 11201428,"Raghavan, Siddharth",BRN,M,,,,1724,0,20,OCT25,1998,i
-11208058,"Rajab, Nooh",BRN,M,,,,1577,0,40,OCT25,2010,
+11208058,"Rajab, Nooh",BRN,M,,,,1578,0,40,OCT25,2010,
 11201770,"Rodulph, Llorca",BRN,M,,,,1770,0,20,OCT25,1979,i
 11200413,"Rouquier, Burhan",BRN,M,,,,1731,0,20,OCT25,1985,i
 11206241,Saeed Marzooq Albonni,BRN,M,,,,1525,0,40,OCT25,2007,i
@@ -162,7 +162,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11210010,Tamer Alhadi,BRN,M,,,,1521,0,20,OCT25,2006,
 11205814,"Taqi, Mohamed",BRN,M,,NA,,1641,0,20,OCT25,2005,i
 11203951,"Taqi, Sayed Mohamed",BRN,M,,,,1604,0,20,OCT25,1995,i
-11204141,"Tissir, Maryam",BRN,F,,,,1601,0,40,OCT25,2012,w
+11204141,"Tissir, Maryam",BRN,F,,,,1621,0,40,OCT25,2012,w
 11205610,"Tulefat, Tefla",BRN,F,,,,1405,0,20,OCT25,1998,w
 11209135,"Turki, Faraj",BRN,M,,,,1460,0,40,OCT25,2009,i
 11200642,"Waheed, Khalid",BRN,M,,,,1630,0,20,OCT25,1986,i

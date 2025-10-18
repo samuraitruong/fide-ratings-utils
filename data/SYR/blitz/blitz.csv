@@ -1,6 +1,6 @@
 ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
-7603215,"Abbas, Ali",SYR,M,,"FT,SI,LSI",,AFM,2075,0,OCT25,1970,i
-73800058,"Abbas, Hussein",SYR,M,,NA,,AFM,1632,0,OCT25,2007,i
+7603215,"Abbas, Ali",SYR,M,,"FT,SI,LSI",,2075,0,,OCT25,1970,i
+73800058,"Abbas, Hussein",SYR,M,,NA,,1632,0,,OCT25,2007,i
 7608926,"Abboud ,Hussen",SYR,M,,,,1918,0,40,OCT25,2007,i
 7606028,"abd alfatah, naji",SYR,M,,,,1779,0,20,OCT25,1960,i
 7613253,"Abdulkareem,Reda.",SYR,M,,,,1738,0,20,OCT25,2005,i
@@ -8,10 +8,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7604670,"Abtini , Abdullatif",SYR,M,,,,1445,0,20,OCT25,0,i
 7601506,"Abtini, Hasan",SYR,M,,,,2125,0,20,OCT25,1977,i
 7611820,"Aburas, Sliman.",SYR,M,,,,1788,0,20,OCT25,1993,i
-7614640,Adam Hamzy,SYR,M,,,,AFM,1452,0,OCT25,2011,i
+7614640,Adam Hamzy,SYR,M,,,,1452,0,,OCT25,2011,i
 7605366,Adnan Khalaf,SYR,M,,,,1780,0,20,OCT25,0,i
 7608713,"Adnan,Alhaj.",SYR,M,,,,1803,0,20,OCT25,2004,i
-7616112,Afyouni.Ammar.,SYR,M,,,,1597,0,20,OCT25,1993,
+7616112,Afyouni.Ammar.,SYR,M,,,,1596,0,20,OCT25,1993,
 7602103,"Ahmad Murad,Fatema Alzahraa.",SYR,F,,,,1846,0,20,OCT25,2002,wi
 7614551,"Ajan Alhadid,Rayan.",SYR,M,,,,1441,0,40,OCT25,2011,
 7600909,"Akhras, Khaled",SYR,M,,,,2221,0,20,OCT25,1981,i
@@ -25,7 +25,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7600488,"Al-Sharif, Hany M.",SYR,M,,,,1988,0,20,OCT25,0,i
 7612249,"Alachraf,Mohamad Mohanad.",SYR,M,,,,1489,0,20,OCT25,1994,i
 7612761,"Alaghawani,Khaled.",SYR,M,,,,1812,0,20,OCT25,1965,i
-7612303,"Alajati,Abdl Alrahman.",SYR,M,,,,ACM,1506,0,OCT25,2009,
+7612303,"Alajati,Abdl Alrahman.",SYR,M,,,,1506,0,,OCT25,2009,
 7612354,"Alali, Tammam",SYR,M,,,,1526,0,20,OCT25,1997,i
 7600640,"Alashtar, Kheder",SYR,M,,,,1866,0,20,OCT25,1985,
 7601662,"Alashtar, Yousef",SYR,M,,,,1785,0,20,OCT25,1973,i
@@ -41,7 +41,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7613830,"Aldarwesh,Asamah.",SYR,M,,,,1562,0,20,OCT25,1999,i
 7610157,"Alfaress,ismail.",SYR,M,,,,1831,0,20,OCT25,1971,i
 7600828,"Algildah, Khalid",SYR,M,FM,NA,,2055,0,20,OCT25,1985,i
-7600950,"Algildah, Nibal",SYR,F,WIM,WIM,,1921,0,20,OCT25,1987,wi
+7600950,"Algildah, Nibal",SYR,F,WIM,WIM,NA,1921,0,20,OCT25,1987,wi
 7609566,"Alhabib, Sedra.",SYR,M,,,,1658,0,40,OCT25,2009,i
 7612818,"Alhaj Ahmad,Karam.",SYR,M,,,,1521,0,40,OCT25,2010,i
 7619472,"Alhaj,Mohamad Saleh Ahmad.",SYR,M,,,,1814,0,40,OCT25,2008,
@@ -59,7 +59,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7602847,"Alkaseer,Roaa.",SYR,F,,,,1831,0,20,OCT25,1996,wi
 7613350,"Alkassem,Akram.",SYR,M,,,,1636,0,40,OCT25,2012,i
 7610831,"Alkhairat,Wahib.",SYR,M,,,,1832,0,20,OCT25,1955,i
-7614578,"Alkhaldi,Gaith.",SYR,M,,,,1450,0,40,OCT25,2014,
+7614578,"Alkhaldi,Gaith.",SYR,M,,,,1448,0,40,OCT25,2014,
 7615752,"Alkhaled,AbdAlkareem.",SYR,M,,,,1579,0,20,OCT25,1985,
 7604386,"Alkhour, Ezzedin",SYR,M,,,,1792,0,20,OCT25,1982,i
 7604394,"Alkhour, Seifedin",SYR,M,,,,1669,0,20,OCT25,1982,i
@@ -67,7 +67,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7614306,"Almaradni,Ghali.",SYR,M,,,,1493,0,20,OCT25,1974,
 7609868,"Almawas,Khaled.",SYR,M,,,,2012,0,20,OCT25,1967,i
 7610122,"AlmolaAli,Qassem.",SYR,M,,,,1827,0,20,OCT25,2004,i
-7613814,"Almoussa,Mazen.",SYR,M,,,,1457,0,20,OCT25,1972,
+7613814,"Almoussa,Mazen.",SYR,M,,,,1456,0,20,OCT25,1972,
 7602588,"Alnahas, Jamal Ahmed",SYR,M,,,,2076,0,20,OCT25,1958,i
 7608454,"Alnahhas,Abdullah",SYR,M,,,,1716,0,20,OCT25,1981,i
 7610009,"Alnasr,Amjad.",SYR,M,,,,1753,0,20,OCT25,2006,i
@@ -77,9 +77,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7609892,"Alsakkar,Abdulhasib",SYR,M,,,,1611,0,20,OCT25,1998,i
 7610300,"Alsawady,Ezeddin.",SYR,M,,,,1649,0,20,OCT25,2003,i
 7601638,"Alshaar, Nabil",SYR,M,,,,2071,0,20,OCT25,1962,i
-7612206,"Alshami,Osama.",SYR,M,,,,1522,6,40,OCT25,2013,
+7612206,"Alshami,Osama.",SYR,M,,,,1523,6,40,OCT25,2013,
 7612567,"Alshami,Samer.",SYR,M,,"SI,NA",,1519,0,20,OCT25,1983,i
-7612214,"Alshami,Wissam.",SYR,M,,,,1556,3,40,OCT25,2015,
+7612214,"Alshami,Wissam.",SYR,M,,,,1566,4,40,OCT25,2015,
 7609051,"Alshebl,Assaad.",SYR,M,,NA,,1933,0,20,OCT25,1963,i
 7607920,"Alshehawi,reda",SYR,F,,,,1702,0,20,OCT25,2003,wi
 7620462,"Alshemali,Nazih.",SYR,M,,,,1659,0,20,OCT25,2001,
@@ -105,15 +105,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7601603,"Baranbo, Mohamed",SYR,M,,,,1935,0,20,OCT25,1967,i
 7602260,"Basem, Dumairia",SYR,M,,,,2037,0,20,OCT25,1978,i
 7600569,"Bello, Gassan",SYR,M,,,,2003,0,20,OCT25,1964,i
-7611633,Bilal.Sewar.,SYR,M,,,,AIM,1937,0,OCT25,2005,
+7611633,Bilal.Sewar.,SYR,M,,,,1937,0,,OCT25,2005,
 7600305,"Bitar, Yasser",SYR,M,,,,2089,0,20,OCT25,1969,i
 7614500,"Bitenjani,Saad.",SYR,M,,,,1530,0,40,OCT25,2007,i
 7611293,"Bofroud, Naya",SYR,F,,,,1738,0,20,OCT25,2005,wi
-7611617,"Bou Hamdan,Hani.",SYR,M,,,,1500,0,40,OCT25,2015,
+7611617,"Bou Hamdan,Hani.",SYR,M,,,,1502,0,40,OCT25,2015,
 7612141,"Chaqal,Antwan.",SYR,M,,,,1896,0,20,OCT25,1948,i
 7610076,"Charida,Alaa.",SYR,M,,,,1732,0,20,OCT25,1985,i
 7601948,"Chekh Adm Khedr,Aram",SYR,M,FM,"FI,NA",,2063,0,20,OCT25,1996,
-7616945,"Chikh Ebrahim,Sakher.",SYR,M,,,,1509,0,20,OCT25,1981,
+7616945,"Chikh Ebrahim,Sakher.",SYR,M,,,,1510,0,20,OCT25,1981,
 7609779,"Dak Albab,Abdul Rahman.",SYR,M,,SI,,1593,0,20,OCT25,1994,i
 7612133,"Daou,Melad.",SYR,M,,,,1566,0,20,OCT25,1994,i
 7607555,"Daoud, Salma.",SYR,F,,,,1706,0,20,OCT25,2000,wi
@@ -126,7 +126,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7607407,"Esmander,nawar",SYR,M,,,,1792,0,20,OCT25,1991,i
 7611242,"ESPER,Haidara.",SYR,M,,,,1791,0,20,OCT25,2005,i
 7606958,Faker eddin Majd,SYR,M,,,,1443,0,20,OCT25,2003,i
-7611625,"Fandi,Mazen.",SYR,M,FM,,,1986,0,40,OCT25,2013,
+7611625,"Fandi,Mazen.",SYR,M,FM,,,1987,0,40,OCT25,2013,
 7613458,"Fandi,Mohammad.",SYR,M,,,,1631,0,20,OCT25,2006,i
 7602049,"Farha, Doha.",SYR,F,,,,1878,0,20,OCT25,1992,wi
 7604319,"Farouk, Hudaifa",SYR,M,,,,1682,0,20,OCT25,1977,i
@@ -134,20 +134,19 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7614667,"Faroun,Saousan.",SYR,F,,,,1415,0,20,OCT25,1974,wi
 7608128,Fawaz Bachar,SYR,M,,,,1718,0,20,OCT25,1966,i
 7604645,"Feras, Alharash",SYR,M,,,,1976,8,20,OCT25,1979,
-7619790,"Flehan,Zoheir.",SYR,M,,,,1569,0,20,OCT25,1990,
+7619790,"Flehan,Zoheir.",SYR,M,,,,1565,0,20,OCT25,1990,
 7607709,"Ghaneem,kheder",SYR,M,,,,1770,0,20,OCT25,1979,i
 7604491,"Ghassan, Mohammad Thabet",SYR,M,,,,1431,0,20,OCT25,1988,i
 7603991,"Gnaam, Koteba.",SYR,M,,,,2030,0,20,OCT25,1997,i
-7609876,"Haj Bakri,Abd Algouni.",SYR,M,,,,1600,0,20,OCT25,1993,
+7609876,"Haj Bakri,Abd Algouni.",SYR,M,,,,1599,0,20,OCT25,1993,
 7601611,"Haj-Bakkor, Mohamed",SYR,M,,,,2101,0,20,OCT25,1980,i
-7616082,"Hakimah,Nawras.",SYR,M,,,,1523,0,20,OCT25,1985,i
+7616082,"Hakimah,Nawras.",SYR,M,,,,1522,0,20,OCT25,1985,i
 7600410,"Halwani,Talal.",SYR,M,,,,2241,0,20,OCT25,1975,i
 7616902,"Hamad,Ali.",SYR,M,,,,1450,0,20,OCT25,1998,
 7613199,"Hamada,Mohammad.",SYR,M,,,,1677,0,40,OCT25,2010,i
 7600429,"Hamameh, Abdel Kader",SYR,M,,,,2168,0,20,OCT25,1983,i
 7600321,"Hammoudi, Ali",SYR,M,,,,2112,0,20,OCT25,1971,i
 7602936,"Hamwieh, Mohamad Dr",SYR,M,,,,1872,0,20,OCT25,1949,i
-7606265,"hana, saloum",SYR,M,,,,1884,0,20,OCT25,2003,i
 7603460,"Harayssi, Zaki",SYR,M,,,,2067,0,20,OCT25,1991,i
 7607687,"Harba,ahmad",SYR,M,,,,1953,0,20,OCT25,2000,i
 7606745,"Hasan, Ali",SYR,M,,NA,,1918,0,20,OCT25,1998,i
@@ -164,11 +163,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7605030,"Ibrahim, Mohammed",SYR,M,,,,1584,0,20,OCT25,0,i
 7601727,"Ishoo, Younan",SYR,M,,,,1996,0,20,OCT25,1968,i
 7610211,"Ismail, Sham.",SYR,M,,,,1557,0,20,OCT25,2005,i
-7608551,"Jaafar,Issa .",SYR,M,,SI,,AIM,1861,0,OCT25,1993,i
+7608551,"Jaafar,Issa .",SYR,M,,SI,,1861,0,,OCT25,1993,i
 7608160,Jarekyan Antranik,SYR,M,,,,1679,0,20,OCT25,1980,i
-7613806,"Jomha,Eyad.",SYR,M,,,,1540,0,20,OCT25,1979,
+7613806,"Jomha,Eyad.",SYR,M,,,,1539,0,20,OCT25,1979,
 7604092,"Joy, Tomeh",SYR,M,,FI,,2058,0,20,OCT25,1976,i
-7619456,"Jreikh,M.Ghaith.",SYR,M,,,,1602,0,20,OCT25,1996,
+7619456,"Jreikh,M.Ghaith.",SYR,M,,,,1603,0,20,OCT25,1996,
 7612451,"Kadora,Rita.",SYR,F,,,,1449,0,40,OCT25,2007,w
 7603916,"Kahtan,Mohamed",SYR,M,,,,1823,0,20,OCT25,1976,i
 7611870,"Kallas,Beshr.",SYR,M,,,,1651,0,40,OCT25,2007,i
@@ -177,7 +176,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7608730,"Kareem,Hneidi.",SYR,M,,,,1954,0,20,OCT25,2002,i
 7603894,"Karhili, Ali",SYR,M,,,,1753,0,20,OCT25,0,i
 7613210,"Kartech,Mostafa.",SYR,M,,,,1643,0,40,OCT25,2009,i
-7601930,"Khadour, Ismael",SYR,M,FM,"SI,NA",,1919,0,20,OCT25,1998,
+7601930,"Khadour, Ismael",SYR,M,FM,"SI,NA",,1918,0,20,OCT25,1998,
 7604661,"Khalil, Manar",SYR,F,WFM,WFM,"FI,NA",1887,0,20,OCT25,2000,wi
 7601891,"Khatib, Houssen",SYR,M,,"SI,NA",,1577,0,20,OCT25,1993,i
 7608640,"Kheirbeck,Wessam.",SYR,M,,,,1705,0,20,OCT25,1973,i
@@ -190,7 +189,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7601387,"Mada, Haj Yousef",SYR,F,,"SI,NA",,1481,0,20,OCT25,1996,wi
 7611943,"Maghmoma,Mouafak.",SYR,M,,,,1503,0,20,OCT25,1981,i
 7611404,"Mahfoud,Ibrahem.",SYR,M,,,,1653,4,40,OCT25,2008,
-7611412,"Mahfoud,Mayyar.",SYR,M,,,,1782,6,40,OCT25,2011,
+7611412,"Mahfoud,Mayyar.",SYR,M,,,,1781,6,40,OCT25,2011,
 7602332,"Mahmoud, Hasan",SYR,M,,,,2001,0,20,OCT25,1969,i
 7601263,"Mahmoud, Roula",SYR,F,WFM,WFM,,1818,0,20,OCT25,1992,wi
 7607903,"Mahmoud,Ola.",SYR,F,,,,1736,0,20,OCT25,1997,wi
@@ -217,12 +216,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7615426,Mohammed Alabd,SYR,M,,,,1479,0,20,OCT25,1992,i
 7605633,"Mohammed, Tattan",SYR,M,,NI,,1857,0,20,OCT25,0,
 7612699,"Mokhtar,Omar.",SYR,M,,,,1735,0,20,OCT25,2006,
-7605390,"Mounif, Saab",SYR,M,,,,1744,0,20,OCT25,0,
+7605390,"Mounif, Saab",SYR,M,,,,1745,0,20,OCT25,0,
 7607245,Mourad Paolo Joseph,SYR,M,,,,1410,0,40,OCT25,2009,i
-138188909,"Moussa, Mahmoud",SYR,M,,,,ACM,1582,0,OCT25,1989,i
+138188909,"Moussa, Mahmoud",SYR,M,,,,1582,0,,OCT25,1989,i
 7612648,"Mulhem,Laith.",SYR,M,,,,1698,6,40,OCT25,2008,
 7601832,"Naji, Eid",SYR,M,,,,1954,0,20,OCT25,1958,i
-7605269,Nasser Aldakhlallah,SYR,M,,,,AIM,1848,0,OCT25,1980,i
+7605269,Nasser Aldakhlallah,SYR,M,,,,1848,0,,OCT25,1980,i
 7613237,"Nassr,Hamzeh.",SYR,M,,,,1812,0,40,OCT25,2010,i
 7614519,Obada Outabachi,SYR,M,,,,1506,0,20,OCT25,2003,i
 7603800,"Obeid, Raghad",SYR,F,,NA,,1689,0,20,OCT25,1994,wi
@@ -237,7 +236,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7601247,"Rawad, Swlait",SYR,M,,,,1965,0,20,OCT25,0,i
 7611420,"Rawani,yahea.",SYR,M,,,,1790,0,40,OCT25,2009,i
 7607890,"Raya, Osama",SYR,M,,,,1806,0,20,OCT25,1995,i
-7600801,"Rayes, Abdul Kader",SYR,M,,"FT,SI",,AFM,1959,0,OCT25,1980,i
+7600801,"Rayes, Abdul Kader",SYR,M,,"FT,SI",,1959,0,,OCT25,1980,i
 7614128,"Reshah,Yaser.",SYR,M,,,,1510,0,20,OCT25,1989,i
 146242580,"Rifai, Abdulkader",SYR,M,CM,,,2227,9,20,OCT25,1983,
 7601824,"Safi, Mohamad",SYR,M,,,,2266,0,20,OCT25,1968,i
@@ -245,13 +244,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7600453,"Safieh, Mouhamad J.",SYR,M,,,,2139,0,20,OCT25,0,i
 7605501,"Said,Nasser.",SYR,M,,,,1916,0,20,OCT25,1964,i
 7610483,"Saied,Ahmad,Mohamad.",SYR,M,,,,1584,0,20,OCT25,2005,i
-7602456,"Sakkal, Ahmad",SYR,M,,,,AIM,2058,0,OCT25,1975,i
+7602456,"Sakkal, Ahmad",SYR,M,,,,2058,0,,OCT25,1975,i
 7605714,"Saleem,Abdulhamid",SYR,M,,,,1974,0,20,OCT25,1977,i
 7605862,"Saleh , Abdullah",SYR,M,,,,1517,0,20,OCT25,2006,i
 7601182,"Salka, Amaar",SYR,M,,,,1982,0,20,OCT25,1964,i
+7606265,"Salloum, Hanna",SYR,M,,,,1884,0,20,OCT25,2003,i
 7606168,Sarhan Wahid,SYR,M,,,,1807,0,20,OCT25,1969,
-7610580,"Sarhan, Amro",SYR,M,,,,1581,0,20,OCT25,1985,
-7615850,Sari Shekfeh,SYR,M,,,,ACM,1521,0,OCT25,2010,
+7610580,"Sarhan, Amro",SYR,M,,,,1582,0,20,OCT25,1985,
+7615850,Sari Shekfeh,SYR,M,,,,1521,0,,OCT25,2010,
 7603525,"Shaikhani, Moujahed",SYR,M,,,,1838,0,20,OCT25,1981,i
 7609540,"Shamsi Basha,Mohamad Fateh",SYR,M,,,,1514,0,20,OCT25,1972,i
 7601190,"Shaya, Khalid",SYR,M,,,,1888,0,20,OCT25,1970,i
@@ -262,7 +262,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7602421,"Sohib, Okla",SYR,M,FM,,,2029,0,20,OCT25,1982,i
 7604050,"Sokani, Fahed",SYR,M,,,,1725,0,20,OCT25,0,i
 7604530,"Sukkary, Suhail",SYR,M,,,,2030,0,20,OCT25,1971,i
-7603819,"Tabaa, Ghayth",SYR,M,,,,2019,0,20,OCT25,1989,
+7603819,"Tabaa, Ghayth",SYR,M,,,,2021,0,20,OCT25,1989,
 7609655,"Taim,Hassan.",SYR,M,,,,1540,0,40,OCT25,2008,i
 7603312,"Tarboush, Husam",SYR,M,,,,2015,0,20,OCT25,1993,i
 7603649,"Tawel,Ihab.",SYR,M,,NA,,1680,0,20,OCT25,1990,i
@@ -276,8 +276,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7613164,"Wassouf,Ana.",SYR,F,,,,1480,0,40,OCT25,2009,wi
 7614454,"Wihbeh,Alward.",SYR,M,,,,1475,0,40,OCT25,2008,
 7603266,"Yaghy,Ritta.",SYR,F,,,,1834,0,20,OCT25,1999,w
-7602065,"Yazji, Mada",SYR,F,,"SI,FA",,AFM,1721,0,OCT25,1994,wi
-7612494,"Younes,Mohamad.",SYR,M,,,,AFM,1729,0,OCT25,1995,i
+7602065,"Yazji, Mada",SYR,F,,"SI,FA",,1721,0,,OCT25,1994,wi
+7612494,"Younes,Mohamad.",SYR,M,,,,1729,0,,OCT25,1995,i
 7618034,"Yousef,Abdullah.",SYR,M,,,,1958,0,40,OCT25,2010,
 7608519,"Youssef ,Omari.",SYR,M,,,,1591,0,20,OCT25,1973,i
 7609663,"Youssef,Bilal.",SYR,M,,,,1553,0,40,OCT25,2009,i

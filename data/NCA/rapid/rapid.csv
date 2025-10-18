@@ -9,7 +9,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6110606,"Aleman Martinez, Maria Alejandra",NCA,F,,,,1607,0,40,OCT25,2013,wi
 6109420,"Aleman Martinez, Verania Monserrat",NCA,F,,,,1512,0,40,OCT25,2009,wi
 6112374,"Alfaro Sanchez, Carlos Eduardo",NCA,M,,,,1573,0,40,OCT25,2006,i
-6100457,"Alfaro, William",NCA,M,FM,FI,,2075,0,20,OCT25,1982,
+6100457,"Alfaro, William",NCA,M,FM,FI,,2076,0,20,OCT25,1982,
 6105602,"Allen Montes, Charles Mijail",NCA,M,,,,1717,0,20,OCT25,1981,i
 6100783,"Allen, Alonso",NCA,M,,,,1834,0,20,OCT25,0,
 6103987,"Allen, Luisa Amanda",NCA,F,,,,1657,0,20,OCT25,2001,wi
@@ -37,7 +37,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6100180,"Batres, Francisco",NCA,M,FM,,,2150,0,20,OCT25,1955,i
 6102859,"Bazan, Jose Vicente",NCA,M,,,,1881,0,20,OCT25,0,i
 6100236,"Bendana-Guerrero, Guy Dr.",NCA,M,,,,1943,0,20,OCT25,1950,
-6110193,"Berrios Cuadra, Michael Stefan",NCA,M,,,,AFM,1554,0,OCT25,2012,i
+6110193,"Berrios Cuadra, Michael Stefan",NCA,M,,,,1554,0,,OCT25,2012,i
 6107214,"Berrios Vanegas, Yanko Antonio",NCA,M,,,,1703,0,20,OCT25,1971,
 6103456,"Berrios, Denis",NCA,M,,,,1744,0,20,OCT25,0,i
 6102263,"Berrios, Natanael",NCA,M,,,,1881,0,20,OCT25,0,i
@@ -117,7 +117,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6101046,"Fonseca Cabrera, Ernesto",NCA,M,,,,2143,0,20,OCT25,0,i
 6107664,"Fonseca Salmeron, Juan Rafael",NCA,M,,,,1708,0,20,OCT25,1956,i
 6109551,"Fonseca Trana, Norlan Antonio",NCA,M,,,,1617,0,20,OCT25,1976,i
-6101690,"Gaitan Rivas, Norlan Miguel",NCA,M,,"NI,SI",,ACM,1654,0,OCT25,1983,i
+6101690,"Gaitan Rivas, Norlan Miguel",NCA,M,,"NI,SI",,1654,0,,OCT25,1983,i
 6107036,"Galeano Cabrales, Omar Emilio",NCA,M,,,,1885,0,20,OCT25,2001,i
 6101704,"Gallo, Felix",NCA,M,,,,1842,0,20,OCT25,0,i
 6109942,"Gamez Valenzuela, Evert Eduardo",NCA,M,,,,1802,0,20,OCT25,2000,i
@@ -246,7 +246,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6101119,"Olivares, Odell",NCA,M,,,,1703,0,20,OCT25,0,
 6104193,"Olivas Siles, Roberto Carlos",NCA,M,,,,1755,0,20,OCT25,1984,i
 6111637,"Ordonez Aguilar, Omar Efrain",NCA,M,,,,1542,0,20,OCT25,2003,i
-6103928,"Ordonez, Randall Raul",NCA,M,,,,AFM,1788,0,OCT25,1999,i
+6103928,"Ordonez, Randall Raul",NCA,M,,,,1788,0,,OCT25,1999,i
 6107931,"Orochena Barbas, Jose Manuel",NCA,M,,,,1587,0,20,OCT25,1965,i
 6104290,"Orozco Cantillano,Aurelio Ismael",NCA,M,,,,1738,0,20,OCT25,1983,i
 6109977,"Orozco Rivera, Jeffry Jose",NCA,M,,,,1464,0,20,OCT25,1998,i

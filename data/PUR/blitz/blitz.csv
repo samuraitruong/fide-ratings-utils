@@ -27,7 +27,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3107450,"Bengoa Feliciano, Katsi M.",PUR,F,,,,1554,0,40,OCT25,2007,wi
 3110087,"Berrios Gonzalez, Juan",PUR,M,,NA,,1573,0,20,OCT25,1963,
 3102556,"Berrios Rivera, Mario",PUR,M,,,,1687,0,20,OCT25,1990,
-3102068,"Berrios Rodriguez, Vance",PUR,M,,,,AFM,1967,0,OCT25,0,i
+3102068,"Berrios Rodriguez, Vance",PUR,M,,,,1967,0,,OCT25,0,i
 3107507,"Berrios Santiago, Eloy A.",PUR,M,,,,1727,0,20,OCT25,1989,i
 3112772,"Bierd Santana, Steven",PUR,M,,,,1454,0,40,OCT25,2014,
 3110664,"Blaiotta Medina, Ramiro E.",PUR,M,,,,1728,0,20,OCT25,1968,
@@ -183,7 +183,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3112357,"Patel, Dhyaan",PUR,M,,,,1636,8,40,OCT25,2013,
 3112470,"Patel, Yash",PUR,M,,,,1576,0,40,OCT25,2013,i
 3105920,"Pedrosa Class, Jose D.",PUR,M,,,,1786,0,20,OCT25,1997,i
-3110850,"Pedrosa Rivera, Joshua",PUR,M,,,,1918,9,40,OCT25,2009,
+3110850,"Pedrosa Rivera, Joshua",PUR,M,,,,1917,9,40,OCT25,2009,
 3109275,"Pereira Perez, Nomar A.",PUR,M,,,,1560,0,20,OCT25,2004,i
 3104907,"Perez Baez, Daniel",PUR,M,,,,1658,0,20,OCT25,1994,i
 3107019,"Perez Otero, Gabriel",PUR,M,,,,1634,0,20,OCT25,1997,i
@@ -204,7 +204,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3109500,"Ramos Rodriguez, Salvador",PUR,M,,,,1622,0,20,OCT25,1964,i
 3104516,"Ramos Roman, Miles",PUR,M,,,,1932,0,20,OCT25,1996,i
 3105601,"Requena Torres, Luis A.",PUR,M,,NA,,1764,0,20,OCT25,1974,
-3105962,"Reyes Landrau, Jose R.",PUR,M,,"NI,NA",,ACM,1759,0,OCT25,1966,i
+3105962,"Reyes Landrau, Jose R.",PUR,M,,"NI,NA",,1759,0,,OCT25,1966,i
 3111628,"Reyes Rivera, Derek R.",PUR,M,,,,1459,0,40,OCT25,2010,
 6424643,"Richiez Guillen, Ciara Bernadette",PUR,F,,,,1611,0,20,OCT25,2001,wi
 3101789,"Rios Maldonado, Javier",PUR,M,,,,1810,0,20,OCT25,1996,i
@@ -224,7 +224,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3104176,"Rodriguez Miranda, Jaime",PUR,M,,,,1909,0,20,OCT25,1982,i
 3112110,"Rodriguez Rodriguez, Ian G.",PUR,M,,,,1478,0,20,OCT25,2003,
 3111440,"Rodriguez Rosario, Abdiel D.",PUR,M,,,,1506,0,20,OCT25,2005,i
-3113540,"Rodriguez Rosario, Manuel",PUR,M,,,,1476,0,40,OCT25,2011,i
+3113540,"Rodriguez Rosario, Manuel",PUR,M,,,,1475,0,40,OCT25,2011,i
 3104230,"Rodriguez Rosich, Carlos",PUR,M,,,,1710,0,20,OCT25,2004,i
 3102327,"Rodriguez Salgado, Alberto",PUR,M,,,,1608,0,20,OCT25,0,i
 3100898,"Rodriguez Santiago, Jaime",PUR,M,FM,NA,,2077,0,20,OCT25,1990,
@@ -235,7 +235,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3107167,"Rosario Reyes, Michael A.",PUR,M,,,,1725,0,20,OCT25,1997,i
 3102203,"Rosario Salas, Jonatan",PUR,M,,,,1854,0,20,OCT25,1986,
 3107620,"Rubio de Lamadrid, Julian J.",PUR,M,,,,1695,0,20,OCT25,1999,i
-3114139,"Ryder, Alexander",PUR,M,,,,AFM,1532,8,OCT25,2013,
+3114139,"Ryder, Alexander",PUR,M,,,,1531,8,,OCT25,2013,
 3116085,"Salgado Rosa, Dennis",PUR,M,,,,1474,0,40,OCT25,2009,
 3107442,"Sanchez Garcia, Ivan A.",PUR,M,,,,1752,0,40,OCT25,2007,i
 3108171,"Sanchez Martinez, Xavier",PUR,M,,NA,,1794,0,20,OCT25,1992,i
@@ -266,7 +266,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3112675,"Tirado Vazquez, Luis J.",PUR,M,,,,1610,0,20,OCT25,1996,
 3108350,"Tolentino Malave, Luis A.",PUR,M,,,,1593,0,20,OCT25,1999,i
 3107949,"Toro Cruz, Sebastian J.",PUR,M,FM,SI,,2028,0,20,OCT25,2006,
-3110770,"Torres Acosta, Gael",PUR,M,,,,1694,8,40,OCT25,2008,
+3110770,"Torres Acosta, Gael",PUR,M,,,,1695,8,40,OCT25,2008,
 3103528,"Torres Crespo, Josue",PUR,M,,,,1814,0,20,OCT25,0,i
 3115216,"Torres De Jesus, Javier",PUR,M,,,,1511,0,20,OCT25,1964,
 3102238,"Torres Diaz, Carlos D.",PUR,M,,,,1800,0,20,OCT25,1958,i

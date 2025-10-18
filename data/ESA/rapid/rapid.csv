@@ -17,13 +17,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6705740,"Barahona, Dalila Yamileth",ESA,F,WCM,WCM,,1822,0,40,OCT25,2005,wi
 6700292,"Blanco, David E.",ESA,M,,,,1990,0,20,OCT25,1981,i
 6700837,"Blandon, Jaime",ESA,M,,,,1948,0,20,OCT25,1987,i
-6701639,"Bolanos, Jeremias",ESA,M,,,,ACM,1540,0,OCT25,0,i
+6701639,"Bolanos, Jeremias",ESA,M,,,,1540,0,,OCT25,0,i
 6700187,"Burgos Figueroa, Carlos E.",ESA,M,IM,,,2278,0,20,OCT25,1979,i
 6709796,"Calles, Johan",ESA,M,,,,1528,0,40,OCT25,2011,
 6700527,"Castaneda, Ada",ESA,F,WIM,WIM,,1996,0,20,OCT25,1988,wi
 6710590,"Chavez Gomez, Miguel Angel",ESA,M,,NA,,1709,0,40,OCT25,1953,i
 6710603,"Chavez Hernandez, Miguel Angel",ESA,M,,NA,,1571,0,40,OCT25,1995,i
-6700870,"Chavez, Hector Antonio",ESA,M,,,,ACM,1938,0,OCT25,1956,i
+6700870,"Chavez, Hector Antonio",ESA,M,,,,1938,0,,OCT25,1956,i
 6700098,"Chavez, Ricardo Ernesto",ESA,M,FM,,,2232,0,20,OCT25,1982,i
 6709516,"Cisneros Gamez, Carlos Alexis",ESA,M,,,,1832,0,40,OCT25,2000,i
 6702821,"Contreras, Benjamin",ESA,M,,,,1863,0,20,OCT25,0,i
@@ -33,7 +33,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6710158,"Cruz Galvez, America Julissa",ESA,F,,,,1558,0,40,OCT25,2008,w
 6703259,"De Leon, Gabriel",ESA,M,,,,1861,0,20,OCT25,0,i
 6703127,"De Leon, Stephanie",ESA,F,WCM,WCM,,1786,0,20,OCT25,2000,wi
-6700683,"Duarte, Juan",ESA,M,,,,AIM,1972,0,OCT25,1979,i
+6700683,"Duarte, Juan",ESA,M,,,,1972,0,,OCT25,1979,i
 6707530,Dubon Mario Andre,ESA,M,,,,1648,0,40,OCT25,2006,i
 6708854,Fang Juan,ESA,M,,,,1522,0,40,OCT25,2010,i
 6707009,Fernandez Denis,ESA,M,,,,1766,0,20,OCT25,2001,i
@@ -48,7 +48,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6700608,"Gonzalez, Americo",ESA,M,,,,2065,0,20,OCT25,0,i
 6710670,"Grande, Melissa Abigail",ESA,F,,,,1560,0,40,OCT25,2009,w
 6703062,"Guardado Flores, Diana Beatriz",ESA,F,,NA,,1782,0,20,OCT25,1998,wi
-6708889,"Guevara Ruiz, Marvin Andres",ESA,M,CM,,,1767,0,40,OCT25,2009,
+6708889,"Guevara Ruiz, Marvin Andres",ESA,M,CM,,,1768,0,40,OCT25,2009,
 6708870,"Guevara Ruiz, Santiago Jose",ESA,M,FM,,,1940,0,40,OCT25,2013,
 6700136,"Guevara Sanchez, Erick Marvin",ESA,M,FM,,,2005,0,20,OCT25,1980,i
 6703321,"Guevara, Eduardo",ESA,M,,,,1685,0,20,OCT25,0,i
@@ -82,7 +82,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6705405,"Mendez, Alan Steven",ESA,M,,,,1915,0,20,OCT25,0,i
 6700632,"Mendez, Marlon",ESA,M,,,,1980,0,20,OCT25,1989,i
 6710182,"Mendoza, Emma Lily",ESA,F,,,,1409,0,40,OCT25,2009,wi
-6703453,"Monge, Rafael",ESA,M,,,,AIM,1717,0,OCT25,1982,i
+6703453,"Monge, Rafael",ESA,M,,,,1717,0,,OCT25,1982,i
 6701337,"Montenegro, Joaquin",ESA,M,,,,1817,0,20,OCT25,1947,i
 6710581,"Montoya Saravia, Edwin Andres",ESA,M,,,,1532,0,40,OCT25,2011,i
 6706754,Morales Carlos,ESA,M,FM,,,2127,0,20,OCT25,2001,i
@@ -99,12 +99,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6702023,"Recinos, Jonathan",ESA,M,,,,1891,0,20,OCT25,0,i
 6709486,Ricardo Enrique Morales Tejada,ESA,M,,,,1637,0,40,OCT25,1978,i
 6702139,"Rios, Carlos",ESA,M,,,,1992,0,20,OCT25,0,i
-6702414,"Rivas Campos, Jonatan Esli",ESA,M,,,,1491,5,40,OCT25,1977,
+6702414,"Rivas Campos, Jonatan Esli",ESA,M,,,,1461,6,40,OCT25,1977,
 6703534,"Rivas, Rigoberto",ESA,M,,,,1811,0,20,OCT25,0,i
 6701892,"Rodriguez, Cristian A.",ESA,M,,,,1921,0,20,OCT25,1994,i
 6702430,"Romero, Armando Gaitan",ESA,M,,,,1772,0,20,OCT25,0,i
 6704913,"Ruballo, Jose",ESA,M,,,,1824,0,20,OCT25,0,i
-6708102,"Rugamas, Allison Daniela",ESA,F,,,,1531,0,40,OCT25,2009,w
+6708102,"Rugamas, Allison Daniela",ESA,F,,,,1532,0,40,OCT25,2009,w
 6705391,"Ruiz Caceres, German",ESA,M,,,,1730,0,20,OCT25,1948,i
 6706509,Salazar David,ESA,M,,,,1654,0,20,OCT25,2000,i
 6701493,"Sanchez, David",ESA,M,,,,1908,0,20,OCT25,1997,i
@@ -124,8 +124,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6700110,"Velasquez, Oscar",ESA,M,,,,2058,0,20,OCT25,1955,i
 6709613,Zabdiel Neftaly Torres Perez,ESA,M,,,,1727,0,20,OCT25,2005,i
 6703089,"Zavala Galindo, Alejandra Beatriz",ESA,F,WFM,WFM,NA,1936,0,20,OCT25,1997,wi
-6710727,"Zelaya Rivas, Jonathan Neftali",ESA,M,,,,AFM,1651,0,OCT25,1997,i
+6710727,"Zelaya Rivas, Jonathan Neftali",ESA,M,,,,1651,0,,OCT25,1997,i
 6700128,"Zelaya, Porfirio",ESA,M,,,,2189,0,20,OCT25,0,i
 6700233,"Zepeda, Lorena",ESA,F,WIM,WIM,,2086,0,20,OCT25,1984,wi
 6700195,"Zepeda, Rafael",ESA,M,,,,2085,0,20,OCT25,1954,i
-6701590,"Zometa Guzman, Miguel Angel",ESA,M,,"FI,FA",,AGM,1956,0,OCT25,1987,i
+6701590,"Zometa Guzman, Miguel Angel",ESA,M,,"FI,FA",,1956,0,,OCT25,1987,i

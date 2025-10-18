@@ -1,10 +1,10 @@
 ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7303670,"Abarca Ochoa, Bryan R.",GUA,M,,,,1570,0,20,OCT25,1990,
-7306687,"Aguilar de Leon, Dayana Jasmin",GUA,F,,,,1547,0,40,OCT25,2009,w
-7306695,"Aguilar de Leon, Iker Xavier",GUA,M,,,,1798,0,40,OCT25,2013,
+7306687,"Aguilar de Leon, Dayana Jasmin",GUA,F,,,,1545,0,40,OCT25,2009,w
+7306695,"Aguilar de Leon, Iker Xavier",GUA,M,,,,1799,0,40,OCT25,2013,
 7303661,"Aguirre B., Justo Enrique",GUA,M,,,,1856,0,20,OCT25,1992,
 7307039,"Alvarado Rosales, Josue",GUA,M,,,,1599,0,40,OCT25,2008,i
-7307055,"Alvarez Diaz, Donato Benjamin",GUA,M,,,,ACM,1583,0,OCT25,2012,
+7307055,"Alvarez Diaz, Donato Benjamin",GUA,M,,,,1583,0,,OCT25,2012,
 7305036,"Ambrocio, Hugo Alejandro",GUA,M,,,,1583,0,20,OCT25,2005,i
 7303297,"Amenabar F., Juan Pablo",GUA,M,,,,1775,0,20,OCT25,1988,
 7308957,"Andrade Quiacain, Angelica Analy",GUA,F,,,,1506,0,40,OCT25,2014,w
@@ -12,9 +12,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7301766,"Arango Perez, Lilian Rubi",GUA,F,,,,1750,0,20,OCT25,2000,wi
 7309090,"Ardon Villanueva, Jared Andres Manuel",GUA,M,,,,1456,0,20,OCT25,2006,
 7304323,"Arenales F., Jose",GUA,M,,,,1558,0,20,OCT25,1970,
-7308213,"Arias Salazar, Karen Alejandra",GUA,F,,,,1535,0,40,OCT25,2012,w
-7307756,"Aroche Cobos, Cristhian Alberto",GUA,M,,,,AFM,1587,0,OCT25,2007,
-7307632,"Aroche Cobos, Manuel Alejandro",GUA,M,,,,AIM,1973,0,OCT25,2009,
+7308213,"Arias Salazar, Karen Alejandra",GUA,F,,,,1534,0,40,OCT25,2012,w
+7307756,"Aroche Cobos, Cristhian Alberto",GUA,M,,,,1587,0,,OCT25,2007,
+7307632,"Aroche Cobos, Manuel Alejandro",GUA,M,,,,1973,0,,OCT25,2009,
 7306881,"Ayerdi Hurtado, Cynthia Maria",GUA,F,,,,1703,0,40,OCT25,2008,w
 7307047,"Barillas Morales, Pablo Roberto",GUA,M,,,,1586,0,40,OCT25,2009,i
 7302460,"Bianchi Azurdia, Gerardo",GUA,M,,,,1729,0,20,OCT25,1957,
@@ -22,10 +22,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7300964,"Bol, Barbara",GUA,F,,,,1675,0,20,OCT25,0,wi
 7308892,"Bonhann de la Vega, Astrid Amanecer",GUA,F,,,,1620,0,40,OCT25,2007,w
 7307357,"Cabrera Alvarado, Hugo Carlos Josue",GUA,M,,,,1747,0,40,OCT25,2013,
-7308825,"Cabrera Lemus, Ian Marco",GUA,M,,,,1580,6,40,OCT25,2017,
+7308825,"Cabrera Lemus, Ian Marco",GUA,M,,,,1579,6,40,OCT25,2017,
 7303890,"Carballo Lemus, Victor G.",GUA,M,,,,1675,0,40,OCT25,2008,i
 7307667,"Chaca Alvarado, Alisson Nayeli",GUA,F,,,,1621,0,40,OCT25,2009,w
-7306288,"Chocojay Otzoy, Baltazar Catarino",GUA,M,,,,1601,0,40,OCT25,2011,
+7306288,"Chocojay Otzoy, Baltazar Catarino",GUA,M,,,,1600,0,40,OCT25,2011,
 7309074,"Cifuentes Lara, Leo Javier",GUA,M,,,,1417,0,40,OCT25,2017,
 7308434,"Cobos Arango, Carlos Ivan",GUA,M,,,,1455,0,20,OCT25,1992,
 7308345,"Contreras Rivas, Valery Noemy",GUA,F,,,,1513,0,40,OCT25,2014,w
@@ -35,7 +35,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7308361,"Cordero Medrano, Marlyn Elizabeth",GUA,F,,,,1557,0,40,OCT25,2015,w
 7308906,"Cordero Valdez, Cornelio",GUA,M,,,,1459,0,20,OCT25,1974,
 7308272,"Coroxon Aguilar, Andre Emanuel",GUA,M,,,,1779,0,20,OCT25,2006,i
-7301340,"Cotto Mux, Hector Vinicio",GUA,M,,,,AIM,1924,0,OCT25,0,i
+7301340,"Cotto Mux, Hector Vinicio",GUA,M,,,,1924,0,,OCT25,0,i
 7308485,"Cotzajay Vicente, Brandon Josue",GUA,M,,,,1504,0,40,OCT25,2011,
 7308914,"Cruz Balcarcel, Natalia Estefania",GUA,F,,,,1510,0,40,OCT25,2011,w
 7309031,"Cruz Elias, Evan Gabriel",GUA,M,,,,1516,0,40,OCT25,2016,
@@ -49,7 +49,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7308493,"Diaz Ejcalon, Joseph Steven",GUA,M,,,,1547,0,40,OCT25,2013,
 7300948,"Diaz, Luisa",GUA,F,,,,1895,0,20,OCT25,1996,wi
 7307764,"Dionicio Revolorio, Edwin Donaldo",GUA,M,,,,1608,0,20,OCT25,1990,
-7307640,"Enriquez Obregon, Javier Antonio",GUA,M,,,,1624,0,40,OCT25,2013,
+7307640,"Enriquez Obregon, Javier Antonio",GUA,M,,,,1623,0,40,OCT25,2013,
 7308868,"Esquivel Noriega, Emilio Alejandro",GUA,M,,,,1598,0,40,OCT25,2009,
 7308400,"Figueroa Acevedo, Derek",GUA,M,,,,1527,0,40,OCT25,2007,
 7301383,"Figueroa Gonzalez, Karen Luvia",GUA,F,,,,1856,0,20,OCT25,1998,wi
@@ -61,25 +61,25 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7303041,"Garcia Y., Brayan Alexis",GUA,M,CM,,,2012,0,20,OCT25,2001,
 7300077,"Garcia, Douglas",GUA,M,,,,2112,0,20,OCT25,0,i
 7308620,"Garmendia, Daniel Alberto",GUA,M,,,,1560,0,40,OCT25,2008,
-7308221,"Garzona Barrera, Emelyn Nicole",GUA,F,,,,1616,0,40,OCT25,2011,wi
+7308221,"Garzona Barrera, Emelyn Nicole",GUA,F,,,,1613,0,40,OCT25,2011,wi
 7300697,"Giron Chavez, David Emanuel",GUA,M,FM,,,2134,0,20,OCT25,1993,
 7300247,"Godoy C., Miguel Angel",GUA,M,,,,1917,0,20,OCT25,0,i
 7303130,"Gomez G., Emily Adriana",GUA,F,,,,1536,0,20,OCT25,2006,wi
 7308426,"Gomez Rojas, Daniel Isaac",GUA,M,,,,1488,0,40,OCT25,2008,
 7302681,"Gonzalez S., Mauricio Antonio",GUA,M,,,,1618,0,20,OCT25,1969,
 7309104,"Gonzalez Samayoa, Jose Daniel",GUA,M,,,,1685,0,20,OCT25,1998,
-7308949,"Guillen Salazar, Carlos Wilfredo",GUA,M,,,,1417,0,20,OCT25,2002,
+7308949,"Guillen Salazar, Carlos Wilfredo",GUA,M,,,,1416,0,20,OCT25,2002,
 7306008,"Gutierrez Choguaj, Jose David",GUA,M,,,,1737,0,20,OCT25,2005,
 7306016,"Gutierrez Choguaj, Josue Emanuel",GUA,M,,,,1925,0,40,OCT25,2008,
 7301359,"Gutierrez Suarez, Marcos Antonio",GUA,M,,,,1837,0,20,OCT25,1997,i
 7302541,"Guzman M., Kevin Oswaldo",GUA,M,,,,1672,0,20,OCT25,1995,
-7300735,"Guzman, Jimmy",GUA,M,,,,AIM,1850,0,OCT25,1978,
+7300735,"Guzman, Jimmy",GUA,M,,,,1850,0,,OCT25,1978,
 7300930,"Guzman, Oswaldo",GUA,M,,,,2056,0,20,OCT25,1995,i
 7307896,"Heredia, Estheban",GUA,M,,,,1569,0,20,OCT25,2006,
 7306679,"Hernandez Samayoa, Dilan Alexander",GUA,M,CM,,,1923,0,40,OCT25,2007,
 7305532,"Hidalgo Avila, Yefry",GUA,M,CM,,,1916,0,40,OCT25,2007,
 7305524,"Hidalgo Avila, Yervyn",GUA,M,,,,1747,0,40,OCT25,2007,
-7304340,"Jop A., Laura Elizabeth",GUA,F,,,,AFM,1674,0,OCT25,1996,w
+7304340,"Jop A., Laura Elizabeth",GUA,F,,,,1674,0,,OCT25,1996,w
 7301570,"Juarez B., Samuel G.",GUA,M,,,,1959,0,20,OCT25,1978,
 7300018,"Juarez Flores, Carlos A.",GUA,M,IM,,,2358,0,10,OCT25,1963,
 7300034,"Juarez Flores, Gustavo E.",GUA,M,FM,,,2129,0,20,OCT25,1958,i
@@ -89,36 +89,36 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7306849,"Leon Aguilar, Alvaro Jose",GUA,M,,,,1656,0,20,OCT25,2004,
 7304528,"Letona V., Javier Alejandro",GUA,M,,,,1863,0,40,OCT25,2008,
 7304307,"Linares Orellana, Hector Jose",GUA,M,FM,,,1928,0,40,OCT25,2009,
-7306946,"Lopez Chamale, Mynor Augusto",GUA,M,,,,AFM,1652,0,OCT25,1977,
-7304544,"Lopez Escobar, Daniel Alejandro",GUA,M,,,,AFM,1621,0,OCT25,2008,i
-7304862,"Lopez Escobar, Jose David",GUA,M,,,,1755,0,40,OCT25,2010,
+7306946,"Lopez Chamale, Mynor Augusto",GUA,M,,,,1652,0,,OCT25,1977,
+7304544,"Lopez Escobar, Daniel Alejandro",GUA,M,,,,1621,0,,OCT25,2008,i
+7304862,"Lopez Escobar, Jose David",GUA,M,,,,1754,0,40,OCT25,2010,
 7303149,"Lopez Hidalgo, Leonardo Daniel",GUA,M,,,,1657,0,20,OCT25,2006,i
 7301502,"Lopez L., Dairyn D.",GUA,F,WCM,WCM,,1701,0,20,OCT25,2000,wi
-359105000,"Lopez Montenegro, Hansel Andre",GUA,M,,,,ACM,1502,0,OCT25,1999,
+359105000,"Lopez Montenegro, Hansel Andre",GUA,M,,,,1502,0,,OCT25,1999,
 7302282,"Lopez, Moises Antonio",GUA,M,,,,1796,0,20,OCT25,1982,i
 7302983,"Lopez, Pablo Roberto",GUA,M,,,,1856,0,20,OCT25,2000,i
 7300239,"Lorenzana, Wilson Estuardo",GUA,M,IM,,,2188,0,20,OCT25,1978,i
 7307098,"Lorenzo Mateo, Jennyfer Marisol",GUA,F,,,,1670,0,40,OCT25,2007,w
 7301600,"Lossi C., Cyrano Jose",GUA,M,CM,FI,,1959,0,20,OCT25,2000,i
 7300956,"Luna, Alfredo",GUA,M,,,,1940,0,20,OCT25,0,i
-7303386,"Martinez, Hector",GUA,M,,,,ACM,1536,0,OCT25,1994,
+7303386,"Martinez, Hector",GUA,M,,,,1536,0,,OCT25,1994,
 7308396,"Matul Andrade, Alexander Yovanni",GUA,M,,,,1632,0,20,OCT25,2004,i
 7300115,"Mazariegos Kummerfeldt, Carolina",GUA,F,WIM,WIM,,2049,0,20,OCT25,1960,wi
 7300867,"Mencos Castillo, Maria",GUA,F,WIM,WIM,,1860,0,20,OCT25,1996,wi
 7300573,"Mencos, Claudia",GUA,F,WIM,WIM,NI,2015,0,20,OCT25,1991,wi
 7305591,"Mendoza Cacoj, Yolanda",GUA,F,,,,1496,0,40,OCT25,2007,w
 7302444,"Meneses, Braulio Dario",GUA,M,,,,1851,0,20,OCT25,2002,i
-7307292,"Merida Calderon, Juan Diego",GUA,M,,,,1616,0,40,OCT25,2015,
-7307284,"Merida Calderon, Saisha Jimena",GUA,F,,,,1604,0,40,OCT25,2015,w
+7307292,"Merida Calderon, Juan Diego",GUA,M,,,,1617,0,40,OCT25,2015,
+7307284,"Merida Calderon, Saisha Jimena",GUA,F,,,,1600,0,40,OCT25,2015,w
 7308183,"Merida Monterroso, Oscar Daniel",GUA,M,,,,1576,0,40,OCT25,2014,i
 7303009,"Molina Hun, Hieysson",GUA,M,,,,1757,0,20,OCT25,2005,i
-7306431,"Monroy Lopez, Gustavo Adolfo",GUA,M,,,,1730,9,40,OCT25,2010,
+7306431,"Monroy Lopez, Gustavo Adolfo",GUA,M,,,,1731,9,40,OCT25,2010,
 7308922,"Montenegro Godoy, Santiago",GUA,M,,,,1587,0,20,OCT25,2004,
 7300352,"Monterroso, Karla",GUA,F,WFM,WFM,,1761,0,20,OCT25,1973,wi
 7300263,"Monzon Perez, Calixto Raul",GUA,M,,,,2051,0,20,OCT25,0,i
 7308329,"Morales Montenegro, Mario Esteban",GUA,M,,,,1574,0,20,OCT25,2004,
 7305419,"Morales Osorio, Any Maria",GUA,F,,,,1640,0,40,OCT25,2008,wi
-7307659,"Ordonez Bonilla, Ricardo Andres",GUA,M,CM,,,1901,8,40,OCT25,2014,
+7307659,"Ordonez Bonilla, Ricardo Andres",GUA,M,CM,,,1902,8,40,OCT25,2014,
 7306385,"Ordonez Ch., Dylan Adiel",GUA,M,,,,1482,0,40,OCT25,2014,
 7308817,"Orozco Godinez, Andres Emiliano",GUA,M,,,,1479,0,40,OCT25,2012,
 7309120,"Orozco, Pablo Abraham",GUA,M,,,,1842,0,20,OCT25,1980,
@@ -136,7 +136,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7308027,"Perez Lopez, Esdras Aaron",GUA,M,,,,1503,0,40,OCT25,2015,
 7303467,"Perez S., Jennifer Beatriz",GUA,F,,,,1494,0,40,OCT25,2007,wi
 7305346,"Pineda D., Raul Anibal",GUA,M,,,,1780,0,20,OCT25,2003,
-7307934,"Pineda Marroquin, Benjamin Raphael",GUA,M,,,,1427,4,40,OCT25,2015,
+7307934,"Pineda Marroquin, Benjamin Raphael",GUA,M,,,,1438,3,40,OCT25,2015,
 7307977,"Pineda, Juan Pablo",GUA,M,,,,1666,0,20,OCT25,1990,i
 7307918,"Pinzon Balan, Jose Gael",GUA,M,,,,1446,0,40,OCT25,2013,
 7307616,"Pinzon Balan, Jose Jeyk",GUA,M,,,,1794,0,40,OCT25,2007,
@@ -147,11 +147,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7300530,"Quinonez Centeno, Carlos David",GUA,M,FM,,,2355,0,20,OCT25,1987,i
 7307578,"Ramos Barrios, Felix Fernando",GUA,M,,,,1847,0,20,OCT25,1967,
 7305184,"Raymundo, Deycy Daniela",GUA,F,WFM,WFM,,1879,0,40,OCT25,2008,w
-7306989,"Reinhard Moller, Friedrich Stefan",GUA,M,,,,1686,8,40,OCT25,2014,
+7306989,"Reinhard Moller, Friedrich Stefan",GUA,M,,,,1687,8,40,OCT25,2014,
 7306970,"Reinhard Moller, Gustavo",GUA,M,,,,1792,8,40,OCT25,2008,
-7306997,"Reinhard Moller, Kerstin Danielle",GUA,F,WCM,WCM,,1578,7,40,OCT25,2013,w
+7306997,"Reinhard Moller, Kerstin Danielle",GUA,F,WCM,WCM,,1579,7,40,OCT25,2013,w
 7302770,"Reinhard Pinto, Dietmar",GUA,M,,"SI,FI",,1787,0,20,OCT25,1986,
-7304145,"Revolorio, Joselyn",GUA,F,,,,1581,0,40,OCT25,2010,w
+7304145,"Revolorio, Joselyn",GUA,F,,,,1578,0,40,OCT25,2010,w
 7300069,"Reyes Najera, Carlos A.",GUA,M,FM,,,2047,0,20,OCT25,1961,i
 7308876,"Reyna Hernandez, Jose Andres",GUA,M,,,,1465,0,40,OCT25,2010,
 7304412,"Rivas Giordano, Santiago",GUA,M,,,,1559,0,40,OCT25,2009,
@@ -161,7 +161,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7301464,"Rodriguez Vasquez, Monica Paola",GUA,F,,,,1587,0,20,OCT25,2005,wi
 7307209,"Rodriguez, Pablo Fernando",GUA,M,,,,1591,0,20,OCT25,1988,
 7304676,"Rosales Corado, Frankleen Arnaldo",GUA,M,,,,1640,0,20,OCT25,1999,i
-7308264,"Sagastume Estrada, Carlos Raul",GUA,M,,,,AFM,1677,0,OCT25,1986,
+7308264,"Sagastume Estrada, Carlos Raul",GUA,M,,,,1677,0,,OCT25,1986,
 7308507,"Sagastume Minera, Santiago",GUA,M,,,,1662,0,40,OCT25,2009,
 7307969,"Salazar Yanes, Pedro Junbatz Sebastian",GUA,M,,,,1588,0,40,OCT25,2013,
 7305427,"Santay Baquiax, Joselyn",GUA,F,,,,1447,0,40,OCT25,2007,wi

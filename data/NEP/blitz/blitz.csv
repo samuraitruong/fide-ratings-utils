@@ -14,7 +14,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12305685,"Amatya, Bipin",NEP,M,,,,1797,0,20,OCT25,1968,i
 12310743,"Amatya, Pramit",NEP,M,,,,1753,0,20,OCT25,2003,i
 12315699,"Ansari, Sameer",NEP,M,,,,1760,0,20,OCT25,2003,i
-12352748,"Aryal, Arnav",NEP,M,,,,AIM,1543,0,OCT25,2014,
+12352748,"Aryal, Arnav",NEP,M,,,,1543,0,,OCT25,2014,
 12303003,"Awal, Ganesh",NEP,M,,,,1917,0,20,OCT25,1971,
 12304484,"Awale, Chirikaji",NEP,M,,,,1936,0,20,OCT25,1974,i
 12341444,"Awale, Purna Narayan",NEP,M,,,,1645,0,20,OCT25,1987,
@@ -51,11 +51,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12318469,"Bhandari, Hem",NEP,M,,,,1737,0,20,OCT25,1974,
 12316784,"Bhandari, Hemraj",NEP,M,,,,1803,0,20,OCT25,1991,i
 12310654,"Bhandari, Kshitiz",NEP,M,FM,,,2233,0,20,OCT25,1989,
-12312967,"Bhandari, Pooja",NEP,F,,FA,,1642,0,20,OCT25,1998,w
+12312967,"Bhandari, Pooja",NEP,F,,FA,,1644,0,20,OCT25,1998,w
 12336246,"Bhandari, Samir",NEP,M,,,,1561,0,20,OCT25,2005,i
 12313475,"Bhandari, Subhash",NEP,M,,,,1828,0,20,OCT25,1988,i
 12349097,"Bhandari, Suyog",NEP,M,,,,1645,0,20,OCT25,2004,i
-12324744,"Bhandari, Tulasi",NEP,M,,NA,,AFM,1660,0,OCT25,1987,i
+12324744,"Bhandari, Tulasi",NEP,M,,NA,,1660,0,,OCT25,1987,i
 12314650,"Bhatt, Netra Raj",NEP,M,,,,1735,0,20,OCT25,1985,
 12353590,"Bhatt, Umesh",NEP,M,,,,1781,0,40,OCT25,2008,i
 12303402,"Bhatta, Mohan Prasad",NEP,M,,,,1849,0,20,OCT25,1990,i
@@ -75,7 +75,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12345067,"Bohara, Ajab",NEP,M,,,,1626,0,20,OCT25,2006,
 12369853,"Budathoki, Roshan",NEP,M,,,,1630,0,20,OCT25,1996,
 12343641,"Budha, Amar",NEP,M,,,,1681,0,20,OCT25,2005,
-12301353,"Budha, Shakti Ram",NEP,M,,,,1722,0,20,OCT25,1978,
+12301353,"Budha, Shakti Ram",NEP,M,,,,1725,0,20,OCT25,1978,
 12300683,"Byanjankar, Ratna",NEP,M,,,,1929,0,20,OCT25,1978,
 12310174,"Chakumani, Ganesh Kumar",NEP,M,,,,1731,0,20,OCT25,1970,i
 12303550,"Chamlagain, Madhav Prasad",NEP,M,,,,1902,0,20,OCT25,1980,i
@@ -98,7 +98,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12348112,"Chongwang, Hari",NEP,M,,,,1811,0,20,OCT25,1973,i
 12347396,"Chongwang, Harkha Bahadur",NEP,M,,,,1790,0,20,OCT25,1973,
 12315745,"Dahal, Aadesh",NEP,M,,NA,,1729,0,20,OCT25,2002,i
-12361518,"Dahal, Madan",NEP,M,,,,1690,0,40,OCT25,2009,
+12361518,"Dahal, Madan",NEP,M,,,,1691,0,40,OCT25,2009,
 12316393,"Dahal, Mission",NEP,M,,,,1796,0,20,OCT25,2004,
 12303887,"Dahal, Rajan",NEP,M,,,,1810,0,20,OCT25,1984,i
 12316636,"Dahal, Ram Chandra",NEP,M,,,,1714,0,20,OCT25,1970,i
@@ -106,7 +106,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12303275,"Dahal, Sushrut",NEP,M,CM,NA,,1990,0,20,OCT25,1995,
 12300802,"Dahal, Tikadatta",NEP,M,,,,1784,0,20,OCT25,1973,
 12348724,"Dahal, Ujwal",NEP,M,,,,1795,0,20,OCT25,2006,
-12300292,"Dangi, Mani Raj",NEP,M,,,,1807,0,20,OCT25,1964,
+12300292,"Dangi, Mani Raj",NEP,M,,,,1805,0,20,OCT25,1964,
 12303038,"Dangol, Bijaya",NEP,M,,,,1931,0,20,OCT25,1997,i
 12314978,"Dangol, Bikash",NEP,M,,,,1684,0,20,OCT25,1975,i
 12311294,"Dangol, Jiwan Man Singh",NEP,M,,,,1656,0,20,OCT25,1956,i
@@ -156,7 +156,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12300233,"Ghimire, Bishwo Bijay",NEP,M,,,,1835,0,20,OCT25,1970,
 12328421,"Ghimire, Jenish",NEP,M,,,,1741,0,20,OCT25,2004,i
 12327077,"Ghimire, Kapil",NEP,M,,,,1572,0,20,OCT25,2005,i
-12368920,"Ghimire, Lok Ratna",NEP,M,,,,1596,0,40,OCT25,2007,
+12368920,"Ghimire, Lok Ratna",NEP,M,,,,1597,0,40,OCT25,2007,
 12303909,"Ghimire, Prajwol",NEP,M,,,,1940,0,20,OCT25,1993,i
 12340936,"Ghimire, Rabin Raj",NEP,M,,,,1666,0,20,OCT25,1991,i
 12368938,"Ghimire, Raj Ratna",NEP,M,,,,1733,0,20,OCT25,2006,
@@ -167,7 +167,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12325449,"Giri, Bhagwan",NEP,M,,,,1584,0,20,OCT25,1994,i
 12330710,"Giri, Bishnu",NEP,M,,,,1555,0,20,OCT25,1986,
 12319490,"Giri, Dipesh",NEP,M,,"NI,FA",,1630,0,20,OCT25,2000,i
-12345466,"Giri, Isha",NEP,F,,,,1642,0,40,OCT25,2014,w
+12345466,"Giri, Isha",NEP,F,,,,1681,0,40,OCT25,2014,w
 12316644,"Gole, Lok Bahadur",NEP,M,,,,1777,0,20,OCT25,1980,
 12338214,"Gosain, Jitendra",NEP,M,,,,1747,0,20,OCT25,1983,i
 12354031,"Gupta, Aashish",NEP,M,,,,1746,0,40,OCT25,2009,i
@@ -198,11 +198,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12310204,"Jati, Bijay",NEP,M,,,,1876,0,20,OCT25,1994,
 12303100,"Jati, Bikram",NEP,M,,,,1823,0,20,OCT25,1990,
 12354414,"Jha, Anit",NEP,M,,,,1597,0,40,OCT25,2007,
-12300888,"Jora, Kirta Bahadur",NEP,M,,NA,,AFM,1718,0,OCT25,1976,
+12300888,"Jora, Kirta Bahadur",NEP,M,,NA,,1718,0,,OCT25,1976,
 12325104,"Joshi, Bibek",NEP,M,,,,1687,0,20,OCT25,2000,
 12360295,"Joshi, Bibhav",NEP,M,,,,1813,0,40,OCT25,2011,
-12300527,"Joshi, Deergha Raj",NEP,M,,,,1900,0,20,OCT25,1971,
-12356867,"Joshi, Gaurab",NEP,M,,,,1528,0,40,OCT25,2011,
+12300527,"Joshi, Deergha Raj",NEP,M,,,,1901,0,20,OCT25,1971,
+12356867,"Joshi, Gaurab",NEP,M,,,,1533,0,40,OCT25,2011,
 12317179,"Joshi, Gita",NEP,F,,NA,,1643,0,20,OCT25,2001,wi
 12360171,"Joshi, Hem Raj",NEP,M,,,,1829,0,20,OCT25,1984,
 12340987,"Joshi, Janak Raj",NEP,M,,,,1722,0,20,OCT25,1983,
@@ -217,7 +217,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12341711,"Kafle, Aadyanta",NEP,M,,,,1743,0,40,OCT25,2010,i
 12323985,"Kafle, Dayaram",NEP,M,,,,1654,0,20,OCT25,1987,i
 12343803,"Kafle, Dipendra",NEP,M,,,,1697,0,20,OCT25,1988,i
-12350389,"Kafle, Sujan",NEP,M,,,,1910,0,20,OCT25,2005,
+12350389,"Kafle, Sujan",NEP,M,,,,1912,0,20,OCT25,2005,
 12324205,"Kalauni, Nabin",NEP,M,,,,1850,0,20,OCT25,2001,i
 12325910,"Kambang, Kul Bahadur",NEP,M,,,,1587,0,20,OCT25,1956,i
 12315524,"Kandel, Laxmi",NEP,F,,,,1540,0,20,OCT25,1991,wi
@@ -227,7 +227,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12342394,"Karki, Bhim",NEP,M,,,,1808,0,20,OCT25,1974,i
 12301833,"Karki, D B",NEP,M,,,,1745,0,20,OCT25,1970,
 12367451,"Karki, Dammar",NEP,M,,,,1648,0,20,OCT25,1991,
-12303631,"Karki, Jay Bahadur",NEP,M,,NA,,ACM,1672,0,OCT25,1972,
+12303631,"Karki, Jay Bahadur",NEP,M,,NA,,1674,0,,OCT25,1972,
 12339890,"Karki, Kashiv",NEP,M,,,,1627,0,40,OCT25,2011,i
 12312541,"Karki, Kedar Bahadur",NEP,M,,,,1701,0,20,OCT25,1970,i
 12300900,"Karki, Rajiv",NEP,M,,NA,,1763,0,20,OCT25,1986,
@@ -236,7 +236,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12339903,"Karki, Santosh",NEP,M,,,,1587,0,20,OCT25,1989,i
 12368148,"Karki, Sugam",NEP,M,,,,1654,0,20,OCT25,2005,
 12304590,"Karmacharya, Dipendra",NEP,M,,,,1851,0,20,OCT25,1965,
-12302899,"Karmacharya, Upendra",NEP,M,,,,1832,0,20,OCT25,1976,
+12302899,"Karmacharya, Upendra",NEP,M,,,,1833,0,20,OCT25,1976,
 12300039,"Karmacharya,Punya Man",NEP,M,,,,1946,0,20,OCT25,1960,
 12338842,"Karn, Gyanesh Kumar",NEP,M,,,,1548,0,20,OCT25,1987,i
 12325465,"Karnajeet, Roshan",NEP,M,,,,1608,0,20,OCT25,1982,
@@ -334,8 +334,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12342424,"Magar, Prabin",NEP,M,,,,1680,0,20,OCT25,2001,i
 12336270,"Magar, Umesh",NEP,M,,,,1700,0,20,OCT25,1995,i
 12336289,"Magar, Yuwaraj",NEP,M,,,,1681,0,20,OCT25,1987,i
-12356972,"Mahara, Ayush Kumar",NEP,M,,,,1828,0,40,OCT25,2009,
-12335541,"Mahara, Partap",NEP,M,,,,1645,0,20,OCT25,1991,
+12356972,"Mahara, Ayush Kumar",NEP,M,,,,1830,0,40,OCT25,2009,
+12335541,"Mahara, Partap",NEP,M,,,,1645,0,,OCT25,1991,
 12334340,"Maharjan, Angel",NEP,F,,,,1555,0,40,OCT25,2011,wi
 12306762,"Maharjan, Arjun",NEP,M,,,,1798,0,20,OCT25,1972,i
 12306282,"Maharjan, Ashakaji",NEP,M,,,,1773,0,20,OCT25,1969,i
@@ -345,7 +345,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12305294,"Maharjan, Hari Bahadur",NEP,M,,,,1649,0,20,OCT25,1951,
 12302589,"Maharjan, Herakaji",NEP,M,,,,1908,0,20,OCT25,1967,i
 12363561,"Maharjan, Jiten",NEP,M,,,,1704,0,20,OCT25,1989,
-12334111,"Maharjan, Krijan",NEP,M,,,,ACM,1651,0,OCT25,1999,i
+12334111,"Maharjan, Krijan",NEP,M,,,,1651,0,,OCT25,1999,i
 12304522,"Maharjan, Krishna Man",NEP,M,,,,1930,0,20,OCT25,1964,
 12311308,"Maharjan, Kumar",NEP,M,,,,1792,0,20,OCT25,1982,
 12310050,"Maharjan, Mahesh",NEP,M,,,,1721,0,20,OCT25,0,i
@@ -383,7 +383,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12337110,"Mandal, Ramdev",NEP,M,,,,1574,0,20,OCT25,1969,
 12309753,"Manny, Khadak Bahadur",NEP,M,,,,1692,0,20,OCT25,1976,i
 12354570,"Mansur, Mannu",NEP,M,,,,1501,0,40,OCT25,2007,i
-12358886,"Marasini, Hridaya",NEP,M,,,,AGM,1620,0,OCT25,2006,
+12358886,"Marasini, Hridaya",NEP,M,,,,1621,0,,OCT25,2006,
 12314579,"Md. , Imran",NEP,M,,,,1688,0,20,OCT25,1990,i
 12308358,"Menyangbo, Rajkumar",NEP,M,,,,1734,0,20,OCT25,1979,i
 12358517,"Mijar, Binayak",NEP,M,,,,1630,0,40,OCT25,2008,
@@ -400,7 +400,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12310450,"Napit, Nirmal",NEP,M,,,,1679,0,20,OCT25,1981,
 12356492,"Napit, Sanjay",NEP,M,,,,1620,0,20,OCT25,1986,i
 12320137,"Nath, Kapildev",NEP,M,,,,1681,0,20,OCT25,1990,i
-12357006,"Nayak, Aditya",NEP,M,,,,1719,0,40,OCT25,2008,
+12357006,"Nayak, Aditya",NEP,M,,,,1725,0,40,OCT25,2008,
 12367818,"Nemkul, Sonim",NEP,M,,,,1577,0,40,OCT25,2010,
 12316822,"Nepal, Gaurab",NEP,M,,,,1660,0,20,OCT25,2003,i
 12300993,"Nepal, Prakash Chandra",NEP,M,,NA,,2025,0,20,OCT25,1990,
@@ -416,7 +416,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12306126,"Ninglekhu, Bhakta",NEP,M,,,,1824,0,20,OCT25,1973,i
 12306134,"Ninglekhu, Deu Kumar",NEP,M,,,,1767,0,20,OCT25,1968,i
 12300128,"Niraula, Bhupendra",NEP,M,CM,FI,,1934,0,20,OCT25,1981,i
-12341142,"Ojha, Nelisa",NEP,F,,,,1471,0,40,OCT25,2011,w
+12341142,"Ojha, Nelisa",NEP,F,,,,1470,0,40,OCT25,2011,w
 12328146,"Ojha, Prakash",NEP,M,,,,1825,0,20,OCT25,1973,i
 12328260,"Oli, Dhanram",NEP,M,,,,1663,0,20,OCT25,1976,i
 12327581,"Oli, Madan",NEP,M,,NA,,1693,0,20,OCT25,1997,
@@ -431,7 +431,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12304808,"Pandit, Suraj",NEP,M,,,,1864,0,20,OCT25,1987,i
 12368245,"Pangeni, Gauraw",NEP,M,,,,1495,0,20,OCT25,2004,
 12341150,"Pant, Hardik",NEP,M,,,,1547,0,40,OCT25,2014,
-12355836,"Pant, Kaivalya",NEP,M,,,,1688,0,40,OCT25,2012,
+12355836,"Pant, Kaivalya",NEP,M,,,,1687,0,40,OCT25,2012,
 12320145,"Pant, Nabraj",NEP,M,,NA,,1699,0,20,OCT25,1998,i
 12355844,"Pant, Pragya",NEP,F,,,,1579,0,40,OCT25,2010,w
 12357049,"Pant, Sarthak",NEP,M,,,,1780,0,40,OCT25,2011,
@@ -561,17 +561,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12315672,"Sedhai, Naman",NEP,F,,,,1477,0,20,OCT25,2001,wi
 12316873,"Sendang, Ram Kumar",NEP,M,,,,1728,0,20,OCT25,1999,i
 12311839,"Seth, Laxman Kumar",NEP,M,,NA,,1735,0,20,OCT25,1971,i
-12339504,"Shah, Abheek",NEP,M,,,,AIM,1829,0,OCT25,2009,
+12339504,"Shah, Abheek",NEP,M,,,,1829,0,,OCT25,2009,
 12317845,"Shah, Anil",NEP,M,,,,1788,0,20,OCT25,1996,i
 12315427,"Shah, Anju",NEP,F,,NA,,1632,0,20,OCT25,2001,wi
 12369381,"Shah, Ansh",NEP,M,,,,1483,0,40,OCT25,2013,
 12366684,"Shah, Kiran Kumar",NEP,M,,,,1554,0,20,OCT25,2005,
 12315133,"Shah, Raj Kumar",NEP,M,,,,1635,0,20,OCT25,2001,i
 12334413,"Shah, Satish",NEP,M,,,,1621,0,20,OCT25,2005,i
-12308439,"Shah, Umesh",NEP,M,,,,1725,0,20,OCT25,1991,
+12308439,"Shah, Umesh",NEP,M,,,,1724,0,20,OCT25,1991,
 12304611,"Shahi, Gagan Bahadur",NEP,M,,,,1657,0,20,OCT25,0,i
 12315141,"Shahi, Rajendra",NEP,M,,,,1771,0,20,OCT25,1972,i
-12363839,"Shahi, Saurav",NEP,M,,,,1560,0,40,OCT25,2012,
+12363839,"Shahi, Saurav",NEP,M,,,,1559,0,40,OCT25,2012,
 12311677,"Shakya, Amin",NEP,M,,,,1907,0,20,OCT25,1997,i
 12314293,"Shakya, Mahendra",NEP,M,,,,1843,0,20,OCT25,1973,i
 12301078,"Shakya, Meyak Raj",NEP,M,,,,1886,0,20,OCT25,1970,i
@@ -587,7 +587,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12369420,"Sherpa, Olo Tenzi",NEP,M,,,,1881,0,20,OCT25,2006,
 12322946,"Shiwakoti, Kabindra",NEP,M,,,,1681,0,20,OCT25,2001,
 12355380,"Shrestha, Aachal Man",NEP,M,,,,1688,0,20,OCT25,1986,i
-12328774,"Shrestha, Abishrey",NEP,M,,,,1868,0,20,OCT25,2005,i
+12328774,"Shrestha, Abishrey",NEP,M,,,,1870,0,20,OCT25,2005,i
 12306401,"Shrestha, Anish",NEP,M,,,,1768,0,20,OCT25,1975,i
 12327379,"Shrestha, Anjan",NEP,M,,,,1713,0,20,OCT25,1993,
 12306533,"Shrestha, Ashok Mohan",NEP,M,,,,1783,0,20,OCT25,1970,
@@ -688,7 +688,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12331783,"Tamang, Suraj",NEP,M,,,,1681,0,20,OCT25,1995,i
 12314536,"Tamata, Bijay",NEP,M,,,,1579,0,20,OCT25,2004,
 12303240,"Tamrakar, Jaganath",NEP,M,,,,1854,0,20,OCT25,1963,
-12316296,"Tamrakar, Keshav",NEP,M,,,,1595,0,20,OCT25,1956,
+12316296,"Tamrakar, Keshav",NEP,M,,,,1586,0,20,OCT25,1956,
 12302732,"Tamrakar, Raju",NEP,M,,,,1775,0,20,OCT25,1972,i
 5021189,"Tandukar, Nabin",NEP,M,CM,,,1894,0,20,OCT25,1960,
 12356700,"Tenzi, Olo",NEP,M,,,,1598,0,20,OCT25,2006,i
@@ -696,7 +696,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12303844,"Thagunna, Chetan Kumar",NEP,M,,,,1810,0,20,OCT25,1990,i
 12316547,"Thagunna, Kusum",NEP,F,,,,1483,0,20,OCT25,1996,wi
 12302228,"Thaiba, Bijan Man",NEP,M,,,,1831,0,20,OCT25,1999,i
-12330450,"Thakur, Birendra Kumar",NEP,M,,,,1581,0,20,OCT25,1970,
+12330450,"Thakur, Birendra Kumar",NEP,M,,,,1582,0,20,OCT25,1970,
 12350028,"Thapa, Abhay Singh",NEP,M,,,,1576,0,20,OCT25,2001,
 12328251,"Thapa, Anupama",NEP,F,,,,1465,0,20,OCT25,2006,wi
 12338770,"Thapa, Binay",NEP,M,,,,1660,0,20,OCT25,1980,
@@ -711,7 +711,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12304999,"Thapa, Rabindra Bahadur",NEP,M,,,,1828,0,20,OCT25,1973,i
 12340197,"Thapa, Rishon",NEP,M,,,,1784,0,20,OCT25,2005,
 12301450,"Thapa, Shanta",NEP,F,,,,1690,0,20,OCT25,1993,wi
-12361038,"Thapa, Subhandeep",NEP,M,,,,1691,0,40,OCT25,2010,
+12361038,"Thapa, Subhandeep",NEP,M,,,,1690,0,40,OCT25,2010,
 12303135,"Thing, Bibek",NEP,M,FM,"FI,NA",,2146,8,20,OCT25,1995,
 12310930,"Thing, Suruchee",NEP,F,WCM,WCM,,1651,0,20,OCT25,1999,wi
 12316121,"Timalsina, Binod",NEP,M,,,,1576,0,20,OCT25,1992,

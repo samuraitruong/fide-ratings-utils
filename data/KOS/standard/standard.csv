@@ -10,7 +10,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22101527,"Alidema, Ismet",KOS,M,,,,1893,0,20,OCT25,1960,
 939609,"Alishani, Ibrahim",KOS,M,,,,2082,0,20,OCT25,1972,
 22101667,"Aliti, Rrahman",KOS,M,,,,1946,0,20,OCT25,1956,
-22101292,"Aliu, Arlinda",KOS,F,,,,1747,0,20,OCT25,1998,w
+22101292,"Aliu, Arlinda",KOS,F,,,,1748,0,20,OCT25,1998,w
 4701917,"Aliu, Besnik",KOS,M,,,,1976,0,20,OCT25,1965,
 906581,"Asani, Adem",KOS,M,,,,1991,0,20,OCT25,1965,i
 4701674,"Asllani, Ibrahim",KOS,M,,,,2022,0,20,OCT25,1973,i
@@ -22,16 +22,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 933465,"Bahtijari, Bashkim",KOS,M,,,,2077,0,20,OCT25,1956,
 3600114,"Bahtiri, Sabri",KOS,M,,,,2067,0,40,OCT25,1969,i
 1307711,"Bajraktari, Perparim",KOS,M,,,,2101,1,20,OCT25,1974,
-4702506,"Bardhi, Valmor",KOS,M,,,,AIM,2124,0,OCT25,1976,
-22106812,"Basha, Lir",KOS,M,,,,2005,0,40,OCT25,2010,
+4702506,"Bardhi, Valmor",KOS,M,,,,2124,0,,OCT25,1976,
+22106812,"Basha, Lir",KOS,M,,,,2006,0,40,OCT25,2010,
 22100814,"Basha, Sedat",KOS,M,,,,2063,0,20,OCT25,1965,
 22100504,"Bashota, Ekrem",KOS,M,,,,1966,0,20,OCT25,1974,i
-22100369,"Behrami, Liridon",KOS,M,,,,1876,0,40,OCT25,1996,
+22100369,"Behrami, Liridon",KOS,M,,,,1877,0,40,OCT25,1996,
 22101276,"Bejta, Aladin",KOS,M,,,,1765,0,20,OCT25,1964,
 22100458,"Bellanica, Afrim",KOS,M,,,,1894,0,20,OCT25,1965,
 22101160,"Beqa, Naim",KOS,M,,,,2003,0,40,OCT25,1972,
 22102426,"Berbatovci, Arsim",KOS,M,,,,1809,0,40,OCT25,1962,i
-22103155,"Berisha, Agon",KOS,M,,,,1983,0,40,OCT25,1995,
+22103155,"Berisha, Agon",KOS,M,,,,1987,0,40,OCT25,1995,
 22100970,"Berisha, Besim",KOS,M,,,,1910,0,20,OCT25,1969,
 4702492,"Berisha, Besnik",KOS,M,,IA,,1976,0,40,OCT25,1963,i
 3600122,"Berisha, Enver",KOS,M,FM,,,2021,0,20,OCT25,1953,
@@ -94,7 +94,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22103813,"Gashi, Gani",KOS,M,,,,1791,0,20,OCT25,1972,
 22105646,"Gashi, Hasan",KOS,M,,,,1684,0,40,OCT25,1958,i
 22100555,"Gashi, Isak",KOS,M,,,,1832,0,20,OCT25,1973,
-22105824,"Gashi, Naser",KOS,M,,,,1613,0,40,OCT25,1966,
+22105824,"Gashi, Naser",KOS,M,,,,1615,0,40,OCT25,1966,
 22100997,"Gashi, Shyqri",KOS,M,,,,1976,0,20,OCT25,1952,
 22100326,"Gashi, Visar",KOS,M,,,,1857,0,40,OCT25,1986,i
 4701925,"Gerguri, Arsim",KOS,M,,,,1938,0,20,OCT25,1968,
@@ -121,7 +121,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4702093,"Haxhimehmeti, Vahedin",KOS,M,,,,2055,0,20,OCT25,1966,
 22100563,"Haxhiu, Jakup",KOS,M,,,,2001,0,40,OCT25,1975,
 22100601,"Helshani, Sheremet",KOS,M,,,,1957,0,20,OCT25,1976,
-22108343,"Hoda, Zgjim",KOS,M,,,,1571,0,40,OCT25,2011,
+22108343,"Hoda, Zgjim",KOS,M,,,,1570,0,40,OCT25,2011,
 22101250,"Hoxha, Abdyl",KOS,M,,,,2071,0,20,OCT25,1965,i
 22103805,"Hoxha, Daut",KOS,M,,,,1494,0,40,OCT25,1976,i
 4700805,"Hoxha, Murat",KOS,M,,,,1912,0,40,OCT25,1969,i
@@ -146,7 +146,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3607844,"Jupa, Ilirjan",KOS,M,,,,2034,0,20,OCT25,1975,
 22104402,"Jusufi, Ahmet",KOS,M,,,,2018,6,20,OCT25,2006,
 22105883,"Kamberi, Mergim",KOS,M,,,,1948,0,40,OCT25,1996,i
-22106960,"Karavidaj, Eronita",KOS,F,,NA,,1604,0,40,OCT25,1996,w
+22106960,"Karavidaj, Eronita",KOS,F,,NA,,1606,0,40,OCT25,1996,w
 22105700,"Karimani, Fitim",KOS,M,,,,1904,0,40,OCT25,1975,i
 22105921,"Kastrati, Arianit",KOS,M,,,,1756,0,40,OCT25,1997,i
 22104224,"Kastrati, Kastriot",KOS,M,,,,1950,0,20,OCT25,2000,i
@@ -176,7 +176,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22101870,"Lalinovci, Gani",KOS,M,,,,1839,0,40,OCT25,1971,i
 22106634,"Lezi, Naim",KOS,M,,,,1563,0,40,OCT25,1961,i
 22100296,"Lika, Fisnik",KOS,M,,,,1948,0,20,OCT25,1991,
-22105204,"Limanmera, Rejana",KOS,F,,,,1517,5,40,OCT25,2009,w
+22105204,"Limanmera, Rejana",KOS,F,,,,1515,5,40,OCT25,2009,w
 22101950,"Llapashtica, Zekirja",KOS,M,,,,1969,0,40,OCT25,1969,i
 22105948,"Lukiq, Edison",KOS,M,,,,1912,0,40,OCT25,2002,i
 4701534,"Mahmuti, Ajet",KOS,M,,,,2015,0,20,OCT25,1963,i
@@ -203,7 +203,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22101403,"Mujovi, Mehmedalia",KOS,M,,,,1863,0,40,OCT25,1958,i
 22100830,"Mulolli, Ali",KOS,M,,,,1947,0,40,OCT25,1966,i
 22100164,"Murati, Ramus",KOS,M,,,,1911,0,20,OCT25,1974,
-22101683,"Murseli, Ujup",KOS,M,,,,AFM,1916,0,OCT25,1964,i
+22101683,"Murseli, Ujup",KOS,M,,,,1916,0,,OCT25,1964,i
 22100385,"Musa, Bahri",KOS,M,,,,1938,0,20,OCT25,1973,
 22103996,"Musa, Xhelal",KOS,M,,,,1867,0,40,OCT25,1968,
 22106022,"Music, Tarik",KOS,M,,,,1857,0,40,OCT25,1996,
@@ -214,8 +214,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14400731,"Osmani, Remzi",KOS,M,,,,2163,0,20,OCT25,1957,i
 22100130,"Pangjaj, Xhemajl",KOS,M,,,,1956,0,40,OCT25,1954,i
 4702336,"Pirraku, Mergim",KOS,M,,,,1862,0,20,OCT25,1986,i
-22108289,"Pllana, Alba",KOS,F,,,,1400,5,40,OCT25,2012,w
-22108254,"Pllana, Jon",KOS,M,,,,1444,0,40,OCT25,2015,
+22108254,"Pllana, Jon",KOS,M,,,,1480,0,40,OCT25,2015,
 22101438,"Prenaj, Veton",KOS,M,,,,1857,0,40,OCT25,2002,i
 22102515,"Prenku, Behlul",KOS,M,,,,1999,0,40,OCT25,1975,i
 953890,"Prokshaj, Imer",KOS,M,,,,1978,0,20,OCT25,1960,i
@@ -227,13 +226,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22101446,"Rama, Adem",KOS,M,,,,1795,0,40,OCT25,2000,i
 22100482,"Rama, Bajram",KOS,M,,,,1904,0,40,OCT25,1964,
 22101063,"Rama, Rame",KOS,M,,,,1992,0,20,OCT25,1969,
-22107550,"Ramiqi, Driton",KOS,M,,,,1732,0,40,OCT25,1983,
+22107550,"Ramiqi, Driton",KOS,M,,,,1733,0,40,OCT25,1983,
 22100725,"Rashica, Drilon",KOS,M,,,,1853,0,40,OCT25,2001,i
-22105239,"Recica, Jona",KOS,F,,,,1766,6,40,OCT25,2008,w
+22105239,"Recica, Jona",KOS,F,,,,1767,6,40,OCT25,2008,w
 22105255,"Recica, Rron",KOS,M,,,,1688,5,40,OCT25,2011,
 22102892,"Redenica, Elbion",KOS,M,,,,1719,0,40,OCT25,2004,i
 22101071,"Rexhaj, Imer",KOS,M,,,,1983,0,40,OCT25,1957,
-22106626,"Rexhepi, Dua",KOS,F,,,,1476,0,40,OCT25,2008,w
+22106626,"Rexhepi, Dua",KOS,F,,,,1487,0,40,OCT25,2008,w
 22106693,"Rexhepi, Nasuf",KOS,M,,,,1949,0,40,OCT25,1988,i
 22101551,"Rexhepi, Qamil",KOS,M,,,,1892,0,40,OCT25,1967,
 22106120,"Rraqi, Rrahim",KOS,M,,,,1730,0,40,OCT25,1966,i
@@ -248,7 +247,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1308424,"Sadrija, Enver",KOS,M,,,,2173,0,20,OCT25,1972,
 939137,"Sahitaj, Naim",KOS,M,,,,2204,0,20,OCT25,1973,
 4702395,"Sahiti, Jahjush",KOS,M,,,,1997,0,20,OCT25,1967,
-22101080,"Saiti, Eldit",KOS,M,,,,AIM,2101,0,OCT25,1987,
+22101080,"Saiti, Eldit",KOS,M,,,,2101,0,,OCT25,1987,
 22105956,"Salihu, Lavderim",KOS,M,,,,1836,0,40,OCT25,1997,i
 22104658,"Salihu, Ramadan",KOS,M,,,,1604,0,40,OCT25,1964,i
 935476,"Salihu, Sami",KOS,M,,,,2166,0,20,OCT25,1962,
@@ -276,7 +275,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22105050,"Shala, Nexhmi",KOS,M,,,,1947,0,40,OCT25,1952,
 3612279,"Shala, Shemsi",KOS,M,,,,1885,0,40,OCT25,1959,i
 22102396,"Sharku, Avdarmon",KOS,M,,,,1893,0,40,OCT25,1972,i
-22104593,"Sharku, Elma",KOS,F,,,,1471,0,40,OCT25,2004,wi
+22104593,"Sharku, Elma",KOS,F,,,,1477,0,40,OCT25,2004,wi
 22100091,"Sharku, Enesa",KOS,F,,,,1461,0,20,OCT25,2002,wi
 22105174,"Sharku, Rona",KOS,F,,,,1409,0,40,OCT25,2009,wi
 22105182,"Sharku, Uvejs",KOS,M,,,,1591,5,40,OCT25,2012,
@@ -284,7 +283,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22101098,"Shehu, Mulaim",KOS,M,,,,1921,0,40,OCT25,1956,i
 22101799,"Shehu, Sejfulla",KOS,M,,,,1963,0,40,OCT25,1953,i
 22100628,"Sherifi, Shemsedin",KOS,M,,,,1937,0,20,OCT25,1958,
-22101764,"Shita, Bujar, Dr.",KOS,M,,NA,,AIM,1828,0,OCT25,1959,
+22101764,"Shita, Bujar, Dr.",KOS,M,,NA,,1828,0,,OCT25,1959,
 22107703,"Shkololli, Loant",KOS,M,,,,1688,0,40,OCT25,2009,
 22103830,"Shkurti, Bashkim",KOS,M,,,,2009,0,20,OCT25,1953,
 22103570,"Shtavica, Alaudin",KOS,M,,,,1868,6,40,OCT25,2007,
@@ -304,7 +303,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22105603,"Thaqi, Avni",KOS,M,,,,1890,0,40,OCT25,1968,i
 22102744,"Tishuki, Daut",KOS,M,,,,1735,0,20,OCT25,1959,
 22100709,"Topalli, Ismet",KOS,M,,,,1899,0,20,OCT25,1960,
-22105301,"Uka, Vigan",KOS,M,,,,AFM,1729,0,OCT25,2001,i
+22105301,"Uka, Vigan",KOS,M,,,,1729,0,,OCT25,2001,i
 22101705,"Uruci, Ardit",KOS,M,,,,1964,0,20,OCT25,2002,
 22100717,"Uruci, Besim",KOS,M,,,,2093,0,20,OCT25,1973,
 22100199,"Uruci, Endrit",KOS,M,FM,,,2347,0,20,OCT25,2000,

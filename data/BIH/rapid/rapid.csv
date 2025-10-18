@@ -70,7 +70,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 904422,"Babic, Drasko",BIH,M,FM,,,2236,0,20,OCT25,1959,i
 14404419,"Babic, Dusan",BIH,M,,,,1875,0,20,OCT25,1958,
 14422891,"Babic, Dusko",BIH,M,,,,1821,0,20,OCT25,1961,i
-14423600,"Babic, Eldin",BIH,M,,,,1639,0,40,OCT25,2013,
+14423600,"Babic, Eldin",BIH,M,,,,1638,0,40,OCT25,2013,
 14441071,"Babic, Gojko",BIH,M,,,,1458,0,40,OCT25,1948,i
 14440806,"Babic, Luka",BIH,M,,,,1783,0,40,OCT25,2003,
 14414937,"Babic, Masa",BIH,F,WFM,WFM,,2182,0,40,OCT25,2008,w
@@ -147,7 +147,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14417502,"Becirovic, Velid",BIH,M,,,,1848,0,20,OCT25,1996,i
 14417510,"Becirovic, Zaim",BIH,M,,,,1878,0,20,OCT25,1964,i
 14421992,"Beganovic, Emil",BIH,M,,,,1820,0,20,OCT25,2002,
-14405482,"Beganovic, Enver",BIH,M,,,,AIM,2058,0,OCT25,1960,
+14405482,"Beganovic, Enver",BIH,M,,,,2058,0,,OCT25,1960,
 14433648,"Beganovic, Nedim",BIH,M,,,,1799,0,40,OCT25,2007,i
 14426323,"Begic, Leonid",BIH,M,,,,1606,0,20,OCT25,1997,i
 14424614,"Begic, Mujo",BIH,M,,,,1954,9,20,OCT25,1975,
@@ -168,6 +168,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14416018,"Bender, Hajrudin",BIH,M,,,,1854,0,20,OCT25,1952,i
 14434776,"Berbic, Amar",BIH,M,,,,1771,0,40,OCT25,2003,i
 14426609,"Beronja, Mirko",BIH,M,,,,1727,0,20,OCT25,1965,
+14439085,"Beronja, Sofija",BIH,F,,,,1418,6,40,OCT25,2014,w
 14407191,"Bertovic, Josip",BIH,M,,,,1568,0,20,OCT25,1996,
 14411164,"Bertovic, Milena",BIH,F,,,,1605,0,20,OCT25,2001,wi
 14435756,"Besic, Edin",BIH,M,,,,1789,0,40,OCT25,1985,i
@@ -264,7 +265,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14402106,"Brkic, Milan",BIH,M,,,,2035,0,20,OCT25,1967,i
 14416875,"Brkic, Miroslav",BIH,M,,,,1782,0,20,OCT25,1984,
 14420767,"Brnjos, Ognjen",BIH,M,,,,1646,0,40,OCT25,2006,i
-14437449,"Bruic, Djordje",BIH,M,,,,1431,5,40,OCT25,2014,
 14404001,"Bucan, Eldin",BIH,M,,,,2155,0,20,OCT25,1973,
 14405172,"Bucevac, Ljubisa",BIH,M,,,,1962,0,20,OCT25,1972,i
 14436663,"Budes, Filip",BIH,M,,,,1437,0,40,OCT25,2008,i
@@ -389,7 +389,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14436388,"Cosic, Ivan",BIH,M,,,,1784,0,40,OCT25,2006,i
 14443279,"Cosic, Josip",BIH,M,,,,1980,0,40,OCT25,1977,
 14430142,"Cosic, Marko",BIH,M,,,,1703,0,20,OCT25,1994,i
-14429926,"Cosic, Muamer",BIH,M,,,,AIM,1918,0,OCT25,1973,i
+14429926,"Cosic, Muamer",BIH,M,,,,1918,0,,OCT25,1973,i
 14431947,"Cosic, Tarik",BIH,M,,,,1621,0,40,OCT25,2009,i
 14419181,"Cosic, Vedin",BIH,M,,,,1804,0,20,OCT25,2000,i
 14417383,"Coso, Mustafa",BIH,M,,,,1920,0,20,OCT25,1953,i
@@ -548,6 +548,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14412543,"Dragisic, Dragan",BIH,M,,,,1816,0,20,OCT25,1996,
 14412551,"Dragisic, Dusko",BIH,M,,,,1756,0,20,OCT25,1967,
 14420406,"Dragisic, Veljko",BIH,M,,,,1682,0,20,OCT25,1958,
+14442728,"Dragolj, Ajnur",BIH,M,,,,1438,10,40,OCT25,2014,
 14441365,"Dragoljevic, Relja",BIH,M,,,,1417,0,40,OCT25,2011,
 14436779,"Drakulic, Jovan",BIH,M,,,,1496,0,40,OCT25,2017,
 14415569,"Draskovic, Vaso",BIH,M,,,,1717,0,20,OCT25,1955,i
@@ -632,7 +633,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14426080,"Gajic, Zeljko",BIH,M,,,,1618,0,20,OCT25,1962,
 923869,"Gajic, Zoran",BIH,M,,,,2075,0,20,OCT25,1968,
 14419394,"Gakovic, Dalibor",BIH,M,,,,1847,0,20,OCT25,1978,i
-14404907,"Galic, David",BIH,M,,,,AFM,1789,0,OCT25,1991,
+14404907,"Galic, David",BIH,M,,,,1789,0,,OCT25,1991,
 14411210,"Galic, Filip",BIH,M,,,,1872,0,20,OCT25,1996,
 14424169,"Galic, Lucija",BIH,F,,,,1774,0,40,OCT25,2013,w
 14412136,"Galic, Mihajlo",BIH,M,,,,1711,0,20,OCT25,1937,i
@@ -699,7 +700,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14427460,"Grujicic, Radivoja",BIH,M,,,,1657,0,20,OCT25,1974,i
 14426706,"Grujicic, Sasa",BIH,M,,,,1552,0,20,OCT25,1986,
 14408473,"Gubo, Filip",BIH,M,,,,1839,0,20,OCT25,1997,i
-14428369,"Gucanin Gazibaric, Bruno",BIH,M,,,,AFM,1668,0,OCT25,1990,i
+14428369,"Gucanin Gazibaric, Bruno",BIH,M,,,,1668,0,,OCT25,1990,i
+14441977,"Gunjevic, Georgije",BIH,M,,,,1429,5,40,OCT25,2014,
 14410818,"Gusic, Dejan",BIH,M,,,,2046,0,20,OCT25,1986,i
 14438941,"Gusic, Elma",BIH,F,,,,1484,0,40,OCT25,2006,w
 14409348,"Guzvic, Danko",BIH,M,,,,1974,0,20,OCT25,1990,i
@@ -768,6 +770,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14428873,"Hasecic, Benjamin",BIH,M,,,,1600,0,20,OCT25,1989,i
 14415798,"Hasic, Muharem",BIH,M,,,,1850,0,20,OCT25,1956,i
 14401231,"Haskovic, Salih",BIH,M,,,,1999,9,20,OCT25,1958,
+14440121,"Hasovic, Bakir",BIH,M,,,,1529,6,40,OCT25,2011,
 14405768,"Hasovic, Edin",BIH,M,,,,1939,0,20,OCT25,1981,i
 14440130,"Hasovic, Emel",BIH,M,,,,1587,0,40,OCT25,2008,
 14403900,"Hasovic, Rasim",BIH,M,,,,1845,0,20,OCT25,1950,i
@@ -812,7 +815,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14415020,"Hujdur, Emir",BIH,M,,,,1842,0,40,OCT25,2006,i
 14415046,"Hujdur, Ramiz",BIH,M,,,,2031,0,20,OCT25,1974,i
 14428784,"Huremagic, Edin",BIH,M,,,,2037,0,20,OCT25,1973,i
-14412020,"Huremovic, Elmedin",BIH,M,,,,AFM,2017,0,OCT25,1994,
+14412020,"Huremovic, Elmedin",BIH,M,,,,2017,0,,OCT25,1994,
 14406632,"Huremovic, Fadil",BIH,M,,,,1810,0,20,OCT25,1966,
 14440970,"Husanovic, Edi",BIH,M,,,,1627,0,40,OCT25,2015,
 14420090,"Husic, Haris",BIH,M,,,,1945,0,40,OCT25,1984,i
@@ -1077,6 +1080,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14404230,"Kokanovic, Zana",BIH,F,,,,1720,0,20,OCT25,1998,wi
 14404087,"Kokorus, Sasa",BIH,M,,,,1935,0,20,OCT25,1957,i
 14402980,"Kokotovic, Aleksandar",BIH,M,,,,2057,0,20,OCT25,1994,i
+14442612,"Koleska, David",BIH,M,,,,1404,7,40,OCT25,2015,
 14421801,"Koluh, Mufid",BIH,M,,,,1722,0,20,OCT25,1997,i
 14442400,"Kolundzija, Dragan",BIH,M,,,,1803,0,40,OCT25,1984,
 14402076,"Komadaric, Edin",BIH,M,,,,2144,0,20,OCT25,1965,i
@@ -1244,7 +1248,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14407418,"Lukic, Zeljko",BIH,M,,,,1841,7,20,OCT25,1964,
 14425769,"Lulic, Alija",BIH,M,,,,1827,0,20,OCT25,1963,
 14412250,"Macanovic, Suad",BIH,M,,,,1804,0,40,OCT25,1958,i
-14436787,"Macanovic, Todor",BIH,M,,,,1412,5,40,OCT25,2016,
 14429845,"Madjo, Alen",BIH,M,,,,1531,0,20,OCT25,1981,i
 14438763,"Maduna, Tin",BIH,M,,,,1782,6,40,OCT25,2009,
 14433613,"Maglic, Kamer",BIH,M,,,,1620,0,40,OCT25,2008,i
@@ -1262,6 +1265,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14415003,"Mahmutovic, Zikrija",BIH,M,,,,1844,0,20,OCT25,1950,i
 14413698,"Mahmutspahic, Hazim",BIH,M,,,,1906,0,20,OCT25,1964,
 14443325,"Mahovkic, Damir",BIH,M,,,,1922,0,40,OCT25,1978,
+14439204,"Majic, Jakov",BIH,M,,,,1468,8,40,OCT25,2013,
 14422557,"Majkic, Filip",BIH,M,,,,1545,0,40,OCT25,2008,i
 14420376,"Majkic, Zoran",BIH,M,,,,1687,0,20,OCT25,1975,
 14427087,"Majstorovic, Dragan",BIH,M,,,,1549,0,20,OCT25,1984,i
@@ -1458,6 +1462,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14433729,"Mitrovic, Lazar A",BIH,M,,,,1662,0,40,OCT25,2010,
 14432595,"Mitrovic, Maksim",BIH,M,,,,1579,0,40,OCT25,2009,
 14440482,"Mitrovic, Nemanja",BIH,M,,,,1423,0,40,OCT25,2015,
+14441985,"Mitrovic, Slavisa",BIH,M,,,,1415,6,40,OCT25,2014,
 14431220,"Mitrovic, Stefan A",BIH,M,,,,2036,0,40,OCT25,2010,
 14444160,"Mitrovic, Vladislav",BIH,M,,,,1746,0,40,OCT25,1979,
 14419432,"Mladjenovic, Milenko",BIH,M,,,,1774,0,20,OCT25,1949,i
@@ -1480,7 +1485,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14402947,"Muhic, Nagib",BIH,M,,,,2013,0,20,OCT25,1961,i
 14604434,"Muhic, Sulejman",BIH,M,,,,1951,0,20,OCT25,1962,
 14425726,"Muhic, Zijad",BIH,M,,,,1810,0,20,OCT25,1970,
-14408139,"Mujacic, Haris",BIH,M,,,,AFM,2020,0,OCT25,1987,
+14408139,"Mujacic, Haris",BIH,M,,,,2020,0,,OCT25,1987,
 14432455,"Mujadzic, Amar",BIH,M,,,,1556,0,40,OCT25,2007,i
 14412098,"Mujagic, Muhamed",BIH,M,,,,2165,0,20,OCT25,1988,
 14406837,"Mujagic, Nusret",BIH,M,,,,1868,0,40,OCT25,1961,
@@ -1534,6 +1539,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14427591,"Namas, Tarik",BIH,M,,,,1839,0,20,OCT25,1981,i
 14422573,"Narancic, Aleksandra",BIH,F,,,,1556,0,20,OCT25,2003,wi
 901512,"Narancic, Vlado",BIH,M,FM,,,2259,0,10,OCT25,1965,
+14441381,"Naric, Nikola",BIH,M,,,,1443,7,40,OCT25,2010,
 14430770,"Nedakovic, Ana",BIH,F,,,,1693,7,40,OCT25,2012,w
 14429950,"Nedic, Gabriel",BIH,M,,,,1621,14,40,OCT25,2015,
 14422964,"Nedic, Matej",BIH,M,,,,1740,7,40,OCT25,2008,
@@ -1683,7 +1689,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14436728,"Pepic, Vasilije",BIH,M,,,,1440,0,40,OCT25,2009,
 14434881,"Peric, Aleksej",BIH,M,,,,1520,0,40,OCT25,2016,
 14412888,"Peric, David",BIH,M,,,,1768,0,20,OCT25,2003,i
-9217902,"Peric, David M",BIH,M,,,,AFM,2068,7,OCT25,2014,
+9217902,"Peric, David M",BIH,M,,,,2068,7,,OCT25,2014,
 14414503,"Peric, Jakov",BIH,M,,,,1541,0,40,OCT25,2009,
 14413590,"Peric, Lalo",BIH,M,,,,1713,0,20,OCT25,1973,i
 14439913,"Peric, Milenko",BIH,M,,,,1810,0,40,OCT25,1965,i
@@ -1726,6 +1732,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14414210,"Planic, Milan",BIH,M,,,,1930,0,20,OCT25,1965,i
 14432285,"Planinic, Ivo",BIH,M,,,,1744,0,40,OCT25,2008,
 14421208,"Plavsic, Dusan",BIH,M,,,,1739,0,20,OCT25,1994,i
+14435578,"Plavsic, Lazar",BIH,M,,,,1436,5,40,OCT25,2014,
 14405016,"Pleh, Semir",BIH,M,,,,1913,0,20,OCT25,1969,
 14415712,"Pojavnik, Marko",BIH,M,,,,1744,0,20,OCT25,1994,i
 14412144,"Poletan, Ranko",BIH,M,,,,1936,0,20,OCT25,1954,i
@@ -1821,7 +1828,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14413639,"Rakita, Jandrija",BIH,M,,,,1712,0,20,OCT25,1954,
 14425424,"Rakovic, Dragan",BIH,M,,,,1594,0,20,OCT25,1964,
 14403056,"Ramdedovic, Delija",BIH,M,,,,1895,0,20,OCT25,1959,i
-14429225,"Ramdedovic, Eldin",BIH,M,,,,ACM,1683,0,OCT25,2005,i
+14429225,"Ramdedovic, Eldin",BIH,M,,,,1683,0,,OCT25,2005,i
 14402432,"Ramic, Mirnes",BIH,M,,,,2064,0,20,OCT25,1988,i
 14416204,"Ramic, Sead",BIH,M,,,,1804,0,20,OCT25,1962,i
 14411393,"Raos, Josip",BIH,M,,,,1777,0,20,OCT25,1950,
@@ -1866,9 +1873,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14433176,"Ruzicic, Zoran",BIH,M,,,,1921,0,20,OCT25,1966,
 14406667,"Ruznic, Ramiz",BIH,M,,,,2030,9,20,OCT25,1961,
 14411067,"Sabanagic, Mirza",BIH,M,,,,1803,0,20,OCT25,1998,i
-14428946,"Sabanovic, Admir",BIH,M,,,,AIM,1894,9,OCT25,1994,
+14428946,"Sabanovic, Admir",BIH,M,,,,1894,9,,OCT25,1994,
 14420040,"Sabic, Almir",BIH,M,,,,1686,0,20,OCT25,1964,i
-14411776,"Sabic, Medin",BIH,M,,,,AFM,1849,0,OCT25,1997,
+14411776,"Sabic, Medin",BIH,M,,,,1849,0,,OCT25,1997,
 14403838,"Sabic, Muris",BIH,M,,,,1908,0,20,OCT25,1955,
 14443422,"Sabovic, Selver",BIH,M,,,,1879,0,40,OCT25,1959,
 14441357,"Sacic, Adel",BIH,M,,,,1525,0,40,OCT25,2013,i
@@ -1951,8 +1958,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14407949,"Selimovic, Amir",BIH,M,,,,2000,0,20,OCT25,1981,
 14442930,"Selimovic, Emrah",BIH,M,,,,1797,0,40,OCT25,2005,
 14404133,"Selimovic, Mahir",BIH,M,,,,1957,0,20,OCT25,1976,i
-14442884,"Selimovic, Munib",BIH,M,,,,1683,0,40,OCT25,1966,
 14436647,"Selimovic, Munib",BIH,M,,,,1587,0,40,OCT25,1996,i
+14442884,"Selimovic, Munib",BIH,M,,,,1683,0,40,OCT25,1966,
 14405989,"Selimovic, Sakib",BIH,M,,,,1924,0,20,OCT25,1946,i
 14419297,"Selman, Mahmut",BIH,M,,,,1828,0,20,OCT25,1949,i
 14426145,"Sendic, Rizah",BIH,M,,,,1802,0,20,OCT25,1946,
@@ -2000,6 +2007,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14437970,"Simic, Ognjen",BIH,M,,,,1606,0,40,OCT25,2009,
 14417766,"Simic, Petar",BIH,M,,,,1567,0,40,OCT25,2008,i
 14423723,"Simic, Radomir",BIH,M,,,,1695,0,20,OCT25,1967,i
+14440628,"Simic, Sreten",BIH,M,,,,1415,5,40,OCT25,2011,
 14433478,"Simic, Toni",BIH,M,,,,1697,0,20,OCT25,1970,
 929328,"Simic, Zeljko",BIH,M,FM,,,2201,0,20,OCT25,1980,
 14401690,"Simunovic, Bozidar",BIH,M,,,,1999,0,20,OCT25,1954,
@@ -2016,7 +2024,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14417243,"Sipovac, Radomir",BIH,M,,,,1746,0,20,OCT25,1972,i
 14431653,"Sirbegovic, Bakir",BIH,M,,,,1765,0,40,OCT25,2008,
 14422719,"Siric, Ivan",BIH,M,,,,1733,0,20,OCT25,1993,i
-14419530,"Sisic, Muhamed",BIH,M,,,,2252,0,20,OCT25,2007,
+14419530,"Sisic, Muhamed",BIH,M,FM,,,2252,0,20,OCT25,2007,
 14428962,"Sisic, Samir",BIH,M,,,,1924,0,20,OCT25,1981,i
 14403854,"Sitnic, Adnan",BIH,M,CM,,,2182,0,20,OCT25,1992,
 14403862,"Sitnic, Ahmed",BIH,M,,,,1948,0,20,OCT25,1995,i
@@ -2084,7 +2092,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14415194,"Srdic, Braco",BIH,M,,,,2048,0,20,OCT25,1956,i
 14410745,"Srdic, Milenko",BIH,M,,,,1904,0,20,OCT25,1956,
 14414651,"Srdic, Nenad",BIH,M,,,,1769,0,20,OCT25,1986,
-14433001,"Stamenkovic, Matija",BIH,M,,,,1604,0,40,OCT25,2011,
+14433001,"Stamenkovic, Matija",BIH,M,,,,1603,0,40,OCT25,2011,
 14433010,"Stamenkovic, Mihailo",BIH,M,,,,1747,0,40,OCT25,2011,
 14435225,"Stanic, Sofija",BIH,F,,,,1625,0,40,OCT25,2012,w
 14436736,"Stanic, Stefani",BIH,M,,,,1455,0,40,OCT25,2009,i
@@ -2158,7 +2166,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14441268,"Sukalo, Tomislav",BIH,M,,,,1562,0,40,OCT25,1976,
 14415461,"Suljic, Mirza",BIH,M,,,,2082,0,20,OCT25,1981,i
 14441489,"Suljic, Mujo",BIH,M,,,,1779,8,40,OCT25,1969,
-14433958,"Suljkanovic, Asmir",BIH,M,,,,AFM,1850,8,OCT25,1992,
+14433958,"Suljkanovic, Asmir",BIH,M,,,,1850,8,,OCT25,1992,
 14424347,"Suljovic, Hamdo",BIH,M,,,,1722,0,20,OCT25,1938,i
 14411083,"Surlan, Mirko",BIH,M,,,,1965,0,20,OCT25,1942,i
 14434865,"Susic, Ajdin",BIH,M,,NA,,1786,0,40,OCT25,2004,i

@@ -8,7 +8,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2401347,"Aird, Ian",SCO,M,,,,1857,0,20,OCT25,1959,i
 2403072,"Aitchison, A Keith",SCO,M,,,,1813,0,20,OCT25,1964,i
 2415445,"Aitken, Thomas W",SCO,M,,,,1644,0,40,OCT25,1957,i
-2410150,"Al Dakl Alla, Humam",SCO,M,,,,AFM,1700,4,OCT25,2013,
+2410150,"Al Dakl Alla, Humam",SCO,M,,,,1700,4,,OCT25,2013,
 2409712,"Al Dakl Alla, Muhammad",SCO,M,,,,1656,4,20,OCT25,1982,
 2402050,"Allan, Brian",SCO,M,,,,1756,0,20,OCT25,1934,i
 2400944,"Alomenu, Gilbert",SCO,M,,,,1497,1,40,OCT25,1965,
@@ -19,14 +19,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13600168,"Arakhamia-Grant, Ketevan",SCO,F,GM,WGM,,2239,0,10,OCT25,1968,w
 2405997,"Archibong, Ubong S",SCO,M,,,,2099,0,20,OCT25,1983,i
 2413566,"Archip, Laurentiu",SCO,M,,,,1715,0,40,OCT25,1978,
-2407060,"Argyroudis, Nikos",SCO,M,,,,1721,0,40,OCT25,1985,
+2407060,"Argyroudis, Nikos",SCO,M,,,,1722,0,40,OCT25,1985,
 2405105,"Ash, Michael",SCO,M,,,,1698,0,20,OCT25,0,i
 2403854,"Babin, Andre",SCO,M,,,,1903,0,20,OCT25,1990,i
 2409828,"Babu, Anoop",SCO,M,,,,1820,0,40,OCT25,2001,i
 343411673,"Balaji, Lochan",SCO,M,,,,1623,2,40,OCT25,2012,
 2409666,"Ballantyne, Stuart",SCO,M,,,,1761,0,20,OCT25,2000,i
 2406462,"Banerjee, Subhayu",SCO,M,,,,1693,0,20,OCT25,1970,i
-2406195,"Barron-Majerik, Jan",SCO,M,,,,AFM,1770,0,OCT25,1980,i
+2406195,"Barron-Majerik, Jan",SCO,M,,,,1770,0,,OCT25,1980,i
 2415160,"Bell, Euan",SCO,M,,,,1790,0,40,OCT25,2009,
 2400880,"Bennett, William",SCO,M,,,,2170,0,20,OCT25,0,
 2412349,"Benssassi, Sofia",SCO,F,,,,1611,0,40,OCT25,2008,wi
@@ -37,6 +37,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2415631,"Bhaduri, Atrasnu",SCO,M,,,,1485,0,40,OCT25,2014,
 2414317,"Bhaskar, Sriram",SCO,M,,,,1712,0,40,OCT25,2011,
 2410095,"Bhatia, Kanishka",SCO,F,WCM,WCM,,1852,0,40,OCT25,2010,w
+2413868,"Bhattacharjee, Nilakshi",SCO,F,,,,1639,5,40,OCT25,2012,w
 2404443,"Bhopal, Raj",SCO,M,,,,1881,0,20,OCT25,1953,
 2401819,"Birkett, Richard",SCO,M,,,,2000,0,20,OCT25,1970,i
 2409011,"Blackford, Ross",SCO,M,,,,1947,0,20,OCT25,2006,
@@ -113,9 +114,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2404605,"Floros, Antonios",SCO,M,,,,1886,0,20,OCT25,1965,i
 2461595,"Fowler, David",SCO,M,,,,1957,0,20,OCT25,1969,i
 2409461,"Fraser, Stuart",SCO,M,,,,1645,0,40,OCT25,1990,i
+2413973,"Gaikwad, Netra",SCO,F,,,,1493,5,40,OCT25,2014,w
 2413981,"Gaikwad, Reina",SCO,F,,,,1434,3,40,OCT25,2016,w
 2408481,"Galbraith, David",SCO,M,,,,1718,5,40,OCT25,1995,
 2401290,"Galbraith, Joe",SCO,M,,,,1833,0,20,OCT25,1963,
+2418100,"Gall, Lucy",SCO,F,,,,1633,7,40,OCT25,2011,w
 343409032,"Gamble, Marc",SCO,M,,,,1669,0,40,OCT25,1989,
 2413035,"Ganesh, Krishiv",SCO,M,,,,1644,0,40,OCT25,2015,
 2409992,"Gera, Marvin",SCO,M,,,,1948,0,40,OCT25,2008,
@@ -163,11 +166,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2413302,"Huang, Yushu",SCO,M,,,,1618,4,40,OCT25,2014,
 2402378,"Hughes, Lloyd",SCO,M,,,,1879,0,20,OCT25,1989,i
 2402181,"Hughes, Rhian",SCO,F,WFM,WFM,,1890,0,20,OCT25,1994,wi
-2418584,"Hull, Ross",SCO,M,,,,1527,5,40,OCT25,1996,
+2418584,"Hull, Ross",SCO,M,,,,1526,5,40,OCT25,1996,
 2410087,"Hunt, Angharad",SCO,F,,,,1542,0,40,OCT25,2010,w
 2402238,"Irving, Neil",SCO,M,,,,1804,0,20,OCT25,1976,
 2409305,"Ittigi, Tilak",SCO,M,,,,1471,0,40,OCT25,2012,
-2415720,"Jackson, Kenneth A",SCO,M,,,,1547,0,40,OCT25,1985,
+2415720,"Jackson, Kenneth A",SCO,M,,,,1546,0,40,OCT25,1985,
 2404249,"James, Chris",SCO,M,,,,1923,0,20,OCT25,1975,i
 2410176,"Jamieson, Graham Grant",SCO,M,,,,1725,0,20,OCT25,1967,
 2401118,"Jamieson, Ian",SCO,M,,,,1924,0,20,OCT25,1965,i
@@ -207,11 +210,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2409275,"Lukhi, Neev",SCO,M,,,,1965,10,40,OCT25,2011,
 2409429,"Lynn, Angelo",SCO,M,,,,1631,0,40,OCT25,2008,i
 2408880,"MacDonald, Alex",SCO,M,,,,1712,0,40,OCT25,2005,i
-2401681,"Macgilchrist, Siegrun",SCO,F,,,,ACM,1833,0,OCT25,1945,wi
+2401681,"Macgilchrist, Siegrun",SCO,F,,,,1833,0,,OCT25,1945,wi
 2400502,"Macnab, Crawford T",SCO,M,,,,1879,0,20,OCT25,1966,
 2402025,"MacQueen, Andrew",SCO,M,,,,1830,0,20,OCT25,1958,
 2402270,"MacQueen, Calum",SCO,M,,,,2248,0,20,OCT25,1990,i
-2408562,"Madhavan, Sanjith",SCO,M,,,,AIM,1933,0,OCT25,2007,
+2408562,"Madhavan, Sanjith",SCO,M,,,,1933,0,,OCT25,2007,
 2414899,"Madhu, Shriya",SCO,F,,,,1726,2,40,OCT25,2011,w
 2416735,"Maguire, Kevin",SCO,M,,,,1940,3,40,OCT25,1965,
 2401843,"Malkin, Kenneth",SCO,M,,,,1927,0,20,OCT25,1968,i
@@ -264,7 +267,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2400987,"Minnican, Alan",SCO,M,,,,2053,0,20,OCT25,1964,i
 2405679,"Misanjo, Stephen",SCO,M,,,,1834,0,20,OCT25,1974,i
 2409968,"Mitraka, Chrysoula-Paraskevi",SCO,F,,,,1775,3,40,OCT25,2010,w
-2410206,"Mittal, Advik",SCO,M,,,,AFM,1737,0,OCT25,2013,
+2410206,"Mittal, Advik",SCO,M,,,,1737,0,,OCT25,2013,
 2416751,"Moakler, Joseph",SCO,M,,,,1792,8,40,OCT25,1965,
 2405253,"Monaghan, Mark",SCO,M,,,,1727,0,20,OCT25,1971,
 2416891,"Monaghan, Steven",SCO,M,,,,1743,0,40,OCT25,1972,
@@ -275,7 +278,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2400138,"Muir, Andrew J",SCO,M,IM,,,2296,0,20,OCT25,1958,i
 2410273,"Muirhead, Alastair",SCO,M,,,,1642,0,20,OCT25,1987,
 2410982,"Munshi, Anika",SCO,F,,,,1638,0,40,OCT25,2014,w
-2407752,"Munshi, Aryan",SCO,M,,,,AIM,1868,5,OCT25,2007,
+2407752,"Munshi, Aryan",SCO,M,,,,1868,5,,OCT25,2007,
 2402998,"Murdochy, Shivan",SCO,M,,,,1920,0,20,OCT25,1995,i
 2402963,"Murray, Frankie",SCO,M,,,,1670,5,20,OCT25,1972,
 2412420,"Myant, Martin",SCO,M,,,,1849,0,40,OCT25,1950,
@@ -335,7 +338,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 417726,"Scrimgour, Alan",SCO,M,,,,2089,0,20,OCT25,1951,i
 2411326,"Semenov, Igor",SCO,M,,,,1720,6,40,OCT25,2010,
 2405156,"Shafi, Declan",SCO,M,,,,2145,0,20,OCT25,2000,i
-2411067,"Shankar, Yashwardhan",SCO,M,,,,1762,0,40,OCT25,2013,
+2411067,"Shankar, Yashwardhan",SCO,M,,,,1764,0,40,OCT25,2013,
 2405164,"Shankland, John",SCO,M,,,,1716,0,20,OCT25,1949,i
 2410818,"Sharma, Devesh",SCO,M,,,,1812,0,40,OCT25,2015,i
 2407922,"Sharp, Alan W",SCO,M,,,,1761,0,20,OCT25,1955,i
@@ -346,7 +349,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2409321,"Shrestha, Unnabh",SCO,M,,,,1502,0,40,OCT25,2011,i
 2413795,"Sitkei, Jacint",SCO,M,,,,1617,0,40,OCT25,2009,i
 2412152,"Skornyakov, Anton",SCO,M,,,,1639,0,40,OCT25,2008,i
-2417960,"Smith, Harry E",SCO,M,,,,1709,6,40,OCT25,2010,
+2417960,"Smith, Harry E",SCO,M,,,,1728,10,40,OCT25,2010,
 2405113,"Smith, Mark J",SCO,M,,,,1613,0,20,OCT25,0,i
 2404761,"Smith, Peter R",SCO,M,,,,1968,0,20,OCT25,1963,i
 2405520,"Smith, Rachel Lorna",SCO,F,,,,1731,0,20,OCT25,2002,wi
@@ -360,14 +363,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2400413,"Swan, Iain",SCO,M,FM,,,2231,5,20,OCT25,1961,
 2400251,"Swanson, Stephen",SCO,M,,,,2126,0,20,OCT25,0,i
 2401649,"Sykes, Chris",SCO,M,,,,1897,0,20,OCT25,1964,i
-2409364,"Tandon, Ashley",SCO,F,,,,ACM,1558,0,OCT25,2009,wi
+2409364,"Tandon, Ashley",SCO,F,,,,1558,0,,OCT25,2009,wi
 2401878,"Tate, Alan",SCO,M,FM,,,2277,0,20,OCT25,1979,
 2402572,"Taylor, Ewan",SCO,M,,,,1887,0,40,OCT25,1961,
 2400081,"Thomson, Craig S M",SCO,M,FM,,,2248,0,20,OCT25,1963,
 2402246,"Thomson, Neil",SCO,M,,,,1965,0,20,OCT25,1986,
 2415429,"Thomson, Steve",SCO,M,,,,1712,0,40,OCT25,1963,
-126171749,"Todd, Andrew",SCO,M,,NA,,AIM,1771,0,OCT25,1997,
-2516144,"Todd, Sam",SCO,M,,,,AFM,1572,0,OCT25,2000,i
+126171749,"Todd, Andrew",SCO,M,,NA,,1771,0,,OCT25,1997,
+2516144,"Todd, Sam",SCO,M,,,,1572,0,,OCT25,2000,i
 418099,"Torrance, John",SCO,M,,,,1733,0,20,OCT25,1946,i
 2410354,"Turnbull, James",SCO,M,,,,1719,0,20,OCT25,1998,i
 402893,"Turner, Matthew J",SCO,M,GM,NA,,2491,0,10,OCT25,1975,
@@ -382,7 +385,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2461692,"Walker, Duncan",SCO,M,,,,1907,0,20,OCT25,1959,i
 2405806,"Walkowiak, Adam",SCO,M,,,,1833,0,20,OCT25,1952,i
 2408589,"Warcup, Richard",SCO,M,,,,1658,0,40,OCT25,1967,i
-2406020,"Ward, Andrew",SCO,M,,,,AIM,1852,0,OCT25,1990,
+2406020,"Ward, Andrew",SCO,M,,,,1852,0,,OCT25,1990,
 2410591,"Wardlaw, Tom",SCO,M,,,,1759,0,40,OCT25,1968,
 2406080,"Watson, Dave",SCO,M,,,,1509,0,40,OCT25,1950,
 2408872,"Watson-McFie, Joseph",SCO,M,,,,1849,0,40,OCT25,1979,i

@@ -13,7 +13,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8709998,Benaya Lennox,ZAM,M,,,,1804,0,40,OCT25,1994,i
 8733708,Biaise Iranzi,ZAM,M,,,,1706,0,40,OCT25,2003,
 8731411,Bwalya Diana,ZAM,F,,,,1458,0,40,OCT25,2005,w
-8727821,Bwalya Margret,ZAM,F,,,,1792,0,40,OCT25,2010,w
+8727821,Bwalya Margret,ZAM,F,,,,1791,0,40,OCT25,2010,w
 8706964,"Bwalya Mulwale, Lubuuto",ZAM,F,WCM,WCM,,1829,0,20,OCT25,2001,w
 8700257,"Bwalya, Gillan",ZAM,M,IM,,,2239,0,20,OCT25,1988,
 8722196,Bwanga Emmanuel,ZAM,M,,,,1965,0,20,OCT25,2001,
@@ -129,7 +129,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8711771,Mapulanga Golden,ZAM,M,,,,1690,0,20,OCT25,1980,
 8704317,"Mary, Mashane",ZAM,F,,FA,,1539,0,20,OCT25,1994,w
 8708789,Masikini Cornelius,ZAM,M,,,,2090,0,20,OCT25,1999,
-8728763,Master Himaksh Choudhary,ZAM,M,,,,1593,13,40,OCT25,2015,
+8728763,Master Himaksh Choudhary,ZAM,M,,,,1586,13,40,OCT25,2015,
 8712115,Matanda Jonas,ZAM,M,,,,1556,0,40,OCT25,2000,
 8707510,Mate Emmanuel,ZAM,M,,,,1897,0,20,OCT25,1986,i
 8709980,Mautho Ndolo,ZAM,M,,,,1953,0,20,OCT25,1974,i
@@ -191,7 +191,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8700478,"Mwango , Lorita",ZAM,F,WFM,WFM,,1924,0,20,OCT25,1994,wi
 8711496,Mwangwewo Victor,ZAM,M,,,,1805,0,20,OCT25,1964,i
 8713154,Mwansa Malama,ZAM,M,,,,1932,0,20,OCT25,1983,
-8728666,Mwansa Natasha,ZAM,F,,,,1568,0,40,OCT25,2003,w
+8728666,Mwansa Natasha,ZAM,F,,,,1569,0,40,OCT25,2003,w
 8701873,"Mwansa, Mambwe",ZAM,M,,,,1973,0,20,OCT25,1978,
 8705208,"Mwansa, Webster",ZAM,M,,,,1989,0,40,OCT25,0,i
 8734348,mwanza charles,ZAM,M,,,,1688,0,40,OCT25,1979,
@@ -245,7 +245,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8728542,Rafik Omer,ZAM,M,,,,1805,0,40,OCT25,2001,
 8722978,Sakala Owen,ZAM,M,,,,1789,0,40,OCT25,1972,
 8707677,Sakala Ronald,ZAM,M,,,,1998,0,20,OCT25,1978,
-8701946,"Sakala, Andrew",ZAM,M,,,,AIM,1944,0,OCT25,1980,i
+8701946,"Sakala, Andrew",ZAM,M,,,,1944,0,,OCT25,1980,i
 8710074,Samuel Mulenga,ZAM,M,,,,1988,0,20,OCT25,1996,
 8713782,Sauti Harry,ZAM,M,,,,1742,0,20,OCT25,1960,
 8719179,Sauti Joshua Lisuku,ZAM,M,,,,1814,0,40,OCT25,2011,
@@ -256,13 +256,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8706336,"Shandele, Ginnethon",ZAM,M,,,,1875,0,20,OCT25,1987,i
 8707162,Shane Kennedy,ZAM,M,CM,,,1942,0,40,OCT25,2008,
 8713774,Shankalala Webby,ZAM,M,,,,1717,0,40,OCT25,1989,
-74601580,"Sharon, Rafael",ZAM,M,,,,2056,0,40,OCT25,2008,
+74601580,"Sharon, Rafael",ZAM,M,FM,,,2059,0,40,OCT25,2008,
 8728291,Shaurya Danave,ZAM,M,,,,1607,0,40,OCT25,2014,
 8702241,"Shula, Derrick",ZAM,M,,,,1903,0,20,OCT25,1977,
 8731764,Siamalido Alex,ZAM,M,,,,1463,0,40,OCT25,2011,
 8703744,"Siamayuwa, Eric",ZAM,M,,,,1920,0,20,OCT25,1993,i
 8730610,Sianyinda Lubomba,ZAM,M,,,,1496,0,40,OCT25,2015,
-8728844,Sianyinda lubona twalumba,ZAM,M,,,,ACM,1858,0,OCT25,2012,
+8728844,Sianyinda lubona twalumba,ZAM,M,,,,1858,0,,OCT25,2012,
 8715076,Sichilima Pax,ZAM,M,,,,1978,0,20,OCT25,1988,i
 8730270,Sichivula Taizya Noel,ZAM,M,,,,1655,0,40,OCT25,2003,
 8703779,"Sichone, Alinaswe",ZAM,M,,,,1924,0,20,OCT25,1996,
@@ -297,6 +297,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8714118,Zimba Andrew,ZAM,M,,,,1832,0,40,OCT25,1980,
 8734011,Zipu Zhao,ZAM,M,,,,1417,0,40,OCT25,2008,
 8710546,Zulu Asiya,ZAM,F,,,,1495,0,20,OCT25,1994,w
-8728879,Zulu Taonga,ZAM,M,,,,AFM,1489,0,OCT25,2013,
+8728879,Zulu Taonga,ZAM,M,,,,1489,0,,OCT25,2013,
 8706387,"Zulu, Moses",ZAM,M,,,,1834,0,20,OCT25,1983,
-8702047,"Zulu, Thomas",ZAM,M,,,,2112,0,20,OCT25,1988,i
+8702047,"Zulu, Thomas",ZAM,M,CM,,,2112,0,20,OCT25,1988,i

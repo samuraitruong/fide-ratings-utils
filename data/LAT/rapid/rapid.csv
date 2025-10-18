@@ -4,25 +4,25 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11630507,"Abolins, Janis",LAT,M,,,,1864,0,20,OCT25,1986,i
 11647566,"Abolins, Markuss",LAT,M,,,,1485,0,40,OCT25,2009,
 11614862,"Abolins, Sergejs",LAT,M,,,,1794,0,20,OCT25,1976,i
-11653280,"Abolins-Abols, Donalds",LAT,M,,,,1489,5,20,OCT25,1964,
-11633131,"Abols, Ernests",LAT,M,,,,1589,8,40,OCT25,2013,
+11653280,"Abolins-Abols, Donalds",LAT,M,,,,1490,5,20,OCT25,1964,
+11633131,"Abols, Ernests",LAT,M,,,,1588,8,40,OCT25,2013,
 11615311,"Aboltina,Valerija Nikola",LAT,F,,,,1441,0,20,OCT25,2005,wi
 11610131,"Abula, Imanta",LAT,F,,,,1508,0,20,OCT25,1957,w
 11622075,"Adamovics, Aleksejs",LAT,M,,,,2209,11,40,OCT25,2007,
 11644630,"Adsons, Pavels",LAT,M,,,,1608,0,40,OCT25,1986,i
 11616423,"Afanasjevs, Aleksandrs",LAT,M,,,,1710,43,20,OCT25,1954,
-11645172,"Afanasjevs, Zahars",LAT,M,,,,1706,8,40,OCT25,2014,
+11645172,"Afanasjevs, Zahars",LAT,M,,,,1704,8,40,OCT25,2014,
 11602104,"Agafonov, Yuri Dr",LAT,M,,,,2040,28,20,OCT25,1956,
 11622830,"Aghalarov, Ruslan",LAT,M,,,,1883,0,20,OCT25,1991,i
 11608226,"Agis, Agris",LAT,M,,,,1738,0,20,OCT25,1965,
-11641762,"Aile, Paula",LAT,F,,,,1585,5,40,OCT25,2015,w
+11641762,"Aile, Paula",LAT,F,,,,1434,17,40,OCT25,2015,w
 11610530,"Airapetjan, Vladimir",LAT,M,,,,1734,0,20,OCT25,1953,i
 11636440,"Aispurs, Gabriels",LAT,M,,,,1720,0,40,OCT25,2013,
 11610743,"Aizsilnieks, Andris",LAT,M,,,,1702,0,20,OCT25,1937,i
 11606835,"Aizstrauts, Arturs",LAT,M,,,,1858,0,20,OCT25,2002,
 11625619,"Aizstrauts, Ernests",LAT,M,,,,1446,0,40,OCT25,2011,i
 11638508,"Akmentins, Peteris",LAT,M,,,,1669,0,40,OCT25,1996,i
-11609095,"Alainis, Artis",LAT,M,,,,2058,15,20,OCT25,2002,
+11609095,"Alainis, Artis",LAT,M,,,,2059,15,20,OCT25,2002,
 11617608,"Aleidzans, Vadims",LAT,M,,,,1984,14,40,OCT25,2009,
 11609001,"Alekseev,Ilia",LAT,M,,,,1734,0,20,OCT25,2000,i
 11629770,"Aleksejevs, Boriss",LAT,M,,,,1713,0,20,OCT25,1979,i
@@ -31,14 +31,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11608234,"Aleksejevs, Nikolajs",LAT,M,,,,1790,0,20,OCT25,1936,i
 11625554,"Aleksejevs, Olegs",LAT,M,,,,1501,0,20,OCT25,1975,
 11619619,"Alhimovics, Jelisejs",LAT,M,,,,1543,0,20,OCT25,2005,i
-11631813,"Aliev, Arif",LAT,M,,,,1622,0,40,OCT25,2012,
-11631805,"Aliev, Iskander",LAT,M,,,,1621,0,40,OCT25,2013,
+11631813,"Aliev, Arif",LAT,M,,,,1654,0,40,OCT25,2012,
+11631805,"Aliev, Iskander",LAT,M,,,,1632,0,40,OCT25,2013,
 11642955,"Aliks, Germans",LAT,M,,,,1494,0,40,OCT25,2006,i
 11602392,"Alipovs, Anatolijs",LAT,M,,,,1913,14,20,OCT25,1960,
 11640235,"Alksne, Guna",LAT,F,,,,1552,0,40,OCT25,1973,w
 11640049,"Almanis, Gabriels",LAT,M,,,,1595,12,40,OCT25,2008,
 11653256,"Ambainis, Andris",LAT,M,,,,1636,0,40,OCT25,1975,
-11652381,"Ambainis, Krisjanis",LAT,M,,,,1569,5,40,OCT25,2013,
+11652381,"Ambainis, Krisjanis",LAT,M,,,,1570,5,40,OCT25,2013,
 11642769,"Ambarcumjans, Grairs",LAT,M,,,,1589,0,40,OCT25,2007,
 11602260,"Amerika, Katrina",LAT,F,WIM,WIM,,2128,0,20,OCT25,1991,w
 11610425,"Aminovs, Maksims",LAT,M,,,,1851,0,20,OCT25,2005,i
@@ -52,7 +52,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11602708,"Andrejevs, Arvids",LAT,M,CM,,,2139,0,20,OCT25,1987,i
 11602201,"Andrejevs, Jurijs",LAT,M,,,,2021,0,20,OCT25,1986,i
 11623853,"Andrusevics, Jegors",LAT,M,,,,2112,25,40,OCT25,2012,
-11617632,"Andryushin, Maxim",LAT,M,,,,AFM,1838,10,OCT25,1981,
+11617632,"Andryushin, Maxim",LAT,M,,,,1838,10,,OCT25,1981,
 11619341,"Andzans, Elvijs",LAT,M,,,,1559,0,20,OCT25,1991,i
 11604611,"Andzans, Maris",LAT,M,,,,1628,0,20,OCT25,1964,
 11637382,"Anenkovs, Deniss",LAT,M,,,,1413,0,40,OCT25,2007,i
@@ -65,8 +65,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11631422,"Antainis, Janis",LAT,M,,,,1587,0,20,OCT25,1955,i
 11624248,"Antjufejevs, Vsevolods",LAT,M,,,,1721,0,20,OCT25,1972,
 11601469,"Antoms, Guntars",LAT,M,IM,,,2151,0,20,OCT25,1960,
-11646195,"Antonevics, Normunds",LAT,M,,,,1417,0,40,OCT25,2012,i
-11643471,"Antoniskis, Markuss",LAT,M,,,,1501,0,40,OCT25,2009,
+11646195,"Antonevics, Normunds",LAT,M,,,,1416,0,40,OCT25,2012,i
+11643471,"Antoniskis, Markuss",LAT,M,,,,1484,0,40,OCT25,2009,
 11608242,"Antonivs, Dmitrijs",LAT,M,,,,1728,0,20,OCT25,1975,i
 11604484,"Antonivs, Vladislavs",LAT,M,,,,1890,0,20,OCT25,2002,i
 11640634,"Antonovics, Maksims",LAT,M,,,,1489,0,40,OCT25,2005,i
@@ -100,14 +100,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11622733,"Auzins, Kristers",LAT,M,,,,1601,0,40,OCT25,2010,
 11614919,"Auzins,Alnis",LAT,M,,,,1780,0,20,OCT25,1959,
 11638354,"Avads, Aimans",LAT,M,,,,1425,0,40,OCT25,2011,
-11608250,"Avenina, Maija",LAT,F,,,,1849,0,20,OCT25,1970,w
+11608250,"Avenina, Maija",LAT,F,,,,1850,0,20,OCT25,1970,w
 11604280,"Avotins, Arturs",LAT,M,,,,1759,0,20,OCT25,2000,i
 11606266,"Avsitidijskis, Leonids",LAT,M,,,,1735,0,20,OCT25,1942,i
 11611200,"Azanda, Emils",LAT,M,,,,1600,0,20,OCT25,1999,i
 11623918,"Azarjancs, Timurs",LAT,M,,,,1404,0,40,OCT25,2009,i
-11637625,"Azarkevics, Aleksejs",LAT,M,,,,1751,8,20,OCT25,1989,
+11637625,"Azarkevics, Aleksejs",LAT,M,,,,1749,7,20,OCT25,1989,
 11614730,"Azarovs, Timurs",LAT,M,,,,1533,0,20,OCT25,2006,i
-11629932,"Azevs, Aleksandrs",LAT,M,,,,1576,0,40,OCT25,2008,
+11629932,"Azevs, Aleksandrs",LAT,M,,,,1578,0,40,OCT25,2008,
 11635886,"Babics, Leons",LAT,M,,,,1494,0,40,OCT25,2015,
 11622393,"Babris, Ivars",LAT,M,,,,1898,0,20,OCT25,1963,i
 11618647,"Babris, Rihards",LAT,M,,,,1500,0,40,OCT25,2010,i
@@ -116,8 +116,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11606665,"Bagatais, Janis",LAT,M,,,,1947,0,20,OCT25,1989,
 11608811,"Bagirov, Eldar",LAT,M,,,,1641,0,20,OCT25,1964,
 11616075,"Baidalovs,Vladislavs",LAT,M,,,,1550,0,20,OCT25,2004,i
-11639997,"Bajars, Gunars",LAT,M,,,,1516,5,20,OCT25,1957,
-11646373,"Bakass, Artjoms",LAT,M,,,,1513,0,40,OCT25,2016,
+11639997,"Bajars, Gunars",LAT,M,,,,1515,5,20,OCT25,1957,
+11646373,"Bakass, Artjoms",LAT,M,,,,1522,0,40,OCT25,2016,
 11646950,"Baklanovs, Kirils",LAT,M,,,,1433,0,40,OCT25,2014,
 11644761,"Bakmasters, Markus Nikolajs",LAT,M,,,,1571,0,40,OCT25,2008,
 11608749,"Balasovs, Viktors",LAT,M,,,,1884,7,20,OCT25,1952,
@@ -133,14 +133,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11619783,"Bangevics, Indulis",LAT,M,,,,1605,0,20,OCT25,1951,i
 11636025,"Bankovskis, Kaspars",LAT,M,,,,1587,0,40,OCT25,1985,
 11638273,"Baranovs, Deniss",LAT,M,,,,1499,0,40,OCT25,2015,
-11648619,"Baranovs, Nikita",LAT,M,,,,1562,0,40,OCT25,2014,
+11648619,"Baranovs, Nikita",LAT,M,,,,1556,0,40,OCT25,2014,
 11635258,"Baranovskis, Reinis",LAT,M,,,,1626,0,20,OCT25,1995,i
 11635940,"Barasovs, Dimitrijs",LAT,M,,,,1441,6,40,OCT25,2010,
 11604620,"Barinovs, Vitalijs",LAT,M,,,,1770,0,20,OCT25,1941,
 11635100,"Barkus, Alekss",LAT,M,,,,1467,0,40,OCT25,2007,i
 11635762,"Barloti, Pauls",LAT,M,,,,1553,0,40,OCT25,2011,
 11610670,"Bartasevics, Tomass",LAT,M,,,,1565,0,20,OCT25,2003,i
+11640405,"Bartkevics, Glebs",LAT,M,,,,1471,8,40,OCT25,2013,
 11607009,"Bartoss, Marjans",LAT,M,,,,1559,0,20,OCT25,1987,i
+11645008,"Bartusevics, Gustavs",LAT,M,,,,1475,12,40,OCT25,2012,
 11614706,"Barutina, Luiza",LAT,F,,,,1566,0,20,OCT25,1999,wi
 11644710,"Barviks, Andris",LAT,M,,,,1575,0,40,OCT25,1998,i
 11647221,"Barzdina, Romija",LAT,F,,,,1411,0,40,OCT25,2012,w
@@ -157,7 +159,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11603240,"Bautris, Aivars",LAT,M,,,,1612,0,20,OCT25,1964,
 11637579,"Bazanovs, Igors",LAT,M,,,,1477,0,20,OCT25,1982,i
 11635363,"Behmanis Bergmanis, Arturs",LAT,M,,,,1486,0,20,OCT25,2000,i
-11639644,"Beiers, Valters",LAT,M,,,,1579,0,40,OCT25,2015,
+11639636,"Beiers, Jekabs",LAT,M,,,,1424,12,40,OCT25,2013,
+11639644,"Beiers, Valters",LAT,M,,,,1578,0,40,OCT25,2015,
 11608510,"Beitinsh, Gabriels",LAT,M,,,,1596,0,20,OCT25,2002,i
 11606029,"Bekasovs, Rihards",LAT,M,,,,2103,7,20,OCT25,2002,
 11614927,"Bekis,Elvis",LAT,M,,,,1793,0,20,OCT25,1991,
@@ -166,7 +169,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11618876,"Belavskis, Gundars",LAT,M,,,,1602,0,20,OCT25,1971,i
 11650249,"Belkina, Misela",LAT,F,,,,1416,0,40,OCT25,1997,wi
 11614331,"Benders, Ervins",LAT,M,,,,1815,0,20,OCT25,1950,
-11632674,"Beniosev, Daniel",LAT,M,CM,,,2040,10,40,OCT25,2013,
+11632674,"Beniosev, Daniel",LAT,M,CM,,,2039,10,40,OCT25,2013,
 11644303,"Beniosev, David",LAT,M,,,,1469,0,40,OCT25,2018,
 11615109,"Benkis,Maris",LAT,M,,,,1845,0,20,OCT25,1989,i
 11627859,"Berga, Jelena",LAT,F,,,,1461,0,40,OCT25,2008,w
@@ -208,7 +211,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11603259,"Biktimirovs, Konstantins",LAT,M,,,,1972,0,20,OCT25,1992,i
 11635266,"Bilecen, Jonas",LAT,M,,,,1620,0,20,OCT25,1998,
 11617497,"Bilinkins, Ilja",LAT,M,,,,1484,0,40,OCT25,2009,i
-11639563,"Bindemanis, Atis",LAT,M,,,,1458,6,40,OCT25,2010,
+11639563,"Bindemanis, Atis",LAT,M,,,,1459,6,40,OCT25,2010,
 11613106,"Binders,Aleks-Aleksandrs",LAT,M,,,,1511,0,20,OCT25,2003,i
 11605316,"Birgelis, Janis",LAT,M,,,,1978,0,20,OCT25,1979,i
 11613394,"Birins, Maris",LAT,M,,,,1737,0,20,OCT25,1983,i
@@ -216,17 +219,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11614439,"Birjulins,Maksims",LAT,M,,,,1682,0,20,OCT25,1973,i
 11648392,"Birkenfelds, Adams Eleds",LAT,M,,,,1507,0,40,OCT25,2011,i
 11607238,"Birmans, Daniels",LAT,M,,,,1790,0,20,OCT25,2003,i
-11646675,"Birznieks, Toms",LAT,M,,,,1654,29,40,OCT25,2015,
+11646675,"Birznieks, Toms",LAT,M,,,,1650,28,40,OCT25,2015,
 11623470,"Bistrovs, Artemijs",LAT,M,,,,1410,0,40,OCT25,2008,i
 11610174,"Bitaitis, Vladislavs",LAT,M,,,,1594,0,20,OCT25,2003,i
 11629134,"Bitenieks, Dominiks",LAT,M,,,,1735,0,40,OCT25,2007,
-11630272,"Blinds,Gustavs",LAT,M,,,,1613,0,40,OCT25,2011,
+11630272,"Blinds,Gustavs",LAT,M,,,,1618,0,40,OCT25,2011,
 11604298,"Blinovs, Artjoms",LAT,M,,,,1895,7,20,OCT25,1984,
-11639067,"Blumbergs, Ingus",LAT,M,,,,1675,7,20,OCT25,1974,
+11639067,"Blumbergs, Ingus",LAT,M,,,,1671,6,20,OCT25,1974,
 11604034,"Blumbergs, Ralfs",LAT,M,,,,1899,0,20,OCT25,1998,i
 11604433,"Blumentals, Gatis",LAT,M,,,,1883,0,20,OCT25,1970,
-11635541,"Blumins, Rafaels",LAT,M,,,,1501,9,40,OCT25,2011,
-11645911,"Blums, Eduards",LAT,M,,,,1429,0,40,OCT25,2015,
+11635541,"Blumins, Rafaels",LAT,M,,,,1503,9,40,OCT25,2011,
+11645911,"Blums, Eduards",LAT,M,,,,1427,0,40,OCT25,2015,
 11631465,"Bocarovs, Jurijs",LAT,M,,,,1821,0,20,OCT25,1936,i
 11608722,"Bockarjovs, Vasilijs",LAT,M,,,,1502,0,20,OCT25,1940,
 11634251,"Bodaks, Leonards",LAT,M,,,,1471,0,40,OCT25,2017,
@@ -242,7 +245,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11623624,"Boiko, Markuss",LAT,M,,,,1489,0,40,OCT25,2008,i
 11606681,"Bojarincevs, Olegs",LAT,M,,,,2080,0,20,OCT25,1959,i
 11639610,"Bojars, Krisjanis",LAT,M,,,,1445,0,40,OCT25,2007,i
-11652195,"Bojars, Matiss",LAT,M,,,,1562,0,40,OCT25,1997,
+11652195,"Bojars, Matiss",LAT,M,,,,1561,0,40,OCT25,1997,
 11622407,"Bojaruns, Edgars",LAT,M,,,,1455,0,40,OCT25,2010,i
 11639881,"Boleiko, Augusts",LAT,M,,,,1515,0,40,OCT25,2015,
 11601981,"Bolsakovs, Vadims",LAT,M,,,,2022,0,20,OCT25,1989,i
@@ -262,7 +265,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11641606,"Brengulis, Bruno",LAT,M,,,,1423,0,40,OCT25,2012,
 11642025,"Brezauckis, Martins",LAT,M,,,,1486,0,40,OCT25,2007,i
 11609451,"Briedis, Armands",LAT,M,,,,1886,0,20,OCT25,1986,i
-11639210,"Briedis, Didzis",LAT,M,,,,1563,4,20,OCT25,1967,
+11639210,"Briedis, Didzis",LAT,M,,,,1582,3,20,OCT25,1967,
 11636351,"Briedis, Juris",LAT,M,,,,1720,0,20,OCT25,1972,
 11616920,"Brikainis,Ernests",LAT,M,,,,1420,0,40,OCT25,2010,i
 11604646,"Brikers, Aleksandrs",LAT,M,,,,1986,0,20,OCT25,2001,i
@@ -278,7 +281,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11655380,"Bucenieks, Andis",LAT,M,,,,1681,0,40,OCT25,1966,
 11608978,"Bude, Toms",LAT,M,,,,1776,0,20,OCT25,2000,i
 11641150,"Budjakovs, Vinsents",LAT,M,,,,1401,0,40,OCT25,2011,i
-11655593,"Buinickas, Tomas",LAT,M,,,,1428,6,40,OCT25,1985,
+11655593,"Buinickas, Tomas",LAT,M,,,,1495,5,40,OCT25,1985,
 11608277,"Buks, Armands",LAT,M,,,,1770,0,20,OCT25,1962,i
 11632003,"Bulans, Raivis",LAT,M,,,,1580,0,20,OCT25,1974,i
 11639776,"Bulins, Zigmunds",LAT,M,,,,1539,0,20,OCT25,1984,
@@ -288,23 +291,23 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11611596,"Burenkovs,Artjoms",LAT,M,,,,1803,0,20,OCT25,2005,i
 11612096,"Burenkovs,Dmitrijs",LAT,M,,,,1671,0,20,OCT25,1969,i
 11633700,"Burka, Kaspars",LAT,M,,,,1626,0,20,OCT25,1990,i
-11605642,"Burkevica, Ilze",LAT,F,,,,1703,0,20,OCT25,1971,w
+11605642,"Burkevica, Ilze",LAT,F,,,,1706,0,20,OCT25,1971,w
 11610182,"Buss, Uldis",LAT,M,,,,1496,0,20,OCT25,1941,
 11626445,"Buza, Daniils",LAT,M,,,,1413,0,40,OCT25,2009,
 11617551,"Cakovs, Valerijs",LAT,M,,,,1516,0,40,OCT25,2009,i
-11623616,"Cakss, Vitalijs",LAT,M,,,,1623,6,20,OCT25,1955,
+11623616,"Cakss, Vitalijs",LAT,M,,,,1619,5,20,OCT25,1955,
 11645091,"Caplinskis, Rudolfs",LAT,M,,,,1545,0,40,OCT25,2000,i
 11647027,"Carlos, Fermin Garcia",LAT,M,,,,1543,0,40,OCT25,1990,i
 11615044,"Casecnikovs, Artjoms",LAT,M,,,,1589,0,20,OCT25,2006,i
 11636343,"Cehovals, Grigorijs",LAT,M,,,,1445,3,40,OCT25,2012,
-11636475,"Celmalniece, Ance",LAT,F,,,,1545,0,40,OCT25,2012,w
+11636475,"Celmalniece, Ance",LAT,F,,,,1544,0,40,OCT25,2012,w
 11613980,"Ceremnihs, Viktors",LAT,M,,,,1763,0,20,OCT25,1937,i
 11607157,"Cernavskis, Vladislavs",LAT,M,,,,1708,0,20,OCT25,1958,i
 11639334,"Cernisovs, Aleksandrs",LAT,M,,,,1547,0,20,OCT25,2001,
 11622032,"Cernovs, Antons",LAT,M,,,,1566,0,20,OCT25,1993,i
-11636912,"Chirkovs, Pavels",LAT,M,,,,1451,0,40,OCT25,2014,
+11636912,"Chirkovs, Pavels",LAT,M,,,,1448,0,40,OCT25,2014,
 11626194,"Chuhan, Li",LAT,M,,,,1488,0,40,OCT25,2005,i
-11651164,"Chuiashenko, Mark",LAT,M,,,,1548,7,40,OCT25,2011,
+11651164,"Chuiashenko, Mark",LAT,M,,,,1549,7,40,OCT25,2011,
 11645652,"Cibulskis, Maris Atvars",LAT,M,,,,1426,0,40,OCT25,2011,i
 11606258,"Ciekurs, Maris",LAT,M,,,,1782,0,20,OCT25,1985,i
 11619287,"Ciemnyjewski, Gregor",LAT,M,,,,1767,0,20,OCT25,1967,i
@@ -312,28 +315,29 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11645202,"Cikovskis, Oskars",LAT,M,,,,1465,0,40,OCT25,2014,
 11635835,"Cimbers, Daniels",LAT,M,,,,1628,6,40,OCT25,2015,
 11602384,"Cimina, Andra",LAT,F,,,,1944,0,20,OCT25,1972,w
-11601787,"Cimins, Alberts",LAT,M,,AO,,AIM,1957,0,OCT25,1970,
+11601787,"Cimins, Alberts",LAT,M,,AO,,1957,0,,OCT25,1970,
 11621117,"Cimosko, Antons",LAT,M,,,,1671,0,40,OCT25,1950,
 11629096,"Cipurs, Juris",LAT,M,,,,1781,0,20,OCT25,1936,i
 11604654,"Circenis, Kaspars",LAT,M,,,,1948,0,20,OCT25,1990,
 11609010,"Ciris, Andris",LAT,M,,,,1600,0,20,OCT25,1943,i
 11622113,"Cirulis, Marcis",LAT,M,,,,1514,0,40,OCT25,2009,i
 11605111,"Cirulis, Peteris",LAT,M,,,,1688,0,20,OCT25,1943,
+11641037,"Citskovskis, Janis",LAT,M,,,,1579,6,40,OCT25,2012,i
 11631473,"Coat, Patrik",LAT,M,,,,1468,0,20,OCT25,1969,i
 11637595,"Crognale, Luca Vittorio",LAT,M,,,,1412,0,20,OCT25,1995,i
-11655674,"Cudars, Matiss",LAT,M,,,,1475,7,40,OCT25,2001,
-11640456,"Cuksts, Stefans",LAT,M,,,,1616,5,40,OCT25,2014,
+11655674,"Cudars, Matiss",LAT,M,,,,1476,7,40,OCT25,2001,
+11640456,"Cuksts, Stefans",LAT,M,,,,1614,5,40,OCT25,2014,
 11637528,"Culba, Krisjanis",LAT,M,,,,1498,0,40,OCT25,2012,
 11616504,"Culkova,Irena",LAT,F,,,,1678,0,20,OCT25,1958,wi
 11616512,"Culkovs,Mihails",LAT,M,,,,1655,0,20,OCT25,1955,i
 11630787,"Cuprovs, Georgijs",LAT,M,,,,1473,0,40,OCT25,2006,i
 11608285,"Cvetkovs, Nikita",LAT,M,,,,1690,0,20,OCT25,2001,i
 11623241,"Dabolins, Davis",LAT,M,,,,1504,0,40,OCT25,2010,i
-11633255,"Dabols, Janis Marks",LAT,M,,,,1768,17,40,OCT25,2011,
+11633255,"Dabols, Janis Marks",LAT,M,,,,1767,17,40,OCT25,2011,
 11610190,"Dacis, Edgars",LAT,M,,,,1606,0,20,OCT25,1986,
 11603453,"Dagis, Karlis",LAT,M,,,,1978,0,20,OCT25,1992,i
 11603461,"Dagis, Martins",LAT,M,,,,1984,0,20,OCT25,1988,i
-11630779,"Daineko, Jevgenija",LAT,F,,,,1495,4,40,OCT25,2012,w
+11630779,"Daineko, Jevgenija",LAT,F,,,,1494,4,40,OCT25,2012,w
 68400098,"Daineko, Pjotrs",LAT,M,,,,1521,0,40,OCT25,2008,i
 11610441,"Daleckis, Deniss",LAT,M,,,,1711,0,20,OCT25,2006,i
 11622890,"Daleckis, Valerijs",LAT,M,,,,1586,0,20,OCT25,2001,i
@@ -348,10 +352,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11649038,"Darzins, Emils",LAT,M,,,,1473,0,40,OCT25,2016,
 11643129,"Darzins, Kristaps",LAT,M,,,,1494,0,40,OCT25,2014,
 11601590,"Daskevics, Vitalijs",LAT,M,,,,1879,8,20,OCT25,1958,
-11649194,"Daugavins, Krisjanis",LAT,M,,,,1527,0,40,OCT25,2017,
+11649194,"Daugavins, Krisjanis",LAT,M,,,,1540,0,40,OCT25,2017,
 11647035,"Daugavins, Uldis",LAT,M,,,,1616,0,20,OCT25,1982,
 11602872,"Daugerts, Janis",LAT,M,,FI,,1964,0,20,OCT25,1981,
-11652691,"Davidjuks, Timofejs",LAT,M,,,,1460,20,40,OCT25,2012,
+11652691,"Davidjuks, Timofejs",LAT,M,,,,1458,20,40,OCT25,2012,
 11624744,"Davidsons, Rudolfs",LAT,M,,,,1430,0,40,OCT25,2008,i
 11611146,"Dedelis,Aleksejs",LAT,M,,,,1534,0,20,OCT25,2002,i
 11604794,"Deglis, Dainis",LAT,M,,,,1771,0,20,OCT25,1959,i
@@ -394,7 +398,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11630884,"Dreijers, Roberts",LAT,M,,,,1406,0,40,OCT25,2006,i
 11628553,"Dreimanis, Adrians",LAT,M,,,,1412,0,40,OCT25,2008,i
 11632798,"Dreimanis, Maris",LAT,M,,,,1436,0,20,OCT25,1955,
-11644940,"Drelings, Armands",LAT,M,,,,1416,21,40,OCT25,2013,
 11644885,"Drikane, Linda",LAT,M,,,,1467,0,40,OCT25,1992,i
 11606983,"Drilins, Andris",LAT,M,,,,2039,0,20,OCT25,1970,i
 11601833,"Dubova, Anna",LAT,F,,,,1810,0,20,OCT25,1995,wi
@@ -416,7 +419,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11643102,"Dzerve, Aksels",LAT,M,,,,1418,0,40,OCT25,2000,i
 11621940,"Dzervite, Katrina",LAT,F,,,,1464,0,40,OCT25,2009,wi
 11623020,"Dzervitis, Kaspars",LAT,M,,,,1482,0,20,OCT25,1975,i
-11636823,"Dzilna, Emils",LAT,M,,,,1415,0,40,OCT25,2014,
+11636823,"Dzilna, Emils",LAT,M,,,,1416,0,40,OCT25,2014,
 11649771,"Dzilna, Kristaps",LAT,M,,,,1544,0,40,OCT25,1990,i
 11603860,"Dzirkalis, Edvins",LAT,M,,,,2183,0,20,OCT25,1969,i
 11601280,"Dzjuba, Vsevolod",LAT,M,FM,,,2030,0,20,OCT25,1979,
@@ -425,30 +428,30 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11616318,"Eglite,Marta",LAT,F,,,,1432,0,20,OCT25,2003,wi
 11633670,"Eglitis, Roberts",LAT,M,,,,1663,19,20,OCT25,1966,
 11645725,"Eglitis, Rudis",LAT,M,,,,1559,0,40,OCT25,2009,
-11616652,"Eglitis,Kristaps",LAT,M,,,,1793,12,40,OCT25,2009,
+11616652,"Eglitis,Kristaps",LAT,M,,,,1781,11,40,OCT25,2009,
 11617160,"Eihvalds, Daniels",LAT,M,,,,1501,0,40,OCT25,2008,i
 11616571,"Ejubs,Zigfrids",LAT,M,,,,1545,0,20,OCT25,1941,i
 11605650,"El-Haze, Zans Pols",LAT,M,,,,1861,0,20,OCT25,1998,i
 11606622,"El-Zeins, Ismails",LAT,M,,,,1589,0,20,OCT25,1994,i
 11623560,"Elbergs, Guntis",LAT,M,,,,1632,0,20,OCT25,1986,i
-11640359,"Elsbergs, Andrejs",LAT,M,,,,1600,8,40,OCT25,2017,
+11640359,"Elsbergs, Andrejs",LAT,M,,,,1599,8,40,OCT25,2017,
 11603267,"Elsbergs, Janis",LAT,M,,,,1847,0,20,OCT25,1969,
 11606576,"Elsts, Andrs",LAT,M,,,,1991,0,20,OCT25,1979,
-11641398,"Elsts, Rihards",LAT,M,,,,1722,7,40,OCT25,2010,
+11641398,"Elsts, Rihards",LAT,M,,,,1723,7,40,OCT25,2010,
 11633859,"Endzina, Alise",LAT,F,,,,1511,0,20,OCT25,1988,w
 11633867,"Endzins, Jekabs",LAT,M,,,,1561,0,20,OCT25,1988,i
 11619651,"Ercmanis, Arturs",LAT,M,,,,1435,0,40,OCT25,2006,i
 11605138,"Erlats, Janis",LAT,M,,,,1861,0,20,OCT25,1963,i
 11600241,"Erneste, Inguna",LAT,F,WGM,WGM,,2090,0,20,OCT25,1966,wi
 11607670,"Ernstsons, Valdis",LAT,M,,,,1531,0,20,OCT25,1942,i
-11635096,"Ertmane, Ketija Kate",LAT,F,,,,1425,0,40,OCT25,2011,w
+11635096,"Ertmane, Ketija Kate",LAT,F,,,,1447,0,40,OCT25,2011,w
 11630183,"Evtusenko, Leonids",LAT,M,,,,1585,0,40,OCT25,2008,i
 11610204,"Ezerins, Tomass",LAT,M,,,,1657,0,20,OCT25,1966,i
 11620773,"Falilejevs, Jevgenijs",LAT,M,,,,1618,0,20,OCT25,1982,i
 11612304,"Fastovics,Pjotrs",LAT,M,,,,1848,0,20,OCT25,1955,i
 11604042,"Fedorovichs, Vladimirs",LAT,M,,,,1776,0,20,OCT25,1950,
 11607912,"Feldmanis, Andrejs",LAT,M,,,,1566,0,20,OCT25,2002,i
-11648554,"Feldmanis, Andris",LAT,M,,,,1492,15,40,OCT25,2015,
+11648554,"Feldmanis, Andris",LAT,M,,,,1497,51,40,OCT25,2015,
 11610794,"Feldmanis, Arturs",LAT,M,,,,1941,8,20,OCT25,1983,
 11612398,"Feldmanis, Kristers",LAT,M,,,,1700,0,40,OCT25,2007,i
 11610212,"Feldmanis, Reinis",LAT,M,,,,1470,0,20,OCT25,2001,i
@@ -460,12 +463,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11631899,"Filipovs, Sergejs",LAT,M,,,,2027,7,40,OCT25,2014,
 11627778,"Fjodorovs, Deniss",LAT,M,,,,1482,0,20,OCT25,2003,i
 11633468,"Fjodorovs, Dmitrijs",LAT,M,,,,1628,5,40,OCT25,2012,
-11645016,"Fjodorovs, Janis",LAT,M,,,,1517,9,40,OCT25,2007,
+11645016,"Fjodorovs, Janis",LAT,M,,,,1515,9,40,OCT25,2007,
 11632380,"Fjodorovs, Olegs",LAT,M,,,,1555,0,20,OCT25,1950,i
 11602031,"Fjodorovs, Sergejs",LAT,M,,,,2111,5,20,OCT25,1985,
 11615923,"Fjodorovs, Sergejs",LAT,M,,,,1486,0,40,OCT25,2008,
 11628421,"Florens, Ralfs Rafaels",LAT,M,,,,1458,0,40,OCT25,2009,i
-11633735,"Fogele, Estere",LAT,F,,,,1522,5,40,OCT25,2010,w
+11633735,"Fogele, Estere",LAT,F,,,,1529,5,40,OCT25,2010,w
 11633824,"Folkmanis, Valters",LAT,M,,,,1613,0,20,OCT25,2006,
 11610450,"Fomenko, Andrejs",LAT,M,,,,1542,0,40,OCT25,2004,i
 11607360,"Fomins, Artemijs",LAT,M,,,,1680,0,20,OCT25,2002,i
@@ -473,8 +476,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11615451,"Francs,Marats",LAT,M,CM,,,2168,0,40,OCT25,2008,
 11615796,"Frantkovska,Agata Marija",LAT,F,,,,1449,0,40,OCT25,2007,wi
 11639377,"Freiberga, Dita",LAT,F,,,,1410,0,40,OCT25,1996,wi
-11652365,"Freiberga, Estere",LAT,F,,,,1430,0,40,OCT25,2014,w
-11610891,"Freibergs, Andrejs",LAT,M,,,,1864,0,20,OCT25,2006,
+11652365,"Freiberga, Estere",LAT,F,,,,1434,0,40,OCT25,2014,w
+11610891,"Freibergs, Andrejs",LAT,M,,,,1865,0,20,OCT25,2006,
 11632160,"Freibergs, Darts",LAT,M,,,,1412,0,40,OCT25,2012,i
 11617314,"Freibergs, Filips",LAT,M,,,,1689,0,40,OCT25,2009,i
 11617322,"Freibergs, Raimonds",LAT,M,,,,1643,0,40,OCT25,2009,i
@@ -485,45 +488,44 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11633042,"Freipics, Rudis",LAT,M,,,,1538,0,40,OCT25,2006,i
 11608960,"Fridensteins-Bridins, Atis",LAT,M,,,,1850,0,20,OCT25,2004,
 11606053,"Fridmanis, Josifs",LAT,M,,,,1816,0,20,OCT25,1948,i
-11630990,"Fridmans, Boriss",LAT,M,,,,1636,7,40,OCT25,2012,
+11630990,"Fridmans, Boriss",LAT,M,,,,1635,7,40,OCT25,2012,
 11632470,"Fridmans, Ilja",LAT,M,,,,1625,7,40,OCT25,2012,
 11611227,"Fridrihsons, Edvards",LAT,M,,,,1773,0,20,OCT25,1991,i
-11633352,"Frolovs, Bruno",LAT,M,,,,1579,0,40,OCT25,2013,
+11633352,"Frolovs, Bruno",LAT,M,,,,1580,0,40,OCT25,2013,
 11633530,"Frolovs, Nikita",LAT,M,,,,1450,0,40,OCT25,2011,
 11636106,"Fulss, Eriks",LAT,M,,,,1685,0,20,OCT25,2005,
 11638672,"Gabranovs, Edgars",LAT,M,,,,1665,0,20,OCT25,1969,i
-11629738,"Gabrusans, Zanis",LAT,M,,,,1480,0,40,OCT25,2009,
+11629738,"Gabrusans, Zanis",LAT,M,,,,1481,0,40,OCT25,2009,
 11635398,"Gagainis, Guntars",LAT,M,,,,1510,0,40,OCT25,1963,
-11624086,"Gaidis, Edvards",LAT,M,,,,1670,0,40,OCT25,2011,
+11624086,"Gaidis, Edvards",LAT,M,,,,1671,0,40,OCT25,2011,
 11623683,"Gailevska, Milana",LAT,F,,,,1810,16,40,OCT25,2012,w
-11641681,Gailiss Gustavs,LAT,M,,,,1664,10,40,OCT25,2008,
+11641681,Gailiss Gustavs,LAT,M,,,,1669,10,40,OCT25,2008,
 11623888,"Gailitis, Martins",LAT,M,,,,1570,0,20,OCT25,1948,i
-11637951,"Gailums, Makss",LAT,M,,,,1708,20,40,OCT25,2014,
+11637951,"Gailums, Makss",LAT,M,,,,1702,19,40,OCT25,2014,
 11608129,"Gailums, Stanislavs",LAT,M,,,,1773,0,20,OCT25,1948,i
 11621222,"Gailums,Andrejs",LAT,M,,,,1456,0,40,OCT25,2008,i
 11625821,"Gajevskis, Antons",LAT,M,,,,1641,0,20,OCT25,1948,
-11606061,"Galkins, Semjons",LAT,M,,,,AIM,1959,13,OCT25,1993,
+11606061,"Galkins, Semjons",LAT,M,,,,1957,12,,OCT25,1993,
 11648805,"Galperns, Levijs",LAT,M,,,,1421,6,40,OCT25,2015,
 11639288,"Galvins, Edvards",LAT,M,,,,1524,8,40,OCT25,2012,
-11618671,"Gansone, Aiga",LAT,F,,,,1551,3,40,OCT25,2010,w
-11634545,"Ganza, Kims",LAT,M,,,,1621,0,40,OCT25,2008,
+11618671,"Gansone, Aiga",LAT,F,,,,1544,3,40,OCT25,2010,w
+11634545,"Ganza, Kims",LAT,M,,,,1623,0,40,OCT25,2008,
 11643587,"Garcia Costas, Francisco Javier",LAT,M,,,,1700,0,40,OCT25,1986,i
 11646667,"Garklavs, Leons",LAT,M,,,,1483,0,40,OCT25,2015,
-11655577,"Garoza, Kaspars",LAT,M,,,,1478,0,40,OCT25,1986,
+11655577,"Garoza, Kaspars",LAT,M,,,,1480,0,40,OCT25,1986,
 11603658,"Gatere, Liene",LAT,F,,,,1739,0,20,OCT25,1984,w
-11633301,"Gauja, Hugo Georgs",LAT,M,,,,1643,15,40,OCT25,2011,
+11633301,"Gauja, Hugo Georgs",LAT,M,,,,1642,15,40,OCT25,2011,
 11611359,"Gaveiko, Daniils",LAT,M,,,,1532,0,20,OCT25,2001,i
 11633484,"Gavrass, Maksims",LAT,M,,,,1475,0,40,OCT25,2010,
-11636360,"Gavrilova, Varvara",LAT,F,,,,1440,18,40,OCT25,2011,w
+11636360,"Gavrilova, Varvara",LAT,F,,,,1402,46,40,OCT25,2011,w
 11601906,"Gavrilovs, Dmitrijs",LAT,M,,,,1917,0,20,OCT25,1986,i
-11640030,"Gavrilovs, Ivans",LAT,M,,,,1404,0,40,OCT25,2014,
 11636831,"Geidans, Vilnis",LAT,M,,,,1630,0,20,OCT25,1981,i
 11606193,"Gerasimovs, Aleksejs",LAT,M,,,,1704,0,20,OCT25,2002,i
 11612533,"Gercans, Krisjanis",LAT,M,,,,1407,0,20,OCT25,2004,i
-11604301,"Gercans, Visvaldis",LAT,M,,,,1823,0,20,OCT25,1963,
+11604301,"Gercans, Visvaldis",LAT,M,,,,1825,0,20,OCT25,1963,
 11609710,"Germanovs, Georgijs",LAT,M,CM,,,2233,0,40,OCT25,2008,
 11629029,"Germanovs, Olegs",LAT,M,,,,1773,0,20,OCT25,1975,i
-11651822,"Gilba, Janis Arturs",LAT,M,,,,1476,5,40,OCT25,2010,
+11651822,"Gilba, Janis Arturs",LAT,M,,,,1503,5,40,OCT25,2010,
 11619848,"Ginko, Aleksandrs",LAT,M,,,,1572,0,40,OCT25,2010,i
 11639083,"Girgensons, Agris",LAT,M,,,,1746,0,20,OCT25,1961,i
 11653728,"Girnis, Matejs Mikelis",LAT,M,,,,1465,0,40,OCT25,2014,
@@ -531,17 +533,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11613955,"Glinda, Intars",LAT,M,,,,1565,0,20,OCT25,1987,i
 11608293,"Glotovs, Jurijs",LAT,M,,,,1698,0,20,OCT25,1953,i
 11613793,"Gnutons, Ugis",LAT,M,,,,1730,0,20,OCT25,1987,i
-11629789,"Gobleja, Karlis",LAT,M,,,,1963,19,20,OCT25,1968,
+11629789,"Gobleja, Karlis",LAT,M,,,,1962,19,20,OCT25,1968,
 11634456,"Gobnieks, Oskars",LAT,M,,,,1515,0,40,OCT25,2008,i
 11607688,"Gogins, Deniss",LAT,M,,,,1593,0,20,OCT25,1996,i
 11613360,"Golca, Janika",LAT,F,,,,1453,0,40,OCT25,1956,w
-11639580,"Goldbergs, Edvards",LAT,M,,,,1765,31,40,OCT25,2010,
+11639580,"Goldbergs, Edvards",LAT,M,,,,1766,31,40,OCT25,2010,
 11600446,"Goldmane, Astra",LAT,F,,,,1886,0,20,OCT25,1956,wi
 11645245,"Goldmanis, Roberts",LAT,M,,,,1508,0,40,OCT25,2005,i
 68400071,"Golikovs, Nikita",LAT,M,,,,1506,0,40,OCT25,2007,i
 11625260,"Golomjodovs, Dmitrijs",LAT,M,,,,1617,0,20,OCT25,1977,i
-11607386,"Golsta, Madara",LAT,F,,,,1963,11,20,OCT25,2003,w
-11607394,"Golsta, Ramona",LAT,F,,,,AFM,1880,0,OCT25,2003,wi
+11607386,"Golsta, Madara",LAT,F,,,,1964,11,20,OCT25,2003,w
+11607394,"Golsta, Ramona",LAT,F,,,,1880,0,,OCT25,2003,wi
 11601582,"Golubeva, Marija",LAT,F,,,,1882,0,20,OCT25,1998,wi
 11648341,"Golubevs, Nikita",LAT,M,,,,1584,0,40,OCT25,2005,i
 11608528,"Golubovskis, Maksims",LAT,M,FM,,,2294,0,20,OCT25,2003,
@@ -566,7 +568,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11601604,"Graudins, Ilmars",LAT,M,,,,2101,0,20,OCT25,1968,i
 11638150,"Graudins, Marks",LAT,M,,,,1432,0,40,OCT25,2012,
 11638168,"Graudins, Patriks",LAT,M,,,,1427,0,40,OCT25,2012,
-11630752,"Gravere, Justine Elza",LAT,F,,,,1501,23,40,OCT25,2007,w
+11630752,"Gravere, Justine Elza",LAT,F,,,,1500,23,40,OCT25,2007,w
 11640561,"Gravitis, Augusts",LAT,M,,,,1599,0,40,OCT25,2008,i
 11644745,"Gravitis, Kristaps",LAT,M,,,,1484,0,40,OCT25,2005,i
 11619740,"Greiskans, Anrijs",LAT,M,,,,1581,0,40,OCT25,2009,i
@@ -579,8 +581,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11631490,"Grigorjans, Aleksandrs",LAT,M,,,,1618,0,20,OCT25,1940,i
 11629800,"Grigorjeva, Nadezda",LAT,F,,,,1492,0,20,OCT25,1958,wi
 11606282,"Grigorjevs, Arsenijs",LAT,M,,,,1785,0,20,OCT25,1942,i
-11636394,"Grigorjevs, Kristers",LAT,M,,,,1552,4,40,OCT25,2009,
+11636394,"Grigorjevs, Kristers",LAT,M,,,,1551,4,40,OCT25,2009,
 11645369,"Grigors, Germans",LAT,M,,,,1427,5,40,OCT25,2011,
+11649518,"Grikis, Edgars",LAT,M,,,,1401,5,40,OCT25,1983,i
 11608307,"Grinbergs, Andris",LAT,M,,,,1508,0,20,OCT25,2005,i
 11622822,"Grinbergs, Reinis Kristofers",LAT,M,,,,1545,0,20,OCT25,2000,i
 11651318,"Grinbergs, Ricards",LAT,M,,,,1451,0,40,OCT25,2016,
@@ -602,22 +605,22 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11615990,"Grundmanis,Bernards",LAT,M,,,,1546,0,40,OCT25,2008,i
 11612657,"Grunte, Modris",LAT,M,,,,1627,0,20,OCT25,1952,i
 11643315,"Grunwald, Mihael",LAT,M,,,,1451,0,40,OCT25,1997,i
-11617942,"Gruznova, Kristine",LAT,F,,NA,,1585,0,40,OCT25,2008,w
+11617942,"Gruznova, Kristine",LAT,F,,NA,,1587,0,40,OCT25,2008,w
 11612088,"Guba, Juris",LAT,M,,,,1752,0,20,OCT25,1970,i
-11613459,"Gubanovs, Ivo",LAT,M,,,,ACM,1612,0,OCT25,1973,i
+11613459,"Gubanovs, Ivo",LAT,M,,,,1612,0,,OCT25,1973,i
 11643803,"Gubarevics, Daniils",LAT,M,,,,1645,0,40,OCT25,2013,
 11611626,"Gudkovs, Artjoms",LAT,M,,,,1546,0,20,OCT25,2001,i
 11609753,"Gudovskis, Konstantins",LAT,M,,,,2069,40,20,OCT25,1983,
 11620188,"Gudriks, Janis",LAT,M,,,,1498,0,20,OCT25,2006,i
 11613572,"Gulayev,Alexander",LAT,M,,,,1570,0,20,OCT25,1986,i
-11614994,"Gulbis, Elmars",LAT,M,,,,1500,0,40,OCT25,1928,
+11614994,"Gulbis, Elmars",LAT,M,,,,1501,0,40,OCT25,1928,
 11646985,"Gulbis, Girts",LAT,M,,,,1620,0,40,OCT25,1965,i
 11609060,"Gulmedovs,Murats Geoklens",LAT,M,,,,1579,0,20,OCT25,2006,i
 11609850,"Gulnevs, Daniils",LAT,M,,,,1847,0,20,OCT25,2002,i
-11623802,"Guminskaya, Daria",LAT,F,,,,1589,0,40,OCT25,2011,w
-11632461,"Guminskiy, Gregory",LAT,M,,,,1580,0,40,OCT25,2014,
+11623802,"Guminskaya, Daria",LAT,F,,,,1590,0,40,OCT25,2011,w
+11632461,"Guminskiy, Gregory",LAT,M,,,,1578,0,40,OCT25,2014,
 11602040,"Gutmans, Mihail",LAT,M,,,,2007,0,20,OCT25,1988,
-11651946,"Gutmans, Pavels",LAT,M,,,,1484,3,40,OCT25,2015,
+11651946,"Gutmans, Pavels",LAT,M,,,,1486,3,40,OCT25,2015,
 11603488,"Haciveli, Zubeirs",LAT,M,,,,1871,0,20,OCT25,1998,i
 11605707,"Hakels, Eduards",LAT,M,,,,1786,0,20,OCT25,1978,i
 11635240,"Hallvard, Sveen",LAT,M,,,,1754,0,20,OCT25,1993,
@@ -636,9 +639,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11623837,"Hermanis, Arturs",LAT,M,,,,1446,0,20,OCT25,1999,i
 11617691,"Hermanis, Atis",LAT,M,,,,1626,0,20,OCT25,2006,i
 11615559,"Himiceva,Anastasija",LAT,F,,,,1446,0,40,OCT25,2006,wi
+11654252,"Himins, Matfejs",LAT,M,,,,1406,6,40,OCT25,2012,
 11632879,"Hiznikovs, Miks Tomass",LAT,M,,,,1606,0,20,OCT25,2004,
 11612746,"Hlopkova, Jekaterina",LAT,F,,,,1612,0,20,OCT25,2004,w
 11602368,"Hohluks, Aleksandrs",LAT,M,,,,2139,0,20,OCT25,1991,i
+11650869,"Hohotva, Sergejs",LAT,M,,,,1499,5,40,OCT25,2007,
 11618477,"Holsteins, Hugo",LAT,M,,,,1454,0,40,OCT25,2008,i
 11628790,"Hops, Roberts",LAT,M,,,,1775,5,40,OCT25,2009,
 11604239,"Horobrijs, Daniils",LAT,M,,,,1866,0,20,OCT25,2004,i
@@ -648,7 +653,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11617799,"Hvostikova, Arina",LAT,F,,,,1407,0,40,OCT25,2007,wi
 11627867,"Hvostovs, Mihails",LAT,M,,,,1412,0,40,OCT25,2008,i
 11636505,"Ignatenko, Rolands",LAT,M,,,,1586,13,40,OCT25,2012,
-11609559,"Ikstena, Sarlote",LAT,F,,,,1633,16,20,OCT25,2005,w
+11609559,"Ikstena, Sarlote",LAT,F,,,,1632,16,20,OCT25,2005,w
 11611740,"Ikstens, Krisjanis",LAT,M,,,,1556,0,40,OCT25,2006,
 11641460,"Iljenko, Janis Niklavs",LAT,M,,,,1571,0,20,OCT25,2003,
 11633034,"Iljins, Kirils",LAT,M,,,,1835,8,40,OCT25,2011,
@@ -656,14 +661,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11604158,"Imanovs, Elhans",LAT,M,,,,1881,0,20,OCT25,1996,i
 11603305,"Indricans, Olgerts",LAT,M,,,,2235,0,20,OCT25,1990,
 11601027,"Indricans, Vadims",LAT,M,,,,2027,0,20,OCT25,1993,
-11641541,"Irikova, Arina",LAT,F,,,,1484,5,40,OCT25,2015,w
 4668030,"Isakovs, Janis",LAT,M,,,,1902,7,20,OCT25,1960,
 11635550,"Isakovs, Marks",LAT,M,,,,1415,0,40,OCT25,2014,i
 11605715,"Istlajevs, Vladimirs",LAT,M,,,,1705,0,20,OCT25,1959,
 11601485,"Ivanisvili, Andrejs",LAT,M,,,,1960,0,20,OCT25,1982,
-11625970,"Ivanisvili, Maksims",LAT,M,,,,1643,0,40,OCT25,2011,
+11625970,"Ivanisvili, Maksims",LAT,M,,,,1644,0,40,OCT25,2011,
 11644265,"Ivanov, Andrei",LAT,M,,,,1426,0,40,OCT25,2011,i
-34137430,"Ivanov, Igor",LAT,M,,,,2189,17,20,OCT25,1999,
+34137430,"Ivanov, Igor",LAT,M,,,,2190,17,20,OCT25,1999,
 11609125,"Ivanova,Katrina Telma",LAT,F,,,,1536,0,20,OCT25,2001,wi
 11611421,"Ivanova,Ulyana",LAT,F,,,,1437,0,40,OCT25,2007,wi
 11626283,"Ivanovs, Aleksejs",LAT,M,,,,1845,0,20,OCT25,1984,i
@@ -671,17 +675,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11634880,"Ivanovs, Maksims",LAT,M,,,,1416,0,20,OCT25,1992,i
 11642467,"Ivanovs, Renars",LAT,M,,,,1566,0,20,OCT25,2006,
 11603941,"Ivanovs, Viktors",LAT,M,,,,1806,0,20,OCT25,1962,
-11608498,"Ivanovskis, Sergejs",LAT,M,,,,1745,25,20,OCT25,1956,
+11608498,"Ivanovskis, Sergejs",LAT,M,,,,1743,24,20,OCT25,1956,
 11634685,"Ivasko, Markuss",LAT,M,,,,1520,0,20,OCT25,2000,i
 11603496,"Ivbulis, Martins",LAT,M,,,,2026,0,20,OCT25,1993,
 11604190,"Ivonins, Andis",LAT,M,,,,1957,0,20,OCT25,0,
-11624469,"Ivulans, Patriks",LAT,M,,,,1933,17,40,OCT25,2013,
+11624469,"Ivulans, Patriks",LAT,M,,,,1930,16,40,OCT25,2013,
 11635215,"Izmailovs, Aleksandrs",LAT,M,,,,1412,0,20,OCT25,2000,i
 11625520,"Jablokovs, Nikita",LAT,M,,,,1417,0,40,OCT25,2009,i
 11604247,"Jablonskaja, Anastasija",LAT,F,,,,1691,0,20,OCT25,2001,wi
 11633220,"Jahangiryan, Ruben",LAT,M,,,,1561,0,40,OCT25,2011,
 11603313,"Jaickis, Vladislavs",LAT,M,,,,1741,0,20,OCT25,1991,i
-11643447,"Jakabsone, Tifanija Bella",LAT,F,,,,1629,15,40,OCT25,2014,w
+11643447,"Jakabsone, Tifanija Bella",LAT,F,,,,1627,15,40,OCT25,2014,w
 11622091,"Jakabsons, Maris",LAT,M,,,,1506,0,20,OCT25,2002,i
 11613300,"Jakobsons, Andris",LAT,M,,,,1813,0,20,OCT25,1952,
 11639407,"Jakobsons, Larss",LAT,M,,,,1418,0,40,OCT25,2008,i
@@ -692,6 +696,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11619929,"Jakubsevicus, Raimonds",LAT,M,,,,1641,0,40,OCT25,2009,i
 11615583,"Jaldova, Lilita",LAT,F,,,,1435,0,20,OCT25,2004,wi
 11616156,"Jaldovs,Dmitrijs",LAT,M,,,,1575,0,20,OCT25,2004,i
+11647000,"Janbergs, Reinis",LAT,M,,,,1407,9,40,OCT25,2012,
 11609923,"Jancevskis, Juris",LAT,M,,,,1476,0,20,OCT25,2002,i
 11643293,"Janev, Dimitar",LAT,M,,,,1571,0,40,OCT25,1972,i
 11611502,"Jankovskis, Aldis",LAT,M,,,,1770,0,20,OCT25,1965,i
@@ -702,32 +707,32 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11650761,"Jansons, Edvards",LAT,M,,,,1735,6,40,OCT25,2000,
 11637269,"Jansons, Hugo",LAT,M,,,,1650,0,20,OCT25,1997,i
 11608480,"Jansons, Janis",LAT,M,,,,1674,0,20,OCT25,1977,i
-11624523,"Jansons, Kristers Roberts",LAT,M,,,,1708,22,20,OCT25,2002,
-11651580,"Jansons, Roberts",LAT,M,,,,1548,0,40,OCT25,2001,
+11624523,"Jansons, Kristers Roberts",LAT,M,,,,1707,22,20,OCT25,2002,
+11651580,"Jansons, Roberts",LAT,M,,,,1547,0,40,OCT25,2001,
 11636807,"Jansons, Svens",LAT,M,,,,1480,0,20,OCT25,1996,i
 11609966,"Jansons, Valdis",LAT,M,,,,1786,10,20,OCT25,1978,
 11633808,"Jaresko, Timurs",LAT,M,,,,1673,0,40,OCT25,2008,
 11626429,"Jarmaks, Maksims",LAT,M,,,,1526,0,40,OCT25,2008,i
 11610255,"Jaroshs, Maksims",LAT,M,,,,1807,14,20,OCT25,1981,
-11612010,"Jasinskis, Anatolijs",LAT,M,,,,AFM,1728,0,OCT25,1965,i
+11612010,"Jasinskis, Anatolijs",LAT,M,,,,1728,0,,OCT25,1965,i
 11653370,"Jaunzars, Rudolfs",LAT,M,,,,1429,0,40,OCT25,2000,
 11604492,"Jazdanovs, Aleksandrs",LAT,M,CM,,,2133,0,20,OCT25,2003,
 11647280,"Jazvinskis, Aleksejs",LAT,M,,,,1468,0,40,OCT25,2015,
-11650044,"Jefimova, Marija",LAT,F,,,,1478,0,40,OCT25,2017,w
+11650044,"Jefimova, Marija",LAT,F,,,,1480,0,40,OCT25,2017,w
 11649470,"Jefimovs, Akims",LAT,M,,,,1927,0,40,OCT25,2017,
-11601299,"Jefremov, Aivar",LAT,M,,"NI,NA",,AFM,1837,7,OCT25,1996,
+11601299,"Jefremov, Aivar",LAT,M,,"NI,NA",,1837,7,,OCT25,1996,
 11640740,"Jefremovs, Eriks",LAT,M,,,,1481,0,40,OCT25,2007,i
-11615389,"Jekabsone, Nellija",LAT,F,,,,1620,0,40,OCT25,2008,w
+11615389,"Jekabsone, Nellija",LAT,F,,,,1611,0,40,OCT25,2008,w
 11645644,"Jekabsone, Sandra",LAT,F,,,,1473,0,40,OCT25,1987,wi
 11628227,"Jekabsons, Alberts",LAT,M,,,,1675,0,20,OCT25,1991,i
 11612959,"Jekabsons, Andrejs",LAT,M,,,,1509,0,20,OCT25,1939,i
 11629150,"Jekabsons, Andris",LAT,M,,,,1505,0,20,OCT25,1981,i
-11605359,"Jekabsons, Ivars",LAT,M,,,,1834,9,20,OCT25,1962,
+11605359,"Jekabsons, Ivars",LAT,M,,,,1835,9,20,OCT25,1962,
 11610751,"Jekabsons, Janis",LAT,M,,,,1766,0,20,OCT25,1928,i
 11601302,"Jemeljanova, Irina",LAT,F,,,,1722,0,20,OCT25,1985,w
 11607947,"Jenavs, Ernests",LAT,M,,,,1608,0,20,OCT25,1988,i
 11639962,"Jentkute, Maija",LAT,F,,,,1495,1,40,OCT25,2015,w
-11632429,"Jeparovs, Nikita",LAT,M,,,,1517,0,40,OCT25,2011,
+11632429,"Jeparovs, Nikita",LAT,M,,,,1495,0,40,OCT25,2011,
 11638699,"Jeremejevs, Vladimirs",LAT,M,,,,1581,0,20,OCT25,2006,i
 11607700,"Jerjomins, Jevgenijs",LAT,M,,,,1936,0,20,OCT25,1985,i
 11648031,"Jermakovs, Vjaceslavs",LAT,M,,,,1412,0,40,OCT25,1989,
@@ -769,27 +774,26 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11627417,"Kaletkins, Arturs",LAT,M,,,,1461,0,40,OCT25,2005,i
 11607220,"Kalinicenko, Igor",LAT,M,,,,1848,0,20,OCT25,1970,i
 11607211,"Kalinicenko, Maksims",LAT,M,,,,1750,0,20,OCT25,1998,i
-11631856,"Kalinin, Oleg",LAT,M,,,,1823,15,40,OCT25,2012,
+11631856,"Kalinin, Oleg",LAT,M,,,,1824,15,40,OCT25,2012,
 11620021,"Kalinins, Andrejs",LAT,M,,,,1708,0,20,OCT25,1963,i
 11629428,"Kalinins, Sergejs",LAT,M,,,,1554,0,20,OCT25,1986,i
 11629002,"Kalmasnikovs, Artjoms",LAT,M,,,,1421,0,40,OCT25,2006,i
 11621320,"Kalnarajs, Andris",LAT,M,,,,1599,0,20,OCT25,1941,i
 11639920,"Kalnciems, Roberts",LAT,M,,,,1485,0,40,OCT25,2010,
 11622555,"Kalnins, Aleksandrs Alans",LAT,M,,,,1752,0,20,OCT25,2001,
-11638230,"Kalnins, Eduards",LAT,M,,,,1517,0,40,OCT25,2010,
+11638230,"Kalnins, Eduards",LAT,M,,,,1518,0,40,OCT25,2010,
 11648155,"Kalnins, Ervins",LAT,M,,,,1672,0,40,OCT25,2007,i
 11626992,"Kalnins, Girts",LAT,M,,,,1554,0,20,OCT25,1979,i
 11642998,"Kalnins, Kaspars",LAT,M,,,,1869,0,20,OCT25,1984,
-11607718,"Kalnins, Normunds",LAT,M,,,,1882,0,20,OCT25,1931,i
 11612037,"Kalnins, Normunds",LAT,M,,,,1738,0,20,OCT25,1962,i
+11607718,"Kalnins, Normunds",LAT,M,,,,1882,0,20,OCT25,1931,i
 11638516,"Kalnins, Reinis",LAT,M,,,,1564,0,40,OCT25,1997,i
 11604069,"Kalnins, Toms",LAT,M,,"AO,IO,SI",,2075,0,20,OCT25,1996,i
 11640600,"Kalnins, Valters",LAT,M,,,,1539,0,20,OCT25,2004,i
 11631651,"Kalnins, Vilis",LAT,M,,,,1537,0,20,OCT25,1949,
 11608323,"Kalpaks, Aivars",LAT,M,,,,1737,0,20,OCT25,1968,i
 11641258,"Kalvans, Karlis",LAT,M,,,,1520,0,40,OCT25,2007,i
-11626038,"Kalvans, Mikus",LAT,M,,,,1422,0,40,OCT25,2011,
-11637757,"Kalve, Andris",LAT,M,,,,1547,30,20,OCT25,1957,
+11637757,"Kalve, Andris",LAT,M,,,,1548,30,20,OCT25,1957,
 11618906,"Kalve, Maris",LAT,M,,,,1663,0,20,OCT25,1970,i
 11641894,"Kamaruts, Arturs",LAT,M,,,,1552,0,20,OCT25,2004,i
 11614048,"Kameruts,Arturs",LAT,M,,,,1470,0,20,OCT25,2004,i
@@ -800,7 +804,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11607424,"Kanejevs, Kristaps",LAT,M,,,,1699,0,20,OCT25,2002,i
 11605049,"Kannina, Krista",LAT,F,,,,1624,0,20,OCT25,1998,wi
 11629312,"Kantans, Ansis",LAT,M,,,,1903,5,40,OCT25,2011,
-11629304,"Kantans, Jekabs",LAT,M,,,,1616,4,40,OCT25,2011,
+11629304,"Kantans, Jekabs",LAT,M,,,,1615,4,40,OCT25,2011,
 11602945,"Kantans, Toms",LAT,M,GM,,,2417,0,10,OCT25,1994,
 11609974,"Kantoris, Agris",LAT,M,,,,1979,0,20,OCT25,1961,
 11644460,"Kapakle, Katrina Marta",LAT,F,,,,1478,0,40,OCT25,2008,wi
@@ -811,7 +815,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11604522,"Karanevskis, Arturs",LAT,M,,,,1730,0,20,OCT25,1998,i
 11616776,"Karasevics,Aleksandrs",LAT,M,,,,1779,0,40,OCT25,2009,
 11613386,"Karasimos, Georgios",LAT,M,,,,1592,0,20,OCT25,1974,i
-11650362,"Karavajevs, Elisejs",LAT,M,,,,1534,27,40,OCT25,2013,
+11650362,"Karavajevs, Elisejs",LAT,M,,,,1425,46,40,OCT25,2013,
 11633905,"Karbazals, Huans Boriss",LAT,M,,,,1500,0,20,OCT25,1997,i
 11600942,"Karklins, Imants",LAT,M,,,,2085,0,20,OCT25,1971,i
 11623292,"Karklins, Janis",LAT,M,,,,1791,0,20,OCT25,1975,i
@@ -822,8 +826,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11602643,"Karzinins, Genadijs",LAT,M,,,,2002,0,20,OCT25,1992,i
 11623527,"Kashkinbekov, Arman",LAT,M,,,,1681,0,20,OCT25,1977,i
 11606355,"Katajevs, Jevgenijs",LAT,M,,,,1666,0,20,OCT25,1941,
-11649828,"Katilavics, Laimonis",LAT,M,,,,1489,0,40,OCT25,1970,
-11654716,"Katins, Aleksandrs",LAT,M,,,,1595,0,40,OCT25,1953,
+11649828,"Katilavics, Laimonis",LAT,M,,,,1498,0,40,OCT25,1970,
+11654716,"Katins, Aleksandrs",LAT,M,,,,1597,0,40,OCT25,1953,
 11600225,"Katishonok, Nikolaj",LAT,M,FM,,,2206,0,20,OCT25,1957,
 11637501,"Katkovskis, Davids",LAT,M,,,,1435,0,40,OCT25,2012,i
 11629460,"Kaverins, Nikita",LAT,M,,,,1833,0,20,OCT25,1969,i
@@ -834,7 +838,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11617705,"Kazoks, Aivars",LAT,M,,,,1870,0,20,OCT25,1953,
 11614404,"Kede, Ligita",LAT,F,,,,1550,0,20,OCT25,1960,wi
 11619171,"Kedze, Aivars",LAT,M,,,,1513,0,20,OCT25,1955,i
-11645318,"Keiss, Davids",LAT,M,,,,1455,0,40,OCT25,2012,
+11645318,"Keiss, Davids",LAT,M,,,,1450,0,40,OCT25,2012,
 11605375,"Keiss, Evalds",LAT,M,,,,1808,0,20,OCT25,1962,i
 11618914,"Kelle, Miks",LAT,M,,,,1414,0,40,OCT25,2005,i
 11634766,"Kellija, Nikola",LAT,F,,,,1540,0,40,OCT25,2011,w
@@ -856,7 +860,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11609109,"Kipluka,Anna Krista",LAT,F,,,,1542,0,20,OCT25,2005,wi
 11640448,"Kirkums, Roberts",LAT,M,,,,1557,0,40,OCT25,2005,i
 11600373,"Kirpichnikov, Vladimir",LAT,M,FM,,,2326,0,20,OCT25,1948,i
-11620579,"Kirpicovs, Jegors",LAT,M,,,,1735,7,40,OCT25,2008,
+11620579,"Kirpicovs, Jegors",LAT,M,,,,1729,6,40,OCT25,2008,
 11616032,"Kirsakmens,Emils",LAT,M,,,,1419,0,40,OCT25,2005,i
 11603500,"Kirsbergs, Girts",LAT,M,,,,1873,7,20,OCT25,1968,
 11642440,"Kirstuks, Regnars",LAT,M,,,,1515,0,40,OCT25,2015,
@@ -872,12 +876,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11619457,"Klavins, Druvvaldis",LAT,M,,,,1817,0,20,OCT25,1938,i
 11646780,"Klavins, Guntis",LAT,M,,,,1444,0,40,OCT25,1982,
 11646799,"Klavins, Juris",LAT,M,,,,1758,0,40,OCT25,1956,i
-11650702,"Klavins, Reinis",LAT,M,,,,1470,6,40,OCT25,2015,
+11650702,"Klavins, Reinis",LAT,M,,,,1469,6,40,OCT25,2015,
 11618469,"Kleins, Elands",LAT,M,,,,1440,0,20,OCT25,2004,i
 11648546,"Kleins, Ricards",LAT,M,,,,1494,0,40,OCT25,2018,i
 11613653,"Klepikovs, Henrihs",LAT,M,,,,1641,0,20,OCT25,1940,i
-11643820,"Klesnins, Artemijs",LAT,M,,,,1416,11,40,OCT25,2015,
-11643862,"Klesnins, Daniils",LAT,M,,,,ACM,1521,13,OCT25,2009,
+11643820,"Klesnins, Artemijs",LAT,M,,,,1425,10,40,OCT25,2015,
+11643862,"Klesnins, Daniils",LAT,M,,,,1518,13,,OCT25,2009,
 11616237,"Klidzina,Alise",LAT,F,,,,1455,0,40,OCT25,2007,wi
 11602066,"Klimakovs, Sergejs",LAT,M,FM,,,2266,5,20,OCT25,1985,
 11638362,"Klimenka, Danila",LAT,M,,,,1507,0,40,OCT25,2010,
@@ -888,8 +892,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11602350,"Klochan, Jevgeny",LAT,M,,,,2163,0,20,OCT25,1991,i
 11642246,"Kluga, Roberts",LAT,M,,,,1433,0,40,OCT25,2009,i
 11623594,"Klusa, Zanete",LAT,F,,,,1531,0,40,OCT25,2008,w
+11644699,"Kluss, Antons",LAT,M,,,,1530,5,40,OCT25,2014,
 11615222,"Kneve,Ivars",LAT,M,,,,1584,0,20,OCT25,1963,i
-11632780,"Koceruba, Aleksandrs",LAT,M,,,,1677,6,20,OCT25,1957,
+11632780,"Koceruba, Aleksandrs",LAT,M,,,,1693,5,20,OCT25,1957,
 11638389,"Koceruba, Vjaceslavs",LAT,M,,,,1501,0,20,OCT25,1980,i
 11613637,"Kogans, Simons",LAT,M,,,,1783,0,20,OCT25,1940,i
 11616849,"Kokina,Elizabete",LAT,F,,NA,,1458,0,20,OCT25,2006,w
@@ -918,33 +923,34 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11606304,"Korovaikovs, Vladimirs",LAT,M,,,,1595,4,20,OCT25,1946,
 11623608,"Korovin, Vasilij",LAT,M,,,,1726,0,20,OCT25,1934,i
 11619406,"Korsakovs, Marks",LAT,M,,,,1426,0,20,OCT25,2004,i
-11636491,"Korzanova,  Anna",LAT,F,,,,1511,0,40,OCT25,2011,w
+11636491,"Korzanova,  Anna",LAT,F,,,,1514,0,40,OCT25,2011,w
 11612002,"Korzans, Vilmars",LAT,M,,,,1851,0,20,OCT25,1963,i
 11617349,"Kosarevs, Vsevolods",LAT,M,,,,1509,0,40,OCT25,2009,i
-11636521,"Kotin, Nikita",LAT,M,,,,1587,0,40,OCT25,2011,
+11636521,"Kotin, Nikita",LAT,M,,,,1586,0,40,OCT25,2011,
 11633069,"Kotovs, Ilja",LAT,M,,,,1421,0,40,OCT25,2010,i
 11607068,"Kovada, Vadims",LAT,M,,,,1785,0,20,OCT25,1993,
 11606096,"Kovalevskis, Artjoms",LAT,M,,,,1776,0,20,OCT25,2000,i
 11602376,"Kovalevsky, Arkady",LAT,M,,,,2209,0,20,OCT25,1990,i
 11605146,"Kovalskis, Mihails",LAT,M,,,,1892,0,20,OCT25,1987,
 11603330,"Kovsuns, Nikolajs",LAT,M,,"FI,NA",,1890,0,20,OCT25,1988,i
+11645059,"Kozemjakins, Enzo",LAT,M,,,,1483,7,40,OCT25,2010,
 11610000,"Kozlinskis, Simons",LAT,M,,,,1802,0,20,OCT25,1962,i
 11621460,"Kozlovs, Aleksandrs",LAT,M,,,,1481,0,40,OCT25,2005,i
 11625775,"Kozlovs, Pavels",LAT,M,,,,1438,0,40,OCT25,2010,i
 11608358,"Kozlovskis, Janis",LAT,M,,,,1711,0,20,OCT25,1944,i
-11646977,"Kozlovskis, Juris",LAT,M,,,,1442,0,40,OCT25,1986,
 11609869,"Kozlovskis, Juris",LAT,M,,,,1565,5,20,OCT25,1948,
+11646977,"Kozlovskis, Juris",LAT,M,,,,1442,0,40,OCT25,1986,
 11645113,"Kozlovskis, Marjans",LAT,M,,,,1478,0,40,OCT25,2015,
 11611693,"Krainovs, Maksims",LAT,M,,,,1810,0,20,OCT25,1979,i
 11600462,"Krakops, Maris",LAT,M,GM,,,2470,0,10,OCT25,1978,i
-11621290,"Krakops, Martijs",LAT,M,,,,1914,19,40,OCT25,2010,
+11621290,"Krakops, Martijs",LAT,M,,,,1915,19,40,OCT25,2010,
 11624051,"Krasavins, Glebs",LAT,M,,,,1434,0,40,OCT25,2009,i
-11618019,"Krasilnikova, Marija",LAT,F,,,,1731,10,40,OCT25,2009,w
+11618019,"Krasilnikova, Marija",LAT,F,,,,1732,10,40,OCT25,2009,w
 11618078,"Krasilnikovs, Aleksandrs",LAT,M,,NA,,1676,0,20,OCT25,2006,i
 11622644,"Krasilnikovs, Glebs",LAT,M,,,,1524,0,20,OCT25,1972,i
 11633590,"Krasovskis, Valdis",LAT,M,,,,1496,0,40,OCT25,2012,i
 11607343,"Krastins, Arturs",LAT,M,,,,1845,0,20,OCT25,2005,i
-11643188,"Krastins, Imants",LAT,M,,,,1461,0,20,OCT25,1978,
+11643188,"Krastins, Imants",LAT,M,,,,1462,0,20,OCT25,1978,
 11608137,"Krastins, Janis",LAT,M,,,,1964,0,20,OCT25,1949,i
 11603666,"Krastins, Juris",LAT,M,,,,1951,0,20,OCT25,1987,i
 11645792,"Krastkalns, Teodors Jekabs",LAT,M,,,,1447,5,40,OCT25,2013,
@@ -963,11 +969,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11607335,"Krivihs, Stanislavs",LAT,M,,,,2040,0,20,OCT25,1947,i
 11600349,"Krivonosov, Oleg",LAT,M,IM,,,2353,7,10,OCT25,1961,
 11604883,"Krjukovs, Dmitrijs",LAT,M,,,,1843,0,20,OCT25,2000,i
-11640758,"Krjukovs, Timurs",LAT,M,,,,1527,0,40,OCT25,2012,
-11648481,"Kromane, Laura",LAT,F,,,,1428,0,40,OCT25,2012,w
-11635665,"Kromans, Rinalds",LAT,M,,,,1411,6,40,OCT25,2014,
+11640758,"Krjukovs, Timurs",LAT,M,,,,1528,0,40,OCT25,2012,
+11648481,"Kromane, Laura",LAT,F,,,,1427,0,40,OCT25,2012,w
+11635665,"Kromans, Rinalds",LAT,M,,,,1414,10,40,OCT25,2014,
 11604077,"Kronlaks, Olafs",LAT,M,,,,1789,0,20,OCT25,1941,
-11655690,"Kruklis, Armands",LAT,M,,,,1691,8,40,OCT25,1981,
+11655690,"Kruklis, Armands",LAT,M,,,,1692,8,40,OCT25,1981,
 11601701,"Krumina, Linda",LAT,F,WFM,WFM,,2014,0,20,OCT25,1984,w
 11607890,"Krumina, Marija",LAT,F,,,,1675,0,20,OCT25,2001,wi
 11620854,"Krumins, Janis",LAT,M,,,,1872,8,40,OCT25,2009,
@@ -1002,7 +1008,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11624485,"Kurmelis, Jekabs",LAT,M,,,,1523,0,40,OCT25,2010,i
 11647639,"Kurmis, Rudolfs",LAT,M,,,,1433,0,40,OCT25,2006,i
 11613122,"Kurockins, Antons",LAT,M,,,,1548,0,40,OCT25,2005,i
-11612975,"Kurpniece, Viktorija",LAT,F,,,,1413,4,20,OCT25,1955,w
+11612975,"Kurpniece, Viktorija",LAT,F,,,,1414,4,20,OCT25,1955,w
 11602074,"Kurpnieks, Vairis",LAT,M,,,,1860,0,20,OCT25,1976,
 11612274,"Kurpnieks,Marcis",LAT,M,,,,1594,0,40,OCT25,2005,i
 11640090,"Kusenko, Romans",LAT,M,,,,1712,0,20,OCT25,1978,i
@@ -1021,12 +1027,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11600497,"Lacis, Aleksandrs",LAT,M,,,,1689,0,20,OCT25,1937,i
 11605774,"Lacis, Edgars",LAT,M,,,,1818,0,20,OCT25,1958,i
 11638460,"Lacis, Janis",LAT,M,,,,1503,0,40,OCT25,1997,i
-11654813,"Lacis, Janis Edvarts",LAT,M,,,,1485,6,40,OCT25,2006,
+11654813,"Lacis, Janis Edvarts",LAT,M,,,,1486,6,40,OCT25,2006,
 11618841,"Lacis,Martins",LAT,M,,,,1624,0,20,OCT25,1987,i
-11646926,"Ladisevs, Edvards",LAT,M,,,,1761,18,40,OCT25,2012,
+11646926,"Ladisevs, Edvards",LAT,M,,,,1764,18,40,OCT25,2012,
 11637900,"Lagzdins, Raimonds",LAT,M,,,,1580,0,20,OCT25,1949,i
 11606789,"Lahs, Armands",LAT,M,,,,1735,0,20,OCT25,2000,i
-11628278,"Lahs, Edvards",LAT,M,,,,1624,0,40,OCT25,2011,
+11628278,"Lahs, Edvards",LAT,M,,,,1638,0,40,OCT25,2011,
 11606797,"Lahs, Einars",LAT,M,,,,1758,0,20,OCT25,2005,i
 11628294,"Lahs, Olivers",LAT,M,,,,1551,0,40,OCT25,2014,
 11628286,"Lahs, Ricards",LAT,M,,,,1632,0,40,OCT25,2011,
@@ -1050,9 +1056,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11619090,"Lapse, Andrejs",LAT,M,,,,1678,0,20,OCT25,1957,i
 11608994,"Lapurins, Ricards",LAT,M,,,,1545,0,20,OCT25,1999,i
 11638117,"Larmanis, Ronans",LAT,M,,,,1615,0,20,OCT25,2000,i
-11632526,"Larmanis, Tomass",LAT,M,,,,1500,0,40,OCT25,2013,
+11632526,"Larmanis, Tomass",LAT,M,,,,1499,0,40,OCT25,2013,
 11613351,"Lasko, Anatolijs",LAT,M,,,,1726,0,20,OCT25,1940,i
-11632259,"Laskovs, Romans",LAT,M,,,,1577,0,40,OCT25,2012,
+11632259,"Laskovs, Romans",LAT,M,,,,1586,0,40,OCT25,2012,
 11619015,"Lasmanis, Reinis",LAT,M,,,,1592,0,20,OCT25,1989,i
 11636017,"Lass, Kristaps",LAT,M,,,,1557,0,40,OCT25,2006,i
 11637030,"Latkovskis, Marcis",LAT,M,,,,1423,0,40,OCT25,2013,
@@ -1064,9 +1070,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11621761,"Lavrinovics, Vladimirs",LAT,M,,,,1534,0,40,OCT25,2007,i
 11622059,"Lazareva, Marija",LAT,F,,,,1444,0,40,OCT25,2010,wi
 11635452,"Lazars, Krisjanis",LAT,M,,,,2057,31,40,OCT25,2013,
-11619643,"Lazdina, Ingrida",LAT,F,,,,ACM,1786,0,OCT25,1983,w
+11634200,"Lazdina, Adrija",LAT,F,,,,1425,58,40,OCT25,2014,w
+11619643,"Lazdina, Ingrida",LAT,F,,,,1786,0,,OCT25,1983,w
 11634197,"Lazdina, Keitija",LAT,F,,,,1536,5,40,OCT25,2012,w
-11618701,"Lazovskis, Lauris",LAT,M,,,,1649,0,20,OCT25,2006,
+11618701,"Lazovskis, Lauris",LAT,M,,,,1650,0,20,OCT25,2006,
 11617624,"Lebedeks, Rihards",LAT,M,,,,1821,0,20,OCT25,1942,i
 11623012,"Lebedeva-Gulbe, Diana",LAT,F,,,,1636,0,40,OCT25,1977,w
 11604816,"Lebedevs, Aleksandrs",LAT,M,,,,1712,0,20,OCT25,1976,
@@ -1074,8 +1081,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11640596,"Lecinskis, Emils",LAT,M,,,,1507,0,40,OCT25,2005,i
 11610310,"Lefters, Edgars",LAT,M,,,,1758,0,20,OCT25,1999,i
 11610328,"Lefters, Valerijs",LAT,M,,,,1860,0,20,OCT25,1967,i
-11647876,"Legzdina, Frida",LAT,F,,,,1426,4,40,OCT25,2014,w
-11638710,"Leibenzons, Dominiks",LAT,M,,,,1425,0,40,OCT25,2012,
+11638710,"Leibenzons, Dominiks",LAT,M,,,,1426,0,40,OCT25,2012,
 11644915,"Leikarts, Arnis",LAT,M,,,,1432,0,40,OCT25,1972,i
 11616873,"Leismanis,Markuss",LAT,M,,,,1432,0,40,OCT25,2007,i
 11608455,"Leitans, Daniels",LAT,M,,,,1626,0,20,OCT25,2004,i
@@ -1098,13 +1104,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11613521,"Leontyev, Alexey",LAT,M,,,,1744,0,20,OCT25,1998,i
 11606207,"Lepjohina, Valerija",LAT,F,,,,1597,0,20,OCT25,2001,wi
 11629290,"Lescenko, Maksims",LAT,M,,,,1618,5,40,OCT25,2011,
-11652373,"Leskevica, Mila",LAT,F,,,,1446,0,40,OCT25,2016,w
+11652373,"Leskevica, Mila",LAT,F,,,,1448,0,40,OCT25,2016,w
 11605782,"Letko, Edvins",LAT,M,,,,1647,0,20,OCT25,1994,i
 11609729,"Levcenkova, Sofija Viktorija",LAT,F,,,,1448,0,20,OCT25,2003,wi
 11609630,"Levickis, Arturs",LAT,M,,,,1642,0,20,OCT25,1999,i
 11635894,"Libensons, Julijs",LAT,M,,,,1784,5,20,OCT25,1969,
 11646357,"Licis, Karlis",LAT,M,,,,1703,0,40,OCT25,2006,i
 11600799,"Lickrastina, Agnese",LAT,F,WIM,WIM,,2023,0,20,OCT25,1972,wi
+11620439,"Lickrastins, Ilgvars",LAT,M,,,,1443,8,40,OCT25,2008,
 11605405,"Liecis, Raimonds",LAT,M,,,,1758,0,20,OCT25,1970,i
 11619244,"Liegis, Arturs",LAT,M,,,,1669,0,20,OCT25,1958,i
 11627085,"Lielbardis, Janis",LAT,M,,,,1638,0,20,OCT25,1992,i
@@ -1112,11 +1119,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11621168,"Liepa, Kristiana",LAT,F,,,,1405,0,20,OCT25,2006,wi
 11621176,"Liepina, Daniela Nikola",LAT,F,,,,1757,14,40,OCT25,2009,w
 11617977,"Liepina, Elza",LAT,F,,,,1407,0,40,OCT25,2008,w
-11641550,"Liepina, Sofija",LAT,F,,,,1466,13,40,OCT25,2014,w
 11640219,"Liepins, Arturs",LAT,M,,,,1691,13,40,OCT25,2015,
 11623250,"Liepins, Henrijs",LAT,M,,,,1425,0,40,OCT25,2010,i
 11603054,"Liepins, Janis",LAT,M,,,,1863,0,20,OCT25,1943,i
 11602406,"Liepins, Karlis",LAT,M,,,,1845,0,20,OCT25,1992,i
+11648511,"Liepins, Lauris",LAT,M,,,,1436,7,40,OCT25,1982,i
 11603682,"Liepins, Martins",LAT,M,,,,1672,7,20,OCT25,1940,
 11643323,"Liepins, Niks",LAT,M,,,,1430,0,40,OCT25,2002,
 11636785,"Ligotnis, Maksims",LAT,M,,,,2033,18,40,OCT25,2011,
@@ -1126,15 +1133,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11615257,"Linins, Aivars",LAT,M,,,,1594,0,20,OCT25,1957,i
 11649488,"Linke, Linda",LAT,F,,,,1504,0,40,OCT25,1986,wi
 11639903,"Lipsa, Artis",LAT,M,,,,1577,0,20,OCT25,2006,
-11639253,"Liscovs, Augusts",LAT,M,,,,1402,13,40,OCT25,2014,
 11625740,"Lisovskis, Dmitrijs",LAT,M,,,,2116,16,40,OCT25,2007,
 11633107,"Litajevs, Igors",LAT,M,,,,1409,0,40,OCT25,2015,
 11603992,"Litvjakova, Darija",LAT,F,,,,1762,0,20,OCT25,2000,wi
 11620951,"Locmele,Valerija",LAT,F,,,,1513,6,40,OCT25,2010,w
 11653183,"Locmelis, Davis",LAT,M,,,,1694,0,40,OCT25,1993,
-11636459,"Locs, Martins",LAT,M,,,,1739,0,40,OCT25,2010,
+11636459,"Locs, Martins",LAT,M,,,,1738,0,40,OCT25,2010,
 11614609,"Lode, Adrians",LAT,M,,,,1446,0,40,OCT25,2009,i
 11610808,"Lodzins, Davis",LAT,M,,,,1748,0,20,OCT25,1989,i
+11642882,"Logins, Arturs",LAT,M,,,,1436,6,40,OCT25,1984,
 11607459,"Lokastovs, Daniils",LAT,M,,,,1611,0,20,OCT25,2004,i
 11616326,"Lozovenko,Maksims",LAT,M,,,,1444,0,20,OCT25,2004,i
 11624779,"Lubimovs, Maksims",LAT,M,,,,1443,0,40,OCT25,2008,i
@@ -1161,10 +1168,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11610476,"Mahadbekov, Mahmud",LAT,M,,,,1576,0,40,OCT25,2005,i
 11637005,"Mahinovs, Normunds",LAT,M,,,,1499,2,40,OCT25,2012,
 11634146,"Maizenbergs, Levs",LAT,M,,,,1551,0,40,OCT25,2015,i
-11644109,"Makarovs, Daniils",LAT,M,,,,1715,23,40,OCT25,2017,
-11620072,"Maklakova, Dafne",LAT,F,,,,1605,0,40,OCT25,2011,w
-11617748,"Maklakova, Naomi",LAT,F,WCM,WCM,,1919,0,40,OCT25,2010,w
-11603470,"Maklakova, Nellija",LAT,F,,"FI,NA",,1848,0,20,OCT25,1981,w
+11644109,"Makarovs, Daniils",LAT,M,,,,1710,22,40,OCT25,2017,
+11620072,"Maklakova, Dafne",LAT,F,,,,1602,0,40,OCT25,2011,w
+11617748,"Maklakova, Naomi",LAT,F,WCM,WCM,,1921,0,40,OCT25,2010,w
+11603470,"Maklakova, Nellija",LAT,F,,"FI,NA",,1850,0,20,OCT25,1981,w
 11622792,"Maksimovs, Arturs",LAT,M,,,,1501,0,40,OCT25,2010,
 11613548,"Maksimovs, Mihails",LAT,M,,,,1510,0,20,OCT25,2006,i
 11643544,"Malakalns, Martins",LAT,M,,,,1763,0,40,OCT25,2008,
@@ -1182,10 +1189,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11636483,"Markovs, Ernests",LAT,M,,,,1466,0,40,OCT25,2012,i
 11618540,"Markunaitis, Sandis",LAT,M,,,,1513,0,20,OCT25,2001,i
 11605421,"Markus, Viktors",LAT,M,,,,1660,0,20,OCT25,1939,i
-11653248,"Markvarts, Tomass",LAT,M,,,,1529,6,40,OCT25,2008,
+11653248,"Markvarts, Tomass",LAT,M,,,,1530,6,40,OCT25,2008,
 11611138,"Marstupa,Rodions",LAT,M,,,,1545,0,20,OCT25,2002,i
 11606550,"Martinenko, Pjotrs",LAT,M,,,,1708,0,20,OCT25,1948,i
-11633778,"Martinovs, Luka",LAT,M,,,,1534,6,40,OCT25,2015,
+11633778,"Martinovs, Luka",LAT,M,,,,1532,6,40,OCT25,2015,
 11625244,"Martinovs, Vladislavs",LAT,M,,,,1656,0,20,OCT25,1998,i
 11619724,"Martins, Maris",LAT,M,,,,1460,0,20,OCT25,2001,i
 11626178,"Martinsons, Pauls",LAT,M,,,,1640,0,20,OCT25,1985,i
@@ -1207,13 +1214,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11643307,"Medojevic, Dragan",LAT,M,,,,1612,0,40,OCT25,1976,i
 11651660,"Medvedevs, Markuss",LAT,M,,,,1483,0,40,OCT25,2010,
 11605162,"Megnis, Renars",LAT,M,,,,1918,0,20,OCT25,1999,i
-11605820,"Meiers, Gundars",LAT,M,,,,1721,0,20,OCT25,1957,
+11605820,"Meiers, Gundars",LAT,M,,,,1724,0,20,OCT25,1957,
 11619155,"Meijers, Janis",LAT,M,,,,1670,0,20,OCT25,1962,
 11628359,"Meilins, Rolfs",LAT,M,,,,1709,0,20,OCT25,2005,
 11639148,"Mekss, Dominiks",LAT,M,,,,1500,0,40,OCT25,2005,i
 11600845,"Melderis, Uldis",LAT,M,,,,2014,27,20,OCT25,1961,
 11643854,"Meldris, Everts",LAT,M,,,,1514,0,40,OCT25,1998,
-11605839,"Melihovs, Stanislavs",LAT,M,,,,AFM,1700,0,OCT25,1978,
+11605839,"Melihovs, Stanislavs",LAT,M,,,,1700,0,,OCT25,1978,
 11637463,"Melngalvis, Gustavs",LAT,M,,,,1577,0,40,OCT25,2006,
 11637471,"Melnikovs, Daniils",LAT,M,,,,1636,0,40,OCT25,2012,
 11617560,"Melnikovs, Glebs",LAT,M,,,,1498,0,40,OCT25,2009,i
@@ -1221,26 +1228,24 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11624647,"Melnis, Kristers",LAT,M,,,,1604,0,20,OCT25,2000,i
 11610484,"Mende, Alise",LAT,F,,,,1559,0,20,OCT25,2003,wi
 11643617,"Menteshashvili, Mikhail",LAT,M,,,,1526,0,40,OCT25,2014,
-11650060,"Merentsova, Mariia",LAT,F,,,,1451,0,40,OCT25,2015,w
-11651113,"Merke, Lineta",LAT,F,,,,1473,0,40,OCT25,2015,w
+11650060,"Merentsova, Mariia",LAT,F,,,,1453,0,40,OCT25,2015,w
+11651113,"Merke, Lineta",LAT,F,,,,1476,0,40,OCT25,2015,w
 11624710,"Merzlovs, Timurs",LAT,M,,,,1581,0,40,OCT25,2011,i
 11602740,"Meshkovs, Nikita",LAT,M,GM,,,2567,0,10,OCT25,1994,
 11606347,"Mesters, Janis",LAT,M,,,,1474,6,20,OCT25,1949,
 11601663,"Metreveli, Sergejs",LAT,M,,,,2079,0,20,OCT25,1982,i
 11618620,"Metreveli, Sergejs Sen.",LAT,M,,,,1836,0,20,OCT25,1955,i
-11644435,"Mezale, Herta",LAT,F,,,,1511,10,40,OCT25,2011,w
 11606401,"Mezeckis, Andrejs",LAT,M,,,,1705,0,20,OCT25,1997,i
 11639270,"Mickevics, Zintis",LAT,M,,,,1467,0,20,OCT25,1965,i
 11607521,"Micko, Leonids",LAT,M,,,,1511,0,20,OCT25,2004,i
 11634715,"Midega, Estere",LAT,F,,,,1469,0,40,OCT25,2008,wi
 11620226,"Midega, Ruta",LAT,F,,,,1622,0,40,OCT25,2009,wi
-11617292,"Mierina, Lauma",LAT,F,,,,1812,9,40,OCT25,2011,w
-11632070,"Mierina, Liva",LAT,F,,,,1525,0,40,OCT25,2014,w
+11617292,"Mierina, Lauma",LAT,F,,,,1813,9,40,OCT25,2011,w
+11632070,"Mierina, Liva",LAT,F,,,,1531,0,40,OCT25,2014,w
 11616830,"Mierins, Emils Janis",LAT,M,,,,2197,0,20,OCT25,2005,
 11603178,"Mierins, Eriks",LAT,M,,,,2115,16,20,OCT25,1973,
 11604336,"Mierins, Guntars",LAT,M,,,,1598,0,20,OCT25,2001,i
 11604344,"Mierins, Imants",LAT,M,,,,1679,0,20,OCT25,2003,i
-11612320,"Mieze, Natalja",LAT,F,,,,1410,8,40,OCT25,1957,w
 11600136,"Miezis, Normunds",LAT,M,GM,,,2414,21,10,OCT25,1971,
 11636580,"Miezitis, Henrijs",LAT,M,,,,1400,0,40,OCT25,2010,i
 11610018,"Miglinieks, Maris",LAT,M,,,,1596,0,20,OCT25,1998,i
@@ -1248,7 +1253,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11604891,"Migunovs, Andrejs",LAT,M,,,,1930,0,20,OCT25,1998,i
 11614366,"Mihailovs, Andrejs",LAT,M,,,,1655,0,20,OCT25,1985,i
 11603690,"Mihailovs, Arturs",LAT,M,,IO,,1879,0,20,OCT25,1982,i
-11649127,"Mihailovs, Daniils",LAT,M,,,,1436,5,40,OCT25,2010,i
+11649127,"Mihailovs, Daniils",LAT,M,,,,1416,0,40,OCT25,2010,
 11601531,"Mihailovs, Jurijs",LAT,M,IM,,,2366,0,10,OCT25,1989,i
 11623446,"Mihailovs, Valerijs",LAT,M,,,,1649,0,20,OCT25,1952,i
 11641355,"Mihailovskis, Timurs",LAT,M,,,,1536,0,40,OCT25,2012,
@@ -1259,7 +1264,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11607475,"Mikelsons, Mikelis-Emils",LAT,M,,,,1905,0,20,OCT25,2000,i
 11642661,"Mikelsons, Ricards",LAT,M,,,,1439,0,40,OCT25,2008,i
 11638559,"Miklasevics, Mihails",LAT,M,,,,1482,0,20,OCT25,1987,i
-11633018,"Mileiko, Juris",LAT,M,,NA,,1624,7,20,OCT25,1953,
+11633018,"Mileiko, Juris",LAT,M,,NA,,1623,7,20,OCT25,1953,
 11608803,"Miles, Jana",LAT,F,,,,1911,0,20,OCT25,1981,wi
 11623187,"Milovs, Daniels",LAT,M,,,,1906,0,20,OCT25,2001,i
 11611901,"Mirgalijevs, Ivans",LAT,M,,,,1714,0,20,OCT25,1954,i
@@ -1288,13 +1293,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11644672,"Muhins, Aleksandrs",LAT,M,,,,1759,0,20,OCT25,2005,
 11607610,"Muizarajs, Uldis",LAT,M,,,,1642,0,20,OCT25,1945,i
 11617640,"Muiznieks, Imants",LAT,M,,,,1493,0,20,OCT25,1942,i
-11637919,"Muravjova, Elizabete",LAT,F,,,,1502,0,40,OCT25,2017,w
+11637919,"Muravjova, Elizabete",LAT,F,,,,1507,0,40,OCT25,2017,w
 11619252,"Muravjovs, Andrejs",LAT,M,,,,1834,0,20,OCT25,1968,
 11623861,"Muravskis, Grigorijs",LAT,M,,,,1412,0,40,OCT25,2008,i
 11622369,"Murdasovs, Jevgenijs",LAT,M,,,,1800,0,20,OCT25,1951,i
 11649283,"Murens, Valters",LAT,M,,,,1468,0,40,OCT25,2006,i
 11649640,"Murevics, Vladimirs",LAT,M,,,,1504,0,40,OCT25,1989,i
-11640170,"Murinovs, Matvejs",LAT,M,,,,1758,8,40,OCT25,2014,
+11640170,"Murinovs, Matvejs",LAT,M,,,,1756,8,40,OCT25,2014,
 11629100,"Murnieks, Armands",LAT,M,,,,1611,0,40,OCT25,2007,
 11638664,"Murnieks, Ilgvars",LAT,M,,,,1477,0,20,OCT25,1968,i
 11649364,"Murnieks, Kristaps",LAT,M,,,,1505,0,40,OCT25,2000,i
@@ -1304,9 +1309,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11626348,"Muzis, Renars",LAT,M,,,,2153,18,40,OCT25,2009,
 11630558,"Nagainis, Kristers",LAT,M,,,,1531,0,20,OCT25,1999,i
 11616105,"Nagibins,Nikita",LAT,M,,,,1570,0,40,OCT25,2007,i
-11636009,"Nagle, Miroslava",LAT,F,,,,1480,0,40,OCT25,2011,w
+11636009,"Nagle, Miroslava",LAT,F,,,,1482,0,40,OCT25,2011,w
 11645997,"Naglis, Aivars",LAT,M,,,,1530,0,40,OCT25,1988,i
-11645679,"Naglis, Janis",LAT,M,,,,ACM,1681,0,OCT25,1984,
+11645679,"Naglis, Janis",LAT,M,,,,1647,0,,OCT25,1984,
 11650001,"Namavirs, Marks",LAT,M,,,,1490,0,40,OCT25,1986,
 11617659,"Napins, Vadims",LAT,M,,,,1602,0,20,OCT25,1946,i
 11606908,"Naumovs, Aleksejs",LAT,M,,,,1590,0,20,OCT25,2000,
@@ -1342,7 +1347,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11605847,"Norkus, Maris",LAT,M,,,,1990,0,20,OCT25,1987,i
 11621273,"Normante, Liga Eliza",LAT,F,,,,1519,0,40,OCT25,2009,wi
 11624868,"Noskovs, Vladimirs",LAT,M,,,,1422,0,40,OCT25,2006,i
-11625767,"Novikovs, Aleksandrs",LAT,M,,,,1400,4,40,OCT25,2010,
 11619260,"Novikovs, Andrejs",LAT,M,,,,1776,0,20,OCT25,1963,
 11638265,"Novikovs, Savva",LAT,M,,,,1431,0,40,OCT25,2013,
 11611413,"Noviks, Maris",LAT,M,,,,1870,0,20,OCT25,1982,i
@@ -1365,13 +1369,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11633140,"Orlovs, Vladimirs",LAT,M,,,,1550,0,20,OCT25,2006,i
 11612630,"Orlovs,Vitalijs",LAT,M,,,,1784,0,20,OCT25,1964,i
 11601825,"Orlovska, Madara",LAT,F,,,,2095,0,20,OCT25,1986,wi
-11636173,"Orlovskis, Jaroslavs",LAT,M,,,,2016,23,40,OCT25,2012,
+11636173,"Orlovskis, Jaroslavs",LAT,M,,,,2017,23,40,OCT25,2012,
 11610840,"Ortjakovs, Aleksandrs",LAT,M,,,,1943,0,20,OCT25,1945,i
 11648970,"Orups, Davis",LAT,M,,,,1542,0,40,OCT25,2016,
 11629487,"Oshins, Valdis",LAT,M,,,,1770,0,20,OCT25,1958,i
 11629525,"Oshmjanskis, Konstantins",LAT,M,,,,1409,0,20,OCT25,1972,i
 11626666,"Osipova, Valerija",LAT,F,,,,1439,0,40,OCT25,2010,wi
-11639717,"Osipovs, Luka",LAT,M,,,,1524,0,40,OCT25,2011,
+11639717,"Osipovs, Luka",LAT,M,,,,1539,0,40,OCT25,2011,
 11602341,"Osis, Renars",LAT,M,,,,2142,0,20,OCT25,1979,
 11610590,"Osmolovskis, Dmitrijs",LAT,M,,,,1707,0,20,OCT25,1952,i
 11610867,"Osobskaja, Zinaida",LAT,F,,,,1780,0,20,OCT25,1952,w
@@ -1391,9 +1395,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11649631,"Ozolins, Gatis",LAT,M,,,,1636,7,20,OCT25,1972,
 11632062,"Ozolins, Gatis",LAT,M,,,,1578,0,20,OCT25,1985,i
 11637048,"Ozolins, Jekabs",LAT,M,,,,1408,0,40,OCT25,2012,
-11624957,"Ozolins, Roberts",LAT,M,,,,1697,23,40,OCT25,2008,
+11624957,"Ozolins, Roberts",LAT,M,,,,1698,23,40,OCT25,2008,
 11613890,"Ozolins, Rolands",LAT,M,,,,1645,0,40,OCT25,1978,i
-11622989,"Ozolins,Kristaps",LAT,M,,,,1814,18,40,OCT25,2010,
+11622989,"Ozolins,Kristaps",LAT,M,,,,1815,18,40,OCT25,2010,
 11627441,"Ozols, Adrians",LAT,M,,,,1492,0,40,OCT25,2009,
 11605456,"Ozols, Andris",LAT,M,,,,1711,0,20,OCT25,1968,i
 11638737,"Ozols, Herberts",LAT,M,,,,1474,0,40,OCT25,2013,i
@@ -1431,14 +1435,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11608382,"Pavlans, Vitalijs",LAT,M,,,,1875,0,20,OCT25,1984,i
 11608943,"Pavlenko, Jevgenijs",LAT,M,,,,1897,0,20,OCT25,1986,i
 11650753,"Pavlovics, Dmitrijs",LAT,M,,,,1454,0,40,OCT25,2000,i
-11632631,"Pavlovs, Jegors",LAT,M,,,,1571,10,40,OCT25,2014,
+11632631,"Pavlovs, Jegors",LAT,M,,,,1570,10,40,OCT25,2014,
 11605855,"Pavlovs, Nikita",LAT,M,,,,2005,17,20,OCT25,2002,
 11617306,"Pavlovs, Ostins",LAT,M,,,,1804,0,40,OCT25,2008,
 11601736,"Pavlovs, Sergejs",LAT,M,,,,1955,0,20,OCT25,1979,
 11614315,"Pavlovskis, Voldemars",LAT,M,,,,1759,0,20,OCT25,1945,i
 11602570,"Pavlucenko, Aleksejs",LAT,M,,,,1844,0,20,OCT25,1990,i
 11640103,"Pazans, Patriks",LAT,M,,,,1479,0,20,OCT25,2002,i
-11635495,"Pcolkina, Alise",LAT,F,,,,1482,0,40,OCT25,2012,w
+11635495,"Pcolkina, Alise",LAT,F,,,,1481,0,40,OCT25,2012,w
 11601434,"Pcolkins, Nikolajs",LAT,M,,,,1713,0,20,OCT25,1940,i
 11614870,"Pegusevs,Aleksejs",LAT,M,,,,1935,0,20,OCT25,1992,i
 11619716,"Peipins, Voldemars",LAT,M,,,,1737,0,20,OCT25,1965,i
@@ -1452,7 +1456,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11608145,"Perkons, Janis",LAT,M,,,,1680,0,20,OCT25,1933,i
 11635568,"Petersons, Franks",LAT,M,,,,1482,0,40,OCT25,2012,
 11611766,"Petersons, Krisjanis",LAT,M,,,,1498,0,20,OCT25,2006,i
-11607769,"Petersons, Ojars",LAT,M,,,,1724,5,20,OCT25,1961,
+11607769,"Petersons, Ojars",LAT,M,,,,1725,5,20,OCT25,1961,
 11630426,"Petersons, Patriks",LAT,M,,,,1547,4,40,OCT25,2010,
 11615362,"Petersons,Matejs",LAT,M,,,,1576,0,40,OCT25,2008,
 11644508,"Petrochenkov, Andrey",LAT,M,,,,1579,0,40,OCT25,1962,i
@@ -1460,14 +1464,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11606800,"Petrova, Vita",LAT,F,,,,1757,0,20,OCT25,2001,wi
 11616695,"Petrova,Anna",LAT,F,,,,1475,0,20,OCT25,2005,wi
 11609486,"Petrovics, Harijs",LAT,M,,,,1713,0,20,OCT25,1980,i
-11635088,"Petrovics, Raitis",LAT,M,,,,1442,10,20,OCT25,1985,
+11635088,"Petrovics, Raitis",LAT,M,,,,1441,10,20,OCT25,1985,
 11601892,"Petrovs, Aleksandrs",LAT,M,,,,1790,0,20,OCT25,1947,i
 11618795,"Petrovs, Arsenijs",LAT,M,,,,1628,0,40,OCT25,2008,i
 11604379,"Petrovs, Jaroslavs",LAT,M,,,,1955,0,20,OCT25,2002,
 11613971,"Petrovs, Renars",LAT,M,,,,1987,18,40,OCT25,2007,
 11612711,"Petrovs, Viktors",LAT,M,,,,1686,0,20,OCT25,1996,i
 11604476,"Petrovska, Arina",LAT,F,,,,1737,0,20,OCT25,2003,wi
-11638290,"Petrovskis, Normunds",LAT,M,,,,1731,16,40,OCT25,2013,
+11638290,"Petrovskis, Normunds",LAT,M,,,,1732,16,40,OCT25,2013,
 11603186,"Petrovskis, Olegs",LAT,M,,,,2072,0,20,OCT25,1998,i
 11627719,"Petrucenkovs, Andrejs",LAT,M,,,,1782,0,20,OCT25,1962,i
 11616091,"Pidgora,Andrejs",LAT,M,,,,1668,0,20,OCT25,2006,i
@@ -1477,14 +1481,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11611910,"Pikurs, Aleksandrs",LAT,M,,,,1767,0,20,OCT25,1999,i
 11624558,"Pilka, Janis",LAT,M,,,,1437,0,40,OCT25,2005,i
 11612835,"Pinne, Nauris",LAT,M,,,,1455,0,40,OCT25,2006,i
-11635320,"Pivovarovs, Andrejs",LAT,M,,,,1701,12,40,OCT25,2012,
+11635320,"Pivovarovs, Andrejs",LAT,M,,,,1700,12,40,OCT25,2012,
 11626879,"Pivovarovs, Davids",LAT,M,,,,1508,0,40,OCT25,2008,
-11636378,"Pivovarovs, Matvejs Zeliks",LAT,M,,,,1513,0,40,OCT25,2011,
+11636378,"Pivovarovs, Matvejs Zeliks",LAT,M,,,,1527,0,40,OCT25,2011,
 11641142,"Pizelis, Marks",LAT,M,,,,1419,0,40,OCT25,2013,
 11610360,"Pizelis, Peteris",LAT,M,,,,1586,7,20,OCT25,1944,
 11654597,"Platais, Kristians",LAT,M,,,,1638,0,40,OCT25,2002,
 11612150,"Plate, Marks",LAT,M,,,,1720,0,20,OCT25,1984,
-11651261,"Platinska, Magdalina",LAT,F,,,,1500,3,40,OCT25,2016,w
+11651261,"Platinska, Magdalina",LAT,F,,,,1501,3,40,OCT25,2016,w
 11622598,"Platonovs, Nikolajs",LAT,M,,,,2105,11,40,OCT25,2012,
 11617250,"Plauca, Lelde",LAT,F,,,,1413,0,40,OCT25,2009,wi
 11619147,"Plaucs, Maris",LAT,M,,,,1408,0,40,OCT25,2007,i
@@ -1496,15 +1500,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11644702,"Plume, Ralfs Kristians",LAT,M,,,,1462,0,40,OCT25,2011,i
 11614978,"Plume,Gunars",LAT,M,,,,1715,0,20,OCT25,1936,i
 11618400,"Plumins, Patriks",LAT,M,,,,1526,0,40,OCT25,2006,i
-11635533,"Podeanu, Lukass",LAT,M,,,,1404,0,40,OCT25,2012,
-11646250,"Podens, Raivo",LAT,M,,,,1447,0,40,OCT25,2010,
+11646250,"Podens, Raivo",LAT,M,,,,1448,0,40,OCT25,2010,
 11628731,"Podgornijs, Bogdans",LAT,M,,,,1535,0,40,OCT25,2009,i
 11629266,"Podgornijs, Makars",LAT,M,,,,1437,0,40,OCT25,2009,i
 11613327,"Podojniks, Marks Ernests",LAT,M,,,,1641,0,20,OCT25,2005,i
 11614269,"Pogorelovs,Dmitrijs",LAT,M,,,,1676,0,40,OCT25,2007,
 11620587,"Pogrebnojs, Damirs",LAT,M,,,,1490,6,40,OCT25,2010,
-11602333,"Pogrebnojs, Dmitrijs",LAT,M,,,,AIM,2034,16,OCT25,1979,
-11626500,"Pokatovs, Kirills",LAT,M,,,,1427,6,40,OCT25,2010,
+11602333,"Pogrebnojs, Dmitrijs",LAT,M,,,,2034,16,,OCT25,1979,
+11626500,"Pokatovs, Kirills",LAT,M,,,,1410,6,40,OCT25,2010,
 11612606,"Pokidovs, Igors",LAT,M,,,,1755,0,20,OCT25,1980,i
 11609176,"Polakovs, Viktors",LAT,M,,,,1871,0,20,OCT25,1962,i
 11615281,"Polakovs,Ilja",LAT,M,,,,1470,0,40,OCT25,1988,
@@ -1536,11 +1539,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11601760,"Priednieks, Eriks",LAT,M,,,,2042,0,20,OCT25,1939,i
 11637153,"Priednieks, Justs",LAT,M,,,,1467,0,20,OCT25,2004,i
 11654686,"Prilins, Jans Jekabs",LAT,M,,,,1488,5,40,OCT25,2010,
-11616342,"Priscenko,Viktors",LAT,M,,,,1531,0,40,OCT25,1999,
+11616342,"Priscenko,Viktors",LAT,M,,,,1554,0,40,OCT25,1999,
 11618280,"Priscepovs, Vladimirs",LAT,M,,,,1545,0,20,OCT25,1947,i
 11615621,"Pronina,Aurelija",LAT,F,,,,1426,0,40,OCT25,2008,wi
-11620650,"Proscenko,Mihails",LAT,M,,,,1577,0,40,OCT25,2007,
-11647302,"Provorovs, Roberts",LAT,M,,,,1545,0,40,OCT25,2012,
+11620650,"Proscenko,Mihails",LAT,M,,,,1585,0,40,OCT25,2007,
+11647302,"Provorovs, Roberts",LAT,M,,,,1544,0,40,OCT25,2012,
 11613718,"Prudnikovs, Stefans",LAT,M,,,,1728,0,40,OCT25,2009,i
 11613408,"Prusis, Matiss",LAT,M,,,,1807,0,20,OCT25,1986,i
 11620862,"Prusis, Renars",LAT,M,,,,1414,0,40,OCT25,2010,i
@@ -1550,11 +1553,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11603518,"Pudzs, Roberts",LAT,M,,,,1754,0,20,OCT25,1944,i
 11622881,"Pukis, Karlis",LAT,M,,,,1506,0,20,OCT25,2001,i
 11621893,"Pukite, Elza",LAT,F,,,,1490,0,40,OCT25,2010,wi
-11651954,"Pumpurs, Igors",LAT,M,,,,1491,9,40,OCT25,1952,
+11651954,"Pumpurs, Igors",LAT,M,,,,1488,9,40,OCT25,1952,
 11646683,"Punculis, Patriks",LAT,M,,,,1440,0,40,OCT25,2011,i
 11620277,"Punkstins, Atis",LAT,M,,,,1569,0,20,OCT25,1979,i
 11605073,"Puntus, Vladimirs",LAT,M,,,,1753,13,20,OCT25,1955,
-11620056,"Pupins, Benjamins Emanuels",LAT,M,,,,1509,0,40,OCT25,2010,
+11620056,"Pupins, Benjamins Emanuels",LAT,M,,,,1483,0,40,OCT25,2010,
 11615982,"Pupins,Hugo Teodors",LAT,M,,,,1459,0,40,OCT25,2007,
 11610875,"Purens, Karlis",LAT,M,,,,1753,0,20,OCT25,1991,i
 11618825,"Purins, Edvards",LAT,M,,,,1589,0,40,OCT25,2009,i
@@ -1589,12 +1592,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11625813,"Razuks, Arturs",LAT,M,,,,1570,0,20,OCT25,1955,i
 11607491,"Razumovskis, Edgars",LAT,M,,,,1710,0,20,OCT25,2001,i
 11615125,"Rebhuns,Ilgars Janis",LAT,M,,,,1621,0,20,OCT25,1946,i
+11649402,"Reblis, Gustavs",LAT,M,,,,1416,7,40,OCT25,2010,i
 11615435,"Reiha,Ance",LAT,F,,,,1634,0,20,OCT25,2006,w
 11602988,"Reimanis, Ritvars",LAT,M,IM,,,2280,0,20,OCT25,1991,
-11639733,"Reiters, Marks",LAT,M,,,,1491,0,40,OCT25,2014,
+11639733,"Reiters, Marks",LAT,M,,,,1493,0,40,OCT25,2014,
 11601124,"Reizniece, Dana",LAT,F,WGM,WGM,IO,2091,0,20,OCT25,1981,w
 11618256,"Reiznieks, Andrejs",LAT,M,,,,1599,0,20,OCT25,1962,
-11640081,"Reja, Rebeka",LAT,F,,,,1479,0,40,OCT25,2013,w
+11640081,"Reja, Rebeka",LAT,F,,,,1478,0,40,OCT25,2013,w
 11644214,"Remess, Jurgis",LAT,M,,,,1526,0,40,OCT25,1990,i
 11638583,"Rens, Eduards",LAT,M,,,,1414,0,20,OCT25,1980,i
 11610662,"Rescenko, Pavels",LAT,M,,,,1934,0,20,OCT25,1980,i
@@ -1602,7 +1606,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11629177,"Retigs, Elgars",LAT,M,,,,1805,0,20,OCT25,1982,i
 11629045,"Revalds, Roberts",LAT,M,,,,1657,0,20,OCT25,2001,i
 11605006,"Reznikovs, Aleksandrs",LAT,M,,,,1809,0,20,OCT25,1985,i
-11624884,"Rezniks, Roberts",LAT,M,,,,1880,0,40,OCT25,2009,
+11624884,"Rezniks, Roberts",LAT,M,,,,1882,0,40,OCT25,2009,
 11616083,"Rezniks,Boriss",LAT,M,,,,1444,0,40,OCT25,2005,i
 11625066,"Reznuks, Konstantins",LAT,M,,,,1742,0,20,OCT25,1981,i
 11646314,"Ribakovs, Sergejs",LAT,M,,,,1431,0,40,OCT25,1982,i
@@ -1618,16 +1622,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11603380,"Rizihs, Valerijs",LAT,M,,,,1769,0,20,OCT25,1983,
 11618329,"Rizovs, Markuss",LAT,M,,,,1534,0,20,OCT25,2005,i
 11600772,"Rocko, Ilja",LAT,M,,,,2121,7,20,OCT25,1975,
-11636858,"Rode, Aksels",LAT,M,,,,1487,0,40,OCT25,2015,
+11636858,"Rode, Aksels",LAT,M,,,,1486,0,40,OCT25,2015,
 11637684,"Rode, Artis",LAT,M,,,,1502,0,40,OCT25,1988,
 11609419,"Rodins, Maksims",LAT,M,,,,1570,0,20,OCT25,2004,i
 11614170,"Roga, Ralfs",LAT,M,,,,1429,0,20,OCT25,2003,i
 11601876,"Rogule, Laura",LAT,F,WGM,WGM,,2226,17,20,OCT25,1988,w
-11602775,"Rogulis, Uldis",LAT,M,,,,1611,0,20,OCT25,1957,
+11602775,"Rogulis, Uldis",LAT,M,,,,1617,0,20,OCT25,1957,
 11645873,"Romanivs, Andrejs",LAT,M,,,,1525,5,40,OCT25,2015,
 11645075,"Romanovs, Gabriels",LAT,M,,,,1402,3,40,OCT25,2015,
 11634081,"Romanovskis, Davis",LAT,M,,,,1668,0,20,OCT25,2005,i
-11644010,"Ronzins, Grigorijs",LAT,M,,,,1558,6,40,OCT25,2015,
+11644010,"Ronzins, Grigorijs",LAT,M,,,,1554,6,40,OCT25,2015,
 11632089,"Roskova, Viktorija",LAT,F,,,,1600,0,40,OCT25,2011,wi
 11619074,"Roze, Aigars",LAT,M,,,,1856,0,20,OCT25,1956,i
 11601051,"Roze, Janis",LAT,M,,,,1715,0,20,OCT25,1950,
@@ -1641,14 +1645,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11612444,"Rubulis, Imants",LAT,M,,,,1687,0,20,OCT25,1978,i
 11606380,"Rucs, Andris",LAT,M,,,,1979,0,20,OCT25,1984,
 11626003,"Rucs, Janis",LAT,M,,,,1573,0,40,OCT25,2011,
-11615150,"Rudakovs,Anatolijs",LAT,M,,,,1416,6,20,OCT25,1950,
+11615150,"Rudakovs,Anatolijs",LAT,M,,,,1417,6,20,OCT25,1950,
 11602554,"Rudovska, Elina",LAT,F,,,,1825,0,20,OCT25,1988,wi
 11608153,"Rudzitis, Janis",LAT,M,,,,1638,0,20,OCT25,1938,i
-11647760,"Rudzitis, Kristaps",LAT,M,,,,1773,14,20,OCT25,2006,
+11647760,"Rudzitis, Kristaps",LAT,M,,,,1774,14,20,OCT25,2006,
 11634367,"Rudzitis,Andrejs",LAT,M,,,,1501,0,20,OCT25,2004,i
-11629630,"Rudzroga, Aivars",LAT,M,,,,1703,0,20,OCT25,1962,
+11629630,"Rudzroga, Aivars",LAT,M,,,,1704,0,20,OCT25,1962,
 11647957,"Rugens, Rudolfs",LAT,M,,,,1434,0,40,OCT25,2014,
 11612843,"Ruhmans, Arvis",LAT,M,,,,1420,0,20,OCT25,2003,i
+11643633,"Rumjancevs, Edvards",LAT,M,,,,1423,5,40,OCT25,2014,i
 11636734,"Rundale, Lelde",LAT,F,,,,1436,0,40,OCT25,2008,wi
 11606940,"Rungenfelde, Elizabete",LAT,F,,,,1656,0,20,OCT25,2002,wi
 11616547,"Rupais,Emils",LAT,M,,,,1620,0,20,OCT25,1977,
@@ -1682,7 +1687,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11625708,"Sankar, Vinoth Kumar",LAT,M,,,,1650,0,20,OCT25,1990,i
 11648040,"Sapiega, Valters",LAT,M,,,,1526,0,40,OCT25,2013,
 11615060,"Saposnikovs, Ivans",LAT,M,,,,1435,0,20,OCT25,2004,i
-11648660,"Saposnikovs, Luka",LAT,M,,,,1536,0,40,OCT25,2014,
+11648660,"Saposnikovs, Luka",LAT,M,,,,1533,0,40,OCT25,2014,
 11637617,"Sarbantovics, Andris",LAT,M,,,,1524,0,20,OCT25,1986,i
 11633336,"Sarbantovics, Roberts",LAT,M,,,,1574,0,40,OCT25,2011,
 11638249,"Saricevs, Romans",LAT,M,,,,1519,0,40,OCT25,1983,
@@ -1693,24 +1698,24 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11619023,"Saukans, Alfreds",LAT,M,,,,1829,0,20,OCT25,1937,i
 11649291,"Saulitis, Lauris",LAT,M,,,,1694,0,40,OCT25,2008,i
 11652152,"Saulitis, Mikus",LAT,M,,,,1681,0,40,OCT25,2011,
-11629126,"Savchenko, Vjacheslavs",LAT,M,,,,AIM,1720,12,OCT25,1987,
+11629126,"Savchenko, Vjacheslavs",LAT,M,,,,1720,12,,OCT25,1987,
 11605189,"Savchuks, Kirils",LAT,M,,,,1697,0,20,OCT25,1998,i
 11601779,"Saveljevs, Aleksandrs",LAT,M,,,,1945,0,20,OCT25,1985,
 11602082,"Saveljevs, Aleksandrs",LAT,M,,,,2004,8,20,OCT25,1986,
 11617489,"Savicevs, Arsenijs",LAT,M,FM,,,2053,11,40,OCT25,2008,
 11605472,"Savickis, Maris",LAT,M,,,,1800,0,20,OCT25,1987,i
 11619899,"Savickis, Nikita",LAT,M,,,,1427,0,40,OCT25,2009,i
-11633212,"Savins, Semjons",LAT,M,,,,1717,0,40,OCT25,2013,
+11633212,"Savins, Semjons",LAT,M,,,,1716,0,40,OCT25,2013,
 11620692,"Savkovs, Matvejs",LAT,M,,,,1543,0,40,OCT25,2009,i
 11606975,"Savruckis, Davids",LAT,M,,,,1687,0,20,OCT25,2001,i
 11653221,"Sazonovs, Andrejs",LAT,M,,,,1685,0,40,OCT25,1980,
 11618159,"Scadilovs, Vsevolods",LAT,M,,,,1606,0,40,OCT25,2007,i
-11632887,"Sceglovs, Andrejs",LAT,M,,,,1616,0,40,OCT25,2011,
+11632887,"Sceglovs, Andrejs",LAT,M,,,,1615,0,40,OCT25,2011,
 11650303,"Scerbakovs, Aleksejs",LAT,M,,,,1507,0,40,OCT25,2010,
 11627484,"Schadilovs, Vsevolods",LAT,M,,,,1488,0,40,OCT25,2007,i
 11654147,"Schmuck, Andras",LAT,M,,,,1571,0,40,OCT25,2004,
 11610115,"Sciglevs, Vladimirs",LAT,M,,,,1581,0,20,OCT25,1949,i
-11647965,"Scircovs, Maksims",LAT,M,,,,1542,5,40,OCT25,2011,i
+11647965,"Scircovs, Maksims",LAT,M,,,,1430,9,40,OCT25,2011,i
 11606509,"Sedleniece, Sarma",LAT,F,,,,1779,0,20,OCT25,1939,wi
 11612363,"Sefanovskis, Artjoms",LAT,M,,,,1548,0,20,OCT25,2002,i
 11600543,"Segal, Naum",LAT,M,,,,2012,10,20,OCT25,1934,
@@ -1720,8 +1725,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11611936,"Seiksts, Augusts",LAT,M,,,,1483,0,20,OCT25,1960,
 11625651,"Sekar, Magesh",LAT,M,,,,1737,0,20,OCT25,1982,i
 11641312,"Seksts, Ernests",LAT,M,,,,1419,0,40,OCT25,2010,i
-11647094,"Selickis, Maksims",LAT,M,,,,1448,0,40,OCT25,2012,
-11604166,"Selis, Janis",LAT,M,,,,1769,0,20,OCT25,1994,
+11647094,"Selickis, Maksims",LAT,M,,,,1504,0,40,OCT25,2012,
+11604166,"Selis, Janis",LAT,M,,,,1772,0,20,OCT25,1994,
 11603402,"Selivanovs, Anatolijs",LAT,M,,,,1757,0,20,OCT25,1954,
 11618299,"Semjonovs, Aleksandrs",LAT,M,,,,1457,0,20,OCT25,1945,i
 11620137,"Semjonovs, Danila",LAT,M,,,,1494,0,40,OCT25,2008,i
@@ -1738,7 +1743,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11605278,"Sermons, Uldis",LAT,M,,,,2003,0,20,OCT25,1964,i
 11619970,"Sermulis, Rihards",LAT,M,,,,1404,0,20,OCT25,2004,i
 11613661,"Serpilins, Nikolajs",LAT,M,,,,1540,5,20,OCT25,1950,
-11643722,"Sersnovs, Marks",LAT,M,,,,1458,0,40,OCT25,2014,
+11643722,"Sersnovs, Marks",LAT,M,,,,1452,0,40,OCT25,2014,
 11640308,"Sersnovs, Pavels",LAT,M,,,,1468,0,40,OCT25,2016,
 11612614,"Seruks, Andris",LAT,M,,,,1638,0,20,OCT25,1975,i
 11620528,"Sestakovs, Maksims",LAT,M,,,,1542,0,20,OCT25,2004,
@@ -1749,17 +1754,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11609036,"Shaburishvili,Giorgi",LAT,M,,,,1721,0,20,OCT25,2003,
 11632771,"Shalashovs, Mikhails",LAT,M,,,,1575,0,40,OCT25,2010,i
 11608048,"Sharakovs, Ilja",LAT,M,,,,1840,0,20,OCT25,1999,
-11643960,"Shirokov, Kirill",LAT,M,,,,1461,0,40,OCT25,2014,
+11643960,"Shirokov, Kirill",LAT,M,,,,1460,0,40,OCT25,2014,
 11622679,"Shmins, Andrejs",LAT,M,,,,1432,0,40,OCT25,2005,i
 11602414,"Shumskis, Aleksandrs",LAT,M,,,,1881,0,20,OCT25,1997,i
 11636181,"Shvab, Artemii",LAT,M,,,,1403,0,40,OCT25,2013,i
 11635339,"Shvab, Petr",LAT,M,,,,1695,0,40,OCT25,2008,i
 11603127,"Sics, Maksims",LAT,M,,,,1905,0,20,OCT25,1996,i
 11618752,"Sidass, Dmitrijs",LAT,M,,,,1708,0,20,OCT25,1970,i
-11615877,"Siders, Samuels Stefans",LAT,M,,,,1535,0,40,OCT25,2008,
+11615877,"Siders, Samuels Stefans",LAT,M,,,,1534,0,40,OCT25,2008,
 11614935,"Siders,Daniels-Rafaels",LAT,M,,,,1456,0,20,OCT25,2005,i
 11614196,"Siders,Jonatans Kristians",LAT,M,,,,1408,0,20,OCT25,2002,i
-11624515,"Sidorenkovs, Vadims",LAT,M,,,,1592,5,20,OCT25,1987,
+11624515,"Sidorenkovs, Vadims",LAT,M,,,,1608,4,20,OCT25,1987,
 11649658,"Sidorovs, Timurs",LAT,M,,,,1467,0,40,OCT25,2011,
 11618566,"Sigajevs, Tihons",LAT,M,,,,1561,0,20,OCT25,2002,i
 11618523,"Sigats, Tomass",LAT,M,,,,1545,0,20,OCT25,2005,i
@@ -1788,9 +1793,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11604573,"Sipicins, Alekss",LAT,M,,,,1785,0,20,OCT25,2001,i
 11601957,"Sirokov, Jevgenijs",LAT,M,,,,1957,0,20,OCT25,1999,i
 11606860,"Sirokov, Valerijs",LAT,M,,,,1700,0,20,OCT25,1966,i
-11638567,"Sjadrovs, Marks",LAT,M,,,,1506,0,40,OCT25,2015,
+11638567,"Sjadrovs, Marks",LAT,M,,,,1495,0,40,OCT25,2015,
 11632534,"Sjomkins, Ivans",LAT,M,,,,1482,0,20,OCT25,1936,i
-11643536,"Skadins, Norberts",LAT,M,,,,1420,7,40,OCT25,2011,
+11643536,"Skadins, Norberts",LAT,M,,,,1408,7,40,OCT25,2011,
 11610077,"Skarbauskas, Valerijs",LAT,M,,,,1406,7,20,OCT25,1965,
 11643510,"Skele, Andis",LAT,M,,,,1711,0,40,OCT25,1982,
 11603429,"Skinkis, Peteris",LAT,M,,,,1847,0,20,OCT25,1961,i
@@ -1803,22 +1808,22 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11605898,"Skrodere, Viktorija",LAT,F,,,,1527,0,20,OCT25,2000,wi
 11634804,"Skubenics,Juris",LAT,M,,,,1455,0,40,OCT25,2010,
 11626305,"Skudra, Kristaps",LAT,M,,,,1463,0,40,OCT25,2010,i
-11643579,"Skudra, Peteris",LAT,M,,,,1470,5,40,OCT25,2008,
+11643579,"Skudra, Peteris",LAT,M,,,,1469,5,40,OCT25,2008,
 11611537,"Skugarevs, Dmitrijs",LAT,M,,,,1571,0,20,OCT25,2003,i
 11600977,"Skuja, Aivars",LAT,M,,,,1907,0,20,OCT25,1943,
 11606746,"Skuja, Edgars",LAT,M,,,,1658,0,20,OCT25,1984,i
 11600276,"Skujina, Guna",LAT,F,WCM,WCM,,2055,0,20,OCT25,1970,wi
 11603763,"Skujins, Juris",LAT,M,,,,1795,0,20,OCT25,1942,i
 11611405,"Slaidins, Janis",LAT,M,,,,1914,0,20,OCT25,1975,i
-11644176,"Slepovs, Marians",LAT,M,,,,1550,0,40,OCT25,2015,
+11644176,"Slepovs, Marians",LAT,M,,,,1549,0,40,OCT25,2015,
 11616008,"Sliters,Roberts",LAT,M,,,,1466,0,40,OCT25,2008,i
 11609788,"Slobodjans, Mitrofans",LAT,M,,,,1763,0,20,OCT25,1985,
-11636599,"Slubovskis, Emils",LAT,M,,,,1486,0,40,OCT25,2013,
-11648120,"Smalijs, Vladimirs",LAT,M,,,,1569,5,40,OCT25,2012,
+11636599,"Slubovskis, Emils",LAT,M,,,,1485,0,40,OCT25,2013,
+11648120,"Smalijs, Vladimirs",LAT,M,,,,1459,11,40,OCT25,2012,
 11630671,"Smatcenko, Maija",LAT,F,,,,1480,0,40,OCT25,2008,wi
 11616954,"Smedins, Ernests",LAT,M,,,,1413,0,40,OCT25,2008,i
 11640391,"Smikersts,Dainis",LAT,M,,,,1572,0,40,OCT25,2012,
-11649810,"Smilga, Davis",LAT,M,,,,1527,0,40,OCT25,1996,
+11649810,"Smilga, Davis",LAT,M,,,,1528,0,40,OCT25,1996,
 11606410,"Smilga, Ivars",LAT,M,,,,1829,0,20,OCT25,1940,i
 11636866,"Smilga, Olivers",LAT,M,,,,1584,10,40,OCT25,2016,
 11613963,"Smiltenis, Reinis",LAT,M,,,,1568,0,20,OCT25,1989,i
@@ -1857,7 +1862,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11631333,"Sperga, Janis",LAT,M,,,,1539,0,20,OCT25,1993,i
 11614099,"Spiguns, Roberts",LAT,M,,,,1450,0,20,OCT25,2002,i
 11629681,"Spiridovska, Renata",LAT,F,,,,1512,0,40,OCT25,2012,w
-11629690,"Spiridovskis, Leonels",LAT,M,,,,1450,0,40,OCT25,2014,
+11629690,"Spiridovskis, Leonels",LAT,M,,,,1449,0,40,OCT25,2014,
 11611804,"Spiridovskis, Rafaels",LAT,M,,,,1716,0,40,OCT25,2007,i
 11615680,"Spirkova,Marija",LAT,F,,,,1604,0,20,OCT25,2006,w
 11615826,"Sprindzuks Golubcovs,Edvards",LAT,M,,,,1661,0,20,OCT25,2004,i
@@ -1871,8 +1876,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11639075,"Spurins, Ainars",LAT,M,,,,1657,0,20,OCT25,1969,i
 11603984,"Stabulnieks, Klavs",LAT,M,,,,2128,0,20,OCT25,2000,i
 11633204,"Stakanovs, Serafims",LAT,M,,,,1408,0,40,OCT25,2011,i
-11640677,"Stalazs, Eduards",LAT,M,,,,1417,6,40,OCT25,2014,i
-11655321,"Stalgis, Edmunds",LAT,M,,,,1927,16,20,OCT25,1970,
+11655321,"Stalgis, Edmunds",LAT,M,,,,1925,16,20,OCT25,1970,
 11606568,"Stals, Gunars",LAT,M,,,,1711,0,20,OCT25,1971,i
 11614056,"Stamers, Bertulis",LAT,M,,,,1586,0,20,OCT25,2004,i
 11610514,"Stanislavskis, Dmitrijs",LAT,M,,,,1754,0,20,OCT25,2003,i
@@ -1890,15 +1894,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11625392,"Steinberga, Iveta",LAT,F,,,,1681,0,20,OCT25,1975,wi
 11610387,"Steinbergs, Aleksis",LAT,M,,,,1574,0,20,OCT25,2002,i
 11640723,"Steinbergs, Arturs",LAT,M,,,,1516,0,40,OCT25,2007,
-11617004,"Steinbergs, Mikelis Karlis",LAT,M,,,,1666,7,40,OCT25,2009,
-11611677,"Steinbergs, Raivo",LAT,M,,,,1877,7,20,OCT25,2005,
+11617004,"Steinbergs, Mikelis Karlis",LAT,M,,,,1664,7,40,OCT25,2009,
+11611677,"Steinbergs, Raivo",LAT,M,,,,1878,7,20,OCT25,2005,
 11605197,"Steinbergs, Viktors",LAT,M,,,,1793,0,20,OCT25,1952,
 11629991,"Steiners, Emils",LAT,M,,,,2051,0,40,OCT25,2011,
-11635126,"Steins, Henrijs",LAT,M,,,,1577,6,40,OCT25,2011,
+11635126,"Steins, Henrijs",LAT,M,,,,1565,6,40,OCT25,2011,
 11614552,"Steins, Maigonis",LAT,M,,,,1601,0,20,OCT25,1933,
 11620722,"Stekels, Edvards",LAT,M,,,,1502,0,20,OCT25,2003,i
 11601078,"Stepanov, Timofej",LAT,M,,,,2235,0,20,OCT25,1980,i
-11635797,"Stepanovs, Andrejs",LAT,M,,,,AFM,1732,0,OCT25,1983,i
+11635797,"Stepanovs, Andrejs",LAT,M,,,,1732,0,,OCT25,1983,i
 11610972,"Stepanovs, Dans",LAT,M,,,,1605,0,20,OCT25,2006,i
 11631171,"Stepanovs, Kristaps",LAT,M,,,,1563,0,20,OCT25,1989,i
 11622695,"Stepanovs, Ricards",LAT,M,,,,1699,0,40,OCT25,2008,
@@ -1909,7 +1913,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11622164,"Stikane, Evelina",LAT,F,,,,1542,0,20,OCT25,2006,w
 11611782,"Stinka, Gustavs",LAT,M,,NA,,1824,32,20,OCT25,2004,
 11631953,"Stirna, Uldis",LAT,M,,,,1916,0,20,OCT25,1973,
-11606428,"Stivrins, Eriks",LAT,M,,,,1711,0,20,OCT25,1943,
+11606428,"Stivrins, Eriks",LAT,M,,,,1712,0,20,OCT25,1943,
 11648813,"Stolde, Oskars",LAT,M,,,,1409,7,40,OCT25,2008,
 11622903,"Stots, Patriks",LAT,M,,,,1738,0,20,OCT25,1996,i
 11605901,"Straksis, Harijs",LAT,M,,,,1821,0,20,OCT25,1940,i
@@ -1923,8 +1927,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11646292,"Strazdins, Raitis",LAT,M,,,,1820,0,40,OCT25,1963,
 11654538,"Straznova, Annemarija",LAT,F,,,,1527,0,40,OCT25,2008,w
 11601310,"Strebkovs, Andrejs",LAT,M,,,,2235,0,20,OCT25,1981,i
-11633174,"Strekalovs, Ernests",LAT,M,,,,1746,0,40,OCT25,2013,
-11645458,"Strekalovs, Rinalds",LAT,M,,,,1417,0,40,OCT25,2017,
+11633174,"Strekalovs, Ernests",LAT,M,,,,1749,0,40,OCT25,2013,
+11645458,"Strekalovs, Rinalds",LAT,M,,,,1408,0,40,OCT25,2017,
 11620790,"Strelnieks, Edgars",LAT,M,,,,1740,0,20,OCT25,1981,
 11650877,"Strenga, Arnolds",LAT,M,,,,1451,0,40,OCT25,1992,
 11625570,"Strodahs, Olafs",LAT,M,,,,1605,0,20,OCT25,1989,i
@@ -1936,7 +1940,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11650214,"Strucajevs, Timofejs",LAT,M,,,,1451,2,40,OCT25,2016,
 11605545,"Strumpe, Andis",LAT,M,,,,2052,0,20,OCT25,1970,
 11611952,"Strupka, Maldra",LAT,F,,,,1672,0,20,OCT25,1969,w
-11619082,"Students, Aivis",LAT,M,,,,1702,0,20,OCT25,1969,
+11619082,"Students, Aivis",LAT,M,,,,1701,0,20,OCT25,1969,
 11644613,"Stugis, Edvards",LAT,M,,,,1537,0,40,OCT25,2006,i
 11644591,"Stugis, Roberts",LAT,M,,,,1796,0,40,OCT25,1976,i
 11614544,"Stuglis, Arnis",LAT,M,,,,1855,0,20,OCT25,1953,i
@@ -1951,7 +1955,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11605910,"Suharevskis, Guntars",LAT,M,,,,1698,0,20,OCT25,1965,i
 11624329,"Sulzingers, Eriks Ariels",LAT,M,,,,1936,14,40,OCT25,2011,
 11646225,"Surums, Edmunds",LAT,M,,,,1551,2,40,OCT25,2009,
-11641118,"Surunova, Gabriela",LAT,F,,,,1517,6,40,OCT25,2016,w
+11641118,"Surunova, Gabriela",LAT,F,,,,1516,6,40,OCT25,2016,w
 11613645,"Susejs, Voldemars",LAT,M,,,,1575,0,20,OCT25,1942,
 11619422,"Suvorovs, Aleksandrs",LAT,M,,,,1568,0,20,OCT25,1983,i
 11637633,"Svarans, Rets",LAT,M,,,,1552,0,40,OCT25,1998,i
@@ -1965,22 +1969,23 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11623098,"Tamulis, Stanislavas",LAT,M,,,,1500,0,20,OCT25,1938,i
 11642122,"Tamuzs, Oskars Benjamins",LAT,M,,,,1438,0,40,OCT25,2011,
 11611960,"Taranda, Laimonis",LAT,M,,,,1499,0,20,OCT25,2004,i
-11646519,"Tarlaps, Andrejs",LAT,M,,,,1501,11,40,OCT25,2015,
+11646519,"Tarlaps, Andrejs",LAT,M,,,,1410,21,40,OCT25,2015,
 11623365,"Tarvids, Roberts",LAT,M,,,,1582,0,20,OCT25,2002,i
 11621630,"Taskans, Adrians",LAT,M,,,,1594,0,40,OCT25,2007,
 11618957,"Taurenis, Dzintars",LAT,M,,,,1678,0,20,OCT25,1949,i
 11601566,"Tenis, Girts",LAT,M,,,,1851,0,20,OCT25,1971,i
 11623349,"Tenis, Kristaps",LAT,M,,,,1481,0,20,OCT25,2006,i
 11619473,"Ter-Avetisjana, Agapi",LAT,F,,FA,,1474,0,20,OCT25,2003,wi
-11614900,"Ter-Avetisjana, Agnesa Stepania",LAT,F,WIM,WIM,,2199,41,40,OCT25,2007,w
+11614900,"Ter-Avetisjana, Agnesa Stepania",LAT,F,WIM,WIM,,2198,41,40,OCT25,2007,w
 11624353,"Terauds, Herberts",LAT,M,,,,1546,0,20,OCT25,1986,i
-11632194,"Teremranova, Sofija",LAT,F,,,,1603,0,40,OCT25,2013,w
+11632194,"Teremranova, Sofija",LAT,F,,,,1591,0,40,OCT25,2013,w
 11600152,"Terentiev, Sergei",LAT,M,FM,,,2193,0,20,OCT25,1962,i
 11608870,"Teresenkovs, Jevgenijs",LAT,M,,,,1642,0,20,OCT25,1961,
+11637366,"Terlanova, Alesija",LAT,F,,,,1401,8,40,OCT25,2010,w
 11613530,"Testelecs, Ilja Kuprijans",LAT,M,,,,1874,7,40,OCT25,2008,
-11633751,"Tidmanis, Kristers",LAT,M,,,,1557,0,40,OCT25,2012,
+11633751,"Tidmanis, Kristers",LAT,M,,,,1555,0,40,OCT25,2012,
 11610522,"Tihijs, Aleksejs",LAT,M,,,,1739,0,20,OCT25,2001,i
-11607815,"Tihomirovs, Andris",LAT,M,,,,1563,0,20,OCT25,1981,
+11607815,"Tihomirovs, Andris",LAT,M,,,,1562,0,20,OCT25,1981,
 11624019,"Timofejevs, Pjers",LAT,M,,,,1402,0,40,OCT25,2009,i
 11611510,"Timofejevs, Vadims",LAT,M,,,,1651,0,20,OCT25,1977,i
 11604581,"Timrots, Adolfs",LAT,M,,,,1682,0,20,OCT25,2002,i
@@ -1993,22 +1998,22 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11622938,"Tolmaceva, Alona",LAT,F,,,,1988,27,40,OCT25,2013,w
 11618590,"Tolmacevs, Romans",LAT,M,,,,2139,32,40,OCT25,2011,
 11617519,"Tolmacevs,Artjoms",LAT,M,FM,,,2137,16,40,OCT25,2009,
-11633840,"Tolpigins, Aleksandrs",LAT,M,,,,1440,0,40,OCT25,2013,
+11633840,"Tolpigins, Aleksandrs",LAT,M,,,,1439,0,40,OCT25,2013,
 11645857,"Tomasevskis, Arvis",LAT,M,,,,1421,0,40,OCT25,2014,
 11618191,"Tomkovics, Ilja",LAT,M,,,,1580,0,40,OCT25,2006,i
 11629622,"Tormozov, Mihail",LAT,M,,,,1572,0,20,OCT25,1996,i
 11650117,"Tormozovs, Timurs",LAT,M,,,,1549,0,40,OCT25,2011,
 11651016,"Totojevs, Marats",LAT,M,,,,1718,0,40,OCT25,1983,
-11645512,"Trapeznikovs, Timurs",LAT,M,,,,1404,9,40,OCT25,2016,
+11645512,"Trapeznikovs, Timurs",LAT,M,,,,1414,9,40,OCT25,2016,
 11654260,"Treibahs, Egons",LAT,M,,,,1470,9,40,OCT25,1972,
 11614641,"Treibusa, Valerija",LAT,F,,,,1454,0,20,OCT25,2005,wi
-11634073,"Treigute, Lea",LAT,F,,,,1670,6,40,OCT25,2012,w
+11634073,"Treigute, Lea",LAT,F,,,,1669,5,40,OCT25,2012,w
 11636149,"Treiguts, Manu",LAT,M,,,,1588,6,40,OCT25,2014,
 11638877,"Treikals, Raivis",LAT,M,,,,1612,0,20,OCT25,1996,i
 11626470,"Treimanis, Ernests",LAT,M,,,,1741,0,40,OCT25,2009,
-11637870,"Trenin, Vassili",LAT,M,,,,1631,8,40,OCT25,2009,
-11631880,"Tronenkova, Vilhelmine",LAT,F,,,,1448,10,40,OCT25,2014,w
-11636939,"Tronenkovs, Austris",LAT,M,,,,1428,6,40,OCT25,2015,
+11637870,"Trenin, Vassili",LAT,M,,,,1630,8,40,OCT25,2009,
+11631880,"Tronenkova, Vilhelmine",LAT,F,,,,1447,10,40,OCT25,2014,w
+11636939,"Tronenkovs, Austris",LAT,M,,,,1429,6,40,OCT25,2015,
 11601558,"Tronenkovs, Valdis",LAT,M,FM,NA,,2298,0,20,OCT25,1985,i
 11614943,"Tropins,Edijs",LAT,M,,,,1618,0,20,OCT25,1994,i
 11613157,"Truhanovs, Vadims",LAT,M,,,,1578,0,20,OCT25,2005,i
@@ -2046,7 +2051,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11605944,"Vaivads, Valts",LAT,M,,,,1774,0,20,OCT25,2002,i
 11638052,"Vaivars, Klavs",LAT,M,,,,1510,0,40,OCT25,2014,
 11617578,"Valdats, Reinis",LAT,M,FM,,,2016,10,40,OCT25,2010,
-11615460,"Valdats,Maris",LAT,M,,,,1704,8,20,OCT25,1979,
+11615460,"Valdats,Maris",LAT,M,,,,1705,8,20,OCT25,1979,
 11622601,"Valeine, Elina",LAT,F,,,,1518,0,20,OCT25,1983,wi
 11611871,"Valeine, Ieva",LAT,F,,,,1540,0,40,OCT25,2008,wi
 11601450,"Valeinis, Janis",LAT,M,,,,2097,0,20,OCT25,1978,i
@@ -2057,23 +2062,22 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11604590,"Vambuts, Raimonds",LAT,M,,,,1994,0,20,OCT25,1975,i
 11646004,"Vanaga, Patricija",LAT,F,,,,1449,0,40,OCT25,2007,w
 11605200,"Vanagelis, Alvis",LAT,M,,,,1927,0,20,OCT25,1981,i
-11654511,"Vanags, Andrejs",LAT,M,,,,1677,0,40,OCT25,1976,
+11654511,"Vanags, Andrejs",LAT,M,,,,1681,0,40,OCT25,1976,
 11623039,"Vanags, Davids",LAT,M,,,,1483,0,40,OCT25,2008,i
 11623489,"Vanags, Donats",LAT,M,,,,1510,0,20,OCT25,1955,i
 11607513,"Vanags, Edmunds",LAT,M,,,,1698,0,20,OCT25,2003,i
-11635509,"Vanags, Gustavs",LAT,M,,,,1659,0,40,OCT25,2007,
+11635509,"Vanags, Gustavs",LAT,M,,,,1666,0,40,OCT25,2007,
 11641568,"Vanags, Karlis",LAT,M,,,,1425,7,40,OCT25,2012,
 11612410,"Vanags, Renars",LAT,M,,,,1465,0,20,OCT25,2004,i
 11618353,"Vansovics, Aleksandrs",LAT,M,,,,1548,0,20,OCT25,1995,i
 11624345,"Varavs, Henrijs Reinis",LAT,M,,,,1581,0,40,OCT25,2005,i
-11634057,"Varchenko, Yegor",LAT,M,,,,1676,4,20,OCT25,2002,
-11652675,"Varezkins, Ilja",LAT,M,,,,1490,7,40,OCT25,2012,
+11634057,"Varchenko, Yegor",LAT,M,,,,1675,4,20,OCT25,2002,
 11646268,"Varezkins, Vladimirs",LAT,M,,,,1670,0,40,OCT25,1987,
-11633786,"Varhotovs, Vladimirs",LAT,M,,,,1485,0,40,OCT25,2010,
+11633786,"Varhotovs, Vladimirs",LAT,M,,,,1483,0,40,OCT25,2010,
 11616750,"Varna,Eduards",LAT,M,,,,1472,0,40,OCT25,2008,
 11640871,"Varpa, Janis",LAT,M,,,,1537,0,20,OCT25,1955,i
 11620161,"Varpins, Kristians",LAT,M,,,,1827,0,40,OCT25,2009,
-11633964,"Varpins, Valters",LAT,M,,,,1485,0,40,OCT25,2012,
+11633964,"Varpins, Valters",LAT,M,,,,1511,0,40,OCT25,2012,
 11609338,"Vascilko,Vladlens",LAT,M,,,,1657,0,20,OCT25,2000,i
 11626402,"Vascinska, Alina",LAT,F,,,,1427,0,40,OCT25,2011,wi
 11622377,"Vasilevica, Alesja",LAT,F,,,,1455,0,40,OCT25,2008,wi
@@ -2091,8 +2095,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11626135,"Veide, Karlis",LAT,M,,,,1429,0,40,OCT25,2005,i
 11621575,"Veinbergs, Georgs",LAT,M,,,,1440,5,40,OCT25,2009,
 11620382,"Veinbergs, Valters",LAT,M,,,,1437,0,20,OCT25,2006,
-11635355,"Veitners, Pauls",LAT,M,,,,2029,11,40,OCT25,2012,
-11600063,"Veits, Janis",LAT,M,,,,AIM,1914,0,OCT25,1992,
+11635355,"Veitners, Pauls",LAT,M,,,,2028,11,40,OCT25,2012,
+11600063,"Veits, Janis",LAT,M,,,,1914,0,,OCT25,1992,
 11610786,"Veja, Benita",LAT,F,,,,1860,0,40,OCT25,1948,w
 11600527,"Veja, Ginta",LAT,F,,,,1900,0,20,OCT25,1978,w
 11607823,"Vejkajs, Ojars",LAT,M,,,,1726,0,20,OCT25,1940,i
@@ -2106,11 +2110,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11610395,"Vevers, Aksels Agris",LAT,M,,,,1527,0,20,OCT25,2002,i
 11620366,"Vevers, Davis Raits",LAT,M,,,,1499,0,40,OCT25,2007,
 11605987,"Vevers, Elans Andrejs",LAT,M,,,,1744,0,20,OCT25,2000,i
-11608080,"Vidrikis, Ansis",LAT,M,,,,1599,9,20,OCT25,1942,
+11608080,"Vidrikis, Ansis",LAT,M,,,,1598,9,20,OCT25,1942,
 11601841,"Vidruska, Renate",LAT,F,WFM,WFM,,2049,38,20,OCT25,1984,w
 11618493,"Vidrusks, Jekabs",LAT,M,,,,1427,0,40,OCT25,2009,i
 11630728,"Vigups, Ritvars",LAT,M,,,,1442,0,40,OCT25,2008,i
-11608013,"Vijups, Dans",LAT,M,,,,AFM,1916,7,OCT25,1969,
+11608013,"Vijups, Dans",LAT,M,,,,1917,7,,OCT25,1969,
 11606851,"Vikseris, Aleksandrs",LAT,M,,,,1596,0,20,OCT25,1938,i
 11614242,"Viksna, Matiss",LAT,M,,,,1454,0,20,OCT25,2003,i
 11600624,"Viksne, Karlis",LAT,M,,,,1780,0,20,OCT25,1936,i
@@ -2137,7 +2141,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11629754,"Vinslovs, Andrejs",LAT,M,,,,1701,0,20,OCT25,1983,i
 11637315,"Vipulis, Marcis",LAT,M,,,,1582,5,40,OCT25,2011,
 11632364,"Visnakova, Anna",LAT,F,,,,1611,0,40,OCT25,2011,w
-11608161,"Visnevskis, Valdis",LAT,M,,,,1684,7,20,OCT25,1956,
+11608161,"Visnevskis, Valdis",LAT,M,,,,1680,6,20,OCT25,1956,
 11600870,"Visockis, Janis",LAT,M,,,,1875,26,20,OCT25,1938,
 11604956,"Vissarionovs, Artjoms",LAT,M,,,,1799,0,20,OCT25,2005,i
 11610069,"Vitins, Janis",LAT,M,,,,1621,7,20,OCT25,1969,
@@ -2146,12 +2150,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11619210,"Vitols, Janis",LAT,M,,,,1448,0,20,OCT25,1988,
 11631007,"Vitums Jaunzems, Gusts",LAT,M,,,,1582,9,40,OCT25,2012,
 11625325,"Vivdenko, Margarita",LAT,F,,,,1429,0,40,OCT25,2010,wi
-11622172,"Vizulis, Alfreds",LAT,M,,,,1592,0,20,OCT25,1976,
+11622172,"Vizulis, Alfreds",LAT,M,,,,1591,0,20,OCT25,1976,
 11619880,"Vjaters, Jaromirs",LAT,M,,,,1497,0,40,OCT25,2009,i
 11617071,"Voitans, Ricards",LAT,M,,,,1489,0,40,OCT25,2005,i
 11610409,"Voitehovics, Artis",LAT,M,,,,1539,0,20,OCT25,1991,i
 11610417,"Voitehovics, Ceslavs",LAT,M,,,,1583,5,20,OCT25,1959,
-11636556,"Voitovics, Maksims",LAT,M,,,,1598,0,40,OCT25,2014,
+11636556,"Voitovics, Maksims",LAT,M,,,,1597,0,40,OCT25,2014,
 11634510,"Voits, Helmuts",LAT,M,,,,1702,0,20,OCT25,1962,i
 11611812,"Volkova, Anna Marija",LAT,F,,,,1515,0,20,OCT25,2003,wi
 11608420,"Volkovs, Aleksandrs",LAT,M,,,,1726,0,20,OCT25,1952,i
@@ -2161,30 +2165,32 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11652144,"Voloncevics, Valerijs",LAT,M,,,,1646,0,40,OCT25,1993,
 11613203,"Volzanins, Daniils",LAT,M,,,,1466,0,40,OCT25,2005,i
 11632755,"Vorobeca, Frida",LAT,F,,,,1436,0,40,OCT25,2014,w
-11629924,"Vorobjovs, Nils",LAT,M,,,,1844,8,40,OCT25,2011,
+11629924,"Vorobjovs, Nils",LAT,M,,,,1842,8,40,OCT25,2011,
 11606240,"Voronko, Valerijs",LAT,M,,,,1932,0,20,OCT25,1995,i
 11600233,"Voronova, Tatiana",LAT,F,WIM,WIM,,2097,0,20,OCT25,1955,wi
 11611758,"Vorons, Uldis",LAT,M,,,,1516,0,20,OCT25,2006,i
 11616580,"Vuskans, Ronalds",LAT,M,,,,1483,0,20,OCT25,1979,i
 11616482,"Vuskans,Eduards",LAT,M,,,,1721,0,20,OCT25,2006,
-11650052,"Vvedenskis, Jakovs",LAT,M,,,,1502,0,40,OCT25,2009,
+11650052,"Vvedenskis, Jakovs",LAT,M,,,,1503,0,40,OCT25,2009,
 11650036,"Yanovskiy, Maxim",LAT,M,,,,1668,0,40,OCT25,1989,i
 11622873,"Yovanovich, Victor",LAT,M,,,,1672,0,40,OCT25,2010,i
 11648929,"Zacmans, Roberts",LAT,M,,,,1644,0,40,OCT25,2009,
 11611170,"Zags,Tomass",LAT,M,,,,1698,0,20,OCT25,2002,i
 11616725,"Zaharjins, Sergejs",LAT,M,,,,1484,0,40,OCT25,2009,
 11609028,"Zaharovs, Kirills",LAT,M,,,,1494,0,20,OCT25,2003,i
+11646616,"Zaharovs, Ruslans",LAT,M,,,,1433,5,40,OCT25,2014,
 11624914,"Zaicevs, Olegs",LAT,M,,,,1554,0,20,OCT25,1954,i
 11624280,"Zajakins, Artjoms",LAT,M,,,,2004,24,40,OCT25,2007,
 11631627,"Zajakins, Vadims",LAT,M,,,,1693,0,20,OCT25,1971,i
 11622920,"Zakis, Janis",LAT,M,,,,1707,0,20,OCT25,2004,i
 11642602,"Zakis, Oskars",LAT,M,,,,1606,0,40,OCT25,2008,
 11624337,"Zakis, Zigurds",LAT,M,,,,1668,0,20,OCT25,1968,i
-11603445,"Zalcmane, Vija",LAT,F,,,,1594,16,20,OCT25,1939,w
+11603445,"Zalcmane, Vija",LAT,F,,,,1597,16,20,OCT25,1939,w
 11644648,"Zalcmanis, Mariss",LAT,M,,,,1420,0,40,OCT25,2009,i
 11603534,"Zalitis, Arturs-Aleksis",LAT,M,,,,2146,0,20,OCT25,1995,
 11629860,"Zalitis, Gunars",LAT,M,,,,1596,0,20,OCT25,1954,i
 11632941,"Zalkalns, Maris",LAT,M,,,,1522,0,20,OCT25,1966,i
+11633816,"Zalygin, Mihail",LAT,M,,,,1431,13,40,OCT25,2015,
 11625406,"Zapolskihs, Timurs",LAT,M,,,,1434,0,40,OCT25,2009,i
 11618663,"Zareckis, Andrejs",LAT,M,,,,1474,0,40,OCT25,2009,i
 11618809,"Zareckis, Beniamins",LAT,M,,,,1524,0,40,OCT25,2005,i
@@ -2198,14 +2204,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11607980,"Zavjalovs, Jegors",LAT,M,,,,1668,0,20,OCT25,2000,i
 11612401,"Zazerskis, Ralfs",LAT,M,,,,1502,0,20,OCT25,2004,i
 11635754,"Zebris, Roberts",LAT,M,,,,1518,0,20,OCT25,2003,i
-11632356,"Zegelis, Harijs",LAT,M,,,,1657,0,20,OCT25,1958,
+11632356,"Zegelis, Harijs",LAT,M,,,,1660,0,20,OCT25,1958,
 11607181,"Zeidaks, Karlis",LAT,M,,,,1513,0,40,OCT25,2005,i
 11636262,"Zeile, Daniels",LAT,M,,,,1503,0,40,OCT25,2005,i
 11626216,"Zeiza, Arturs",LAT,M,,,,1727,0,20,OCT25,1996,i
 11646993,"Zelcs, Adrians",LAT,M,,,,1615,0,40,OCT25,2009,
 11614587,"Zelencovs, Vladimirs",LAT,M,,,,1625,0,20,OCT25,1939,i
 11610816,"Zelmanis, Roberts",LAT,M,,,,1674,0,20,OCT25,2001,i
-11643595,"Zelonka, Valdis",LAT,M,,,,1806,0,40,OCT25,1956,
+11643595,"Zelonka, Valdis",LAT,M,,,,1809,0,40,OCT25,1956,
 11628910,"Zeltins, Egons",LAT,M,,,,1518,0,20,OCT25,1962,i
 11632453,"Zemerovs, Arons",LAT,M,,,,1589,0,40,OCT25,2014,i
 11607637,"Zemmers, Didzis",LAT,M,,,,1642,0,20,OCT25,1969,i
@@ -2223,13 +2229,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11649720,"Zinevics, Maksims",LAT,M,,,,1501,0,40,OCT25,2011,i
 11607297,"Ziskins, Ilja",LAT,M,,,,1776,0,20,OCT25,1998,
 11605219,"Zitars, Klavs",LAT,M,,,,1852,0,20,OCT25,1996,i
-11655836,"Zivarts, Haralds",LAT,M,,,,1538,10,40,OCT25,2013,
+11655836,"Zivarts, Haralds",LAT,M,,,,1541,10,40,OCT25,2013,
 11613319,"Znotens, Nikita",LAT,M,,,,1594,0,20,OCT25,2002,i
 11620099,"Zoludevs, Vladimirs",LAT,M,,,,1574,0,20,OCT25,1972,i
 11638397,"Zomerovskis, Andris",LAT,M,,,,1481,4,20,OCT25,1962,
 11629797,"Zonenbergs, Reinis",LAT,M,,,,1468,0,20,OCT25,2003,i
 11609664,"Zorgenfreijs, Kriss",LAT,M,,,,1589,0,20,OCT25,1989,
-11611014,"Zubova, Darja",LAT,F,,,,1583,7,20,OCT25,2006,w
+11611014,"Zubova, Darja",LAT,F,,,,1587,7,20,OCT25,2006,w
 11615753,"Zubova,Polina",LAT,F,,,,1423,0,40,OCT25,2008,wi
 11603801,"Zuckovs, Aleksejs",LAT,M,FM,,,2165,0,20,OCT25,1960,
 11603909,"Zuj-Zaikovskis, Nikita",LAT,M,,,,1871,0,20,OCT25,2000,i

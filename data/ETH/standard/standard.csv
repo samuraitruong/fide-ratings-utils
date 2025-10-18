@@ -37,7 +37,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 15708250,"Belayneh , Solomon Gezahegn",ETH,M,,,,1946,0,40,OCT25,1977,i
 15700291,"Berhe, Azeb Asmelash",ETH,F,,,,1707,0,40,OCT25,1984,wi
 15704254,"Berhe,Milat Tekle",ETH,F,,,,1483,0,40,OCT25,1995,wi
-15701107,"Berihe,Adem Tofik",ETH,M,,,,AFM,1888,0,OCT25,2003,i
+15701107,"Berihe,Adem Tofik",ETH,M,,,,1888,0,,OCT25,2003,i
 15700089,"Bezabeh, Zelalem",ETH,M,,,,2038,0,40,OCT25,1965,i
 15702170,"Birhanu, Tegegn Mehadem",ETH,M,,,,2038,0,40,OCT25,1968,i
 15704521,"Bogino , Megersa Gobena",ETH,M,,,,1807,0,40,OCT25,1970,i
@@ -45,7 +45,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 15702057,"Ekubamichal,Kibrom Berhe",ETH,M,,,,1925,0,40,OCT25,2000,
 15704432,"Emana , Amanuel Diriba",ETH,M,,,,1776,0,40,OCT25,1994,i
 15701085,"Enquneh, Eyob",ETH,M,,,,1941,0,40,OCT25,1984,i
-15708977,"Ermias , Caleb Yared",ETH,M,,,,ACM,1560,0,OCT25,2010,i
+15708977,"Ermias , Caleb Yared",ETH,M,,,,1560,0,,OCT25,2010,i
 15700194,"Eshete , Ruth Leykun",ETH,F,,,,1633,0,20,OCT25,1994,wi
 15700321,"Eshetu, Bizuayehu Haile",ETH,M,,,,1935,0,40,OCT25,1983,i
 15707695,"Fekede , Dagim Tiruneh",ETH,M,,,,1794,0,40,OCT25,2004,i
@@ -112,7 +112,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 15707873,"Sheferaw , Eyob Alemu",ETH,M,,,,1872,0,40,OCT25,2002,i
 15709051,"Shiferaw , Leul Abiy",ETH,M,,,,1857,0,40,OCT25,1998,i
 15700470,"Shiferaw, Yalemzewde Mekonnen",ETH,M,,NI,,2002,0,20,OCT25,1989,i
-15710238,"Shikur , Eyob Assefa",ETH,M,,,,1723,0,40,OCT25,2002,
+15710238,"Shikur , Eyob Assefa",ETH,M,,,,1720,0,40,OCT25,2002,
 15708233,"Soresa , Zelalem Masresha",ETH,M,,,,1778,0,40,OCT25,1997,
 15700330,"Tadese, Estube Haileselassie",ETH,M,CM,,,2097,0,20,OCT25,1991,i
 15702146,"Tadesse, Sisay Temesgen",ETH,M,,,,1870,0,40,OCT25,1987,
@@ -150,7 +150,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 15700038,"Wondimu, Dawit",ETH,M,,,,2200,0,40,OCT25,0,i
 15700526,"Workneh,Damte Demeke",ETH,M,,,,1869,0,40,OCT25,1966,i
 15704513,"Worku , Abeselom Gobeze",ETH,M,,,,1650,0,40,OCT25,2003,i
-15710262,"Yeiyo , Nathnael Workneh",ETH,M,,,,1567,0,40,OCT25,2004,
+15710262,"Yeiyo , Nathnael Workneh",ETH,M,,,,1565,0,40,OCT25,2004,
 15708420,"Yemane , Zeslassie Teklehaymanot",ETH,M,,,,1803,0,40,OCT25,1996,i
 15700534,"Yirga , Nigussie Mitiku",ETH,M,,,,1972,0,20,OCT25,1986,i
 15708381,"Zeleke , Amanuel Tadesse",ETH,M,,,,1822,0,40,OCT25,1993,i
