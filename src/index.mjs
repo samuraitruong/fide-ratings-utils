@@ -119,10 +119,26 @@ export async function processFideRatings(url, ratingType) {
                     const monthMatch = headerText.match(/^FOA\s+([A-Z]{3}\d{2})\s+Gms\s+K$/i);
                     const ratingMonth = monthMatch ? monthMatch[1].toUpperCase() : '';
                     const [ratingVal, gms, k] = (value || '').trim().split(/\s+/);
+                    
+                    // Handle Arena ratings (AIM, ARB, etc.) - the actual rating is the number that follows
+                    if (ratingVal && /^[A-Z]{3}$/.test(ratingVal)) {
+                        // This is an Arena rating indicator (AIM, ARB, etc.), the actual rating is the next value
+                        obj['Rating'] = gms || '';  // The numeric rating is in the gms position
+                        obj['Gms'] = k || '';       // Games count is in the k position  
+                        obj['K'] = '';              // K factor is not applicable for Arena ratings
+                    } else {
+                        // This is a numeric rating
+                        obj['Rating'] = ratingVal || '';
+                        obj['Gms'] = gms || '';
+                        obj['K'] = k || '';
+                    }
+                    if (ratingMonth) obj['RatingMonth'] = ratingMonth;
+                } else if (columns[i].includes('Rating') && columns[i].includes('Gms') && columns[i].includes('K') && !columns[i].startsWith('FOA')) {
+                    // Handle Arena ratings and other rating formats
+                    const [ratingVal, gms, k] = (value || '').trim().split(/\s+/);
                     obj['Rating'] = ratingVal || '';
                     obj['Gms'] = gms || '';
                     obj['K'] = k || '';
-                    if (ratingMonth) obj['RatingMonth'] = ratingMonth;
                 } else if (columns[i] === 'B-day Flag') {
                     let [bday, ...flag] = value.split(/\s+/);
                     obj['B-day'] = bday || '';
