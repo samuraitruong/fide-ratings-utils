@@ -10384,7 +10384,7 @@
     "Name": "Gloessl, Sota Alexander",
     "Fed": "AUT",
     "Sex": "M",
-    "Title": "CM",
+    "Title": "FM",
     "WTit": "",
     "OTit": "",
     "Rating": "2115",
@@ -10594,7 +10594,7 @@
     "Name": "Gold, Theodor",
     "Fed": "AUT",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "2199",
@@ -30075,21 +30075,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "1647938",
-    "Name": "Ragossnig, Helmut",
-    "Fed": "AUT",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1762",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "NOV25",
-    "B-day": "1960",
-    "Flag": ""
-  },
-  {
     "ID Number": "1655957",
     "Name": "Ragossnig, Helmut",
     "Fed": "AUT",
@@ -30103,6 +30088,21 @@
     "RatingMonth": "NOV25",
     "B-day": "1944",
     "Flag": "i"
+  },
+  {
+    "ID Number": "1647938",
+    "Name": "Ragossnig, Helmut",
+    "Fed": "AUT",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1762",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "NOV25",
+    "B-day": "1960",
+    "Flag": ""
   },
   {
     "ID Number": "1677616",

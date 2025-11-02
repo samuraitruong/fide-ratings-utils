@@ -194,8 +194,8 @@ ID Number      Name                                                         Fed 
 21818339       Bajorek, Maciej                                              POL M                                1910  0   20 1987  i   
 545015058      Bak, Bartosz                                                 POL M                                1418  0   40 2011      
 91190355       Bak, Jacek                                                   POL M                                1530  0   40 2010      
-41847113       Bak, Jakub                                                   POL M                                1564  0   20 2004  i   
 21831610       Bak, Jakub                                                   POL M                                1454  3   20 2001      
+41847113       Bak, Jakub                                                   POL M                                1564  0   20 2004  i   
 21023468       Bak, Jedrzej                                                 POL M                                1604  0   40 2009  i   
 41846621       Bak, Jedrzej                                                 POL M                                1488  0   20 1991  i   
 21869723       Bak, Mariusz                                                 POL M                                1729  0   20 1982  i   
@@ -667,8 +667,8 @@ ID Number      Name                                                         Fed 
 21810060       Bogusz, Alan                                                 POL M                                1823  0   20 2006  i   
 41826612       Bogusz, Bartlomiej                                           POL M                                1435  0   20 1996  i   
 41845218       Bogusz, Jacek                                                POL M                                1416  0   20 1985  i   
-91180872       Bogusz, Jerzy                                                POL M                                1476  0   40 2008      
 41845226       Bogusz, Jerzy                                                POL M                                1443  0   40 2012  i   
+91180872       Bogusz, Jerzy                                                POL M                                1476  0   40 2008      
 21816310       Bogusz, Katarzyna                                            POL F                                1522  0   20 1978  wi  
 1140019        Bogusz, Tomasz                                               POL M                                1869  0   20 1976  i   
 21040605       Boguszewska, Julia                                           POL F                                1437  0   20 2006  wi  
@@ -1342,7 +1342,7 @@ ID Number      Name                                                         Fed 
 91169046       Curylo, Franciszek                                           POL M                                1412  0   40 2008      
 545019851      Cwalina, Dariusz                                             POL M                                1545  0   20 1971      
 1114395        Cwiek, Mariusz                                               POL M                                1932  10  20 1977      
-21840920       Cwiek, Ryszard                                               POL M                                2041  0   20 2005      
+21840920       Cwiek, Ryszard                                               POL M   CM                           2041  0   20 2005      
 21834563       Cwiek, Ryszard                                               POL M                                1803  0   20 1953  i   
 21857628       Cwiek, Stefan                                                POL M                                1700  0   40 2007  i   
 21003157       Cwiek, Tomasz                                                POL M                                1678  0   20 1968      
@@ -1815,8 +1815,8 @@ ID Number      Name                                                         Fed 
 21063931       Dropia, Rafal                                                POL M                                1722  0   20 1975  i   
 21007543       Drozd, Gabriela                                              POL F                                1508  0   40 2010  wi  
 21055386       Drozd, Julia                                                 POL F                                1513  0   40 2012  wi  
-545020736      Drozd, Michal                                                POL M                                1534  28  40 2011      
 21876460       Drozd, Michal                                                POL M                                1413  0   40 2009  i   
+545020736      Drozd, Michal                                                POL M                                1534  28  40 2011      
 21856028       Drozd, Mikolaj                                               POL M                                1596  0   20 2005  i   
 21877106       Drozd, Tomasz                                                POL M                                1471  0   40 2007  i   
 21032840       Drozd, Tomasz                                                POL M                                1593  0   20 1972  i   
@@ -2337,8 +2337,8 @@ ID Number      Name                                                         Fed 
 91104807       Galin, Pawel                                                 POL M                                1570  0   20 1989  i   
 41849159       Galinska, Pola                                               POL F                                1557  0   40 2010  w   
 41895444       Galinski, Grzegorz                                           POL M                                1555  0   40 2010  i   
-1162071        Galinski, Grzegorz                                           POL M                                1612  0   20 1973      
 21078971       Galinski, Grzegorz                                           POL M                                1462  0   20 1959      
+1162071        Galinski, Grzegorz                                           POL M                                1612  0   20 1973      
 41876431       Galinski, Jakub                                              POL M                                1611  0   20 2002  i   
 1177729        Galinski, Jaroslaw                                           POL M                                2000  0   20 1987  i   
 91109256       Galinski, Ksawery                                            POL M                                1423  0   40 2011  i   
@@ -2897,8 +2897,8 @@ ID Number      Name                                                         Fed 
 1105884        Grzelak, Artur                                               POL M                                2096  0   20 1972      
 21008108       Grzelak, Dawid                                               POL M                                1440  0   20 2004  i   
 1133608        Grzelak, Jaroslaw                                            POL M                                1876  0   20 1970  i   
-41891287       Grzelak, Karol                                               POL M                                1456  0   40 2009  i   
 21872740       Grzelak, Karol                                               POL M                                1665  0   20 1989  i   
+41891287       Grzelak, Karol                                               POL M                                1456  0   40 2009  i   
 1133519        Grzelak, Marcin                                              POL M                                1801  0   20 1983  i   
 1199676        Grzelak, Piotr                                               POL M                                1761  0   20 2000  i   
 21012784       Grzelak, Piotr                                               POL M                                1664  0   20 2006  i   
@@ -3510,7 +3510,7 @@ ID Number      Name                                                         Fed 
 41859324       Jastrzebski, Jan                                             POL M                                1406  0   40 2017      
 1168690        Jastrzebski, Konrad                                          POL M                                1728  0   20 1997  i   
 21083568       Jastrzebski, Krzysztof                                       POL M                                1432  0   20 1992  i   
-21803633       Jastrzebski, Robert                                          POL M                                1659  14  20 1980      
+21803633       Jastrzebski, Robert                                          POL M                            AFM 1659  14  20 1980      
 21805369       Jastrzebski, Ryszard                                         POL M                                1666  0   20 1958      
 21094780       Jastrzebski, Slawomir                                        POL M                                1478  0   20 1976      
 21021678       Jastrzebski, Tomasz                                          POL M                                1611  0   20 1978  i   
@@ -3533,8 +3533,8 @@ ID Number      Name                                                         Fed 
 1191322        Jaworski, Marcin                                             POL M                                1572  0   20 1976  i   
 41846702       Jaworski, Mariusz                                            POL M                                1576  0   20 1970  i   
 1141155        Jaworski, Mateusz                                            POL M                                1739  0   20 1988      
-91139821       Jaworski, Mateusz                                            POL M                                1799  0   20 2003  i   
 21894612       Jaworski, Mateusz                                            POL M                                1589  0   20 2000  i   
+91139821       Jaworski, Mateusz                                            POL M                                1799  0   20 2003  i   
 91109833       Jaworski, Pawel                                              POL M                                1501  14  20 1982      
 21859582       Jaworski, Tymon                                              POL M                                2067  13  40 2008      
 21896674       Jaworski, Tymon                                              POL M                                1552  0   20 1970  i   
@@ -3752,8 +3752,8 @@ ID Number      Name                                                         Fed 
 21885940       Kalinowska, Aleksandra                                       POL F                                1476  0   20 2005  wi  
 1172743        Kalinowska, Karolina                                         POL F                                1678  0   20 2000  wi  
 1195026        Kalinowska, Zuzanna                                          POL F   WFM  WFM                     1983  0   20 2002  wi  
-21089523       Kalinowski, Adam                                             POL M                                1429  0   40 2007  i   
 21090416       Kalinowski, Adam                                             POL M                                1606  0   20 1997      
+21089523       Kalinowski, Adam                                             POL M                                1429  0   40 2007  i   
 41810902       Kalinowski, Kacper                                           POL M                                1494  0   20 2004  i   
 1149199        Kalinowski, Kamil                                            POL M                                1711  0   20 1999  i   
 41864140       Kalinowski, Patryk                                           POL M                                1534  0   40 2008  i   
@@ -3838,8 +3838,8 @@ ID Number      Name                                                         Fed 
 21884897       Kania, Franciszek                                            POL M                                1426  0   40 2007  i   
 21040443       Kania, Jaroslaw                                              POL M                                1495  0   20 1969  i   
 41800524       Kania, Kacper                                                POL M                                1583  43  20 2000      
-545030340      Kania, Kacper                                                POL M                                1592  0   20 1998      
 21054193       Kania, Kacper                                                POL M                                1603  0   20 2001  i   
+545030340      Kania, Kacper                                                POL M                                1592  0   20 1998      
 21873070       Kania, Konrad                                                POL M                                1526  0   20 1994  i   
 21822514       Kania, Krystian                                              POL M                                1968  0   20 1998      
 41843290       Kania, Maciej                                                POL M                                1755  10  40 2015      
@@ -4585,8 +4585,8 @@ ID Number      Name                                                         Fed 
 91128005       Korzystka, Maksymilian                                       POL M                                1516  0   40 2009      
 21842787       Korzystka, Wiktor                                            POL M                                1516  0   20 2002  i   
 21805466       Kos, Grzegorz                                                POL M                                1768  0   20 1972  i   
-21849560       Kos, Krzysztof                                               POL M                                1513  0   20 1995  i   
 21020442       Kos, Krzysztof                                               POL M                                1550  0   20 1991      
+21849560       Kos, Krzysztof                                               POL M                                1513  0   20 1995  i   
 1120085        Kos, Pawel                                                   POL M                                2105  0   20 1984      
 1185080        Kosakowski, Jakub                                            POL M   GM                           2515  15  10 2002      
 21095086       Kosakowski, Szymon                                           POL M                                1670  0   20 2003      
@@ -4663,8 +4663,8 @@ ID Number      Name                                                         Fed 
 1101595        Kot, Jerzy                                                   POL M   FM                           1931  0   20 1942      
 41821580       Kot, Justyna                                                 POL F                                1424  0   40 2012  wi  
 21060720       Kot, Karol                                                   POL M                                1500  0   20 2005  i   
-41819969       Kot, Michal                                                  POL M                                1716  0   20 1974      
 21068798       Kot, Michal                                                  POL M                                1719  0   20 1995      
+41819969       Kot, Michal                                                  POL M                                1716  0   20 1974      
 41822579       Kot, Patryk                                                  POL M                                1549  0   40 2011  i   
 21896062       Kot, Stanislaw                                               POL M                                1474  0   40 2007  i   
 21086214       Kot, Szymon                                                  POL M                                1563  0   40 2012      
@@ -4708,8 +4708,8 @@ ID Number      Name                                                         Fed 
 41836618       Kovalov, Mykhailo                                            POL M                                1448  0   40 2014      
 1152238        Kowacz, Agnieszka                                            POL F                                1636  0   20 1998  wi  
 1195417        Kowal, Cezary                                                POL M             NA                 1750  0   20 1995  i   
-91193664       Kowal, Jakub                                                 POL M                                1573  0   40 2010      
 21067465       Kowal, Jakub                                                 POL M                                1426  0   40 2010  i   
+91193664       Kowal, Jakub                                                 POL M                                1573  0   40 2010      
 21034850       Kowal, Piotr                                                 POL M                                1505  0   20 2004  i   
 21034842       Kowal, Wojciech                                              POL M                                1603  0   20 2004  i   
 1105540        Kowalak, Piotr                                               POL M                                2035  0   20 1968  i   
@@ -4865,8 +4865,8 @@ ID Number      Name                                                         Fed 
 1164627        Kozlowski, Konrad                                            POL M                                1714  0   20 1997  i   
 41840631       Kozlowski, Krzysztof                                         POL M                                1412  0   40 2012  i   
 91112249       Kozlowski, Ksawery                                           POL M                                1493  0   40 2010      
-21856230       Kozlowski, Maciej                                            POL M                                1425  0   40 2007  i   
 21023689       Kozlowski, Maciej                                            POL M                                1489  0   40 2008      
+21856230       Kozlowski, Maciej                                            POL M                                1425  0   40 2007  i   
 1114450        Kozlowski, Marcin                                            POL M                                1927  8   20 1981      
 1157116        Kozlowski, Marcin                                            POL M                                1773  7   20 1985      
 21843953       Kozlowski, Marian                                            POL M                                1762  0   20 1966  i   
@@ -4971,8 +4971,8 @@ ID Number      Name                                                         Fed 
 21876533       Krawczyk, Jolanta                                            POL F                                1464  0   20 1973  wi  
 91170583       Krawczyk, Julian                                             POL M                                1480  0   40 2015      
 21045208       Krawczyk, Liwiusz                                            POL M                                1459  0   20 1977  i   
-545031282      Krawczyk, Maciej                                             POL M                                1477  0   40 2008      
 41896726       Krawczyk, Maciej                                             POL M                                1494  0   20 2004  i   
+545031282      Krawczyk, Maciej                                             POL M                                1477  0   40 2008      
 91116449       Krawczyk, Marcin                                             POL M                                1510  0   20 2006      
 21896070       Krawczyk, Mateusz                                            POL M                                1407  0   40 2007  i   
 21028346       Krawczyk, Michal                                             POL M                                1554  0   20 1973  i   
@@ -5207,8 +5207,8 @@ ID Number      Name                                                         Fed 
 21855889       Kubiczek, Jakub                                              POL M                                1522  0   20 2003  i   
 545013390      Kubien, Samuel                                               POL M                                1642  0   20 2001      
 21858071       Kubik, Bartosz                                               POL M                                1623  0   40 2009  i   
-21811300       Kubik, Karol                                                 POL M                                1760  0   20 1986  i   
 41840917       Kubik, Karol                                                 POL M                                1408  0   40 2014  i   
+21811300       Kubik, Karol                                                 POL M                                1760  0   20 1986  i   
 41849558       Kubik, Michal                                                POL M                                1467  0   20 1975  i   
 41860438       Kubik, Michal                                                POL M                                1493  0   20 1999  i   
 21038490       Kubik, Piotr                                                 POL M                                1511  0   20 1975  i   
@@ -5510,11 +5510,11 @@ ID Number      Name                                                         Fed 
 1187317        Kwiatkowski, Jakub                                           POL M                                1641  0   20 1998  i   
 21095779       Kwiatkowski, Jakub                                           POL M                                1567  0   40 2013  i   
 41847679       Kwiatkowski, Maciej                                          POL M                                1685  0   20 2004      
-545023492      Kwiatkowski, Maciej                                          POL M                                1420  0   20 2002      
 545000654      Kwiatkowski, Maciej                                          POL M                                1515  0   20 1998      
+545023492      Kwiatkowski, Maciej                                          POL M                                1420  0   20 2002      
 1185179        Kwiatkowski, Marek                                           POL M                                1747  0   20 1999  i   
-21835314       Kwiatkowski, Mateusz                                         POL M                                1806  0   20 1997  i   
 91100542       Kwiatkowski, Mateusz                                         POL M                                1513  0   20 2004  i   
+21835314       Kwiatkowski, Mateusz                                         POL M                                1806  0   20 1997  i   
 41809793       Kwiatkowski, Michal                                          POL M                                1495  0   40 2009  i   
 41859200       Kwiatkowski, Mikolaj                                         POL M                                1549  0   40 2009      
 91158680       Kwiatkowski, Mikolaj                                         POL M                                1547  0   40 2007  i   
@@ -11518,8 +11518,8 @@ ID Number      Name                                                         Fed 
 21065616       Witkowski, Michal                                            POL M                                1622  0   40 2009      
 21866732       Witkowski, Michal                                            POL M                                1498  0   20 1988  i   
 91156246       Witkowski, Patryk                                            POL M                                1593  0   20 2004  i   
-91134439       Witkowski, Piotr                                             POL M                                1479  0   40 2016      
 21892784       Witkowski, Piotr                                             POL M                                1766  0   20 1974  i   
+91134439       Witkowski, Piotr                                             POL M                                1479  0   40 2016      
 41807677       Witkowski, Szymon                                            POL M                                1458  0   40 2012  i   
 21899312       Witkowski, Tadeusz                                           POL M                                1525  0   20 1954  i   
 91130131       Witkowski, Tomasz                                            POL M                                1484  0   40 2017      
@@ -11979,9 +11979,9 @@ ID Number      Name                                                         Fed 
 21090254       Zak, Adam                                                    POL M                                1523  0   20 2006  i   
 21834750       Zak, Cezary                                                  POL M                                1620  0   20 2000  i   
 41821904       Zak, Emil                                                    POL M                                1455  0   20 1989  i   
+41844530       Zak, Karol                                                   POL M                                1456  0   20 1985  i   
 21847835       Zak, Karol                                                   POL M                                1551  0   20 2004  i   
 545022470      Zak, Karol                                                   POL M                                1475  15  20 1987      
-41844530       Zak, Karol                                                   POL M                                1456  0   20 1985  i   
 91160081       Zak, Maciej                                                  POL M                                1456  27  40 2017      
 21834784       Zak, Oskar                                                   POL M                                1612  0   20 1998  i   
 1170635        Zak, Pawel                                                   POL M                                1805  39  20 1988      
