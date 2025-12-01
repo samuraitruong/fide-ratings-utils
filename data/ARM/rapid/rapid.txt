@@ -1,4 +1,4 @@
-ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA NOV25 Gms K  B-day Flag
+ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA DEC25 Gms K  B-day Flag
 13316745       Abajyan, Lika                                                ARM F                                1702  0   40 2007  wi  
 13303406       Abkarian, Suren                                              ARM M                                2029  0   20 1959  i   
 13324144       Abrahamyan, Arman                                            ARM M                                1532  0   40 2011  i   
@@ -76,7 +76,7 @@ ID Number      Name                                                         Fed 
 13314203       Baroyan, Liza                                                ARM F                                1589  0   20 2006  w   
 13306707       Barseghyan, Armen Ar.                                        ARM M   IM                           2304  0   20 2003  i   
 13308092       Barseghyan, Narek                                            ARM M             NA                 1823  0   20 1997      
-13300385       Barsegian, Ararat                                            ARM M                                2077  11  20 1958      
+13300385       Barsegian, Ararat                                            ARM M                                2077  0   20 1958      
 13300725       Basencyan, Mark                                              ARM M                                2106  0   20 1992  i   
 13320874       Bazikyan, Artur                                              ARM M                                1576  0   40 2013  i   
 13302213       Begjanyan, Hrayr                                             ARM M                                2028  0   20 1959  i   
@@ -119,7 +119,7 @@ ID Number      Name                                                         Fed 
 13313975       Farmazyan, Armine                                            ARM F                                1810  0   20 1990  wi  
 13303627       Gaboyan, Susanna                                             ARM F   WIM  WIM                     2134  0   20 1996  w   
 13316605       Gabrielyan, Mariya                                           ARM F                                1741  0   40 2004  wi  
-13303732       Gabuzyan, Hovhannes                                          ARM M   GM                           2507  0   10 1995  i   
+13303732       Gabuzyan, Hovhannes                                          ARM M   GM                           2529  9   10 1995      
 13313363       Galajyan, Armen                                              ARM M                                1969  0   40 2006  i   
 13301314       Galojan, Lilit                                               ARM F   IM   WGM                     2282  0   20 1983  wi  
 13326562       Galstyan, Arman                                              ARM M                                1559  0   40 2013      
@@ -157,7 +157,7 @@ ID Number      Name                                                         Fed 
 13302191       Grigoryan, Avetik                                            ARM M   GM                           2589  0   10 1989  i   
 13317768       Grigoryan, Davit S.                                          ARM M                                1872  0   40 2011      
 13300539       Grigoryan, Julieta                                           ARM F                                1865  0   20 1994  wi  
-13301004       Grigoryan, Karen H.                                          ARM M   GM                           2628  0   10 1995      
+13301004       Grigoryan, Karen H.                                          ARM M   GM                           2626  4   10 1995      
 13320793       Grigoryan, Levon A.                                          ARM M                                1452  0   40 2009      
 13324691       Grigoryan, Robert                                            ARM M                                1639  0   40 2014      
 13315056       Grigoryan, Suren                                             ARM M                                2027  0   40 2006  i   
@@ -166,7 +166,7 @@ ID Number      Name                                                         Fed 
 13318179       Gyurjinyan, Valter                                           ARM M   CM                           2196  0   40 2009      
 13319000       Hakobova, Alisa                                              ARM F                                1653  0   40 2008  wi  
 60900067       Hakobyan, Allen                                              ARM M                                1924  0   40 2008      
-13306677       Hakobyan, Aram                                               ARM M   GM                           2548  0   10 2001      
+13306677       Hakobyan, Aram                                               ARM M   GM                           2539  9   10 2001      
 13311751       Hakobyan, Astghik                                            ARM F   WFM  WFM                     1971  0   40 2005  wi  
 13313940       Hakobyan, Erik                                               ARM M   IM                           2214  0   40 2006  i   
 13308807       Hakobyan, Hakob V.                                           ARM M                                2201  0   20 2001      
@@ -174,7 +174,7 @@ ID Number      Name                                                         Fed 
 13313274       Hakobyan, Menua                                              ARM M   FM                           2059  0   40 2008      
 13306782       Hakobyan, Romik                                              ARM M                                2031  0   20 1996  i   
 13306979       Hakobyan, Sergey                                             ARM M                                1765  0   20 1996  i   
-13314114       Hakobyan, Sergey V.                                          ARM M                                1570  7   40 2007      
+13314114       Hakobyan, Sergey V.                                          ARM M                                1686  10  40 2007      
 13310429       Hakobyan, Valeri                                             ARM M                                1773  0   20 1998  i   
 13302795       Hambardzumian, Yuri                                          ARM M   IM                           2264  0   10 1988      
 13325426       Hambardzumyan, Vilen                                         ARM M                                1577  0   40 2010      
@@ -191,7 +191,7 @@ ID Number      Name                                                         Fed 
 13322850       Harutyunyan, Viktoria                                        ARM F                                1535  0   40 2012  w   
 13321234       Hayrapetyan, Anri                                            ARM M                                1709  0   40 2012      
 13300890       Hayrapetyan, Arman Ash.                                      ARM M   IM                           2377  0   20 1979      
-13304240       Hayrapetyan, Artavazd R.                                     ARM M   FM                           2265  7   20 1991      
+13304240       Hayrapetyan, Artavazd R.                                     ARM M   FM                           2290  7   20 1991      
 13313568       Hayrapetyan, Edgar                                           ARM M   FM                           2241  0   20 2007      
 13319752       Hayrapetyan, Edvard                                          ARM M                                1698  0   40 2012      
 13318985       Hayrapetyan, Hakob                                           ARM M                                1798  0   40 2010      
@@ -202,11 +202,11 @@ ID Number      Name                                                         Fed 
 13306685       Hoghmrtsyan, Artur                                           ARM M   FM                           2213  0   20 2000  i   
 13302930       Hovakimyan, Narek                                            ARM M                                1980  0   20 1991  i   
 13317288       Hovakimyan, Vache                                            ARM M   FM                           2358  0   20 2009      
-13327534       Hovhannisyan, Grigor                                         ARM M                                1691  9   40 2012      
+13327534       Hovhannisyan, Grigor                                         ARM M                                1691  0   40 2012      
 13311174       Hovhannisyan, Karen H.                                       ARM M                                1728  0   40 1999      
 13318772       Hovhannisyan, Mikael                                         ARM M                                1900  0   40 2010      
 13316958       Hovhannisyan, Razmik                                         ARM M                                1750  0   20 2004  i   
-13302507       Hovhannisyan, Robert                                         ARM M   GM                           2522  0   10 1991      
+13302507       Hovhannisyan, Robert                                         ARM M   GM                           2517  13  10 1991      
 13310844       Hovhannisyan, Siranush                                       ARM F             NA             ACM 1644  0   40 2002  w   
 13311360       Hovsepyan, Gagik G.                                          ARM M                                1673  0   20 1993  i   
 13312936       Hovsepyan, Gagik K.                                          ARM M                                1740  0   20 2003  i   
@@ -263,6 +263,7 @@ ID Number      Name                                                         Fed 
 13319159       Maghakyan, Hayk                                              ARM M                                1865  0   40 2011      
 13312103       Makaryan, David                                              ARM M                                1737  0   40 1984  i   
 13302256       Makaryan, Karen                                              ARM M                                2046  0   20 1972  i   
+55613993       Mamikonyan, Artem T                                          ARM M                                1955  0   40 2013  i   
 13302310       Mamikonyan, Tigran                                           ARM M   FM                           2160  0   20 1988      
 13314343       Manaseryan, Narek                                            ARM M                                1796  0   20 2004  i   
 13302302       Manasyan, Haik                                               ARM M                                2099  0   20 1992  i   
@@ -274,12 +275,12 @@ ID Number      Name                                                         Fed 
 13305786       Manukyan, Artyom                                             ARM M   CM                           2171  0   20 1999  i   
 13324942       Manukyan, Hayk                                               ARM M                                1538  0   40 2013      
 13303007       Manukyan, Mariam A.                                          ARM F                                1885  0   20 1997  wi  
-13303970       Manukyan, Sargis A.                                          ARM M   FM                           2195  6   20 1995      
+13303970       Manukyan, Sargis A.                                          ARM M   FM                           2195  0   20 1995      
 13321978       Manukyan, Sargis Art.                                        ARM M                                1578  0   40 2010      
 13303465       Manukyan, Sargis V.                                          ARM M   FM        FT                 2164  0   20 1990      
 13321307       Manukyan, Tamara                                             ARM F                                1551  0   40 2010  w   
 13312189       Manukyan, Yura                                               ARM M                                1648  0   40 2002  i   
-13310143       Manvelyan, Mikayel                                           ARM M   FM                           2288  43  20 2007      
+13310143       Manvelyan, Mikayel                                           ARM M   FM                           2273  21  20 2007      
 13318349       Margaryan, Aram                                              ARM M                                1856  0   40 2011      
 13304348       Margaryan, Artur                                             ARM M                                2102  0   20 1979      
 13320092       Margaryan, Mark                                              ARM M                                1636  0   40 2011      
@@ -291,7 +292,7 @@ ID Number      Name                                                         Fed 
 13326856       Markosyan, Meruzhan                                          ARM M                                1460  0   40 2015      
 13327518       Martirosyan, Arman R.                                        ARM M                                1807  0   40 1993      
 13306286       Martirosyan, Garik                                           ARM M                                2035  0   20 1996  i   
-13306553       Martirosyan, Haik M.                                         ARM M   GM                           2609  0   10 2000      
+13306553       Martirosyan, Haik M.                                         ARM M   GM                           2635  11  10 2000      
 13327542       Martirosyan, Mher Zh.                                        ARM M                                1598  0   40 1990      
 13325396       Martirosyan, Mikhail                                         ARM M                                1413  0   40 2014      
 13326791       Matevosyan, Abel                                             ARM M                                1413  0   40 2012      
@@ -315,7 +316,7 @@ ID Number      Name                                                         Fed 
 13300709       Mirzabekyan, Svetlana                                        ARM F                                1941  0   20 1995  wi  
 13308386       Mirzoyan, Davit T.                                           ARM M   FM                           2405  0   10 2001  i   
 13318640       Mirzoyan, Hovhannes                                          ARM M                                1468  0   40 2009      
-13302124       Mkhitaryan, Karlen                                           ARM M                                1983  7   20 1953      
+13302124       Mkhitaryan, Karlen                                           ARM M                                1983  0   20 1953      
 13300601       Mkrtchian, Lilit                                             ARM F   IM   WGM                     2300  0   10 1982  w   
 13306642       Mkrtchyan, Albert Gh.                                        ARM M                                2007  0   20 1998  i   
 13307533       Mkrtchyan, Anahit D.                                         ARM F                                1848  0   20 2003  wi  
@@ -343,7 +344,7 @@ ID Number      Name                                                         Fed 
 13307002       Muradyan, Razmik                                             ARM M                                1693  0   20 1996      
 13309374       Muradyan, Robert                                             ARM M                                2110  0   20 2005      
 13326570       Muradyan, Tariel                                             ARM M                                1612  0   40 2015      
-13305751       Musheghyan, Murad                                            ARM M                                1797  0   20 1999      
+13305751       Musheghyan, Murad                                            ARM M                                1833  9   20 1999      
 13300393       Nadanian, Ashot                                              ARM M   IM                           2369  0   10 1972      
 13316710       Nadanyan, Kiti                                               ARM F                                1790  0   20 2004  wi  
 13317776       Nahapetyan, Ani                                              ARM F                                1578  0   40 2011  wi  
@@ -375,7 +376,7 @@ ID Number      Name                                                         Fed 
 13309978       Piliposyan, Robert                                           ARM M   IM                           2382  0   20 2007      
 13304798       Pluzyan, Aram                                                ARM M                                2099  0   20 1995  i   
 13318039       Poghosyan, Alen                                              ARM M                                2228  0   40 2009      
-13320882       Poghosyan, Ameli                                             ARM F                                1853  3   40 2012  w   
+13320882       Poghosyan, Ameli                                             ARM F                                1867  2   40 2012  w   
 13320750       Poghosyan, Davit                                             ARM M                                1804  0   40 2012      
 13324420       Poghosyan, Davit Kh.                                         ARM M                                1690  0   40 2013      
 13303201       Poghosyan, Suren                                             ARM M   FM                           2250  0   20 1989  i   
@@ -390,14 +391,14 @@ ID Number      Name                                                         Fed 
 13321331       Samvelyan, Hovhannes                                         ARM M                                1585  0   40 2010  i   
 13319027       Santrosyan, Ashot                                            ARM M                                1697  0   40 2010      
 13307169       Santryan, Davit                                              ARM M   CM                           2130  0   20 2002  i   
-13300881       Sargissian, Gabriel                                          ARM M   GM                           2613  0   10 1983      
+13300881       Sargissian, Gabriel                                          ARM M   GM                           2622  15  10 1983      
 13303414       Sargissyan, Haik S.                                          ARM M                                2122  0   20 1989  i   
 13303210       Sargissyan, Sargis                                           ARM M   FM                           2163  0   20 1990      
 13317695       Sargsyan, Karo B.                                            ARM M                                1793  0   40 2008      
 13307010       Sargsyan, Mher                                               ARM M                            AGM 1868  0   20 1996  i   
 44184344       Sargsyan, Nare                                               ARM F                                1565  0   20 2004  w   
 13310810       Sargsyan, Sargis Vach.                                       ARM M   FM                           2347  0   20 2004      
-13306766       Sargsyan, Shant                                              ARM M   GM                           2624  0   10 2002      
+13306766       Sargsyan, Shant                                              ARM M   GM                           2611  15  10 2002      
 13311328       Sargsyan, Tigran R.                                          ARM M   FM                           2239  0   20 2003  i   
 13324624       Sargsyan, Vahe                                               ARM M                                1502  0   40 2014      
 13322184       Sayadyan, Aleks                                              ARM M                                1528  0   40 2010  i   
@@ -413,7 +414,7 @@ ID Number      Name                                                         Fed 
 13307444       Simonyan, Latush                                             ARM M                                2108  0   20 1999  i   
 13315510       Soghomonyan, Tigran                                          ARM M                                1749  0   40 2011  i   
 13300296       Stambulian, Arsen                                            ARM M   IM                           2227  0   10 1965  i   
-13315773       Stepanyan, Alvard                                            ARM F                                1703  0   40 2007  w   
+13315773       Stepanyan, Alvard                                            ARM F                                1703  0   40 2007  wi  
 13317059       Stepanyan, Ararat                                            ARM M                                1977  0   40 2009      
 13312090       Stepanyan, Armen R.                                          ARM M                                2075  0   20 1959  i   
 13320823       Stepanyan, Davit                                             ARM M                                1819  0   40 2013      
@@ -434,12 +435,12 @@ ID Number      Name                                                         Fed 
 13302531       Ter-Sahakyan, Samvel                                         ARM M   GM                           2554  0   10 1993      
 13304402       Tiraturyan, David                                            ARM M                                2317  0   20 1991  i   
 13316311       Tokhyan, Feliks                                              ARM M                                1828  0   40 2007  i   
-13322400       Tonoyan, Tigran                                              ARM M                                1856  9   40 2000      
+13322400       Tonoyan, Tigran                                              ARM M                                1856  0   40 2000      
 13321951       Tonyan, Vyacheslav                                           ARM M                                1564  0   40 2012  i   
 13326627       Torosyan, Erik                                               ARM M                                1589  0   40 2007      
 13300431       Torosyan, Norayr                                             ARM M   IM                           2325  0   20 1996      
 13319051       Torosyan, Volodya                                            ARM M   CM                           2065  0   40 2010      
-13302736       Tovmasian, Vardges                                           ARM M   IM                           2374  0   10 1990      
+13302736       Tovmasian, Vardges                                           ARM M   IM                           2374  0   10 1990  i   
 13315544       Tovmasyan, Karen                                             ARM M                                1950  0   40 2006  i   
 13323024       Tovmasyan, Suren                                             ARM M                                1608  0   40 2011  i   
 13323776       Tovmasyan, Vahan                                             ARM M                                1539  0   40 2014      
