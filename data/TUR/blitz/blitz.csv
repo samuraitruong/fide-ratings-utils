@@ -67,7 +67,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6331769,"Akar, Nilay",TUR,F,,,,1624,0,20,DEC25,1988,wi
 44568649,"Akarslan, Kenan",TUR,M,,,,1459,0,20,DEC25,1981,i
 44517076,"Akarsu, Dogan",TUR,M,,,,1749,0,20,DEC25,1992,
-34560556,"Akat, Elifnaz",TUR,F,WCM,WCM,,1939,0,40,DEC25,2007,wi
+34560556,"Akat, Elifnaz",TUR,F,WFM,WFM,,1939,0,40,DEC25,2007,wi
 51666944,"Akay, Artun",TUR,M,,,,1496,0,40,DEC25,2013,
 51641380,"Akbaba, Cinar",TUR,M,,,,1609,0,40,DEC25,2012,i
 44567227,"Akbal, Yunus Emre",TUR,M,,,,1605,0,20,DEC25,1997,i
@@ -846,7 +846,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6310630,"Burcu, Cagatay",TUR,M,FM,FI,,2231,0,20,DEC25,1996,i
 44505175,"Buyuk, Ecrin Efsa",TUR,F,WFM,WFM,,1715,0,40,DEC25,2007,w
 44505116,"Buyuk, Elvin Esma",TUR,F,,,,1659,0,40,DEC25,2009,w
-26310872,"Buyuk, Eymen Eren",TUR,M,CM,,,2024,0,40,DEC25,2011,
+26310872,"Buyuk, Eymen Eren",TUR,M,FM,,,2024,0,40,DEC25,2011,
 44553374,"Buyuk, Halil Ibrahim",TUR,M,,,,1510,0,20,DEC25,2000,i
 6319602,"Buyukasik, Diyap",TUR,M,FM,,,2388,9,20,DEC25,1996,
 26389495,"Buyukbay, Can",TUR,M,,,,1572,0,20,DEC25,1983,i
@@ -1312,7 +1312,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34564667,"Demirez, Inanc",TUR,M,,,,1696,0,20,DEC25,1999,i
 6341667,"Demirhan, Ese Ozhan",TUR,M,,,,1627,0,20,DEC25,1978,i
 26342235,"Demirkan, Ekin",TUR,M,,,,1524,0,20,DEC25,2005,i
-51658860,"Demirkan, Mustafa",TUR,M,,,,1846,0,40,DEC25,2014,
+51658860,"Demirkan, Mustafa",TUR,M,CM,,,1846,0,40,DEC25,2014,
 34561455,"Demirkaya, Ataberk",TUR,M,,,,1674,0,20,DEC25,2002,i
 34561234,"Demirkir, Demir",TUR,M,,,,1587,0,20,DEC25,2005,i
 51640538,"Demirkiran, Artun",TUR,M,,,,1431,0,40,DEC25,2013,
@@ -1409,7 +1409,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6322565,"Dogan, Sevval",TUR,F,WCM,WCM,,1789,0,20,DEC25,1999,wi
 34561935,"Dogan, Sibel",TUR,F,,,,1670,0,20,DEC25,2005,wi
 44505035,"Dogan, Talha Yigit",TUR,M,,,,1705,0,40,DEC25,2007,
-51618060,"Dogan, Umut Anil",TUR,M,CM,,,2087,9,40,DEC25,2011,
+51618060,"Dogan, Umut Anil",TUR,M,FM,,,2087,9,40,DEC25,2011,
 6327974,"Doganer, Turker",TUR,M,,,,1846,0,20,DEC25,1993,i
 525037609,"Doganli, Doruk",TUR,M,,,,1521,0,40,DEC25,2010,
 6315623,"Dogdu, Mehmet",TUR,M,,,,1936,0,20,DEC25,1983,i
@@ -1544,7 +1544,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6324290,"Eksi, Mustafa Olgun",TUR,M,,,,1650,0,20,DEC25,1980,i
 6373267,"Eksi, Salih Selim",TUR,M,,,,1677,0,20,DEC25,1975,i
 6318002,"Elalmis, Husamettin",TUR,M,,,,1877,0,20,DEC25,1976,i
-51687984,"Elci, Eren",TUR,M,,,,2150,9,40,DEC25,2013,
+51687984,"Elci, Eren",TUR,M,FM,,,2150,9,40,DEC25,2013,
 51687992,"Elci, Yigit",TUR,M,,,,1797,0,40,DEC25,2010,
 51632900,"Elcin, Cagan",TUR,M,,,,1462,0,20,DEC25,2005,
 6374891,"Elibol, Kerem",TUR,M,,,,1546,0,20,DEC25,1996,i
@@ -1859,8 +1859,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6332447,"Gok, Irfan",TUR,M,,,,1869,0,20,DEC25,1972,i
 44525109,"Gok, Oguz Kaan",TUR,M,,,,1612,0,20,DEC25,1996,i
 6352006,"Gok, Ozan Berkay",TUR,M,,,,1857,0,20,DEC25,2002,i
-51686856,"Gokalp, Enes",TUR,M,,,,1686,0,20,DEC25,2000,i
 26392259,"Gokalp, Enes",TUR,M,,,,1411,0,40,DEC25,2008,i
+51686856,"Gokalp, Enes",TUR,M,,,,1686,0,20,DEC25,2000,i
 51638487,"Gokaslan, Mehdi",TUR,M,,,,1456,0,40,DEC25,2007,
 51638495,"Gokaslan, Samet",TUR,M,,,,1437,0,20,DEC25,2002,
 6304028,"Gokay, Ali Ekber",TUR,M,,,,1727,0,20,DEC25,1952,i
@@ -2361,7 +2361,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 525009672,"Karaca, Lisan Doruk",TUR,M,,,,1561,0,20,DEC25,2006,
 34596526,"Karaca, Mehmet",TUR,M,,,,1722,0,20,DEC25,1994,i
 26314100,"Karaca, Mert",TUR,M,,,,1725,0,40,DEC25,2010,
-26314118,"Karaca, Yigit",TUR,M,,,,1912,0,40,DEC25,2010,
+26314118,"Karaca, Yigit",TUR,M,FM,,,1912,0,40,DEC25,2010,
 34575014,"Karaca, Yigit",TUR,M,,,,1671,0,20,DEC25,2005,i
 6351573,"Karaca, Yilmaz",TUR,M,,,,1763,0,20,DEC25,1979,i
 51648229,"Karacal, Ahmet",TUR,M,,,,1533,0,20,DEC25,2005,i
@@ -3427,7 +3427,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34532960,"Pektas, Necati",TUR,M,,,,1548,0,20,DEC25,1972,i
 6367046,"Pektas, Yigit",TUR,M,,,,2058,0,20,DEC25,2001,i
 6300227,"Pekun, Cem",TUR,M,,,,2111,0,20,DEC25,1944,i
-51643820,"Peray, Ata",TUR,M,,,,1972,9,40,DEC25,2015,
+51643820,"Peray, Ata",TUR,M,CM,,,1972,9,40,DEC25,2015,
 51686970,"Peray, Engin",TUR,M,,,,1404,0,20,DEC25,1979,
 6345174,"Percin, Baris",TUR,M,,,,1903,0,20,DEC25,2001,i
 6345190,"Percin, Onder",TUR,M,,,,1945,0,20,DEC25,2000,i
@@ -4426,7 +4426,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6373712,"Yaprak, Safak",TUR,M,,,,1658,0,20,DEC25,1996,i
 6388604,"Yaprak, Ufuk",TUR,M,,,,1725,0,20,DEC25,1999,i
 51610256,"Yaprak, Umut",TUR,M,,,,1558,0,20,DEC25,1988,i
-6304613,"Yaramis, Hakan",TUR,M,,,,1950,0,20,DEC25,1986,i
+6304613,"Yaramis, Hakan",TUR,M,FM,,,1950,0,20,DEC25,1986,i
 6323006,"Yaran, Siar",TUR,M,FM,,,2191,0,20,DEC25,1998,i
 34588400,"Yarar, Bora",TUR,M,FM,,,2273,0,40,DEC25,2008,i
 6335535,"Yarar, Muammer Atakan",TUR,M,,,,1887,0,20,DEC25,1997,i
@@ -4567,7 +4567,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 26382130,"Yildirmak, Kutalp",TUR,M,,,,1897,0,40,DEC25,2010,i
 6302920,"Yildiz Kadioglu, Betul Cemre",TUR,F,WGM,WGM,,2268,0,20,DEC25,1989,wi
 525038400,"Yildiz, Abdullah Eren",TUR,M,,,,1625,0,40,DEC25,2010,
-51619822,"Yildiz, Ali Aras",TUR,M,,,,2079,9,40,DEC25,2014,
+51619822,"Yildiz, Ali Aras",TUR,M,CM,,,2079,9,40,DEC25,2014,
 44551193,"Yildiz, Ali Arda",TUR,M,,,,1522,0,40,DEC25,2008,i
 51660059,"Yildiz, Arda",TUR,M,,,,1545,0,20,DEC25,2006,
 34552600,"Yildiz, Ayberk",TUR,M,,,,1518,0,40,DEC25,2007,i

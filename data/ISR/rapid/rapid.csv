@@ -497,8 +497,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2820560,"Cohen Revivo, Emmanuel",ISR,M,,,,1467,0,40,DEC25,2006,i
 2813327,"Cohen Revivo, Shoham",ISR,M,FM,,,2085,0,20,DEC25,2004,i
 2801809,"Cohen, Alon",ISR,M,,,,1901,9,20,DEC25,1973,
-2817012,"Cohen, Amir",ISR,M,,,,1927,0,20,DEC25,1976,i
 2828880,"Cohen, Amir",ISR,M,,,,1552,0,20,DEC25,1973,i
+2817012,"Cohen, Amir",ISR,M,,,,1927,0,20,DEC25,1976,i
 2868687,"Cohen, Amit",ISR,M,,,,1510,0,20,DEC25,1984,i
 2831368,"Cohen, Asaf",ISR,M,,,,1659,0,20,DEC25,2005,
 2854465,"Cohen, Daniel",ISR,M,,,,1817,6,20,DEC25,2002,
@@ -1058,7 +1058,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2877414,"Gurevich, David",ISR,M,,,,1505,0,40,DEC25,2016,
 2874024,"Gurevich, Dov",ISR,M,,,,1743,0,40,DEC25,2011,
 2844001,"Gurevich, Hillel",ISR,M,,,,2026,0,20,DEC25,2006,
-2857049,"Gurevich, Neria",ISR,M,,,,2087,0,40,DEC25,2013,
+2857049,"Gurevich, Neria",ISR,M,CM,,,2087,0,40,DEC25,2013,
 2818426,"Gurevich, Yosef",ISR,M,,,,1997,0,20,DEC25,2003,
 2822334,"Gurman, Adam",ISR,M,,,,1669,0,20,DEC25,2002,i
 2867630,"Gurtovoy, Boris",ISR,M,,,,1790,0,40,DEC25,1939,
@@ -2487,7 +2487,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2838877,"Shiloah, Eylon",ISR,M,,,,1451,10,20,DEC25,1982,
 2827190,"Shiloah, Moshe",ISR,M,,,,1722,0,20,DEC25,1932,i
 2858630,"Shiloah, Uri",ISR,M,,,,1481,0,40,DEC25,2013,i
-2844958,"Shilon Rahav, Eliran",ISR,M,CM,,,2257,0,40,DEC25,2012,
+2844958,"Shilon Rahav, Eliran",ISR,M,FM,,,2257,0,40,DEC25,2012,
 2861518,"Shilonsky, Akiva",ISR,M,,,,1526,0,40,DEC25,2009,i
 2852624,"Shimon, Evyatar",ISR,M,,,,1503,0,40,DEC25,2010,
 2860910,"Shimon, Tom",ISR,M,,,,1697,0,40,DEC25,2010,i

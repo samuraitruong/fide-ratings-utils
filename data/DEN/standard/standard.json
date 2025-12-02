@@ -10035,21 +10035,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "1488570",
-    "Name": "Christensen, Bent",
-    "Fed": "DEN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1541",
-    "Gms": "8",
-    "K": "40",
-    "RatingMonth": "DEC25",
-    "B-day": "1957",
-    "Flag": ""
-  },
-  {
     "ID Number": "1401556",
     "Name": "Christensen, Bent Carl",
     "Fed": "DEN",
@@ -10077,6 +10062,21 @@
     "K": "20",
     "RatingMonth": "DEC25",
     "B-day": "1940",
+    "Flag": ""
+  },
+  {
+    "ID Number": "1488570",
+    "Name": "Christensen, Bent Schmidt",
+    "Fed": "DEN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1541",
+    "Gms": "8",
+    "K": "40",
+    "RatingMonth": "DEC25",
+    "B-day": "1957",
     "Flag": ""
   },
   {
@@ -28726,7 +28726,7 @@
   },
   {
     "ID Number": "1488350",
-    "Name": "Iversen, Marc",
+    "Name": "Iversen, Marc Kjaersgaard",
     "Fed": "DEN",
     "Sex": "M",
     "Title": "",

@@ -18180,21 +18180,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "54164605",
-    "Name": "Andreev, Maksim",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1547",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "DEC25",
-    "B-day": "2007",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55781357",
     "Name": "Andreev, Maksim",
     "Fed": "RUS",
@@ -18208,6 +18193,21 @@
     "RatingMonth": "DEC25",
     "B-day": "2013",
     "Flag": ""
+  },
+  {
+    "ID Number": "54164605",
+    "Name": "Andreev, Maksim",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1547",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "DEC25",
+    "B-day": "2007",
+    "Flag": "i"
   },
   {
     "ID Number": "24269433",
@@ -47563,21 +47563,6 @@
     "RatingMonth": "DEC25",
     "B-day": "2011",
     "Flag": "i"
-  },
-  {
-    "ID Number": "34141607",
-    "Name": "Begunkova, Alena",
-    "Fed": "RUS",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1481",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "DEC25",
-    "B-day": "2003",
-    "Flag": "wi"
   },
   {
     "ID Number": "4118510",
@@ -326700,21 +326685,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "55828620",
-    "Name": "Makarova, Sofia",
-    "Fed": "RUS",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1576",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "DEC25",
-    "B-day": "2014",
-    "Flag": "w"
-  },
-  {
     "ID Number": "34109959",
     "Name": "Makarova, Sofia",
     "Fed": "RUS",
@@ -326728,6 +326698,21 @@
     "RatingMonth": "DEC25",
     "B-day": "2003",
     "Flag": "wi"
+  },
+  {
+    "ID Number": "55828620",
+    "Name": "Makarova, Sofia",
+    "Fed": "RUS",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1576",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "DEC25",
+    "B-day": "2014",
+    "Flag": "w"
   },
   {
     "ID Number": "55661270",
@@ -400609,7 +400594,7 @@
     "Name": "Osetrov, Dmitrij",
     "Fed": "RUS",
     "Sex": "M",
-    "Title": "CM",
+    "Title": "FM",
     "WTit": "NA",
     "OTit": "",
     "Rating": "2305",
@@ -558552,6 +558537,21 @@
     "K": "20",
     "RatingMonth": "DEC25",
     "B-day": "2005",
+    "Flag": "wi"
+  },
+  {
+    "ID Number": "34141607",
+    "Name": "Tarkhanova, Alena",
+    "Fed": "RUS",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1481",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "DEC25",
+    "B-day": "2003",
     "Flag": "wi"
   },
   {

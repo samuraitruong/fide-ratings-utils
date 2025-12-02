@@ -7470,21 +7470,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "2817012",
-    "Name": "Cohen, Amir",
-    "Fed": "ISR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1927",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "DEC25",
-    "B-day": "1976",
-    "Flag": "i"
-  },
-  {
     "ID Number": "2828880",
     "Name": "Cohen, Amir",
     "Fed": "ISR",
@@ -7497,6 +7482,21 @@
     "K": "20",
     "RatingMonth": "DEC25",
     "B-day": "1973",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "2817012",
+    "Name": "Cohen, Amir",
+    "Fed": "ISR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1927",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "DEC25",
+    "B-day": "1976",
     "Flag": "i"
   },
   {
@@ -15889,7 +15889,7 @@
     "Name": "Gurevich, Neria",
     "Fed": "ISR",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "2087",
@@ -37324,7 +37324,7 @@
     "Name": "Shilon Rahav, Eliran",
     "Fed": "ISR",
     "Sex": "M",
-    "Title": "CM",
+    "Title": "FM",
     "WTit": "",
     "OTit": "",
     "Rating": "2257",
