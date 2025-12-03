@@ -9060,21 +9060,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "343460666",
-    "Name": "Cojocaru, Cosmin Daniel",
-    "Fed": "ENG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1584",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "DEC25",
-    "B-day": "2019",
-    "Flag": ""
-  },
-  {
     "ID Number": "343482112",
     "Name": "Cojocaru, Cosmin Daniel",
     "Fed": "ENG",
@@ -9087,6 +9072,21 @@
     "K": "20",
     "RatingMonth": "DEC25",
     "B-day": "1988",
+    "Flag": ""
+  },
+  {
+    "ID Number": "343460666",
+    "Name": "Cojocaru, Cosmin Daniel",
+    "Fed": "ENG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1584",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "DEC25",
+    "B-day": "2019",
     "Flag": ""
   },
   {
@@ -44535,21 +44535,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "343458033",
-    "Name": "Smith, Adam",
-    "Fed": "ENG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1652",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "DEC25",
-    "B-day": "2002",
-    "Flag": ""
-  },
-  {
     "ID Number": "343443915",
     "Name": "Smith, Adam",
     "Fed": "ENG",
@@ -44562,6 +44547,21 @@
     "K": "20",
     "RatingMonth": "DEC25",
     "B-day": "2004",
+    "Flag": ""
+  },
+  {
+    "ID Number": "343458033",
+    "Name": "Smith, Adam",
+    "Fed": "ENG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1652",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "DEC25",
+    "B-day": "2002",
     "Flag": ""
   },
   {
@@ -48126,7 +48126,7 @@
     "Sex": "F",
     "Title": "WGM",
     "WTit": "WGM",
-    "OTit": "SI",
+    "OTit": "SI,LSI",
     "Rating": "2134",
     "Gms": "0",
     "K": "20",

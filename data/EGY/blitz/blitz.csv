@@ -737,7 +737,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10609580,"Beder, Osama",EGY,M,,,,1861,0,20,DEC25,1974,i
 54243076,"Belal Elbadry, Mohamed",EGY,M,,,,1645,0,40,DEC25,2008,i
 10633693,"Benshy, Mohamed",EGY,M,,,,1905,0,20,DEC25,1977,i
-10600728,"Beshara, Nadi",EGY,M,,NA,,1888,0,20,DEC25,1966,
+10600728,"Beshara, Nadi",EGY,M,,"SI,NA",,1888,0,20,DEC25,1966,
 10642390,"Beshir, Moustafa",EGY,M,,,,1545,0,20,DEC25,1975,i
 54276985,"Beshoy Samir, Yossif",EGY,M,,,,1509,0,40,DEC25,2012,i
 54213533,"Beshoy, Fayez",EGY,M,,,,1601,0,20,DEC25,1992,i
@@ -996,7 +996,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10648054,"Elroby, Mohamed Hosam",EGY,M,,,,1674,0,20,DEC25,1986,
 10677291,"Elsaadand, Hussein Ossama",EGY,M,,,,1746,0,20,DEC25,1968,i
 54206774,"Elsagheir, Rimoon Onai",EGY,M,,,,1492,0,40,DEC25,2012,i
-54292085,"Elsaid Elaraby, Hitham",EGY,M,,,,1570,0,20,DEC25,1977,
+54292085,"Elsaid Elaraby, Hitham",EGY,M,,SI,,1570,0,20,DEC25,1977,
 10635335,"Elsaiid, Alaa",EGY,M,,,,1728,0,20,DEC25,1965,i
 54212537,"Elsalamony, Omar",EGY,M,,,,1753,0,20,DEC25,2004,i
 10645969,"Elsamman, M . Hassan",EGY,M,,,,1635,0,20,DEC25,1962,i
@@ -1303,7 +1303,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54268176,"Girgis Abdo, Bishoy",EGY,M,,,,1415,0,40,DEC25,2009,i
 10671811,"Goda, Hamdy",EGY,M,,,,1696,0,20,DEC25,1967,i
 10636692,"Gohar, Mohamed",EGY,M,,,,2011,0,20,DEC25,1983,i
-10640614,"Gohar, Mohamed Ahmed",EGY,M,,NA,,1867,0,20,DEC25,1971,
+10640614,"Gohar, Mohamed Ahmed",EGY,M,,"SI,NA",,1867,0,20,DEC25,1971,
 10661271,"Gomaa Elsenosy, Mohamed",EGY,M,,,,1769,0,20,DEC25,1984,i
 54219698,"Gomaa Osama, Badr El Din",EGY,M,,,,1546,0,20,DEC25,1999,i
 10654569,"Gomaa Sami, Ahmed",EGY,M,,,,1744,0,20,DEC25,1998,i
@@ -1318,8 +1318,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10608214,"Gouda, Mohamed",EGY,M,,,,1996,0,20,DEC25,1984,i
 10663002,"Gouda, Mohamed",EGY,M,,,,1603,0,20,DEC25,2000,i
 10635696,"Gouda, Mohammed",EGY,M,,,,1966,0,20,DEC25,1976,i
-10655697,"Gouda, Moustafa",EGY,M,,,,1930,0,20,DEC25,1977,i
 10663010,"Gouda, Moustafa",EGY,M,,,,1663,0,20,DEC25,2002,i
+10655697,"Gouda, Moustafa",EGY,M,,,,1930,0,20,DEC25,1977,i
 10676236,"Gouda, Omar",EGY,M,,,,1596,0,,DEC25,1990,
 10652795,"Gourge, Morqus",EGY,M,,,,1878,0,20,DEC25,1984,i
 10651667,"Gweely, Ahmed",EGY,M,,,,1846,0,20,DEC25,1985,i
@@ -1399,12 +1399,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10680527,"Hashem, Mohamed",EGY,M,,,,1581,0,20,DEC25,1972,i
 10698060,"Hashem, Mohamed",EGY,M,,,,1929,0,20,DEC25,1994,i
 10699457,"Hashem, Mohamed Galal",EGY,M,,,,1650,0,20,DEC25,1983,i
-10630422,"Hashem, Mostafa",EGY,M,,,,1902,8,20,DEC25,1994,
+10630422,"Hashem, Mostafa",EGY,M,,SI,,1902,8,20,DEC25,1994,
 10669094,"Hashem, Sayed",EGY,M,,NA,,1896,0,20,DEC25,1970,
 54272823,"Hassan Abdel Aty, Sayed",EGY,M,,,,1583,0,20,DEC25,1962,i
 54202990,"Hassan Abo Raya, Ahmed",EGY,M,,,,1515,0,40,DEC25,2013,i
-10615393,"Hassan Ahmed, Wael",EGY,M,,,,1765,0,20,DEC25,1974,i
 54234506,"Hassan Ahmed, Wael",EGY,M,,,,1810,0,20,DEC25,1974,i
+10615393,"Hassan Ahmed, Wael",EGY,M,,,,1765,0,20,DEC25,1974,i
 10618406,"Hassan Aly, Ahmed",EGY,M,,,,1678,0,20,DEC25,1983,i
 54223954,"Hassan Amal, Ezzedin",EGY,M,,,,1537,0,20,DEC25,1997,i
 54223253,"Hassan Amr, Sama",EGY,F,,,,1482,0,20,DEC25,2005,w
@@ -1572,7 +1572,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54248990,"Ibrahim Saad, Abdillah",EGY,M,,,,1625,0,20,DEC25,2002,i
 54253640,"Ibrahim Saudi, Mohamed",EGY,M,,,,1760,0,20,DEC25,1975,
 54214653,"Ibrahim Sayed, Mohamed",EGY,M,,,,1629,0,20,DEC25,1987,i
-10654615,"Ibrahim Wali, Mohamed",EGY,M,,,,1918,0,20,DEC25,1997,i
+10654615,"Ibrahim Wali, Mohamed",EGY,M,,SI,,1918,0,20,DEC25,1997,i
 54256410,"Ibrahim Yasser, Ibrahim",EGY,M,,,,1856,5,40,DEC25,2008,
 54232260,"Ibrahim Younes, Mahmoud",EGY,M,,,,1636,0,20,DEC25,1987,i
 10629343,"Ibrahim, Abdelhamid",EGY,M,,,,1906,0,20,DEC25,1976,i
@@ -1900,7 +1900,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54256275,"Mahmoud, Maissra",EGY,M,,,,1483,0,20,DEC25,1990,i
 10615504,"Mahmoud, Mamdouh",EGY,M,,,,1814,0,20,DEC25,1968,
 10607382,"Mahmoud, Merihan",EGY,F,,,,1868,0,20,DEC25,1990,wi
-10656588,"Mahmoud, Moataz",EGY,M,,NA,,2029,0,20,DEC25,1988,
+10656588,"Mahmoud, Moataz",EGY,M,,"SI,NA",,2029,0,20,DEC25,1988,
 10618503,"Mahmoud, Mohamed Mostafa",EGY,M,,,,1822,0,20,DEC25,1976,i
 54204542,"Mahmoud, Nour Eddin",EGY,M,,,,1744,0,20,DEC25,1998,i
 10602500,"Mahmoud, Ramy",EGY,M,,,,1957,0,20,DEC25,0,i
@@ -2360,7 +2360,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54242584,"Nasser Mandour, Mohamed",EGY,M,,,,1411,0,20,DEC25,1994,
 10646698,"Nasser, , Marwan",EGY,M,,,,1821,0,20,DEC25,1989,i
 54207436,"Nasser, Hossam",EGY,M,,,,1608,0,20,DEC25,2000,i
-10629211,"Nasser, Mohamed",EGY,M,,FA,,1628,0,20,DEC25,1989,i
+10629211,"Nasser, Mohamed",EGY,M,,"SI,FA",,1628,0,20,DEC25,1989,i
 10654780,"Nassif Ehab, Ebram",EGY,M,,,,1528,0,20,DEC25,2006,i
 54234913,"Nassif Emad, Mark",EGY,M,,,,1765,0,40,DEC25,2008,
 555006710,"Nazeih Ragab, Ragab",EGY,M,,,,1465,4,20,DEC25,1997,

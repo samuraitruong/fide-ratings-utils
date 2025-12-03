@@ -326,7 +326,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 209104997,"Hassan, Mohamad Abdallah",FID,M,,,,1594,0,20,DEC25,1992,
 13519590,"Haurushyn, Stsiapan",FID,M,,,,1741,0,40,DEC25,2009,i
 315104500,"Helal, Yuasuf Md",FID,M,,,,1434,0,20,DEC25,2005,
-342104320,"Hemidah, Youssef",FID,M,,,,1679,0,,DEC25,2005,
+342104320,"Hemidah, Youssef",FID,M,,SI,,1679,0,,DEC25,2005,
 338105026,"Henriksen, Niels",FID,M,,,,1404,0,20,DEC25,1971,i
 148094397,"Holovin, Artur",FID,M,,,,1581,8,,DEC25,1994,
 13521209,"Hryharovich, Aliaksei",FID,M,,,,2015,0,20,DEC25,2006,i
@@ -456,6 +456,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55629512,"Kovalskiy, Dmitriy Kir",FID,M,,,,1524,0,40,DEC25,2011,i
 13527282,"Kozhedub, Ivan",FID,M,,,,2009,0,40,DEC25,2012,
 55652891,"Kozhumyachenko, Svyatoslav",FID,M,,,,1550,0,40,DEC25,2009,i
+24257516,"Kozlov, Alexei",FID,M,,,,2409,0,10,DEC25,2008,
 13511815,"Kozlov, Igor",FID,M,,,,1774,0,20,DEC25,1997,
 13522310,"Kozlov, Pavel",FID,M,,,,1489,0,40,DEC25,2008,i
 13537032,"Krainik, Andrei",FID,M,,,,1594,0,40,DEC25,2016,
@@ -833,6 +834,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54180058,"Shukhman, Anna",FID,F,WGM,WGM,,2204,0,20,DEC25,2009,w
 4187237,"Shuvalov, Evgenij",FID,M,,,,2135,0,20,DEC25,1986,
 24171760,"Shuvalova, Polina",FID,F,IM,WGM,,2399,0,10,DEC25,2001,w
+13505963,"Siagodnik, Anton",FID,M,FM,,,2119,0,20,DEC25,1995,i
 55867510,"Sidelnikov, Fedor Andr",FID,M,,,,1993,11,40,DEC25,2017,
 13527100,"Sidorenja, Radion",FID,M,,,,2123,0,40,DEC25,2011,
 24141771,"Sidorovsky, Evgeny",FID,M,,,,2040,0,20,DEC25,1986,

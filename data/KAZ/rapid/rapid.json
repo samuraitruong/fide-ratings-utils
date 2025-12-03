@@ -6720,21 +6720,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "13792555",
-    "Name": "Aliyev, Ali",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1466",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "DEC25",
-    "B-day": "2014",
-    "Flag": "i"
-  },
-  {
     "ID Number": "447008547",
     "Name": "Aliyev, Ali",
     "Fed": "KAZ",
@@ -6748,6 +6733,21 @@
     "RatingMonth": "DEC25",
     "B-day": "2007",
     "Flag": ""
+  },
+  {
+    "ID Number": "13792555",
+    "Name": "Aliyev, Ali",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1466",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "DEC25",
+    "B-day": "2014",
+    "Flag": "i"
   },
   {
     "ID Number": "447095849",
@@ -26745,21 +26745,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "13729527",
-    "Name": "Fisenko, Evgeny",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1497",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "DEC25",
-    "B-day": "2000",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13740946",
     "Name": "Fisenko, Evgeny",
     "Fed": "KAZ",
@@ -26772,6 +26757,21 @@
     "K": "20",
     "RatingMonth": "DEC25",
     "B-day": "1943",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "13729527",
+    "Name": "Fisenko, Evgeny",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1497",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "DEC25",
+    "B-day": "2000",
     "Flag": "i"
   },
   {
@@ -40950,18 +40950,18 @@
     "Flag": "i"
   },
   {
-    "ID Number": "13764519",
+    "ID Number": "13766279",
     "Name": "Kim, Valeriy",
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1470",
+    "Rating": "1552",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "DEC25",
-    "B-day": "1943",
+    "B-day": "1989",
     "Flag": "i"
   },
   {
@@ -40980,18 +40980,18 @@
     "Flag": "i"
   },
   {
-    "ID Number": "13766279",
+    "ID Number": "13764519",
     "Name": "Kim, Valeriy",
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1552",
+    "Rating": "1470",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "DEC25",
-    "B-day": "1989",
+    "B-day": "1943",
     "Flag": "i"
   },
   {
@@ -42765,21 +42765,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "13741489",
-    "Name": "Kossinov, Mikhail",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1563",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "DEC25",
-    "B-day": "1989",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13741756",
     "Name": "Kossinov, Mikhail",
     "Fed": "KAZ",
@@ -42788,6 +42773,21 @@
     "WTit": "",
     "OTit": "",
     "Rating": "1443",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "DEC25",
+    "B-day": "1989",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "13741489",
+    "Name": "Kossinov, Mikhail",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1563",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "DEC25",
@@ -78765,21 +78765,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "13789643",
-    "Name": "Suleymenov, Kanat",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1510",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "DEC25",
-    "B-day": "1968",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13779850",
     "Name": "Suleymenov, Kanat",
     "Fed": "KAZ",
@@ -78793,6 +78778,21 @@
     "RatingMonth": "DEC25",
     "B-day": "1973",
     "Flag": ""
+  },
+  {
+    "ID Number": "13789643",
+    "Name": "Suleymenov, Kanat",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1510",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "DEC25",
+    "B-day": "1968",
+    "Flag": "i"
   },
   {
     "ID Number": "13773690",

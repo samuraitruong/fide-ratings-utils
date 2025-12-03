@@ -904,7 +904,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54243076,"Belal Elbadry, Mohamed",EGY,M,,,,1558,0,40,DEC25,2008,i
 10633693,"Benshy, Mohamed",EGY,M,,,,1900,0,40,DEC25,1977,i
 54202892,"Benyamen, Bassem",EGY,M,,,,1677,0,40,DEC25,1987,i
-10600728,"Beshara, Nadi",EGY,M,,NA,,1929,0,20,DEC25,1966,
+10600728,"Beshara, Nadi",EGY,M,,"SI,NA",,1929,0,20,DEC25,1966,
 10642390,"Beshir, Moustafa",EGY,M,,,,1494,0,40,DEC25,1975,i
 54273900,"Beshoy Akram, Bemen",EGY,M,,,,1542,0,40,DEC25,2013,
 54256917,"Beshoy Ekram Henry, Beymin",EGY,M,,,,1460,0,40,DEC25,2013,i
@@ -1224,7 +1224,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10603441,"Elrefy, Ahmed",EGY,M,,,,2083,0,40,DEC25,1954,i
 10646256,"Elsaadouny, Momen",EGY,M,,,,1612,0,40,DEC25,1981,i
 10674861,"Elsabei, Elsayed",EGY,M,,,,1677,0,40,DEC25,1950,i
-54292085,"Elsaid Elaraby, Hitham",EGY,M,,,,1621,0,40,DEC25,1977,
+54292085,"Elsaid Elaraby, Hitham",EGY,M,,SI,,1621,0,40,DEC25,1977,
 10618945,"Elsaid, Nabwaia",EGY,F,,,,1585,0,40,DEC25,0,wi
 10635335,"Elsaiid, Alaa",EGY,M,,,,1733,0,40,DEC25,1965,i
 54248710,"Elsakka Aly, Sama",EGY,F,,,,1506,0,40,DEC25,2007,w
@@ -1617,7 +1617,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10660747,"Girgis, Andrew",EGY,M,,,,1674,0,40,DEC25,1997,i
 10638431,"Goda M, Mohamed",EGY,M,,,,1610,0,40,DEC25,1998,i
 10636692,"Gohar, Mohamed",EGY,M,,,,1986,0,40,DEC25,1983,i
-10640614,"Gohar, Mohamed Ahmed",EGY,M,,NA,,1876,0,20,DEC25,1971,i
+10640614,"Gohar, Mohamed Ahmed",EGY,M,,"SI,NA",,1876,0,20,DEC25,1971,i
 10651888,"Gohar, Samaweil",EGY,M,,,,1529,0,40,DEC25,1973,i
 10654569,"Gomaa Sami, Ahmed",EGY,M,,,,1519,0,40,DEC25,1998,i
 10620966,"Gomaa, Amr Mousa",EGY,M,,,,1734,0,40,DEC25,1999,i
@@ -1737,7 +1737,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10623183,"Hashem , Noor",EGY,M,,,,1844,0,40,DEC25,0,i
 10680527,"Hashem, Mohamed",EGY,M,,,,1589,0,40,DEC25,1972,i
 10699457,"Hashem, Mohamed Galal",EGY,M,,,,1666,0,40,DEC25,1983,i
-10630422,"Hashem, Mostafa",EGY,M,,,,2032,0,20,DEC25,1994,
+10630422,"Hashem, Mostafa",EGY,M,,SI,,2032,0,20,DEC25,1994,
 10669094,"Hashem, Sayed",EGY,M,,NA,,1891,0,40,DEC25,1970,i
 10664165,"Hashish, Mahmoud",EGY,M,,,,1941,0,40,DEC25,1974,i
 54219795,"Hassabelnaby Emam, Mohammed",EGY,M,,,,1791,0,40,DEC25,1992,i
@@ -1955,7 +1955,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54264570,"Ibrahim Nael, Yasin",EGY,M,,,,1517,0,40,DEC25,2017,
 54265169,"Ibrahim Nael, Yunis",EGY,M,,,,1634,0,40,DEC25,2017,
 54248990,"Ibrahim Saad, Abdillah",EGY,M,,,,1582,0,40,DEC25,2002,i
-10654615,"Ibrahim Wali, Mohamed",EGY,M,,,,1963,0,40,DEC25,1997,i
+10654615,"Ibrahim Wali, Mohamed",EGY,M,,SI,,1963,0,40,DEC25,1997,i
 555006833,"Ibrahim William, Danial",EGY,M,,,,1517,0,40,DEC25,2015,
 54256410,"Ibrahim Yasser, Ibrahim",EGY,M,,,,1734,0,40,DEC25,2008,
 10646434,"Ibrahim, Abd Elmenaem",EGY,M,,,,1809,0,40,DEC25,1953,i
@@ -2955,7 +2955,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54242584,"Nasser Mandour, Mohamed",EGY,M,,,,1444,0,40,DEC25,1994,i
 10617515,"Nasser, Hadeer",EGY,F,,,,1751,0,40,DEC25,1991,wi
 54207436,"Nasser, Hossam",EGY,M,,,,1630,0,40,DEC25,2000,i
-10629211,"Nasser, Mohamed",EGY,M,,FA,,1640,0,40,DEC25,1989,i
+10629211,"Nasser, Mohamed",EGY,M,,"SI,FA",,1640,0,40,DEC25,1989,i
 54234913,"Nassif Emad, Mark",EGY,M,,,,1817,0,40,DEC25,2008,
 10602437,"Nayer, Ahmed",EGY,M,,,,2077,0,20,DEC25,0,i
 10603387,"Negm, Ahmed",EGY,M,,,,1928,0,20,DEC25,1955,
@@ -3276,7 +3276,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10686460,"Salamih Saleh, Ahmed",EGY,M,,,,1734,0,40,DEC25,1973,i
 54264715,"Saleh Albatsh, Mohamed",EGY,M,,,,1663,0,40,DEC25,1964,
 10688323,"Saleh, Abdel Rahman",EGY,M,,,,1925,0,40,DEC25,1982,i
-10684891,"Saleh, Eman",EGY,M,,IA,,1509,0,40,DEC25,1982,i
+10684891,"Saleh, Eman",EGY,M,,"SI,IA",,1509,0,40,DEC25,1982,i
 10632689,"Saleh, Essam El Diin",EGY,M,,,,1837,0,40,DEC25,1957,i
 10605940,"Saleh, Fatehy",EGY,M,,,,2096,0,20,DEC25,1961,i
 10628720,"Saleh, Magdy",EGY,M,,,,2013,0,20,DEC25,1959,i
