@@ -10515,21 +10515,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "23707259",
-    "Name": "Filip, Ondrej",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1684",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JAN26",
-    "B-day": "2003",
-    "Flag": "i"
-  },
-  {
     "ID Number": "23765380",
     "Name": "Filip, Ondrej",
     "Fed": "CZE",
@@ -10543,6 +10528,21 @@
     "RatingMonth": "JAN26",
     "B-day": "1977",
     "Flag": ""
+  },
+  {
+    "ID Number": "23707259",
+    "Name": "Filip, Ondrej",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1684",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JAN26",
+    "B-day": "2003",
+    "Flag": "i"
   },
   {
     "ID Number": "358037",
@@ -16813,21 +16813,6 @@
     "RatingMonth": "JAN26",
     "B-day": "1995",
     "Flag": "i"
-  },
-  {
-    "ID Number": "23786574",
-    "Name": "Hugo, Servin",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1479",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JAN26",
-    "B-day": "2003",
-    "Flag": ""
   },
   {
     "ID Number": "319830",
@@ -37201,7 +37186,7 @@
   },
   {
     "ID Number": "1153862",
-    "Name": "Palka, Dominika",
+    "Name": "Palka, Dominika Katarzyna",
     "Fed": "CZE",
     "Sex": "F",
     "Title": "",
@@ -39420,21 +39405,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "398420",
-    "Name": "Plzak, Jan",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1596",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JAN26",
-    "B-day": "1954",
-    "Flag": ""
-  },
-  {
     "ID Number": "347299",
     "Name": "Plzak, Jan",
     "Fed": "CZE",
@@ -39448,6 +39418,21 @@
     "RatingMonth": "JAN26",
     "B-day": "1980",
     "Flag": "i"
+  },
+  {
+    "ID Number": "398420",
+    "Name": "Plzak, Jan",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1596",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JAN26",
+    "B-day": "1954",
+    "Flag": ""
   },
   {
     "ID Number": "23729597",
@@ -45510,6 +45495,21 @@
     "Flag": ""
   },
   {
+    "ID Number": "23786574",
+    "Name": "Servin, Hugo",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1479",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JAN26",
+    "B-day": "2003",
+    "Flag": ""
+  },
+  {
     "ID Number": "23780410",
     "Name": "Seryj, Tomas",
     "Fed": "CZE",
@@ -48691,7 +48691,7 @@
   },
   {
     "ID Number": "23775360",
-    "Name": "Son, Yeon Jun",
+    "Name": "Son, Yeonjun",
     "Fed": "CZE",
     "Sex": "M",
     "Title": "",
