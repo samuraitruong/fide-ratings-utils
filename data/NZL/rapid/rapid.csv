@@ -649,7 +649,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4331060,"OBrien, Finn",NZL,M,,,,1797,4,40,JAN26,2010,
 4308204,"OBrien, Jarrod",NZL,M,,,,1869,0,20,JAN26,1953,i
 4321138,"Olmedo, Rafael",NZL,M,,,,1527,0,20,JAN26,1966,i
-4330781,"Ongcoy, Reniza",NZL,F,,,,1545,0,40,JAN26,1986,w
+4330781,"Ongcoy, Reniza",NZL,F,,,,1545,0,,JAN26,1986,w
 4317203,"Oseki, Noah",NZL,M,,,,1742,0,20,JAN26,2003,i
 4310713,"Oshri, Eden",NZL,M,,,,1515,0,40,JAN26,2009,i
 4322177,"O`kane, Nicholas",NZL,M,,,,1583,0,40,JAN26,1986,
@@ -1033,8 +1033,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4309588,"Zhang, Boyuan",NZL,M,,,,1753,0,20,JAN26,2004,
 4313976,"Zhang, Charles",NZL,M,,,,1690,0,40,JAN26,2009,i
 4317912,"Zhang, Daniel",NZL,M,,,,1470,0,40,JAN26,2010,
-4313127,"Zhang, Eric",NZL,M,,,,1528,0,20,JAN26,2004,i
 4310012,"Zhang, Eric",NZL,M,,,,1456,0,40,JAN26,2012,i
+4313127,"Zhang, Eric",NZL,M,,,,1528,0,20,JAN26,2004,i
 4310381,"Zhang, Ethan",NZL,M,,,,1584,0,40,JAN26,2008,i
 4311051,"Zhang, Franklyn",NZL,M,,,,1442,0,40,JAN26,2012,
 4329503,"Zhang, Gabriel",NZL,M,,,,1433,0,40,JAN26,2013,
