@@ -1,7 +1,7 @@
-ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA JAN26 Gms K  B-day Flag
+ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA FEB26 Gms K  B-day Flag
 116293686      A. Eliyan, Ibrahim                                           PLE M                                1612  0   40 2007  i   
 11518928       Aabed, Mohammad                                              PLE M                                1633  0   20 1984  i   
-11521791       Abbas, Hiba                                                  PLE F                                1545  8   40 2013  w   
+11521791       Abbas, Hiba                                                  PLE F                                1545  0   40 2013  w   
 11513284       Abd Rabbo, Salem                                             PLE M                                1604  0   40 1986      
 11519711       Abdallah, Wasim                                              PLE M                                1737  0   20 1995  i   
 11500719       Abdel Wahab, Ahmad                                           PLE M                                2044  0   20 1984  i   
@@ -43,7 +43,7 @@ ID Number      Name                                                         Fed 
 11504250       AbuAlneaj, Yosef                                             PLE M                                1830  0   20 1998  i   
 11525363       Abualzain, Omar                                              PLE M                                1651  0   40 2010      
 11510889       Abuanza, Mousa                                               PLE M                                1887  0   20 1991  i   
-11503327       Abuazizah, Raji                                              PLE M   FM                           2053  9   20 2006      
+11503327       Abuazizah, Raji                                              PLE M   FM                           2053  0   20 2006      
 11521120       Abughaush, Mahmoud                                           PLE M                                1709  0   20 1966  i   
 11514817       Abuhassan, Maisam                                            PLE F                                1722  0   20 2002  wi  
 215223760      Abuibrahim, Abdullah Eliyan                                  PLE M                                1549  0   40 1974      
@@ -76,7 +76,7 @@ ID Number      Name                                                         Fed 
 11500646       Al Hanini, Elias                                             PLE M                                1831  0   20 1992  i   
 11504030       Al Juneide,Diaa                                              PLE M                                1693  0   20 1985  i   
 11500379       Al-Housa, Khalil                                             PLE M                                1828  0   20 1948  i   
-11501243       Al-Takrori, Husam                                            PLE M                            AIM 1923  0   20 1994      
+11501243       Al-Takrori, Husam                                            PLE M                            AIM 1923  0   20 1994  i   
 11504870       Aladam,Mahmoud                                               PLE M                                1643  0   20 1983  i   
 11519266       Alarja, Alim                                                 PLE M                                1712  0   20 2002  i   
 11501219       Alatrash, Bashar                                             PLE M                                1882  0   20 1982  i   
@@ -115,7 +115,7 @@ ID Number      Name                                                         Fed 
 11506954       Aljafary .mohamadali                                         PLE M                                1776  0   20 1973  i   
 11503742       Aljoaba Wael                                                 PLE M                                1790  0   20 1980  i   
 11521767       Alkahlout, Mahmoud                                           PLE M                                1560  0   40 1982      
-11525061       Alkhatib, Walid                                              PLE M                                1577  2   40 2007      
+11525061       Alkhatib, Walid                                              PLE M                                1577  0   40 2007      
 11510560       Alkhayyat, Omar                                              PLE M                                1708  0   20 2002  i   
 11519746       Alkhuli, Mohammad                                            PLE M                                1645  0   20 1991  i   
 11513160       Alkoa, Ayman                                                 PLE M                                1813  0   20 1978  i   
@@ -131,7 +131,7 @@ ID Number      Name                                                         Fed 
 11511923       Alshareef, Naser                                             PLE M                                1777  0   20 1963  i   
 11517921       Alsharif, Izzat                                              PLE M                                1752  0   20 2003  i   
 11503467       Alshreef, Bashar                                             PLE M                                1501  0   20 1998  i   
-11519479       Alshrouf, Yazan                                              PLE M                                1778  8   20 2001      
+11519479       Alshrouf, Yazan                                              PLE M                                1778  0   20 2001      
 11505010       Altameme, Sohayb                                             PLE M                                1762  0   20 2000  i   
 11512482       Altamimi, Sara                                               PLE F                                1639  0   40 2011  wi  
 11510579       Altell, Majed                                                PLE M                                1913  0   20 2005  i   
@@ -139,7 +139,7 @@ ID Number      Name                                                         Fed 
 11520949       Alyan, Ziad                                                  PLE M                                1625  0   40 2000  i   
 11508566       Ameer Abo Khalaf                                             PLE M                                1495  0   40 2006  i   
 11503165       Amer A. A. Abumousa                                          PLE M                                1851  0   40 0     i   
-11511320       Amgad alzant                                                 PLE M                                1823  10  20 1991      
+11511320       Amgad alzant                                                 PLE M                                1823  0   20 1991      
 11500115       Ammar, Al Salem                                              PLE M                                1950  0   20 1968  i   
 11508884       Ammar, Jaber                                                 PLE M                                1672  0   20 1995  i   
 11525819       Amr, Karam                                                   PLE M                                1720  0   40 2009      
@@ -186,9 +186,9 @@ ID Number      Name                                                         Fed 
 11524324       Braiwish, Anas                                               PLE M                                1573  0   40 2003  i   
 11512121       Briegheith, Mohammad                                         PLE M                                1766  0   20 1992  i   
 11521198       Dabbas, Yousef                                               PLE M                                1746  0   40 2007  i   
-11517050       Daher, Mahmoud                                               PLE M                                1786  8   40 2009      
-11517042       Daher, Mustafa                                               PLE M                                1643  7   40 2009      
-11501731       Damaj, Mohammed                                              PLE M   CM                           2119  13  20 2001      
+11517050       Daher, Mahmoud                                               PLE M                                1761  2   40 2009      
+11517042       Daher, Mustafa                                               PLE M                                1629  1   40 2009      
+11501731       Damaj, Mohammed                                              PLE M   CM                           2119  0   20 2001      
 11507187       Dana Aboelhaija                                              PLE F                                1503  0   20 2004  wi  
 11520787       Dandis, Omar                                                 PLE M                                1661  0   40 2009  i   
 116293668      Daoud, Fadi                                                  PLE M                                1677  0   20 1988  i   
@@ -219,16 +219,16 @@ ID Number      Name                                                         Fed 
 11510730       Dwaikat, Osama                                               PLE M                                1778  0   20 1996  i   
 11500190       Eid, Yousif                                                  PLE M                                1935  0   20 1960  i   
 11523905       Eida, Saif Al-Deen                                           PLE M                                1609  0   40 2009  i   
-11514000       El Abd, Qassim                                               PLE M                                1768  7   40 2010      
+11514000       El Abd, Qassim                                               PLE M                                1768  0   40 2010      
 11501898       El Jaafari, Mohamad                                          PLE M                                1901  0   20 0     i   
 11502940       El Kadi Omer                                                 PLE M                                1682  0   20 0     i   
 11520205       El Mawasa, Mohammed                                          PLE M                                1845  0   40 2001  i   
 11500271       Elassaad, Khaled                                             PLE M                                1915  0   20 0     i   
 11524774       Elayyan, Mohammad                                            PLE M                                1630  0   40 2006  i   
-11527170       Elchoura, Asser                                              PLE M                                1633  8   40 2008      
+11527170       Elchoura, Asser                                              PLE M                                1633  0   40 2008      
 11523158       Elfara, Mohanad                                              PLE M                                1628  0   20 1995  i   
 11505435       Elhajdaoud, Fadi                                             PLE M                                1607  0   20 1988  i   
-11523468       Elhayek, Yazid                                               PLE M                                1969  0   40 2011      
+11523468       Elhayek, Yazid                                               PLE M                                1974  8   40 2011      
 11501405       Elias, Redwan                                                PLE M                                1786  0   20 2000      
 116293677      Eliyan, Abdullah                                             PLE M                                1769  0   20 1974  i   
 116293695      Eliyan, Mohammad                                             PLE M                                1647  0   40 2010      
@@ -305,6 +305,7 @@ ID Number      Name                                                         Fed 
 11506563       Iliyan.mohamad                                               PLE M                                1681  0   20 1977  i   
 11521104       Irshaid, Saad                                                PLE M                                1584  0   40 1996  i   
 11511028       Isaed , Jad                                                  PLE M                                1734  0   20 1996  i   
+11527196       Isleem, Abdallah                                             PLE M                                1531  6   40 2004      
 11525533       Isleem, Naji                                                 PLE M                                1739  0   40 2008      
 11513519       Ismaeel, Mohammad J                                          PLE M                                1775  0   20 2003  i   
 11513527       Ismaeel, Mohammad Y                                          PLE M                                1701  0   40 2003  i   
@@ -330,7 +331,7 @@ ID Number      Name                                                         Fed 
 11519282       Karaki, Abd Almuhaymen                                       PLE M                                1701  0   20 1997  i   
 11512911       Karaki, Omar                                                 PLE M                                1516  0   40 2008  i   
 11513730       Kareem, Kassem                                               PLE M                                1790  0   20 1998  i   
-11506229       Karmel.Jalghoum                                              PLE M                                1778  0   20 2002      
+11506229       Karmel.Jalghoum                                              PLE M             NA                 1778  0   20 2002      
 11517379       Karsou, Ayman                                                PLE M                                1879  0   20 1971      
 11507039       Kayle, Dany                                                  PLE M                                1501  0   20 1968  i   
 11521740       Kerret, Mohammed                                             PLE M                                1417  0   40 2007  i   
@@ -514,7 +515,7 @@ ID Number      Name                                                         Fed 
 11524146       Sarhan, Majd                                                 PLE M                                1858  0   40 1999  i   
 11503416       Sari, Kreitem                                                PLE M                                1526  0   20 1994  i   
 11520817       Sawahreh, Ali                                                PLE M                                1463  0   20 1994  i   
-11511729       Sawan, Eman                                                  PLE F   WFM  WFM  NI                 1937  11  20 2007  w   
+11511729       Sawan, Eman                                                  PLE F   WFM  WFM  NI                 1937  0   20 2007  w   
 11523026       Sbaih , Yaseen                                               PLE M                                1657  0   40 2007  i   
 11505567       Seder, Mohammed                                              PLE M   FM                           2114  0   40 2009      
 11511257       Seder, Motaz                                                 PLE M                                1597  0   40 2011  i   
@@ -562,7 +563,7 @@ ID Number      Name                                                         Fed 
 11500255       Tamra, Attallah                                              PLE M   FM                           1965  0   20 1960  i   
 11512334       Taqatqa, Fadi                                                PLE M                                1671  0   20 1983  i   
 11512342       Taqatqa, Mohammad                                            PLE M                                1498  0   20 1988  i   
-11512040       Tareq , Dawik                                                PLE M                                1707  0   20 1992      
+11512040       Tareq , Dawik                                                PLE M                                1688  6   20 1992      
 11513691       Thawabti, Saleh                                              PLE M                                1651  0   20 1982  i   
 11513195       Thyab, Raed                                                  PLE M                                1698  0   20 1967  i   
 11510803       Toffaha, Zaid                                                PLE M                                1614  0   20 1994  i   
@@ -593,5 +594,5 @@ ID Number      Name                                                         Fed 
 11520620       Zaiter, Salim                                                PLE M                                1510  0   40 2007  i   
 11507683       Zalloum, Sara                                                PLE F                                1703  0   40 2006  wi  
 11522984       Zayed, Yamen                                                 PLE M                                1689  0   40 2008      
-11511834       Ziyad Wakhiri                                                PLE M                            AFM 1693  6   20 1997      
+11511834       Ziyad Wakhiri                                                PLE M                            AFM 1692  0   20 1997      
 11501707       Zuhair, Hamouda                                              PLE M                                1647  0   20 0     i   
