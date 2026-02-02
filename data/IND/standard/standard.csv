@@ -14272,7 +14272,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25000128,Gautam M D,IND,M,,,,1809,0,40,FEB26,1996,i
 25008331,Gautam Manoj,IND,M,,,,1716,0,20,FEB26,1999,i
 25997610,Gautam Negi,IND,M,,,,1476,0,40,FEB26,2008,i
-25978640,Gautam Pathord,IND,M,,,,1510,0,40,FEB26,2000,i
+25978640,Gautam Pathord,IND,M,,,,1510,0,,FEB26,2000,i
 33405441,Gautam R,IND,M,,,,1427,0,40,FEB26,2013,
 35083007,GAUTAM RAJ KAMAL,IND,M,,,,1704,0,40,FEB26,1986,i
 429023491,Gautam Rana,IND,M,,,,1566,0,40,FEB26,2010,
@@ -24737,8 +24737,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5076544,Manish Kumar,IND,M,,,,1527,0,40,FEB26,1992,i
 25725076,Manish Kumar,IND,M,,,,1450,0,40,FEB26,1974,
 33341478,Manish Kumar,IND,M,,NA,,1449,0,20,FEB26,1977,
-88122476,Manish Kumar,IND,M,,,,1446,0,40,FEB26,2000,i
 537068202,Manish Kumar,IND,M,,,,1446,0,40,FEB26,1996,
+88122476,Manish Kumar,IND,M,,,,1446,0,40,FEB26,2000,i
 33479259,Manish Kumar,IND,M,,,,1417,0,40,FEB26,1990,i
 46605649,Manish Kumar (2006),IND,M,,,,2079,0,20,FEB26,2006,i
 25049453,Manish Kumar (UP),IND,M,,,,1655,0,20,FEB26,1974,
@@ -26809,7 +26809,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25624024,Mridul Borgohain,IND,M,,NA,,1496,0,,FEB26,1990,i
 25970976,Mridul Khurana,IND,M,,,,1504,0,40,FEB26,2005,i
 46653082,Mridul Kumar,IND,M,,,,1688,0,40,FEB26,1996,i
-25030523,Mridul Sharma,IND,M,,,,1632,0,40,FEB26,1994,
+25030523,Mridul Sharma,IND,M,,,,1632,0,,FEB26,1994,
 45030502,Mridul Shukla,IND,M,,,,1600,0,20,FEB26,1975,
 25646036,Mridul Vashistha,IND,M,,,,1416,0,40,FEB26,2001,i
 25076175,"Mridul, Thaivalappil M.",IND,M,,,,1579,0,40,FEB26,0,i
@@ -38698,8 +38698,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5089433,"Sakthinandhan, S",IND,M,,,,1755,8,20,FEB26,1988,
 35024515,Sakthiram A,IND,M,,,,1647,0,20,FEB26,1999,i
 46649760,Sakthivalli P C,IND,M,,,,1684,0,40,FEB26,1992,i
-45016739,Sakthivel A,IND,M,,,,1488,0,40,FEB26,1984,i
 35012584,Sakthivel A,IND,M,,,,1488,1,20,FEB26,1981,
+45016739,Sakthivel A,IND,M,,,,1488,0,40,FEB26,1984,i
 25644890,Sakthivel Heamish Kanha,IND,M,FM,,,2271,5,20,FEB26,2009,
 45064423,Sakthivel Kanagaraj,IND,M,,,,1438,0,40,FEB26,2003,i
 5037646,"Sakthivel Pandian, V S",IND,M,,,,1962,0,20,FEB26,1996,i
