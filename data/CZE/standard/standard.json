@@ -3660,21 +3660,6 @@
     "Flag": "w"
   },
   {
-    "ID Number": "23719419",
-    "Name": "Bartova, Gabriela Leona",
-    "Fed": "CZE",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1419",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "FEB26",
-    "B-day": "2008",
-    "Flag": "wi"
-  },
-  {
     "ID Number": "23732695",
     "Name": "Bartova, Hana",
     "Fed": "CZE",
@@ -3688,6 +3673,21 @@
     "RatingMonth": "FEB26",
     "B-day": "2010",
     "Flag": "w"
+  },
+  {
+    "ID Number": "23719419",
+    "Name": "Bartova, Leona Gabriela",
+    "Fed": "CZE",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1419",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "FEB26",
+    "B-day": "2008",
+    "Flag": "wi"
   },
   {
     "ID Number": "359840",
@@ -40234,8 +40234,8 @@
     "Name": "Hrckova, Anna",
     "Fed": "CZE",
     "Sex": "F",
-    "Title": "",
-    "WTit": "",
+    "Title": "WCM",
+    "WTit": "WCM",
     "OTit": "",
     "Rating": "2041",
     "Gms": "19",
@@ -49320,23 +49320,8 @@
     "Flag": ""
   },
   {
-    "ID Number": "381454",
-    "Name": "Kalousova, Antonie Julie",
-    "Fed": "CZE",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1875",
-    "Gms": "4",
-    "K": "20",
-    "RatingMonth": "FEB26",
-    "B-day": "2002",
-    "Flag": "w"
-  },
-  {
     "ID Number": "23736070",
-    "Name": "Kalousova, Jirina Eva",
+    "Name": "Kalousova, Eva Jirina",
     "Fed": "CZE",
     "Sex": "F",
     "Title": "",
@@ -49348,6 +49333,21 @@
     "RatingMonth": "FEB26",
     "B-day": "2007",
     "Flag": "wi"
+  },
+  {
+    "ID Number": "381454",
+    "Name": "Kalousova, Julie Antonie",
+    "Fed": "CZE",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1875",
+    "Gms": "4",
+    "K": "20",
+    "RatingMonth": "FEB26",
+    "B-day": "2002",
+    "Flag": "w"
   },
   {
     "ID Number": "23741295",

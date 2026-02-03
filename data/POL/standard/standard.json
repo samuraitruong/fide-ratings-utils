@@ -85890,21 +85890,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "21890951",
-    "Name": "Konczylo, Urszula",
-    "Fed": "POL",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1435",
-    "Gms": "2",
-    "K": "40",
-    "RatingMonth": "FEB26",
-    "B-day": "1981",
-    "Flag": "w"
-  },
-  {
     "ID Number": "91104076",
     "Name": "Kondraszuk, Kajetan",
     "Fed": "POL",
@@ -101359,8 +101344,8 @@
     "Name": "Kudlak, Julia",
     "Fed": "POL",
     "Sex": "F",
-    "Title": "",
-    "WTit": "",
+    "Title": "WCM",
+    "WTit": "WCM",
     "OTit": "",
     "Rating": "2003",
     "Gms": "4",
@@ -117694,7 +117679,7 @@
     "Name": "Majcher, Igor",
     "Fed": "POL",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "2205",
@@ -189823,6 +189808,21 @@
     "RatingMonth": "FEB26",
     "B-day": "1995",
     "Flag": ""
+  },
+  {
+    "ID Number": "21890951",
+    "Name": "Stankiewicz, Urszula",
+    "Fed": "POL",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1435",
+    "Gms": "2",
+    "K": "40",
+    "RatingMonth": "FEB26",
+    "B-day": "1981",
+    "Flag": "w"
   },
   {
     "ID Number": "21002215",

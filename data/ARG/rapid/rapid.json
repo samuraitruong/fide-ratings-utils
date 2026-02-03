@@ -799,7 +799,7 @@
     "Name": "Aguerreberry, Claudio",
     "Fed": "ARG",
     "Sex": "M",
-    "Title": "",
+    "Title": "FM",
     "WTit": "",
     "OTit": "",
     "Rating": "2102",
@@ -33510,21 +33510,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "20029403",
-    "Name": "Lo Presti, Gonzalo",
-    "Fed": "ARG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1477",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "FEB26",
-    "B-day": "1991",
-    "Flag": "i"
-  },
-  {
     "ID Number": "20046219",
     "Name": "Lo Presti, Gonzalo",
     "Fed": "ARG",
@@ -33538,6 +33523,21 @@
     "RatingMonth": "FEB26",
     "B-day": "2001",
     "Flag": ""
+  },
+  {
+    "ID Number": "20029403",
+    "Name": "Lo Presti, Gonzalo",
+    "Fed": "ARG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1477",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "FEB26",
+    "B-day": "1991",
+    "Flag": "i"
   },
   {
     "ID Number": "108286",
@@ -34620,21 +34620,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "20035713",
-    "Name": "Lucas, Juan Ignacio",
-    "Fed": "ARG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1575",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "FEB26",
-    "B-day": "1996",
-    "Flag": "i"
-  },
-  {
     "ID Number": "20042515",
     "Name": "Lucas, Juan Ignacio",
     "Fed": "ARG",
@@ -34647,6 +34632,21 @@
     "K": "40",
     "RatingMonth": "FEB26",
     "B-day": "1994",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "20035713",
+    "Name": "Lucas, Juan Ignacio",
+    "Fed": "ARG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1575",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "FEB26",
+    "B-day": "1996",
     "Flag": "i"
   },
   {
@@ -61201,7 +61201,7 @@
   },
   {
     "ID Number": "20072279",
-    "Name": "Varela, Jose",
+    "Name": "Varela, Jose Miguel",
     "Fed": "ARG",
     "Sex": "M",
     "Title": "",
