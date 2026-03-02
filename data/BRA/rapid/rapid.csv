@@ -3368,7 +3368,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2190303,"De Carvalho, Guilherme Michel Lima",BRA,M,,,,1927,0,20,MAR26,1993,i
 2109638,"De Carvalho, Irahy Ribeiro",BRA,M,,,,1907,0,20,MAR26,1929,i
 2106191,"De Carvalho, Jose Jorge",BRA,M,,,,2183,0,20,MAR26,1959,i
-22730729,"De Carvalho, Jose Sydnei Garcia",BRA,M,,,,1446,0,20,MAR26,1964,
+22730729,"De Carvalho, Jose Sydnei Garcia",BRA,M,,,,1446,0,,MAR26,1964,
 538035413,"De Carvalho, Juan Maro Kersul",BRA,M,,,,1584,0,40,MAR26,1980,
 538024500,"De Carvalho, Leonardo R Garcia",BRA,M,,,,1671,0,40,MAR26,2011,i
 44742894,"De Carvalho, Mauro Machado",BRA,M,,,,1713,0,40,MAR26,1968,i
@@ -6233,7 +6233,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44755953,"Guimaraes, Alexandre Caixeta",BRA,M,,,,1645,0,40,MAR26,1986,i
 2121107,"Guimaraes, Artemis Pamela",BRA,F,,,,1963,0,20,MAR26,1995,wi
 22769781,"Guimaraes, Carlos Eduardo",BRA,M,,,,1665,0,40,MAR26,1965,i
-2112450,"Guimaraes, Diogo Duarte",BRA,M,FM,"FT,NA",,2177,7,20,MAR26,1984,
+2112450,"Guimaraes, Diogo Duarte",BRA,M,FM,NA,,2177,7,20,MAR26,1984,
 44702434,"Guimaraes, Eduardo Victor",BRA,M,,,,1698,0,40,MAR26,2008,i
 538009064,"Guimaraes, Felipe Pavanato",BRA,M,,,,1520,10,40,MAR26,2017,
 2162148,"Guimaraes, Felipe Tavares",BRA,M,,,,1603,0,20,MAR26,1989,
@@ -6741,7 +6741,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2121182,"Laranjeira,Marcio Muniz",BRA,M,,,,1927,0,20,MAR26,1986,i
 538048469,"Laranjo, Tiago Goncalves",BRA,M,,,,1822,0,40,MAR26,2002,
 2108135,"Laroca, Alvaro Ney",BRA,M,,,,1663,0,20,MAR26,1939,i
-22743790,"Laroca, Fernando",BRA,M,,NI,,1611,0,20,MAR26,1971,i
+22743790,"Laroca, Fernando",BRA,M,,,,1611,0,20,MAR26,1971,i
 22796991,"Lassala, Bernardo Valias",BRA,M,,,,1728,8,20,MAR26,2001,
 44738714,"Latorre, Gabriel Rocha",BRA,M,,,,1867,0,40,MAR26,2006,
 22782796,"Lauber, Willian Alberto",BRA,M,,,,1721,0,40,MAR26,1996,i
@@ -6804,7 +6804,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 538055228,"Leitao, Enzo Morales",BRA,M,,,,1655,0,40,MAR26,2000,
 44772254,"Leitao, Lorenzo De Carvalho",BRA,M,,,,1815,0,40,MAR26,2000,i
 2105179,"Leitao, Nicolau",BRA,M,,,,2153,0,20,MAR26,1983,
-2101246,"Leitao, Rafael",BRA,M,GM,FT,,2618,0,10,MAR26,1979,
+2101246,"Leitao, Rafael",BRA,M,GM,,,2618,0,10,MAR26,1979,
 22773452,"Leite Lima, Isabelle Camilly De S",BRA,F,,,,1509,0,40,MAR26,2005,wi
 44780516,"Leite Lima,Luiz Henrique",BRA,M,,,,1664,4,40,MAR26,2011,
 44774524,"Leite Neto, Enio Fernandes",BRA,M,,,,1686,0,40,MAR26,2011,
@@ -6895,7 +6895,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22704310,"Liborio, Raiana Machado",BRA,F,,,,1678,0,20,MAR26,2003,wi
 22741470,"Liborio,Cibelly Curte",BRA,F,,,,1537,0,40,MAR26,2005,w
 2153971,"Librelato, Ana Julia Goulart",BRA,F,,,,1807,0,20,MAR26,2001,wi
-2153963,"Librelato, Kathie Goulart",BRA,F,WIM,WIM,"SI,FI,NA",2076,0,20,MAR26,1998,w
+2153963,"Librelato, Kathie Goulart",BRA,F,WIM,WIM,"SI,NA",2076,0,20,MAR26,1998,w
 22756809,"Licheski, Roberto Paulo",BRA,M,,,,1542,0,20,MAR26,2001,i
 44700296,"Lichote, Joao Lacerda",BRA,M,,,,1860,0,40,MAR26,2007,i
 44757956,"Licinio, Leticia",BRA,F,,,,1602,0,40,MAR26,2007,wi
@@ -6930,7 +6930,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22759956,"Lima, Cicero Da Silva",BRA,M,,,,1705,0,20,MAR26,2003,i
 44788797,"Lima, Cristian Filipi De",BRA,M,,,,1948,0,40,MAR26,1984,i
 44717687,"Lima, Daniel Silveira",BRA,M,,,,1583,0,40,MAR26,1976,
-2100045,"Lima, Darcy",BRA,M,GM,"FT,SI",,2424,0,10,MAR26,1962,
+2100045,"Lima, Darcy",BRA,M,GM,SI,,2424,0,10,MAR26,1962,
 44756950,"Lima, Davi Lucas Morais",BRA,M,,,,1612,0,40,MAR26,2015,
 2192462,"Lima, Davi Xavier",BRA,M,,,,1679,0,40,MAR26,2009,i
 22742263,"Lima, Diego Lucas Costa",BRA,M,,,,1686,0,20,MAR26,2001,i
@@ -7255,9 +7255,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22768912,"Macedo, Luiz Antonio De Oliveira",BRA,M,,,,1669,0,40,MAR26,2006,i
 2104164,"Macedo, Luiz Soares de",BRA,M,,,,1777,0,20,MAR26,1923,i
 22743162,"Macedo, Mariel Barbara Rendon",BRA,F,,,,1458,0,40,MAR26,2005,wi
-2109972,"Macedo, Maximo Iack",BRA,M,IM,FT,,2297,0,20,MAR26,1986,i
+2109972,"Macedo, Maximo Iack",BRA,M,IM,,,2297,0,20,MAR26,1986,i
 22790136,"Macedo, Maximo Ian Farias De",BRA,M,,,,1456,0,40,MAR26,2015,
-2103427,"Macedo, Maximo Igor",BRA,M,,"FI,AO",,2144,0,20,MAR26,1978,
+2103427,"Macedo, Maximo Igor",BRA,M,,AO,,2144,0,20,MAR26,1978,
 2102307,"Macedo, Maximo Valerio",BRA,M,FM,,,1962,0,20,MAR26,1953,
 44788924,"Macedo, Pedro Henrique Fernandes",BRA,M,,,,2085,6,20,MAR26,1990,
 22762140,"Macedo, Rafael Magalhaes",BRA,M,,,,1447,0,40,MAR26,2010,i
@@ -7460,7 +7460,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44704232,"Margi, Pedro Henrique Aleixo",BRA,M,,,,1565,0,20,MAR26,1999,i
 44751338,"Maria Filho, Plinio Marcio",BRA,M,,,,2038,7,20,MAR26,1973,
 22796827,"Maria, Eduardo Manoel",BRA,M,,,,1549,0,20,MAR26,1995,i
-2124378,"Mariani, Daniel Brandao",BRA,M,,FI,,1929,0,20,MAR26,1989,
+2124378,"Mariani, Daniel Brandao",BRA,M,,,,1929,0,20,MAR26,1989,
 538024659,"Mariani, Emilly Navroski",BRA,F,,,,1513,0,40,MAR26,2009,w
 22779841,"Mariani, Kim Paul",BRA,M,,,,1892,0,40,MAR26,2014,
 538040395,"Mariano, Jose Aparecido Chaves",BRA,M,,,,1960,4,40,MAR26,1986,
@@ -10218,8 +10218,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2193620,"Santos, Joao Paulo Araujo",BRA,M,,,,1818,0,20,MAR26,1991,i
 22749861,"Santos, Joao Paulo Franco",BRA,M,,,,1493,0,40,MAR26,2006,i
 22776940,"Santos, Joao Victor De Souza",BRA,M,,,,1639,0,40,MAR26,2006,i
-44701047,"Santos, Joao Victor Rodrigues",BRA,M,,,,1462,0,,MAR26,2004,
 538011689,"Santos, Joao Victor Rodrigues",BRA,M,,,,1800,0,40,MAR26,1995,i
+44701047,"Santos, Joao Victor Rodrigues",BRA,M,,,,1462,0,,MAR26,2004,
 2194384,"Santos, Joao Vitor Rodrigues",BRA,M,,,,1902,0,20,MAR26,2004,
 44717822,"Santos, Joilton Cordeiro De O",BRA,M,,,,1792,0,20,MAR26,1990,i
 538069121,"Santos, Jonas Eduardo Oliveira",BRA,M,,,,1668,0,40,MAR26,2009,
@@ -11250,7 +11250,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 538029545,"Teodoro, Pedro Henrique De Souza",BRA,M,,,,1828,0,40,MAR26,2003,
 22741747,"Teramoto, Anderson",BRA,M,,,,1820,0,20,MAR26,1961,i
 2105829,"Teramoto, Wilson",BRA,M,,,,1968,0,20,MAR26,1959,i
-2109220,"Terao, Juliana Sayumi",BRA,F,FM,WIM,FT,2209,0,20,MAR26,1991,w
+2109220,"Terao, Juliana Sayumi",BRA,F,FM,WIM,,2209,0,20,MAR26,1991,w
 2111047,"Terao, Rodrigo Akira",BRA,M,FM,,,2355,0,20,MAR26,1990,i
 22710914,"Tereza, Mirela Pedro",BRA,F,WCM,WCM,,1513,0,40,MAR26,2008,w
 2157381,"Terra, Arthur Schneider",BRA,M,,,,1738,0,40,MAR26,2005,i

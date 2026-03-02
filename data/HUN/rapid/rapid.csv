@@ -39,7 +39,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 17011256,"Alonso-Ibarra, Emilio",HUN,M,,,,1685,0,40,MAR26,2008,i
 758736,"Ambrus, Bence",HUN,M,,,,1860,0,20,MAR26,2001,i
 17035520,"Ambrus, Gyula",HUN,M,,,,1587,0,40,MAR26,1955,i
-727970,"Ambrus, Lajos",HUN,M,,AO,,1942,0,20,MAR26,1949,i
+727970,"Ambrus, Lajos",HUN,M,,,,1942,0,20,MAR26,1949,i
 715689,"Amrein, Roland",HUN,M,FM,,,2139,0,20,MAR26,1973,i
 736007,"Amstadt, Aron",HUN,M,FM,,,2296,0,20,MAR26,1996,i
 752061,"Andok, Aron",HUN,M,,,,1768,0,20,MAR26,1992,i
@@ -149,8 +149,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 778311,"Balogh, Akos",HUN,M,,,,1882,0,20,MAR26,2001,i
 775908,"Balogh, Akos",HUN,M,,,,1795,0,20,MAR26,1974,i
 772089,"Balogh, Anett",HUN,F,,,,1660,0,20,MAR26,1993,wi
-713201,"Balogh, Attila",HUN,M,,,,1797,0,40,MAR26,1997,
 17019753,"Balogh, Attila",HUN,M,,,,1713,0,20,MAR26,1976,i
+713201,"Balogh, Attila",HUN,M,,,,1797,0,40,MAR26,1997,
 785199,"Balogh, Balint",HUN,M,,,,1718,0,20,MAR26,2000,i
 17001501,"Balogh, Borbala",HUN,F,,,,1773,0,40,MAR26,2011,wi
 718939,"Balogh, Csaba",HUN,M,GM,,,2592,0,10,MAR26,1987,
@@ -538,13 +538,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 17012376,"Csitari, Adam Farkas",HUN,M,,,,1479,0,40,MAR26,2012,
 786438,"Csizmadia, Csenger",HUN,M,,,,1929,0,20,MAR26,1999,i
 17013402,"Csizmadia, Imre David",HUN,M,,,,1732,0,20,MAR26,2004,i
-707740,"Csizmadia, Laszlo",HUN,M,FM,AO,,2330,0,20,MAR26,1979,i
+707740,"Csizmadia, Laszlo",HUN,M,FM,,,2330,0,20,MAR26,1979,i
 17011418,"Csoka, Laszlo",HUN,M,,,,1501,0,20,MAR26,1970,i
 773646,"Csokas, Kalman",HUN,M,,,,1852,0,40,MAR26,1958,i
 739340,"Csoma, Csaba",HUN,M,,,,1744,0,20,MAR26,1967,i
 776432,"Csomor, Gabor",HUN,M,,,,1663,0,20,MAR26,1949,i
 716529,"Csonka, Attila Istvan",HUN,M,IM,,,2271,0,20,MAR26,1979,i
-742910,"Csonka, Balazs",HUN,M,IM,FT,,2408,0,10,MAR26,1997,
+742910,"Csonka, Balazs",HUN,M,IM,,,2408,0,10,MAR26,1997,
 17017858,"Csonka, Borisz",HUN,M,,,,1457,0,40,MAR26,2015,i
 17000564,"Csonka, Levente",HUN,M,,,,1918,0,20,MAR26,1977,i
 700576,"Csonkics, Tunde",HUN,F,WGM,WGM,,2006,0,20,MAR26,1958,wi
@@ -577,7 +577,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 723770,"Czimer, Jozsef",HUN,M,,,,1812,0,20,MAR26,1940,i
 752177,"Czina, Peter",HUN,M,,,,1934,0,20,MAR26,2001,i
 17013569,"Czinder, Aron",HUN,M,,,,1478,0,40,MAR26,2010,
-739553,"Czingler, Sandor",HUN,M,,AO,,1770,0,20,MAR26,1940,i
+739553,"Czingler, Sandor",HUN,M,,,,1770,0,20,MAR26,1940,i
 783935,"Czipf-Koteczki, Gergo",HUN,M,,,,1558,0,40,MAR26,2005,i
 739294,"Czipp, Janos",HUN,M,,,,1555,0,20,MAR26,1947,i
 17008166,"Czirjak, Robert Krisztian",HUN,M,,,,1665,0,40,MAR26,2009,
@@ -725,7 +725,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 738697,"Egyed, Gabor",HUN,M,,,,2121,0,20,MAR26,1995,
 703664,"Egyed, Judit",HUN,F,WFM,WFM,,2007,0,20,MAR26,2000,w
 741450,"Egyed, Viktoria",HUN,F,,,,1913,0,20,MAR26,1998,wi
-733270,"Egyed, Zsolt",HUN,M,,AO,,1996,0,20,MAR26,1972,
+733270,"Egyed, Zsolt",HUN,M,,,,1996,0,20,MAR26,1972,
 726907,"Elek, Monika",HUN,F,,,,1809,0,20,MAR26,1986,w
 734330,"Elekes, Lajos",HUN,M,,,,1581,0,20,MAR26,1958,i
 719072,"Elo, Istvan",HUN,M,,,,1887,0,20,MAR26,1967,
@@ -917,7 +917,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 17026962,"Gajdos, Mark",HUN,M,,,,1673,0,40,MAR26,2008,
 787574,"Gal, Andras",HUN,M,,,,1907,6,20,MAR26,2006,
 715778,"Gal, Janos",HUN,M,,,,1923,0,20,MAR26,1953,i
-706310,"Gal, Jozsef Istvan",HUN,M,FM,FI,,2270,0,20,MAR26,1977,
+706310,"Gal, Jozsef Istvan",HUN,M,FM,,,2270,0,20,MAR26,1977,
 17006015,"Gal, Mozes",HUN,M,,,,1600,0,40,MAR26,2010,i
 17031338,"Gal, Nimrod",HUN,M,,,,1431,0,40,MAR26,2014,i
 721921,"Gal, Peter",HUN,M,,,,2031,0,20,MAR26,1984,
@@ -927,7 +927,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 791946,"Galgoczi, Agoston",HUN,M,,,,1450,0,40,MAR26,2006,i
 732290,"Galgovics, Andras",HUN,M,,,,1853,0,20,MAR26,1950,i
 733580,"Galko, Attila",HUN,M,,,,1882,0,20,MAR26,1991,i
-723509,"Galko, Tibor",HUN,M,,AO,,1817,0,20,MAR26,1960,
+723509,"Galko, Tibor",HUN,M,,,,1817,0,20,MAR26,1960,
 715913,"Gallai, Janos",HUN,M,,,,1955,0,20,MAR26,1935,
 707244,"Galyas, Miklos",HUN,M,GM,FT,,2362,0,10,MAR26,1978,
 715549,"Gangler, Zoltan Dr.",HUN,M,,,,1785,0,20,MAR26,1946,i
@@ -982,7 +982,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 724858,"Gomori, Zoltan",HUN,M,,,,1744,0,20,MAR26,1959,
 733156,"Gonczol, Gabor",HUN,M,,,,1941,7,20,MAR26,1985,
 17007305,"Gonczy, Robert",HUN,M,,,,1439,0,20,MAR26,1978,i
-720852,"Gonda, Laszlo",HUN,M,GM,FST,,2474,0,10,MAR26,1988,
+720852,"Gonda, Laszlo",HUN,M,GM,,,2474,0,10,MAR26,1988,
 17018331,"Gondor, Jakab",HUN,M,,,,1766,0,20,MAR26,2005,i
 17009740,"Gonye, Laszlo Balint",HUN,M,,,,1503,0,40,MAR26,2011,i
 763411,"Gorcsi, Gabor",HUN,M,FM,,,2159,0,20,MAR26,2000,
@@ -1004,7 +1004,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 704393,"Guber, Peter",HUN,M,,,,1881,0,20,MAR26,1993,i
 786713,"Gulacsi, Donat Ferenc",HUN,M,,,,1926,0,20,MAR26,2007,
 17028329,"Gulyas, Gabor",HUN,M,,,,1572,0,40,MAR26,2015,
-723061,"Gunyecz, Zoltan Dr.",HUN,M,,AO,,1912,0,20,MAR26,1968,
+723061,"Gunyecz, Zoltan Dr.",HUN,M,,,,1912,0,20,MAR26,1968,
 768952,"Guraly, Laszlo Andras",HUN,M,,,,1836,0,20,MAR26,1985,i
 793779,"Guricza, Zoltan Jr.",HUN,M,,,,1626,0,40,MAR26,2005,i
 742031,"Guricza, Zoltan Sr.",HUN,M,,,,1775,0,20,MAR26,1951,i
@@ -1194,7 +1194,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 17014590,"Horvath, Balint",HUN,M,,,,1791,0,40,MAR26,2010,
 789054,"Horvath, Barnabas",HUN,M,,,,1559,0,40,MAR26,2008,i
 700118,"Horvath, Csaba",HUN,M,GM,,,2491,0,10,MAR26,1968,i
-719382,"Horvath, Csaba",HUN,M,CM,"AO,FI,IA",,2117,0,20,MAR26,1980,i
+719382,"Horvath, Csaba",HUN,M,CM,"FI,IA",,2117,0,20,MAR26,1980,i
 759988,"Horvath, Csaba",HUN,M,,,,1883,0,20,MAR26,1953,i
 17031591,"Horvath, Csongor",HUN,M,,,,1641,0,40,MAR26,2005,i
 775266,"Horvath, Csongor Endre",HUN,M,,,,1842,0,20,MAR26,2002,i
@@ -1236,7 +1236,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 17028604,"Horvath, Sebestyen",HUN,M,,,,1550,0,40,MAR26,2009,
 799327,"Horvath, Sebestyen",HUN,M,,,,1466,0,40,MAR26,2008,i
 767751,"Horvath, Soma",HUN,M,,,,1768,0,20,MAR26,2000,i
-700185,"Horvath, Tamas",HUN,M,IM,AO,,2256,0,20,MAR26,1951,i
+700185,"Horvath, Tamas",HUN,M,IM,,,2256,0,20,MAR26,1951,i
 722200,"Horvath, Tamas",HUN,M,,,,1987,0,20,MAR26,1978,
 757209,"Horvath, Tibor",HUN,M,,,,1816,0,20,MAR26,1986,
 788694,"Horvath, Zoltan",HUN,M,,,,1836,0,20,MAR26,1979,i
@@ -1442,7 +1442,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 727989,"Kaufmann, Peter",HUN,M,,,,1945,0,20,MAR26,2000,i
 17027861,"Kecskemeti, Akos",HUN,M,,,,1570,0,40,MAR26,2014,i
 17022770,"Kecskemeti, Attila",HUN,M,,,,1592,0,40,MAR26,2009,i
-784982,"Kecskemeti, Balazs",HUN,M,,"FI,IA",,1688,0,20,MAR26,1979,i
+784982,"Kecskemeti, Balazs",HUN,M,,IA,,1688,0,20,MAR26,1979,i
 17031443,"Kecskes, Anna",HUN,F,,,,1522,0,40,MAR26,2009,wi
 705373,"Kecskes, Gabor",HUN,M,,,,1902,0,20,MAR26,1968,
 17014824,"Kecskes, Istvan",HUN,M,,,,1548,0,20,MAR26,1962,i
@@ -1709,8 +1709,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 716561,"Kovacs, Pal",HUN,M,,,,1813,0,20,MAR26,1954,i
 781878,"Kovacs, Patrik Zsolt",HUN,M,,,,1850,0,20,MAR26,2005,i
 783439,"Kovacs, Peter",HUN,M,,,,1524,0,40,MAR26,2005,i
-773166,"Kovacs, Peter",HUN,M,,,,1602,0,20,MAR26,1985,i
 17032679,"Kovacs, Peter",HUN,M,,,,1796,0,40,MAR26,1972,i
+773166,"Kovacs, Peter",HUN,M,,,,1602,0,20,MAR26,1985,i
 17034280,"Kovacs, Peter Valentin",HUN,M,,,,1742,0,40,MAR26,1996,
 796611,"Kovacs, Rebeka Zsofia",HUN,F,,,,1522,0,40,MAR26,2008,w
 790702,"Kovacs, Reka",HUN,F,WFM,WFM,,1842,0,40,MAR26,2008,w
@@ -1839,7 +1839,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 787400,"Laszlo, Balazs",HUN,M,,,,1914,0,20,MAR26,2006,
 17021995,"Laszlo, Botond",HUN,M,,,,1731,7,40,MAR26,2015,
 789810,"Laszlo, Csaba",HUN,M,,NA,,1983,0,,MAR26,2002,
-709050,"Laszlo, Imre",HUN,M,,AO,,2019,0,20,MAR26,1975,i
+709050,"Laszlo, Imre",HUN,M,,,,2019,0,20,MAR26,1975,i
 703621,"Laszlo, Janos",HUN,M,FM,,,2027,0,20,MAR26,1966,
 736120,"Laszlo, Laura Dr.",HUN,F,,,,1865,0,20,MAR26,1990,wi
 17020956,"Laszlo, Tamas Dr.",HUN,M,,,,1711,0,40,MAR26,1978,i
@@ -1850,7 +1850,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 741345,"Laza, Szabolcs",HUN,M,,,,2064,0,20,MAR26,1998,
 741582,"Lazar, Bela",HUN,M,,,,1540,0,40,MAR26,1974,i
 727911,"Lazar, Laszlo",HUN,M,,,,1853,0,20,MAR26,1986,
-723894,"Lazarne Vajda, Szidonia",HUN,F,IM,WGM,FT,2195,0,20,MAR26,1979,wi
+723894,"Lazarne Vajda, Szidonia",HUN,F,IM,WGM,,2195,0,20,MAR26,1979,wi
 798541,"Lazary, Zsolt Sandor",HUN,M,,,,1692,0,20,MAR26,1955,
 17006350,"Lazsadi, Blanka Anna",HUN,F,,,,1518,0,40,MAR26,2010,wi
 797545,"Lazsadi, Kerka Lilla",HUN,F,,,,1900,0,40,MAR26,2008,w
@@ -2416,7 +2416,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 779270,"Papp, Marcell Imre",HUN,M,,,,1662,0,40,MAR26,2005,i
 788112,"Papp, Mate",HUN,M,,,,1657,0,20,MAR26,2003,i
 735000,"Papp, Peter",HUN,M,,,,1756,0,20,MAR26,1994,i
-739049,"Papp, Petra",HUN,F,WGM,WGM,FT,2206,0,20,MAR26,1993,w
+739049,"Papp, Petra",HUN,F,WGM,WGM,,2206,0,20,MAR26,1993,w
 17003776,"Papp, Regina",HUN,F,,,,1657,0,40,MAR26,2007,wi
 727385,"Papp, Tamas",HUN,M,FM,,,2242,0,20,MAR26,1999,
 725447,"Papp, Tamas",HUN,M,FM,,,2167,0,20,MAR26,1989,
@@ -2466,7 +2466,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 731064,"Peresznyak, Peter",HUN,M,,,,1840,0,20,MAR26,1978,i
 17002559,"Peresztegi-Szakaly, Balint",HUN,M,,,,1538,0,40,MAR26,2006,i
 17008590,"Pergel, Bence",HUN,M,,,,1691,0,40,MAR26,2012,
-707953,"Pergel, Laszlo",HUN,M,FM,AO,,2178,0,20,MAR26,1979,i
+707953,"Pergel, Laszlo",HUN,M,FM,,,2178,0,20,MAR26,1979,i
 771279,"Persanyi, Barnabas",HUN,M,FM,,,2247,0,20,MAR26,2004,i
 771341,"Persanyi, Nora",HUN,F,,,,1648,0,20,MAR26,2002,wi
 784966,"Pervai, Laszlo",HUN,M,,,,1926,0,20,MAR26,2005,i
@@ -2574,7 +2574,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 734446,"Rakos, Adam",HUN,M,,,,2190,0,20,MAR26,1993,
 797502,"Rakos, Balazs",HUN,M,,,,1759,0,20,MAR26,1989,i
 793515,"Ramadan, Erik",HUN,M,,,,1702,0,20,MAR26,2002,i
-937266,"Rapport, Jovana",HUN,F,WGM,WGM,FT,2315,0,10,MAR26,1992,wi
+937266,"Rapport, Jovana",HUN,F,WGM,WGM,,2315,0,10,MAR26,1992,wi
 738590,"Rapport, Richard",HUN,M,GM,,,2673,0,10,MAR26,1996,
 787590,"Ratkai, Balazs Gabor",HUN,M,,,,1765,0,20,MAR26,2004,i
 17001307,"Ratkai, Imre",HUN,M,,,,1670,0,40,MAR26,1967,i
@@ -2927,7 +2927,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 726770,"Szasz, Ferenc Dr.",HUN,M,,,,1947,0,20,MAR26,1952,i
 789895,"Szaszi-Varga, Gyula",HUN,M,,,,1585,0,20,MAR26,2003,
 782238,"Szatmari, Gergo Gyula",HUN,M,,,,1743,0,20,MAR26,2005,
-710245,"Szava, Miklos",HUN,M,,AO,,1924,0,20,MAR26,1971,
+710245,"Szava, Miklos",HUN,M,,,,1924,0,20,MAR26,1971,
 710466,"Szeberenyi, Adam",HUN,M,IM,,,2261,0,20,MAR26,1983,i
 732834,"Szecsei, Janos",HUN,M,,,,1674,0,20,MAR26,1935,i
 364105360,"Szecsko, Donat",HUN,M,,,,1682,0,40,MAR26,1996,i
@@ -3111,10 +3111,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 769967,"Tiringer, Janos Peter",HUN,M,,,,1456,0,20,MAR26,1999,i
 732486,"Tisza, Sandor",HUN,M,,,,1704,0,20,MAR26,1993,i
 735590,"Tiszoczki, Gabor",HUN,M,,,,1876,0,20,MAR26,1974,i
-729019,"To, Nhat Minh",HUN,M,IM,FT,,2310,7,10,MAR26,1991,
+729019,"To, Nhat Minh",HUN,M,IM,,,2310,7,10,MAR26,1991,
 17024919,"Toaso, Balint",HUN,M,,SI,,1793,0,40,MAR26,1981,
 727563,"Todor, Attila",HUN,M,,,,1834,0,20,MAR26,1962,i
-731749,"Todor, Sandor",HUN,M,,AO,,1737,0,20,MAR26,1957,
+731749,"Todor, Sandor",HUN,M,,,,1737,0,20,MAR26,1957,
 778303,"Tofalusi, Adam",HUN,M,,,,1837,0,20,MAR26,2000,i
 712043,"Tofalusi, Mihaly",HUN,M,,,,1806,0,20,MAR26,1942,i
 755001,"Toldy, Emil",HUN,M,,,,1876,0,20,MAR26,1993,i
@@ -3282,7 +3282,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 795909,"Vago, Barnabas",HUN,M,,,,1782,0,40,MAR26,2009,
 796360,"Vagvolgyi, Adam",HUN,M,,,,1560,0,40,MAR26,2006,i
 722111,"Vagyi, Erik",HUN,M,,,,2149,0,20,MAR26,1971,i
-1210980,"Vajda, Albert Sr.",HUN,M,,"AO,NA",,1905,0,20,MAR26,1953,
+1210980,"Vajda, Albert Sr.",HUN,M,,NA,,1905,0,20,MAR26,1953,
 730017,"Vajda, Andras",HUN,M,,,,1897,0,20,MAR26,1949,i
 17006759,"Vajda, Bendeguz",HUN,M,,,,1486,0,40,MAR26,2010,
 728284,"Vajda, Lajos",HUN,M,,,,1778,0,20,MAR26,1946,i
@@ -3330,7 +3330,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 17003954,"Varga, Marton",HUN,M,,,,1483,0,40,MAR26,2008,i
 775762,"Varga, Miklos",HUN,M,,,,1898,0,20,MAR26,1999,i
 795682,"Varga, Mira Adel",HUN,F,,,,1491,0,20,MAR26,2006,wi
-702439,"Varga, Peter",HUN,M,IM,AO,,2271,0,10,MAR26,1974,
+702439,"Varga, Peter",HUN,M,IM,,,2271,0,10,MAR26,1974,
 763365,"Varga, Richard",HUN,M,,,,1953,0,20,MAR26,1998,i
 784109,"Varga, Szilvia",HUN,F,,,,1663,0,20,MAR26,2001,w
 751456,"Varga, Tamas",HUN,M,CM,,,2145,0,20,MAR26,1999,i
@@ -3392,7 +3392,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 758698,"Vida, Krisztian",HUN,M,,,,1827,0,20,MAR26,1998,i
 792446,"Vida, Laszlo",HUN,M,,,,1558,0,20,MAR26,1958,i
 17011639,"Vida, Vajk",HUN,M,,,,1657,7,20,MAR26,1992,
-700479,"Videki, Sandor",HUN,M,IM,AO,,2298,0,10,MAR26,1966,i
+700479,"Videki, Sandor",HUN,M,IM,,,2298,0,10,MAR26,1966,i
 775231,"Vidu, Armand",HUN,M,,,,1824,0,20,MAR26,2002,i
 738360,"Vigh, Andor",HUN,M,,,,1836,0,20,MAR26,1939,i
 749184,"Vigh, Imre",HUN,M,,,,1755,0,20,MAR26,1967,i

@@ -6005,7 +6005,7 @@
     "Fed": "GEO",
     "Sex": "M",
     "Title": "GM",
-    "WTit": "FT",
+    "WTit": "",
     "OTit": "",
     "Rating": "2511",
     "Gms": "0",
@@ -6065,7 +6065,7 @@
     "Fed": "GEO",
     "Sex": "M",
     "Title": "GM",
-    "WTit": "FT",
+    "WTit": "",
     "OTit": "",
     "Rating": "2302",
     "Gms": "0",
@@ -20400,21 +20400,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "13632450",
-    "Name": "Tsiklauri, Giorgi",
-    "Fed": "GEO",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1553",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAR26",
-    "B-day": "2011",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13644165",
     "Name": "Tsiklauri, Giorgi",
     "Fed": "GEO",
@@ -20427,6 +20412,21 @@
     "K": "20",
     "RatingMonth": "MAR26",
     "B-day": "2005",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "13632450",
+    "Name": "Tsiklauri, Giorgi",
+    "Fed": "GEO",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1553",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAR26",
+    "B-day": "2011",
     "Flag": "i"
   },
   {

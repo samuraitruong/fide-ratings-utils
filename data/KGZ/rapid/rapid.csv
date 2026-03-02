@@ -342,7 +342,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13836234,"Esenbaev, Azis",KGZ,M,,,,1476,0,20,MAR26,1988,i
 13803573,"Esenbek kyzy, Aizhyldyz",KGZ,F,,,,1493,0,,MAR26,2007,wi
 13800736,"Esenbek Uulu, Bakai",KGZ,M,,NA,,1961,0,20,MAR26,1995,
-13800680,"Esenbek Uulu, Ilimbek",KGZ,M,,"FI,IA",,2054,0,,MAR26,1989,i
+13800680,"Esenbek Uulu, Ilimbek",KGZ,M,,IA,,2054,0,,MAR26,1989,i
 13824686,"Esengulov, Yryskeldi",KGZ,M,,,,1480,0,40,MAR26,2009,i
 13847953,"Eshaliev, Kurmanbek",KGZ,M,,,,1567,0,40,MAR26,1952,
 13858190,"Eshaliev, Oskonbai",KGZ,M,,,,1785,0,40,MAR26,1956,
@@ -725,7 +725,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13836609,"Nurakhunov, Makhmud",KGZ,M,,,,1569,0,40,MAR26,2010,
 13801848,"Nuraliev, Berdibek",KGZ,M,,,,1908,0,20,MAR26,1977,i
 13841122,"Nurbekov, Ali Nur",KGZ,M,,,,1728,9,40,MAR26,2014,
-13800183,"Nurdin Uulu, Sardarbek",KGZ,M,,"NI,AO,IA",,1792,0,,MAR26,1989,i
+13800183,"Nurdin Uulu, Sardarbek",KGZ,M,,"AO,IA",,1792,0,,MAR26,1989,i
 13802011,"Nurdinov, Aibolot",KGZ,M,,,,1715,0,20,MAR26,1998,i
 13806971,"Nurdinov, Azamat",KGZ,M,,NA,,1930,0,20,MAR26,2004,
 13849816,"Nurkulov, Amantur",KGZ,M,,,,1436,0,40,MAR26,2013,
@@ -833,7 +833,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13823540,"Salimbai, Kanat",KGZ,M,,,,1756,0,20,MAR26,2000,i
 13852205,"Salimov, Altynbek",KGZ,M,,,,1710,0,40,MAR26,1976,i
 13811460,"Salymbekov, Toktosun",KGZ,M,,,,1542,0,20,MAR26,1951,i
-13800221,"Samaganova, Aleksandra",KGZ,F,WFM,WFM,FI,1952,0,20,MAR26,1986,w
+13800221,"Samaganova, Aleksandra",KGZ,F,WFM,WFM,,1952,0,20,MAR26,1986,w
 13800345,"Samakov, Nurdin",KGZ,M,FM,,,2261,0,20,MAR26,1985,i
 13801147,"Samudin, Elina",KGZ,F,,,,1821,0,20,MAR26,1998,wi
 13855204,"Sandybaev, Jekshen",KGZ,M,,,,1681,0,40,MAR26,1990,
@@ -1101,7 +1101,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13819550,"Usubaliev, Sultan",KGZ,M,,,,1574,0,40,MAR26,2005,i
 13856758,"Usupbaev, Baryktabas",KGZ,M,,,,1702,0,40,MAR26,1955,
 13811746,"Usupbaev, Omor",KGZ,M,,,,1578,0,20,MAR26,1959,i
-13803140,"Usupbekova, Zarina",KGZ,F,,"NI,FA",,1698,0,20,MAR26,2001,wi
+13803140,"Usupbekova, Zarina",KGZ,F,,FA,,1698,0,20,MAR26,2001,wi
 13832620,"Usupov, Damirbek",KGZ,M,,,,1610,0,40,MAR26,1969,
 13844822,"Utanov, Odil",KGZ,M,,,,1605,0,20,MAR26,1973,
 13840479,"Utanov, Zhanybek",KGZ,M,,,,1620,0,20,MAR26,1988,i
@@ -1149,7 +1149,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13819356,"Zhanybekova, Begimay",KGZ,F,WIM,WIM,,1742,0,20,MAR26,2007,w
 13822624,"Zhaparov, Altynbek",KGZ,M,,,,1508,0,40,MAR26,2012,
 13832921,"Zheenaliev, Azamat",KGZ,M,,,,1808,0,20,MAR26,1986,i
-13800485,"Zheenbekov, Nurgazy",KGZ,M,,FI,,2126,0,20,MAR26,1986,
+13800485,"Zheenbekov, Nurgazy",KGZ,M,,,,2126,0,20,MAR26,1986,
 13819135,"Zhekshenbaev, Agil",KGZ,M,,,,1482,0,40,MAR26,2007,i
 13803743,"Zhenishbekov, Alisher",KGZ,M,,,,1643,0,40,MAR26,2009,i
 13805932,"Zholdoshbek kyzy, Adinai",KGZ,F,,,,1503,0,20,MAR26,2002,wi

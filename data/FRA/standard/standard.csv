@@ -1487,7 +1487,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 551014190,"Azizi-Censdara, Philippe",FRA,M,,,,1480,0,40,MAR26,1935,i
 652011909,"Azizyan, David",FRA,M,,,,1709,15,40,MAR26,2014,
 651016931,"Azizyan, Rafayel",FRA,M,,,,1930,1,20,MAR26,1987,
-551022125,"Azizyan, Stepan",FRA,M,,NI,,1898,0,20,MAR26,1978,
+551022125,"Azizyan, Stepan",FRA,M,,,,1898,0,20,MAR26,1978,
 527046362,"Azjargal, Khulsen",FRA,M,,,,1608,0,40,MAR26,2008,
 551009285,"Aznadi, Ilies",FRA,M,,,,1458,4,40,MAR26,2008,
 551080001,"Aznag, Jade",FRA,F,,,,1408,0,40,MAR26,2009,wi
@@ -12657,7 +12657,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 651098857,"Fernandez Campos, Santiago",FRA,M,,,,1681,0,40,MAR26,1988,i
 26053063,"Fernandez, Alexandre",FRA,M,,,,1435,0,40,MAR26,2004,i
 45137587,"Fernandez, Antoine",FRA,M,,,,1704,0,20,MAR26,2005,i
-680087,"Fernandez, Clement",FRA,M,,"NI,NI",,1730,2,20,MAR26,1950,
+680087,"Fernandez, Clement",FRA,M,,NI,,1730,2,20,MAR26,1950,
 699853,"Fernandez, David",FRA,M,,,,2034,0,40,MAR26,1968,i
 604488,"Fernandez, David",FRA,M,,,,1614,0,20,MAR26,1976,i
 646504,"Fernandez, Fabrice",FRA,M,,,,1901,1,20,MAR26,1974,
@@ -15299,7 +15299,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 80491596,"Gozzo, Nicolas",FRA,M,,,,1465,3,40,MAR26,2015,
 551040409,"Gozzoli, Anais",FRA,F,,,,1472,8,40,MAR26,2013,w
 624276,"Gozzoli, Cyrille",FRA,M,,,,2077,2,20,MAR26,1985,
-616915,"Gozzoli, Yannick",FRA,M,GM,FST,,2560,0,10,MAR26,1983,
+616915,"Gozzoli, Yannick",FRA,M,GM,,,2560,0,10,MAR26,1983,
 26024209,"Gra, Anthony",FRA,M,,,,1727,0,40,MAR26,1997,i
 20669178,"Graber, Eric",FRA,M,,,,1926,0,20,MAR26,1943,i
 26027569,"Grabowski, Krzysztof",FRA,M,,,,1901,0,40,MAR26,1956,i
@@ -16304,7 +16304,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 551032384,"Haeuser, Delphine",FRA,F,,,,1477,0,40,MAR26,2008,wi
 551032392,"Haeuser, Jean-Etienne",FRA,M,,NA,,1513,0,20,MAR26,1966,
 551032406,"Haeuser, Mathilde",FRA,F,,,,1516,0,40,MAR26,2004,wi
-608440,"Haezebaert, Philippe",FRA,M,,FI,,1884,0,20,MAR26,1958,
+608440,"Haezebaert, Philippe",FRA,M,,,,1884,0,20,MAR26,1958,
 560074442,"Hafid, Salim",FRA,M,,,,1759,0,40,MAR26,2001,
 651085844,"Hagard Grazini, Matteo",FRA,M,,,,1450,0,40,MAR26,2014,i
 80428010,"Hage Ali, Sami",FRA,M,,,,1679,0,40,MAR26,1982,
@@ -20136,7 +20136,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 80422705,"Layat, Maxime",FRA,M,,,,1428,0,40,MAR26,2008,i
 527072312,"Lazard, Daniel",FRA,M,,,,1686,0,40,MAR26,1957,
 20637390,"Lazare, Emmanuel",FRA,M,,,,1744,0,20,MAR26,1981,
-4113250,"Lazarev, Vladimir",FRA,M,GM,FT,,2481,0,10,MAR26,1964,i
+4113250,"Lazarev, Vladimir",FRA,M,GM,,,2481,0,10,MAR26,1964,i
 36088625,"Lazes, Alexia",FRA,F,,,,1566,0,20,MAR26,2007,wi
 36043850,"Lazes, Fabien",FRA,M,,,,1595,0,20,MAR26,2004,i
 45116563,"Lazes, Herve",FRA,M,,,,1521,9,20,MAR26,1967,
@@ -21521,7 +21521,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 26058529,"Letellier, Luc",FRA,M,,,,1538,0,40,MAR26,2001,i
 20658907,"Letellier, Michel",FRA,M,,,,1705,6,20,MAR26,1954,
 551062224,"Letellier, Timothee",FRA,M,,,,1835,8,40,MAR26,2012,
-627976,"Letemple, Frederic",FRA,M,,FI,,1954,8,20,MAR26,1978,
+627976,"Letemple, Frederic",FRA,M,,,,1954,8,20,MAR26,1978,
 36029807,"Letendre, Gaspar",FRA,M,,,,1762,0,20,MAR26,2000,
 652005631,"Leterre, Baptiste",FRA,M,,,,1682,1,20,MAR26,1994,
 36021563,"Leterrier, Enki",FRA,M,,,,1599,0,20,MAR26,2004,i
@@ -22245,7 +22245,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 667536,"Lurvois, Jean-luc",FRA,M,,,,1531,0,20,MAR26,1962,
 45133379,"Lusine, Matis",FRA,M,,,,1450,0,40,MAR26,2005,i
 636720,"Lustig, Mickael",FRA,M,,,,1971,1,20,MAR26,1985,
-20673736,"Lutard, Florian",FRA,M,,"FI,NA",,2036,0,20,MAR26,1997,
+20673736,"Lutard, Florian",FRA,M,,NA,,2036,0,20,MAR26,1997,
 36022489,"Lutard, Frederic",FRA,M,,,,1741,0,20,MAR26,1968,i
 26015420,"Lutard, Theo",FRA,M,CM,,,2136,0,20,MAR26,2000,
 80456944,"Luteyn, Raphaelle",FRA,F,,,,1463,0,40,MAR26,1969,w
@@ -25625,7 +25625,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 80435319,"Naumov, Timofey",FRA,M,,,,1471,0,40,MAR26,2010,i
 45189404,"Navarre-Garot, Tristan",FRA,M,,,,1650,0,40,MAR26,2008,i
 20697341,"Navarro, Bertrand",FRA,M,,,,1837,0,20,MAR26,1979,i
-36079766,"Navarro, David",FRA,M,,"NI,SI,NI",,1843,1,20,MAR26,1989,
+36079766,"Navarro, David",FRA,M,,"SI,NI",,1843,1,20,MAR26,1989,
 80476325,"Navarro, Elliott",FRA,M,,,,1517,1,40,MAR26,2009,
 527020797,"Navarro, Emma",FRA,F,,,,1486,0,40,MAR26,2007,wi
 45139156,"Navarro, Eugene",FRA,M,,,,1491,0,40,MAR26,1951,i
@@ -26081,7 +26081,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 651010224,"Noual, Eric",FRA,M,,,,1560,0,20,MAR26,1950,
 36062057,"Nouar, Abderahmane",FRA,M,,,,1926,0,20,MAR26,1991,i
 45106142,"Noubrik, Badr",FRA,M,,,,1435,0,40,MAR26,2006,i
-351043484,"Nouchi, Olivier",FRA,M,,NI,,1779,0,20,MAR26,1992,
+351043484,"Nouchi, Olivier",FRA,M,,,,1779,0,20,MAR26,1992,
 20606745,"Nougayrede, Jean-louis",FRA,M,,,,1677,0,20,MAR26,1957,i
 36081124,"Nouhaud, Florian",FRA,M,,,,1656,0,20,MAR26,2002,i
 661406,"Nouhaud, Laurent",FRA,M,,,,1765,1,20,MAR26,1962,
@@ -26501,7 +26501,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 26063131,"Pachon, Bernard",FRA,M,,,,1701,1,20,MAR26,1953,
 26087456,"Pachoro, Erlinda",FRA,F,,,,1480,0,20,MAR26,1969,wi
 20659237,"Pachy, Jules",FRA,M,,,,1645,0,20,MAR26,1943,i
-614203,"Paci, Cedric",FRA,M,FM,FI,,2189,0,20,MAR26,1980,
+614203,"Paci, Cedric",FRA,M,FM,,,2189,0,20,MAR26,1980,
 606626,"Paci, Nicolas",FRA,M,,,,2003,0,20,MAR26,1995,
 657514,"Paci, Romain",FRA,M,,,,2132,1,20,MAR26,1992,
 622419,"Pacifico, Nicolas",FRA,M,,,,2049,0,20,MAR26,1979,i
@@ -31357,7 +31357,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 662542,"Savignoni, Eric",FRA,M,,,,1850,0,20,MAR26,1965,i
 651036959,"Savilov, Anna",FRA,F,,,,1553,3,20,MAR26,1994,w
 36092568,"Savin, Michel",FRA,M,,,,1518,0,20,MAR26,1951,i
-4196872,"Savina, Anastasia",FRA,F,IM,WGM,"FT,FA",2348,2,10,MAR26,1992,w
+4196872,"Savina, Anastasia",FRA,F,IM,WGM,FA,2348,2,10,MAR26,1992,w
 622214,"Savinel, Philippe",FRA,M,,,,1897,0,20,MAR26,1957,
 646067,"Savon, Jeremie",FRA,M,,,,1978,0,20,MAR26,1989,i
 652954,"Savouret, Frederic",FRA,M,,,,1838,1,20,MAR26,1976,
@@ -33901,7 +33901,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 36038342,"Trauzzola, Antoine",FRA,M,,,,1636,0,40,MAR26,1992,i
 26092131,"Travadon, Loic",FRA,M,IM,,,2503,11,10,MAR26,2002,
 26075296,"Travailloux, Dimitri",FRA,M,,NA,,1495,0,40,MAR26,1975,
-667102,"Travers, Christophe",FRA,M,,"FI,NA",,1797,0,20,MAR26,1975,i
+667102,"Travers, Christophe",FRA,M,,NA,,1797,0,20,MAR26,1975,i
 26073706,"Trawka, Guillaume",FRA,M,,,,1730,0,40,MAR26,1998,i
 663662,"Treand, Victor",FRA,M,,,,1908,0,20,MAR26,1994,i
 26008971,"Trebon, Cedric",FRA,M,,,,1700,0,20,MAR26,1993,i

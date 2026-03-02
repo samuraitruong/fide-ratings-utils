@@ -851,7 +851,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 995789,"Dejanovic, Filip",SRB,M,,,,1833,0,40,MAR26,1999,
 9254344,"Dekic, Milana",SRB,F,,NA,,1662,4,40,MAR26,1987,w
 986526,"Delcev, Andjela",SRB,F,,,,1521,0,20,MAR26,2002,wi
-2900394,"Delchev, Aleksander",SRB,M,GM,"FST,NA",,2468,0,10,MAR26,1971,
+2900394,"Delchev, Aleksander",SRB,M,GM,NA,,2468,0,10,MAR26,1971,
 912131,"Delibasic, Gavrilo",SRB,M,FM,,,1981,0,20,MAR26,1954,
 986313,"Delic, Brano",SRB,M,,,,1989,0,20,MAR26,1967,i
 9201070,"Delic, Ljubomir",SRB,M,,,,1679,0,20,MAR26,1952,i
@@ -1901,7 +1901,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 916285,"Jevtic, Miroljub",SRB,M,FM,,,1966,9,20,MAR26,1952,
 9251930,"Jevtic, Nikola",SRB,M,,,,1618,0,40,MAR26,1986,i
 9218208,"Jevtic, Petar",SRB,M,,FA,,1657,0,20,MAR26,2002,
-920452,"Jevtic, Sasa",SRB,M,FM,"FT,IA",,2174,7,20,MAR26,1974,
+920452,"Jevtic, Sasa",SRB,M,FM,IA,,2174,7,20,MAR26,1974,
 970204,"Jevtovic, Ljubisa",SRB,M,,,,1680,0,20,MAR26,1941,
 9262274,"Jevtovic, Mihailo",SRB,M,,,,1836,0,40,MAR26,1954,
 939200,"Jevtovic, Slobodan",SRB,M,,,,1858,0,20,MAR26,1966,
@@ -3290,7 +3290,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 965138,"Milenkovic, Ljubomir",SRB,M,,,,1822,0,20,MAR26,1957,i
 995720,"Milenkovic, Luka",SRB,M,,,,1516,0,40,MAR26,2005,
 9214687,"Milenkovic, Marko",SRB,M,,,,1804,0,,MAR26,2009,
-913375,"Milenkovic, Mladen",SRB,M,IM,"FT,IA",,2260,7,10,MAR26,1973,
+913375,"Milenkovic, Mladen",SRB,M,IM,IA,,2260,7,10,MAR26,1973,
 9229552,"Milenkovic, Nemanja",SRB,M,,,,1617,0,40,MAR26,2009,i
 9214695,"Milenkovic, Pavle",SRB,M,,,,2159,0,40,MAR26,2009,
 973289,"Milenkovic, Petar",SRB,M,,,,1625,0,40,MAR26,2006,i
@@ -4851,7 +4851,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9211521,"Ratkovic, Aria",SRB,F,,,,1485,0,40,MAR26,2012,wi
 9229455,"Ratkovic, Djordje",SRB,M,,,,1568,0,40,MAR26,2008,i
 914517,"Ratkovic, Miloje",SRB,M,GM,NA,,2475,0,10,MAR26,1996,
-914525,"Ratkovic, Milovan",SRB,M,IM,FI,,2428,0,10,MAR26,1994,
+914525,"Ratkovic, Milovan",SRB,M,IM,,,2428,0,10,MAR26,1994,
 914533,"Ratkovic, Petar",SRB,M,FM,NA,,2107,0,20,MAR26,1997,
 946575,"Raut, Boris",SRB,M,,,,2007,0,20,MAR26,1975,
 934542,"Ravic, Nenad",SRB,M,FM,,,2189,0,20,MAR26,1987,

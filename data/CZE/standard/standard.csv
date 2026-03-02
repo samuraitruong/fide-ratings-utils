@@ -561,7 +561,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14172976,"Bokhnak, Tymofii",CZE,M,FM,,,2232,4,20,MAR26,2007,
 308706,"Bolacky, Jiri",CZE,M,,NA,,2156,2,20,MAR26,1975,
 352187,"Boledovic, Jan",CZE,M,,,,1786,2,20,MAR26,1957,
-320005,"Boleslav, Petr",CZE,M,,FI,,2012,1,20,MAR26,1974,
+320005,"Boleslav, Petr",CZE,M,,,,2012,1,20,MAR26,1974,
 23792574,"Bolfova, Daniela",CZE,F,,,,1418,0,40,MAR26,2004,w
 23782536,"Bondarenko, Dmytro",CZE,M,,,,1467,0,40,MAR26,2013,
 23765690,"Bondarenko, Vova",CZE,M,,,,1821,0,40,MAR26,2009,
@@ -3027,7 +3027,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23784962,"Jasansky, Michal",CZE,M,,,,1705,2,40,MAR26,2008,
 4135822,"Jascenko, Olga",CZE,F,WIM,WIM,,2120,0,20,MAR26,1974,wi
 381179,"Jasny, Igor",CZE,M,,,,1956,0,20,MAR26,1968,
-311030,"Jasny, Stanislav",CZE,M,IM,FT,,2178,2,10,MAR26,1978,
+311030,"Jasny, Stanislav",CZE,M,IM,,,2178,2,10,MAR26,1978,
 23710748,"Jasso, Matej",CZE,M,,,,2165,4,40,MAR26,2009,
 358134,"Jasso, Slavomir",CZE,M,,,,1844,4,20,MAR26,1980,
 336815,"Javor, Jan",CZE,M,,,,1829,0,20,MAR26,1954,
@@ -3971,8 +3971,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 320153,"Kovar, Petr",CZE,M,,,,1867,0,20,MAR26,1971,
 23767308,"Kovar, Petr",CZE,M,,,,1543,0,40,MAR26,1979,i
 23797886,"Kovar, Petr",CZE,M,,,,1485,5,40,MAR26,1974,
-372838,"Kovar, Vaclav",CZE,M,,,,1741,0,20,MAR26,1948,i
 367150,"Kovar, Vaclav",CZE,M,,,,1741,0,20,MAR26,1953,i
+372838,"Kovar, Vaclav",CZE,M,,,,1741,0,20,MAR26,1948,i
 23785675,"Kovar, Vaclav",CZE,M,,,,1484,0,40,MAR26,2014,
 23738103,"Kovar, Vladimir",CZE,M,,,,1870,0,20,MAR26,1963,
 314943,"Kovar, Vojtech",CZE,M,,,,2159,0,20,MAR26,1982,
@@ -6613,7 +6613,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 310468,"Pise, Jan",CZE,M,,,,2010,0,20,MAR26,1939,i
 379069,"Pise, Jiri",CZE,M,,,,1874,1,20,MAR26,2001,
 390259,"Pise, Michal",CZE,M,,,,1723,0,20,MAR26,2004,i
-304689,"Pisk, Petr",CZE,M,IM,FT,,2300,2,10,MAR26,1974,
+304689,"Pisk, Petr",CZE,M,IM,,,2300,2,10,MAR26,1974,
 382205,"Piskac, Marek",CZE,M,,,,1815,0,20,MAR26,2001,i
 358320,"Piskor, Ladislav",CZE,M,,,,1673,0,40,MAR26,1936,i
 23700254,"Piskor, Martin",CZE,M,,,,1734,2,20,MAR26,1971,
@@ -6744,7 +6744,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 308870,"Polak, Petr",CZE,M,,,,2099,0,20,MAR26,1964,i
 323802,"Polak, Petr",CZE,M,,,,1929,0,20,MAR26,1968,
 320757,"Polak, Radim",CZE,M,,,,1884,1,20,MAR26,1970,
-300560,"Polak, Tomas",CZE,M,GM,FT,,2444,4,10,MAR26,1974,
+300560,"Polak, Tomas",CZE,M,GM,,,2444,4,10,MAR26,1974,
 399140,"Polak, Zdenek",CZE,M,,,,1675,0,40,MAR26,1955,i
 364657,"Polansky, Adam Lubos",CZE,M,,,,2010,0,20,MAR26,2003,
 354899,"Polansky, Jiri",CZE,M,,,,1857,0,20,MAR26,1982,
@@ -7749,7 +7749,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 318302,"Sima, Pavel",CZE,M,,,,1989,1,20,MAR26,1974,
 324612,"Sima, Vladislav",CZE,M,,,,1931,0,40,MAR26,1964,i
 386502,"Simacek, Miroslav",CZE,M,,,,1699,0,40,MAR26,1968,i
-307165,"Simacek, Pavel",CZE,M,GM,FT,,2372,4,10,MAR26,1979,
+307165,"Simacek, Pavel",CZE,M,GM,,,2372,4,10,MAR26,1979,
 338338,"Simacek, Vaclav",CZE,M,,,,1845,2,20,MAR26,1969,
 373150,"Simackova, Katerina",CZE,F,,IA,,1751,1,20,MAR26,1996,w
 23734086,"Simajchl, Adam",CZE,M,,,,1893,8,20,MAR26,2003,
@@ -9656,7 +9656,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 312495,"Vladyka, Vaclav",CZE,M,,,,1967,0,20,MAR26,1959,i
 324353,"Vlasak, Jiri",CZE,M,,,,1853,0,20,MAR26,1957,
 328324,"Vlasak, Ladislav",CZE,M,,,,1828,0,20,MAR26,1940,i
-324752,"Vlasak, Lukas",CZE,M,IM,FI,,2434,4,10,MAR26,1993,
+324752,"Vlasak, Lukas",CZE,M,IM,,,2434,4,10,MAR26,1993,
 333670,"Vlasak, Marcel",CZE,M,,,,1730,1,40,MAR26,1972,
 339318,"Vlasak, Martin",CZE,M,,,,1920,0,40,MAR26,1995,i
 23747242,"Vlasak, Miloslav",CZE,M,,,,1991,0,40,MAR26,1981,i

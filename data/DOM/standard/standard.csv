@@ -402,7 +402,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6414370,"Gil Bonilla, Eritoniel",DOM,M,,,,1968,0,40,MAR26,1990,i
 6437672,"Gil Gerez, Edwin Antonio",DOM,M,,,,1451,8,40,MAR26,2013,
 6409199,"Gil Lauriano, Saury",DOM,M,,,,1985,0,20,MAR26,1982,i
-6430724,"Gil, Freddy Alberto",DOM,M,,"SI,NI,NA",,1848,0,20,MAR26,1967,i
+6430724,"Gil, Freddy Alberto",DOM,M,,"SI,NA",,1848,0,20,MAR26,1967,i
 6426522,"Giraldo Cortes, Cristobal",DOM,M,,,,1800,0,40,MAR26,2011,i
 6419453,"Goicochea Ramirez, Demetrio Manu",DOM,M,,,,1684,0,40,MAR26,1956,i
 6406629,"Gomez Almanzar, Roberto Antonio",DOM,M,,,,1894,0,20,MAR26,1974,i
@@ -693,7 +693,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6414249,"Noboa , Marcos",DOM,M,,,,1891,0,40,MAR26,0,i
 6431429,"Notario Guerrero, Carlos Romney",DOM,M,,,,1800,0,40,MAR26,1989,i
 6410251,"Nouel Leon, Juan Manuel",DOM,M,,,,1865,0,20,MAR26,1963,i
-6406874,"Nova Ramirez, Presley Eury",DOM,M,,"NI,NA",,1878,0,20,MAR26,1989,i
+6406874,"Nova Ramirez, Presley Eury",DOM,M,,NA,,1878,0,20,MAR26,1989,i
 6416780,"Novas Gomez, Mario De Jesus",DOM,M,,,,1883,0,20,MAR26,2000,i
 6440517,"Novas Medina, Warnel",DOM,M,,,,1642,0,40,MAR26,2001,
 6416349,"Novas Novas, Andres Guillermo",DOM,M,,,,1831,0,20,MAR26,1991,i
@@ -846,7 +846,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6418350,"Ramirez Jimenez, Geraldina Rafaela",DOM,F,,,,1699,0,40,MAR26,1997,wi
 6421792,"Ramirez Luzon, Franchesca",DOM,F,WCM,WCM,,1799,0,20,MAR26,2004,w
 6409407,"Ramirez Paniagua, Luis Enrique",DOM,M,,,,1944,0,20,MAR26,1987,i
-6401007,"Ramirez Reyes, Braulio Fernando",DOM,M,FM,"FI,SI,FI,NA",,2142,0,20,MAR26,1980,
+6401007,"Ramirez Reyes, Braulio Fernando",DOM,M,FM,"SI,FI,NA",,2142,0,20,MAR26,1980,
 6405959,"Ramirez Severino, Eudomar",DOM,M,,,,1883,0,40,MAR26,1993,i
 6436897,"Ramirez Tavera, Esther Mariel",DOM,F,,,,1636,0,40,MAR26,2017,w
 6410626,"Ramirez, Deyvis",DOM,M,,,,1710,0,20,MAR26,0,
@@ -899,7 +899,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6420583,"Rodriguez Gonzalez, Jorky Javier",DOM,M,,,,1800,0,40,MAR26,1997,i
 6431038,"Rodriguez Manzanillo, Luis Yael",DOM,M,,,,1743,0,40,MAR26,2008,
 6427278,"Rodriguez Matias, Nathanael",DOM,M,,,,1828,0,40,MAR26,1996,i
-6419712,"Rodriguez Mejia, Eddy Gabriel",DOM,M,,NI,,2021,0,20,MAR26,1997,
+6419712,"Rodriguez Mejia, Eddy Gabriel",DOM,M,,,,2021,0,20,MAR26,1997,
 6423124,"Rodriguez Meran, Edgar Antonio",DOM,M,,,,1917,0,20,MAR26,1975,
 6435122,"Rodriguez Munoz, Omar de Jesus",DOM,M,,,,1727,5,40,MAR26,2012,
 6400337,"Rodriguez Nunez, Jose Altagracia",DOM,M,,,,2136,0,20,MAR26,1969,i

@@ -291,8 +291,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12347515,"Koju, Sudin",NEP,M,,,,1679,0,40,MAR26,2008,
 12351890,"Kuikel, Sakrit",NEP,M,,,,1531,0,40,MAR26,2010,i
 12300918,"Kuluju, Bikash",NEP,M,,,,1856,0,20,MAR26,1981,
-12341800,"Kumar, Pradip",NEP,M,,,,1636,0,20,MAR26,2005,i
 12343870,"Kumar, Pradip",NEP,M,,,,1700,0,20,MAR26,1987,
+12341800,"Kumar, Pradip",NEP,M,,,,1636,0,20,MAR26,2005,i
 12311219,"Kumpakha, Ramesh",NEP,M,,,,1791,0,20,MAR26,0,
 12353108,"Kunwar, Pramis",NEP,M,,,,1573,0,20,MAR26,2007,i
 12307475,"Kunwar, Ranjan",NEP,M,,,,1802,0,20,MAR26,1981,i
@@ -423,7 +423,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12355810,"Neupane, Shreyas Das",NEP,M,,,,1559,0,40,MAR26,2011,i
 12306126,"Ninglekhu, Bhakta",NEP,M,,,,1824,0,20,MAR26,1973,i
 12306134,"Ninglekhu, Deu Kumar",NEP,M,,,,1767,0,20,MAR26,1968,i
-12300128,"Niraula, Bhupendra",NEP,M,CM,FI,,1934,0,20,MAR26,1981,i
+12300128,"Niraula, Bhupendra",NEP,M,CM,,,1934,0,20,MAR26,1981,i
 12341142,"Ojha, Nelisa",NEP,F,,,,1471,0,40,MAR26,2011,w
 12328146,"Ojha, Prakash",NEP,M,,,,1825,0,20,MAR26,1973,i
 12328260,"Oli, Dhanram",NEP,M,,,,1663,0,20,MAR26,1976,i
@@ -728,7 +728,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12340197,"Thapa, Rishon",NEP,M,,,,1784,0,20,MAR26,2005,
 12301450,"Thapa, Shanta",NEP,F,,,,1690,0,20,MAR26,1993,wi
 12361038,"Thapa, Subhandeep",NEP,M,,,,1685,0,40,MAR26,2010,
-12303135,"Thing, Bibek",NEP,M,FM,"FI,NA",,2146,0,20,MAR26,1995,
+12303135,"Thing, Bibek",NEP,M,FM,NA,,2146,0,20,MAR26,1995,
 12310930,"Thing, Suruchee",NEP,F,WCM,WCM,,1651,0,20,MAR26,1999,wi
 12316121,"Timalsina, Binod",NEP,M,,,,1576,0,20,MAR26,1992,
 12319937,"Timalsina, Khom Prasad",NEP,M,,,,1730,0,20,MAR26,1985,i

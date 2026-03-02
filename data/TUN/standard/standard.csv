@@ -161,7 +161,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5555353,"Ben Ameur, Amine",TUN,M,,,,1449,0,40,MAR26,2008,
 5530113,"Ben Ameur, Mohamed Ali",TUN,M,,,,1691,0,40,MAR26,1979,i
 5546540,"Ben Ameur,Ala",TUN,M,,,,1567,0,40,MAR26,2008,
-5502012,"Ben Ammar, Mohamed",TUN,M,CM,FI,,2060,10,20,MAR26,1995,
+5502012,"Ben Ammar, Mohamed",TUN,M,CM,,,2060,10,20,MAR26,1995,
 5514622,Ben Amor Iheb,TUN,M,,,,1758,0,40,MAR26,1990,i
 5538980,"Ben amor, Anas",TUN,M,,,,1565,0,40,MAR26,2006,
 5508509,"Ben Amor, Meriem",TUN,F,WCM,WCM,,1870,9,40,MAR26,2008,w
@@ -699,7 +699,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5551536,"Maatallah, Mouadh",TUN,M,,,,1560,4,40,MAR26,2011,
 5518440,Maatar Abdeljabbar,TUN,M,,,,1982,0,40,MAR26,1956,
 5500672,"Mabrouk, Fathi",TUN,M,,,,2034,0,20,MAR26,1984,i
-5502276,"Mabrouk, Fethi",TUN,M,,"DI,NA",,1565,0,40,MAR26,1957,
+5502276,"Mabrouk, Fethi",TUN,M,,NA,,1565,0,40,MAR26,1957,
 5500680,"Mabrouk, Nizar",TUN,M,,,,2011,0,20,MAR26,1980,i
 5503485,"Mabrouk, Syrine",TUN,F,WCM,WCM,,1728,0,20,MAR26,2000,wi
 5519551,"Mabrouk,Rayen",TUN,M,,,,1631,0,40,MAR26,2003,i
@@ -750,10 +750,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5543142,"Mbarki,Dhiaeddine",TUN,M,,,,1902,0,40,MAR26,2005,
 5511968,Mchentel Abdessattar,TUN,M,,,,1804,0,40,MAR26,1967,i
 5507413,"Mdaini, Najib",TUN,M,,,,1801,0,40,MAR26,1971,
-5501474,"Mdallah, Afif",TUN,M,,FI,,1891,0,20,MAR26,1965,
+5501474,"Mdallah, Afif",TUN,M,,,,1891,0,20,MAR26,1965,
 5558395,"Mechmech, Emna",TUN,F,,,,1481,0,40,MAR26,2012,w
 5509980,"Mechri, Hamza",TUN,M,,,,1698,0,40,MAR26,2001,i
-5503000,"Meddeb, Amine",TUN,M,,FI,,1920,0,20,MAR26,1988,i
+5503000,"Meddeb, Amine",TUN,M,,,,1920,0,20,MAR26,1988,i
 5501059,"Meddeb, Anis",TUN,M,FM,,,2074,0,20,MAR26,1978,
 5501652,"Meddeb, Chadha",TUN,F,WIM,WIM,FA,1770,0,20,MAR26,1993,wi
 5540992,"Medimegh,Hiba",TUN,F,,,,1425,0,40,MAR26,2015,w

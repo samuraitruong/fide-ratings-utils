@@ -81,7 +81,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 108847,"Airando, Martin",ARG,M,FM,,,2149,0,20,MAR26,1981,i
 20063512,"Alarcon, Silvio Martin",ARG,M,,,,1782,0,20,MAR26,1978,
 199818,"Alavar, Nicolas",ARG,M,,,,1753,0,20,MAR26,1998,i
-131261,"Albarracin, Fernando",ARG,M,,FI,,1927,0,,MAR26,1982,i
+131261,"Albarracin, Fernando",ARG,M,,,,1927,0,,MAR26,1982,i
 20046294,"Alberich Bernabe, Pablo",ARG,M,,,,1639,0,20,MAR26,1989,i
 20040733,"Albertoni Borghese, Leandro",ARG,M,,,,1595,0,20,MAR26,1990,i
 128899,"Albornoz Molinari, Aleli Rocio",ARG,F,,,,1722,0,20,MAR26,1989,wi
@@ -195,7 +195,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 186724,"Arana, Augusto",ARG,M,,,,2013,22,20,MAR26,2006,
 160458,"Aranda, Juan Manuel",ARG,M,CM,,,2109,0,20,MAR26,1983,i
 148652,"Aranibar, Osvaldo",ARG,M,,,,1674,0,20,MAR26,2004,i
-107565,"Araoz, Claudio Alberto",ARG,M,,"FI,FI",,1899,0,,MAR26,1961,i
+107565,"Araoz, Claudio Alberto",ARG,M,,FI,,1899,0,,MAR26,1961,i
 20008163,"Arce, Pablo",ARG,M,,,,1738,0,20,MAR26,1980,
 20008171,"Arce, Santiago",ARG,M,,,,1529,0,20,MAR26,2000,i
 20044909,"Arce, Tomas",ARG,M,,,,1706,0,20,MAR26,2007,i
@@ -214,7 +214,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 199451,"Arfa, Martin",ARG,M,,,,1542,0,20,MAR26,1968,i
 192180,"Arfa, Octavio",ARG,M,,,,1750,28,20,MAR26,2006,
 20063423,Arganaraz. Ignacio,ARG,M,,,,1465,0,40,MAR26,2011,
-118532,"Argento, Elizabeth Mariel",ARG,F,,NI,,1832,0,20,MAR26,1995,wi
+118532,"Argento, Elizabeth Mariel",ARG,F,,,,1832,0,20,MAR26,1995,wi
 136107,"Argento, Ramon Francisco",ARG,M,,,,1674,0,20,MAR26,1952,i
 156019,"Argiz, Nicolas",ARG,M,,,,1804,0,20,MAR26,1989,
 160539,"Argueello Pitt, Camilo",ARG,M,,,,2001,0,20,MAR26,1999,i
@@ -396,7 +396,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 154911,"Benitez, Fernando",ARG,M,,,,1832,0,20,MAR26,1989,
 20029063,"Benitez, Geronimo",ARG,M,,,,1521,0,40,MAR26,2011,
 162264,"Benitez, Javier",ARG,M,,,,1660,0,20,MAR26,1993,i
-192740,"Benitez, Jorge Tomas",ARG,M,,"NI,NA",,1656,0,20,MAR26,1987,
+192740,"Benitez, Jorge Tomas",ARG,M,,NA,,1656,0,20,MAR26,1987,
 20042582,"Benitez, Jose",ARG,M,,,,1813,0,20,MAR26,1984,
 192252,"Benitez, Luis",ARG,M,,,,1858,0,20,MAR26,1970,
 135879,"Benoliel, Demian",ARG,M,,,,1951,0,20,MAR26,0,
@@ -609,7 +609,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20049951,"Calvisi, David",ARG,M,,,,1992,0,20,MAR26,1979,i
 20055846,"Calvo, Cristian",ARG,M,,,,1542,0,20,MAR26,1994,i
 20023847,"Camacho, Matias",ARG,M,,,,1585,0,20,MAR26,1995,i
-175390,"Camani, Francisco",ARG,M,,"DI,NA",,1717,12,20,MAR26,1998,
+175390,"Camani, Francisco",ARG,M,,NA,,1717,12,20,MAR26,1998,
 104230,"Camano, Carlos",ARG,M,,,,1847,0,20,MAR26,0,i
 175234,"Camio, Damian",ARG,M,,,,1606,0,20,MAR26,2006,i
 20042957,"Campagnolo, Jorge",ARG,M,,,,1567,0,20,MAR26,1954,i
@@ -813,7 +813,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20045476,"Cingolani, Fabio",ARG,M,,,,1483,0,20,MAR26,1974,i
 20028180,"Cinotto, Nazareno",ARG,M,,,,1688,0,40,MAR26,2012,
 20003170,"Cirmi, Santiago",ARG,M,,,,1617,0,20,MAR26,1988,
-117692,"Cirulli, Diego",ARG,M,,FI,,2096,0,20,MAR26,0,i
+117692,"Cirulli, Diego",ARG,M,,,,2096,0,20,MAR26,0,i
 102741,"Ciruzzi, Luciano",ARG,M,,,,2082,0,20,MAR26,1993,
 115126,"Cisneros, German",ARG,M,,,,1930,0,20,MAR26,0,
 20043082,"Cisneros, Sandro",ARG,M,,,,1643,0,20,MAR26,1995,i
@@ -847,7 +847,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 168300,"Condo Coraite, Kevin",ARG,M,,,,1792,0,20,MAR26,2003,i
 105783,"Conlazo, Eusebio",ARG,M,,,,1949,0,20,MAR26,1951,i
 109029,"Conlazo, Santiago",ARG,M,,,,2093,0,20,MAR26,1978,i
-110647,"Contessotto, Enrique",ARG,M,,"FI,NA",,1984,0,20,MAR26,1983,
+110647,"Contessotto, Enrique",ARG,M,,NA,,1984,0,20,MAR26,1983,
 172731,"Contin, Carlos",ARG,M,,,,1729,0,20,MAR26,0,
 20027192,"Contin, Omar Alvarado",ARG,M,,,,1921,0,20,MAR26,1979,i
 20025629,"Contreras, Hernan",ARG,M,,,,1674,0,20,MAR26,1997,i
@@ -1009,7 +1009,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 190870,"Delicio, Felipe Benjamin",ARG,M,,,,1869,0,40,MAR26,2010,i
 191388,"Delicio, Juan Jose",ARG,M,,,,1458,0,40,MAR26,2008,i
 113522,"Della Morte, German",ARG,M,IM,,,2330,0,20,MAR26,1989,
-108448,"Della Morte, Pablo",ARG,M,IM,"FT,IO",,2181,0,20,MAR26,1982,
+108448,"Della Morte, Pablo",ARG,M,IM,IO,,2181,0,20,MAR26,1982,
 155624,"Dellagiovana, Claudio",ARG,M,,,,1939,0,20,MAR26,1961,i
 111210,"Dellepiani, Fernando",ARG,M,,,,2039,0,20,MAR26,1955,i
 108790,"Dell`oca, Gustavo",ARG,M,,,,1713,0,20,MAR26,1961,i
@@ -1251,7 +1251,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 115762,"Fiora, Emilio",ARG,M,,,,2148,0,20,MAR26,1996,
 131644,"Fiorenza, Brandon",ARG,M,,,,1986,0,,MAR26,1999,
 110477,"Fiori, Alberto Nicolas",ARG,M,CM,,,2088,0,20,MAR26,1982,i
-110485,"Fiori, Hector",ARG,M,CM,"FT,FA",,2083,22,20,MAR26,1982,
+110485,"Fiori, Hector",ARG,M,CM,FA,,2083,22,20,MAR26,1982,
 100200,"Fiorito, Fabian",ARG,M,IM,,,2296,0,10,MAR26,1969,
 180165,"Fiorito, Francisco",ARG,M,IM,,,2400,0,10,MAR26,2010,
 180173,"Fiorito, Joaquin",ARG,M,IM,,,2341,0,20,MAR26,2007,
@@ -1273,7 +1273,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20000693,"Flores, Ariel",ARG,M,,,,1617,0,20,MAR26,1967,
 20028458,"Flores, Camila",ARG,M,,,,1504,0,40,MAR26,2010,
 180661,"Flores, Christian Dario",ARG,M,,,,1863,0,20,MAR26,1973,
-108049,"Flores, Diego",ARG,M,GM,FT,,2596,7,10,MAR26,1982,
+108049,"Flores, Diego",ARG,M,GM,,,2596,7,10,MAR26,1982,
 147087,"Flores, Enzo",ARG,M,,,,1784,0,20,MAR26,2000,i
 130320,"Flores, Fernando",ARG,M,,,,1957,0,20,MAR26,1996,
 190209,"Flores, German",ARG,M,,,,1963,0,20,MAR26,1989,i
@@ -1690,7 +1690,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20076762,"Hodari, Benjamin",ARG,M,,,,1730,6,40,MAR26,1957,
 104884,"Hoeschele, Hermann",ARG,M,,,,1825,0,20,MAR26,1957,i
 20000723,"Hofer, Renzo",ARG,M,,,,1673,0,20,MAR26,2003,i
-100340,"Hoffman, Alejandro",ARG,M,GM,DI,,2351,9,10,MAR26,1966,
+100340,"Hoffman, Alejandro",ARG,M,GM,,,2351,9,10,MAR26,1966,
 178640,"Hoffman, David",ARG,M,,,,1905,0,20,MAR26,1964,i
 155055,"Hoffman, Juan Cruz",ARG,M,,,,1714,0,20,MAR26,2007,i
 111600,"Hoffmann, Emiliano",ARG,M,,,,2108,0,20,MAR26,0,i
@@ -1832,7 +1832,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 190063,"Kornblihtt, Nicolas",ARG,M,,,,1741,0,20,MAR26,1982,i
 121762,"Koslab, Andres",ARG,M,,,,1682,0,20,MAR26,0,
 20061390,"Kostka, Gabriel",ARG,M,,,,1789,0,20,MAR26,1946,
-183270,"Kountaras , Marcelo Daniel",ARG,M,,"NI,NI,NA",,1641,0,20,MAR26,1970,
+183270,"Kountaras , Marcelo Daniel",ARG,M,,"NI,NA",,1641,0,20,MAR26,1970,
 20033761,"Kovach, Erik",ARG,M,,,,1545,0,20,MAR26,2002,i
 153370,"Krenek, Gustavo Luis",ARG,M,,SI,,1959,0,20,MAR26,1975,
 182486,"Kriskovich, Ruben",ARG,M,,,,1883,0,20,MAR26,1977,i
@@ -1946,7 +1946,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 161012,"Lieby, Camilo Julian",ARG,M,,,,1989,0,20,MAR26,2006,
 161225,"Lieby, Juan Sebastian",ARG,M,,,,1683,0,40,MAR26,2008,
 20048793,"Liendro, Constanza",ARG,F,,,,1729,0,20,MAR26,1987,wi
-121339,"Ligotti, Jorge Luis",ARG,M,,"NI,NI,NA",,1909,0,20,MAR26,1974,i
+121339,"Ligotti, Jorge Luis",ARG,M,,"NI,NA",,1909,0,20,MAR26,1974,i
 135666,"Liguo, Cristian",ARG,M,,,,1761,0,20,MAR26,2003,i
 140333,"Liguo, Victoria",ARG,F,,,,1733,0,20,MAR26,2004,wi
 20057806,"Liguori, Fabian",ARG,M,,,,1447,0,20,MAR26,1960,i
@@ -2050,7 +2050,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20043856,"Lugo, Lisandro",ARG,M,,,,1627,0,40,MAR26,2016,
 136719,"Lugones, Lautaro",ARG,M,,,,2028,0,20,MAR26,1995,
 185809,"Lugones, Marcelo Leonardo",ARG,M,,,,1708,0,20,MAR26,1988,i
-109878,"Lujan, Carolina",ARG,F,IM,WGM,FT,2202,0,20,MAR26,1985,w
+109878,"Lujan, Carolina",ARG,F,IM,WGM,,2202,0,20,MAR26,1985,w
 153869,"Lujan, Nelson",ARG,M,,,,2107,0,20,MAR26,1993,
 170607,"Luna, Enrique",ARG,M,,,,1887,0,20,MAR26,1943,i
 186031,"Luna, Fernando Agustin",ARG,M,,,,1697,0,40,MAR26,2010,
@@ -2143,7 +2143,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20040423,"Marcovich, Franco Gabriel",ARG,M,,,,1467,4,20,MAR26,2001,
 152200,"Mardones, Leonel Jose",ARG,M,,,,1719,0,20,MAR26,2001,i
 167207,"Mareco, Facundo",ARG,M,,,,1822,0,20,MAR26,2002,i
-112275,"Mareco, Sandro",ARG,M,GM,FST,,2547,0,10,MAR26,1987,
+112275,"Mareco, Sandro",ARG,M,GM,,,2547,0,10,MAR26,1987,
 20005423,"Maresca, Santino",ARG,M,,,,1942,9,20,MAR26,2004,
 149756,"Marey, Matias",ARG,M,,,,1809,0,20,MAR26,2004,i
 119571,"Marey, Mauro",ARG,M,,,,2122,0,20,MAR26,1968,i
@@ -2206,7 +2206,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20076916,"Mas, Felipe",ARG,M,,,,1432,6,40,MAR26,2012,
 20060947,"Mascheroni, Luca Benicio",ARG,M,,,,1431,0,40,MAR26,2016,
 147532,"Maset, Antonio",ARG,M,,,,1875,0,,MAR26,1977,i
-111988,"Mashal, Ruben",ARG,M,,FI,,2173,0,20,MAR26,1987,i
+111988,"Mashal, Ruben",ARG,M,,,,2173,0,20,MAR26,1987,i
 127639,"Masi, Anibal",ARG,M,,,,1724,0,20,MAR26,1976,
 191558,"Masio , Juan",ARG,M,,,,1494,6,20,MAR26,2003,
 20021704,"Masjoan, Pablo",ARG,M,,,,1659,0,20,MAR26,1972,i
@@ -2257,7 +2257,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20076100,"Medrano, Samuel",ARG,M,,,,1404,3,40,MAR26,2009,
 20021860,"Mega, Diego Jose",ARG,M,,,,1729,0,20,MAR26,1980,i
 178675,"Meineri, Carlos",ARG,M,,,,1610,0,20,MAR26,1953,i
-107727,"Mela, Benjamin",ARG,M,IM,FT,,2272,0,20,MAR26,1978,
+107727,"Mela, Benjamin",ARG,M,IM,,,2272,0,20,MAR26,1978,
 20017251,Melamedoff Eduardo,ARG,M,,,,1779,4,20,MAR26,1966,
 198307,"Melero, Emiliano Andres",ARG,M,,,,1937,6,20,MAR26,1981,
 165476,"Melian, Cristian",ARG,M,,,,1752,0,20,MAR26,1982,i
@@ -2268,7 +2268,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20025645,"Melzner, Joaquin",ARG,M,,,,1497,0,20,MAR26,1998,i
 191566,"Mendez, Agustin",ARG,M,,,,1839,0,20,MAR26,2003,
 178519,"Mendez, Alejandro Ariel",ARG,M,,,,1909,0,,MAR26,1974,
-119903,"Mendez, Cristian",ARG,M,,FI,,1968,0,20,MAR26,1980,
+119903,"Mendez, Cristian",ARG,M,,,,1968,0,20,MAR26,1980,
 103047,"Mendez, Ernesto",ARG,M,IM,,,2193,0,20,MAR26,1960,i
 123234,"Mendez, Nicolas",ARG,M,,NA,,1864,0,20,MAR26,1997,
 113760,"Mendez, Pablo",ARG,M,,,,2098,0,20,MAR26,1987,i
@@ -2291,7 +2291,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20039077,"Mesiano, Felipe",ARG,M,,,,2040,0,40,MAR26,2008,
 118346,"Messina, Federico",ARG,M,,,,1798,0,20,MAR26,0,
 20018770,"Meza Astrada, Agustin",ARG,M,CM,,,2048,13,20,MAR26,2007,
-111325,"Meza, Anahi",ARG,F,WFM,WFM,FI,1940,0,20,MAR26,1985,w
+111325,"Meza, Anahi",ARG,F,WFM,WFM,,1940,0,20,MAR26,1985,w
 119911,"Micalizio, Hugo",ARG,M,,,,1906,0,20,MAR26,1966,
 20020147,"Miceli, Luciano",ARG,M,,,,1658,0,20,MAR26,1987,
 106267,"Michalowski, Basilio",ARG,M,,,,2067,0,20,MAR26,1957,
@@ -2797,7 +2797,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20039417,"Platini, Renzo Jesus",ARG,M,,,,1769,0,40,MAR26,2009,
 102202,"Playa, Marcelo",ARG,M,IM,,,2331,0,20,MAR26,1973,
 20002955,"Plaza, Jorge Daniel",ARG,M,,,,1662,0,20,MAR26,1980,i
-113395,"Plazaola, Maria De Los Angeles",ARG,F,WIM,WIM,FI,2068,0,20,MAR26,1986,wi
+113395,"Plazaola, Maria De Los Angeles",ARG,F,WIM,WIM,,2068,0,20,MAR26,1986,wi
 114375,"Plazaola, Sebastian",ARG,M,,,,1912,0,20,MAR26,0,i
 186856,"Plazas, Jacob",ARG,M,,,,1858,0,40,MAR26,2010,i
 106542,"Plotinsky, Leandro",ARG,M,,,,1951,0,20,MAR26,1978,
@@ -3106,7 +3106,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 157511,"Ruiz, Roberto",ARG,M,,,,1873,0,20,MAR26,1989,i
 173916,"Rullan, Julian",ARG,M,,,,1750,0,20,MAR26,1999,
 193224,"Rumbo, Ziad",ARG,M,,,,1680,0,20,MAR26,1999,i
-115177,"Ruperez, Miguel",ARG,M,CM,FI,,2136,0,20,MAR26,1984,
+115177,"Ruperez, Miguel",ARG,M,CM,,,2136,0,20,MAR26,1984,
 192171,"Rusell, Octavio Ivan",ARG,M,,,,1773,0,40,MAR26,2008,i
 166359,"Russo, Pablo Alberto",ARG,M,,,,1705,0,20,MAR26,1978,i
 20035489,"Ryban, Axel",ARG,M,,,,1781,0,40,MAR26,2009,

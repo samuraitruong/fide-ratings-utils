@@ -474,7 +474,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1972723,"Coentro, Nuno",POR,M,,,,1672,0,20,MAR26,1974,i
 1982737,"Cohen, Rui",POR,M,,,,1702,0,20,MAR26,1968,i
 1901435,"Coimbra, Joao Marcial Ferreira",POR,M,,,,1635,0,20,MAR26,1946,i
-1901192,"Coimbra, Margarida",POR,F,WFM,WFM,FI,2115,0,20,MAR26,1983,wi
+1901192,"Coimbra, Margarida",POR,F,WFM,WFM,,2115,0,20,MAR26,1983,wi
 1968564,"Conceicao, Jordi",POR,M,,,,1596,0,20,MAR26,2004,i
 1902857,"Conceicao, Miguel Santos",POR,M,,,,1888,0,20,MAR26,1964,i
 1962728,"Conde, Martim",POR,M,,,,1419,0,40,MAR26,2009,i
@@ -728,7 +728,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1914138,"Fernandes, Afonso Sampaio S P",POR,M,,,,1932,0,20,MAR26,1994,
 1900277,"Fernandes, Alberto",POR,M,,,,2012,0,20,MAR26,1959,
 1960652,"Fernandes, Alvaro Manuel Teixeira",POR,M,,,,1865,0,,MAR26,1954,i
-1900021,"Fernandes, Antonio",POR,M,GM,FT,,2226,0,20,MAR26,1962,
+1900021,"Fernandes, Antonio",POR,M,GM,,,2226,0,20,MAR26,1962,
 1935160,"Fernandes, Antonio Jose Da Silva",POR,M,,,,1654,0,20,MAR26,1984,i
 1982338,"Fernandes, Antonio Maria Mendes",POR,M,,,,1645,0,20,MAR26,2001,i
 1988344,"Fernandes, Claudio Filipe",POR,M,,,,1553,0,20,MAR26,2006,
@@ -805,7 +805,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1951610,"Ferreira, Nuno David",POR,M,,,,1740,0,20,MAR26,1970,i
 1951513,"Ferreira, Nuno David De Oliveira Reis",POR,M,,,,1683,0,20,MAR26,2003,i
 1916017,"Ferreira, Nuno Messeder",POR,M,,,,1710,0,20,MAR26,1978,i
-1900820,"Ferreira, Paulo",POR,M,CM,NI,,1843,7,20,MAR26,1962,
+1900820,"Ferreira, Paulo",POR,M,CM,,,1843,7,20,MAR26,1962,
 1924540,"Ferreira, Pedro",POR,M,,,,1757,0,20,MAR26,1994,i
 1964100,"Ferreira, Pedro Carvalho Dias",POR,M,,,,1425,0,40,MAR26,2009,i
 1974696,"Ferreira, Pedro Esteves",POR,M,,,,1548,0,20,MAR26,2007,
@@ -885,7 +885,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1966898,"Frutuoso, Tiago",POR,M,,,,1888,12,40,MAR26,2013,
 1972774,"Fuchs, Leo Lobao",POR,M,,,,1541,0,20,MAR26,2007,
 1901990,"Funk, Guenther Matthias",POR,M,,,,1681,0,20,MAR26,1965,
-1903241,"Furtado, Dinis",POR,M,,FI,,1823,0,20,MAR26,1974,
+1903241,"Furtado, Dinis",POR,M,,,,1823,0,20,MAR26,1974,
 1984101,"Furtado, Nelson",POR,M,,,,1570,0,40,MAR26,2010,
 1901923,"Gaboleiro, Guilherme",POR,M,,,,1902,0,20,MAR26,1967,i
 1910949,"Gabriel, Agna Solange Videira",POR,F,,,,1773,0,20,MAR26,1992,wi
@@ -1008,7 +1008,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1942549,"Guimaraes, Henrique",POR,M,,,,1624,0,20,MAR26,2006,i
 1977849,"Guimaraes, Joao Magalhaes",POR,M,,,,1446,0,40,MAR26,2010,i
 1986740,"Guimaraes, Joaquim Antonio",POR,M,,,,1518,0,20,MAR26,1983,i
-1900137,"Guimaraes, Jorge",POR,M,FM,FT,,2245,0,20,MAR26,1958,i
+1900137,"Guimaraes, Jorge",POR,M,FM,,,2245,0,20,MAR26,1958,i
 1916963,"Guimaraes, Luis Pedro F",POR,M,,,,1848,0,20,MAR26,1977,i
 1913212,"Guimaraes, Pedro",POR,M,,,,1691,0,20,MAR26,1994,i
 1953109,"Guimaraes, Pedro Henrique",POR,M,,,,1505,0,20,MAR26,1982,i
@@ -1237,7 +1237,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1911104,"Manuel, Marco",POR,M,,,,1708,0,20,MAR26,1982,
 1989588,"Manuel, Wilden Abrantes",POR,M,,,,1667,0,20,MAR26,1993,
 1982001,"Marcos, Joao Daniel",POR,M,,NA,,1668,2,20,MAR26,2002,
-1914227,"Margarido, Jose Miguel Teixeira",POR,M,,FI,,2094,0,20,MAR26,1994,
+1914227,"Margarido, Jose Miguel Teixeira",POR,M,,,,2094,0,20,MAR26,1994,
 1905287,"Margarido, Ricardo Emanuel Torre",POR,M,,,,1908,0,20,MAR26,1991,i
 1976125,"Maria, Goncalo Filipe Guerreiro",POR,M,,,,1944,0,20,MAR26,2007,
 1983849,"Mariano, Delfim",POR,M,,,,1627,0,20,MAR26,1998,

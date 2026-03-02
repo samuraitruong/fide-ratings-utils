@@ -41,8 +41,8 @@ ID Number      Name                                                         Fed 
 42147921       Alatas, Panagiotis                                           GRE M                                1485  0   20 1992      
 25829343       Aleiferi, Aikaterini                                         GRE F                                1591  0   20 2005  w   
 25829351       Aleiferis, Ioannis                                           GRE M                                1578  0   20 2007  i   
-541008049      Aleiferis, Nikolaos                                          GRE M                                1498  7   40 2016      
 541008650      Aleiferis, Nikolaos                                          GRE M                                1616  0   40 2016      
+541008049      Aleiferis, Nikolaos                                          GRE M                                1498  7   40 2016      
 42177057       Aleksandrov, Zhivodar                                        GRE M                                1511  0   40 2008      
 42138434       Alepoudeas, Dimitrios                                        GRE M                                1482  0   40 2014      
 25858505       Alepoudeas, Stylianos                                        GRE M                                1660  0   40 2008      
@@ -111,7 +111,7 @@ ID Number      Name                                                         Fed 
 25858157       Anagnostopoulos, Vasileios NA                                GRE M                                1544  0   20 2007      
 4204859        Anagnostou, Ioannis                                          GRE M                                1864  0   20 1972  i   
 4282183        Anagnostou, Marios-Stavros                                   GRE M                                1748  0   20 1975  i   
-4203020        Anagnou, Konstantinos                                        GRE M             FI                 2141  0   20 1973  i   
+4203020        Anagnou, Konstantinos                                        GRE M                                2141  0   20 1973  i   
 4205669        Anairousis, Panag                                            GRE M                                1968  0   20 1959  i   
 42188156       Ananian, Samvel                                              GRE M                                1428  0   40 2008  i   
 25856260       Anastasakis, Vasileios Georgios                              GRE M                                1426  0   20 2007  i   
@@ -269,7 +269,7 @@ ID Number      Name                                                         Fed 
 42180597       Avaliani, Aleksandre                                         GRE M                                1767  0   40 2015  i   
 25822985       Avdeliodis, Ioannis                                          GRE M                            AFM 1749  0   20 1975  i   
 4210255        Avdouli, Evangelia                                           GRE F                                1665  0   20 1964  w   
-25874551       Avgerinos, Emmanouil                                         GRE M             DI                 1627  0   20 1979  i   
+25874551       Avgerinos, Emmanouil                                         GRE M                                1627  0   20 1979  i   
 4235037        Avgerinos, Fotios                                            GRE M                                1856  0   20 1992      
 25812653       Avgeros, Christos                                            GRE M                                1453  0   20 0     i   
 4225163        Avgitidis, Isaak                                             GRE M                                1825  0   20 1973  i   
@@ -707,8 +707,8 @@ ID Number      Name                                                         Fed 
 25854437       Diakouli, Ioanna-Maria                                       GRE F                                1483  0   20 2001  wi  
 25889400       Diakoumakos, Georgios P                                      GRE M                            AFM 1607  0   20 2006  i   
 4239245        Diakoumeas, Aristofanis                                      GRE M                                1603  0   20 1996      
-4207300        Diamandis, Georgios                                          GRE M             FI,FI              1813  0   20 1957  i   
-4252390        Diamandis, Phoebus-Apollo                                    GRE M             DI,DI              1750  0   20 1996      
+4207300        Diamandis, Georgios                                          GRE M             FI                 1813  0   20 1957  i   
+4252390        Diamandis, Phoebus-Apollo                                    GRE M             DI                 1750  0   20 1996      
 4215516        Diamantakis, Ioannis                                         GRE M                                1697  0   20 1965  i   
 25835009       Diamantakos, Ioannis                                         GRE M                                1748  0   20 1972  i   
 25832875       Diamantakos, Sotirios                                        GRE M                                1668  0   20 2005  i   
@@ -1081,7 +1081,7 @@ ID Number      Name                                                         Fed 
 42167892       Georgiou, Filimon                                            GRE M                                1529  0   40 2009      
 4257537        Georgiou, Hristos D.                                         GRE M                                1766  0   20 1961      
 4268393        Georgiou, Konstantinos                                       GRE M                                1860  6   20 2000      
-4205634        Georgiou, Kostantinos                                        GRE M             FI                 2254  0   20 1981  i   
+4205634        Georgiou, Kostantinos                                        GRE M                                2254  0   20 1981  i   
 4214960        Georgiou, Napoleon                                           GRE M                                1852  0   20 1992  i   
 42131952       Georgiou, Panagiotis NA                                      GRE M                                1494  0   20 1980  i   
 25863118       Georgis, Athanasios                                          GRE M                                1418  0   20 2007  i   
@@ -1106,7 +1106,7 @@ ID Number      Name                                                         Fed 
 4268172        Gerogiannis, Gerasimos                                       GRE M                                1701  0   20 1998  i   
 25805860       Gerolymatou, Maria                                           GRE F                                1579  0   20 0     wi  
 4288564        Gerontis, Nikolaos                                           GRE M                                1690  0   20 2001  i   
-4214463        Gerontopoulos, Prodromos                                     GRE M             NI,NI,IA           1795  0   20 1979  i   
+4214463        Gerontopoulos, Prodromos                                     GRE M             NI,IA              1795  0   20 1979  i   
 42162297       Geropapas, Elias                                             GRE M                                1501  0   20 2000  i   
 4257340        Geropapas, Periklis                                          GRE M                                1855  0   20 1980      
 4204760        Geroukalis, Athanasios                                       GRE M                                1876  0   20 1963      
@@ -1192,7 +1192,7 @@ ID Number      Name                                                         Fed 
 25811088       Gkilnas, Eleftherios                                         GRE M                                1802  0   20 0     i   
 25854925       Gkiokas, Charisis                                            GRE M                                1697  0   20 2002      
 25871935       Gkiokas, Nikolaos                                            GRE M                                1515  0   20 2003  i   
-25843346       Gkiolmas, Aristotelis                                        GRE M             NI                 1405  0   20 1969  i   
+25843346       Gkiolmas, Aristotelis                                        GRE M                                1405  0   20 1969  i   
 42160790       Gkioni, Michail                                              GRE M                                1510  0   40 2010      
 42146429       Gkionis, Lampros                                             GRE M                                1815  0   20 1982  i   
 42198208       Gkitsas, Stergios                                            GRE M                                1644  0   20 1990  i   
@@ -1294,7 +1294,7 @@ ID Number      Name                                                         Fed 
 25805738       Haralabidis, Aristidis                                       GRE M             NA                 1643  0   20 2004      
 4216245        Haralabidis, Tengkiz                                         GRE M                                1804  0   20 1949  i   
 4261631        Haralabidou, Maria                                           GRE F             FA                 1769  0   20 1998  wi  
-4203640        Harana, Alexandra                                            GRE F             FI                 1819  0   20 1979  wi  
+4203640        Harana, Alexandra                                            GRE F                                1819  0   20 1979  wi  
 4242637        Hararis, Dimitrios                                           GRE M                                1814  0   20 1956  i   
 4254317        Hararis, Georgios                                            GRE M                                1981  0   20 1981      
 4237480        Harisis, Konstantinos                                        GRE M                                1747  0   20 1992  i   
@@ -1380,7 +1380,7 @@ ID Number      Name                                                         Fed 
 25802615       Igoumenaki, Konstantina                                      GRE M                                1404  0   20 2004  i   
 25839292       Ikonomidis, Achileas                                         GRE M                                1619  0   20 1996  i   
 25820800       Ikonomidis, Savas                                            GRE M                                1694  0   20 1999  i   
-4209958        Ikonomopoulou, Maria                                         GRE F   WFM  WFM  FI                 2060  0   20 1989  wi  
+4209958        Ikonomopoulou, Maria                                         GRE F   WFM  WFM                     2060  0   20 1989  wi  
 4233751        Ikonomou, Anastasios                                         GRE M                                1866  0   20 1971  i   
 4249658        Ikonomou, Nikolaos                                           GRE M                                1531  0   20 2000  i   
 25839802       Ikonomou, Theodoros                                          GRE M                                1490  0   20 2007  i   
@@ -1548,7 +1548,7 @@ ID Number      Name                                                         Fed 
 25811096       Kanellopoulos, Georgios NA                                   GRE M                                1930  0   20 0     i   
 4205928        Kanellopoulos, Panayotis                                     GRE M                                2234  0   20 1978  i   
 25808966       Kanellopoulou, Ioustini                                      GRE F                                1428  0   20 2006  wi  
-4254201        Kanellos, Dimitrios V.                                       GRE M             NI                 1989  0   20 1994      
+4254201        Kanellos, Dimitrios V.                                       GRE M                                1989  0   20 1994      
 25834312       Kantarelis, Konstantinos                                     GRE M                                1480  0   20 2005  i   
 25824112       Kantartzis, Michail                                          GRE M                                1571  0   20 1995  i   
 42147883       Kantas, Themistoklis                                         GRE M                                1616  0   20 2006      
@@ -1583,7 +1583,7 @@ ID Number      Name                                                         Fed 
 42161932       Kapsianis, Dimitrios                                         GRE M                                1639  0   20 1996  i   
 4221583        Kapsomenakis, Petros                                         GRE M                                1889  0   20 1978  i   
 4211758        Kapsoulis, Georgios                                          GRE M                                1859  0   20 1970  i   
-4296346        Karaboikis, Spiridon                                         GRE M             FI,FA              1930  0   20 1971  i   
+4296346        Karaboikis, Spiridon                                         GRE M             FA                 1930  0   20 1971  i   
 25874535       Karachalios, Emmanouil                                       GRE M                                1768  0   20 1988  i   
 25832743       Karachalios, Georgios                                        GRE M                                1440  0   20 2007  i   
 42131847       Karachalios, Paris Alexandros                                GRE M                                1520  0   40 2011  i   
@@ -1874,7 +1874,7 @@ ID Number      Name                                                         Fed 
 25837699       Kolonis, Stratos                                             GRE M                                1638  0   20 1973  i   
 25806840       Kolotouros, Konstantinos                                     GRE M                                1597  0   20 1958  i   
 4226640        Kolovos, Georgios                                            GRE M                                1756  0   20 1963  i   
-25820176       Kolovos, Grigorios                                           GRE M             NI                 1809  0   20 1974      
+25820176       Kolovos, Grigorios                                           GRE M                                1809  0   20 1974      
 42162696       Kolovos, Nikolaos                                            GRE M                                1609  0   20 2005      
 42133645       Kolovou, Christina                                           GRE F                                1554  0   40 2010  wi  
 42147425       Kolpetinou, Kyriaki                                          GRE F                                1478  0   20 1999  wi  
@@ -1885,7 +1885,7 @@ ID Number      Name                                                         Fed 
 4299094        Komianos, Marios                                             GRE M                                1588  0   20 2001  i   
 25804740       Kominos, Charalampos - Gavriil                               GRE M                                1738  0   20 1989  i   
 25838911       Kommatas, Orfeas                                             GRE M                                1561  0   20 1994  i   
-4205022        Komninos, Nikolaos                                           GRE M   CM        FI,FI              2108  0   20 1973  i   
+4205022        Komninos, Nikolaos                                           GRE M   CM        FI                 2108  0   20 1973  i   
 541015444      Kompos, Georgios                                             GRE M                            AFM 1735  7   40 2000      
 4214579        Komsoulas, Asterios                                          GRE M                                1921  0   20 1989  i   
 4208978        Kondylis, Andreas                                            GRE M                                1870  0   20 1986  i   
@@ -1953,7 +1953,7 @@ ID Number      Name                                                         Fed 
 4211618        Koroglou, Viktor                                             GRE M             NA             AGM 1993  0   20 1990  i   
 42199468       Korogonas, Georgios                                          GRE M                                1686  0   40 2010      
 42161185       Koromilas, Athanasios                                        GRE M                                1756  0   40 2015      
-4215397        Koronas, Vasilios                                            GRE M             NI                 1839  0   20 1993  i   
+4215397        Koronas, Vasilios                                            GRE M                                1839  0   20 1993  i   
 4241215        Koronios, Dimitris                                           GRE M                                1722  0   20 1946  i   
 42188865       Korontzis, Orfeas                                            GRE M                                1613  0   20 1999      
 4204832        Korou, Laskarina                                             GRE F             IA                 1690  0   20 1975  wi  
@@ -2097,7 +2097,7 @@ ID Number      Name                                                         Fed 
 25827138       Koutlas, Nikolaos                                            GRE M   FM                           2164  0   20 2006      
 4244702        Koutoukidis, Panagiotis                                      GRE M   FM                           2287  0   20 1996  i   
 4209842        Koutourinis, Apostolos                                       GRE M                                1992  0   20 1986  i   
-4270010        Koutouzof, Ioannis                                           GRE M             NI                 1807  0   20 1976      
+4270010        Koutouzof, Ioannis                                           GRE M                                1807  0   20 1976      
 4203941        Koutrakis, Stamatios                                         GRE M                            AFM 1902  0   20 1984  i   
 25822047       Koutrakis, Theodoros                                         GRE M                                1614  0   20 2005  i   
 25866770       Koutras, Konstantinos                                        GRE M                            AIM 1979  0   20 2007      
@@ -2197,7 +2197,7 @@ ID Number      Name                                                         Fed 
 25844113       Lafkas, Ioannis                                              GRE M                                1555  0   40 2009  i   
 25869930       Lafkidis, Apostolos                                          GRE M                                2125  0   40 2010      
 42190797       Lafkidis, Polychronis                                        GRE M                                1486  0   20 1974  i   
-25837788       Lagaras, Stylianos                                           GRE M             NI,NA              1884  0   20 1995  i   
+25837788       Lagaras, Stylianos                                           GRE M             NA                 1884  0   20 1995  i   
 4210190        Laggousis, Andreas                                           GRE M                            AIM 1938  0   20 1980  i   
 25804359       Lagogianni, Niki Vasiliki                                    GRE F             NA                 1504  0   20 2005  wi  
 4200489        Lagopatis, Nikolaos                                          GRE M   CM                           1961  0   20 1967      
@@ -2311,7 +2311,7 @@ ID Number      Name                                                         Fed 
 541004906      Lisavonis, Vasileios                                         GRE M                                1426  0   20 2003  i   
 4238508        Lithoxoos, Theodoros                                         GRE M                                1842  0   20 1988      
 42103940       Litos, Pantelis                                              GRE M                                1742  4   20 1967      
-4227131        Litsas, Panagiotis                                           GRE M             NI                 1833  0   20 1996  i   
+4227131        Litsas, Panagiotis                                           GRE M                                1833  0   20 1996  i   
 25807471       Litsios, Konstantinos                                        GRE M                                1504  0   20 2001  i   
 42120900       Livadaros, Petros                                            GRE M                                1423  0   20 1993  i   
 4203992        Livas, Ioannis                                               GRE M                                1560  0   20 1952      
@@ -2366,8 +2366,8 @@ ID Number      Name                                                         Fed 
 25842919       Makedonas, Ioannis                                           GRE M                                1419  0   20 1963  i   
 25838890       Makedonas, Michail                                           GRE M                                1629  0   20 1990  i   
 25865250       Makedos, Ioannis                                             GRE M                                1541  0   20 2004  i   
-4207513        Makka, Evanthia                                              GRE F   WFM  WFM  FI,NA              2022  0   20 1986  wi  
-4205316        Makka, Ioulia                                                GRE F   WIM  WIM  FT                 2074  0   20 1983  wi  
+4207513        Makka, Evanthia                                              GRE F   WFM  WFM  NA                 2022  0   20 1986  wi  
+4205316        Makka, Ioulia                                                GRE F   WIM  WIM                     2074  0   20 1983  wi  
 4206622        Makkas, Panayiotis                                           GRE M                                1939  0   20 1946  i   
 42115132       Makmilan, Markos Nil                                         GRE M                                1577  0   20 2001  i   
 4296141        Makoglou, Mihail                                             GRE M                                1466  0   20 1992  i   
@@ -2712,7 +2712,7 @@ ID Number      Name                                                         Fed 
 25806580       Motsakou, Androniki                                          GRE F                                1458  0   20 0     wi  
 42160960       Mougros, Savvas                                              GRE M                                1644  0   20 2004  i   
 4204190        Moula, Zoi                                                   GRE F                                1770  0   20 1945  wi  
-4219724        Moulias, Alexandros                                          GRE M             NI                 1967  0   20 1988  i   
+4219724        Moulias, Alexandros                                          GRE M                                1967  0   20 1988  i   
 42179262       Moulopoulos, Vasileios                                       GRE M                                1534  0   20 1995      
 42108314       Moumtzidis, Georgios                                         GRE M                                1620  0   20 1970  i   
 42173930       Mouratidis, Filippos                                         GRE M                                1522  0   40 2009  i   
@@ -2773,7 +2773,7 @@ ID Number      Name                                                         Fed 
 25838938       Nasos, Konstantinos                                          GRE M                                1728  0   20 2000  i   
 25838253       Nasos, Valerios                                              GRE M                                1804  0   20 2005  i   
 4201396        Nathanail, Emanouel                                          GRE M   CM                           1894  0   20 1959  i   
-4289358        Nathanail, Spyridon                                          GRE M             DI                 1677  0   20 1961      
+4289358        Nathanail, Spyridon                                          GRE M                                1677  0   20 1961      
 42110696       Natsiopoulos, Nikolaos                                       GRE M                                1514  0   40 2010  i   
 42133262       Natsiou, Paschalia Ath                                       GRE F                                1496  0   20 2007  wi  
 42101379       Natsis, Christos                                             GRE M                                1624  0   20 1984  i   
@@ -2808,7 +2808,7 @@ ID Number      Name                                                         Fed 
 42104254       Nikolakopoulos, Vasileios                                    GRE M                                1459  0   40 2011  i   
 4203801        Nikolaou, Georgios                                           GRE M   FM                           2232  0   20 1980  i   
 25877917       Nikolaou, Lampros                                            GRE M                                1430  0   20 1975      
-4264398        Nikolaou, Spiridon                                           GRE M             FI                 2075  0   20 1998  i   
+4264398        Nikolaou, Spiridon                                           GRE M                                2075  0   20 1998  i   
 25849751       Nikolaras, Konstantinos                                      GRE M             NA                 1660  6   20 2003      
 4212282        Nikoleris, Evangelos                                         GRE M                                1841  0   20 1987      
 4251997        Nikolopoulos, Konstantinos                                   GRE M                                1816  0   20 1973  i   
@@ -2842,13 +2842,13 @@ ID Number      Name                                                         Fed 
 42142970       Ntala, Antigoni                                              GRE F                                1521  0   40 2012  wi  
 25836234       Ntala, Konstantina                                           GRE F             NA                 1527  0   20 2003  wi  
 42148928       Ntalachani, Dimitra                                          GRE F                                1638  0   40 2013  w   
-4227778        Ntalampiras, Spyros                                          GRE M             FI                 1864  0   20 1979  i   
+4227778        Ntalampiras, Spyros                                          GRE M                                1864  0   20 1979  i   
 4281225        Ntalas, Georgios                                             GRE M                                1509  0   20 1977  i   
 42159393       Ntampos, Achilleas                                           GRE M                                1509  0   20 2001  i   
 4213840        Ntanos, Ioannis                                              GRE M                                1870  0   20 1964  i   
 25880055       Ntanos, Nikolaos                                             GRE M                                1459  0   20 2004  i   
 25880063       Ntanou, Theofania-Christina                                  GRE F                                1515  0   20 2007  wi  
-4230515        Ntantais, Avraam                                             GRE M             DI                 1765  0   20 1971  i   
+4230515        Ntantais, Avraam                                             GRE M                                1765  0   20 1971  i   
 25817337       Nteligiorgis, Eleftherios                                    GRE M             NA                 1985  0   20 2004      
 25817345       Nteligiorgis, Georgios                                       GRE M             NA                 1789  0   20 2007      
 4254830        Ntelis, Polizois                                             GRE M                                1586  0   20 1977      
@@ -2925,7 +2925,7 @@ ID Number      Name                                                         Fed 
 4244796        Pallis, Hristos                                              GRE M                                1634  0   20 1998  i   
 42184576       Palmadoura, Ioanna                                           GRE F                                1447  0   20 1972  wi  
 25852663       Paloukidis, Anestis                                          GRE M                                1472  0   40 2008  i   
-25804995       Pamporis, Vasileios                                          GRE M             DI                 1696  0   20 1977  i   
+25804995       Pamporis, Vasileios                                          GRE M                                1696  0   20 1977  i   
 25818716       Panagiotakopoulos, Christos                                  GRE M                                1714  0   20 1975  i   
 4213246        Panagiotakos, Nikolaos                                       GRE M                                2022  0   20 1990  i   
 4207254        Panagiotakos, Petros                                         GRE M                                1837  0   20 1953  i   
@@ -3038,7 +3038,7 @@ ID Number      Name                                                         Fed 
 25833081       Papadopoulos, Evaggelos                                      GRE M                                1585  0   20 1984  i   
 42159717       Papadopoulos, Filippos NA                                    GRE M                                1444  0   40 2016      
 4259556        Papadopoulos, Fotis                                          GRE M                                1645  0   20 0     i   
-4210271        Papadopoulos, Georgios                                       GRE M   FM        FI,NA              2240  0   20 1998      
+4210271        Papadopoulos, Georgios                                       GRE M   FM        NA                 2240  0   20 1998      
 4257766        Papadopoulos, Georgios                                       GRE M                            AFM 1860  0   20 1956  i   
 4297660        Papadopoulos, Georgios                                       GRE M                                1773  0   20 1964  i   
 4239636        Papadopoulos, Georgios Nikea                                 GRE M                                1908  0   20 1997      
@@ -3052,7 +3052,7 @@ ID Number      Name                                                         Fed 
 4222628        Papadopoulos, Mihail                                         GRE M                                1783  0   20 1966  i   
 4242378        Papadopoulos, Nikolaos-Rigas                                 GRE M                                1712  0   20 1997  i   
 4212304        Papadopoulos, Panagiotis                                     GRE M                                1864  9   20 1991      
-25814273       Papadopoulos, Panagiotis                                     GRE M             NI             AGM 1783  0   20 1986  i   
+25814273       Papadopoulos, Panagiotis                                     GRE M                            AGM 1783  0   20 1986  i   
 4245695        Papadopoulos, Panagiotis                                     GRE M                                1590  0   20 1998  i   
 42107938       Papadopoulos, Panagiotis Sp                                  GRE M                                1618  0   20 2006      
 4222636        Papadopoulos, Panayotis                                      GRE M   CM                           2019  0   20 1996      
@@ -3101,7 +3101,7 @@ ID Number      Name                                                         Fed 
 4219791        Papaioannou, Efthimia                                        GRE F                                1521  0   20 2002  wi  
 4273001        Papaioannou, Evagelos                                        GRE M                                1659  0   20 2001  i   
 25865021       Papaioannou, Ioanna                                          GRE F                                1419  0   20 2007  wi  
-4201345        Papaioannou, Ioannis                                         GRE M   GM        FT                 2666  0   10 1976  i   
+4201345        Papaioannou, Ioannis                                         GRE M   GM                           2666  0   10 1976  i   
 4218655        Papakonstantinou, Dimitrios                                  GRE M   FM                           2271  0   20 1996      
 4250990        Papakonstantinou, Dimitrios                                  GRE M                                1991  0   20 1998  i   
 4252020        Papakonstantinou, Georgios                                   GRE M                                1717  0   20 2002  i   
@@ -3203,7 +3203,7 @@ ID Number      Name                                                         Fed 
 42183553       Paraskevopoulou, Aikaterini                                  GRE F                                1568  0   40 2017  w   
 25855069       Parcharidis, Triantafyllos                                   GRE M                                1454  0   40 2009  i   
 42192510       Pare, Mpenoua Mari                                           GRE M                                1617  0   20 1961  i   
-4207556        Parginos, Vassilios                                          GRE M             FT                 2105  0   20 1976  i   
+4207556        Parginos, Vassilios                                          GRE M                                2105  0   20 1976  i   
 25820788       Parisi, Theodora                                             GRE F                                1461  0   20 2006  wi  
 25829319       Parlapanis, Ploutarchos                                      GRE M                                1690  0   20 1977  i   
 541011970      Parmaxis, Ioannis Emmanouil                                  GRE M                                1523  0   40 2017      
@@ -3328,7 +3328,7 @@ ID Number      Name                                                         Fed 
 42174341       Phillips, Andrew NA                                          GRE M                                1404  0   20 2002  i   
 42157781       Piagkalakis, Georgios                                        GRE M                                1418  0   40 2016      
 42181240       Pikis, Konstantinos                                          GRE M                                1706  0   40 2009  i   
-4203739        Pilalis, Christos                                            GRE M             FI,FI          AIM 1952  0   20 1966  i   
+4203739        Pilalis, Christos                                            GRE M             FI             AIM 1952  0   20 1966  i   
 65800052       Pilalis, Ernestos                                            GRE M             NA             AFM 1637  0   20 2006  i   
 4216512        Pilas, Georgios                                              GRE M                                1894  0   20 1991  i   
 25874667       Pipeles, Georgios                                            GRE M                                1561  0   40 2008  i   
@@ -3426,7 +3426,7 @@ ID Number      Name                                                         Fed 
 4227190        Psaromiligkos, Konstantinos                                  GRE M                                1740  0   20 1995  i   
 4293940        Psathakis, Ioannis                                           GRE M                                1891  0   20 2003      
 4232135        Psofimi, Milia                                               GRE F                                1688  0   20 1999  wi  
-4259033        Psoma, Virginia                                              GRE F             DI                 1658  0   20 1986  wi  
+4259033        Psoma, Virginia                                              GRE F                                1658  0   20 1986  wi  
 4222806        Psomiadis, Haralampos                                        GRE M                                1746  0   20 1961      
 25877755       Psycharis, Theodoros                                         GRE M                                1761  0   20 1988  i   
 4229169        Psychogios, Antonios                                         GRE M                                1792  0   20 1977  i   
@@ -3556,8 +3556,8 @@ ID Number      Name                                                         Fed 
 25895958       Sampsonoglou, Dimitrios                                      GRE M                                1747  0   40 2009      
 25825500       Sampsonoglou, Vasilios                                       GRE M                                1849  0   20 2005      
 42158818       Sanas, Dionysios Marios                                      GRE M                                1584  0   40 2008  i   
-4207645        Sandalakis, Angelos                                          GRE M   IM        FT                 2363  0   10 1988  i   
-4222890        Sandalakis, Nikolaos                                         GRE M   CM        FI                 2105  0   20 1994  i   
+4207645        Sandalakis, Angelos                                          GRE M   IM                           2363  0   10 1988  i   
+4222890        Sandalakis, Nikolaos                                         GRE M   CM                           2105  0   20 1994  i   
 541015746      Sanidas, Chrysafis                                           GRE M                                1428  0   40 2015      
 4287533        Santorinaios, Hristodoulos                                   GRE M                                1869  0   20 1996  i   
 4287541        Santorinaios, Iakovos                                        GRE M                                1932  0   20 1999  i   
@@ -3570,7 +3570,7 @@ ID Number      Name                                                         Fed 
 25886380       Sarakatsianos, Athanasios                                    GRE M                                1672  0   20 1979  i   
 4245865        Sarakenidis, Nikolaos                                        GRE M                                1934  0   20 1979      
 4222903        Sarantakos, Sotirios                                         GRE M                                1800  0   20 1979  i   
-25843354       Sarantidis, Ilias                                            GRE M             DI                 1742  0   20 1987      
+25843354       Sarantidis, Ilias                                            GRE M                                1742  0   20 1987      
 25858335       Sarantidis, Ioannis                                          GRE M                                1433  0   40 2008  i   
 42162246       Sarantis, Christos                                           GRE M                                1572  0   20 2003  i   
 25820648       Sarantopoulos, Dionysios                                     GRE M                                1833  0   20 1966  i   
@@ -3655,13 +3655,13 @@ ID Number      Name                                                         Fed 
 42143071       Sidiropoulos, Emmanouil                                      GRE M                                1555  0   20 1993      
 4296168        Sidiropoulos, Georgios                                       GRE M                                1494  0   20 1976  i   
 4277740        Sidiropoulos, Georgios Th.                                   GRE M                                1676  0   20 2000  i   
-4222954        Sidiropoulos, Leonidas                                       GRE M             NI,IA              1814  0   20 1990  i   
+4222954        Sidiropoulos, Leonidas                                       GRE M             IA                 1814  0   20 1990  i   
 4240065        Sidiropoulos, Nikolaos Ch.                                   GRE M                                2197  0   20 1976  i   
 4217250        Sidiropoulos, Nikolaos K.                                    GRE M                                2051  0   20 1997      
 42153352       Sidiropoulos, Panagiotis Arg                                 GRE M                                1661  0   40 2015      
 42149215       Sidiropoulos, Panagiotis Chr                                 GRE M                                1696  0   20 1989  i   
 25802496       Sidiropoulos, Vasilis                                        GRE M             NA                 1933  0   20 2005      
-4208498        Siempos, Konstantinos                                        GRE M             FI                 1913  0   20 1982      
+4208498        Siempos, Konstantinos                                        GRE M                                1913  0   20 1982      
 25829408       Sifogiannakis, Andreas                                       GRE M                                1754  0   20 2005  i   
 25835599       Sifogiannakis, Georgios                                      GRE M                                1440  0   20 1971  i   
 25847147       Sigalas, Christos                                            GRE M                                1498  0   20 2004  i   
@@ -3891,7 +3891,7 @@ ID Number      Name                                                         Fed 
 4257154        Stefanakis, Dimitris                                         GRE M                                1614  0   20 1997  i   
 4265319        Stefanatos, Gerasimos                                        GRE M                                1728  0   20 2001  i   
 4223101        Stefanatos, Nikolaos                                         GRE M                                1916  0   20 1992      
-4207750        Stefanidi, Maria-Anna                                        GRE F   WFM  WFM  SI,FI,SLI          1939  0   20 1986  wi  
+4207750        Stefanidi, Maria-Anna                                        GRE F   WFM  WFM  SI,SLI             1939  0   20 1986  wi  
 42172187       Stefanidis, Christos                                         GRE M                                1404  0   40 2010  i   
 4278577        Stefanidis, Evgenios                                         GRE M                                1508  0   20 2002      
 4287550        Stefanidis, Ioannis                                          GRE M                                1539  0   20 1978  i   
@@ -3954,7 +3954,7 @@ ID Number      Name                                                         Fed 
 25873806       Symeonidis, Theofilos                                        GRE M                                1719  0   20 2002  i   
 25813056       Symigdalas, Andreas                                          GRE M                                1677  0   20 1984  i   
 541004329      Sympas, Anastasios Georgios                                  GRE M                                1683  0   40 2009      
-25828967       Synetos, Dionysios                                           GRE M             NI                 1725  6   20 1989      
+25828967       Synetos, Dionysios                                           GRE M                                1725  6   20 1989      
 541007441      Syngounis, Filippos                                          GRE M                                1784  2   40 2016      
 541018060      Syros, Ioannis                                               GRE M                                1562  0   40 2018      
 4212380        Syros, Loukas                                                GRE M                                1702  0   20 0     i   
@@ -4443,7 +4443,7 @@ ID Number      Name                                                         Fed 
 4210735        Varvadoukas, Theodoros                                       GRE M                                2213  0   20 1988  i   
 42183200       Varvaresos, Dionysios                                        GRE M                                1862  4   40 2011      
 42165962       Varvarigos, Angelos                                          GRE M                                1504  0   20 1995  i   
-4217667        Varveraki, Argiri                                            GRE F             NI                 1633  0   20 1991  wi  
+4217667        Varveraki, Argiri                                            GRE F                                1633  0   20 1991  wi  
 4251474        Varverakis, Konstantinos                                     GRE M                                1680  0   20 1959  i   
 25885340       Varveris, Spyridon                                           GRE M                                1434  0   20 2006  i   
 4274245        Vasarmidis, Eleftherios                                      GRE M                                1481  0   20 0         
@@ -4657,7 +4657,7 @@ ID Number      Name                                                         Fed 
 25879782       Ziomas, Konstantinos Dimitrios                               GRE M                                1838  0   20 2007      
 4276817        Zioviris, Georgios                                           GRE M                            AIM 1787  0   20 1982  i   
 42167850       Zisakos, Orestis                                             GRE M                                1418  0   40 2009  i   
-4262921        Zisiadis, Dimitrios                                          GRE M             FI,FI,FA           1966  0   20 1999      
+4262921        Zisiadis, Dimitrios                                          GRE M             FI,FA              1966  0   20 1999      
 4291336        Zisimatos, S                                                 GRE M                                1647  0   20 0         
 42159016       Zisis, Christoforos I                                        GRE M                                1514  0   20 2000  i   
 25823280       Zisis, Georgios                                              GRE M                                1529  0   20 2005      

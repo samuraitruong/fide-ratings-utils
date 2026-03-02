@@ -1100,7 +1100,7 @@
     "Fed": "NZL",
     "Sex": "M",
     "Title": "",
-    "WTit": "NI,NI,NA",
+    "WTit": "NI,NA",
     "OTit": "",
     "Rating": "1663",
     "Gms": "0",
@@ -10805,7 +10805,7 @@
     "Fed": "NZL",
     "Sex": "M",
     "Title": "CM",
-    "WTit": "FI,FI,NA",
+    "WTit": "FI,NA",
     "OTit": "",
     "Rating": "1834",
     "Gms": "0",
@@ -16005,21 +16005,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "4313127",
-    "Name": "Zhang, Eric",
-    "Fed": "NZL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1528",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "MAR26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "4310012",
     "Name": "Zhang, Eric",
     "Fed": "NZL",
@@ -16032,6 +16017,21 @@
     "K": "40",
     "RatingMonth": "MAR26",
     "B-day": "2012",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "4313127",
+    "Name": "Zhang, Eric",
+    "Fed": "NZL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1528",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "MAR26",
+    "B-day": "2004",
     "Flag": "i"
   },
   {

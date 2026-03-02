@@ -405,7 +405,7 @@ ID Number      Name                                                         Fed 
 54507324       Alferez Grajales, Juan                                       ESP M                                1521  0   20 1950  i   
 32021852       Alferez Valls, Ramon                                         ESP M                                1691  0   20 1961      
 32056575       Alfonso Alvarez, Adrian                                      ESP M                                1662  0   20 1999  i   
-2271532        Alfonso Durban, Xavier                                       ESP M   CM        FI                 2162  0   20 1992      
+2271532        Alfonso Durban, Xavier                                       ESP M   CM                           2162  0   20 1992      
 523056584      Alfonso Gracia, Javier                                       ESP M                                1480  0   40 1969      
 54523516       Alfonso Grandas, Marcos                                      ESP M                                1519  0   40 2007  i   
 24593508       Alfonso Hidalgo, Andres                                      ESP M                                1682  0   20 1965  i   
@@ -475,7 +475,7 @@ ID Number      Name                                                         Fed 
 2267845        Alonso Abad, Enrique                                         ESP M                                1980  0   20 1970      
 54599563       Alonso Agudo, Mario                                          ESP M                                1760  5   40 2008      
 2221560        Alonso Alonso, Ivan                                          ESP M                                2062  0   20 1975      
-2257050        Alonso Alvarez, Aitor                                        ESP M   FM        FT,FT              2139  0   20 1986      
+2257050        Alonso Alvarez, Aitor                                        ESP M   FM        FT                 2139  0   20 1986      
 54570123       Alonso Alvarez, Alvaro                                       ESP M                                1435  0   40 2009  i   
 54570115       Alonso Alvarez, Daniel                                       ESP M                                1424  0   40 2009  i   
 94749574       Alonso Anton, Carlos                                         ESP M                                1702  0   20 1985      
@@ -592,7 +592,7 @@ ID Number      Name                                                         Fed 
 24584924       Altomonte Castilla, Alex                                     ESP M                                1668  0   20 2006  i   
 94743576       Altozano Perez, Sergio                                       ESP M                                1621  0   40 2006      
 22254269       Altuna Iza, Jon                                              ESP M                                1802  0   20 1976      
-2204304        Alvarado Ascanio, Francisco                                  ESP M   CM        FI,SI              2064  0   20 1974      
+2204304        Alvarado Ascanio, Francisco                                  ESP M   CM        SI                 2064  0   20 1974      
 2276119        Alvarado Diaz, Alejandro                                     ESP M   IM                           2423  0   10 1993  i   
 2209179        Alvarez Abejon, Amilcar                                      ESP M                                1960  0   20 1967  i   
 24599948       Alvarez Alba, Diego                                          ESP M             NA                 1801  0   20 1992      
@@ -833,7 +833,7 @@ ID Number      Name                                                         Fed 
 2250756        Andres Flores, Antonio Jose                                  ESP M                                2142  0   20 1973  i   
 54536359       Andres Garre, Adrian                                         ESP M                                1619  4   40 2010      
 2212595        Andres Gonzalez, Alberto                                     ESP M   IM                           2468  0   10 1981      
-2217783        Andres Gonzalez, Ivan                                        ESP M   FM        FT,FT              2292  0   10 1983      
+2217783        Andres Gonzalez, Ivan                                        ESP M   FM        FT                 2292  0   10 1983      
 24580740       Andres Iniguez, Iker                                         ESP M                                1880  0   40 2008  i   
 22267883       Andres Magri, Josep M.                                       ESP M                                1769  0   20 1960      
 2246880        Andres Miguel, Andres                                        ESP M                                1628  0   20 1950      
@@ -970,7 +970,7 @@ ID Number      Name                                                         Fed 
 535060743      Araiztegi Zabaleta, Julen                                    ESP M                                1547  0   40 2012      
 523065249      Arakelyan Simonyan, Levon                                    ESP M                                1483  0   40 2017      
 535011424      Arambula Pena, Neymar Esteban                                ESP M                                1496  0   40 2012  i   
-54516994       Arambulo Urbaneta, Henry Jose                                ESP M             FI                 1781  0   20 1967  i   
+54516994       Arambulo Urbaneta, Henry Jose                                ESP M                                1781  0   20 1967  i   
 24516350       Aramendia Ybarra, Carlota                                    ESP F                                1622  0   20 2005  wi  
 54524512       Arana Almagro, Jose                                          ESP M                                1524  0   20 1966      
 94735212       Arana Fuentes, Juliette Alaia                                ESP F                                1465  3   40 2013  w   
@@ -1440,8 +1440,8 @@ ID Number      Name                                                         Fed 
 94734054       Baladron Arevalo, Angel                                      ESP M                                1422  0   40 2012      
 94734062       Baladron Arevalo, David                                      ESP M                                1643  0   40 2009      
 94734070       Baladron Jimenez, Luis                                       ESP M                                1424  0   20 1974      
-2297914        Balague Camps, Marc                                          ESP M   CM        NI,NI              2180  0   20 1995      
-2266822        Balague Canadell, Jordi                                      ESP M             FI,FI              1973  0   20 1958      
+2297914        Balague Camps, Marc                                          ESP M   CM        NI                 2180  0   20 1995      
+2266822        Balague Canadell, Jordi                                      ESP M             FI                 1973  0   20 1958      
 2269120        Balague Orduna, Enric                                        ESP M                                1861  0   20 1965      
 94762163       Balague Planas, Lluc                                         ESP M                                1504  0   40 2015      
 523004460      Balague Ribalta, Marti                                       ESP M                                1459  0   40 2010  i   
@@ -3058,7 +3058,7 @@ ID Number      Name                                                         Fed 
 94701474       Carbajo Redondo, Raul                                        ESP M                                1493  0   20 1970      
 54712629       Carbajosa Casado, Jose David                                 ESP M                                1807  0   20 1973  i   
 24515450       Carballido Bouzas, Adan                                      ESP M                                1843  0   20 1999      
-22237852       Carballido Mateo, Ignacio                                    ESP M             NI             ACM 1683  0   20 1982      
+22237852       Carballido Mateo, Ignacio                                    ESP M                            ACM 1683  0   20 1982      
 523065338      Carballo Alvarez, Lucas                                      ESP M                                1604  0   40 2010      
 535076771      Carballo Beltran de Guevara, Hermes                          ESP M                                1494  0   40 2012      
 22276408       Carballo Cancela, Manuel                                     ESP M                                2068  0   20 1996  i   
@@ -4659,7 +4659,7 @@ ID Number      Name                                                         Fed 
 94702128       De Prada Quintana, Sara                                      ESP F                                1485  0   20 2007  w   
 54744768       De Prada Quintana, Sofia                                     ESP F                                1582  0   40 2005  wi  
 54705762       De Prada Quintana, Susana                                    ESP F                                1607  0   40 2010  w   
-2203600        De Prado Rodriguez, Oscar Bruno                              ESP M   FM        FT,IA              2199  0   20 1973      
+2203600        De Prado Rodriguez, Oscar Bruno                              ESP M   FM        IA                 2199  0   20 1973      
 94794871       De Querol Rubio, Luis                                        ESP M                                1886  0   20 1998      
 54554934       De Rada Riolobos, Guillermo                                  ESP M                                1520  0   40 2006      
 54518997       De Santiago Gordo, Abel                                      ESP M                                1944  0   20 2003      
@@ -6054,7 +6054,7 @@ ID Number      Name                                                         Fed 
 2218488        Fernandez Palacio, Eduardo                                   ESP M                                1947  0   20 1965      
 32005539       Fernandez Panzano, Jose Juan                                 ESP M                            ACM 1683  0   20 1973  i   
 523087552      Fernandez Parras, David                                      ESP M                                1757  0   40 2011  i   
-22257357       Fernandez Pastor, Luis                                       ESP M             NI                 1914  0   20 1983  i   
+22257357       Fernandez Pastor, Luis                                       ESP M                                1914  0   20 1983  i   
 54788927       Fernandez Pedreira, Alejandro                                ESP M                                1589  0   20 1998      
 24571334       Fernandez Pello-San Roman, Aaron                             ESP M                                1510  0   40 2007  i   
 24571342       Fernandez Pello-San Roman, Danie                             ESP M                                1684  0   20 2003  i   
@@ -6711,7 +6711,7 @@ ID Number      Name                                                         Fed 
 54783151       Galofre Carrasco, Pau                                        ESP M                                1518  0   40 2007  i   
 2292335        Galofre Galofre, Salvador                                    ESP M                                1771  0   20 1970      
 54516196       Galstyan, David                                              ESP M   FM                           2071  0   20 2006      
-32041144       Galvan Cipriani, Viviana                                     ESP F   WFM  WFM  FI                 1981  0   20 2004  w   
+32041144       Galvan Cipriani, Viviana                                     ESP F   WFM  WFM                     1981  0   20 2004  w   
 22267700       Galvan Noda, Jonas                                           ESP M                                1731  0   20 1994  i   
 22287876       Galvan Perez-Ilzarbe, Alejandro                              ESP M                                1831  0   20 2000  i   
 2212447        Galvan Sarmiento, Jose Luis                                  ESP M                                1911  0   20 1957      
@@ -7696,7 +7696,7 @@ ID Number      Name                                                         Fed 
 94798109       Gil Torres, Fernando                                         ESP M                                1636  0   40 1987      
 54790840       Gil Toscano, Pablo                                           ESP M                                1582  0   20 1988      
 94767351       Gil Tur, Biel                                                ESP M                                1422  0   40 2013      
-24579173       Gil Turrion, Ricardo                                         ESP M             NI,NI              1665  0   20 1979      
+24579173       Gil Turrion, Ricardo                                         ESP M             NI                 1665  0   20 1979      
 54794420       Gil Van Gils, Juan Ramon                                     ESP M                            ACM 1653  0   20 1978      
 24583391       Gil Vega, Marcel                                             ESP M                                1940  0   20 1981  i   
 32083360       Gil Vicente, Raquel                                          ESP F                                1609  0   20 2000  wi  
@@ -8998,7 +8998,7 @@ ID Number      Name                                                         Fed 
 2238829        Hernandez Iglesias, Francisco                                ESP M                                2110  0   20 1993      
 32073658       Hernandez Iglesias, Hector                                   ESP M                                1527  0   20 2004  i   
 523094842      Hernandez Koevoet, Samuel                                    ESP M                                1477  0   40 2011  i   
-2272555        Hernandez Leon, Alberto                                      ESP M   FM        FI                 2192  0   20 1990      
+2272555        Hernandez Leon, Alberto                                      ESP M   FM                           2192  0   20 1990      
 2285622        Hernandez Leon, Sergio                                       ESP M   CM                           2128  0   20 1991      
 24575208       Hernandez Lopez, Alberto                                     ESP M                                1980  0   20 1961  i   
 94748110       Hernandez Lopez, Antonio                                     ESP M                                1466  0   40 1972  i   
@@ -9282,7 +9282,7 @@ ID Number      Name                                                         Fed 
 54735807       Huang, Liangzhi                                              ESP M                                1651  0   40 2008      
 32008066       Huarte Zozaya, Aitor                                         ESP M             NA                 1936  0   20 2000  i   
 94778566       Hubmer Ramos, Alexander                                      ESP M                                1458  0   40 2014      
-2268795        Huerga Leache, Mikel                                         ESP M   GM        FT,FT,FA           2380  0   10 1989      
+2268795        Huerga Leache, Mikel                                         ESP M   GM        FT,FA              2380  0   10 1989      
 54753775       Huerta Callejas, Dario                                       ESP M                                1794  0   40 1998      
 535035757      Huerta Cier, Hector Jose                                     ESP M                                1809  0   40 1995      
 24585610       Huerta Llorens, Aleix                                        ESP M                                1517  0   40 2006  i   
@@ -9397,7 +9397,7 @@ ID Number      Name                                                         Fed 
 22224629       Iglesias Garcia, Jorge                                       ESP M                                1978  0   20 1996  i   
 54767156       Iglesias Gomez, Mariano                                      ESP M                                1553  0   40 1971      
 32019602       Iglesias Gonsalvez, Elio                                     ESP M                                1535  0   20 1982      
-94720231       Iglesias Gonzalez, Francisco Javier                          ESP M             DI                 1725  0   20 1997      
+94720231       Iglesias Gonzalez, Francisco Javier                          ESP M                                1725  0   20 1997      
 32094094       Iglesias Gonzalez, Sabela                                    ESP F                                1703  0   20 2002  wi  
 54533112       Iglesias Jimenez, Javier                                     ESP M                                1867  0   20 1965      
 2212544        Iglesias Leon, Francisco Javier                              ESP M                                2057  7   20 1972      
@@ -9651,7 +9651,7 @@ ID Number      Name                                                         Fed 
 535021888      Jimenez Dominguez, Ramses                                    ESP M                                1645  0   40 1991      
 94779295       Jimenez Escudero, Daniel                                     ESP M                                1541  0   40 2012  i   
 22201092       Jimenez Fernandez, Alejandro                                 ESP M                                2057  0   20 1993  i   
-32070934       Jimenez Fernandez, Rebeca                                    ESP F   WFM  WFM  NI                 2048  0   20 2004  w   
+32070934       Jimenez Fernandez, Rebeca                                    ESP F   WFM  WFM                     2048  0   20 2004  w   
 24595888       Jimenez Freniche, David                                      ESP M                                2032  0   40 2010      
 523004010      Jimenez Gallego, Daniel                                      ESP M                                1575  0   40 2006      
 32093802       Jimenez Gallego, Rafael                                      ESP M                                1545  0   20 1951      
@@ -9950,7 +9950,7 @@ ID Number      Name                                                         Fed 
 22216855       Laborda Perez, Jose Antonio                                  ESP M                                1756  0   20 1967  i   
 535035714      Labouyrie, Valentin Julien                                   ESP M                                1526  0   40 2011      
 54578531       Labra Hovhannisyan, Alex                                     ESP M                                1534  0   40 2010  i   
-523004177      Labraca Sanchez, Juan Jose                                   ESP M             SI,DI              1552  0   40 1969      
+523004177      Labraca Sanchez, Juan Jose                                   ESP M             SI                 1552  0   40 1969      
 54555647       Labrado Azcutia, Miguel                                      ESP M                                1537  0   40 2008  i   
 2216337        Lacaci Otero, Ivan                                           ESP M                                1815  0   20 1987  i   
 24589519       Lacamara Pasamar, Miguel                                     ESP M                                1853  0   20 2003  i   
@@ -14747,7 +14747,7 @@ ID Number      Name                                                         Fed 
 54789389       Pereira Angueira, Pablo                                      ESP M                                1699  0   20 2000      
 94746800       Pereira Escontrela, David                                    ESP M                                1474  0   20 1975  i   
 94734402       Pereira Fernandez, Abraham                                   ESP M                                1455  0   40 2015      
-2209667        Pereira Figueroa, Manuel                                     ESP M             FI                 1864  0   20 1959      
+2209667        Pereira Figueroa, Manuel                                     ESP M                                1864  0   20 1959      
 2215420        Pereira Garcia, Josep R.                                     ESP M                                1678  0   20 1960      
 535023767      Pereira Gil, Carlos                                          ESP M                                1719  0   40 1985      
 535036095      Pereira Gonzalez, Ezequiel Nicolas                           ESP M                                1552  0   40 2007      
@@ -16058,7 +16058,7 @@ ID Number      Name                                                         Fed 
 22228900       Recoder Creus, Jordi                                         ESP M                                2004  0   20 1964  i   
 2228424        Recuenco Andres, Javier                                      ESP M                                1860  0   20 1973      
 2255766        Recuero Guerra, David                                        ESP M   IM                           2437  0   10 1991  i   
-2254085        Recuero Guerra, Javier                                       ESP M   FM        FI,FI,FA           2140  0   20 1987      
+2254085        Recuero Guerra, Javier                                       ESP M   FM        FI,FA              2140  0   20 1987      
 32010427       Recuna Aranda, Miguel                                        ESP M                                1843  0   20 1999  i   
 32049196       Recuna Aranda, Xoan                                          ESP M                                1576  0   20 2004      
 32056354       Recuna Carrasco, Rafael                                      ESP M                                1559  0   20 1966      
@@ -16592,7 +16592,7 @@ ID Number      Name                                                         Fed 
 32067798       Rodriguez de Paz, Bastolome                                  ESP M                                1624  0   20 1965  i   
 2263777        Rodriguez De Robles, Ignacio                                 ESP M                                1845  0   20 1967  i   
 24512451       Rodriguez Del Cerro, Ricardo                                 ESP M   CM                           2021  0   20 2003      
-2298988        Rodriguez Del Moral, Angel                                   ESP M             NI,NA          AFM 1851  0   20 1955      
+2298988        Rodriguez Del Moral, Angel                                   ESP M             NA             AFM 1851  0   20 1955      
 2256967        Rodriguez Del Pino, Daniel                                   ESP M                                1892  0   20 1982      
 94709343       Rodriguez Delgado, Joan                                      ESP M                                1681  0   20 1968      
 2216230        Rodriguez Diaz, Alberto Jose                                 ESP M                                1950  0   20 1991  i   
@@ -17431,7 +17431,7 @@ ID Number      Name                                                         Fed 
 24527041       Rumbero Iglesias, Alejandro                                  ESP M                                1567  0   20 2000  i   
 54544980       Rumbo Picazo, Jaime                                          ESP M                                1719  6   40 2011      
 32012799       Runza Rodriguez, David                                       ESP M                                1902  0   20 1997      
-22245049       Ruperez Benito, Antonio                                      ESP M   FM        FI                 2316  0   20 1998      
+22245049       Ruperez Benito, Antonio                                      ESP M   FM                           2316  0   20 1998      
 22297618       Ruperez Benito, Paula                                        ESP F                                1671  0   20 2003  wi  
 22297626       Ruperez Benito, Yaiza                                        ESP F                                1688  0   20 2003  wi  
 523025883      Ruperez Mendez, Yoel                                         ESP M                                1488  0   40 2012      
@@ -19180,7 +19180,7 @@ ID Number      Name                                                         Fed 
 22210610       Tejedor Garcia, Manuel                                       ESP M                                1582  0   20 1950  i   
 523051876      Tejedor Girbes, Miguel                                       ESP M                                1510  0   40 1979      
 54592518       Tejedor Roson, Carlos                                        ESP M                                1474  0   40 2011  i   
-22250778       Tejera Nava, Jose Israel                                     ESP M             NI,NI              1707  0   20 1976  i   
+22250778       Tejera Nava, Jose Israel                                     ESP M             NI                 1707  0   20 1976  i   
 24551899       Tejerina Rincon, Andres                                      ESP M                                1536  0   20 2002  i   
 24551902       Tejerina Rincon, Pablo                                       ESP M                                1573  0   20 2002  i   
 54787890       Tejero Campos, Gerard                                        ESP M                                1655  0   20 2003  i   
@@ -20113,7 +20113,7 @@ ID Number      Name                                                         Fed 
 2257955        Ventas Cosano, David                                         ESP M                                2066  0   20 1984  i   
 94700575       Ventas Fernandez, Alejandro                                  ESP M                                1428  0   40 2007  i   
 54564590       Ventola Castells, Conrad                                     ESP M                                1467  0   20 1944  i   
-22201220       Ventos Alfonso, Alba                                         ESP F             FI                 1856  0   20 1992  wi  
+22201220       Ventos Alfonso, Alba                                         ESP F                                1856  0   20 1992  wi  
 2214326        Ventos Navarro, Liberto                                      ESP M                                1877  0   20 1962      
 24592404       Ventura Alsina, Francesc                                     ESP M                                1637  0   20 1956  i   
 22276092       Ventura Bolet, Alexandre                                     ESP M                                2212  0   20 1999      

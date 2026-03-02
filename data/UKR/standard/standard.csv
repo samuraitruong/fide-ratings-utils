@@ -540,7 +540,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34193154,"Borzenkov, Serhii",UKR,M,,,,1458,0,40,MAR26,1951,i
 14102692,"Borzenkova, Irina",UKR,F,,,,2275,0,40,MAR26,1976,wi
 14110202,"Borzov, Dmitri",UKR,M,,,,2078,0,20,MAR26,1967,i
-14196255,"Bosak, Viktor",UKR,M,,"FI,NA",,1854,0,20,MAR26,1990,i
+14196255,"Bosak, Viktor",UKR,M,,NA,,1854,0,20,MAR26,1990,i
 14149010,"Botsyan, Viktor",UKR,M,,,,1898,0,40,MAR26,1998,i
 14164850,"Boyechko, Oleg",UKR,M,,,,2123,0,20,MAR26,1997,i
 34128360,"Boyko, Artem",UKR,M,,,,1822,0,40,MAR26,2005,i
@@ -788,7 +788,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14170086,"Danyk, Evgenij",UKR,M,,,,1866,0,40,MAR26,1981,i
 34181610,"Danylchenko, Rostislav",UKR,M,,,,1627,0,40,MAR26,1985,
 34181644,"Danylchenko, Vladimir",UKR,M,,,,1641,0,40,MAR26,1961,i
-14120844,"Danylenko, Dmytro",UKR,M,IM,FI,,2396,0,10,MAR26,1994,
+14120844,"Danylenko, Dmytro",UKR,M,IM,,,2396,0,10,MAR26,1994,
 34105743,"Danylyuk, Ivan",UKR,M,,,,1800,0,40,MAR26,1943,i
 34148531,"Danylyuk, Oles",UKR,M,,,,1625,0,40,MAR26,2009,i
 14160927,"Danylyuk, Vasyl",UKR,M,,NA,,2002,0,40,MAR26,1990,i
@@ -2055,7 +2055,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 529005248,"Komar, Roman",UKR,M,,,,1682,0,40,MAR26,1984,
 14155648,"Komarenko, Dmytro",UKR,M,,,,1814,0,20,MAR26,2001,i
 34184627,"Komarevtseva, Mariana",UKR,F,,,,1489,0,40,MAR26,2008,w
-14101270,"Komarov, Dimitri",UKR,M,GM,"FST,FST",,2399,0,10,MAR26,1968,
+14101270,"Komarov, Dimitri",UKR,M,GM,FST,,2399,0,10,MAR26,1968,
 529021570,"Komarov, Mykyta",UKR,M,,,,1665,0,40,MAR26,2017,
 14119803,"Komissarenko, Dmitry",UKR,M,FM,,,2154,0,20,MAR26,1963,i
 34164049,"Komlyk, Dmytro",UKR,M,,,,1632,0,40,MAR26,2011,
@@ -5674,7 +5674,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14160900,"Zhuk, Vassiliy",UKR,M,,,,1698,0,40,MAR26,1936,i
 14160919,"Zhukov, Sergey S",UKR,M,,,,1769,0,40,MAR26,1937,i
 14129892,"Zhukov, Vladimir N.",UKR,M,,,,1839,0,20,MAR26,1953,i
-14101513,"Zhukova, Natalia",UKR,F,GM,WGM,FT,2319,0,10,MAR26,1979,w
+14101513,"Zhukova, Natalia",UKR,F,GM,WGM,,2319,0,10,MAR26,1979,w
 14169363,"Zhukovskyi, Myhaylo",UKR,M,CM,,,2191,0,20,MAR26,2006,
 14169371,"Zhukovskyi, Oleksandr",UKR,M,CM,,,2193,0,20,MAR26,2006,
 14160102,"Zhumyga, Ivan",UKR,M,,,,2018,0,20,MAR26,1985,i

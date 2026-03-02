@@ -243,7 +243,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12403830,"Doan, Thien Thanh",VIE,M,,,,2001,0,40,MAR26,1998,i
 12411736,"Doan, Thuy My Dung",VIE,F,,,,1686,0,20,MAR26,2006,w
 12400335,"Doan, Van Duc",VIE,M,,,,1931,0,20,MAR26,1987,
-12403040,Dong Khanh Linh,VIE,F,WCM,WCM,"FI,NA",1965,0,20,MAR26,2000,w
+12403040,Dong Khanh Linh,VIE,F,WCM,WCM,NA,1965,0,20,MAR26,2000,w
 12400343,"Dong, Bao Nghia",VIE,M,FM,,,2189,0,20,MAR26,1992,i
 12400289,"Dong, Viet Thang",VIE,M,,,,2155,0,40,MAR26,1986,i
 12447978,Duong Gia Bao,VIE,M,,,,1681,0,,MAR26,2014,
@@ -559,7 +559,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12422614,"Le, Tran Minh Nhat",VIE,M,,NA,,1816,0,,MAR26,1990,i
 12418757,"Le, Trung Hieu",VIE,M,,,,1452,0,40,MAR26,2004,i
 12428680,"Le, Truong Nhat Nam",VIE,M,,,,1579,0,40,MAR26,2013,i
-12401153,"Le, Tuan Minh",VIE,M,GM,FT,,2585,0,10,MAR26,1996,
+12401153,"Le, Tuan Minh",VIE,M,GM,,,2585,0,10,MAR26,1996,
 12424862,"Le, Tuan Phong",VIE,M,,,,1658,0,40,MAR26,2010,i
 12420220,"Le, Van Viet",VIE,M,,,,1692,0,20,MAR26,1993,
 12429058,"Le, Vinh Dinh",VIE,M,,,,1740,0,40,MAR26,2009,
@@ -1216,7 +1216,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12411175,"Nguyen, Trong Nhan",VIE,M,,,,1617,0,40,MAR26,2005,i
 12426709,"Nguyen, Trong Thai Duong",VIE,M,,,,1432,0,40,MAR26,2011,i
 12425370,"Nguyen, Trung Duc",VIE,M,,,,1624,0,40,MAR26,2009,i
-12422754,"Nguyen, Trung Dung",VIE,M,,"NI,SI",,1710,0,,MAR26,2000,i
+12422754,"Nguyen, Trung Dung",VIE,M,,SI,,1710,0,,MAR26,2000,i
 12403946,"Nguyen, Trung Hieu",VIE,M,,,,1936,0,40,MAR26,1993,i
 12409820,"Nguyen, Trung Hieu",VIE,M,,,,1758,0,40,MAR26,2003,i
 12404640,"Nguyen, Trung Kien",VIE,M,,,,2046,0,20,MAR26,1989,i
@@ -1348,7 +1348,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12401226,"Pham, Le Thao Nguyen",VIE,F,IM,WGM,,2348,0,10,MAR26,1987,w
 12417726,"Pham, Minh Hieu",VIE,M,,,,1860,7,40,MAR26,2008,
 12400246,"Pham, Minh Hoang",VIE,M,IM,,,2491,0,10,MAR26,1978,i
-12421898,"Pham, Minh Khai",VIE,M,,"NI,SI,NA",,2025,6,40,MAR26,1995,
+12421898,"Pham, Minh Khai",VIE,M,,NA,,2025,6,40,MAR26,1995,
 12400041,"Pham, Ngoc Thanh",VIE,F,WFM,WFM,,2119,0,40,MAR26,1971,wi
 12420050,"Pham, Ngoc Thien Thuy",VIE,F,,,,1705,0,40,MAR26,2006,wi
 12424145,"Pham, Nguyen Tuan Anh",VIE,M,,,,1598,0,40,MAR26,2009,i
@@ -1515,7 +1515,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12423599,Tran Le Vy,VIE,F,WFM,WFM,,1918,0,40,MAR26,2012,w
 12440019,Tran Mai Han,VIE,F,,,,1566,0,40,MAR26,2012,w
 12424471,Tran Mai Xuan Uyen,VIE,F,,,,1596,0,40,MAR26,2010,w
-12401897,Tran Manh Tien,VIE,M,FM,"FI,NA",,2199,0,20,MAR26,1990,
+12401897,Tran Manh Tien,VIE,M,FM,NA,,2199,0,20,MAR26,1990,
 12466360,Tran Minh Bao,VIE,M,,,,1574,0,40,MAR26,2014,
 12458970,Tran Minh Man,VIE,F,,NA,,1794,0,40,MAR26,2003,w
 12433438,Tran Minh Quang,VIE,M,,,,1546,0,40,MAR26,2016,

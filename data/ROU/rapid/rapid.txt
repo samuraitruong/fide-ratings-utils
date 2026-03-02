@@ -558,7 +558,7 @@ ID Number      Name                                                         Fed 
 1251465        Berechet, Eduard Mihai                                       ROU M                                1729  0   20 2007  i   
 1200240        Berechet, Otiliu-Octavian                                    ROU M   IM                           1987  0   10 1962      
 1242393        Berechet, Stefan-Mario                                       ROU M                                1982  0   20 2003      
-1204920        Berescu, Alin-Mile                                           ROU M   GM        FT                 2345  0   10 1980  i   
+1204920        Berescu, Alin-Mile                                           ROU M   GM                           2345  0   10 1980  i   
 1276832        Berezoiu, Luca-Bogdan                                        ROU M                                1471  0   40 2009  i   
 1281739        Berigoi, Adrian                                              ROU M                                1668  0   20 1967  i   
 1200623        Berintan, Teodor                                             ROU M                                1953  0   20 1946  i   
@@ -761,7 +761,7 @@ ID Number      Name                                                         Fed 
 42234743       Brazhenko, Mykola                                            ROU M                                1405  0   40 2015      
 42231515       Brazhenko, Olha                                              ROU F                                1499  0   40 2013  w   
 1200283        Breahna, Radu                                                ROU M   FM                           2133  0   20 1965      
-42216206       Breaz, Adrian                                                ROU M             DI,SI,DI           1776  0   20 1989      
+42216206       Breaz, Adrian                                                ROU M             SI,DI              1776  0   20 1989      
 42215218       Breaz, Albert                                                ROU M                                1600  0   40 2015      
 42217008       Breaz, Arthur                                                ROU M                                1487  0   40 2017      
 42211948       Breazu, Tudor-Ioan                                           ROU M                                1597  0   40 2015  i   
@@ -1088,7 +1088,7 @@ ID Number      Name                                                         Fed 
 1256475        Chiric, David                                                ROU M                                1552  0   20 2006  i   
 42207088       Chiricuta, Ion                                               ROU M                                1795  0   20 1971  i   
 1263862        Chirila, Carmen-Maria                                        ROU F                                1408  0   40 2005  wi  
-1211668        Chirila, Ioan-Cristian                                       ROU M   GM        FST,FST            2489  0   10 1991  i   
+1211668        Chirila, Ioan-Cristian                                       ROU M   GM        FST                2489  0   10 1991  i   
 1291963        Chirila, Robert-Ioan                                         ROU M                                1533  0   40 2006  i   
 42244641       Chirila, Tudor-Ioan                                          ROU M                                1472  0   40 2018      
 1283677        Chirila, Vlad-Mihai                                          ROU M                                1576  0   40 2010  i   
@@ -1383,7 +1383,7 @@ ID Number      Name                                                         Fed 
 1263188        Cosac, Robert-Mihai                                          ROU M                                1734  0   40 2008  i   
 1265342        Cosac, Toma-George                                           ROU M                                1498  0   40 2007  i   
 42202221       Coseraru, Daria Ecaterina                                    ROU F                                1444  0   40 2011  wi  
-1201590        Cosma, Elena-Luminita                                        ROU F   WGM  WGM  FT,IA              2155  0   20 1972  w   
+1201590        Cosma, Elena-Luminita                                        ROU F   WGM  WGM  IA                 2155  0   20 1972  w   
 1200100        Cosma, Ioan                                                  ROU M   IM                           2177  0   10 1965      
 1263196        Cosman, Adrian-Vasile                                        ROU M                                1607  0   20 2006      
 1217968        Cosman, Andreea-Marioara                                     ROU F   WIM  WIM                     2141  6   20 1997  w   
@@ -2674,7 +2674,7 @@ ID Number      Name                                                         Fed 
 42253896       Ionescu, Andrei-Constantin                                   ROU M                                1541  5   40 2015      
 1212192        Ionescu, Bogdan                                              ROU M             SI             AGM 2278  0   20 1983  i   
 1259032        Ionescu, Catalin                                             ROU M                                1555  0   40 1984  i   
-1200860        Ionescu, Cristian-Dan                                        ROU M   FM        FT,FT              2187  0   20 1958  i   
+1200860        Ionescu, Cristian-Dan                                        ROU M   FM        FT                 2187  0   20 1958  i   
 1258346        Ionescu, Dan                                                 ROU M                                1602  0   20 2002  i   
 1277065        Ionescu, Daria S.                                            ROU F                                1567  0   40 2010  w   
 42259444       Ionescu, David-Andrei                                        ROU M                                1428  0   40 2017      
@@ -3286,7 +3286,7 @@ ID Number      Name                                                         Fed 
 42242665       Matei, Octavian-Stefan                                       ROU M                                1484  0   40 2013      
 1227319        Matei, Raul-Cornel                                           ROU M                            AIM 1825  0   20 1997  i   
 1218751        Matei, Stefan-Razvan                                         ROU M             NA                 1860  0   20 1986  i   
-1279165        Matei-Catruna, Andrei                                        ROU M                                1661  0   40 2011      
+1279165        Matei-Catruna, Andrei                                        ROU M                            AFM 1661  0   40 2011      
 42226724       Mateia, Benone-Nicolae                                       ROU M                                1582  0   20 1964  i   
 1259920        Mates, Bettina-Casiana                                       ROU F                                1650  0   20 1999  wi  
 1274830        Mates, David-Demian                                          ROU M                                1522  0   20 2006  i   
@@ -3588,7 +3588,7 @@ ID Number      Name                                                         Fed 
 1242091        Motiu, Victor                                                ROU M                                1789  0   20 2005  i   
 1263439        Motofelea, Alexandru-Catalin                                 ROU M                                1625  0   20 1992  i   
 1207369        Motounu, Vlad-Stefan                                         ROU M                                1932  0   20 1994  i   
-4121830        Motylev, Alexander                                           ROU M   GM        FST,FST            2602  0   10 1979      
+4121830        Motylev, Alexander                                           ROU M   GM        FST                2602  0   10 1979      
 1200151        Mozes, Ervin                                                 ROU M   IM                           2008  6   20 1946      
 1252453        Mudure, Cristiana-Raluca-Maria                               ROU F                                1422  0   20 2003  wi  
 1277294        Muha, Matei                                                  ROU M                                1465  0   40 2010  i   
@@ -4809,7 +4809,7 @@ ID Number      Name                                                         Fed 
 1213504        Sava, Ana-Maria                                              ROU F   WCM  WCM                     1720  0   20 1987  wi  
 1215841        Sava, Bogdan                                                 ROU M                                2061  0   20 1980      
 1213326        Sava, Catalin-Vasile                                         ROU M                                2081  0   20 1983  i   
-1210114        Sava, Christiansen-Danut-Eugen                               ROU M   FM        FT,SI,FT           1958  0   20 1978      
+1210114        Sava, Christiansen-Danut-Eugen                               ROU M   FM        SI,FT              1958  0   20 1978      
 42233682       Sava, Daniel                                                 ROU M                                1655  4   40 2017      
 1215280        Sava, Gabriela-Liliana                                       ROU F                                1932  0   20 1986  wi  
 42204844       Sava, Natalia-Maria                                          ROU F                                1563  0   40 2013  w   
@@ -4906,7 +4906,7 @@ ID Number      Name                                                         Fed 
 42244161       Sfirnaciuc, David                                            ROU M                                1663  7   40 2014      
 42255767       Sfirnaciuc, Elizabeta                                        ROU F                                1454  8   40 2012  w   
 42243203       Sfirnaciuc, Stefania                                         ROU F                                1509  0   40 2007  wi  
-1213776        Sgircea, Silvia-Raluca                                       ROU F   WIM  WIM  FT,FA              2092  0   20 1989  wi  
+1213776        Sgircea, Silvia-Raluca                                       ROU F   WIM  WIM  FA                 2092  0   20 1989  wi  
 42228085       Shah, Ayan-Iosif                                             ROU M                                1449  0   40 2010  i   
 42246180       Shanahan, Brendan-Dan                                        ROU M                                1463  0   40 2012      
 1290185        Shannat, Fady                                                ROU M                                1626  0   20 1989  i   
@@ -5051,7 +5051,7 @@ ID Number      Name                                                         Fed 
 1268732        Stan, Vlad-Stefan G.                                         ROU M                                1459  0   20 2007  i   
 42218985       Stana, Andrei                                                ROU M                                1420  0   40 2011      
 42219540       Stana, Rares-Andrei                                          ROU M                                1557  0   40 2013      
-1205013        Stanca, Adrian                                               ROU M             FI,FI              2070  0   20 1976  i   
+1205013        Stanca, Adrian                                               ROU M             FI                 2070  0   20 1976  i   
 1296329        Stancea, Ioan-Octavian                                       ROU M                                1471  0   40 2010  i   
 42205808       Stanci, David-Dacian                                         ROU M                                1791  5   40 2009      
 1239996        Stancioiu, Andrei-Calin                                      ROU M                                1751  0   20 1976  i   
@@ -5865,7 +5865,7 @@ ID Number      Name                                                         Fed 
 42224403       Voicu, Stefan                                                ROU M                                1651  0   40 2014      
 42202868       Voicu, Stefan-Constantin                                     ROU M                                1480  0   40 2011  i   
 1248650        Voicu, Teodor-Mihnea                                         ROU M   CM                           2200  0   20 2006      
-1206729        Voicu-Jagodzinsky, Carmen                                    ROU F   WGM  WGM  FT,FT              2199  0   20 1981  w   
+1206729        Voicu-Jagodzinsky, Carmen                                    ROU F   WGM  WGM  FT                 2199  0   20 1981  w   
 1218077        Voiculescu, Florin                                           ROU M                                1887  0   20 1958  i   
 42210070       Voiculescu, Vlad-Alexandru                                   ROU M                                1519  0   40 2007  i   
 42215510       Voinea, Eduard-Stefan                                        ROU M                                1620  0   40 2014      

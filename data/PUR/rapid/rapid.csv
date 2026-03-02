@@ -71,7 +71,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3103226,"Deliz Quinones, Hector J.",PUR,M,,,,1941,0,20,MAR26,1976,i
 3108244,"Deya Jusino, Gilberto",PUR,M,,NA,,1639,0,40,MAR26,1994,i
 3105164,"Diaz Acevedo, Isis N.",PUR,F,,,,1691,0,20,MAR26,2003,wi
-3100715,"Diaz Montes, Edwin",PUR,M,CM,FI,,1952,0,20,MAR26,1989,
+3100715,"Diaz Montes, Edwin",PUR,M,CM,,,1952,0,20,MAR26,1989,
 3112861,"Done Sanchez, Andrews J.",PUR,M,,,,1772,0,40,MAR26,2008,
 3116190,"Duran Torres, Alejandro",PUR,M,,,,1477,0,40,MAR26,2013,
 3114368,"Estrada Nieves, Chloe A.",PUR,F,,,,1502,0,40,MAR26,2014,w
@@ -265,7 +265,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3100022,"Sosa Trani, Luis A.",PUR,M,FM,,,1916,0,20,MAR26,1958,i
 3100170,"Sotelo Kohama, Daniel",PUR,M,,,,2026,0,20,MAR26,1975,i
 3104095,"Soto Flores, Jose Noel",PUR,M,,,,1960,0,20,MAR26,1969,i
-3102254,"Soto Gonzalez, Ismael R.",PUR,M,,"FI,IA",,1848,0,20,MAR26,1976,i
+3102254,"Soto Gonzalez, Ismael R.",PUR,M,,IA,,1848,0,20,MAR26,1976,i
 3107787,"Soto Roman, Luis A.",PUR,M,,,,1689,0,40,MAR26,2001,i
 3105202,"Suarez Figueroa, Carlos U.",PUR,M,,,,1588,0,20,MAR26,2002,i
 3101304,"Suarez Rosa, Angel E.",PUR,M,,,,1913,0,20,MAR26,1974,
@@ -291,7 +291,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3107728,"Vazquez Colon, Jaime A.",PUR,M,,,,1856,0,20,MAR26,1965,i
 3101193,"Vazquez Maccarini, Danitza",PUR,F,FM,WIM,,2045,0,20,MAR26,2000,wi
 3113450,"Vazquez Otero, Kiara L.",PUR,F,,,,1491,0,40,MAR26,2008,w
-3101851,"Vega Jimenez, Keyshla M.",PUR,F,WCM,WCM,"FI,SI",1783,0,20,MAR26,1992,w
+3101851,"Vega Jimenez, Keyshla M.",PUR,F,WCM,WCM,SI,1783,0,20,MAR26,1992,w
 4401328,"Velasco, Santiago",PUR,M,FM,,,2260,0,20,MAR26,1978,i
 3105423,"Velazquez Hernandez, Yan C.",PUR,M,,,,1804,0,20,MAR26,1981,i
 3105474,"Velazquez Rivera, Pedro J.",PUR,M,,SI,,1795,0,20,MAR26,1985,i

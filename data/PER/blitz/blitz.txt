@@ -254,7 +254,7 @@ ID Number      Name                                                         Fed 
 3847683        Arevalo Tito, Roosewelt Anthony                              PER M                                1699  0   20 2001  i   
 3871274        Argamonte Robles, Lisseth Yurhii                             PER F                                1440  0   40 2008  wi  
 81462816       Arias Espichan, Geraldo Mathias                              PER M                                1476  0   40 2010      
-3800660        Arias Gaviria, Mario Alexis                                  PER M   FM        SI,FT,AO,IO,LSI,    2193  2   20 1995      
+3800660        Arias Gaviria, Mario Alexis                                  PER M   FM        SI,AO,IO,LSI,IA    2193  2   20 1995      
 3835081        Arias Llanto, Eros Paulo Miguel                              PER M                                1687  0   20 1999  i   
 81423772       Arias Lomparte Paz, Yuany Steffano                           PER M                                1617  0   20 2005      
 3868214        Arias Ochoa, Adriana Maddyel                                 PER F                                1508  0   40 2008  wi  
@@ -297,7 +297,7 @@ ID Number      Name                                                         Fed 
 3834077        Ascue Alagon, Boris                                          PER M                                1920  0   20 1971  i   
 3869903        Astete Umeres, Americo                                       PER M                                1464  0   20 1993  i   
 3869911        Astete Umeres, Antoni                                        PER M                                1576  0   20 1990  i   
-3829197        Asto Enciso, Noe                                             PER M             NI,FA              1773  0   20 1986  i   
+3829197        Asto Enciso, Noe                                             PER M             FA                 1773  0   20 1986  i   
 3880796        Astoyauri De la Cruz, Fernando Isaac                         PER M   CM                           1882  10  40 2011      
 3875474        Astucuri Leon, Christian                                     PER M                                1839  0   20 2001      
 3881784        Atajo Sucasaca, Dayron Jhampier                              PER M                                1512  0   40 2008  i   
@@ -829,7 +829,7 @@ ID Number      Name                                                         Fed 
 3845702        Chirinos Mego, Roberto Carlos                                PER M                                1745  0   20 1986  i   
 3889556        Chomlon Perales, Cesar                                       PER M                                1537  0   20 1988  i   
 3805093        Chong Chinchay, Eric Joel                                    PER M                                2014  0   20 1999  i   
-3834808        Chong Sanchez, Jose Luis                                     PER M             NI                 1784  0   20 1980  i   
+3834808        Chong Sanchez, Jose Luis                                     PER M                                1784  0   20 1980  i   
 3874869        Choque Aparco, Esteban Abel                                  PER M                                1745  0   40 2010      
 3885984        Choque Aroapaza, Hugo Cesar                                  PER M                                1441  0   20 2007  i   
 3857603        Choque Duenas, Jhoel                                         PER M                                1481  0   40 2009  i   
@@ -930,7 +930,7 @@ ID Number      Name                                                         Fed 
 3873498        Condori Quispe, Leysi Azucena                                PER F                                1422  0   40 2011  w   
 81452446       Condori Quispe, Luis Daniel                                  PER M                                1441  0   40 2012  i   
 3850471        Condori Ramirez, Dilan Smit                                  PER M                                1643  0   40 2010  i   
-3801128        Condori, Edwin                                               PER M             FI                 1882  14  20 1973      
+3801128        Condori, Edwin                                               PER M                                1882  14  20 1973      
 3807045        Condori, Nestor                                              PER M                                1782  0   20 0         
 81435533       Congona Apaza, Yeyka                                         PER F                                1495  0   40 2011  wi  
 3816486        Congrains Diaz, Adrian Francisco                             PER M                                2157  0   20 1994  i   
@@ -1375,7 +1375,7 @@ ID Number      Name                                                         Fed 
 3802906        Gallo Ponce, Elbert                                          PER M   FM                           1981  0   20 1958      
 3889670        Gallo Torres, Dante Jim Randal                               PER M                                1654  0   20 1996  i   
 81457359       Galoc Dominguez, Jose Alfonso                                PER M                                1484  0   40 2014      
-3800458        Galvan, Jesus                                                PER M   FM        FT                 2103  0   20 1975  i   
+3800458        Galvan, Jesus                                                PER M   FM                           2103  0   20 1975  i   
 3880818        Galvez Calcina, Enzo Mathias                                 PER M                                1463  0   40 2012  i   
 3890066        Galvez Chuctaya, Alvaro Sebastian                            PER M                                1509  0   40 2013  i   
 3844285        Galvez Hidalgo, Arian Abner                                  PER M                                1426  0   40 2011      
@@ -1889,7 +1889,7 @@ ID Number      Name                                                         Fed 
 81454490       Llagas Zegarra, Analucia                                     PER F                                1410  0   40 2009  w   
 3822044        Llamoca Mansilla, Cesar David                                PER M             NA                 1687  0   20 2003  i   
 3870278        Llano Tacca, Gabriel Jose                                    PER M                                1729  0   40 2008  i   
-3818853        Llanos Rojas, Jorge                                          PER M             NI,SI,NA       AGM 1960  0   20 1998  i   
+3818853        Llanos Rojas, Jorge                                          PER M             SI,NA          AGM 1960  0   20 1998  i   
 3852016        Llanto Llacsa, Yaden Wilden                                  PER M                                1930  0   40 2009      
 81479468       Llasa Condori, Edson Aldahir                                 PER M                                1468  0   20 2000      
 3876578        Llatas Parihuaman, Jose Maria                                PER M                                1879  0   40 2013      
@@ -1984,7 +1984,7 @@ ID Number      Name                                                         Fed 
 3860493        Luza Chura Marco Adriano                                     PER M                                1749  6   40 2010      
 81475950       Lyamouri, Mickael Mehdi                                      PER M                                1561  0   20 1992      
 3897958        Maccapa Salas, Josue Jossemir                                PER M                                1422  0   40 2009  i   
-3820947        Maceda Espinoza, Christian                                   PER M             FI                 1868  0   20 0         
+3820947        Maceda Espinoza, Christian                                   PER M                                1868  0   20 0         
 3809447        Maceda Velasquez, Roberto                                    PER M             SI                 1906  7   20 1969      
 3831124        Machaca Chambilla, Noe                                       PER M                                1729  0   20 1999  i   
 3814734        Machaca Fernandez, Luis                                      PER M                                1866  0   20 2000  i   
@@ -2541,7 +2541,7 @@ ID Number      Name                                                         Fed 
 3876870        Palacios Zamalloa, Lucca Stefano                             PER M                                1419  0   40 2011  i   
 3801225        Palacios, Efrain                                             PER M                                1975  14  20 1969      
 3818292        Palacios, Luis                                               PER M                                1763  0   20 0         
-3805204        Palao, Adriana                                               PER F   WCM  WCM  FI                 1946  0   20 2001  w   
+3805204        Palao, Adriana                                               PER F   WCM  WCM                     1946  0   20 2001  w   
 3846776        Palermo Camasca, Giuseppe Gervassio                          PER M                                1685  0   20 2001  i   
 81481314       Pallete Saavedra, Caleb Isaac                                PER M                                1405  0   40 2009      
 81482736       Palma Hurtado, Joseph Jayco                                  PER M                                1606  0   40 2009      
@@ -3827,7 +3827,7 @@ ID Number      Name                                                         Fed 
 81457782       Yucra Condori, Geancarlos Matias                             PER M                                1415  0   40 2012      
 81468415       Yucra Davila, Kamil Yahel                                    PER M                                1481  10  40 2013      
 81478305       Yucra Joaquin, Thiago Javier                                 PER M                                1638  0   40 2014      
-3850617        Yucra Ortiz, Waldir Manuel                                   PER M             NI                 1696  0   20 1996  i   
+3850617        Yucra Ortiz, Waldir Manuel                                   PER M                                1696  0   20 1996  i   
 81418000       Yugra Kelca, Alessandro Joaquin                              PER M                                1486  34  40 2016      
 81456972       Yupa Gonzales, Iker Enrique                                  PER M                                1621  0   40 2011      
 3831469        Yupanqui Ayra, Nicoctavio Jesus                              PER M                                1753  0   20 2001  i   

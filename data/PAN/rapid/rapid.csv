@@ -69,7 +69,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6627129,"Camara Lucas, Allen",PAN,M,,,,1432,0,40,MAR26,2012,
 6633528,"Camargo Gongora, Josue Emmanuel",PAN,M,,,,1429,0,40,MAR26,2013,
 6611320,"Camargo Silva, Samir",PAN,M,,,,1956,0,40,MAR26,2009,
-6621252,"Campos Alonso, Juan Luis",PAN,M,,"NI,NI",,1479,6,40,MAR26,1975,
+6621252,"Campos Alonso, Juan Luis",PAN,M,,NI,,1479,6,40,MAR26,1975,
 6634079,"Campos Herrera, Rafael Elias",PAN,M,,,,1670,0,40,MAR26,2008,
 6617883,"Campos Mendieta, Luis Fernando",PAN,M,,,,1507,6,40,MAR26,2013,
 6634001,"Campos Teran, Edgar Abdiel",PAN,M,,,,1488,0,40,MAR26,2008,
@@ -81,7 +81,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6600549,"Carrera Du Bois, Alhan E.",PAN,M,,,,1884,0,20,MAR26,1994,i
 6600611,"Carrera Ortega, Alhan Enock",PAN,M,,,,1886,0,20,MAR26,1967,
 6606369,"Carrera Saldana, Rommel Abdiel",PAN,M,,FA,,1628,0,20,MAR26,2003,i
-3911853,"Carrillo Marval, Maria Angelica",PAN,F,WCM,WCM,"NI,FI,SI,FA",1824,0,20,MAR26,1991,w
+3911853,"Carrillo Marval, Maria Angelica",PAN,F,WCM,WCM,"NI,SI,FA",1824,0,20,MAR26,1991,w
 6600476,"Carrillo, Jose Antonio",PAN,M,,,,1886,0,20,MAR26,1975,i
 6615457,"Castiblanco Cardenas, Camilo",PAN,M,,,,1433,0,40,MAR26,2012,i
 6617468,"Castiblanco Castano, Emerson",PAN,M,,,,1588,0,40,MAR26,1984,i
@@ -215,7 +215,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6600344,"Gonzalez Ramirez, Yaribeth",PAN,F,WCM,WCM,FA,1819,0,20,MAR26,1986,wi
 6608612,"Gonzalez Rodriguez, Ernesto",PAN,M,,,,1485,0,40,MAR26,1999,i
 6608620,"Gonzalez Rodriguez, Genesis",PAN,F,,,,1444,0,40,MAR26,2008,wi
-3910288,"Gonzalez Soto, Pedro Jose",PAN,M,,"NI,FA",,1896,0,20,MAR26,1988,
+3910288,"Gonzalez Soto, Pedro Jose",PAN,M,,FA,,1896,0,20,MAR26,1988,
 6613144,"Gonzalez Weliz, Elias Jose",PAN,M,,,,1621,0,20,MAR26,2000,i
 6611087,"Gonzalez Weliz, Ivan",PAN,M,,,,1702,0,20,MAR26,2003,i
 6611079,"Gonzalez Weliz, Joseph",PAN,M,,,,1649,0,20,MAR26,2006,
@@ -256,7 +256,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6615767,"Inocente Covaleda, Luis Gabriel",PAN,M,,,,1615,0,40,MAR26,2004,i
 6607233,"Jaramillo Andrade, Ezequiel Enoc",PAN,M,,,,1594,0,20,MAR26,2000,i
 6633293,"Jarrin Zhang, Dominick Yong Heng",PAN,M,,,,1527,2,40,MAR26,2015,
-6601723,"Jenkins Bonilla, Esteban Antonio",PAN,M,,NI,,1886,0,20,MAR26,1991,
+6601723,"Jenkins Bonilla, Esteban Antonio",PAN,M,,,,1886,0,20,MAR26,1991,
 6613977,"Jimenez Giron, Alexander Abraham",PAN,M,,,,1744,0,40,MAR26,2006,i
 6602410,"Jimenez Molina, Pedro",PAN,M,,NA,,1887,0,20,MAR26,1999,i
 6621104,"Joaquinez Monzon, Lilibeth Thais",PAN,F,,,,1438,5,20,MAR26,1982,w
@@ -376,7 +376,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6634842,"Osorio Castillo, Noemi Del Carmen",PAN,F,,,,1676,6,40,MAR26,2015,w
 6613071,"Outten Bermudez, Carlos Arturo",PAN,M,,,,1685,0,20,MAR26,2007,
 6613080,"Outten Bermudez, Luis Carlos",PAN,M,,,,1466,0,40,MAR26,2010,
-6600387,"Padilla Morales, Alvaro Isaac",PAN,M,CM,NI,,1967,0,20,MAR26,1968,
+6600387,"Padilla Morales, Alvaro Isaac",PAN,M,CM,,,1967,0,20,MAR26,1968,
 6618294,"Padilla Morales, Jose",PAN,M,,,,1509,0,40,MAR26,1960,
 6631452,"Palacio Rodriguez, Calixto",PAN,M,,,,1640,0,40,MAR26,2010,i
 6631398,"Palacio Rodriguez, Lucas",PAN,M,,,,1681,0,40,MAR26,2012,i
@@ -466,7 +466,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3508684,"Sanchez Alvarez, Roberto Carlos",PAN,M,IM,,,2391,0,10,MAR26,1987,
 6633978,"Sanchez Avila, Luis Alberto",PAN,M,,,,1499,0,40,MAR26,2007,i
 6601030,"Sanchez Bermudez, Rogelio Oscar",PAN,M,CM,,,1883,0,20,MAR26,1987,
-6600280,"Sanchez Manzanares, Jorge Luis",PAN,M,FM,"FI,FT",,2042,0,20,MAR26,1982,
+6600280,"Sanchez Manzanares, Jorge Luis",PAN,M,FM,FI,,2042,0,20,MAR26,1982,
 6604706,"Sanchez Ochoa, Justo Emilio",PAN,M,,SI,,1601,0,40,MAR26,1971,
 6635350,"Sanchez Rios, Sebastian Alexander",PAN,M,,,,1730,0,40,MAR26,2008,
 6600417,"Sanjur Ruiz, Crescencio de los Reyes",PAN,M,,,,1754,6,20,MAR26,1967,

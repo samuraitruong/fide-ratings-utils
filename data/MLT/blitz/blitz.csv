@@ -20,7 +20,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5602920,"Bonnici, Kyle",MLT,M,,,,1673,0,20,MAR26,1992,i
 5605784,"Borda, Matthias",MLT,M,,,,1580,7,40,MAR26,2012,
 5605717,"Borg Barthet, Jacques",MLT,M,,,,1467,0,40,MAR26,2013,i
-5600065,"Borg, Andrew",MLT,M,FM,FI,,2117,0,20,MAR26,1962,i
+5600065,"Borg, Andrew",MLT,M,FM,,,2117,0,20,MAR26,1962,i
 5605709,"Borg, Nikol",MLT,M,,,,1520,0,40,MAR26,2017,
 5604737,"Briffa, Zachary",MLT,M,,,,1686,23,40,MAR26,2011,
 5602840,"Brown, Paul",MLT,M,,,,1690,0,20,MAR26,1974,i
@@ -101,7 +101,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 727067,"Novak, Attila Robert",MLT,M,CM,"SI,NA",,2072,0,20,MAR26,1984,
 5605067,"Ozsoy, Ozgun",MLT,M,,,,1400,0,40,MAR26,2015,
 5605512,"Ozsoy, Ozkan",MLT,M,,,,1497,0,20,MAR26,1978,
-5600189,"Pace, Colin",MLT,M,CM,FI,,2024,0,20,MAR26,1979,
+5600189,"Pace, Colin",MLT,M,CM,,,2024,0,20,MAR26,1979,
 5604206,"Pace, Dante",MLT,M,,,,1421,0,40,MAR26,2011,
 5605555,"Padron Gonzalez, Alexander Ariel",MLT,M,,,,1617,0,20,MAR26,1991,i
 6363318,"Pala, Onurcan",MLT,M,,,,1831,0,20,MAR26,1991,
@@ -142,12 +142,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5604478,"Strojek, Lars",MLT,M,,,,1596,0,40,MAR26,2010,i
 5602947,"Thake, Conrad",MLT,M,CM,,,1822,0,20,MAR26,1963,
 5603129,"Thekow, Marc",MLT,M,,,,1494,0,20,MAR26,1985,i
-5600464,"Thornton, Filipina",MLT,F,WFM,WFM,"FI,NA",1744,0,20,MAR26,1977,w
+5600464,"Thornton, Filipina",MLT,F,WFM,WFM,NA,1744,0,20,MAR26,1977,w
 5602637,"Thornton, Hayley",MLT,F,,,,1502,0,40,MAR26,2011,w
 5602858,"Turin, Laurent",MLT,M,,,,1689,0,20,MAR26,1984,i
 5400120,"Unger, Manfred",MLT,M,,,,1998,0,20,MAR26,1963,
 5602670,"Vassallo, Andrea Karl",MLT,M,,,,1573,0,20,MAR26,1999,i
-5600243,"Vella, Duncan",MLT,M,CM,"FI,SI,IA",,1873,0,20,MAR26,1971,i
+5600243,"Vella, Duncan",MLT,M,CM,"SI,IA",,1873,0,20,MAR26,1971,i
 5604613,"Vella, Wayne",MLT,M,,,,1455,0,40,MAR26,2011,i
 503070,"Verkasalo, Tommi",MLT,M,FM,,,2078,0,20,MAR26,1982,i
 5605180,"Wang, Fanrui",MLT,M,,,,1491,0,40,MAR26,2016,

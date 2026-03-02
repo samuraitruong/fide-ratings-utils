@@ -104,7 +104,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7400454,"Edwards, Alethia",JAM,F,,,,1721,0,40,MAR26,1993,wi
 7402040,"Edwards, Dujean",JAM,M,,,,1770,0,40,MAR26,1989,i
 7406258,"Edwards, Zuberi",JAM,M,,,,1694,0,40,MAR26,2009,
-7400179,"Elliott, Warren",JAM,M,FM,FT,,2218,0,20,MAR26,1979,i
+7400179,"Elliott, Warren",JAM,M,FM,,,2218,0,20,MAR26,1979,i
 7400829,"Ellis, Andrew",JAM,M,,,,1890,0,40,MAR26,1994,i
 7402953,"Ellis, Rahjay",JAM,M,,,,1693,0,20,MAR26,2000,i
 7418299,"Evans, Dovado",JAM,M,,,,1453,18,40,MAR26,1996,
@@ -206,7 +206,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7406720,"Lodge, Odane",JAM,M,,,,1660,0,20,MAR26,1996,
 7407190,"Logan, Liam",JAM,M,,,,1585,0,40,MAR26,2012,
 7400810,"Lord, John",JAM,M,,,,1870,0,40,MAR26,1998,i
-7400330,"Lorne, Ras Malaku",JAM,M,FM,"FI,SI",,2038,0,20,MAR26,1984,i
+7400330,"Lorne, Ras Malaku",JAM,M,FM,SI,,2038,0,20,MAR26,1984,i
 7402473,"Lungrin, Rashade",JAM,M,,,,1852,0,20,MAR26,2002,i
 7402210,"Lyn, Anthony",JAM,M,CM,,,1594,0,20,MAR26,2007,i
 7402775,"Lyn, Christopher",JAM,M,,,,1826,0,20,MAR26,2002,i
@@ -286,7 +286,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7400314,"Ramsay, Zachary",JAM,M,,,,1945,0,20,MAR26,1990,i
 7404875,"Richards, Jaleel",JAM,M,,,,1616,0,40,MAR26,1996,
 7402635,"Richards, Shaheem",JAM,M,,SI,,1792,0,20,MAR26,2003,
-7400446,"Richards-Porter, Deborah",JAM,F,WIM,WIM,"LSI,FI",2053,0,20,MAR26,1985,wi
+7400446,"Richards-Porter, Deborah",JAM,F,WIM,WIM,LSI,2053,0,20,MAR26,1985,wi
 7403291,"Roberts, Rohan",JAM,M,,,,1821,0,20,MAR26,2000,i
 7402937,"Robinson, Andrew",JAM,M,,,,1794,0,40,MAR26,1986,i
 7407432,"Robinson, John A",JAM,M,,,,1529,0,40,MAR26,2007,
@@ -331,7 +331,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7407130,"Smith, Samuel",JAM,M,,,,1685,14,20,MAR26,2002,
 7400713,"Smith, Shreyas",JAM,M,FM,SI,,2272,10,20,MAR26,1996,
 7401132,"Soares, Andre",JAM,M,,,,1825,0,20,MAR26,1981,i
-7400381,"Solomon, Mikhail",JAM,M,,FI,,1982,0,20,MAR26,1987,i
+7400381,"Solomon, Mikhail",JAM,M,,,,1982,0,20,MAR26,1987,i
 7407114,"Spaulding, Ksenia",JAM,F,,,,1453,0,40,MAR26,2009,wi
 7409109,"Spence, Jovani",JAM,M,,,,1632,2,40,MAR26,2007,
 7401736,"Steadman, Tevanio",JAM,M,,,,1930,0,,MAR26,1997,

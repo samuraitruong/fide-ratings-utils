@@ -383,7 +383,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4685172,"Ball, Joerg",GER,M,,,,1908,0,20,MAR26,1965,
 34679804,"Baller, Torsten",GER,M,,,,1754,0,20,MAR26,1964,
 34696520,"Ballmann, Florian",GER,M,,,,1832,0,40,MAR26,2010,
-12979090,"Baltic, Fatih",GER,M,FM,FI,,2188,0,20,MAR26,2002,
+12979090,"Baltic, Fatih",GER,M,FM,,,2188,0,20,MAR26,2002,
 16210409,"Baltic, Sara",GER,F,,,,1705,0,20,MAR26,2006,wi
 4689917,"Bamberg, Alexander",GER,M,,,,1989,0,20,MAR26,1975,i
 34641220,"Bamberger, Alberto",GER,M,,,,1772,0,20,MAR26,1969,i
@@ -599,7 +599,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34692274,"Benz, Johann",GER,M,,,,1741,0,20,MAR26,1951,i
 533015481,"Berberyan, Ara",GER,M,,,,1847,0,20,MAR26,1985,i
 24641120,"Berchtenbreiter, Maximilian",GER,M,IM,,,2466,0,10,MAR26,1994,
-14101440,"Berelowitsch, Alexander",GER,M,GM,FT,,2463,0,10,MAR26,1967,i
+14101440,"Berelowitsch, Alexander",GER,M,GM,,,2463,0,10,MAR26,1967,i
 533069573,"Berezhnyi, Mykhailo",GER,M,,,,1552,0,40,MAR26,2011,
 4617290,"Berg, Daniel",GER,M,,,,2142,0,20,MAR26,1969,i
 4651537,"Berg, Dietmar",GER,M,,,,2039,0,20,MAR26,1961,i
@@ -774,7 +774,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 533013829,"Blochmann, Albrecht",GER,M,,,,1638,0,20,MAR26,2003,
 16245792,"Block, Jan",GER,M,,,,1947,0,20,MAR26,1968,i
 16201116,"Block, Timo",GER,M,,,,1870,0,20,MAR26,2004,i
-24696790,"Blodig, Constantin",GER,M,,FT,,2069,0,20,MAR26,1994,
+24696790,"Blodig, Constantin",GER,M,,,,2069,0,20,MAR26,1994,
 12963674,"Blodig, Lena",GER,F,,,,1809,0,20,MAR26,1996,wi
 4607597,"Blodig, Reinhard",GER,M,,,,1978,0,20,MAR26,1952,i
 16223632,"Blodig, Samuel",GER,M,,NA,,1726,11,20,MAR26,2004,
@@ -988,7 +988,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4663527,"Braun, Arik",GER,M,GM,,,2535,0,10,MAR26,1988,i
 24656968,"Braun, Arnd",GER,M,,,,1827,0,20,MAR26,1962,i
 12913529,"Braun, Burkhard",GER,M,,,,1783,0,20,MAR26,1957,
-4692098,"Braun, Christian",GER,M,IM,"FT,FT",,2384,0,10,MAR26,1986,i
+4692098,"Braun, Christian",GER,M,IM,FT,,2384,0,10,MAR26,1986,i
 16274075,"Braun, Christian",GER,M,,,,1827,0,20,MAR26,1971,i
 24629383,"Braun, Georg, Dr.",GER,M,FM,,,2328,0,10,MAR26,1994,
 4683846,"Braun, Hans-Jochen",GER,M,,,,1982,15,20,MAR26,1964,
@@ -1057,12 +1057,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4612256,"Broemel, Richard",GER,M,,,,2030,0,20,MAR26,1958,
 16292430,"Broemmel, Rudolf",GER,M,,,,1976,0,20,MAR26,1969,
 533058482,"Broghammer, Luca Francesco",GER,M,,,,1626,0,20,MAR26,2002,
-12931543,"Broksch, Dirk",GER,M,,FI,,1825,0,20,MAR26,1980,
+12931543,"Broksch, Dirk",GER,M,,,,1825,0,20,MAR26,1980,
 34676635,"Bromberg, Ben",GER,M,,,,1458,0,40,MAR26,2013,i
 16269063,"Broncel, Kevin",GER,M,,NA,,1923,0,20,MAR26,2004,i
 4638638,"Broschwitz, Martin",GER,M,,,,2082,0,20,MAR26,1972,i
 4637631,"Brosig, Boris",GER,M,CM,,,2139,0,20,MAR26,1975,
-4666275,"Broszeit, Peter",GER,M,,FI,,1928,0,20,MAR26,1962,
+4666275,"Broszeit, Peter",GER,M,,,,1928,0,20,MAR26,1962,
 533068763,"Brown, Takon Ashu",GER,M,,,,1511,0,20,MAR26,2000,
 12984019,"Browning, Alex",GER,M,FM,FI,,2309,0,20,MAR26,2001,
 12984027,"Browning, Rebecca",GER,F,,"NI,NI",,1992,0,20,MAR26,2001,w
@@ -1234,7 +1234,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 16243846,"Carda, Christian Michael",GER,M,,,,1725,0,20,MAR26,2003,i
 16243803,"Carda, Irene",GER,F,,,,1797,0,20,MAR26,1970,wi
 16207521,"Carlstedt, Felicitas Ophelia",GER,F,,,,1858,0,20,MAR26,1998,wi
-24614386,"Carlstedt, Jonathan",GER,M,IM,FI,,2357,0,10,MAR26,1990,
+24614386,"Carlstedt, Jonathan",GER,M,IM,,,2357,0,10,MAR26,1990,
 34601155,"Carmesin, Leon Lucas Finn",GER,M,,,,1899,0,20,MAR26,2003,i
 12958964,"Carnot, Luca",GER,M,,,,2000,0,20,MAR26,1999,i
 24692050,"Carow, Johannes, Dr.",GER,M,IM,,,2501,0,10,MAR26,1996,
@@ -2037,7 +2037,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12917800,"Fetzner, Frank",GER,M,,,,1822,0,20,MAR26,1968,i
 4681932,"Feuerstack, Aljoscha",GER,M,IM,,,2452,29,10,MAR26,1988,
 356284785,"Feuerstein, Mario",GER,M,,,,1807,0,20,MAR26,1969,i
-14103109,"Feygin, Michael",GER,M,GM,FT,,2442,0,10,MAR26,1975,i
+14103109,"Feygin, Michael",GER,M,GM,,,2442,0,10,MAR26,1975,i
 16254309,"Fiala, Marco",GER,M,,NA,,1932,27,20,MAR26,2003,
 24695513,"Fibich, Jascha",GER,M,,,,1941,0,20,MAR26,1995,
 24607886,"Fichte-Rath, Alina",GER,F,CM,,,1971,0,20,MAR26,1988,w
@@ -2467,7 +2467,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34643206,"Gesell, Fabian",GER,M,,,,1731,0,20,MAR26,2007,i
 4696743,"Gesing, Felix",GER,M,,,,2206,0,20,MAR26,1984,
 4663047,"Gesing, Oliver",GER,M,,,,1994,0,20,MAR26,1964,
-24605263,"Geske, Julian",GER,M,IM,FT,,2345,0,20,MAR26,1992,i
+24605263,"Geske, Julian",GER,M,IM,,,2345,0,20,MAR26,1992,i
 34644083,"Gessler, Leo",GER,M,,,,1893,0,20,MAR26,2006,i
 12961043,"Geue, Niklas",GER,M,,,,2124,0,20,MAR26,1998,i
 16292553,"Geusen, Lars",GER,M,,,,1783,0,20,MAR26,2004,i
@@ -2646,7 +2646,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12917770,"Graf, Michael",GER,M,,,,1773,0,20,MAR26,1967,
 24600806,"Graf, Michael",GER,M,,,,1900,0,20,MAR26,1957,i
 4631170,"Graf, Roland",GER,M,,,,2073,0,20,MAR26,1959,i
-4645715,"Grafl, Florian, Dr.",GER,M,IM,FT,,2269,0,20,MAR26,1982,
+4645715,"Grafl, Florian, Dr.",GER,M,IM,,,2269,0,20,MAR26,1982,
 4636279,"Grahl, Arvid",GER,M,,,,2110,0,20,MAR26,1952,
 24656593,"Gramb, Marius",GER,M,,,,1997,0,20,MAR26,1993,
 4659252,"Gramlich, Sebastian",GER,M,FM,NA,,2262,0,20,MAR26,1982,i
@@ -2750,7 +2750,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34648208,"Gruener, Maximilian",GER,M,,,,1613,0,20,MAR26,2003,i
 24606685,"Gruenert, Thomas",GER,M,,,,1899,0,20,MAR26,1969,i
 24647802,"Gruenke, Paul",GER,M,,,,2021,0,20,MAR26,1989,
-24640352,"Gruenter, Martin",GER,M,,FT,,2205,0,20,MAR26,1993,
+24640352,"Gruenter, Martin",GER,M,,,,2205,0,20,MAR26,1993,
 4638158,"Gruettner, Ralf",GER,M,,,,2056,0,20,MAR26,1968,i
 16270428,"Gruhn, Andreas",GER,M,,,,1724,0,20,MAR26,1974,
 16260163,"Grumbach, Justus",GER,M,,,,1669,0,,MAR26,1999,i
@@ -2816,7 +2816,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4633075,"Guski, Dietmar",GER,M,,,,1997,0,20,MAR26,1961,i
 533040028,"Gust, Piet",GER,M,,,,1528,0,40,MAR26,2013,
 34673547,"Gust, Torben",GER,M,,,,1558,0,20,MAR26,2002,i
-4625498,"Gustafsson, Jan",GER,M,GM,FST,,2519,0,10,MAR26,1979,i
+4625498,"Gustafsson, Jan",GER,M,GM,,,2519,0,10,MAR26,1979,i
 24633143,"Gustain, Marc",GER,M,,,,2102,18,20,MAR26,1983,
 24621358,"Gutacker, Stephan",GER,M,,,,1911,0,20,MAR26,1959,i
 16204182,"Gutewort, Paul Emil",GER,M,,,,2019,0,20,MAR26,2006,
@@ -3797,7 +3797,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4628039,"Jehle, Bernhard",GER,M,,,,1879,0,20,MAR26,1959,i
 34674535,"Jehle, Edgar",GER,M,,,,1757,0,20,MAR26,1958,
 4656849,"Jehnichen, Guenther",GER,M,,,,1967,0,20,MAR26,1961,i
-24684333,"Jehnichen, Kai",GER,M,,"FI,FI",,1952,0,20,MAR26,1993,
+24684333,"Jehnichen, Kai",GER,M,,FI,,1952,0,20,MAR26,1993,
 4690370,"Jekel, Wolfgang",GER,M,,,,1887,0,20,MAR26,1968,
 12960144,"Jelisavac, Nenad",GER,M,,,,1798,0,20,MAR26,1958,i
 533027706,"Jena, Aakarshan",GER,M,,,,1564,0,40,MAR26,2013,
@@ -4346,7 +4346,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4666283,"Kneis, Harald",GER,M,,,,1921,0,20,MAR26,1969,i
 34654798,"Kneist, Luca",GER,M,,,,1562,0,20,MAR26,2001,i
 16266013,"Knerr, Sebastian",GER,M,,,,1801,0,20,MAR26,2000,i
-4620887,"Kniest, Oliver",GER,M,FM,"FI,NA",,2306,0,20,MAR26,1975,i
+4620887,"Kniest, Oliver",GER,M,FM,NA,,2306,0,20,MAR26,1975,i
 12967319,"Knippel, Michael, Dr.",GER,M,,,,1895,0,20,MAR26,1966,i
 16278216,"Knispel, Nihat, Dr.",GER,M,,,,1932,0,20,MAR26,1973,i
 16248511,"Knispel, Werner",GER,M,,,,1569,15,20,MAR26,1940,
@@ -4586,7 +4586,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24695114,"Krannich, Steffen",GER,M,,,,1941,0,20,MAR26,1990,i
 4638743,"Krasnici, Hasan",GER,M,,,,2159,0,20,MAR26,1959,i
 533004668,"Krasnyi, Timofei",GER,M,,,,1867,0,40,MAR26,2013,
-1271703,"Krassowizkij, Jaroslaw",GER,M,IM,"FT,NA",,2422,0,10,MAR26,1992,i
+1271703,"Krassowizkij, Jaroslaw",GER,M,IM,NA,,2422,0,10,MAR26,1992,i
 12989983,"Krastev, Alexander",GER,M,IM,,,2437,11,10,MAR26,2005,
 34635122,"Kratt, Lauri",GER,M,,,,1640,0,40,MAR26,2009,i
 34648828,"Kraus, Andreas",GER,M,,,,1841,0,20,MAR26,1998,i
@@ -5245,7 +5245,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4685806,"Lupor, Stefan",GER,M,FM,,,2128,0,20,MAR26,1973,i
 533067570,"Lupu, Mario Sebastian",GER,M,,,,1513,0,20,MAR26,2007,
 4697766,"Luther, Helmut",GER,M,,,,1995,0,20,MAR26,1969,i
-4611420,"Luther, Thomas",GER,M,GM,FST,,2527,0,10,MAR26,1969,i
+4611420,"Luther, Thomas",GER,M,GM,,,2527,0,10,MAR26,1969,i
 16208498,"Lutterbach, Jakob",GER,M,,,,1863,0,20,MAR26,2001,i
 24699934,"Lutz, Albert",GER,M,,,,2202,0,20,MAR26,1945,i
 4600193,"Lutz, Christopher",GER,M,GM,,,2497,0,10,MAR26,1971,
@@ -5367,7 +5367,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34619445,"Marchenko, Dmytro",GER,M,,,,1913,0,20,MAR26,1998,
 4634543,"Marchio, Enrico, Dr.",GER,M,FM,,,2216,0,20,MAR26,1974,
 16258126,"Marcziter, Alex",GER,M,CM,,,1954,0,40,MAR26,2010,i
-13900765,"Marcziter, Dmitrii",GER,M,FM,"FT,FT",,2137,0,20,MAR26,1972,i
+13900765,"Marcziter, Dmitrii",GER,M,FM,FT,,2137,0,20,MAR26,1972,i
 533015511,"Mardanov, Bulat",GER,M,,,,1784,0,20,MAR26,1990,i
 4648625,"Mareck, Sascha",GER,M,,,,1987,7,20,MAR26,1973,
 34683828,"Marek, Gerald",GER,M,,,,1728,0,20,MAR26,1965,i
@@ -5648,7 +5648,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4622634,"Michalczak, Thomas",GER,M,FM,,,2203,0,20,MAR26,1973,i
 4617690,"Michalek, Christoph",GER,M,,,,2240,0,20,MAR26,1974,i
 34662804,"Michel, Sonja",GER,F,,,,1756,0,20,MAR26,1980,wi
-1270350,"Michel, Steffen",GER,M,,FI,,2174,0,20,MAR26,1970,
+1270350,"Michel, Steffen",GER,M,,,,2174,0,20,MAR26,1970,
 16270860,"Michelitsch, Mario",GER,M,,,,1886,0,20,MAR26,2006,i
 34648372,"Michelson, Nathan",GER,M,,,,1599,0,40,MAR26,2015,
 4625293,"Michna, Christian",GER,M,FM,,,2169,0,20,MAR26,1972,i
@@ -5968,7 +5968,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 533024871,"Nasshan, Klaus",GER,M,,,,1691,0,20,MAR26,1956,i
 34640290,"Nathan, Lennert",GER,M,,,,1745,0,40,MAR26,2012,i
 34624287,"Nathe, Nico",GER,M,,NA,,1779,0,20,MAR26,2002,
-24601179,"Natsidis, Christoph",GER,M,FM,FT,,2255,0,20,MAR26,1988,i
+24601179,"Natsidis, Christoph",GER,M,FM,,,2255,0,20,MAR26,1988,i
 16259866,"Natsidis, Thymios",GER,M,,,,1734,0,20,MAR26,1968,i
 24613754,"Natterer, Winfried",GER,M,,NA,,1756,0,20,MAR26,1963,
 4623169,"Naumann, Alexander",GER,M,GM,,,2486,0,10,MAR26,1979,
@@ -6596,7 +6596,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12917885,"Pluta, Edmund",GER,M,,,,1773,0,20,MAR26,1957,i
 24681326,"Podder, Michael",GER,M,,,,1952,0,20,MAR26,1959,i
 16278330,"Podrimja, Behar",GER,M,,,,2078,0,20,MAR26,1958,i
-4682742,"Poeck, Ole",GER,M,FM,FT,,2270,0,20,MAR26,1978,i
+4682742,"Poeck, Ole",GER,M,FM,,,2270,0,20,MAR26,1978,i
 533031720,"Poehler, Simon",GER,M,,,,1544,0,40,MAR26,2009,
 24661686,"Poelig, Juergen",GER,M,,,,1865,0,20,MAR26,1969,
 24648523,"Poellner, Florian",GER,M,,,,1658,0,20,MAR26,1982,
@@ -7232,7 +7232,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34610359,"Rudolf, Marc",GER,M,,,,1863,0,20,MAR26,2006,i
 24609382,"Rudolf, Matthias, Dr.",GER,M,,,,2038,0,20,MAR26,1959,i
 16275748,"Rudolph, Alexander",GER,M,,,,1891,0,40,MAR26,2010,
-14102404,"Rudolph, Anna",GER,F,WIM,WIM,FT,2139,0,20,MAR26,1978,wi
+14102404,"Rudolph, Anna",GER,F,WIM,WIM,,2139,0,20,MAR26,1978,wi
 16200594,"Rudolph, Eva",GER,F,,,,1886,0,20,MAR26,2004,wi
 34647414,"Rudolph, Finn",GER,M,,,,1585,0,20,MAR26,2005,
 24622850,"Rudolph, Juergen",GER,M,,,,1899,0,20,MAR26,1946,i
@@ -7614,7 +7614,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 533049750,"Schmaelzle, Harald",GER,M,,,,1921,0,20,MAR26,1965,
 533021759,"Schmalfuss, Martin",GER,M,,,,1819,0,20,MAR26,1999,i
 4614054,"Schmaltz, Roland",GER,M,GM,,,2485,0,10,MAR26,1974,
-16295641,"Schmatz, Monika",GER,F,,"DI,NA",,1648,0,20,MAR26,1971,w
+16295641,"Schmatz, Monika",GER,F,,NA,,1648,0,20,MAR26,1971,w
 4622707,"Schmaus, Horst",GER,M,,,,1905,10,20,MAR26,1956,
 12995363,"Schmechtig, Lucas",GER,M,,,,1748,0,20,MAR26,2000,i
 4623720,"Schmedes, Hendrik",GER,M,,,,2127,0,20,MAR26,1977,i
@@ -8296,7 +8296,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4638530,"Sonnberger, Reinhard",GER,M,FM,,,2095,0,20,MAR26,1969,
 533018723,"Sonnenschein, Maximilian",GER,M,,,,1732,0,20,MAR26,2005,i
 16250877,"Sonnenschein, Philipp",GER,M,CM,,,2265,0,20,MAR26,1993,
-4601025,"Sonntag, Hans-Hubert",GER,M,IM,FT,,2268,0,20,MAR26,1954,i
+4601025,"Sonntag, Hans-Hubert",GER,M,IM,,,2268,0,20,MAR26,1954,i
 4695925,"Sonntag, Hermann",GER,M,,,,1987,0,20,MAR26,1985,i
 34677828,"Soppe, Peter",GER,M,,,,1814,0,20,MAR26,1974,
 34677836,"Soppe, Victoria",GER,F,,,,1632,0,40,MAR26,2009,w
@@ -9391,7 +9391,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 533039208,"Wehr, Oliver-Ulrich",GER,M,,,,1706,0,20,MAR26,1992,
 34687157,"Wehrle, Guido",GER,M,,,,1503,0,20,MAR26,1964,i
 65600347,"Wehrle, Maximilian",GER,M,,NA,,1860,0,20,MAR26,2005,i
-24682152,"Wehrle, Uwe",GER,M,,FI,,1877,0,20,MAR26,1959,i
+24682152,"Wehrle, Uwe",GER,M,,,,1877,0,20,MAR26,1959,i
 65600355,"Wehrle, Valentin",GER,M,,NA,,1629,0,20,MAR26,2007,i
 12997650,"Weiand, Peter",GER,M,,,,1818,0,20,MAR26,1955,i
 34680950,"Weiand, Philipp",GER,M,,,,1740,0,40,MAR26,2010,
@@ -10000,7 +10000,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4604644,"Zude, Erik, Dr.",GER,M,IM,,,2352,0,20,MAR26,1965,i
 4676084,"Zuehlke, Burkhard, Dr.",GER,M,,,,2018,0,20,MAR26,1956,i
 24640280,"Zuerik, Walter",GER,M,,,,1869,0,20,MAR26,1988,i
-24692530,"Zuferi, Enis",GER,M,FM,FI,,2279,0,10,MAR26,1994,
+24692530,"Zuferi, Enis",GER,M,FM,,,2279,0,10,MAR26,1994,
 12925357,"Zuleger, Detlev",GER,M,,,,1945,0,20,MAR26,1970,i
 1270693,"zum Winkel, Wolfgang",GER,M,,,,1981,0,20,MAR26,1946,i
 34691006,"Zumpf, Mathias",GER,M,,,,1870,0,20,MAR26,1971,

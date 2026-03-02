@@ -10,7 +10,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6110576,"Aleman Briones, Kevin Josue",NCA,M,,,,1612,0,20,MAR26,2000,i
 6109420,"Aleman Martinez, Verania Monserrat",NCA,F,,,,1563,0,40,MAR26,2009,wi
 6112374,"Alfaro Sanchez, Carlos Eduardo",NCA,M,,,,1720,0,20,MAR26,2006,i
-6100457,"Alfaro, William",NCA,M,FM,FI,,2100,0,20,MAR26,1982,
+6100457,"Alfaro, William",NCA,M,FM,,,2100,0,20,MAR26,1982,
 6105602,"Allen Montes, Charles Mijail",NCA,M,,,,1668,0,20,MAR26,1981,i
 6100783,"Allen, Alonso",NCA,M,,,,1762,8,20,MAR26,0,
 6103987,"Allen, Luisa Amanda",NCA,F,,,,1678,0,20,MAR26,2001,wi
@@ -375,7 +375,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6101135,"Quintanilla, Marvin",NCA,M,,,,1942,0,20,MAR26,0,i
 6110363,"Quintero Obando, Lesber Alexander",NCA,M,,,,1644,0,20,MAR26,2003,i
 6107265,"Quintero Rodriguez, Manuel Jose",NCA,M,,,,1746,0,20,MAR26,2004,i
-6101984,"Quintero, Armando",NCA,M,,"FI,FI",,1850,0,20,MAR26,0,i
+6101984,"Quintero, Armando",NCA,M,,FI,,1850,0,20,MAR26,0,i
 6107958,"Ramirez Altamirano, Laura Seline",NCA,F,,,,1639,0,20,MAR26,2002,wi
 6106102,"Ramirez Salazar, Martin Antonio",NCA,M,,,,1907,0,20,MAR26,1967,i
 6112226,"Real Miranda, Halinda Mariel",NCA,F,,,,1440,0,20,MAR26,2003,w

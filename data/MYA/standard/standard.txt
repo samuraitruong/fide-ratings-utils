@@ -163,7 +163,7 @@ ID Number      Name                                                         Fed 
 13016725       Htet Aung Hlaing                                             MYA M                                2244  0   40 1977  i   
 13000560       Htet Htet                                                    MYA M                                1967  0   20 1971  i   
 13001701       Htet Htet Than Sein                                          MYA F                                1707  0   40 1999  wi  
-13010654       Htet Htet Win                                                MYA F             NI                 1758  0   20 1997  w   
+13010654       Htet Htet Win                                                MYA F                                1758  0   20 1997  w   
 13012479       Htet Lin Aung                                                MYA M                                1916  0   40 1995  i   
 13026178       Htet Myat Lwin A                                             MYA M                                1744  0   40 2008      
 13001744       Htet Naing                                                   MYA M                                1816  0   40 2002  i   
@@ -320,7 +320,7 @@ ID Number      Name                                                         Fed 
 13008390       Lin Htat Paing                                               MYA M                                1918  0   40 1983  i   
 13018051       Lin Htet Naung                                               MYA M                                1783  0   40 2000      
 13017500       Lin Khant Paing                                              MYA M                                1887  0   40 2004  i   
-13022490       Lin Lin Htet                                                 MYA F             DI,NI,NA           1488  0   40 2005  w   
+13022490       Lin Lin Htet                                                 MYA F             NI,NA              1488  0   40 2005  w   
 13001051       Lin Lin Oo                                                   MYA M                                1893  0   20 1977  i   
 13026682       Lin Marn Bhone                                               MYA M                                1821  0   40 2009      
 13003186       Lin Naing Oo                                                 MYA M                                1948  0   20 1970  i   
@@ -511,7 +511,7 @@ ID Number      Name                                                         Fed 
 13013807       Nay Myo                                                      MYA M                                1926  0   40 1980  i   
 13009044       Nay Myo Aung                                                 MYA M                                1920  0   40 1988  i   
 13002228       Nay Myo Win                                                  MYA M                                1978  0   20 1978  i   
-13000110       Nay Oo Kyaw, Tun                                             MYA M   IM        FT                 2328  0   10 1975  i   
+13000110       Nay Oo Kyaw, Tun                                             MYA M   IM                           2328  0   10 1975  i   
 13008080       Nay Soe                                                      MYA M   FM                           2422  0   10 1963  i   
 13000551       Nay Soe                                                      MYA M                                1982  0   20 1975  i   
 13002465       Nay Soe A                                                    MYA M                                2040  0   20 1968  i   
@@ -604,7 +604,7 @@ ID Number      Name                                                         Fed 
 13013866       Sai Aung Khun Pha                                            MYA M                                1734  0   40 2006      
 13010077       Sai Chit Thu                                                 MYA M                                1752  0   40 1995  i   
 13012282       Sai Han Htoo Aung                                            MYA M                                1701  0   20 2006  i   
-13012290       Sai Han Thiha                                                MYA M   FM        FI                 2155  0   20 2007      
+13012290       Sai Han Thiha                                                MYA M   FM                           2155  0   20 2007      
 13015559       Sai Lin Htet                                                 MYA M                                1786  0   40 2005  i   
 13015567       Sai Lin Htin                                                 MYA M                                1626  0   40 2005  i   
 13015389       Sai Linn Linn                                                MYA M                                1933  0   40 1968  i   
@@ -698,7 +698,7 @@ ID Number      Name                                                         Fed 
 13007700       Tay Zar Lin                                                  MYA M                                1792  0   40 1980  i   
 13001663       Tayoke Gyi                                                   MYA M                                1968  0   20 1968      
 13024760       Tha Scit                                                     MYA M                                1469  0   40 2016      
-13001612       Tha, Zan                                                     MYA M   FM        FT                 2340  0   10 1956  i   
+13001612       Tha, Zan                                                     MYA M   FM                           2340  0   10 1956  i   
 13001396       Thame Zaw                                                    MYA M                                2135  0   10 1956  i   
 13010212       Than Han Win                                                 MYA M                                1845  0   40 1983  i   
 13011332       Than Hlaing                                                  MYA M                                1949  0   40 1970  i   
@@ -728,7 +728,7 @@ ID Number      Name                                                         Fed 
 13001264       Than, Htike Soe                                              MYA M                                2188  0   20 1975      
 13001353       Than, Min Hlaing                                             MYA M                                2154  0   20 1976      
 13013556       Than, Win C                                                  MYA M             NA                 2212  0   40 1976  i   
-13002864       Thandar Aye Win                                              MYA F   FM   WFM  FT,IA              2087  0   20 1983  wi  
+13002864       Thandar Aye Win                                              MYA F   FM   WFM  IA                 2087  0   20 1983  wi  
 13003011       Thandar Zin Win                                              MYA F                                2076  0   20 1992  wi  
 13021834       Thant Han Nyein Soe                                          MYA M                                1580  0   40 2014      
 13011812       Thant Kyaw                                                   MYA M                                1912  0   40 1978  i   
@@ -879,7 +879,7 @@ ID Number      Name                                                         Fed 
 13006550       Win, Tun Oo                                                  MYA M                                2073  0   20 1977  i   
 13007637       Wint Ohmmar Kyaw                                             MYA F                                1834  0   40 1998  wi  
 13003143       Wynn, Myint Oo                                               MYA M   FM                           2109  0   10 1960  i   
-13002783       Wynn, Zaw Htun                                               MYA M   IM        FT,NA              2327  0   10 1982      
+13002783       Wynn, Zaw Htun                                               MYA M   IM        NA                 2327  0   10 1982      
 13024728       Xavier Moezac                                                MYA M                                1595  0   40 2015      
 13005189       Yan Aung                                                     MYA M                                1818  0   40 1965  i   
 13010476       Yan Aung Phyo                                                MYA M                                1882  0   40 1981  i   

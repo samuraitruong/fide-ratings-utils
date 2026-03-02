@@ -6,7 +6,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10686894,"Abalsalam Tawfeek, Tawfeek",EGY,M,,,,1839,0,20,MAR26,2000,
 54235766,"Abbas Mohamed, Abd Elrahman",EGY,M,,,,1784,0,20,MAR26,2006,
 10697152,"Abbas Mohamed, Ahmed",EGY,M,,,,1653,0,40,MAR26,2002,i
-10602950,"Abbas, Ahmed",EGY,M,,"NI,SI",,1904,0,20,MAR26,1983,
+10602950,"Abbas, Ahmed",EGY,M,,SI,,1904,0,20,MAR26,1983,
 10639527,"Abbas, Ayman Shehata",EGY,M,,,,1987,0,40,MAR26,1982,i
 10630465,"Abbas, Essam",EGY,M,,,,1764,0,40,MAR26,1967,i
 10653333,"Abbas, Farahat",EGY,M,,,,1672,0,40,MAR26,1948,i
@@ -267,7 +267,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10663754,"Abdu, Ismail",EGY,M,,,,1915,0,40,MAR26,1982,i
 10624139,"Abdul Aziz, Nasser",EGY,M,,,,1848,0,20,MAR26,0,i
 10623620,"Abdulaziz , Hossam Tawfeek",EGY,M,,,,1975,0,40,MAR26,1979,i
-10624082,"Abdulhamid, Erfan",EGY,M,,"FI,SI,NA",,1987,0,20,MAR26,1983,i
+10624082,"Abdulhamid, Erfan",EGY,M,,"SI,NA",,1987,0,20,MAR26,1983,i
 54289165,"Abdullah Fikry, Ahmed",EGY,M,,,,1592,0,40,MAR26,1968,i
 10638075,"Abdullah, Ashraf Hamed",EGY,M,,,,1633,0,20,MAR26,1978,i
 54213479,"Abdullah, Zeinhom Hassan Kamal",EGY,M,,,,1892,0,40,MAR26,1982,i
@@ -587,7 +587,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10681086,"Alaa, Mohamed",EGY,M,,,,1488,0,40,MAR26,2004,i
 10642960,"Alaaelden, Hosam",EGY,M,,,,1857,0,40,MAR26,1994,i
 10654003,"Alaidy, Ahmed",EGY,M,,,,1756,0,40,MAR26,1974,i
-10655662,"Alattar, Elsayed",EGY,M,,"NI,SI,IA",,1591,0,40,MAR26,1976,i
+10655662,"Alattar, Elsayed",EGY,M,,"SI,IA",,1591,0,40,MAR26,1976,i
 10671358,"Albassiony, Mahmoud",EGY,M,,,,1635,0,40,MAR26,1989,i
 54227615,"Alber Mansour, Matios",EGY,M,,,,1750,0,40,MAR26,1999,i
 10626824,"Aldeeb, Ahmed",EGY,M,,,,1942,0,40,MAR26,1964,i
@@ -808,7 +808,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54284279,"Atef Mohammad, Sedki",EGY,M,,,,1633,0,40,MAR26,2004,
 54260639,"Atef Shawky, Mina",EGY,M,,,,1999,9,40,MAR26,2009,
 10603280,"Atef, Abdel Aziz",EGY,M,,,,1781,1,20,MAR26,1983,
-10602038,"Atef, Hatem",EGY,M,,FI,,2156,0,20,MAR26,1975,i
+10602038,"Atef, Hatem",EGY,M,,,,2156,0,20,MAR26,1975,i
 10600655,"Atef, Hosam Eldin",EGY,M,,,,1893,0,40,MAR26,1994,i
 10631348,"Atef, Kholood",EGY,F,,,,1540,0,40,MAR26,1995,wi
 10625887,"Atef, Malak",EGY,M,,,,1658,0,40,MAR26,1993,i
@@ -1520,7 +1520,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10643486,"Fawzy Ali, Ibrahem",EGY,M,,,,1820,0,40,MAR26,1983,i
 54223172,"Fawzy Mohamed, Abdallah",EGY,M,,,,1474,0,40,MAR26,2010,i
 10615377,"Fawzy, Abdel Kareim",EGY,M,,,,1924,0,20,MAR26,1988,i
-10613129,"Fawzy, Adham",EGY,M,GM,FT,,2466,0,10,MAR26,2000,
+10613129,"Fawzy, Adham",EGY,M,GM,,,2466,0,10,MAR26,2000,
 10670939,"Fawzy, Ahmed",EGY,M,,,,1649,0,40,MAR26,1978,i
 10664106,"Fawzy, Ashraf",EGY,M,,,,1915,0,40,MAR26,1974,i
 10621628,"Fawzy, Emad",EGY,M,,,,1936,0,20,MAR26,0,i
@@ -2387,7 +2387,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10612793,"Mahmoud, Hassan",EGY,M,,,,1775,0,20,MAR26,1969,i
 10638563,"Mahmoud, Ibrahim",EGY,M,,,,1926,0,20,MAR26,1983,i
 10639993,"Mahmoud, Maged",EGY,M,,,,1920,0,40,MAR26,1976,i
-10604120,"Mahmoud, Maha",EGY,F,,"FI,SI,IA",,1764,0,20,MAR26,1983,wi
+10604120,"Mahmoud, Maha",EGY,F,,"SI,IA",,1764,0,20,MAR26,1983,wi
 10605517,"Mahmoud, Mahetab",EGY,F,,FA,,1728,0,20,MAR26,1987,wi
 10615504,"Mahmoud, Mamdouh",EGY,M,,,,1810,0,20,MAR26,1968,i
 10607382,"Mahmoud, Merihan",EGY,F,,,,1836,0,20,MAR26,1990,wi
@@ -3542,7 +3542,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54207479,"Shnouda, Andrea",EGY,M,,,,1604,6,40,MAR26,2014,
 10609946,"Shoieb, Mahmoud",EGY,M,,NA,,1985,0,20,MAR26,1996,
 10602224,"Shoieb, Mohamed",EGY,M,,IA,,1925,0,20,MAR26,1962,i
-627143,"Shoker, Samy",EGY,M,GM,FT,,2445,0,10,MAR26,1987,
+627143,"Shoker, Samy",EGY,M,GM,,,2445,0,10,MAR26,1987,
 10646531,"Shokry, , Salah",EGY,M,,,,1840,0,20,MAR26,1980,i
 10604383,"Shokry, Abdel Rahman",EGY,M,,,,1947,0,20,MAR26,1989,i
 10632719,"Shokry, Mohamed",EGY,M,,,,1950,0,40,MAR26,1969,i

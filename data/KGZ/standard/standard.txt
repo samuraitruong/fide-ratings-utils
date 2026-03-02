@@ -215,7 +215,7 @@ ID Number      Name                                                         Fed 
 13833545       Bayishbekova, Ayperi                                         KGZ M                                1461  0   40 2012  i   
 13850547       Baysalov, Ruslan                                             KGZ M                                1672  0   40 2008      
 13838369       Bazakechev, Tugelbai                                         KGZ M                                1466  0   40 1955      
-13803190       Bazakechov, Esenbek                                          KGZ M             NI,AO,NA       AFM 1564  0   40 1966  i   
+13803190       Bazakechov, Esenbek                                          KGZ M             AO,NA          AFM 1564  0   40 1966  i   
 13854330       Bazarbaeva, Gaukhar                                          KGZ F                                1412  0   40 2015  w   
 13807560       Bazarbaeva, Saadat                                           KGZ F                                1666  0   20 2005  wi  
 13848917       Bazarkulov, Kairat                                           KGZ M                                1586  0   40 2006  i   
@@ -333,7 +333,7 @@ ID Number      Name                                                         Fed 
 13803573       Esenbek kyzy, Aizhyldyz                                      KGZ F                            AFM 1559  0   20 2007  wi  
 13800736       Esenbek Uulu, Bakai                                          KGZ M             NA                 2051  0   20 1995  i   
 13800604       Esenbek Uulu, Beknazar                                       KGZ M                                1963  0   40 1993  i   
-13800680       Esenbek Uulu, Ilimbek                                        KGZ M             FI,IA          AIM 1971  0   20 1989  i   
+13800680       Esenbek Uulu, Ilimbek                                        KGZ M             IA             AIM 1971  0   20 1989  i   
 13805967       Eshaliev, Orozbek                                            KGZ M                                1748  0   40 1960  i   
 13803727       Eshbekov, Kattabek                                           KGZ M                                2052  0   40 1973  i   
 13844423       Fakhriddinova, Eliza                                         KGZ F                                1480  0   40 2005  wi  
@@ -691,7 +691,7 @@ ID Number      Name                                                         Fed 
 13801848       Nuraliev, Berdibek                                           KGZ M                                1903  0   40 1977  i   
 13851683       Nurbekov, Aidar                                              KGZ M                                1565  0   40 2013      
 13841122       Nurbekov, Ali Nur                                            KGZ M                                1649  0   40 2014      
-13800183       Nurdin Uulu, Sardarbek                                       KGZ M             NI,AO,IA       AFM 1907  0   40 1989  i   
+13800183       Nurdin Uulu, Sardarbek                                       KGZ M             AO,IA          AFM 1907  0   40 1989  i   
 13802011       Nurdinov, Aibolot                                            KGZ M                                1699  0   40 1998  i   
 13806971       Nurdinov, Azamat                                             KGZ M             NA                 1847  0   20 2004      
 13819640       Nurgazy Kyzy, Gulzhamal                                      KGZ F                                1438  0   40 2005  wi  
@@ -793,7 +793,7 @@ ID Number      Name                                                         Fed 
 13842510       Saitmamat uulu, Nuradyl                                      KGZ M                            AFM 1518  0   40 2003  i   
 13835866       Saizildaeva, Aimana                                          KGZ F                                1496  0   40 2014  w   
 13804340       Sakibaev, Nursultan                                          KGZ M                                1878  0   20 2004  i   
-13800221       Samaganova, Aleksandra                                       KGZ F   WFM  WFM  FI                 1962  0   20 1986  w   
+13800221       Samaganova, Aleksandra                                       KGZ F   WFM  WFM                     1962  0   20 1986  w   
 13800345       Samakov, Nurdin                                              KGZ M   FM                           2342  0   20 1985  i   
 13821610       Samarbekov, Adil                                             KGZ M                                1452  0   40 2011  i   
 13848623       Samatov, Nuraly                                              KGZ M                                1458  0   40 2009  i   
@@ -1018,7 +1018,7 @@ ID Number      Name                                                         Fed 
 13802569       Usubaliev, Ermat                                             KGZ M                                1559  0   20 1935      
 13829491       Usubaliev, Nursultan                                         KGZ M                                1484  0   40 2011  i   
 13811746       Usupbaev, Omor                                               KGZ M                                1572  0   20 1959  i   
-13803140       Usupbekova, Zarina                                           KGZ F             NI,FA              1770  0   20 2001  wi  
+13803140       Usupbekova, Zarina                                           KGZ F             FA                 1770  0   20 2001  wi  
 13832620       Usupov, Damirbek                                             KGZ M                                1626  0   40 1969  i   
 13847597       Uzgenbaev, Emirhan                                           KGZ M                                1411  0   40 2014      
 13800450       Vilinsky, Vladimir                                           KGZ M                                1873  0   20 1941  i   
@@ -1060,7 +1060,7 @@ ID Number      Name                                                         Fed 
 13852264       Zhanybekova, Malika                                          KGZ F                                1556  0   40 2008  wi  
 13814915       Zhaparakunov, Ahmad                                          KGZ M                                1501  0   40 2009  i   
 13822624       Zhaparov, Altynbek                                           KGZ M                                1406  0   40 2012      
-13800485       Zheenbekov, Nurgazy                                          KGZ M             FI                 2182  9   20 1986      
+13800485       Zheenbekov, Nurgazy                                          KGZ M                                2182  9   20 1986      
 13803743       Zhenishbekov, Alisher                                        KGZ M                                1581  0   40 2009      
 13848844       Zhenishbekov, Erzhan                                         KGZ M                                1553  0   40 2012      
 13849026       Zhenishbekova, Aiyma                                         KGZ F                                1543  0   40 2014  w   

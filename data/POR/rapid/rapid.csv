@@ -741,7 +741,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1947133,"Coelho, Vasco Firmino",POR,M,,,,1605,0,40,MAR26,2005,i
 1982737,"Cohen, Rui",POR,M,,,,1695,0,40,MAR26,1968,i
 1901435,"Coimbra, Joao Marcial Ferreira",POR,M,,,,1591,0,20,MAR26,1946,i
-1901192,"Coimbra, Margarida",POR,F,WFM,WFM,FI,2071,0,20,MAR26,1983,wi
+1901192,"Coimbra, Margarida",POR,F,WFM,WFM,,2071,0,20,MAR26,1983,wi
 1960067,"Colaco, Joao Miguel Lino Silva",POR,M,,,,1594,0,20,MAR26,2001,i
 1948490,"Colaco, Lia Carmo",POR,F,,,,1528,0,40,MAR26,2005,wi
 1981498,"Comba, Pedro Sequeira",POR,M,,,,1467,3,40,MAR26,2010,
@@ -1128,7 +1128,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1914138,"Fernandes, Afonso Sampaio S P",POR,M,,,,1910,0,20,MAR26,1994,i
 1900277,"Fernandes, Alberto",POR,M,,,,2017,0,20,MAR26,1959,
 1960652,"Fernandes, Alvaro Manuel Teixeira",POR,M,,,,1836,0,,MAR26,1954,i
-1900021,"Fernandes, Antonio",POR,M,GM,FT,,2213,0,10,MAR26,1962,
+1900021,"Fernandes, Antonio",POR,M,GM,,,2213,0,10,MAR26,1962,
 1984896,"Fernandes, Antonio Filipe Quadros",POR,M,,,,1505,0,40,MAR26,1960,i
 1935160,"Fernandes, Antonio Jose Da Silva",POR,M,,,,1656,0,20,MAR26,1984,i
 1982338,"Fernandes, Antonio Maria Mendes",POR,M,,,,1658,0,40,MAR26,2001,i
@@ -1243,7 +1243,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1951513,"Ferreira, Nuno David De Oliveira Reis",POR,M,,,,1860,0,20,MAR26,2003,
 1916017,"Ferreira, Nuno Messeder",POR,M,,,,1747,0,20,MAR26,1978,i
 1989502,"Ferreira, Nuno Miguel Coelho",POR,M,,,,1518,0,40,MAR26,2013,
-1900820,"Ferreira, Paulo",POR,M,CM,NI,,1960,0,20,MAR26,1962,
+1900820,"Ferreira, Paulo",POR,M,CM,,,1960,0,20,MAR26,1962,
 1924540,"Ferreira, Pedro",POR,M,,,,1718,0,20,MAR26,1994,i
 1964100,"Ferreira, Pedro Carvalho Dias",POR,M,,,,1484,0,40,MAR26,2009,i
 1974696,"Ferreira, Pedro Esteves",POR,M,,,,1635,0,20,MAR26,2007,
@@ -1371,7 +1371,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1983300,"Fulgencio, Lourenco",POR,M,,,,1512,0,40,MAR26,2011,i
 1901990,"Funk, Guenther Matthias",POR,M,,,,1604,0,20,MAR26,1965,
 1973002,"Furtado, Clinton",POR,M,,,,1754,0,40,MAR26,1988,i
-1903241,"Furtado, Dinis",POR,M,,FI,,1816,0,20,MAR26,1974,
+1903241,"Furtado, Dinis",POR,M,,,,1816,0,20,MAR26,1974,
 1984101,"Furtado, Nelson",POR,M,,,,1519,0,40,MAR26,2010,
 1984560,"Furtado, Ruben",POR,M,,,,1449,0,40,MAR26,2008,
 1901923,"Gaboleiro, Guilherme",POR,M,,,,1937,0,20,MAR26,1967,i
@@ -1581,7 +1581,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1942549,"Guimaraes, Henrique",POR,M,,,,1609,0,20,MAR26,2006,i
 1977849,"Guimaraes, Joao Magalhaes",POR,M,,,,1463,0,40,MAR26,2010,i
 1986740,"Guimaraes, Joaquim Antonio",POR,M,,,,1738,0,40,MAR26,1983,i
-1900137,"Guimaraes, Jorge",POR,M,FM,FT,,2236,0,20,MAR26,1958,i
+1900137,"Guimaraes, Jorge",POR,M,FM,,,2236,0,20,MAR26,1958,i
 1916963,"Guimaraes, Luis Pedro F",POR,M,,,,1840,0,20,MAR26,1977,i
 1913212,"Guimaraes, Pedro",POR,M,,,,1732,0,20,MAR26,1994,i
 1953109,"Guimaraes, Pedro Henrique",POR,M,,,,1606,0,20,MAR26,1982,i
@@ -1929,7 +1929,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1975412,"Marcelo, Luis",POR,M,,,,1746,0,20,MAR26,1989,i
 1982001,"Marcos, Joao Daniel",POR,M,,NA,,1766,0,40,MAR26,2002,
 1989650,"Margarido, Ema Sobon",POR,F,,,,1528,0,40,MAR26,2014,w
-1914227,"Margarido, Jose Miguel Teixeira",POR,M,,FI,,2072,0,20,MAR26,1994,
+1914227,"Margarido, Jose Miguel Teixeira",POR,M,,,,2072,0,20,MAR26,1994,
 1905287,"Margarido, Ricardo Emanuel Torre",POR,M,,,,1911,0,20,MAR26,1991,i
 1947370,"Maria, Antonio Jose Conceicao",POR,M,,,,1678,0,20,MAR26,1965,i
 1976125,"Maria, Goncalo Filipe Guerreiro",POR,M,,,,1978,0,20,MAR26,2007,
@@ -2161,7 +2161,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1925938,"Mendes, Nelson",POR,M,,,,1836,0,20,MAR26,1991,i
 1927400,"Mendes, Neuza Graxinha",POR,F,,,,1536,0,20,MAR26,1999,wi
 1955098,"Mendes, Nuno Filipe Macedo C",POR,M,,,,1421,0,20,MAR26,1985,i
-1933841,"Mendes, Nuno Miguel Beirao",POR,M,,FI,,1687,0,20,MAR26,1980,i
+1933841,"Mendes, Nuno Miguel Beirao",POR,M,,,,1687,0,20,MAR26,1980,i
 1912577,"Mendes, Pedro Machado",POR,M,,,,1750,0,20,MAR26,1999,i
 1908049,"Mendes, Pedro Miguel Gomes",POR,M,,NA,,1896,0,20,MAR26,1993,
 1902466,"Mendes, Rui Miguel",POR,M,,,,1582,0,40,MAR26,1994,

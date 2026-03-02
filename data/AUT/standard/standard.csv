@@ -1921,7 +1921,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1600427,"Kaspret, Guido",AUT,M,FM,,,2214,1,20,MAR26,1960,
 1615297,"Kassel, Walter",AUT,M,,,,1920,0,20,MAR26,1964,
 1636723,"Kastenhuber, Robert",AUT,M,,,,1920,1,20,MAR26,1973,
-1602500,"Kastner, Walter",AUT,M,FM,FT,,2190,0,20,MAR26,1961,
+1602500,"Kastner, Walter",AUT,M,FM,,,2190,0,20,MAR26,1961,
 1632191,"Kataev, Vladimir",AUT,M,,,,1852,0,40,MAR26,1946,i
 530005108,"Katkic, Samuel",AUT,M,,,,1635,0,40,MAR26,2010,
 1661795,"Katter, Alois",AUT,M,,,,1641,0,40,MAR26,1972,i
@@ -1965,7 +1965,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1687298,"Keusch, Bernhard",AUT,M,,,,2000,1,40,MAR26,2008,
 1618601,"Keuschnigg, Siegfried",AUT,M,,,,1989,0,40,MAR26,1943,i
 1637703,"Kezic, Andreas",AUT,M,,,,1932,4,,MAR26,1982,
-1638076,"Khachatouri, Saro",AUT,M,,FI,,2064,3,20,MAR26,1994,
+1638076,"Khachatouri, Saro",AUT,M,,,,2064,3,20,MAR26,1994,
 14142368,"Khalakhan, Jurij",AUT,M,CM,,,2153,0,20,MAR26,1999,
 1679767,"Khanteche, Hassan",AUT,M,,,,1701,0,40,MAR26,1997,
 530006635,"Kharma, Mohammad",AUT,M,,,,1579,0,40,MAR26,2011,
@@ -3038,8 +3038,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1665243,"Novak, Eos Isabella Maria",AUT,F,,,,1474,0,40,MAR26,2005,wi
 1665278,"Novak, Venus Anna Lena",AUT,F,,,,1445,0,40,MAR26,1997,wi
 1602594,"Novkovic, Brane",AUT,M,,,,1918,0,40,MAR26,1966,i
-12000086,"Novkovic, Julia",AUT,F,WFM,WFM,"FT,FT",2095,5,20,MAR26,1972,w
-1613103,"Novkovic, Milan",AUT,M,IM,"FT,FT",,2326,3,10,MAR26,1966,
+12000086,"Novkovic, Julia",AUT,F,WFM,WFM,FT,2095,5,20,MAR26,1972,w
+1613103,"Novkovic, Milan",AUT,M,IM,FT,,2326,3,10,MAR26,1966,
 1623320,"Novovic, Momcilo",AUT,M,,,,1805,2,20,MAR26,1956,
 1653865,"Nowak, Klaus",AUT,M,,,,1519,0,40,MAR26,1943,i
 1658794,"Nowakowski, Paul",AUT,M,,,,1578,0,40,MAR26,2007,i
@@ -3789,7 +3789,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1644688,"Schabetsberger, Franz",AUT,M,,,,1810,0,40,MAR26,1961,
 1620215,"Schachinger, Lukas",AUT,M,,,,1813,0,20,MAR26,1985,i
 1686305,"Schachinger, Manuel",AUT,M,,,,1672,0,40,MAR26,1986,
-1616773,"Schachinger, Mario",AUT,M,IM,FT,,2393,0,10,MAR26,1985,
+1616773,"Schachinger, Mario",AUT,M,IM,,,2393,0,10,MAR26,1985,
 1618849,"Schachner, Franz",AUT,M,,,,1848,0,20,MAR26,1951,i
 1665324,"Schachner, Matthias",AUT,M,,,,1813,4,20,MAR26,2005,
 530014565,"Schade, Florian",AUT,M,,,,1694,0,40,MAR26,1991,
@@ -3954,7 +3954,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1697820,"Schneider, Pascale",AUT,F,,,,1431,0,40,MAR26,1983,wi
 1653270,"Schneider, Richard",AUT,M,,,,1593,0,40,MAR26,1954,i
 1639471,"Schneider, Wolfgang",AUT,M,,,,1462,2,20,MAR26,1963,
-1604520,"Schneider-Zinner, Harald",AUT,M,IM,FT,,2328,0,10,MAR26,1968,
+1604520,"Schneider-Zinner, Harald",AUT,M,IM,,,2328,0,10,MAR26,1968,
 1610210,"Schneider-Zinner, Werner",AUT,M,,,,1965,0,20,MAR26,1948,i
 1653288,"Schneidhofer, Dominik",AUT,M,,,,1685,0,40,MAR26,2001,i
 1604503,"Schnepp, Gunnar",AUT,M,FM,,,2191,1,20,MAR26,1972,

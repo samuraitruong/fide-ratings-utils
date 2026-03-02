@@ -156,7 +156,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8668965,"Dong, Linzi",CHN,M,,,,1533,0,40,MAR26,2015,
 8655634,"Dong, Sandro",CHN,M,,,,1580,0,40,MAR26,2005,
 8619573,"Dong, Yanbei",CHN,F,,,,1435,0,40,MAR26,2007,wi
-8621268,"Du, Chunhui",CHN,M,FM,FI,,2365,0,10,MAR26,1987,i
+8621268,"Du, Chunhui",CHN,M,FM,,,2365,0,10,MAR26,1987,i
 8647704,"Du, Jianheng",CHN,M,,,,1586,0,40,MAR26,2010,i
 8662967,"Du, Ke",CHN,M,,,,1821,0,40,MAR26,1990,
 8655715,"Du, Rushu",CHN,M,,,,1555,0,40,MAR26,2014,
@@ -181,7 +181,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8642648,"Fang, Chenxi",CHN,M,,,,1770,0,40,MAR26,2013,
 8638845,"Fang, Tianyang",CHN,M,,,,1578,0,40,MAR26,2009,
 8670188,"Fang, Xiaoyu",CHN,M,,,,1785,0,40,MAR26,2014,
-8604746,"Fang, Yan",CHN,M,IM,FI,,2413,0,10,MAR26,1996,i
+8604746,"Fang, Yan",CHN,M,IM,,,2413,0,10,MAR26,1996,i
 8668426,"Fang, Yihan",CHN,M,,,,1685,0,40,MAR26,2016,
 8670170,"Fang, Yuexiang",CHN,M,,,,1661,0,40,MAR26,2013,
 8649561,"Fang, Yunsheng",CHN,M,,,,1705,0,40,MAR26,2014,
@@ -257,7 +257,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8621039,"Han, Zongrun",CHN,M,,,,1507,0,40,MAR26,2008,i
 8650101,"Hao, Qingshi",CHN,M,,,,1555,0,40,MAR26,2015,
 8620911,"He, Canzhou",CHN,M,,,,1869,8,40,MAR26,2007,
-8620440,"He, Chenglu",CHN,F,,NI,,1893,0,20,MAR26,1999,wi
+8620440,"He, Chenglu",CHN,F,,,,1893,0,20,MAR26,1999,wi
 8642427,"He, Junchen",CHN,M,,,,2031,0,20,MAR26,2002,
 8634823,"He, Ping",CHN,M,,,,1792,0,20,MAR26,2001,
 8653135,"He, Ruien",CHN,M,,,,1816,0,40,MAR26,2010,i
@@ -270,7 +270,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8657823,"Hong, Liang",CHN,M,,,,1534,0,40,MAR26,2009,i
 8641560,"Hong, Mingren",CHN,M,,,,1946,0,40,MAR26,2011,
 8669201,"Hong, Ruomu",CHN,M,,,,1596,0,40,MAR26,2016,
-8606129,"Hong, Xing",CHN,F,,FI,,2010,0,20,MAR26,1998,wi
+8606129,"Hong, Xing",CHN,F,,,,2010,0,20,MAR26,1998,wi
 8602980,"Hou, Yifan",CHN,F,GM,WGM,,2529,0,10,MAR26,1994,w
 8619492,"Hou, Yifan(HLJ)",CHN,M,,,,2080,0,40,MAR26,2005,
 8624070,"Hou, Yixuan",CHN,M,,,,1604,0,40,MAR26,2010,i
@@ -342,7 +342,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8662207,"Jiang, Yanyu",CHN,F,,,,1412,0,40,MAR26,2016,wi
 8647496,"Jiang, Yanze",CHN,M,,,,1419,0,40,MAR26,2015,i
 8669465,"Jiang, Yu",CHN,M,,,,1529,0,40,MAR26,2016,
-8611050,"Jiang, Zhaoyi",CHN,F,WCM,WCM,FI,1989,0,20,MAR26,1999,wi
+8611050,"Jiang, Zhaoyi",CHN,F,WCM,WCM,,1989,0,20,MAR26,1999,wi
 8646155,"Jiang, Ziming",CHN,M,,,,1508,0,40,MAR26,2007,i
 8653305,"Jiang, Zixian",CHN,F,,,,1709,0,40,MAR26,2013,w
 8614784,"Jiang, Zixuan",CHN,F,,,,1584,0,40,MAR26,2005,wi
@@ -407,10 +407,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8635960,"Li, Peishan",CHN,F,,,,1815,0,40,MAR26,2012,w
 8673705,"Li, Pingyu",CHN,M,,,,1453,0,40,MAR26,2017,
 8654670,"Li, Qianwen",CHN,F,,,,1511,0,40,MAR26,2014,w
-8600643,"Li, Ruofan",CHN,F,IM,WGM,FT,2328,0,20,MAR26,1978,wi
+8600643,"Li, Ruofan",CHN,F,IM,WGM,,2328,0,20,MAR26,1978,wi
 8618712,"Li, Shanglin",CHN,M,,,,2042,0,40,MAR26,2008,i
 8647160,"Li, Shanning",CHN,F,,,,1408,0,40,MAR26,2010,w
-1631454,"Li, Shenyue",CHN,F,,FI,,1981,0,20,MAR26,1997,wi
+1631454,"Li, Shenyue",CHN,F,,,,1981,0,20,MAR26,1997,wi
 8600678,"Li, Shilong",CHN,M,GM,,,2538,0,10,MAR26,1977,i
 8664390,"Li, Shujun",CHN,M,,,,1696,0,40,MAR26,2015,
 8668957,"Li, Shuoheng",CHN,M,,,,1548,0,40,MAR26,2015,
@@ -509,7 +509,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8687927,"Liu, Kaining",CHN,M,,,,1541,0,40,MAR26,2013,
 8681481,"Liu, Kaiyan",CHN,M,,,,1777,0,40,MAR26,2007,
 8679983,"Liu, Luoyu",CHN,F,,,,1559,0,40,MAR26,2014,w
-8608121,"Liu, Manli",CHN,F,WIM,WIM,FI,2069,0,20,MAR26,1996,wi
+8608121,"Liu, Manli",CHN,F,WIM,WIM,,2069,0,20,MAR26,1996,wi
 8618186,"Liu, Mide",CHN,M,,,,1934,0,40,MAR26,2008,i
 8659338,"Liu, Mosheng",CHN,M,,SI,,1560,0,40,MAR26,1998,
 8670960,"Liu, Qianxing",CHN,F,,,,1463,0,40,MAR26,2014,w
@@ -543,7 +543,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8662495,"Liu, Yutong(SZ)",CHN,F,,,,1630,0,40,MAR26,2012,w
 8683298,"Liu, Zeqian",CHN,M,,,,1677,0,40,MAR26,2012,
 8651035,"Liu, Zhan",CHN,M,,,,1599,0,40,MAR26,2011,
-8609381,"Liu, Zhaoqi",CHN,M,IM,FT,,2266,0,20,MAR26,1998,
+8609381,"Liu, Zhaoqi",CHN,M,IM,,,2266,0,20,MAR26,1998,
 8640327,"Liu, Zhengcheng",CHN,M,,,,1870,0,40,MAR26,2012,
 8643580,"Liu, Zhuoni",CHN,F,,,,1561,0,40,MAR26,2013,w
 8668906,"Liu, Zhuxi",CHN,M,,,,1512,0,40,MAR26,2016,
@@ -737,7 +737,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8626111,"Sun, Mingyang",CHN,M,,NA,,1690,0,,MAR26,1990,
 8622353,"Sun, Pengxiang",CHN,M,,,,1768,0,20,MAR26,2001,
 8650748,"Sun, Shenghuan",CHN,M,,,,1723,0,40,MAR26,2012,
-8631190,"Sun, Weiqi",CHN,F,,NI,,1759,0,40,MAR26,1979,wi
+8631190,"Sun, Weiqi",CHN,F,,,,1759,0,40,MAR26,1979,wi
 8614776,"Sun, Yidi",CHN,M,,,,2237,0,20,MAR26,2004,i
 8642419,"Sun, Yuanhang",CHN,M,,NA,,1646,0,40,MAR26,1995,
 8614520,"Sun, Yucan",CHN,F,WCM,WCM,,1749,0,40,MAR26,2006,wi
@@ -810,12 +810,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8641471,"Wang, Peiqi",CHN,M,,,,1839,0,40,MAR26,2012,
 8600406,"Wang, Pin",CHN,F,WGM,WGM,,2390,0,10,MAR26,1974,wi
 8625050,"Wang, Puxuan",CHN,M,,,,1845,0,40,MAR26,2009,
-8604282,"Wang, Qibiao",CHN,M,,FT,,2289,0,20,MAR26,0,i
+8604282,"Wang, Qibiao",CHN,M,,,,2289,0,20,MAR26,0,i
 8605351,"Wang, Qin Ke",CHN,F,,,,1932,0,20,MAR26,1992,wi
 8636060,"Wang, Qinxuanyi",CHN,F,WIM,WIM,,2117,0,40,MAR26,2011,w
 8601003,"Wang, Rui",CHN,M,GM,,,2426,0,10,MAR26,1978,i
 8647623,"Wang, Ruiyan",CHN,M,,,,1607,0,40,MAR26,2008,
-8605262,"Wang, Shanshan",CHN,F,WFM,WFM,FI,2014,0,20,MAR26,1984,w
+8605262,"Wang, Shanshan",CHN,F,WFM,WFM,,2014,0,20,MAR26,1984,w
 8610665,"Wang, Shixu B",CHN,M,IM,,,2391,0,20,MAR26,2001,
 8676577,"Wang, Shunkai",CHN,M,,,,1732,0,40,MAR26,2016,
 8620148,"Wang, Shunshun",CHN,F,,,,1829,0,40,MAR26,2007,wi
@@ -880,7 +880,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8617880,"Wang,Yifan(Q)",CHN,M,,,,1867,0,40,MAR26,2007,i
 8615187,"Wang,Ze",CHN,M,,,,1932,0,20,MAR26,2001,i
 8617821,"Wang,Zhiyu",CHN,F,,,,1721,0,20,MAR26,2004,w
-8622256,"Wayile, Jialade",CHN,M,,"NI,NI",,1854,0,20,MAR26,1996,i
+8622256,"Wayile, Jialade",CHN,M,,NI,,1854,0,20,MAR26,1996,i
 8684391,"Wei, Chengyu",CHN,M,,,,1605,0,40,MAR26,2008,
 8620938,"Wei, Jianzhou",CHN,M,CM,,,1837,0,40,MAR26,2009,i
 8616787,"Wei, Yaqing",CHN,F,WCM,WCM,,1700,0,40,MAR26,2007,wi
@@ -980,7 +980,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8605564,"Xu, Yi",CHN,M,GM,,,2419,0,10,MAR26,1998,
 8687072,"Xu, Yifan(AH)",CHN,M,,,,1488,0,40,MAR26,2017,
 8627410,"Xu, Yiming",CHN,M,,,,1884,0,20,MAR26,2003,
-8604940,"Xu, Yinglun",CHN,M,GM,FT,,2512,0,10,MAR26,1996,
+8604940,"Xu, Yinglun",CHN,M,GM,,,2512,0,10,MAR26,1996,
 8601089,"Xu, Yuanyuan",CHN,F,WGM,WGM,,2266,0,20,MAR26,1981,w
 8664030,"Xu, Zhaochen",CHN,M,,,,1520,0,40,MAR26,2010,
 8686980,"Xu, Zhibo",CHN,M,,,,1504,0,40,MAR26,2014,
@@ -1039,7 +1039,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8661138,"Yao, Yichen",CHN,M,,,,1667,0,40,MAR26,2014,
 8646074,"Yao, Zheyu",CHN,M,,,,1530,0,40,MAR26,2008,
 8630305,"Yao, Zihan",CHN,M,,,,1700,0,40,MAR26,2007,i
-8611556,"Ye, Jiaxu",CHN,M,,FI,,2064,0,20,MAR26,1979,i
+8611556,"Ye, Jiaxu",CHN,M,,,,2064,0,20,MAR26,1979,i
 8674469,"Ye, Peilin",CHN,M,,,,2039,0,40,MAR26,2005,
 8600015,"Ye, Rongguang",CHN,M,GM,,,2397,0,10,MAR26,1963,i
 8665141,"Ye, Shuhan",CHN,F,,,,1602,0,40,MAR26,2015,w
@@ -1053,7 +1053,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8667675,"Yin, Hang",CHN,M,,,,1578,0,40,MAR26,2014,
 8667683,"Yin, Qing",CHN,F,,,,1406,0,40,MAR26,2014,w
 8689547,"Yin, Suke",CHN,M,,,,1731,0,40,MAR26,2014,
-8636397,"Yin, Ying",CHN,F,,DI,,1664,0,40,MAR26,1992,w
+8636397,"Yin, Ying",CHN,F,,,,1664,0,40,MAR26,1992,w
 8640483,"Yin, Zijun",CHN,M,,,,1774,0,40,MAR26,2012,
 8686831,"You, Hangxu",CHN,M,,,,1468,0,40,MAR26,2004,
 8664056,"You, Ruihan",CHN,M,,,,1575,0,40,MAR26,2014,
@@ -1186,7 +1186,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8659877,"Zhao, Hongyu",CHN,M,,,,1675,0,40,MAR26,2016,
 8661154,"Zhao, Jiaqian",CHN,M,,,,1472,0,40,MAR26,2015,
 8649723,"Zhao, Jinmin",CHN,M,,,,1422,0,40,MAR26,2014,
-8602522,"Zhao, Jun",CHN,M,GM,FT,,2596,0,10,MAR26,1986,i
+8602522,"Zhao, Jun",CHN,M,GM,,,2596,0,10,MAR26,1986,i
 8604290,"Zhao, Nan",CHN,M,,,,2289,0,20,MAR26,0,i
 8671796,"Zhao, Ruoqi",CHN,F,,,,1566,0,40,MAR26,2016,w
 8608040,"Zhao, Shengxin",CHN,F,WFM,WFM,,2164,0,20,MAR26,2001,w

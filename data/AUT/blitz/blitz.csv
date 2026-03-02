@@ -141,8 +141,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1689762,"Baumrucker, Horst",AUT,M,,,,1670,0,20,MAR26,1957,i
 1673823,"Baurecht, Guenter",AUT,M,,,,1656,0,20,MAR26,1958,i
 1669583,"Baurecht, Roman",AUT,M,,,,1733,0,40,MAR26,2009,
-1659103,"Bayani, Zamir",AUT,M,,,,1792,0,20,MAR26,1999,i
 1666002,"Bayani, Zamir",AUT,M,,,,1909,0,20,MAR26,1998,i
+1659103,"Bayani, Zamir",AUT,M,,,,1792,0,20,MAR26,1999,i
 530004179,"Bazigos, Antonios",AUT,M,,,,1639,0,20,MAR26,1980,i
 1602519,"Beck, Hartmuth",AUT,M,FM,,,2327,0,20,MAR26,1966,i
 1675400,"Beck, Viktor",AUT,M,,,,1907,0,20,MAR26,1998,i
@@ -1156,7 +1156,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1615297,"Kassel, Walter",AUT,M,,,,1923,0,20,MAR26,1964,i
 530006953,"Kast, Oliver",AUT,M,,,,1590,0,20,MAR26,1994,i
 1636723,"Kastenhuber, Robert",AUT,M,,,,1885,0,20,MAR26,1973,
-1602500,"Kastner, Walter",AUT,M,FM,FT,,2085,0,20,MAR26,1961,i
+1602500,"Kastner, Walter",AUT,M,FM,,,2085,0,20,MAR26,1961,i
 530005108,"Katkic, Samuel",AUT,M,,,,1578,0,40,MAR26,2010,
 1661795,"Katter, Alois",AUT,M,,,,1558,0,20,MAR26,1972,i
 1642626,"Katter, Katharina",AUT,F,WFM,WFM,,2024,0,20,MAR26,2005,wi
@@ -1188,7 +1188,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1600087,"Kessler, Luca",AUT,M,IM,,,2332,0,20,MAR26,1997,i
 1662988,"Kessler, Manuel",AUT,M,,,,1791,0,20,MAR26,1996,i
 1687298,"Keusch, Bernhard",AUT,M,,,,1866,0,40,MAR26,2008,i
-1638076,"Khachatouri, Saro",AUT,M,,FI,,1974,0,20,MAR26,1994,
+1638076,"Khachatouri, Saro",AUT,M,,,,1974,0,20,MAR26,1994,
 14142368,"Khalakhan, Jurij",AUT,M,CM,,,2060,0,20,MAR26,1999,i
 530015162,"Khanjani Touchaei, Parsa",AUT,M,,,,1710,8,40,MAR26,2011,
 1679767,"Khanteche, Hassan",AUT,M,,,,1609,0,20,MAR26,1997,
@@ -1802,8 +1802,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1615700,"Notegger, Peter",AUT,M,,,,2027,0,20,MAR26,1969,i
 1634909,"Notegger, Phil",AUT,M,,,,1735,0,20,MAR26,2003,i
 1665278,"Novak, Venus Anna Lena",AUT,F,,,,1623,0,20,MAR26,1997,wi
-12000086,"Novkovic, Julia",AUT,F,WFM,WFM,"FT,FT",2101,0,20,MAR26,1972,w
-1613103,"Novkovic, Milan",AUT,M,IM,"FT,FT",,2308,0,20,MAR26,1966,
+12000086,"Novkovic, Julia",AUT,F,WFM,WFM,FT,2101,0,20,MAR26,1972,w
+1613103,"Novkovic, Milan",AUT,M,IM,FT,,2308,0,20,MAR26,1966,
 1658794,"Nowakowski, Paul",AUT,M,,,,1611,0,20,MAR26,2007,i
 1646583,Nussbaumer Bernhard,AUT,M,,,,1901,0,20,MAR26,1959,
 1628640,"Nussbaumer, Laslo",AUT,M,,,,1869,0,20,MAR26,1996,i
@@ -2215,7 +2215,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1603949,"Sauper, Dorian",AUT,M,,,,2007,16,20,MAR26,1992,
 1604856,"Savio, Alfred Jun.",AUT,M,,,,1992,0,20,MAR26,1962,
 1681370,"Schabauer, Dominik",AUT,M,,,,1855,0,20,MAR26,1992,
-1616773,"Schachinger, Mario",AUT,M,IM,FT,,2262,0,10,MAR26,1985,i
+1616773,"Schachinger, Mario",AUT,M,IM,,,2262,0,10,MAR26,1985,i
 1665324,"Schachner, Matthias",AUT,M,,,,1744,0,20,MAR26,2005,
 1679279,"Schachner, Romy Marie",AUT,F,,,,1589,0,20,MAR26,2007,wi
 1698656,"Schaefer, Miles Felix Theo",AUT,M,,,,1579,0,20,MAR26,2004,i
@@ -2302,7 +2302,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1654624,"Schneider, Gerald",AUT,M,,,,1632,0,20,MAR26,1962,i
 1638955,"Schneider, Manuel",AUT,M,,,,1816,0,20,MAR26,1998,
 1696831,"Schneider, Marco",AUT,M,,,,1593,0,20,MAR26,2003,i
-1604520,"Schneider-Zinner, Harald",AUT,M,IM,FT,,2146,0,20,MAR26,1968,
+1604520,"Schneider-Zinner, Harald",AUT,M,IM,,,2146,0,20,MAR26,1968,
 1610210,"Schneider-Zinner, Werner",AUT,M,,,,1933,0,20,MAR26,1948,i
 1676920,"Schnepf, Maximilian",AUT,M,,,,1523,0,40,MAR26,2011,
 1604503,"Schnepp, Gunnar",AUT,M,FM,,,2295,0,20,MAR26,1972,

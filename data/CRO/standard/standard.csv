@@ -142,7 +142,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14567440,"Bandalo, Filip",CRO,M,,,,1847,0,40,MAR26,1994,
 14546299,"Banek, Kresimir",CRO,M,,,,1988,0,20,MAR26,1957,
 14576694,"Banic, Dorian",CRO,M,,,,1788,0,40,MAR26,2001,i
-14571544,"Banovac, Goran",CRO,M,,NI,,1513,0,40,MAR26,1979,i
+14571544,"Banovac, Goran",CRO,M,,,,1513,0,40,MAR26,1979,i
 14539047,"Banovac, Mirko",CRO,M,,,,2065,0,20,MAR26,1946,i
 14596563,"Banovac, Roko",CRO,M,,,,1879,0,20,MAR26,2007,i
 14568438,"Banovic, Lovro",CRO,M,,,,1669,0,20,MAR26,2005,i
@@ -248,7 +248,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14513994,"Benzon, Eugen",CRO,M,,,,1873,0,20,MAR26,1956,i
 14595656,"Berdalovic, Nora",CRO,F,,,,1873,0,20,MAR26,2001,w
 79339158,"Beric, Tomislav",CRO,M,,,,1736,5,40,MAR26,1984,
-14510359,"Berke, Ana",CRO,F,WIM,WIM,"FI,FI",2144,11,20,MAR26,1988,w
+14510359,"Berke, Ana",CRO,F,WIM,WIM,FI,2144,11,20,MAR26,1988,w
 14563606,"Bernat, Elizabeta",CRO,F,,,,1493,0,40,MAR26,2008,wi
 14517370,"Berni, Alen",CRO,M,,,,1711,0,20,MAR26,1973,
 14581280,"Bertok, Mario Jr.",CRO,M,,,,2114,0,20,MAR26,1962,
@@ -373,7 +373,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14503905,"Bosic, Lazar",CRO,M,,,,1849,0,20,MAR26,1948,i
 14521628,"Bosic, Stanko",CRO,M,,,,1935,0,20,MAR26,1954,
 14599961,"Bosiljevac, Bruno",CRO,M,,,,1664,0,40,MAR26,2000,
-14507927,"Bosiocic, Marin",CRO,M,GM,FT,,2542,3,10,MAR26,1988,
+14507927,"Bosiocic, Marin",CRO,M,GM,,,2542,3,10,MAR26,1988,
 14508419,"Bosiocic, Marko",CRO,M,,,,2052,0,20,MAR26,1987,
 14567245,"Bosko, Luka",CRO,M,,,,1585,0,40,MAR26,2006,i
 14536943,"Boskovic, Alen",CRO,M,,,,1742,0,40,MAR26,1964,i
@@ -435,7 +435,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 79317502,"Briski, Vito",CRO,M,,,,1577,0,40,MAR26,2013,i
 14517256,"Britvic, Darko",CRO,M,,,,1909,0,20,MAR26,1956,i
 14526883,"Brkaric, Vanja",CRO,M,,,,1741,0,40,MAR26,1947,i
-14506688,"Brkic, Ante",CRO,M,GM,FT,,2598,0,10,MAR26,1988,
+14506688,"Brkic, Ante",CRO,M,GM,,,2598,0,10,MAR26,1988,
 14567253,"Brkic, David",CRO,M,,,,1423,0,40,MAR26,2011,i
 14503271,"Brkic, Djordje",CRO,M,,,,2025,0,20,MAR26,1939,i
 14516802,"Brkic, Grga-Filip",CRO,M,,,,1973,0,20,MAR26,1993,
@@ -456,7 +456,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14554860,"Brncic, Damjan",CRO,M,,,,1595,0,40,MAR26,2005,
 79330150,"Brnic, Lea",CRO,F,,,,1480,0,40,MAR26,2011,w
 14591073,"Brstilo, Ivica",CRO,M,,,,1741,0,40,MAR26,1968,
-14506670,"Brulic, Denis",CRO,M,FM,"FI,IA",,2198,0,20,MAR26,1979,
+14506670,"Brulic, Denis",CRO,M,FM,IA,,2198,0,20,MAR26,1979,
 14501490,"Brumen, Dinko",CRO,M,IM,,,2290,0,10,MAR26,1971,
 14501554,"Brunski, Igor",CRO,M,,,,1995,0,20,MAR26,1946,i
 14512424,"Brzac, Marijan",CRO,M,,,,1890,0,20,MAR26,1968,
@@ -481,7 +481,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14517450,"Buhin, Denis",CRO,M,,,,1996,0,20,MAR26,1991,i
 14506289,"Bujan, Drago",CRO,M,,,,2128,0,40,MAR26,1944,i
 14540690,"Bujas, Niko",CRO,M,,,,1747,0,40,MAR26,1999,i
-14502941,"Bukal, Vladimir Jr.",CRO,M,IM,FT,,2286,0,10,MAR26,1975,
+14502941,"Bukal, Vladimir Jr.",CRO,M,IM,,,2286,0,10,MAR26,1975,
 14547708,"Bukovac, Ivan",CRO,M,,,,1807,0,20,MAR26,1956,
 79300375,"Bukovec, Petar",CRO,M,,,,1684,0,40,MAR26,2005,i
 14546795,"Bukvic, Marinko",CRO,M,,,,1807,0,20,MAR26,1949,i
@@ -683,7 +683,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14515024,"Cvetkovic, Ivan",CRO,M,,,,1951,0,20,MAR26,1969,
 14514338,"Cvetkovic, Ljubomir",CRO,M,,,,1803,0,40,MAR26,1948,i
 14517558,"Cvetnic, Matija",CRO,M,,,,1885,0,20,MAR26,1991,i
-14516950,"Cvetnic, Vladimir",CRO,M,,FT,,2022,0,20,MAR26,1953,i
+14516950,"Cvetnic, Vladimir",CRO,M,,,,2022,0,20,MAR26,1953,i
 14520818,"Cvijanovic, Katarina",CRO,F,,,,1610,0,40,MAR26,1966,w
 14548356,"Cvijanovic, Srecko",CRO,M,,,,1975,0,20,MAR26,1971,
 14534215,"Cvitan, Ena",CRO,F,FM,WIM,FT,2260,5,20,MAR26,2001,w
@@ -788,7 +788,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14537630,"Djuric, Petar",CRO,M,,,,1872,0,20,MAR26,1954,
 14536463,"Djurica, Matija",CRO,M,,,,1749,0,40,MAR26,1995,i
 79319149,"Djuricic, Noa",CRO,M,,,,1407,5,40,MAR26,2016,
-14509938,"Djurovic, Goran",CRO,M,IM,FI,,2306,0,10,MAR26,1986,
+14509938,"Djurovic, Goran",CRO,M,IM,,,2306,0,10,MAR26,1986,
 14522225,"Djuzel, Janko",CRO,M,,,,1823,0,20,MAR26,1970,i
 14592681,"Dmitrovic, Beata",CRO,F,,,,1534,0,40,MAR26,2009,wi
 14584174,"Doblanovic, Karlo",CRO,M,,,,1560,0,40,MAR26,2009,
@@ -1068,7 +1068,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 79301320,"Geric, Neven",CRO,M,,,,1871,0,40,MAR26,1982,i
 14554755,"Ghersinich, Carlo",CRO,M,,,,1500,0,40,MAR26,2007,i
 14540100,"Ghersinich, Enrico",CRO,M,FM,,,2255,1,20,MAR26,2001,
-14510138,"Ghersinich, Giuseppe",CRO,M,,NI,,1817,0,20,MAR26,1948,
+14510138,"Ghersinich, Giuseppe",CRO,M,,,,1817,0,20,MAR26,1948,
 14517698,"Girtsal, Dominik",CRO,M,,,,1863,0,40,MAR26,1992,i
 14557363,"Glad, Ranko",CRO,M,,,,1816,0,20,MAR26,1988,
 14545985,"Gladoic, Tomislav",CRO,M,,,,1750,0,20,MAR26,1966,i
@@ -1110,7 +1110,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14530740,"Golubicic, Djuka",CRO,M,,NA,,1705,0,20,MAR26,2002,
 14520389,"Golubicic, Luka",CRO,M,,,,1873,0,20,MAR26,1996,
 14539675,"Golubicic, Mato",CRO,M,,,,1700,0,20,MAR26,1961,
-14502160,"Golubovic, Boris",CRO,M,IM,FT,,2318,0,10,MAR26,1973,
+14502160,"Golubovic, Boris",CRO,M,IM,,,2318,0,10,MAR26,1973,
 14586908,"Golubovic, Erik",CRO,M,FM,,,2337,7,20,MAR26,2012,
 14594820,"Golubovic, Lana",CRO,F,,,,1632,0,40,MAR26,2011,w
 14401061,"Goric, Esad",CRO,M,IM,,,2145,5,10,MAR26,1954,
@@ -1705,7 +1705,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14516314,"Kelava, Ivan",CRO,M,,,,2024,0,20,MAR26,1967,i
 14510855,"Kelecic, Dragutin",CRO,M,,,,1889,0,20,MAR26,1957,
 14513102,"Kelek, Damir",CRO,M,,,,1957,0,40,MAR26,1962,i
-14506505,"Kelemen, Miljenko",CRO,M,,FI,,1974,5,,MAR26,1965,
+14506505,"Kelemen, Miljenko",CRO,M,,,,1974,5,,MAR26,1965,
 79308112,"Kelic, Zeljko",CRO,M,,,,1691,0,40,MAR26,1962,
 14517892,"Keller, Luka",CRO,M,,,,1847,0,20,MAR26,1979,i
 14541874,"Kenda, Luka",CRO,M,,,,1720,0,20,MAR26,2000,i
@@ -1895,7 +1895,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14539578,"Kovac, Vinko",CRO,M,,,,1854,0,40,MAR26,1996,i
 14559200,"Kovacek, Pavlo",CRO,M,,NA,,1844,4,20,MAR26,2005,
 14529840,"Kovacevic, Antonijo",CRO,M,,,,1797,0,40,MAR26,1986,i
-14502712,"Kovacevic, Blazimir",CRO,M,GM,FT,,2390,2,10,MAR26,1975,
+14502712,"Kovacevic, Blazimir",CRO,M,GM,,,2390,2,10,MAR26,1975,
 14558939,"Kovacevic, Danijel",CRO,M,,NA,,1825,0,20,MAR26,2001,
 79314619,"Kovacevic, Danijel",CRO,M,,,,1488,1,40,MAR26,2009,
 14545071,"Kovacevic, Djordje",CRO,M,,,,1783,0,40,MAR26,1998,i
@@ -2054,7 +2054,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14537303,"Kukurin, Luka",CRO,M,,,,2126,0,20,MAR26,1996,
 14546523,"Kulenovic, Domagoj",CRO,M,,,,1777,0,40,MAR26,2000,i
 14572001,"Kulic, Ivica",CRO,M,,,,1618,0,40,MAR26,1969,
-14506661,"Kuljasevic, Davorin",CRO,M,GM,FT,,2539,0,10,MAR26,1986,i
+14506661,"Kuljasevic, Davorin",CRO,M,GM,,,2539,0,10,MAR26,1986,i
 14592703,"Kulundzic, Dominik",CRO,M,,,,1913,0,40,MAR26,2009,
 14586550,"Kulundzic, Nikola",CRO,M,,,,1621,0,20,MAR26,2003,
 14512300,"Kuna, Sinisa",CRO,M,,,,1920,0,20,MAR26,1979,i
@@ -2351,7 +2351,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14512173,"Mandaric, Ante",CRO,M,,,,2001,0,20,MAR26,1981,
 14567385,"Mandaric, Duje",CRO,M,,,,1887,4,40,MAR26,2010,
 14557720,"Mandaric, Fran",CRO,M,,,,1831,0,20,MAR26,2007,
-14502690,"Mandekic, Ivan",CRO,M,FM,"FT,FT",,2112,0,20,MAR26,1955,
+14502690,"Mandekic, Ivan",CRO,M,FM,FT,,2112,0,20,MAR26,1955,
 14514192,"Mandic, Bojan",CRO,M,,,,1959,0,20,MAR26,1986,i
 14534398,"Mandic, Branislav",CRO,M,,,,1735,0,40,MAR26,1963,i
 14512009,"Mandl, Nino",CRO,M,,,,2070,0,20,MAR26,1978,i
@@ -2474,7 +2474,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14523485,"Maruncic, Vlaho",CRO,M,,,,1974,0,20,MAR26,1983,i
 14591995,"Marusic, Petar",CRO,M,,,,1514,1,40,MAR26,2012,
 927210,"Masirevic, Miroljub",CRO,M,,,,1792,1,20,MAR26,1958,
-927201,"Masirevic, Nikola",CRO,M,,FI,,1843,0,,MAR26,1983,
+927201,"Masirevic, Nikola",CRO,M,,,,1843,0,,MAR26,1983,
 14503913,"Maslac, Zvonimir",CRO,M,,,,2033,0,20,MAR26,1963,i
 14510383,"Maslov, Zeljko",CRO,M,,,,1967,0,20,MAR26,1982,i
 14501821,"Masnjak, Rajka",CRO,F,,,,2045,0,20,MAR26,1937,wi
@@ -2546,7 +2546,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14508010,"Mazor, Damir",CRO,M,,,,2106,0,40,MAR26,1951,i
 14538350,"Mazuran, Gabrijel",CRO,M,,,,2073,0,20,MAR26,2004,
 14538369,"Mazuran, Leopold",CRO,M,,,,1576,0,20,MAR26,2001,i
-14501716,"Mazuran, Marijan",CRO,M,,FI,,2062,0,20,MAR26,1959,
+14501716,"Mazuran, Marijan",CRO,M,,,,2062,0,20,MAR26,1959,
 14584000,"Mecev, Mile",CRO,M,,,,1745,0,20,MAR26,1958,
 14502968,"Medak, Bojan",CRO,M,FM,,,2318,1,10,MAR26,1978,
 14500590,"Medak, Damir",CRO,M,FM,,,2248,0,20,MAR26,1968,i
@@ -2730,7 +2730,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14515792,"Mrkalj, Mico",CRO,M,,,,1947,0,20,MAR26,1937,i
 14526875,"Mrkaljevic, Jakub",CRO,M,,,,1933,0,20,MAR26,1959,
 14587750,"Mrkic, Simun",CRO,M,,,,2000,8,20,MAR26,2007,
-14501333,"Mrkonjic, Nenad",CRO,M,IM,"FI,FI",,2332,0,10,MAR26,1966,
+14501333,"Mrkonjic, Nenad",CRO,M,IM,FI,,2332,0,10,MAR26,1966,
 14500930,"Mrksic, Branko",CRO,M,FM,,,2155,0,20,MAR26,1951,i
 14510880,"Mrla, Dragan",CRO,M,,,,1822,0,40,MAR26,1962,i
 14529700,"Mrmos, Petar",CRO,M,,,,1888,0,40,MAR26,1969,i
@@ -2867,7 +2867,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14531380,"Ognjenovic, Nenad",CRO,M,,,,1879,4,20,MAR26,1971,
 14513196,"Okanovic, Jasmina",CRO,F,,,,1722,0,20,MAR26,1962,w
 14512530,"Okrosa, Marijan",CRO,M,,,,2064,0,20,MAR26,1989,
-14518236,"Okrugic, Tomislav",CRO,M,,"NI,NI",,1979,0,20,MAR26,1991,
+14518236,"Okrugic, Tomislav",CRO,M,,NI,,1979,0,20,MAR26,1991,
 14515890,"Olic, Branko",CRO,M,,,,2118,0,20,MAR26,1959,i
 14552590,"Olic, Dominik",CRO,M,,,,1798,0,20,MAR26,2003,
 14510600,"Oljaca, Manuel",CRO,M,,,,1964,0,20,MAR26,1977,i
@@ -3142,7 +3142,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14505797,"Pleic, Stipe",CRO,M,,,,2182,0,40,MAR26,1974,i
 79331262,"Plenca, Duje",CRO,M,,,,1564,0,40,MAR26,2012,
 14527146,"Plenca, Jadranko",CRO,M,IM,,,2440,0,10,MAR26,1999,
-14508044,"Plenca, Julijan",CRO,M,IM,"FT,FT",,2457,1,10,MAR26,1989,
+14508044,"Plenca, Julijan",CRO,M,IM,FT,,2457,1,10,MAR26,1989,
 14509814,"Plenkovic, Bozidar",CRO,M,,,,2126,0,20,MAR26,1985,i
 14506947,"Plenkovic, Zdenko",CRO,M,IM,,,2354,9,10,MAR26,1984,
 79315968,"Plepelic, Michael",CRO,M,,,,1533,0,20,MAR26,1995,
@@ -3253,7 +3253,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14525615,"Purgar, Marijan",CRO,M,,,,1791,0,20,MAR26,1957,i
 14550989,"Purgar, Monika",CRO,F,,,,1652,0,40,MAR26,1967,wi
 14514540,"Purgar, Petra",CRO,F,,,,1920,0,40,MAR26,1989,wi
-14521296,"Puric, Bojan",CRO,M,,"FI,FI",,1687,0,20,MAR26,1982,
+14521296,"Puric, Bojan",CRO,M,,FI,,1687,0,20,MAR26,1982,
 14558670,"Purini, Bruno",CRO,M,,,,2020,5,20,MAR26,2002,
 14534932,"Purkic, Ivan",CRO,M,,,,1776,0,40,MAR26,1941,i
 14538806,"Purkic, Ruza",CRO,F,,,,1842,0,20,MAR26,1999,w
@@ -4000,7 +4000,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14519577,"Tomac, Rudika",CRO,M,,NA,,1874,0,20,MAR26,1953,
 14530317,"Tomac, Vanja",CRO,M,,,,1933,0,20,MAR26,1976,
 14575302,"Tomaic, Ema",CRO,F,,,,1557,2,40,MAR26,2011,w
-14505541,"Tomaic, Goran",CRO,M,,NI,,2064,2,20,MAR26,1981,
+14505541,"Tomaic, Goran",CRO,M,,,,2064,2,20,MAR26,1981,
 14558700,"Tomaic, Nikola",CRO,M,,,,1738,0,40,MAR26,2009,
 14530929,"Tomas, Ante",CRO,M,,NI,,2139,9,20,MAR26,1994,
 79315259,"Tomas, Niksa",CRO,M,,,,1830,0,40,MAR26,2009,
@@ -4413,7 +4413,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 79306128,"Zelcic, Ivan",CRO,M,,,,1528,0,40,MAR26,2011,
 14500310,"Zelcic, Robert",CRO,M,GM,FT,,2448,0,10,MAR26,1965,
 14513161,"Zelenika, Drago",CRO,M,,,,2117,0,40,MAR26,1953,i
-14501350,"Zelenika, Srdjan",CRO,M,FM,FT,,2176,0,20,MAR26,1965,
+14501350,"Zelenika, Srdjan",CRO,M,FM,,,2176,0,20,MAR26,1965,
 14596881,"Zelenika, Viana",CRO,F,,,,1614,0,40,MAR26,2005,wi
 14534452,"Zelenika, Zoran",CRO,M,,,,2035,0,20,MAR26,1968,
 14545691,"Zeleznik, Matija",CRO,M,,,,1577,0,40,MAR26,2002,i

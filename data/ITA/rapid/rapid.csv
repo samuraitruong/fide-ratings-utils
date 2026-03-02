@@ -43,8 +43,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 814415,"Aceto, Lorenzo",ITA,M,,,,1984,0,20,MAR26,1974,i
 899496,"Achenza, Luigi",ITA,M,,,,1827,0,20,MAR26,1958,i
 28568010,"Acosta Loor, Tamia",ITA,F,,,,1432,0,40,MAR26,2008,wi
-862398,"Acquarone, Matteo",ITA,M,,,,1918,0,20,MAR26,1997,i
 23413549,"Acquarone, Matteo",ITA,M,,,,1672,0,40,MAR26,1996,i
+862398,"Acquarone, Matteo",ITA,M,,,,1918,0,20,MAR26,1997,i
 888494,"Acremoni, Giovanni",ITA,M,,,,1911,0,20,MAR26,1954,i
 825751,"Acunzo, Domenico",ITA,M,,,,1741,0,20,MAR26,1942,i
 28595220,"Adami, Aurelio Augusto",ITA,M,,,,1417,0,40,MAR26,2012,i
@@ -141,7 +141,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23449225,"Albani, Antonio",ITA,M,,,,1651,0,40,MAR26,2013,
 844438,"Albano, Axel",ITA,M,,,,1744,0,20,MAR26,1992,
 23424958,"Albano, Danilo",ITA,M,,,,1473,0,40,MAR26,2011,i
-891703,"Albano, Francesco",ITA,M,,"NI,NI",,1651,0,,MAR26,1963,
+891703,"Albano, Francesco",ITA,M,,NI,,1651,0,,MAR26,1963,
 23486031,"Albano, Francesco",ITA,M,,,,1595,0,40,MAR26,2002,
 28534310,"Albano, Giuseppe",ITA,M,,,,1427,0,40,MAR26,2010,
 801178,"Albano, Marco",ITA,M,FM,,,2220,0,20,MAR26,1947,i
@@ -610,8 +610,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2817093,"Baccelliere, Donato",ITA,M,,,,1688,0,20,MAR26,1965,i
 866962,"Bacchini, Stefano",ITA,M,,,,1978,0,,MAR26,1967,
 2861149,"Bacchis, Daniele",ITA,M,,,,1561,0,40,MAR26,1995,i
-891614,"Bacci, Andrea",ITA,M,,,,1712,0,20,MAR26,1974,i
 28563077,"Bacci, Andrea",ITA,M,,,,1477,0,20,MAR26,2000,i
+891614,"Bacci, Andrea",ITA,M,,,,1712,0,20,MAR26,1974,i
 28550676,"Bacci, Gioele",ITA,M,,,,1512,0,40,MAR26,2006,i
 552021386,"Bacci, Pietro",ITA,M,,,,1738,0,40,MAR26,2008,
 2868968,"Bacciu, Beatrice",ITA,F,,,,1470,0,40,MAR26,2009,wi
@@ -725,7 +725,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 552015130,"Ballotta, Jimmy",ITA,M,,,,1580,0,40,MAR26,1980,
 2816429,"Ballotti, Luca",ITA,M,CM,,,2213,0,20,MAR26,2004,
 2815538,"Ballotti, Matteo",ITA,M,,,,1509,0,20,MAR26,2007,i
-827533,"Baloire, Endy",ITA,M,,NI,,2035,0,20,MAR26,1991,
+827533,"Baloire, Endy",ITA,M,,,,2035,0,20,MAR26,1991,
 23413034,"Balossi, Alessandro",ITA,M,,,,1731,0,40,MAR26,2004,i
 23427787,"Balsama`, Jesus",ITA,M,,,,1530,0,40,MAR26,1988,i
 2816437,"Balsano, Giulio",ITA,M,,,,1765,0,20,MAR26,2004,i
@@ -914,8 +914,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 879916,"Batoni, Fabrizio",ITA,M,,,,1912,0,20,MAR26,1959,
 840670,"Battaglia, Fabio",ITA,M,,,,1921,0,20,MAR26,1990,
 2819452,"Battaglia, Fabio",ITA,M,,,,1945,0,20,MAR26,1990,i
-23427701,"Battaglia, Francesco",ITA,M,,,,1406,0,40,MAR26,2013,
 552012883,"Battaglia, Francesco",ITA,M,,,,1731,6,40,MAR26,1990,
+23427701,"Battaglia, Francesco",ITA,M,,,,1406,0,40,MAR26,2013,
 804495,"Battaglia, Gabriele",ITA,M,,,,1633,0,20,MAR26,1974,
 28561643,"Battaglia, Giovanni",ITA,M,,,,1600,0,20,MAR26,1965,i
 823279,"Battaglia, Giuseppe",ITA,M,,,,1759,0,20,MAR26,1961,i
@@ -1088,7 +1088,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2811451,"Beqiraj, Ismail",ITA,M,,,,1673,0,20,MAR26,1953,i
 28553454,"Bera, Pietro",ITA,M,,,,1694,0,40,MAR26,2006,i
 2827390,"Beraldo, Emma",ITA,F,,,,1564,0,20,MAR26,2003,wi
-28515315,"Beraldo, Gianmarco",ITA,M,,NI,,1631,0,20,MAR26,1967,
+28515315,"Beraldo, Gianmarco",ITA,M,,,,1631,0,20,MAR26,1967,
 28563026,"Berardi, Cosimo",ITA,M,,,,1695,0,20,MAR26,2000,
 28550730,"Berardi, Giulio Raul",ITA,M,,,,1520,0,40,MAR26,2012,i
 833231,"Berardi, Pietro",ITA,M,,,,1608,0,40,MAR26,1943,i
@@ -2534,7 +2534,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 28588614,"Caruso, Andrea",ITA,M,,,,1492,0,40,MAR26,2010,i
 28569768,"Caruso, Andrea",ITA,M,,,,1671,0,40,MAR26,1980,i
 822604,"Caruso, Antonino",ITA,M,,,,1794,0,20,MAR26,1959,i
-801763,"Caruso, Augusto",ITA,M,,FT,,2153,0,20,MAR26,1963,
+801763,"Caruso, Augusto",ITA,M,,,,2153,0,20,MAR26,1963,
 804614,"Caruso, Daniele",ITA,M,,,,2065,0,20,MAR26,1954,i
 896250,"Caruso, Domenico",ITA,M,,,,1902,0,20,MAR26,1956,i
 23400714,"Caruso, Giovanni",ITA,M,,NI,,1710,0,40,MAR26,1992,i
@@ -3546,7 +3546,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2835610,"Costa, Vincenzo",ITA,M,,,,1698,0,20,MAR26,1971,i
 28563719,"Costa, Vittorio",ITA,M,,,,1545,0,20,MAR26,1959,i
 23469382,"Costabile, Alfonso",ITA,M,,,,1677,0,40,MAR26,1990,i
-859621,"Costabile, Vincenzo",ITA,M,,"NI,NI",,1857,0,20,MAR26,1991,
+859621,"Costabile, Vincenzo",ITA,M,,NI,,1857,0,20,MAR26,1991,
 2863273,"Costalonga, Mauro",ITA,M,,,,1742,0,20,MAR26,1969,
 23401710,"Costamagna, Cristiano",ITA,M,,,,1720,0,20,MAR26,1969,i
 23445378,"Costamagna, Jorge",ITA,M,,,,1807,0,40,MAR26,1984,
@@ -4059,7 +4059,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 552000834,"Decurione, Alessio",ITA,M,,,,1712,0,40,MAR26,2011,
 887986,"Defina, Francesco",ITA,M,,,,2077,0,20,MAR26,1990,i
 2840672,"Degi, Remus Ioan",ITA,M,,,,2008,0,20,MAR26,1976,i
-373199187,"Degiorgis, Giorgio",ITA,M,,"NI,NI",,1845,0,20,MAR26,1960,i
+373199187,"Degiorgis, Giorgio",ITA,M,,NI,,1845,0,20,MAR26,1960,i
 28529332,"Degli Atti, Lorenzo",ITA,M,,,,1691,0,40,MAR26,2007,i
 2889914,"Degli Esposti, Fabio",ITA,M,,,,1854,0,20,MAR26,1965,i
 28549112,"Degli Esposti, Tommaso",ITA,M,,,,1406,0,40,MAR26,2008,i
@@ -4519,7 +4519,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 552023478,"Dimastrochicco, Saverio",ITA,M,,,,1546,5,40,MAR26,1984,
 28584821,"Dimastrogiovanni, Mauro",ITA,M,,,,1696,0,20,MAR26,1992,i
 861014,"Dimiccoli, Carmine",ITA,M,,,,1555,0,20,MAR26,1977,
-929239,"Dimitrijevic, Aleksandra",ITA,F,WGM,WGM,"FT,SI,LSI,IA",2133,0,20,MAR26,1986,w
+929239,"Dimitrijevic, Aleksandra",ITA,F,WGM,WGM,"SI,LSI,IA",2133,0,20,MAR26,1986,w
 552023907,"Dinale, Mirko",ITA,M,,,,1522,0,40,MAR26,1989,
 2845640,"Dinamo, Giulio",ITA,M,,,,1656,0,20,MAR26,2002,i
 28511247,"Dindo, Nicola",ITA,M,,,,1537,0,40,MAR26,2007,i
@@ -4585,7 +4585,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 28541324,"Dondi, Renzo",ITA,M,,,,1597,0,20,MAR26,1939,i
 857360,"Donelli, Sergio",ITA,M,,,,1766,0,20,MAR26,1938,i
 28589505,"Donetti, Igor",ITA,M,,,,1523,0,40,MAR26,2015,
-855839,"Donghi, Fabio",ITA,M,,"NI,NI",,1642,0,20,MAR26,1956,
+855839,"Donghi, Fabio",ITA,M,,NI,,1642,0,20,MAR26,1956,
 23427140,"Donina, Emma",ITA,F,,,,1655,0,40,MAR26,2015,w
 28561147,"Donini, Francesco",ITA,M,,,,1784,0,20,MAR26,2004,i
 23443219,"Donno, Gabriele",ITA,M,,,,1444,0,40,MAR26,2001,
@@ -5142,7 +5142,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 810290,"Ferro, Mario",ITA,M,FM,,,2203,0,20,MAR26,1983,i
 28537416,"Ferro, Raffaele",ITA,M,,,,1660,0,20,MAR26,1977,i
 2837485,"Ferrone, Silvano",ITA,M,,,,1703,0,20,MAR26,1951,i
-373104568,"Ferroni, Claudio",ITA,M,,"DI,DI",,1503,0,40,MAR26,1961,
+373104568,"Ferroni, Claudio",ITA,M,,DI,,1503,0,40,MAR26,1961,
 28577671,"Fersini, Maurizio",ITA,M,,,,1746,0,20,MAR26,1962,
 28561929,"Festa, Cesare",ITA,M,,,,2001,0,20,MAR26,2005,
 818739,"Festa, Giovanni",ITA,M,,,,1876,0,20,MAR26,1964,i
@@ -5576,7 +5576,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 818267,"Galassi, Federico",ITA,M,,,,2091,0,20,MAR26,1976,i
 23492848,"Galassi, Paolo",ITA,M,,,,1416,4,40,MAR26,2014,
 2892656,"Galasso, Carmen",ITA,F,,,,1514,0,20,MAR26,2006,wi
-835730,"Galasso, Daniele Francesco",ITA,M,,"DI,DI",,1718,0,20,MAR26,1972,
+835730,"Galasso, Daniele Francesco",ITA,M,,DI,,1718,0,20,MAR26,1972,
 23421185,"Galasso, Raffaele",ITA,M,,,,1633,0,40,MAR26,2012,
 28542665,"Galati, Diego Ernesto",ITA,M,,,,1626,0,40,MAR26,2009,
 825808,"Galbiati, Alessandro",ITA,M,,,,1803,0,20,MAR26,1951,i
@@ -5824,7 +5824,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 866555,"Gennaro, Isabella",ITA,F,,,,1896,0,20,MAR26,1997,w
 806463,"Genocchio, Daniele",ITA,M,IM,,,2389,0,10,MAR26,1981,
 2801588,"Genoni, Roberto",ITA,M,,,,1690,0,20,MAR26,1963,
-28574893,"Genovese, Alberto",ITA,M,,"NI,NA",,1969,0,20,MAR26,1971,
+28574893,"Genovese, Alberto",ITA,M,,NA,,1969,0,20,MAR26,1971,
 23469820,"Genovese, Alessandro",ITA,M,,,,1507,0,40,MAR26,1964,
 28588010,"Genovese, Claudio",ITA,M,,,,1517,0,40,MAR26,1995,i
 2887261,"Genovese, Gabriel",ITA,M,,,,1572,0,40,MAR26,2010,
@@ -6196,7 +6196,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 841080,"Gonella, Daniele",ITA,M,,,,2179,7,20,MAR26,1994,
 838926,"Gonella, Graziano",ITA,M,,,,1439,6,20,MAR26,1958,
 552014126,"Gonzi, Stefano",ITA,M,,,,1545,0,40,MAR26,2005,
-2804080,"Gonzini, Gianmaria",ITA,M,,FI,,1966,0,20,MAR26,1973,i
+2804080,"Gonzini, Gianmaria",ITA,M,,,,1966,0,20,MAR26,1973,i
 23466472,"Goodman, Sami",ITA,M,,,,1458,0,40,MAR26,2010,
 28544722,"Gordano, Biagio",ITA,M,,,,1482,0,40,MAR26,2011,i
 802816,"Gorgoglione, Enrico",ITA,M,,,,2111,0,20,MAR26,1988,
@@ -6834,8 +6834,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2874895,"Lagrasta, Fedele",ITA,M,,,,1749,0,20,MAR26,1979,
 802492,"Lagrotteria, Salvatore",ITA,M,,,,1984,0,20,MAR26,1959,i
 800619,"Lagumina, Giulio",ITA,M,FM,,,2282,0,20,MAR26,1959,i
-2839151,"Lai, Gabriele",ITA,M,,,,1507,0,40,MAR26,2006,i
 2852263,"Lai, Gabriele",ITA,M,,,,1547,0,20,MAR26,2003,i
+2839151,"Lai, Gabriele",ITA,M,,,,1507,0,40,MAR26,2006,i
 2814558,"Lai, Lorenzo",ITA,M,,,,1774,0,20,MAR26,2002,i
 552021270,"Lai, Mario",ITA,M,,,,1614,0,40,MAR26,2017,
 885100,"Laico, Emanuele",ITA,M,,,,1926,0,20,MAR26,2001,i
@@ -7649,8 +7649,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23469153,"Mancuso, Giovanni",ITA,M,,,,1636,0,40,MAR26,1972,i
 23414472,"Mancuso, Luigi",ITA,M,,,,1605,0,40,MAR26,2011,
 28564120,"Mancuso, Marcello",ITA,M,,,,1687,0,20,MAR26,1967,
-23469161,"Mancuso, Marco",ITA,M,,,,1586,0,40,MAR26,2008,i
 28509080,"Mancuso, Marco",ITA,M,,,,1543,0,40,MAR26,2006,i
+23469161,"Mancuso, Marco",ITA,M,,,,1586,0,40,MAR26,2008,i
 23468211,"Mancuso, Mattia",ITA,M,,,,1964,0,40,MAR26,2016,
 23468220,"Mancuso, Monica",ITA,F,,,,1668,0,40,MAR26,2012,w
 23450185,"Mancuso, Raffaele Alessandro",ITA,M,,,,1538,0,40,MAR26,1989,i
@@ -8022,8 +8022,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23465883,"Martini, Leonardo",ITA,M,,,,1816,0,20,MAR26,2004,
 552003280,"Martini, Lucrezia",ITA,F,,,,1581,0,40,MAR26,2011,w
 28581920,"Martini, Massimo",ITA,M,,,,1423,0,20,MAR26,1970,
-552009505,"Martini, Paolo",ITA,M,,,,1441,0,40,MAR26,1967,
 28545613,"Martini, Paolo",ITA,M,,,,1469,0,40,MAR26,2009,i
+552009505,"Martini, Paolo",ITA,M,,,,1441,0,40,MAR26,1967,
 28575725,"Martini, Riccardo",ITA,M,,,,1837,0,20,MAR26,2006,
 2851232,"Martini, Roberto",ITA,M,,,,1563,0,20,MAR26,1956,i
 28508238,"Martino, Antonio",ITA,M,,,,1599,0,20,MAR26,1961,i
@@ -8128,7 +8128,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23408537,"Massimo, Nicholas Angelo",ITA,M,,,,1477,0,40,MAR26,2006,i
 28516184,"Massimo, Paolo",ITA,M,,,,1531,0,20,MAR26,1997,i
 552023109,"Massini, Vittorio",ITA,M,,,,1524,0,40,MAR26,1967,
-814369,"Massironi, Marco",ITA,M,CM,FT,,2214,0,20,MAR26,1986,i
+814369,"Massironi, Marco",ITA,M,CM,,,2214,0,20,MAR26,1986,i
 2896163,"Mastrangelo, Antonio",ITA,M,,,,1415,0,40,MAR26,2010,i
 28538374,"Mastrantoni, Emanuele",ITA,M,,,,1605,5,20,MAR26,1981,
 2881620,"Mastrobuoni, Carlo",ITA,M,,,,1500,0,40,MAR26,2006,i
@@ -8175,7 +8175,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 811297,"Mattei, Marco",ITA,M,,,,2061,0,40,MAR26,1958,
 23454741,"Mattei, Tiziano",ITA,M,,,,1578,0,40,MAR26,1996,i
 23442999,"Matteo, Davide",ITA,M,,,,1526,0,40,MAR26,2009,i
-844950,"Matteoli, Maurizio",ITA,M,,FI,,1879,0,20,MAR26,1983,i
+844950,"Matteoli, Maurizio",ITA,M,,,,1879,0,20,MAR26,1983,i
 23423412,"Matteoli, Yuri",ITA,M,,,,1453,5,40,MAR26,1996,
 23408383,"Matteoni, Erik",ITA,M,,,,1421,2,40,MAR26,2013,
 2849173,"Matterlin, Matteo",ITA,M,,,,1712,0,20,MAR26,2004,i
@@ -8577,7 +8577,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 28560108,"Mineo, Mattia",ITA,M,,,,1596,0,40,MAR26,2011,
 863130,"Minerba, Paolo",ITA,M,,,,1954,0,20,MAR26,1997,i
 2870890,"Minerba, Tommaso",ITA,M,,,,1603,0,40,MAR26,2010,
-807885,"Minerva, Enzo",ITA,M,,FI,,1882,0,20,MAR26,1962,i
+807885,"Minerva, Enzo",ITA,M,,,,1882,0,20,MAR26,1962,i
 28556070,"Minerva, Nicola",ITA,M,,,,1426,0,40,MAR26,2013,i
 23426020,"Minervino, Francesco",ITA,M,,,,1495,0,40,MAR26,1985,i
 812927,"Mingolla, Patrizio",ITA,M,,NA,,1780,0,20,MAR26,1962,
@@ -8660,7 +8660,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 28508378,"Modoranu, Stefan-Marius",ITA,M,,,,1548,0,40,MAR26,2007,i
 369268770,"Moglia, Matteo",ITA,M,,,,1758,0,40,MAR26,1986,
 23423315,"Moglianesi, Davide",ITA,M,,,,1764,0,20,MAR26,1997,
-810894,"Mogranzini, Roberto",ITA,M,GM,FST,,2443,0,10,MAR26,1983,i
+810894,"Mogranzini, Roberto",ITA,M,GM,,,2443,0,10,MAR26,1983,i
 28530462,"Mohamed Osman, Abdullahi",ITA,M,,,,1574,0,40,MAR26,2010,i
 552005518,"Mohamed, Aisha",ITA,F,,,,1587,0,40,MAR26,2009,w
 2848819,"Mohammadian, Dariush",ITA,M,,,,1669,0,20,MAR26,1987,i
@@ -9254,7 +9254,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 865605,"Oliva, Silvano",ITA,M,,,,1609,0,20,MAR26,1946,i
 850586,"Olivari, Antonio Maria Luigi",ITA,M,,,,1728,0,20,MAR26,1955,i
 552016048,"Oliveira Provenzano, Frederico",ITA,M,,,,1632,4,40,MAR26,2011,
-2815007,"Oliveri, Claudio",ITA,M,,"DI,DI",,1711,6,20,MAR26,1979,
+2815007,"Oliveri, Claudio",ITA,M,,DI,,1711,6,20,MAR26,1979,
 28559754,"Oliveri, Giovanni",ITA,M,,,,1655,0,40,MAR26,2001,
 2835113,"Oliveri, Umberto",ITA,M,,,,1704,0,20,MAR26,2002,i
 28567579,"Olivero, Massimiliano",ITA,M,,,,1616,0,20,MAR26,1970,
@@ -9440,8 +9440,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23420316,"Pagani, Matteo Enzio",ITA,M,,,,1472,0,20,MAR26,1983,
 857009,"Paganini, Andrea",ITA,M,,,,1927,0,20,MAR26,1983,i
 23427833,"Pagano, Andrea Jonathan",ITA,M,,,,1521,1,40,MAR26,1991,
-2893725,"Pagano, Ivan",ITA,M,,,,1633,0,20,MAR26,1989,i
 23468254,"Pagano, Ivan",ITA,M,,,,1410,0,40,MAR26,1987,i
+2893725,"Pagano, Ivan",ITA,M,,,,1633,0,20,MAR26,1989,i
 2867473,"Pagano, Mattia",ITA,M,,,,1474,0,40,MAR26,2011,i
 2845402,"Pagano, Michele",ITA,M,,,,1795,0,20,MAR26,1968,i
 23477415,"Pagano, Pietro Saverio",ITA,M,,,,1647,0,40,MAR26,2000,
@@ -9886,8 +9886,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 28543181,"Pellegrino, Angelo Alberto",ITA,M,,,,1713,0,20,MAR26,1958,i
 2817107,"Pellegrino, Carlo",ITA,M,,,,1686,0,20,MAR26,1963,i
 894664,"Pellegrino, Giovanni",ITA,M,,,,1745,0,20,MAR26,2000,i
-23439807,"Pellegrino, Giovanni",ITA,M,,,,1609,0,40,MAR26,2001,i
 28514670,"Pellegrino, Giovanni",ITA,M,,,,1616,0,20,MAR26,1987,i
+23439807,"Pellegrino, Giovanni",ITA,M,,,,1609,0,40,MAR26,2001,i
 2860738,"Pellegrino, Giuseppe",ITA,M,,,,1724,0,20,MAR26,1962,
 28569172,"Pellegrino, Giuseppe",ITA,M,,,,1755,0,20,MAR26,1999,i
 2805290,"Pellegrino, Laura",ITA,F,,,,1606,0,20,MAR26,2002,wi
@@ -10639,8 +10639,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 28548930,"Puccini, Giovanni",ITA,M,,,,1817,0,40,MAR26,2008,
 23421398,"Puce, Alessandro",ITA,M,,,,1535,0,40,MAR26,2008,i
 28546040,"Puchta, Anna",ITA,F,,,,1760,0,20,MAR26,1985,wi
-28589696,"Puddu, Alessandro",ITA,M,,,,1505,0,40,MAR26,1977,i
 23459476,"Puddu, Alessandro",ITA,M,,,,1567,0,40,MAR26,2012,
+28589696,"Puddu, Alessandro",ITA,M,,,,1505,0,40,MAR26,1977,i
 23418680,"Puddu, Benvenuto",ITA,M,,,,1602,0,40,MAR26,1963,i
 2864911,"Puddu, Erika",ITA,F,,,,1411,0,40,MAR26,2006,wi
 23495715,"Puddu, Federico",ITA,M,,,,1684,0,40,MAR26,2010,
@@ -10962,8 +10962,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 28581342,"Ricci, Marco",ITA,M,,,,1625,6,20,MAR26,1993,
 28544170,"Ricci, Mario",ITA,M,,,,1657,0,40,MAR26,2010,
 822825,"Ricci, Massimo",ITA,M,,,,1817,0,20,MAR26,1961,i
-23449802,"Ricci, Matteo",ITA,M,,,,1546,0,40,MAR26,2009,
 28586611,"Ricci, Matteo",ITA,M,,,,1651,0,20,MAR26,1989,i
+23449802,"Ricci, Matteo",ITA,M,,,,1546,0,40,MAR26,2009,
 823376,"Ricci, Stefano",ITA,M,,,,1884,0,20,MAR26,1980,i
 28527488,"Ricciardelli, Davide",ITA,M,,,,1633,0,20,MAR26,2004,i
 28527496,"Ricciardelli, Marco",ITA,M,,,,1528,0,40,MAR26,2009,i
@@ -11219,7 +11219,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23480890,"Rondi, Tommaso",ITA,M,,,,1641,0,40,MAR26,2007,
 28585666,"Rondini, Andrea Cristiano",ITA,M,,,,1585,0,20,MAR26,1961,i
 28510500,"Ronzani, Lorenzo",ITA,M,,,,1435,0,40,MAR26,2009,i
-828335,"Ronzano, Luca",ITA,M,,FI,,1816,0,20,MAR26,1967,
+828335,"Ronzano, Luca",ITA,M,,,,1816,0,20,MAR26,1967,
 23409924,"Ronzino, Pierpaolo",ITA,M,,,,1763,0,40,MAR26,1968,i
 23495278,"Roppa, Antonio",ITA,M,,,,1482,2,40,MAR26,2016,
 28557930,"Roppolo, Vito",ITA,M,,,,1588,0,20,MAR26,1973,i
@@ -11288,8 +11288,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 829110,"Rossi, Paolo",ITA,M,,,,1896,0,20,MAR26,1958,i
 2829903,"Rossi, Paolo",ITA,M,,,,1807,0,20,MAR26,1972,i
 2806156,"Rossi, Paolo",ITA,M,,,,1718,0,20,MAR26,1982,i
-23426047,"Rossi, Paolo",ITA,M,,,,1622,0,20,MAR26,1961,
 28567315,"Rossi, Paolo",ITA,M,,,,1680,0,20,MAR26,1978,i
+23426047,"Rossi, Paolo",ITA,M,,,,1622,0,20,MAR26,1961,
 851400,"Rossi, Pierluigi",ITA,M,,,,1923,0,20,MAR26,1986,i
 28582217,"Rossi, Roberto",ITA,M,,,,1718,0,20,MAR26,1958,
 2833994,"Rossi, Roberto",ITA,M,,,,1656,0,20,MAR26,1950,i
@@ -12021,7 +12021,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23441860,"Secomandi, Mirko",ITA,M,,,,1555,0,40,MAR26,1999,i
 839485,"Secondi, Alberto",ITA,M,,,,1578,0,20,MAR26,1963,i
 871885,"Sedile, Giovanni Leonardo",ITA,M,,,,1765,0,20,MAR26,1951,i
-812153,"Sedina, Elena",ITA,F,IM,WGM,FT,2252,0,20,MAR26,1968,wi
+812153,"Sedina, Elena",ITA,F,IM,WGM,,2252,0,20,MAR26,1968,wi
 23483490,"Sedioli, Francesco",ITA,M,,,,1518,0,40,MAR26,1968,
 23462205,"Sedioli, Matteo Maria",ITA,M,,,,1443,0,40,MAR26,2017,
 2857583,"Sedoni, Antonio",ITA,M,,,,1708,0,20,MAR26,1947,i
@@ -12421,7 +12421,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 28589947,"Spatarella, Kevin",ITA,M,,,,1589,0,20,MAR26,2002,i
 846813,"Spataro, Enrico",ITA,M,,,,1774,0,20,MAR26,1989,i
 2843604,"Spatola Mayo, Francesco",ITA,M,,NA,,1696,0,20,MAR26,2002,i
-821853,"Spatola, Davide",ITA,M,,FI,,1963,0,20,MAR26,1969,i
+821853,"Spatola, Davide",ITA,M,,,,1963,0,20,MAR26,1969,i
 2822135,"Spatrisano, Diego",ITA,M,,,,1844,0,20,MAR26,1992,i
 23479930,"Speca, Ascanio",ITA,M,,,,1629,0,40,MAR26,2011,
 23411660,"Specchio, Carlo",ITA,M,,,,1522,0,40,MAR26,2002,
@@ -13124,8 +13124,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2823425,"Tutone, Andrea",ITA,M,,,,1743,0,20,MAR26,2001,i
 23476460,"Tuttoilmondo, Francesco",ITA,M,,,,1542,0,40,MAR26,2009,
 552007855,"Tutuianu, Radu",ITA,M,,,,1832,0,40,MAR26,1993,
-23429976,"Ubaldi, Daniele",ITA,M,,,,1474,0,40,MAR26,1978,i
 2886257,"Ubaldi, Daniele",ITA,M,,,,1624,0,20,MAR26,1991,i
+23429976,"Ubaldi, Daniele",ITA,M,,,,1474,0,40,MAR26,1978,i
 28500237,"Ubaldi, Filippo",ITA,M,,,,1422,0,40,MAR26,2011,
 23435070,"Ubaldi, Guglielmo",ITA,M,,,,1579,0,40,MAR26,1979,i
 28560590,"Ubaldi, Rocco Alvaro",ITA,M,,,,1781,0,20,MAR26,2004,
@@ -13194,8 +13194,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23432756,"Valenta, Gabriele",ITA,M,,,,1549,0,40,MAR26,2000,i
 28513894,"Valente, Alessia",ITA,F,,,,1480,0,40,MAR26,2009,wi
 23421339,"Valente, Luca",ITA,M,,,,1665,0,40,MAR26,2007,
-2859756,"Valente, Luca",ITA,M,,,,1713,0,20,MAR26,1984,i
 847003,"Valente, Luca",ITA,M,,,,1933,0,20,MAR26,1974,i
+2859756,"Valente, Luca",ITA,M,,,,1713,0,20,MAR26,1984,i
 23475080,"Valente, Nunzio",ITA,M,,,,1563,0,40,MAR26,2009,
 28554655,"Valente, Simone",ITA,M,,,,1652,0,40,MAR26,2006,i
 801119,"Valenti, Giuseppe",ITA,M,FM,,,2041,0,20,MAR26,1950,i
@@ -13579,7 +13579,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 28541375,"Vivolo, Riccardo",ITA,M,,,,1772,0,20,MAR26,1989,i
 23474394,"Vlase, Luca Cristian",ITA,M,,,,1475,5,40,MAR26,2010,
 28585186,"Vocali, Francesco",ITA,M,,,,1805,0,20,MAR26,1980,
-813192,"Vocaturo, Daniele",ITA,M,GM,FT,,2576,0,10,MAR26,1989,i
+813192,"Vocaturo, Daniele",ITA,M,GM,,,2576,0,10,MAR26,1989,i
 863564,"Vocaturo, Riccardo",ITA,M,,,,1971,0,20,MAR26,1997,i
 2829970,"Voicu, Razvan Adrian",ITA,M,,,,1814,0,20,MAR26,1976,i
 23434520,"Volonte`, Edoardo",ITA,M,,,,1456,0,40,MAR26,2009,i

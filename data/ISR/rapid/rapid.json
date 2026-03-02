@@ -7620,21 +7620,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "2817012",
-    "Name": "Cohen, Amir",
-    "Fed": "ISR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1927",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "MAR26",
-    "B-day": "1976",
-    "Flag": "i"
-  },
-  {
     "ID Number": "2828880",
     "Name": "Cohen, Amir",
     "Fed": "ISR",
@@ -7647,6 +7632,21 @@
     "K": "20",
     "RatingMonth": "MAR26",
     "B-day": "1973",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "2817012",
+    "Name": "Cohen, Amir",
+    "Fed": "ISR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1927",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "MAR26",
+    "B-day": "1976",
     "Flag": "i"
   },
   {
@@ -31190,7 +31190,7 @@
     "Fed": "ISR",
     "Sex": "M",
     "Title": "",
-    "WTit": "NI,NI",
+    "WTit": "NI",
     "OTit": "",
     "Rating": "1879",
     "Gms": "0",

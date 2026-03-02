@@ -39,7 +39,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2937530,Angelova Kristina,BUL,F,,,,1449,0,40,MAR26,2009,wi
 2926016,"Angelova, Lara",BUL,F,,,,1591,0,20,MAR26,2003,wi
 2939843,"Antonov, Vasil",BUL,M,,,,1504,0,40,MAR26,2014,i
-2915235,"Antova, Gabriela",BUL,F,FM,WGM,FI,2154,0,20,MAR26,2002,w
+2915235,"Antova, Gabriela",BUL,F,FM,WGM,,2154,0,20,MAR26,2002,w
 2923874,"Apostolov, Teodor",BUL,M,,,,1784,0,20,MAR26,1974,
 2921847,"Apulcheva, Kristina",BUL,F,,,,1549,0,20,MAR26,2005,wi
 2934884,"Ardenski, Dimitar",BUL,M,,,,1921,0,20,MAR26,2006,
@@ -155,7 +155,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2948540,"Chaushev, Stanimir",BUL,M,,,,1688,0,20,MAR26,1985,
 2934744,"Chelibiev, Kristiyan",BUL,M,,,,1571,0,20,MAR26,2007,i
 2911400,"Chepandov, Georgi",BUL,M,,,,1824,0,20,MAR26,1946,i
-2905540,"Cheparinov, Ivan",BUL,M,GM,FST,,2575,0,10,MAR26,1986,
+2905540,"Cheparinov, Ivan",BUL,M,GM,,,2575,0,10,MAR26,1986,
 2921057,"Chilikova, Eli",BUL,F,,,,1660,0,20,MAR26,2002,wi
 2930439,"Chirakov, Petar",BUL,M,,,,1900,0,20,MAR26,1976,i
 2934892,"Chirkov, Asen",BUL,M,,,,1959,0,20,MAR26,1972,i
@@ -734,7 +734,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2910519,"Mishkovski, Lubomir",BUL,M,,,,1955,0,20,MAR26,1980,i
 2957795,"Mitev, Atila",BUL,M,,,,1434,0,40,MAR26,2017,
 2903474,"Mitev, Kamen",BUL,M,,,,1690,0,20,MAR26,1968,i
-2913348,"Mitev, Miroslav",BUL,M,,"FI,IA",,1895,0,20,MAR26,1990,i
+2913348,"Mitev, Miroslav",BUL,M,,IA,,1895,0,20,MAR26,1990,i
 2929287,"Mitev, Mitko",BUL,M,,,,1803,0,20,MAR26,1965,i
 2920760,"Mitev, Stanislav",BUL,M,,,,1747,0,20,MAR26,2003,i
 2921707,"Mitev, Valentin",BUL,M,FM,,,2238,0,20,MAR26,2004,
@@ -824,7 +824,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2908689,"Nikolova, Adriana",BUL,F,WGM,WGM,,2215,0,20,MAR26,1988,w
 2948249,"Nikolova, Bozhana",BUL,F,,,,1537,0,20,MAR26,1991,wi
 2903962,"Ninchev, Daniel",BUL,M,,,,1909,0,20,MAR26,1996,i
-2911060,"Ninov, Dayan",BUL,M,FM,"FT,FA",,2189,0,20,MAR26,1993,i
+2911060,"Ninov, Dayan",BUL,M,FM,FA,,2189,0,20,MAR26,1993,i
 2900424,"Ninov, Nikolai",BUL,M,GM,,,2388,0,10,MAR26,1969,i
 2903890,"Ninov, Ventsislav",BUL,M,,,,2166,0,20,MAR26,1973,
 2934426,"Ninova, Katrin",BUL,F,,,,1494,0,20,MAR26,2006,wi
@@ -907,7 +907,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2904411,"Petrov, Ivan",BUL,M,,,,2157,0,20,MAR26,1972,
 2926180,"Petrov, Ivo",BUL,M,,,,1569,0,20,MAR26,2006,i
 2952769,"Petrov, Krassimir",BUL,M,,,,1781,0,20,MAR26,1969,
-2901773,"Petrov, Marian",BUL,M,GM,FT,,2418,0,10,MAR26,1975,i
+2901773,"Petrov, Marian",BUL,M,GM,,,2418,0,10,MAR26,1975,i
 2921030,"Petrov, Marian",BUL,M,,,,2361,0,20,MAR26,0,i
 2911086,"Petrov, Martin",BUL,M,GM,FT,,2422,0,10,MAR26,2000,
 2929520,"Petrov, Martin V.",BUL,M,,,,1826,0,20,MAR26,1987,i
@@ -1267,7 +1267,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2913291,"Veselinov, Dimcho",BUL,M,,,,2067,0,20,MAR26,1971,i
 2928183,"Vetsev, Pavel",BUL,M,,,,1860,0,20,MAR26,1945,i
 2952289,"Vichev, Ivaylo",BUL,M,,,,1880,0,40,MAR26,2008,
-2907763,"Videnova-Kuljasevic, Iva",BUL,F,IM,WGM,FT,2217,0,20,MAR26,1987,wi
+2907763,"Videnova-Kuljasevic, Iva",BUL,F,IM,WGM,,2217,0,20,MAR26,1987,wi
 2948842,"Vittig, Arnold",BUL,M,,,,1587,0,40,MAR26,2008,i
 2950430,"Vladimirov, Anton",BUL,M,,,,1635,0,40,MAR26,2008,i
 2907038,"Vladimirov, Ivo",BUL,M,,,,1922,0,20,MAR26,1947,i
@@ -1300,7 +1300,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2905272,"Yordanov, Kristian",BUL,M,,,,1917,0,20,MAR26,1996,i
 2951606,"Yordanov, Kristiyan",BUL,M,,,,1460,0,40,MAR26,2012,i
 2918927,"Yordanov, Lachezar",BUL,M,FM,,,2374,0,20,MAR26,2001,
-2906163,"Yordanov, Nikolay",BUL,M,,"FT,FT",,2125,0,20,MAR26,1971,i
+2906163,"Yordanov, Nikolay",BUL,M,,FT,,2125,0,20,MAR26,1971,i
 2907445,"Yordanov, Nikolay Plamenov",BUL,M,FM,,,2195,0,20,MAR26,1986,i
 2933292,"Yordanov, Rosen",BUL,M,,,,1802,0,20,MAR26,1985,i
 2939410,"Yordanov, Valentin",BUL,M,,,,1759,0,,MAR26,1954,i

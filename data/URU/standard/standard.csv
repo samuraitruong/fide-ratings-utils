@@ -43,7 +43,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3017729,"Araque, Silvana",URU,F,,,,1635,17,40,MAR26,2012,w
 3006646,"Araujo Abimorad, Leonardo",URU,M,,,,1796,0,20,MAR26,1961,
 3009262,"Araujo, Daniel",URU,M,,,,1687,0,20,MAR26,1986,i
-3002403,"Araya Gonzalez, Hamlet",URU,M,,NI,,1667,0,40,MAR26,1982,
+3002403,"Araya Gonzalez, Hamlet",URU,M,,,,1667,0,40,MAR26,1982,
 3008207,"Arbiza, Victor",URU,M,,,,1765,0,40,MAR26,1972,
 3001199,"Arcos Facio, Mateo",URU,M,FM,,,2074,3,20,MAR26,1992,
 3002624,"Arean, Martin",URU,M,,,,1998,0,20,MAR26,1987,
@@ -179,8 +179,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3005275,"Carnebia, Yanina",URU,F,,,,1620,0,40,MAR26,1995,wi
 3005569,"Carrio, Pablo",URU,M,,,,1730,0,40,MAR26,1954,
 3012751,"Caruso, Enrique",URU,M,,,,1573,0,40,MAR26,1949,i
-3000311,"Carvalho, Guillermo",URU,M,CM,"FI,FI",,2059,8,20,MAR26,1967,
-3002055,"Casas, Nicolas",URU,M,,FI,,1872,4,20,MAR26,1985,
+3000311,"Carvalho, Guillermo",URU,M,CM,FI,,2059,8,20,MAR26,1967,
+3002055,"Casas, Nicolas",URU,M,,,,1872,4,20,MAR26,1985,
 3019284,"Casasnovas, Thiago",URU,M,,,,1659,0,40,MAR26,1994,i
 3010805,"Castagnet, Carlos",URU,M,,NA,,1706,0,20,MAR26,1959,
 3017176,"Castiglioni, Franco",URU,M,,,,1795,0,40,MAR26,1992,i
@@ -216,7 +216,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3001822,"Colombo, Camila",URU,F,WIM,WIM,,2084,0,20,MAR26,1990,wi
 3017915,"Colosi, Felipe",URU,M,,,,1856,0,20,MAR26,2007,
 3029301,"Contardi, Mateo",URU,M,,,,1625,8,40,MAR26,2008,
-3001717,"Coppola, Claudio",URU,M,IM,FI,,2224,17,20,MAR26,1992,
+3001717,"Coppola, Claudio",URU,M,IM,,,2224,17,20,MAR26,1992,
 3010856,"Coquet, Valentina",URU,F,,,,1575,0,40,MAR26,2001,wi
 3031403,"Cor, Victor",URU,M,,,,1617,0,40,MAR26,2011,
 3001091,"Corbo, Sixto",URU,M,,,,2017,0,40,MAR26,1981,i
@@ -275,7 +275,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3007391,"Depratti, Jose",URU,M,,,,1704,0,40,MAR26,1997,i
 3009629,"Diano, Gabriel",URU,M,,,,1881,0,20,MAR26,1966,i
 3016692,"Diaz Delograsi, Francisco",URU,M,,,,1822,8,20,MAR26,2006,
-104019,"Diaz Hollemaert, Nahuel",URU,M,IM,FT,,2332,0,10,MAR26,1976,
+104019,"Diaz Hollemaert, Nahuel",URU,M,IM,,,2332,0,10,MAR26,1976,
 3014894,"Diaz Rodas, Gabriel",URU,M,,,,1512,0,40,MAR26,1985,
 3009904,"Diaz Rosas, Alvaro",URU,M,,,,1797,0,20,MAR26,1959,i
 3018040,"Diaz Sandes, Lilyana",URU,F,,,,1429,0,40,MAR26,2006,w
@@ -572,7 +572,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3003370,"Mercado, Renee",URU,M,,,,1708,0,20,MAR26,1937,i
 3016803,"Mesa, Emanuel",URU,M,,,,1436,0,40,MAR26,2013,i
 3005755,"Messonez, Enzo",URU,M,,,,1692,0,40,MAR26,2000,i
-3001571,"Michailov, Matias",URU,M,,FI,,2268,0,20,MAR26,1995,i
+3001571,"Michailov, Matias",URU,M,,,,2268,0,20,MAR26,1995,i
 3015130,"Mila, Rafael",URU,M,,,,1686,0,40,MAR26,1977,i
 3018180,"Miladinoff, David",URU,M,,,,1573,5,20,MAR26,1983,
 3000800,"Milan, Julio",URU,M,,,,1749,0,20,MAR26,1958,
@@ -584,7 +584,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3011941,"Miranda, Alvaro",URU,M,,,,1633,0,40,MAR26,1965,i
 3026922,"Miranda, Eddy",URU,M,,,,1691,11,20,MAR26,1992,
 3008193,"Miranda, Pablo",URU,M,,,,1732,0,40,MAR26,1987,i
-103373,"Moccero, Eduardo",URU,M,,FI,,1744,0,20,MAR26,1951,
+103373,"Moccero, Eduardo",URU,M,,,,1744,0,20,MAR26,1951,
 3010210,"Molinari, Santino",URU,M,,,,1620,0,40,MAR26,2004,i
 3007340,"Moncecchi, Ciro",URU,M,,,,1831,0,40,MAR26,2004,i
 3005640,"Monetta, Jose",URU,M,,,,1774,0,20,MAR26,1986,i
@@ -608,9 +608,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3014193,"Mott, Juan",URU,M,,,,1565,0,20,MAR26,1972,
 3001539,"Muniz Castillo, Pablo",URU,M,,,,1800,0,40,MAR26,1977,i
 3012352,"Muniz, Facundo",URU,M,,,,1616,0,40,MAR26,2012,
-3001768,"Muniz, Gonzalo",URU,M,,FI,,1989,0,,MAR26,1990,
+3001768,"Muniz, Gonzalo",URU,M,,,,1989,0,,MAR26,1990,
 3008401,"Muniz, Luciano",URU,M,,,,1731,0,20,MAR26,1983,i
-3000486,"Muniz, Rafael",URU,M,FM,FT,,2171,17,20,MAR26,1976,
+3000486,"Muniz, Rafael",URU,M,FM,,,2171,17,20,MAR26,1976,
 3033686,"Munoz, Carlos",URU,M,,,,1611,0,40,MAR26,1960,i
 3039439,"Munoz, Mauricio",URU,M,,,,1607,8,40,MAR26,1990,
 3001253,"Muzzi, Eduardo",URU,M,CM,,,1901,0,20,MAR26,1981,
@@ -698,7 +698,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3008096,"Pinero Cuello, Guilhermo",URU,M,,,,2181,0,40,MAR26,1989,i
 3004244,"Pinero, Ismael",URU,M,CM,,,1910,0,20,MAR26,1958,
 3033872,"Pintos, German",URU,M,,,,1455,0,40,MAR26,2012,
-3007197,"Pintos, Maximiliano",URU,M,,SI,,1704,0,20,MAR26,1994,
+3007197,"Pintos, Maximiliano",URU,M,,,,1704,0,20,MAR26,1994,
 3003493,"Pintos, Miguel",URU,M,,,,1849,0,40,MAR26,1968,i
 3005917,"Pintos, Sergio",URU,M,,,,1618,0,20,MAR26,1958,i
 3019608,"Piriz, Facundo",URU,M,,,,1729,9,20,MAR26,2007,
@@ -739,7 +739,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3010481,"Quintieri, Mathias",URU,M,,,,1629,0,40,MAR26,1996,i
 3010449,"Ramirez, Agustin",URU,M,,,,1841,0,20,MAR26,2006,i
 3000192,"Ramirez, Jesus Adan",URU,M,,,,1990,0,40,MAR26,1972,
-3014770,"Ramirez, Jose Antonio",URU,M,,"FI,FI",,1863,0,20,MAR26,1981,
+3014770,"Ramirez, Jose Antonio",URU,M,,FI,,1863,0,20,MAR26,1981,
 3017982,"Ramirez, Wilson",URU,M,,,,1674,0,40,MAR26,2000,
 3009939,"Ramos Correa, Gabriel",URU,M,,,,2024,0,20,MAR26,1990,
 3009920,"Ramos, Matias",URU,M,,,,1766,0,20,MAR26,1995,
@@ -764,7 +764,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3006239,"Rios, Juan Pablo",URU,M,,,,1856,0,20,MAR26,1979,i
 3039340,"Risso, Mauro",URU,M,,,,1807,7,40,MAR26,2000,
 3013278,"Rivas Puch, Juan",URU,M,,,,1869,7,20,MAR26,1998,
-3000052,"Rivera, Daniel",URU,M,IM,"FT,FT",,2220,2,10,MAR26,1959,
+3000052,"Rivera, Daniel",URU,M,IM,FT,,2220,2,10,MAR26,1959,
 3000427,"Riverol, Jose",URU,M,FM,,,2304,0,20,MAR26,1967,i
 3016587,"Robalez, Cesar",URU,M,,,,1736,0,20,MAR26,1998,
 3003787,"Robertt, Mario",URU,M,,,,1664,0,40,MAR26,1965,i
@@ -779,7 +779,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3002950,"Rodriguez Capulla, Camilo",URU,M,,,,1839,0,40,MAR26,1977,i
 3011208,"Rodriguez de Privitellio, Juan",URU,M,,,,1766,0,40,MAR26,1991,i
 3007685,"Rodriguez Delfino, Tiago",URU,M,,,,1726,0,20,MAR26,2004,i
-3005062,"Rodriguez Farias, Eduardo",URU,M,,"FI,AO",,1881,13,20,MAR26,1974,
+3005062,"Rodriguez Farias, Eduardo",URU,M,,AO,,1881,13,20,MAR26,1974,
 3004759,"Rodriguez Farias, Victor",URU,M,,,,1871,5,20,MAR26,1968,
 3036510,"Rodriguez Heredia, Fernando",URU,M,,,,1550,0,40,MAR26,1989,
 3004180,"Rodriguez Izarrualde, Gaston",URU,M,,,,2115,0,20,MAR26,1984,i
@@ -806,7 +806,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3007111,"Romero, Pablo",URU,M,,,,1786,0,40,MAR26,1984,i
 3009661,"Romero, Robert",URU,M,,,,1749,0,20,MAR26,1968,i
 3029263,"Rosas, Maximiliano",URU,M,,,,1602,4,40,MAR26,1995,
-3000028,"Roselli Mailhe, Bernardo",URU,M,IM,"SI,FT",,2328,9,10,MAR26,1965,
+3000028,"Roselli Mailhe, Bernardo",URU,M,IM,SI,,2328,9,10,MAR26,1965,
 3024814,"Roselli, Diego",URU,M,,,,1870,0,40,MAR26,1959,
 3007758,"Roselli, Federico",URU,M,,,,1552,0,20,MAR26,2006,
 3036111,"Roselli, Juan",URU,M,,,,1618,4,40,MAR26,2011,

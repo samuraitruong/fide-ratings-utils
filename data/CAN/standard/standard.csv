@@ -682,7 +682,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2641178,"Demaer, Stephen",CAN,M,,,,1664,0,40,MAR26,1988,i
 2639432,"Demartino, Miles",CAN,M,,,,1475,0,40,MAR26,1998,i
 33403899,"Dembla, Shabd",CAN,M,,,,1877,10,40,MAR26,2014,
-2635143,"Demchenko, Kyrylo",CAN,M,,NI,,1901,0,20,MAR26,1989,i
+2635143,"Demchenko, Kyrylo",CAN,M,,,,1901,0,20,MAR26,1989,i
 14149893,"Demchenko, Svitlana",CAN,F,WIM,WIM,,2155,0,20,MAR26,2003,w
 2619865,"Demers, Alexis",CAN,M,,,,1785,0,40,MAR26,0,i
 2600935,"Demers, Claire",CAN,F,,,,2040,0,20,MAR26,0,wi
@@ -1431,7 +1431,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2673851,"Kapila, Jai",CAN,M,,,,1564,4,40,MAR26,2009,
 2640341,"Kapra, Jerjis",CAN,M,,,,2103,0,20,MAR26,2005,
 2600617,"Kaptsan, Aron",CAN,M,,,,2017,0,20,MAR26,1929,i
-2632420,"Kapush, Oleksandr",CAN,M,,"SI,FI,LSI,FI",,1917,2,,MAR26,1975,
+2632420,"Kapush, Oleksandr",CAN,M,,"SI,LSI,FI",,1917,2,,MAR26,1975,
 2652188,"Karabanov, Youri",CAN,M,,,,1558,0,40,MAR26,1951,
 2682435,"Karmali, Hafiz",CAN,M,,,,1828,0,20,MAR26,0,
 2674483,"Karuvarasan, Thanish",CAN,M,,,,1645,0,,MAR26,2013,
@@ -1843,7 +1843,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2609088,"Lo, Ryan",CAN,M,,,,1975,0,20,MAR26,1997,i
 2613743,"Loadman, Ian",CAN,M,,,,1886,6,20,MAR26,1956,
 2627388,"Locham, Divjot",CAN,M,,,,1792,0,40,MAR26,2008,
-2652218,"Lodhi, Talha",CAN,M,,"NI,NI",,1691,0,20,MAR26,1999,
+2652218,"Lodhi, Talha",CAN,M,,NI,,1691,0,20,MAR26,1999,
 2647966,"Loevenich, Anna",CAN,F,,,,1510,0,40,MAR26,1980,w
 2630567,"Loiko, Sergii",CAN,M,,,,1595,0,40,MAR26,1980,i
 2648733,"Lomov, Peter",CAN,M,,,,1521,0,40,MAR26,2010,
@@ -2380,7 +2380,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2633582,"Petrovic, Milos",CAN,M,,,,1771,0,20,MAR26,2004,i
 2621282,"Pfeffer, Gerald",CAN,M,,,,1868,0,40,MAR26,0,i
 2645599,"Pham, Anthony",CAN,M,,,,1758,0,40,MAR26,1999,i
-12401285,"Pham, Bich Ngoc",CAN,F,WIM,WIM,"FT,NA",2203,0,20,MAR26,1990,w
+12401285,"Pham, Bich Ngoc",CAN,F,WIM,WIM,NA,2203,0,20,MAR26,1990,w
 2663783,"Philipzig, Mats",CAN,M,,,,1668,0,40,MAR26,2000,i
 2636018,"Phillips, Brian J",CAN,M,,,,1748,0,40,MAR26,1967,
 2600072,"Piasetski, Leon",CAN,M,IM,,,2149,9,10,MAR26,1951,
@@ -2420,7 +2420,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2661527,"Poncelet, Niklas",CAN,M,,,,1805,0,40,MAR26,2009,
 2668246,"Poncsak, Juliette",CAN,M,,,,1612,0,40,MAR26,1998,i
 2682842,"Poon, Jayden",CAN,M,,,,1663,7,40,MAR26,2010,
-5059305,"Poorna Prakash, Roshini",CAN,F,,FI,,1736,0,,MAR26,1994,w
+5059305,"Poorna Prakash, Roshini",CAN,F,,,,1736,0,,MAR26,1994,w
 2671549,"Popatia, Daylam",CAN,M,,,,1480,3,20,MAR26,1994,
 2660970,"Porlier, Xavier",CAN,M,,,,1910,0,20,MAR26,2004,
 2801604,"Porper, Edward",CAN,M,IM,,,2385,0,10,MAR26,1963,i

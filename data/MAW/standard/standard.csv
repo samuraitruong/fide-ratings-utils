@@ -35,7 +35,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20506716,Chilikumtima Pokera,MAW,M,,,,1526,0,40,MAR26,2004,i
 20500726,Chima Gershom,MAW,M,,,,1686,0,40,MAR26,1972,i
 20501951,Chimkute Ronald,MAW,M,,,,1872,0,20,MAR26,1990,
-16400046,"Chimthere, Alfred Charles",MAW,M,CM,FI,,1998,0,20,MAR26,1981,
+16400046,"Chimthere, Alfred Charles",MAW,M,CM,,,1998,0,20,MAR26,1981,
 20510527,Chinangwa Charles,MAW,M,,,,1674,0,40,MAR26,1995,
 20500807,Chindole Khama,MAW,M,,,,1922,0,20,MAR26,1983,i
 20504578,"Ching'ombe, Evance",MAW,M,,,,1747,0,20,MAR26,0,i
@@ -133,7 +133,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20504217,Khechi Chikondi,MAW,M,,,,1758,0,40,MAR26,1995,i
 20503369,Khonje Frank,MAW,M,,,,1850,0,20,MAR26,1988,i
 20509693,Khunga Christopher,MAW,M,,,,1730,0,40,MAR26,1987,i
-14305569,"Khuphwathea, Paul C.",MAW,M,CM,DI,,1699,0,20,MAR26,1978,
+14305569,"Khuphwathea, Paul C.",MAW,M,CM,,,1699,0,20,MAR26,1978,
 20504497,Kondowe Daniel,MAW,M,,,,1722,0,40,MAR26,2008,
 20505760,Kondowe McJoe,MAW,M,,,,1823,0,40,MAR26,1983,i
 20502117,Kopa Pilirani,MAW,M,,,,1855,0,20,MAR26,1985,i
@@ -262,13 +262,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20511124,Nakali Henry,MAW,M,,,,1616,0,40,MAR26,2015,
 20507755,Namalomba Weston,MAW,M,,,,1689,0,40,MAR26,2002,i
 20505817,Namangale Alain,MAW,M,,,,1661,0,20,MAR26,2002,
-20501790,"Namangale, Susan",MAW,F,,"SI,NI,AO,NA",,1499,0,20,MAR26,1976,w
+20501790,"Namangale, Susan",MAW,F,,"SI,AO,NA",,1499,0,20,MAR26,1976,w
 20501099,Nanthambwe Hubert,MAW,M,,,,1857,0,20,MAR26,1994,
 20503393,"Nathaniel, Charles",MAW,M,,,,1729,0,40,MAR26,1979,i
 20505604,Nazonse Fredrick,MAW,M,,,,1739,0,40,MAR26,1992,i
 20504420,Ndipita Mark,MAW,M,,,,1828,0,20,MAR26,1980,i
 20502044,"Ndovie, Vitumbiko",MAW,M,,,,1658,0,40,MAR26,1981,i
-20500122,"Ngugama, Magret",MAW,F,,"LSI,NI,FA",,1585,0,20,MAR26,1973,wi
+20500122,"Ngugama, Magret",MAW,F,,"LSI,FA",,1585,0,20,MAR26,1973,wi
 20501447,Ngwira Davis Paul,MAW,M,,,,1830,0,20,MAR26,1999,i
 20500580,Ngwira Robert,MAW,M,,,,1865,0,20,MAR26,1993,i
 20510187,Ngwira Sheriff,MAW,M,,,,1679,0,40,MAR26,2008,
@@ -323,7 +323,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20506627,Shaba Martin,MAW,M,,,,1911,0,20,MAR26,2002,
 20507623,Shaba Vitumbiko,MAW,M,,,,1758,0,40,MAR26,1993,i
 20504136,"Shakazulu, Ernesto",MAW,M,,,,1666,0,20,MAR26,1989,i
-20500149,"Sharra, Leonard",MAW,M,,FI,,1852,0,20,MAR26,1972,
+20500149,"Sharra, Leonard",MAW,M,,,,1852,0,20,MAR26,1972,
 20505175,Shora Castro,MAW,M,,,,1780,0,40,MAR26,1996,i
 20505353,Shriyan santosh Priyasha,MAW,F,,,,1755,0,20,MAR26,2006,wi
 20502249,Sikwese Lightwell,MAW,M,,,,1758,0,40,MAR26,1997,i

@@ -11,7 +11,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4924312,"Ali, Bauirjan",MGL,M,,,,1595,0,40,MAR26,2011,
 4901223,"Altan, Tuvdendorj",MGL,M,,,,1977,0,20,MAR26,1966,i
 4900278,"Altan-Och, Genden",MGL,M,FM,IA,,2052,0,20,MAR26,1961,
-4901444,"Altan-Ulzii, Enkhtuul",MGL,F,WGM,WGM,"FT,NA",2157,0,20,MAR26,1994,wi
+4901444,"Altan-Ulzii, Enkhtuul",MGL,F,WGM,WGM,NA,2157,0,20,MAR26,1994,wi
 4905130,Altanbayar Tserenpeljee,MGL,M,,,,2009,0,20,MAR26,1983,i
 4905261,Altangerel Myagmarsuren,MGL,M,,,,1894,0,20,MAR26,1987,i
 4923421,"Altangerel, Baatar",MGL,M,,NA,,1699,0,40,MAR26,1987,
@@ -57,7 +57,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4904222,"Ankhbayar, Bayarbold",MGL,M,,,,1889,0,20,MAR26,2000,i
 4900600,"Ankhchimeg, Bayanmunkh",MGL,F,WIM,WIM,,2030,0,20,MAR26,1983,w
 4931203,Ankhzaya Batkhishigt,MGL,F,,,,1536,0,40,MAR26,2010,w
-4901339,"Anu, Bayar",MGL,F,WFM,WFM,FT,1927,0,20,MAR26,1993,w
+4901339,"Anu, Bayar",MGL,F,WFM,WFM,,1927,0,20,MAR26,1993,w
 4908880,"Anu, Bayart-Uchral",MGL,F,WCM,WCM,,1689,0,40,MAR26,2012,w
 4930495,Anu-Ujin Gankhuyag,MGL,F,,,,1568,0,,MAR26,2010,w
 4909011,"Anu-Ujin, Adiyabilegt",MGL,F,,,,1515,0,40,MAR26,2011,wi
@@ -133,7 +133,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4903080,"Bayan-Ochir, Tulgabat",MGL,M,CM,,,1665,0,40,MAR26,2007,i
 4919645,"Bayarduuren, Sainbileg",MGL,M,,,,1693,0,40,MAR26,2012,i
 4901479,"Bayarkhuu, Khurelchuluun",MGL,M,,,,1993,0,20,MAR26,1996,i
-4900260,"Bayarmaa, Bayarjargal",MGL,F,WIM,WIM,FI,2044,0,20,MAR26,1995,w
+4900260,"Bayarmaa, Bayarjargal",MGL,F,WIM,WIM,,2044,0,20,MAR26,1995,w
 4900189,"Bayarmaa, Gendenjamc",MGL,F,WIM,WIM,,1935,0,20,MAR26,1963,wi
 4900677,"Bayarmandakh, Balgan",MGL,M,FM,,,2148,0,20,MAR26,1974,
 4903013,"Bayarsaikhan, Adiya",MGL,M,,,,1948,0,20,MAR26,1965,i
@@ -161,7 +161,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4902319,"Bilguun, Lkhagvasanj",MGL,M,,,,1802,0,20,MAR26,2003,i
 4904320,"Bilguun, Narankhuu",MGL,M,,,,1563,0,20,MAR26,2004,i
 4921500,"Bilguun, Shagdarsuren",MGL,M,,,,1477,0,40,MAR26,2008,i
-4901541,"Bilguun, Sumiya",MGL,M,GM,FI,,2470,0,10,MAR26,1997,
+4901541,"Bilguun, Sumiya",MGL,M,GM,,,2470,0,10,MAR26,1997,
 4931009,Bilguuntugs Bayarmagnai,MGL,M,,,,1533,0,40,MAR26,2013,
 4925351,"Bishrelt, Nyamtulga",MGL,M,,,,1594,0,40,MAR26,2015,
 4903692,Bold Khosbayar,MGL,M,,,,1918,0,20,MAR26,2000,i
@@ -461,7 +461,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4900863,"Mungunkhuu, Mijgee",MGL,M,,,,2189,0,20,MAR26,1976,
 4931386,Munguntulga Baasansuren,MGL,M,,,,1668,0,40,MAR26,2013,
 4904494,"Munguntulga, Batjargal",MGL,M,,,,1717,0,20,MAR26,2000,i
-4900758,"Munguntuul, Batkhuyag",MGL,F,IM,WGM,FT,2298,0,10,MAR26,1987,w
+4900758,"Munguntuul, Batkhuyag",MGL,F,IM,WGM,,2298,0,10,MAR26,1987,w
 4902831,"Mungunzul, Bat-Erdene",MGL,F,WIM,WIM,,2334,0,20,MAR26,2005,w
 4925343,"Munkh-Ayalguu, Dorjderem",MGL,F,,,,1505,0,40,MAR26,2015,w
 4906420,Munkh-Erdene Otgonbayar,MGL,M,,,,1671,0,40,MAR26,2005,i
@@ -533,7 +533,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4932927,Nyamdorj Enkhtur,MGL,M,,,,1481,0,40,MAR26,2014,
 4903340,"Nyamlkhagva, Taivanbaatar",MGL,F,,,,1604,0,20,MAR26,2000,wi
 4918983,"Nyamsuren, Myagmar",MGL,M,,,,1667,0,40,MAR26,1974,
-4904591,"Nyamtemuulen, Khaltar",MGL,F,,"NI,FA",,1669,0,20,MAR26,1999,wi
+4904591,"Nyamtemuulen, Khaltar",MGL,F,,FA,,1669,0,20,MAR26,1999,wi
 4905636,Nyamtsengel Baldanbayar,MGL,F,,,,1486,0,40,MAR26,2007,wi
 4901355,"Nyamtuya, Unurjargal",MGL,F,,SI,,1911,0,20,MAR26,1989,wi
 4918681,"Ochir-Erdene, Zandanshatar",MGL,M,,,,1498,0,40,MAR26,2010,i
@@ -550,7 +550,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4902696,"Onongol , Tselmeg",MGL,F,,,,1573,0,20,MAR26,2004,wi
 4905180,Orgil Rentsen,MGL,M,,,,1738,0,20,MAR26,1984,i
 4905555,Orgil Unurbayar,MGL,M,,,,1665,0,20,MAR26,2003,i
-4902076,"Orgil, Gantumur",MGL,M,,"FI,NA",,2084,0,,MAR26,1987,i
+4902076,"Orgil, Gantumur",MGL,M,,NA,,2084,0,,MAR26,1987,i
 4907493,Orgilon Batsaikhan,MGL,M,,,,1877,0,40,MAR26,2008,
 4931424,Orgiluun Munkhdul,MGL,F,,,,1638,0,40,MAR26,2015,w
 4924428,"Otgonbaatar, Magsar",MGL,M,,,,1678,0,20,MAR26,1979,i
@@ -738,7 +738,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4906055,Uyanga Usukhbayar,MGL,F,,,,1599,0,20,MAR26,1983,wi
 2054906,"Uyanga, Byambaa",MGL,F,WFM,WFM,,1983,0,20,MAR26,1990,wi
 4918959,"Uyangalyankhua, Batzaya",MGL,F,,,,1577,0,,MAR26,2011,wi
-4900952,"Yanjindulam, Dulamsuren",MGL,F,WIM,WIM,FI,2061,0,20,MAR26,1988,wi
+4900952,"Yanjindulam, Dulamsuren",MGL,F,WIM,WIM,,2061,0,20,MAR26,1988,wi
 4901452,"Yanjinlkham, Bayarsaikhan",MGL,F,WFM,WFM,,1975,0,20,MAR26,1996,wi
 4905962,"Yeruultei, Batbaatar",MGL,M,CM,,,1888,0,40,MAR26,2010,
 4906756,Yesugen Khuchbayar,MGL,F,WCM,WCM,,1731,0,40,MAR26,2009,wi

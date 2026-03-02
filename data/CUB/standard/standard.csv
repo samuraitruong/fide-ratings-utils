@@ -76,7 +76,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3529983,"Almaguel Mendez, Adrian Jesus",CUB,M,FM,,,2351,9,20,MAR26,2009,
 3522865,"Almaguer Merino, Yamisleydis",CUB,F,,,,1936,0,20,MAR26,2002,wi
 3508218,"Almaguer, Manuel",CUB,M,,,,1969,0,40,MAR26,1986,i
-3503313,"Almeida Quintana, Omar",CUB,M,GM,FT,,2465,10,10,MAR26,1981,
+3503313,"Almeida Quintana, Omar",CUB,M,GM,,,2465,10,10,MAR26,1981,
 3518221,"Almenares Garcia, Mario Adrian",CUB,M,,,,1952,0,20,MAR26,1969,
 3532380,"Almenares Hechavarria, Isallis",CUB,F,,,,1527,0,40,MAR26,2008,wi
 3509842,"Alminaque Guzman, Armando",CUB,M,,,,2003,0,20,MAR26,1962,i
@@ -170,7 +170,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3511243,"Arrue Vior, Jose Alejandro",CUB,M,,,,2216,0,20,MAR26,1960,i
 3518604,"Arruebarrena Barrueta, Yasleny",CUB,F,,,,1914,0,20,MAR26,1998,wi
 3522997,"Arteaga Garcia, Alejandro",CUB,M,,,,2076,0,20,MAR26,2003,i
-3511413,"Arteaga Olivera, Sergio Jose",CUB,M,,FI,,1857,0,40,MAR26,1963,i
+3511413,"Arteaga Olivera, Sergio Jose",CUB,M,,,,1857,0,40,MAR26,1963,i
 3520552,"Artiles Reyes, Reyne Eduardo",CUB,M,,,,1986,0,20,MAR26,1977,i
 3507947,"Arzuaga Hernandez, Ivan",CUB,M,,,,2056,0,20,MAR26,1975,i
 3510263,"Avila Bagdasarova, Eladio E.",CUB,M,,,,2125,0,20,MAR26,1984,i
@@ -230,7 +230,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3538249,"Batista Rodriguez, Kevin Camilo",CUB,M,,,,1558,0,40,MAR26,2010,
 3504697,"Batista Suarez, Jeorling Yahytin",CUB,M,FM,,,2234,9,20,MAR26,1983,
 3519600,"Batista Suarez, Yuraset",CUB,M,,,,1992,0,20,MAR26,1978,i
-3514153,"Batista Terrero, Sonia Rosa",CUB,F,,NI,,1912,0,20,MAR26,1966,wi
+3514153,"Batista Terrero, Sonia Rosa",CUB,F,,,,1912,0,20,MAR26,1966,wi
 3513351,"Bauta Camejo, Reynier",CUB,M,,,,2006,0,20,MAR26,1991,i
 3538419,"Becerra Arias, Luis Ernesto",CUB,M,,,,1713,0,40,MAR26,1984,
 3513173,"Becerra Licor, Keilyn",CUB,F,,,,1854,0,20,MAR26,1995,w
@@ -362,7 +362,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3525066,"Camejo Quevedo, Davidaniel",CUB,M,,,,1806,0,20,MAR26,2002,i
 3539407,"Camero Estrada, Thiago",CUB,M,,,,1554,0,40,MAR26,2014,
 3517160,"Campos Jimenez, Augusto Cesar",CUB,M,IM,,,2283,0,10,MAR26,1998,
-3501558,"Campos Vila, Milena",CUB,F,WIM,WIM,FT,2103,0,20,MAR26,1974,wi
+3501558,"Campos Vila, Milena",CUB,F,WIM,WIM,,2103,0,20,MAR26,1974,wi
 3522482,"Campuzano Gonzalez, Michael",CUB,M,,,,1896,0,40,MAR26,1986,i
 3535533,"Cana Sotolongo, Pablo",CUB,M,,,,1636,0,40,MAR26,2010,i
 3528340,"Canada Flores, Alberto Tomas",CUB,M,,,,1936,0,40,MAR26,1993,i
@@ -442,7 +442,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3502899,"Castro, Javier",CUB,M,,,,1996,0,20,MAR26,1977,i
 3505162,"Casuso Leonard, Alfredo",CUB,M,FM,,,2320,0,20,MAR26,1985,i
 3533522,"Catala Delgado, Maria Karla",CUB,F,,,,1511,8,40,MAR26,2011,w
-3506819,"Catala Matienzo, Ivette",CUB,F,WFM,WFM,"NI,SI",2054,8,20,MAR26,1986,w
+3506819,"Catala Matienzo, Ivette",CUB,F,WFM,WFM,SI,2054,8,20,MAR26,1986,w
 3519120,"Cazulo Ramirez, Jesus David",CUB,M,FM,,,2137,0,20,MAR26,1997,i
 3525724,"Cebey Casares, Edelman",CUB,M,,,,1912,0,40,MAR26,1969,i
 3513203,"Cedeno Ferrera, Daliuska",CUB,F,,,,1942,0,20,MAR26,1994,wi
@@ -485,7 +485,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3505952,"Cobas Ferrer, Dayamy",CUB,F,,,,1909,0,20,MAR26,1979,w
 3518426,"Cobas Sanchez, Jorge",CUB,M,,,,2014,0,20,MAR26,1989,i
 3529738,"Coca Bueno, Orlando",CUB,M,,,,1942,0,40,MAR26,1970,i
-3516806,"Codina Carril, Alberto Felipe",CUB,M,,FI,,1871,0,20,MAR26,1948,
+3516806,"Codina Carril, Alberto Felipe",CUB,M,,,,1871,0,20,MAR26,1948,
 3510271,"Codina Miranda, Gretter",CUB,F,,,,2012,0,20,MAR26,1991,wi
 3515419,"Cok Farinas, Marlon",CUB,M,,,,2047,0,20,MAR26,1996,i
 3529380,"Collazo Collazo, Joel",CUB,M,,,,1986,0,20,MAR26,1974,i
@@ -595,7 +595,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3532623,"Del Monte Martinez, Jorge Luis",CUB,M,,,,2031,0,40,MAR26,1966,
 3531198,"Del Monte Rodriguez, Andiel Daria",CUB,M,,,,1773,0,40,MAR26,2005,i
 3533867,"Del Pino Estenoz, Amado Rene",CUB,M,,,,1632,0,20,MAR26,1989,i
-3508943,"Del Rio Mora, Omar Antonio",CUB,M,,FI,,1968,2,,MAR26,1963,
+3508943,"Del Rio Mora, Omar Antonio",CUB,M,,,,1968,2,,MAR26,1963,
 3535932,"Del Risco Aldana, Alejandra",CUB,F,,,,1684,9,40,MAR26,2014,w
 3523500,"Del Rosario Silva, Dexnisi",CUB,F,,NA,,2067,0,20,MAR26,2001,w
 3524663,"Del Sol Soto, Eddy",CUB,M,,,,1737,0,40,MAR26,1980,i
@@ -624,7 +624,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3524140,"Diaz Gonzalez, Frank Abel",CUB,M,,,,1733,3,20,MAR26,1985,
 3521346,"Diaz Guevara, Eduardo",CUB,M,,,,2028,0,40,MAR26,1960,i
 3525511,"Diaz Gutierrez, Edel",CUB,M,,,,1919,0,40,MAR26,1995,i
-3508757,"Diaz Hernandez, Bexy",CUB,F,WFM,WFM,FI,2043,0,20,MAR26,1983,wi
+3508757,"Diaz Hernandez, Bexy",CUB,F,WFM,WFM,,2043,0,20,MAR26,1983,wi
 3508498,"Diaz Hernandez, Heriberto",CUB,M,IM,,,2334,0,10,MAR26,1991,i
 3517624,"Diaz Hernandez, Jairo",CUB,M,,,,1731,0,40,MAR26,1995,i
 3512983,"Diaz Hernandez, Juan Yandy",CUB,M,,,,1879,0,20,MAR26,1987,i
@@ -796,7 +796,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3502759,"Fleites Marti, Yuleikys",CUB,F,WIM,WIM,,2116,0,20,MAR26,1978,wi
 3506967,"Flor Trejo, Remigio F.",CUB,M,FM,,,2372,0,20,MAR26,1969,i
 3529258,"Flores Gomez, Yohnier",CUB,M,,,,1809,0,20,MAR26,1984,
-3506932,"Flores Imbert, Yoandri",CUB,M,,FI,,2093,0,20,MAR26,1984,i
+3506932,"Flores Imbert, Yoandri",CUB,M,,,,2093,0,20,MAR26,1984,i
 3536009,"Fonceca Gonzalez, Diego",CUB,M,,,,1865,8,40,MAR26,2013,
 3523888,"Fong Montejo, Maria De Los A.",CUB,F,,,,1779,0,20,MAR26,2002,wi
 3507769,"Fonseca Alvarez, Emilio",CUB,M,,,,2085,0,20,MAR26,1985,i
@@ -949,7 +949,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3507904,"Gomez Garrido, Camilo Ernesto",CUB,M,GM,,,2480,0,10,MAR26,1987,i
 3516229,"Gomez Gil, Luis",CUB,M,,,,2056,0,20,MAR26,1960,i
 3529215,"Gomez Gomez, Milagros",CUB,F,,,,1768,0,40,MAR26,2007,wi
-3508374,"Gomez Gomez, Yudelsi",CUB,F,,NI,,2030,0,20,MAR26,1988,wi
+3508374,"Gomez Gomez, Yudelsi",CUB,F,,,,2030,0,20,MAR26,1988,wi
 3539326,"Gomez Hechavarria, Alexis",CUB,M,,,,1649,0,40,MAR26,1990,i
 3535630,"Gomez Hernandez, Julia Elena",CUB,F,,,,1479,0,40,MAR26,2013,w
 3538079,"Gomez Herrera, Daniel David",CUB,M,,,,1523,0,40,MAR26,2013,
@@ -1007,7 +1007,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3503763,"Gonzalez Gomez, Ronier",CUB,M,,,,2199,0,20,MAR26,1969,
 3536076,"Gonzalez Gomez, Samuel",CUB,M,,,,1536,8,40,MAR26,2016,
 3528014,"Gonzalez Gonzalez, Danielle De La",CUB,F,,,,1889,0,40,MAR26,2002,wi
-3503178,"Gonzalez Gonzalez, Ivan",CUB,M,CM,FT,,2009,3,20,MAR26,1964,
+3503178,"Gonzalez Gonzalez, Ivan",CUB,M,CM,,,2009,3,20,MAR26,1964,
 3532739,"Gonzalez Gonzalez, Juan Carlos",CUB,M,,,,1871,0,40,MAR26,1959,i
 3513564,"Gonzalez Gonzalez, Yaima",CUB,F,,,,1962,0,40,MAR26,1990,wi
 3515443,"Gonzalez Grave De Peralta, Raul",CUB,M,,,,2180,0,20,MAR26,1997,i
@@ -1033,7 +1033,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3505090,"Gonzalez Munoz, Ariel",CUB,M,,,,2057,0,20,MAR26,1977,
 3532828,"Gonzalez Naranjo, Juan Ramon",CUB,M,,,,1899,0,40,MAR26,1948,i
 3507572,"Gonzalez Novoa, Rachel",CUB,F,,,,1991,0,40,MAR26,1980,wi
-3507629,"Gonzalez Ochoa, Yoana",CUB,F,WIM,WIM,DI,2076,0,20,MAR26,1992,w
+3507629,"Gonzalez Ochoa, Yoana",CUB,F,WIM,WIM,,2076,0,20,MAR26,1992,w
 3506509,"Gonzalez Ogando, Miguel",CUB,M,,,,1829,0,20,MAR26,1957,
 3503593,"Gonzalez Oliva, Lazaro",CUB,M,,,,1966,0,20,MAR26,1968,i
 3506061,"Gonzalez Parra, Harold Manuel",CUB,M,FM,,,2287,0,20,MAR26,1984,i
@@ -1104,7 +1104,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3509290,"Guerra Hernandez, Conrado Luis",CUB,M,,,,2008,0,20,MAR26,1991,i
 3528731,"Guerra Hernandez, Karla",CUB,F,,,,1523,0,20,MAR26,2005,wi
 3522954,"Guerra Leyva, Yuslai",CUB,F,,,,1878,0,20,MAR26,1985,wi
-3506053,"Guerra Lopez, Raul",CUB,M,,FI,,2211,0,40,MAR26,1960,i
+3506053,"Guerra Lopez, Raul",CUB,M,,,,2211,0,40,MAR26,1960,i
 3525422,"Guerra Luaces, Fernando",CUB,M,,,,1930,0,20,MAR26,2004,i
 3513602,"Guerra Mojena, Leandro",CUB,M,IM,,,2406,0,10,MAR26,1992,i
 3500454,"Guerra Navarro, Pablo",CUB,M,FM,,,2298,0,20,MAR26,1960,i
@@ -1120,7 +1120,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3531368,"Guevara Kindelan, Vania",CUB,F,,,,1650,0,40,MAR26,2007,wi
 3535657,"Guevara Nodarse, Yuslen Alfredo",CUB,M,,,,1684,0,40,MAR26,1997,i
 3508706,"Guevara Ramirez, Eduardo",CUB,M,,,,1983,0,40,MAR26,1992,i
-3514544,"Guevara Torres, Maydelin",CUB,F,,NI,,1984,0,40,MAR26,1989,wi
+3514544,"Guevara Torres, Maydelin",CUB,F,,,,1984,0,40,MAR26,1989,wi
 3507998,"Guia Garcia, Juan Miguel",CUB,M,FM,,,2313,0,20,MAR26,1967,i
 3510344,"Guillen Napoles, Jorge Felipe",CUB,M,,,,1908,0,20,MAR26,1951,
 3524060,"Guisante Perez, Luis Enrique",CUB,M,,,,1936,0,20,MAR26,1988,i
@@ -1205,7 +1205,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3518485,"Hernandez Maurell, Miguel",CUB,M,,,,1956,0,40,MAR26,1975,i
 3518256,"Hernandez Meilan, Dr. Manuel",CUB,M,,,,1756,0,20,MAR26,1948,i
 3539059,"Hernandez Moreno, Dominic Jesus",CUB,M,,,,1553,0,40,MAR26,2013,
-3511685,"Hernandez Moya, Yuleisy",CUB,F,WGM,WGM,NI,2221,0,20,MAR26,1992,wi
+3511685,"Hernandez Moya, Yuleisy",CUB,F,WGM,WGM,,2221,0,20,MAR26,1992,wi
 3518124,"Hernandez Munoz, Yassel",CUB,M,,,,1958,0,20,MAR26,1995,i
 3533808,"Hernandez Navarro, Adriano",CUB,M,,,,1832,0,40,MAR26,2008,i
 3510360,"Hernandez Noa, Rodney",CUB,M,FM,,,2246,0,20,MAR26,1984,i
@@ -1340,13 +1340,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3523934,"Ledon Suarez, Adiel",CUB,M,,,,1927,0,20,MAR26,2002,i
 3510867,"Lefran Torres, Manuel Alejandro",CUB,M,,,,2242,0,20,MAR26,1990,i
 3505251,"Leliebre Vicente, Yudelis",CUB,F,WFM,WFM,,2007,0,20,MAR26,1982,wi
-3517390,"Lelyen Rodriguez, Leonardo",CUB,M,,DI,,1914,0,20,MAR26,1966,i
+3517390,"Lelyen Rodriguez, Leonardo",CUB,M,,,,1914,0,20,MAR26,1966,i
 3507696,"Lemes Rosales, Lazaro",CUB,M,,,,2234,0,20,MAR26,1986,i
 3528766,"Lemus Coro, Kevin",CUB,M,,,,2011,0,20,MAR26,2006,i
 3511626,"Lemus De Mata, Felix",CUB,M,,,,1980,0,20,MAR26,1954,i
 3524558,"Lemus Morales, Diego Enrique",CUB,M,FM,,,2085,0,20,MAR26,2003,i
 3528324,"Leon Casasbellas, Gabriel Emilio",CUB,M,,,,1876,0,20,MAR26,1996,i
-3501469,"Leon Cordero, Eumelia",CUB,F,WFM,WFM,FI,2060,0,20,MAR26,1961,wi
+3501469,"Leon Cordero, Eumelia",CUB,F,WFM,WFM,,2060,0,20,MAR26,1961,wi
 3528677,"Leon Cruz, Fabio",CUB,M,,,,1797,0,20,MAR26,2007,i
 3525953,"Leon Gendys, Ramon Joaquin",CUB,M,,,,1883,0,20,MAR26,1962,
 3536173,"Leon Infante, Bryan",CUB,M,,,,2174,8,40,MAR26,2011,
@@ -1410,7 +1410,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3512320,"Lopez Fuentes, Mauricio",CUB,M,,,,2257,0,40,MAR26,1956,i
 3537692,"Lopez Garcia, Lazaro Abel",CUB,M,,,,1624,0,40,MAR26,1973,i
 3506193,"Lopez Gari, Osvaldo",CUB,M,FM,,,2295,0,20,MAR26,1987,i
-3512673,"Lopez Gonzalez, Abel Fabian",CUB,M,IM,FT,,2396,0,10,MAR26,1997,
+3512673,"Lopez Gonzalez, Abel Fabian",CUB,M,IM,,,2396,0,10,MAR26,1997,
 3533697,"Lopez Gonzalez, Raul",CUB,M,,,,1756,0,40,MAR26,1955,i
 3506428,"Lopez Grinan, Pavel",CUB,M,,,,2022,0,20,MAR26,1978,i
 3537412,"Lopez Gutierre, Roxany",CUB,F,,,,1474,0,40,MAR26,2011,w
@@ -1430,7 +1430,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3519295,"Lopez Rodriguez, Manuel",CUB,M,,,,1875,0,20,MAR26,1955,i
 3539180,"Lopez Rodriguez, Reinaldo",CUB,M,,,,1644,0,40,MAR26,1972,
 3506908,"Lopez Ruiz, Roque Antonio",CUB,M,,,,2008,0,20,MAR26,1959,i
-3505260,"Lopez Samon, Yurima",CUB,F,WFM,WFM,"FI,SI,FA",1990,0,20,MAR26,1981,w
+3505260,"Lopez Samon, Yurima",CUB,F,WFM,WFM,"SI,FA",1990,0,20,MAR26,1981,w
 3539717,"Lopez Santana, Analia",CUB,F,,,,1416,0,40,MAR26,2011,w
 3539490,"Lopez Serrano, Josue",CUB,M,,,,1552,0,40,MAR26,2015,i
 3529673,"Lopez Suarez, Manuel Alejandro",CUB,M,,,,2103,0,20,MAR26,2007,
@@ -1512,7 +1512,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3506495,"Martin Campos, Beatriz Josefa",CUB,F,,,,1881,0,20,MAR26,1976,wi
 3518132,"Martin Fernandez, Fernando G.",CUB,M,,,,1963,0,20,MAR26,1998,i
 3518159,"Martin Fernandez, Gabriel F.",CUB,M,,,,1959,0,20,MAR26,1998,i
-3501370,"Martin Gonzalez, Orlando Jose",CUB,M,FM,FI,,2320,0,20,MAR26,1970,i
+3501370,"Martin Gonzalez, Orlando Jose",CUB,M,FM,,,2320,0,20,MAR26,1970,i
 3534944,"Martin Paz, Yandi",CUB,M,,,,1849,0,40,MAR26,1987,i
 3521125,"Martin Rabelo, Sebastian Manuel",CUB,M,,,,2256,0,20,MAR26,1957,i
 3509338,"Martin Rosabal, Jorge Carlos",CUB,M,,,,2074,0,20,MAR26,1962,i
@@ -1620,14 +1620,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3533956,"Meneses Moreno, Ranses",CUB,M,,,,1830,0,40,MAR26,1996,i
 3535347,"Mengana Aldana, Rafael Raydel",CUB,M,,,,1583,0,40,MAR26,1997,i
 3532038,"Mercado Tamayo, Juan Antonio",CUB,M,,,,1539,0,40,MAR26,2009,i
-3503755,"Mercantete Rodriguez, Edilberto",CUB,M,,FI,,2049,0,20,MAR26,1962,
+3503755,"Mercantete Rodriguez, Edilberto",CUB,M,,,,2049,0,20,MAR26,1962,
 3535053,"Merino Izquierdo, Raciel",CUB,M,,,,1824,0,40,MAR26,1983,i
 3528332,"Mesa Chavez, Maikel",CUB,M,,,,1928,0,20,MAR26,1980,i
 3506525,"Mesa Imberno, Arturo",CUB,M,,,,2106,0,20,MAR26,1968,i
 3518299,"Mestre Jordi, Joaquin",CUB,M,,,,2010,0,40,MAR26,1951,i
 3501167,"Mestre Nunez, Pedro Luis",CUB,M,,,,2009,0,20,MAR26,1963,
 3502767,"Miguez Rodriguez, Dagglais C.",CUB,F,WFM,WFM,,2073,0,20,MAR26,1978,wi
-3505766,"Miguez Rodriguez, Damarka G.",CUB,F,WFM,WFM,FI,2109,0,20,MAR26,1982,wi
+3505766,"Miguez Rodriguez, Damarka G.",CUB,F,WFM,WFM,,2109,0,20,MAR26,1982,wi
 3512703,"Mijares De Armas, Leonardo",CUB,M,,,,1916,0,40,MAR26,1995,i
 3532453,"Milanes Bazar, Marcos",CUB,M,,,,1850,0,40,MAR26,1964,
 3536955,"Milhet Crombet, Joseph De Jesus",CUB,M,,,,1643,0,40,MAR26,2013,i
@@ -1702,7 +1702,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3519660,"Morejon Lopez, Pedro Pablo",CUB,M,,,,1813,0,40,MAR26,1974,i
 3529096,"Morell Fuentes, Analia",CUB,F,,,,1749,0,20,MAR26,2005,wi
 3501639,"Morella Cabrera, Julio Antonio",CUB,M,FM,,,2123,0,20,MAR26,1972,
-3505103,"Moreno Basulto, Nallibys",CUB,F,WFM,WFM,FI,2044,0,20,MAR26,1981,wi
+3505103,"Moreno Basulto, Nallibys",CUB,F,WFM,WFM,,2044,0,20,MAR26,1981,wi
 3531325,"Moreno Cobas, Yelena",CUB,M,,,,1580,0,40,MAR26,2009,i
 3518914,"Moreno Corona, Nayelis Lazara",CUB,F,,,,1983,0,20,MAR26,1998,wi
 3536793,"Moreno De Zayas, Georbel",CUB,M,,,,1656,9,40,MAR26,2015,
@@ -1847,7 +1847,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3506312,"Padron Giraldo, Adrian",CUB,M,,,,1978,0,20,MAR26,1967,i
 3507734,"Padron Suco, Osmani",CUB,M,,,,2067,0,40,MAR26,1964,i
 3504115,"Padura Padilla, Nelson",CUB,M,,,,1989,0,20,MAR26,1963,
-3510107,"Pages Roman, Seidy",CUB,F,WFM,WFM,NI,1923,0,20,MAR26,1989,wi
+3510107,"Pages Roman, Seidy",CUB,F,WFM,WFM,,1923,0,20,MAR26,1989,wi
 3535754,"Palacios Caballero, Ariel",CUB,M,,,,1848,0,40,MAR26,1997,i
 3510824,"Palao Valdes, Alejandro",CUB,M,,,,2030,0,20,MAR26,1989,i
 3538664,"Palau Tapia, Derek",CUB,M,,,,1614,0,40,MAR26,2015,
@@ -1868,7 +1868,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3502708,"Parra Naranjo, Emiliano",CUB,M,,,,2132,0,20,MAR26,1971,i
 3518710,"Pavon Salazar, Yasiel",CUB,M,,,,1962,0,20,MAR26,1988,i
 3523977,"Paz Arcia, Cristan Gabriel",CUB,M,,,,1870,0,40,MAR26,2002,i
-3508340,"Pazo Santana, Susana",CUB,F,WFM,WFM,DI,2102,0,20,MAR26,1988,wi
+3508340,"Pazo Santana, Susana",CUB,F,WFM,WFM,,2102,0,20,MAR26,1988,wi
 3500233,"Pecorelli Garcia, Humberto",CUB,M,IM,,,2384,0,10,MAR26,1963,i
 3530434,"Pedraza Fleites, Sofia",CUB,F,,,,1633,0,40,MAR26,2009,wi
 3512479,"Pedraza Ledon, Osmani",CUB,M,,,,2141,0,40,MAR26,1967,i
@@ -1939,7 +1939,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3522261,"Perez Gonzalez, Yoel",CUB,M,,,,1951,0,20,MAR26,1980,i
 3528839,"Perez Hernandez, Kendry",CUB,M,,,,1695,0,20,MAR26,2006,i
 3526100,"Perez Hernandez, Moises",CUB,M,,,,1779,0,40,MAR26,2004,i
-3517349,"Perez Hernandez, Pavel",CUB,M,,FT,,1969,0,20,MAR26,1971,i
+3517349,"Perez Hernandez, Pavel",CUB,M,,,,1969,0,20,MAR26,1971,i
 3537447,"Perez Hidalgo, Darwin Ariel",CUB,M,,,,1694,0,20,MAR26,2003,
 3512860,"Perez Ibanez, Rene",CUB,M,,,,2032,0,20,MAR26,1979,i
 3531139,"Perez Jimenez, Ibrahin",CUB,M,,,,1881,0,20,MAR26,1990,i
@@ -2089,7 +2089,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3513815,"Quinteros Gomez, Darlina",CUB,F,,,,1927,0,20,MAR26,1990,wi
 3512746,"Rabelo Prieto, Ranses",CUB,M,,,,1990,0,20,MAR26,1992,i
 3531147,Rafael Ramirez Leon,CUB,M,,,,1765,0,40,MAR26,1991,
-3502490,"Rafoso Mendiondo, Maria Cristina",CUB,F,,FI,,1963,0,20,MAR26,1963,wi
+3502490,"Rafoso Mendiondo, Maria Cristina",CUB,F,,,,1963,0,20,MAR26,1963,wi
 3505910,"Ragolta Franco, Eduardo",CUB,M,FM,,,2140,0,20,MAR26,1981,i
 3534928,"Rajadel Rebollido, Thalia",CUB,F,,,,1838,4,40,MAR26,2011,w
 3504360,"Rama Gonzalez, Ricardo",CUB,M,,,,1889,0,20,MAR26,1958,
@@ -2717,7 +2717,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3522946,"Zaldivar Leyva, Reinerio",CUB,M,,,,1991,0,40,MAR26,1966,i
 3520005,"Zaldivar Palacio, Abel",CUB,M,,,,2033,0,40,MAR26,1990,i
 3510913,"Zaldivar Pino, Olivia",CUB,F,,,,1892,2,20,MAR26,1990,w
-3510484,"Zamora Aliaga, Julio Manuel",CUB,M,,FI,,2032,0,20,MAR26,1964,i
+3510484,"Zamora Aliaga, Julio Manuel",CUB,M,,,,2032,0,20,MAR26,1964,i
 3524825,"Zamora De Jesus, Norlen Caridad",CUB,F,,,,1681,0,20,MAR26,2002,wi
 3539679,"Zamora Mato, David",CUB,M,,,,1476,0,40,MAR26,2013,
 3527034,"Zamora Pena, Norbel",CUB,M,,,,1987,0,20,MAR26,2003,i

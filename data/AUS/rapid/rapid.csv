@@ -495,7 +495,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3261468,"Curthoys, Edward",AUS,M,,,,1715,0,40,MAR26,1974,
 3255778,"Curtis, Brad",AUS,M,,,,1435,0,20,MAR26,1977,i
 3261476,"Curtis, Calan",AUS,M,,,,1702,0,20,MAR26,2003,
-3228320,"Curtis, Shaun",AUS,M,,FI,,1701,0,20,MAR26,1994,i
+3228320,"Curtis, Shaun",AUS,M,,,,1701,0,20,MAR26,1994,i
 3251268,"Cutting, Luke",AUS,M,,,,1592,0,40,MAR26,1972,i
 3234657,"Cyriac, Jose",AUS,M,,NA,,1568,0,20,MAR26,1982,i
 3223884,"Dai, Cheng",AUS,M,FM,,,2026,0,20,MAR26,1998,
@@ -981,8 +981,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3278905,"Husain, Lamiah",AUS,F,,,,1467,0,40,MAR26,2014,w
 3206033,"Huynh, Arthur",AUS,M,,,,2012,0,20,MAR26,1984,
 3283437,"Huynh, Long",AUS,M,,,,1701,0,40,MAR26,2000,
-3208648,"Huynh, Phong",AUS,M,,,,1674,0,20,MAR26,0,i
 3249026,"Huynh, Phong",AUS,M,,,,1645,0,40,MAR26,2008,
+3208648,"Huynh, Phong",AUS,M,,,,1674,0,20,MAR26,0,i
 3206050,"Hvistendahl, Robert",AUS,M,,,,1921,0,20,MAR26,1985,i
 3299341,"Iape, Lachlan",AUS,M,,,,1583,0,40,MAR26,1999,
 3215750,"Ibrahim, Victor",AUS,M,,,,1806,0,20,MAR26,1974,i
@@ -1407,7 +1407,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3277186,"Lu, Alfred",AUS,M,,,,1477,0,40,MAR26,2011,i
 3284506,"Lu, Ann",AUS,F,,,,1453,0,40,MAR26,2011,wi
 3294064,"Lu, Edward",AUS,M,,,,1666,0,40,MAR26,1991,
-3219208,"Lu, Lillian",AUS,F,WIM,WIM,"FI,FA",1760,0,20,MAR26,2003,wi
+3219208,"Lu, Lillian",AUS,F,WIM,WIM,FA,1760,0,20,MAR26,2003,wi
 3254976,"Lucas, Peter",AUS,M,,,,1633,0,20,MAR26,1956,i
 3202267,"Luchtmeijer, Anthonie Pieter",AUS,M,,,,2031,0,20,MAR26,1956,i
 3287726,"Ludher-Chandra, Jaden",AUS,M,,,,1576,0,40,MAR26,2006,
@@ -1849,7 +1849,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3287998,"Qazi, Mohammad Ibrahim",AUS,M,,,,1553,0,40,MAR26,2016,
 3276104,"Qi, Jaden",AUS,M,,,,1447,0,40,MAR26,2016,
 3284522,"Qi, Lucas",AUS,M,,,,1681,0,40,MAR26,2009,i
-8638209,"Qi, Zhe",AUS,M,CM,"FI,NA",,1948,0,20,MAR26,1996,i
+8638209,"Qi, Zhe",AUS,M,CM,NA,,1948,0,20,MAR26,1996,i
 8639590,"Qian, Linda (Zhiling)",AUS,F,WCM,WCM,,1628,0,40,MAR26,2010,wi
 3242498,"Qian, Vicky",AUS,F,WCM,WCM,,1463,0,40,MAR26,2012,wi
 3256162,"Qiang, Elaina",AUS,F,WCM,WCM,,1743,0,40,MAR26,2011,w
@@ -2481,7 +2481,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3242935,"Widjaja, Ashton",AUS,M,,,,1710,0,40,MAR26,2012,i
 3286681,"Wieland, Wyatt",AUS,M,,,,1643,0,40,MAR26,2007,i
 3255735,"Wijesinghe, Arindu",AUS,M,,,,1492,0,40,MAR26,2009,i
-9900608,"Wijesuriya, Vineetha",AUS,F,WCM,WCM,"FI,FI",1877,0,20,MAR26,1970,wi
+9900608,"Wijesuriya, Vineetha",AUS,F,WCM,WCM,FI,1877,0,20,MAR26,1970,wi
 33417261,"Wilford, Harry",AUS,M,,,,1814,0,,MAR26,2015,i
 3276708,"Wilkie, Adam",AUS,M,,,,1610,0,40,MAR26,2009,i
 3229386,"Wilks, Andrew",AUS,M,,,,1806,0,20,MAR26,1956,i

@@ -264,7 +264,7 @@ ID Number      Name                                                         Fed 
 11652195       Bojars, Matiss                                               LAT M                                1562  0   40 1997      
 11622407       Bojaruns, Edgars                                             LAT M                                1455  0   40 2010  i   
 11646853       Bokalders, Janis                                             LAT M                                1511  7   40 1975      
-11639881       Boleiko, Augusts                                             LAT M                                1581  7   40 2015      
+11639881       Boleiko, Augusts                                             LAT M                            ACM 1581  7   40 2015      
 11601981       Bolsakovs, Vadims                                            LAT M                                2022  0   20 1989  i   
 11635738       Bolte, Gustav                                                LAT M                                1555  0   20 1996  i   
 11611588       Bomis,Raitis                                                 LAT M                                1552  0   20 2006  i   
@@ -836,8 +836,8 @@ ID Number      Name                                                         Fed 
 11648155       Kalnins, Ervins                                              LAT M                                1670  0   40 2007  i   
 11626992       Kalnins, Girts                                               LAT M                                1554  0   20 1979  i   
 11642998       Kalnins, Kaspars                                             LAT M                                1802  7   20 1984      
-11612037       Kalnins, Normunds                                            LAT M                                1738  0   20 1962  i   
 11607718       Kalnins, Normunds                                            LAT M                                1882  0   20 1931  i   
+11612037       Kalnins, Normunds                                            LAT M                                1738  0   20 1962  i   
 11638516       Kalnins, Reinis                                              LAT M                                1564  0   40 1997  i   
 11604069       Kalnins, Toms                                                LAT M             AO,IO,SI           2090  13  20 1996      
 11640600       Kalnins, Valters                                             LAT M                                1539  0   20 2004  i   
@@ -1105,7 +1105,7 @@ ID Number      Name                                                         Fed 
 11609443       Laksis, Dans                                                 LAT M                                1638  0   20 1999  i   
 11610301       Laksis, Ints                                                 LAT M                                1585  2   20 1969      
 11607734       Lanka, Gunars                                                LAT M                                1587  0   20 1934  i   
-11600047       Lanka, Zigurds                                               LAT M   GM        FST                2324  20  10 1960      
+11600047       Lanka, Zigurds                                               LAT M   GM                           2324  20  10 1960      
 11635118       Lapa, Kristaps                                               LAT M                                1460  0   20 2002  i   
 11609427       Lapins, Janis                                                LAT M                                1746  0   20 1937  i   
 11618582       Lapins, Marks Davis                                          LAT M                                1438  0   20 2004  i   
@@ -1245,7 +1245,7 @@ ID Number      Name                                                         Fed 
 11644109       Makarovs, Daniils                                            LAT M                                1796  19  40 2017      
 11620072       Maklakova, Dafne                                             LAT F                                1591  0   40 2011  w   
 11617748       Maklakova, Naomi                                             LAT F   WCM  WCM                     2023  0   40 2010  w   
-11603470       Maklakova, Nellija                                           LAT F             FI,NA              1866  0   20 1981  w   
+11603470       Maklakova, Nellija                                           LAT F             NA                 1866  0   20 1981  w   
 11622792       Maksimovs, Arturs                                            LAT M                                1491  0   40 2010      
 11613548       Maksimovs, Mihails                                           LAT M                                1510  0   20 2006  i   
 11643544       Malakalns, Martins                                           LAT M                                1867  7   40 2008      
@@ -1421,8 +1421,8 @@ ID Number      Name                                                         Fed 
 11612720       Nikitins,Aleksandrs                                          LAT M                                1773  0   20 1985  i   
 11601493       Nikolajev, Denis                                             LAT M                                2360  0   10 1983      
 11606592       Nikolajeva, Marija                                           LAT F                                1780  0   20 2002  wi  
-11622741       Nikolajevs, Andrejs                                          LAT M                                1617  0   20 1999  i   
 11615290       Nikolajevs, Andrejs                                          LAT M                                1795  0   20 1956  i   
+11622741       Nikolajevs, Andrejs                                          LAT M                                1617  0   20 1999  i   
 11614412       Nikolajevs, Vladimirs                                        LAT M                                1659  0   20 1953  i   
 11648104       Nilovs, Artemijs                                             LAT M                                1800  12  40 2015      
 11656484       Nilovs, Daniils                                              LAT M                                1401  5   40 2017      
@@ -1740,7 +1740,7 @@ ID Number      Name                                                         Fed 
 11601051       Roze, Janis                                                  LAT M                                1715  0   20 1950      
 11638036       Rozenbergs, Janis                                            LAT M                                1424  0   40 1977  i   
 11636084       Rozentals, Karlis Valters                                    LAT M                                1434  0   20 1998  i   
-11600802       Rozlapa, Vija                                                LAT F             FT                 1721  0   20 1942  wi  
+11600802       Rozlapa, Vija                                                LAT F                                1721  0   20 1942  wi  
 11611790       Rubina, Megija                                               LAT F                                1574  0   20 2001  wi  
 11623551       Rubins, Karlis                                               LAT M                                1710  0   20 1980  i   
 11602970       Rubins, Viktors                                              LAT M                                1792  0   20 1949  i   
@@ -1874,8 +1874,8 @@ ID Number      Name                                                         Fed 
 11612860       Sikalovs, Valerijs                                           LAT M                                1657  0   20 1948  i   
 11629118       Siksna, Agris                                                LAT M                                1594  0   20 1972  i   
 11623110       Silina, Marina                                               LAT F                                1687  0   40 1956  wi  
-11649844       Silins, Andrejs                                              LAT M                                1432  0   40 2004  i   
 11620200       Silins, Andrejs                                              LAT M                                1567  0   20 1954  i   
+11649844       Silins, Andrejs                                              LAT M                                1432  0   40 2004  i   
 11634936       Silins, Indrikis                                             LAT M                                1546  0   20 1990  i   
 11609680       Silins, Juris                                                LAT M                                1645  0   20 2003      
 11630981       Silins, Miks                                                 LAT M                                1570  0   40 2010  i   

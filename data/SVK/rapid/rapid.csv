@@ -701,7 +701,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14901617,"Frindt, Kornel",SVK,M,,,,2145,0,20,MAR26,1968,i
 14928663,"Frolo, Miroslav",SVK,M,,,,1905,0,20,MAR26,1982,i
 549000632,"Frtus, Filip",SVK,M,,,,1745,0,40,MAR26,2004,
-14900017,"Ftacnik, Lubomir",SVK,M,GM,"FST,FST",,2465,0,10,MAR26,1957,
+14900017,"Ftacnik, Lubomir",SVK,M,GM,FST,,2465,0,10,MAR26,1957,
 14923106,"Fuchs, Ladislav",SVK,M,,,,1944,0,20,MAR26,1987,i
 14932180,"Fuchsleitner, Peter",SVK,M,,,,1530,0,20,MAR26,1950,i
 14923025,"Fujerik, Stefan",SVK,M,,,,1563,0,20,MAR26,1951,i
@@ -823,7 +823,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14903954,"Gregor, Eduard",SVK,M,,,,1875,0,20,MAR26,1953,i
 14903725,"Gregor, Michal",SVK,M,,,,2167,0,20,MAR26,1983,i
 14997711,"Gregor, Tomas",SVK,M,,,,1503,0,40,MAR26,2012,
-14915766,"Gregor, Zdenek",SVK,M,,"FI,FI",,1840,0,20,MAR26,1956,
+14915766,"Gregor, Zdenek",SVK,M,,FI,,1840,0,20,MAR26,1956,
 14953692,"Gregus, Milan",SVK,M,,,,1748,0,20,MAR26,1963,i
 14958376,"Gregus, Vladimir",SVK,M,,,,1710,0,20,MAR26,1963,i
 14927624,"Gremen, Tomas",SVK,M,,NA,,1924,0,20,MAR26,1982,i
@@ -1098,7 +1098,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14184117,"Ivanov, Taras",SVK,M,,,,2018,0,20,MAR26,2007,
 14938910,"Izo, Alexander",SVK,M,,,,1642,0,20,MAR26,1950,i
 14994798,"Izo, Julius",SVK,M,,,,1439,0,40,MAR26,1952,i
-14901390,"Jablonicky, Frantisek",SVK,M,CM,FI,,2015,0,20,MAR26,1951,
+14901390,"Jablonicky, Frantisek",SVK,M,CM,,,2015,0,20,MAR26,1951,
 14925621,"Jablonicky, Martin",SVK,M,IM,,,2342,0,20,MAR26,1999,
 14915928,"Jacko, Vladimir",SVK,M,FM,,,2305,0,20,MAR26,1993,i
 14928302,"Jadron, Branislav",SVK,M,,,,1850,0,20,MAR26,1996,i
@@ -1305,8 +1305,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 549000829,"Klena, Miroslav",SVK,M,,,,1501,8,40,MAR26,1983,
 14954150,"Klenko, Adam",SVK,M,,NA,,1625,0,40,MAR26,2005,i
 14978636,"Klenko, David",SVK,M,,,,1725,0,40,MAR26,2011,
-14951487,"Klimek, Martin",SVK,M,,NA,,1682,0,20,MAR26,2005,
 14964864,"Klimek, Martin",SVK,M,,,,1709,0,20,MAR26,2007,i
+14951487,"Klimek, Martin",SVK,M,,NA,,1682,0,20,MAR26,2005,
 549001000,"Klimenkov, Hlib",SVK,M,,,,1490,0,40,MAR26,2010,
 14951037,"Klimentova, Alzbeta",SVK,F,,,,1638,0,40,MAR26,2005,wi
 14911795,"Klimes, Milan",SVK,M,,,,1847,0,20,MAR26,1958,i
@@ -1720,7 +1720,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14967669,"Machovic, Maxim",SVK,M,,,,1425,0,40,MAR26,2011,i
 14968118,"Machovicova, Alexandra",SVK,F,,,,1473,0,40,MAR26,2010,wi
 14908743,"Macka, Oto",SVK,M,,,,1953,0,20,MAR26,1986,i
-14906490,"Macko, Michal",SVK,M,,"NI,NI",,2188,0,20,MAR26,1985,
+14906490,"Macko, Michal",SVK,M,,NI,,2188,0,20,MAR26,1985,
 14979942,"Macko, Michal",SVK,M,,,,1576,0,20,MAR26,1971,i
 14932695,"Macko, Miroslav",SVK,M,FM,,,2173,0,20,MAR26,2001,i
 14921367,"Macko, Peter",SVK,M,,,,1908,0,20,MAR26,1998,
@@ -1792,7 +1792,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14958112,"Markschies, Benjamin Max",SVK,M,,,,1503,0,20,MAR26,2001,i
 14914263,"Markuliak, Mario",SVK,M,,,,1859,0,20,MAR26,1991,i
 73620785,"Marosi, Michal",SVK,M,,,,1603,0,40,MAR26,2010,i
-14906821,"Marsina, Stefan",SVK,M,,"NI,NA",,1841,0,20,MAR26,1950,i
+14906821,"Marsina, Stefan",SVK,M,,NA,,1841,0,20,MAR26,1950,i
 14922991,"Martinka, Tomas",SVK,M,,,,1806,0,20,MAR26,1996,i
 14965151,"Martinko, Marek",SVK,M,,,,1624,0,40,MAR26,2008,
 14900599,"Martiska, Peter",SVK,M,FM,,,2184,0,20,MAR26,1958,
@@ -1832,7 +1832,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14966921,"Mazak, Ryan",SVK,M,,,,1941,0,40,MAR26,2013,
 14968576,"Mazak, Vladimir",SVK,M,,,,1645,0,40,MAR26,1972,
 73611298,"Mazur, Mario",SVK,M,,,,1719,0,20,MAR26,2001,i
-14909332,"Mazur, Stefan",SVK,M,IM,FT,,2386,0,10,MAR26,1992,
+14909332,"Mazur, Stefan",SVK,M,IM,,,2386,0,10,MAR26,1992,
 14968924,"Mecir, Andrej",SVK,M,,,,1527,0,40,MAR26,2008,i
 14961806,"Mederly, Jan",SVK,M,,,,1775,0,20,MAR26,2004,i
 14961156,"Mederly, Pavol",SVK,M,,,,1594,0,20,MAR26,1974,i
@@ -2224,7 +2224,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14901650,"Pejko, Otomar",SVK,M,,,,2030,0,20,MAR26,1968,i
 14985470,"Pekar, Adam",SVK,M,,,,1745,0,40,MAR26,1987,i
 14911957,"Pekar, Jozef",SVK,M,,,,1833,0,20,MAR26,1960,i
-14902370,"Pekar, Karol",SVK,M,,"FI,FI",,2074,0,20,MAR26,1957,i
+14902370,"Pekar, Karol",SVK,M,,FI,,2074,0,20,MAR26,1957,i
 14963272,"Pekar, Matus",SVK,M,,,,1816,0,20,MAR26,1993,i
 14966662,"Pekarcik, Peter",SVK,M,,,,1875,0,20,MAR26,1953,i
 14982919,"Pekny, Tomas",SVK,M,,,,1428,0,40,MAR26,2013,
@@ -2435,14 +2435,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14918099,"Repcek, Tomas",SVK,M,,,,1619,0,20,MAR26,1992,i
 14918781,"Repka, Christopher",SVK,M,GM,,,2428,0,10,MAR26,1998,i
 14975009,"Repka, Michal",SVK,M,,,,1564,0,20,MAR26,2002,i
-14900440,"Repkova, Eva",SVK,F,IM,WGM,"IO,FT",2360,0,20,MAR26,1975,wi
+14900440,"Repkova, Eva",SVK,F,IM,WGM,IO,2360,0,20,MAR26,1975,wi
 14982927,"Repkovska, Anetta",SVK,F,,,,1442,0,40,MAR26,2014,w
 14964074,"Rerko, Samuel",SVK,M,,,,1461,0,40,MAR26,2006,i
 14986175,"Retkovsky, Dominik",SVK,M,,,,1587,0,40,MAR26,2011,i
 14929503,"Revaj, Miroslav",SVK,M,,,,1620,0,20,MAR26,1995,
 14987449,"Rexova, Kristina",SVK,F,,,,1467,7,40,MAR26,2009,w
 14996260,"Rezak, Simon",SVK,M,,,,1536,0,40,MAR26,2009,
-14906562,"Riabov, Alexander",SVK,M,,"FI,FA",,1979,0,20,MAR26,1986,i
+14906562,"Riabov, Alexander",SVK,M,,FA,,1979,0,20,MAR26,1986,i
 14923076,"Riabova, Rebeka",SVK,F,,FA,,1800,0,20,MAR26,1999,wi
 14936771,"Ribaric, Martin",SVK,M,,,,1718,0,20,MAR26,1993,
 14977150,"Ridzi, Martin",SVK,M,,,,1739,0,20,MAR26,2003,i
@@ -2805,7 +2805,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14943875,"Stevlik, Richard",SVK,M,,,,1690,0,20,MAR26,1999,i
 14921626,"Stipanic, Peter",SVK,M,,,,1720,0,20,MAR26,1948,i
 14926253,"Stofa, David",SVK,M,,,,1814,0,20,MAR26,1987,i
-14900025,"Stohl, Igor",SVK,M,GM,"FST,FST",,2399,0,10,MAR26,1964,
+14900025,"Stohl, Igor",SVK,M,GM,FST,,2399,0,10,MAR26,1964,
 14956993,"Stolar, Florian",SVK,M,,,,1510,0,40,MAR26,2009,
 91141672,"Stolar, Matus",SVK,M,,,,1602,0,40,MAR26,2010,
 14945878,"Stolar, Michal",SVK,M,,NA,,1743,0,20,MAR26,1954,

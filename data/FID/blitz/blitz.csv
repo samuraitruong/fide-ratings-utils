@@ -435,7 +435,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 124112121,"Klimov, Kuzma",FID,M,,,,1455,0,40,MAR26,2012,i
 13507362,"Klimovich, Hanna",FID,F,,,,1627,0,20,MAR26,1996,w
 13519514,"Klintsevich, Andrei",FID,M,,,,1852,10,20,MAR26,1988,
-4119150,"Kobalia, Mikhail",FID,M,GM,"FST,FST",,2471,0,10,MAR26,1978,
+4119150,"Kobalia, Mikhail",FID,M,GM,FST,,2471,0,10,MAR26,1978,
 356102096,"Koch, Christian Otto",FID,M,,,,1825,0,,MAR26,1967,
 73010952,"Kodric, Zana",FID,F,,,,1473,0,20,MAR26,2007,wi
 13519352,"Koishman, Karina",FID,F,,,,1669,0,40,MAR26,2009,wi
@@ -633,7 +633,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44155573,"Murzin, Volodar",FID,M,GM,,,2637,0,10,MAR26,2006,
 148061912,"Mytrofanov, Vadym",FID,M,,,,1464,0,20,MAR26,1997,i
 325120393,"Nader, Amier",FID,M,,,,1627,0,20,MAR26,1982,i
-4118987,"Najer, Evgeniy",FID,M,GM,FST,,2517,0,10,MAR26,1977,i
+4118987,"Najer, Evgeniy",FID,M,GM,,,2517,0,10,MAR26,1977,i
 324105015,"Nami, Pedro",FID,M,,,,1783,0,20,MAR26,1992,i
 325120400,"Nandakumar, Adhvik",FID,M,,,,1592,0,40,MAR26,2008,i
 10301860,"Nanthalathu, Ebin",FID,M,,,,1630,0,20,MAR26,2002,i
@@ -743,10 +743,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4192362,"Radchenko, Alexey",FID,M,FM,,,2253,0,20,MAR26,1987,
 34209026,"Radionenko, Gleb",FID,M,,,,1849,0,40,MAR26,2011,
 55669441,"Radushinskaya, Svetlana",FID,F,,,,1750,0,40,MAR26,2013,w
-4103203,"Raetsky, Alexander",FID,M,GM,"FT,FT",,2175,0,10,MAR26,1961,i
+4103203,"Raetsky, Alexander",FID,M,GM,FT,,2175,0,10,MAR26,1961,i
 358105417,"Rafailidis, Petros",FID,M,,,,1459,0,,MAR26,1967,i
 55729711,"Rakhimkulov, Askar",FID,M,,,,1915,11,40,MAR26,2013,
-4173708,"Rakhmanov, Aleksandr",FID,M,GM,FT,,2512,0,10,MAR26,1989,
+4173708,"Rakhmanov, Aleksandr",FID,M,GM,,,2512,0,10,MAR26,1989,
 74600389,"Ramchandani, Yash",FID,M,,,,1467,0,20,MAR26,2000,i
 129057855,"Ramores, Rafael Jay",FID,M,,,,1561,0,,MAR26,1983,i
 44144504,"Rasaev, Stanislav",FID,M,,,,1524,0,,MAR26,2004,i
@@ -955,7 +955,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34119741,"Usacheva, Glafira",FID,F,WFM,WFM,NA,2106,0,20,MAR26,2003,w
 34254854,"Uskov, Artem",FID,M,GM,,,2586,11,10,MAR26,2010,
 379112431,"Ussenov, Abylay",FID,M,,,,1596,0,,MAR26,2002,
-24140848,"Utiatskaja, Irina",FID,F,WIM,WIM,FI,1954,0,20,MAR26,1996,w
+24140848,"Utiatskaja, Irina",FID,F,WIM,WIM,,1954,0,20,MAR26,1996,w
 124104620,"Vaitkus, Igor",FID,M,,,,1659,0,20,MAR26,2005,i
 177104990,"Valentine, Cedric",FID,M,,,,1534,0,40,MAR26,2011,i
 55740111,"Valiev, Denis",FID,M,,,,1745,11,40,MAR26,2015,

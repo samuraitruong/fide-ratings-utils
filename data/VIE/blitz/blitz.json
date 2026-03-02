@@ -4086,7 +4086,7 @@
     "Sex": "F",
     "Title": "WCM",
     "WTit": "WCM",
-    "OTit": "FI,NA",
+    "OTit": "NA",
     "Rating": "1847",
     "Gms": "0",
     "K": "20",
@@ -10205,7 +10205,7 @@
     "Fed": "VIE",
     "Sex": "M",
     "Title": "GM",
-    "WTit": "FT",
+    "WTit": "",
     "OTit": "",
     "Rating": "2569",
     "Gms": "0",
@@ -12225,21 +12225,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "12451797",
-    "Name": "Nguyen Binh Minh",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1459",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAR26",
-    "B-day": "2012",
-    "Flag": ""
-  },
-  {
     "ID Number": "12445134",
     "Name": "Nguyen Binh Minh",
     "Fed": "VIE",
@@ -12253,6 +12238,21 @@
     "RatingMonth": "MAR26",
     "B-day": "2009",
     "Flag": "i"
+  },
+  {
+    "ID Number": "12451797",
+    "Name": "Nguyen Binh Minh",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1459",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAR26",
+    "B-day": "2012",
+    "Flag": ""
   },
   {
     "ID Number": "12476420",
@@ -13650,21 +13650,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "12432750",
-    "Name": "Nguyen Hoang Dung",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1438",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAR26",
-    "B-day": "2015",
-    "Flag": ""
-  },
-  {
     "ID Number": "12440965",
     "Name": "Nguyen Hoang Dung",
     "Fed": "VIE",
@@ -13678,6 +13663,21 @@
     "RatingMonth": "MAR26",
     "B-day": "2014",
     "Flag": "w"
+  },
+  {
+    "ID Number": "12432750",
+    "Name": "Nguyen Hoang Dung",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1438",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAR26",
+    "B-day": "2015",
+    "Flag": ""
   },
   {
     "ID Number": "12457582",
@@ -16350,21 +16350,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12483354",
-    "Name": "Nguyen Quang Minh",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1525",
-    "Gms": "0",
-    "K": "",
-    "RatingMonth": "MAR26",
-    "B-day": "2006",
-    "Flag": "i"
-  },
-  {
     "ID Number": "12429147",
     "Name": "Nguyen Quang Minh",
     "Fed": "VIE",
@@ -16378,6 +16363,21 @@
     "RatingMonth": "MAR26",
     "B-day": "2011",
     "Flag": ""
+  },
+  {
+    "ID Number": "12483354",
+    "Name": "Nguyen Quang Minh",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1525",
+    "Gms": "0",
+    "K": "",
+    "RatingMonth": "MAR26",
+    "B-day": "2006",
+    "Flag": "i"
   },
   {
     "ID Number": "12443271",
@@ -18195,21 +18195,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "12473103",
-    "Name": "Nguyen Tuan Kiet",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1561",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAR26",
-    "B-day": "2014",
-    "Flag": ""
-  },
-  {
     "ID Number": "12469254",
     "Name": "Nguyen Tuan Kiet",
     "Fed": "VIE",
@@ -18222,6 +18207,21 @@
     "K": "40",
     "RatingMonth": "MAR26",
     "B-day": "2015",
+    "Flag": ""
+  },
+  {
+    "ID Number": "12473103",
+    "Name": "Nguyen Tuan Kiet",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1561",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAR26",
+    "B-day": "2014",
     "Flag": ""
   },
   {
@@ -26250,19 +26250,19 @@
     "Flag": "w"
   },
   {
-    "ID Number": "12468355",
+    "ID Number": "12492221",
     "Name": "Tran Duc Anh",
     "Fed": "VIE",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1647",
+    "Rating": "1507",
     "Gms": "0",
-    "K": "20",
+    "K": "40",
     "RatingMonth": "MAR26",
-    "B-day": "2007",
-    "Flag": "i"
+    "B-day": "2012",
+    "Flag": ""
   },
   {
     "ID Number": "12405957",
@@ -26280,19 +26280,19 @@
     "Flag": "i"
   },
   {
-    "ID Number": "12492221",
+    "ID Number": "12468355",
     "Name": "Tran Duc Anh",
     "Fed": "VIE",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1507",
+    "Rating": "1647",
     "Gms": "0",
-    "K": "40",
+    "K": "20",
     "RatingMonth": "MAR26",
-    "B-day": "2012",
-    "Flag": ""
+    "B-day": "2007",
+    "Flag": "i"
   },
   {
     "ID Number": "12422380",
@@ -26825,7 +26825,7 @@
     "Fed": "VIE",
     "Sex": "M",
     "Title": "FM",
-    "WTit": "FI,NA",
+    "WTit": "NA",
     "OTit": "",
     "Rating": "2076",
     "Gms": "0",

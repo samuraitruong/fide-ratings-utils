@@ -220,7 +220,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13310429,"Hakobyan, Valeri",ARM,M,,,,1773,0,20,MAR26,1998,i
 13302795,"Hambardzumian, Yuri",ARM,M,IM,,,2264,0,10,MAR26,1988,i
 13325426,"Hambardzumyan, Vilen",ARM,M,,,,1540,0,40,MAR26,2010,
-13300873,"Harutjunyan, Gevorg",ARM,M,GM,"FST,FST",,2463,0,10,MAR26,1981,i
+13300873,"Harutjunyan, Gevorg",ARM,M,GM,FST,,2463,0,10,MAR26,1981,i
 13304461,"Harutyunyan, Ani",ARM,F,,,,1989,0,20,MAR26,1997,wi
 13318632,"Harutyunyan, Arman G.",ARM,M,,,,2085,0,40,MAR26,2011,
 13317890,"Harutyunyan, Armen A.",ARM,M,,,,1461,0,40,MAR26,2013,
@@ -294,7 +294,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13311778,"Khachatryan, Narek S.",ARM,M,,,,1667,0,40,MAR26,2007,i
 13309048,"Khachatryan, Samvel S.",ARM,M,CM,,,2214,0,20,MAR26,2003,
 13306901,"Khachatryan, Tigran V.",ARM,M,,,,1966,0,20,MAR26,1994,i
-13300598,"Khachatryan, Vahagn",ARM,M,IM,"FT,IA",,2171,0,20,MAR26,1977,
+13300598,"Khachatryan, Vahagn",ARM,M,IM,IA,,2171,0,20,MAR26,1977,
 13310852,"Khachatryan, Veronika",ARM,F,WCM,WCM,,1990,0,20,MAR26,2004,w
 13319426,"Khachatryan, Zhora",ARM,M,,,,1656,0,40,MAR26,2009,i
 13304305,"Khachikyan, Haik",ARM,M,,,,1939,0,20,MAR26,1985,
@@ -381,7 +381,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13318578,"Mesropyan, Samvel",ARM,M,,,,1838,0,40,MAR26,2010,i
 13304852,"Mikaelyan, Arman",ARM,M,GM,,,2456,0,10,MAR26,1996,i
 13319655,"Militonyan, Movses",ARM,M,,,,1540,0,40,MAR26,2013,
-13300040,"Minasian, Artashes",ARM,M,GM,FT,,2470,0,10,MAR26,1967,i
+13300040,"Minasian, Artashes",ARM,M,GM,,,2470,0,10,MAR26,1967,i
 13321064,"Minasyan, Arina",ARM,F,,,,1488,0,40,MAR26,2014,w
 13303783,"Minasyan, Arnold",ARM,M,,,,2264,0,20,MAR26,1987,
 13322737,"Mirakyan, Angelina",ARM,F,,,,1709,0,40,MAR26,2013,w

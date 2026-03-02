@@ -9,7 +9,7 @@ ID Number      Name                                                         Fed 
 4924312        Ali, Bauirjan                                                MGL M                                1677  0   40 2011      
 4901223        Altan, Tuvdendorj                                            MGL M                                2107  0   20 1966  i   
 4900278        Altan-Och, Genden                                            MGL M   FM        IA                 2088  0   20 1961      
-4901444        Altan-Ulzii, Enkhtuul                                        MGL F   WGM  WGM  FT,NA              2184  0   20 1994  wi  
+4901444        Altan-Ulzii, Enkhtuul                                        MGL F   WGM  WGM  NA                 2184  0   20 1994  wi  
 4905130        Altanbayar Tserenpeljee                                      MGL M                                1954  0   20 1983  i   
 4905261        Altangerel Myagmarsuren                                      MGL M                                1735  0   20 1987  i   
 4923421        Altangerel, Baatar                                           MGL M             NA                 1740  0   20 1987      
@@ -56,7 +56,7 @@ ID Number      Name                                                         Fed 
 4900600        Ankhchimeg, Bayanmunkh                                       MGL F   WIM  WIM                     1922  0   20 1983  w   
 4903676        Ankhiluun Gantulga                                           MGL F                                1605  0   20 2004  wi  
 4931203        Ankhzaya Batkhishigt                                         MGL F                                1526  0   40 2010  w   
-4901339        Anu, Bayar                                                   MGL F   WFM  WFM  FT                 1904  0   20 1993  w   
+4901339        Anu, Bayar                                                   MGL F   WFM  WFM                     1904  0   20 1993  w   
 4908880        Anu, Bayart-Uchral                                           MGL F   WCM  WCM                     1725  0   40 2012  w   
 4929675        Anu, Ganzorig                                                MGL F                                1637  0   40 2016  w   
 4930495        Anu-Ujin Gankhuyag                                           MGL F                            ACM 1508  0   40 2010  w   
@@ -148,7 +148,7 @@ ID Number      Name                                                         Fed 
 4922840        Bayarbat, Seluun                                             MGL M                                1583  0   20 2004  i   
 4919645        Bayarduuren, Sainbileg                                       MGL M                                1669  0   40 2012  i   
 4901479        Bayarkhuu, Khurelchuluun                                     MGL M                                2044  0   20 1996  i   
-4900260        Bayarmaa, Bayarjargal                                        MGL F   WIM  WIM  FI                 1993  0   20 1995  w   
+4900260        Bayarmaa, Bayarjargal                                        MGL F   WIM  WIM                     1993  0   20 1995  w   
 4900189        Bayarmaa, Gendenjamc                                         MGL F   WIM  WIM                     1903  0   20 1963  wi  
 4900677        Bayarmandakh, Balgan                                         MGL M   FM                           2057  0   20 1974      
 4903013        Bayarsaikhan, Adiya                                          MGL M                                2010  0   20 1965  i   
@@ -179,7 +179,7 @@ ID Number      Name                                                         Fed 
 4919017        Bilguun, Gansukh                                             MGL M                                1598  0   40 2008  i   
 4902319        Bilguun, Lkhagvasanj                                         MGL M                                1842  0   20 2003  i   
 4901746        Bilguun, Munkhchuluun                                        MGL M                                1900  0   20 1990  i   
-4901541        Bilguun, Sumiya                                              MGL M   GM        FI                 2409  0   10 1997      
+4901541        Bilguun, Sumiya                                              MGL M   GM                           2409  0   10 1997      
 4913787        Bilguunbayar, Khorloo                                        MGL M                                1480  0   20 2007  i   
 4931009        Bilguuntugs Bayarmagnai                                      MGL M                                1585  0   40 2013      
 4931564        Bilguuntugs Odgerel                                          MGL M                                1474  0   40 2013      
@@ -517,7 +517,7 @@ ID Number      Name                                                         Fed 
 4900863        Mungunkhuu, Mijgee                                           MGL M                                2159  0   20 1976      
 4931386        Munguntulga Baasansuren                                      MGL M                                1724  0   40 2013      
 4904494        Munguntulga, Batjargal                                       MGL M                                1726  0   20 2000  i   
-4900758        Munguntuul, Batkhuyag                                        MGL F   IM   WGM  FT                 2278  0   10 1987  w   
+4900758        Munguntuul, Batkhuyag                                        MGL F   IM   WGM                     2278  0   10 1987  w   
 4902831        Mungunzul, Bat-Erdene                                        MGL F   WIM  WIM                     2327  0   20 2005  w   
 4925343        Munkh-Ayalguu, Dorjderem                                     MGL F                                1648  0   40 2015  w   
 4906420        Munkh-Erdene Otgonbayar                                      MGL M                                1768  0   20 2005  i   
@@ -623,7 +623,7 @@ ID Number      Name                                                         Fed 
 4902696        Onongol , Tselmeg                                            MGL F                                1571  0   20 2004  wi  
 4905180        Orgil Rentsen                                                MGL M                                1717  0   20 1984  i   
 4905555        Orgil Unurbayar                                              MGL M                                1665  0   20 2003  i   
-4902076        Orgil, Gantumur                                              MGL M             FI,NA          AGM 1996  0   20 1987  i   
+4902076        Orgil, Gantumur                                              MGL M             NA             AGM 1996  0   20 1987  i   
 4907493        Orgilon Batsaikhan                                           MGL M                                1809  0   40 2008  i   
 4931424        Orgiluun Munkhdul                                            MGL F                                1554  0   40 2015  w   
 4928091        Otgonbaatar Erdenedalai                                      MGL F                                1643  0   20 2000  wi  
@@ -836,7 +836,7 @@ ID Number      Name                                                         Fed 
 2054906        Uyanga, Byambaa                                              MGL F   WFM  WFM                     2035  0   20 1990  wi  
 4918959        Uyangalyankhua, Batzaya                                      MGL F                            AIM 1649  0   40 2011  wi  
 4922816        Uyral, Gantumur                                              MGL F                                1422  0   20 2006  wi  
-4900952        Yanjindulam, Dulamsuren                                      MGL F   WIM  WIM  FI                 2114  0   20 1988  wi  
+4900952        Yanjindulam, Dulamsuren                                      MGL F   WIM  WIM                     2114  0   20 1988  wi  
 4901452        Yanjinlkham, Bayarsaikhan                                    MGL F   WFM  WFM                     1914  0   20 1996  wi  
 4905962        Yeruultei, Batbaatar                                         MGL M   CM                           1924  0   40 2010      
 4905202        Yesuntumur Togoontumur                                       MGL M                                1704  0   20 1980  i   

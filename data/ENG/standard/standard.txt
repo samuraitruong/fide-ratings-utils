@@ -157,7 +157,7 @@ ID Number      Name                                                         Fed 
 343445462      Armstrong, Alastair                                          ENG M                                1963  0   20 1967      
 409049         Armstrong, Malcolm J                                         ENG M             NA                 1977  0   20 1963      
 413712         Armstrong, William G                                         ENG M                                1826  0   20 1941      
-408077         Arnott, Jonathan W                                           ENG M   CM        FI,NA              2024  2   20 1981      
+408077         Arnott, Jonathan W                                           ENG M   CM        NA                 2024  2   20 1981      
 414654         Arora, Manoj                                                 ENG M                            AIM 1816  0   40 1977  i   
 64300870       Arora, Prachi                                                ENG F                                1617  0   40 2009  wi  
 459305         Arora, Tashika                                               ENG F                                1851  0   40 2008  w   
@@ -236,7 +236,7 @@ ID Number      Name                                                         Fed 
 407755         Ball, Hannah                                                 ENG F                                1881  0   20 1990  wi  
 402150         Ball, John D L                                               ENG M                                2230  0   20 1945  i   
 476153         Ball, Katie C                                                ENG F                                1623  0   20 2007  wi  
-14304627       Ball, Laurence                                               ENG M             FI                 2022  0   20 1955  i   
+14304627       Ball, Laurence                                               ENG M                                2022  0   20 1955  i   
 469688         Ball, Matthew P                                              ENG M             NI                 1753  0   20 1970  i   
 445533         Balloglu, Piro                                               ENG M                                1904  0   40 1979  i   
 343420532      Balmond, Tom                                                 ENG M                                1903  5   40 2011      
@@ -1418,7 +1418,7 @@ ID Number      Name                                                         Fed 
 414778         Edwards, Nicholas L                                          ENG M                                1794  1   20 1943      
 401293         Edwards, Paul                                                ENG M                                2173  0   40 1953      
 406473         Edwards, Ray B                                               ENG M                                1910  0   20 1937  i   
-343413552      Edwards, Rhys                                                ENG M             DI                 1763  3   20 1992      
+343413552      Edwards, Rhys                                                ENG M                                1763  3   20 1992      
 408140         Edwards, Roger J                                             ENG M                                1775  0   40 1944  i   
 406821         Edwards, Simon R                                             ENG M                                1954  0   20 1974  i   
 424072         Edwards-Wright, Miles D                                      ENG M                                1971  0   20 1996      
@@ -1944,7 +1944,7 @@ ID Number      Name                                                         Fed 
 343443737      Griffiths, Hayden                                            ENG M                                1814  0   40 2004      
 403229         Griffiths, Paul V                                            ENG M                                2161  0   20 1976  i   
 401382         Griffiths, Peter C                                           ENG M                                2280  0   20 0     i   
-13300571       Grigoryan, Meri                                              ENG F   WFM  WFM  FT                 1980  0   20 1977  wi  
+13300571       Grigoryan, Meri                                              ENG F   WFM  WFM                     1980  0   20 1977  wi  
 5600448        Grillage, Andrew                                             ENG M                                1868  0   20 1970  i   
 343459579      Grimley, Matthew                                             ENG M                                1739  4   40 2010      
 343111015      Grimmett, Ashton                                             ENG M                                1768  1   40 2006      
@@ -2363,7 +2363,7 @@ ID Number      Name                                                         Fed 
 484660         Humphreys, Paul                                              ENG M                                1731  0   40 1961      
 456276         Humphry, Phil S                                              ENG M                                1477  0   40 1950  i   
 426423         Hung, Dylan                                                  ENG M                                1636  0   20 2001  i   
-426431         Hung, Jake                                                   ENG M             FI,IA              1814  0   20 1998  i   
+426431         Hung, Jake                                                   ENG M             IA                 1814  0   20 1998  i   
 474070         Hunn, David                                                  ENG M                                1863  11  20 1998      
 468568         Hunt, Daniel                                                 ENG M                                2067  0   20 1995  i   
 403512         Hunt, Harriet V                                              ENG F   IM   WGM                     2295  8   10 1978  w   
@@ -3070,7 +3070,7 @@ ID Number      Name                                                         Fed 
 5819369        Lohia, Sohum                                                 ENG M   IM                           2405  11  10 2009      
 343423035      Lok, Hei                                                     ENG M                                1593  4   40 2013      
 448125         Lokwani, Lakshya                                             ENG M                                1734  0   40 2006  i   
-435775         London, Nick J                                               ENG M             NI                 1719  0   20 1959  i   
+435775         London, Nick J                                               ENG M                                1719  0   20 1959  i   
 425885         Longdin, Michael                                             ENG M                                1831  0   20 1964      
 459348         Longia-Zaidi, Ismail                                         ENG M                                1599  0   40 2008  i   
 490326         Longley, Daniel                                              ENG M                                1854  0   40 2005      
@@ -3401,7 +3401,7 @@ ID Number      Name                                                         Fed 
 343424325      Miller, Craig                                                ENG M                                1679  5   20 1979      
 343419216      Miller, Daniel                                               ENG M                                1789  0   40 1997  i   
 438065         Miller, Dominic                                              ENG M                                2080  2   20 2002      
-343114090      Miller, George                                               ENG M             FI,FI          AIM 1828  0   20 1958      
+343114090      Miller, George                                               ENG M             FI             AIM 1828  0   20 1958      
 443832         Miller, James                                                ENG M                                1991  0   40 1979  i   
 343420001      Miller, Jonathan                                             ENG M                                1677  0   40 1968      
 438219         Miller, Max C                                                ENG M                                1731  0   20 2003  i   
@@ -4645,7 +4645,7 @@ ID Number      Name                                                         Fed 
 401498         Smith, Alan A                                                ENG M                                2190  0   20 1954  i   
 433284         Smith, Alister W                                             ENG M                                1855  6   20 1984      
 343457835      Smith, Andrew                                                ENG M                                1930  0   40 1992  i   
-469793         Smith, Andrew PE                                             ENG M             NI,NA              1716  0   20 1994      
+469793         Smith, Andrew PE                                             ENG M             NA                 1716  0   20 1994      
 412562         Smith, Brian A                                               ENG M                                1830  0   20 0     i   
 464937         Smith, Chris A                                               ENG M                                1978  0   40 1991  i   
 424617         Smith, Chris P                                               ENG M                                1631  0   20 1980      
@@ -4752,7 +4752,7 @@ ID Number      Name                                                         Fed 
 440990         Stanton, Donald                                              ENG M                                1777  0   40 1983  i   
 463353         Stanton, T Giles                                             ENG M                                1590  0   40 1954      
 403849         Stanton, William                                             ENG M                                2095  0   20 1929  i   
-417211         Staples, Daniel J                                            ENG M             NI                 1958  0   20 1967      
+417211         Staples, Daniel J                                            ENG M                                1958  0   20 1967      
 343437427      Staples, Edward                                              ENG M                                1749  0   40 1998      
 420778         Staples, Maurice J                                           ENG M                                1916  0   20 1951      
 424641         Staples, Neil                                                ENG M                                1846  1   20 1954      

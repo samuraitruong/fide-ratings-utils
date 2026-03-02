@@ -1256,7 +1256,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14371740,"Mabhera, Jedidiah",RSA,M,,,,1554,0,40,MAR26,2012,i
 14380560,"Mabilo, Ratang",RSA,F,,,,1479,0,40,MAR26,2007,w
 14323028,"Mabitsela, Mirinda",RSA,F,,,,1536,0,20,MAR26,2000,wi
-14300702,"Mabusela, Johannes Manyedi",RSA,M,IM,"FT,NA",,2103,10,20,MAR26,1984,
+14300702,"Mabusela, Johannes Manyedi",RSA,M,IM,NA,,2103,10,20,MAR26,1984,
 14308002,"Mabuya, Mcdonald Z",RSA,M,,,,1917,0,40,MAR26,1983,i
 534008713,"Mabuza, Lf",RSA,M,,,,1799,0,40,MAR26,1987,
 14380757,"Mabuza, Mnelisi",RSA,M,,,,1667,0,40,MAR26,2002,i
@@ -1721,7 +1721,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 534039783,"Mokoape, Jacob",RSA,M,,,,1636,0,40,MAR26,1986,
 14391856,"Mokoatle, Reanetse Lucian",RSA,M,,,,1584,0,40,MAR26,1999,i
 14331284,"Mokoena, Bonolo Kimberleigh",RSA,M,,,,1501,0,40,MAR26,2005,i
-14325764,"Mokoena, Jabulani",RSA,M,,"NI,FI,IA",,1743,0,20,MAR26,1971,i
+14325764,"Mokoena, Jabulani",RSA,M,,"NI,IA",,1743,0,20,MAR26,1971,i
 14355710,"Mokoena, Mojalefa",RSA,M,,,,1498,0,40,MAR26,2002,i
 14308363,"Mokoena, Tebogo",RSA,M,,,,1517,1,40,MAR26,1994,
 14308380,"Mokomele, Andrew",RSA,M,,,,1716,0,20,MAR26,1974,
@@ -2076,7 +2076,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14323354,"Nkuna, Windsor",RSA,M,,,,1746,0,20,MAR26,1997,i
 14385490,"Nkuzo, Onako",RSA,M,,,,1744,0,40,MAR26,2009,
 14362414,"Nkwadi, Karabo",RSA,M,,,,1440,0,40,MAR26,2010,
-14319640,"Nkwe, Omogolo",RSA,M,,FI,,1693,0,,MAR26,1988,
+14319640,"Nkwe, Omogolo",RSA,M,,,,1693,0,,MAR26,1988,
 14355841,"Nkwe, Tshiamo",RSA,M,,,,1730,0,40,MAR26,2003,
 14351986,"Nkwebu, Nkosiyethu",RSA,M,,,,1417,0,40,MAR26,1995,i
 14367750,"Nndwamato, Uhone",RSA,M,,,,1649,0,40,MAR26,2004,i
@@ -2679,7 +2679,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14328364,"Stuurman, Aliche",RSA,M,,,,1516,0,40,MAR26,2005,i
 14384698,"Stuurman, Caydee",RSA,F,,,,1536,2,40,MAR26,2013,w
 14348179,"Stuurman, Pedro Caleb",RSA,M,,,,1586,8,40,MAR26,2011,
-14332698,"Stuurman, Petrus",RSA,M,,"NI,NA",,1692,5,,MAR26,1983,
+14332698,"Stuurman, Petrus",RSA,M,,NA,,1692,5,,MAR26,1983,
 14320460,"Subke, Jason James",RSA,M,,,,1902,0,20,MAR26,1972,
 14357658,"Subramoney, Tivek",RSA,M,,,,1530,0,,MAR26,2009,
 14310627,"Sulcas, Jamie",RSA,M,,,,1820,0,40,MAR26,2001,i

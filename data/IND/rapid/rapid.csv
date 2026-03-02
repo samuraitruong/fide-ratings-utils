@@ -182,7 +182,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531002323,Aakash Bhanu,IND,M,,,,1578,0,40,MAR26,2002,i
 25644394,Aakash G,IND,M,FM,,,2224,18,40,MAR26,2010,
 45024952,Aakash G,IND,M,,,,1662,0,20,MAR26,1995,i
-45084572,Aakash G Madiwalar,IND,M,,"DI,FA",,1588,0,20,MAR26,1994,i
+45084572,Aakash G Madiwalar,IND,M,,FA,,1588,0,20,MAR26,1994,i
 547039604,Aakash Gulia,IND,M,,,,1456,0,40,MAR26,1996,
 48789208,Aakash K,IND,M,,,,1673,0,40,MAR26,2010,
 25625420,Aakash K P,IND,M,,,,1866,0,20,MAR26,2006,
@@ -1441,8 +1441,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25112490,Aditya Gupta,IND,M,,,,1562,0,40,MAR26,2009,
 48746630,Aditya Gupta,IND,M,,,,1443,0,,MAR26,2013,i
 25907760,Aditya Gupta,IND,M,,,,1431,0,40,MAR26,2007,
-429071518,Aditya Gupta,IND,M,,,,1553,0,40,MAR26,2005,i
 33476675,Aditya Gupta,IND,M,,,,1477,0,40,MAR26,2014,
+429071518,Aditya Gupta,IND,M,,,,1553,0,40,MAR26,2005,i
 531005900,Aditya Gurucharan P,IND,M,,,,1421,0,40,MAR26,2010,i
 25919628,Aditya Himanshu Mandge,IND,M,,,,1404,0,20,MAR26,2004,i
 88141705,Aditya Iyer,IND,M,,,,1467,0,40,MAR26,2010,i
@@ -1583,8 +1583,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531022561,Aditya Vaswani,IND,M,,,,1514,0,40,MAR26,2010,i
 537003089,Aditya Velan Bhasker,IND,M,,,,1416,0,,MAR26,2017,
 33371202,Aditya Venkataraman,IND,M,,,,1410,0,40,MAR26,2009,
-429031125,Aditya Verma,IND,M,,,,1526,0,,MAR26,2014,
 531043569,Aditya Verma,IND,M,,,,1507,0,40,MAR26,2010,i
+429031125,Aditya Verma,IND,M,,,,1526,0,,MAR26,2014,
 48714879,Aditya Vijay Thool,IND,M,,,,1495,0,40,MAR26,2003,i
 45058962,Aditya Vikram Paul,IND,M,FM,,,2242,0,20,MAR26,2007,
 25735438,Aditya Vinay Gupta,IND,M,,,,1558,0,40,MAR26,2007,i
@@ -2008,7 +2008,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 35094840,Aishwariya Anand Ponnusamy,IND,F,,,,1487,0,20,MAR26,2004,wi
 25610910,Aishwariyalakshmi D,IND,F,,,,1451,0,40,MAR26,2008,wi
 25756273,Aishwarjya Gogoi,IND,M,,,,1425,0,,MAR26,1974,
-5063434,Aishwarya,IND,F,,"NI,IA",,1750,0,,MAR26,1996,wi
+5063434,Aishwarya,IND,F,,IA,,1750,0,,MAR26,1996,wi
 25051989,Aishwarya B,IND,F,,,,1564,0,20,MAR26,1997,wi
 33489556,Aishwarya G,IND,F,,,,1468,0,40,MAR26,2008,wi
 46683364,Aishwarya Natarajan,IND,F,,,,1552,0,20,MAR26,2001,wi
@@ -2065,8 +2065,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33367876,Ajay V,IND,M,,,,1473,0,20,MAR26,1995,i
 374095795,Ajay Vaishnav S,IND,M,,,,1648,0,,MAR26,2013,i
 33434905,Ajay Vishwa,IND,M,,,,1581,0,40,MAR26,2011,i
-531067263,Ajay Yadav,IND,M,,,,1497,0,40,MAR26,1991,i
 531047688,Ajay Yadav,IND,M,,,,1404,0,40,MAR26,1993,
+531067263,Ajay Yadav,IND,M,,,,1497,0,40,MAR26,1991,i
 5021367,"Ajay, Bhaskar",IND,M,,,,1624,0,20,MAR26,1996,
 5001188,"Ajay, Virwani",IND,M,,,,1806,0,20,MAR26,1979,
 46618805,"Ajaya,Bose Mohanchandran",IND,M,,,,1699,0,20,MAR26,1978,i
@@ -2105,7 +2105,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33438161,Ajith Manohar,IND,M,,,,1467,0,20,MAR26,2001,i
 537072854,Ajith P,IND,M,,,,1407,0,40,MAR26,1990,
 25767259,Ajith V,IND,M,,,,1482,0,20,MAR26,1999,i
-5029473,"Ajith, M.P.",IND,M,CM,FI,,1858,0,20,MAR26,1986,
+5029473,"Ajith, M.P.",IND,M,CM,,,1858,0,20,MAR26,1986,
 48731668,Ajithkanna A S,IND,M,,,,1436,0,40,MAR26,2011,i
 46684646,Ajithkumar Murugan,IND,M,,,,1641,0,20,MAR26,1996,i
 45016089,Ajitpal Singh Bhati,IND,M,,,,1551,0,20,MAR26,2002,i
@@ -2280,8 +2280,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48733571,Akshara Sreehitha Devulapalli,IND,F,,,,1518,0,40,MAR26,2011,wi
 33398887,Akshara U,IND,F,,,,1522,0,40,MAR26,2008,wi
 429021219,Aksharth Ganesan,IND,M,,,,1525,0,40,MAR26,2013,
-33337896,Akshat Agarwal,IND,M,,,,1504,0,40,MAR26,2008,i
 547068230,Akshat Agarwal,IND,M,,,,1432,5,40,MAR26,2013,
+33337896,Akshat Agarwal,IND,M,,,,1504,0,40,MAR26,2008,i
 531062245,Akshat Agnihotri,IND,M,,,,1492,0,40,MAR26,2004,
 25118927,Akshat Bhatnagar,IND,M,,,,1465,0,40,MAR26,2006,i
 88121410,Akshat Choudhary,IND,M,,,,1440,0,40,MAR26,2015,
@@ -2312,8 +2312,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 429049989,Akshat Singh,IND,M,,,,1632,0,40,MAR26,2006,
 537056077,Akshat Singh Thakur,IND,M,,,,1466,0,40,MAR26,2011,
 429054567,Akshat Srivastava,IND,M,,,,1469,1,40,MAR26,2015,
-48763560,Akshat Srivastava,IND,M,,,,1540,0,20,MAR26,1988,i
 547041781,Akshat Srivastava,IND,M,,,,1645,0,40,MAR26,1997,
+48763560,Akshat Srivastava,IND,M,,,,1540,0,20,MAR26,1988,i
 25774492,Akshat Sureka,IND,M,FM,,,1879,0,40,MAR26,2009,
 25937189,Akshat Upadhyay,IND,M,,,,1554,0,,MAR26,2010,
 5016541,"Akshat, Khamparia",IND,M,IM,"FT,NA",,2320,0,10,MAR26,1989,
@@ -2740,7 +2740,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25637053,Amitkumar Mukesh Tembhurne,IND,M,,FA,,1503,0,20,MAR26,1988,i
 547075040,Amitkumar Ramkrushna Bhojane,IND,M,,NA,,1635,0,40,MAR26,1990,
 429094615,Amitoj Singh Saluja,IND,M,,,,1520,0,40,MAR26,2010,
-5012899,"Amitpal, Singh",IND,M,CM,FI,,1967,0,20,MAR26,1980,i
+5012899,"Amitpal, Singh",IND,M,CM,,,1967,0,20,MAR26,1980,i
 25944410,Amitra Sudan Bhowmick,IND,M,,,,1633,0,40,MAR26,2010,
 88195759,Amittej Kalia,IND,M,,,,1767,0,,MAR26,2013,
 33367825,Amiyanshu Bhowal,IND,M,,,,1642,0,40,MAR26,2011,i
@@ -3344,8 +3344,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25770616,Ankit Hazra,IND,M,,,,1410,0,20,MAR26,2004,i
 25934201,Ankit Kerketta,IND,M,,,,1508,0,40,MAR26,1998,
 25939670,Ankit Kumar,IND,M,,,,1561,0,20,MAR26,1999,i
-429056209,Ankit Kumar,IND,M,,,,1497,0,40,MAR26,2010,i
 547060247,Ankit Kumar,IND,M,,,,1503,0,40,MAR26,2012,
+429056209,Ankit Kumar,IND,M,,,,1497,0,40,MAR26,2010,i
 45041709,Ankit Kumar Gupta,IND,M,,,,1487,0,40,MAR26,1988,i
 25139487,Ankit Kumar Jha,IND,M,,,,1579,0,40,MAR26,2009,i
 48784729,Ankit Kumar Singh,IND,M,,,,1537,0,40,MAR26,2002,i
@@ -4059,7 +4059,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 537019473,Arjun Honagodu,IND,M,,,,1443,0,40,MAR26,2015,
 25136666,Arjun J P,IND,M,,,,1486,0,20,MAR26,2005,
 33470073,Arjun Jithesh,IND,M,,,,1498,0,40,MAR26,2013,
-5048842,Arjun K,IND,M,CM,FI,,2104,0,20,MAR26,1993,i
+5048842,Arjun K,IND,M,CM,,,2104,0,20,MAR26,1993,i
 35048317,Arjun K,IND,M,,,,1505,0,20,MAR26,1993,i
 88153878,Arjun K A,IND,M,,,,1602,0,40,MAR26,2009,i
 25144944,Arjun K G,IND,M,,,,1482,0,20,MAR26,1995,i
@@ -4220,8 +4220,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33333602,Arnav Harish patil,IND,M,,,,1483,0,40,MAR26,2014,i
 429094666,Arnav Jain,IND,M,,,,1507,5,40,MAR26,2011,
 429035414,Arnav Jain,IND,M,,,,1412,5,40,MAR26,2013,
-33425523,Arnav Jain,IND,M,,,,1504,0,20,MAR26,1998,i
 547015314,Arnav Jain,IND,M,,,,1446,0,40,MAR26,2004,
+33425523,Arnav Jain,IND,M,,,,1504,0,20,MAR26,1998,i
 537022792,Arnav Jha,IND,M,,,,1607,0,40,MAR26,2010,
 429093929,Arnav Kadam,IND,M,,,,1468,0,40,MAR26,2014,
 25780131,Arnav Khandelwal,IND,M,,,,1509,0,40,MAR26,2006,i
@@ -4283,8 +4283,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531002978,Arnav Tiwari,IND,M,,,,1520,0,40,MAR26,2012,
 88133494,Arnav Tiwari,IND,M,,,,1423,0,40,MAR26,2013,
 25942670,Arnav Tyagi,IND,M,,,,1532,0,40,MAR26,2006,i
-564024202,Arnav Tyagi,IND,M,,,,1528,0,40,MAR26,2011,
 558056670,Arnav Tyagi,IND,M,,,,1540,0,40,MAR26,2003,
+564024202,Arnav Tyagi,IND,M,,,,1528,0,40,MAR26,2011,
 429072123,Arnav Verma,IND,M,,,,1544,1,40,MAR26,2014,
 33333963,Arnav Vijayvargia,IND,M,,,,1469,0,40,MAR26,2010,i
 48764663,Arnav Vivek,IND,M,,,,1561,0,40,MAR26,2012,i
@@ -4413,7 +4413,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33432341,Arun Avaneesh,IND,M,,,,1483,0,40,MAR26,2012,i
 46665560,Arun Bose V S,IND,M,,,,1440,0,20,MAR26,1983,i
 25731610,Arun Chandra Das,IND,M,,,,1530,7,40,MAR26,1967,
-25092480,Arun D,IND,M,,"NI,FA",,1669,0,20,MAR26,1998,i
+25092480,Arun D,IND,M,,FA,,1669,0,20,MAR26,1998,i
 558036610,Arun D,IND,M,,,,1532,0,40,MAR26,2014,
 25999281,Arun Dinesh Pola,IND,M,,,,1531,0,40,MAR26,2005,
 429003024,Arun G,IND,M,,NI,,1404,4,40,MAR26,1999,
@@ -4659,7 +4659,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33476438,Aryan Madhav Sarath,IND,M,,,,1683,0,40,MAR26,2013,
 33329664,Aryan Mehta,IND,M,,,,1904,2,40,MAR26,2014,
 33410011,Aryan Mehta,IND,M,,,,1670,0,40,MAR26,2008,i
-33373264,Aryan Mehta,IND,M,,DI,,1545,0,40,MAR26,2005,
+33373264,Aryan Mehta,IND,M,,,,1545,0,40,MAR26,2005,
 25707280,Aryan Milind Gosavi,IND,M,,,,1425,0,40,MAR26,2005,i
 558057455,Aryan Milind Kothawade,IND,M,,,,1402,0,40,MAR26,2007,
 33301506,Aryan Mishra,IND,M,,,,1494,0,40,MAR26,2011,
@@ -4942,7 +4942,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531017703,Asmit Samanta,IND,M,,,,1454,0,40,MAR26,2012,
 25786911,Asmita Avijit Ray,IND,F,,,,1739,0,40,MAR26,2009,wi
 33344523,Asmita Biswas,IND,F,,,,1531,0,40,MAR26,2013,w
-5093872,Asmita Das,IND,F,,NI,,1795,0,,MAR26,2001,wi
+5093872,Asmita Das,IND,F,,,,1795,0,,MAR26,2001,wi
 48717487,Asmitha Animi,IND,F,,,,1479,0,40,MAR26,2011,w
 46618880,"Asna,Abdeen",IND,F,,,,1809,0,20,MAR26,2004,wi
 25082116,Aspaq Hussain M,IND,M,,,,1643,0,20,MAR26,1999,i
@@ -4980,7 +4980,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531028241,Aswin Senthilkumar,IND,M,,,,1429,0,40,MAR26,2001,i
 25624580,Aswin V R,IND,M,,,,1425,0,,MAR26,2002,i
 5055350,"Aswin, S",IND,M,,,,1426,0,20,MAR26,1996,
-5058252,Aswin.p.g,IND,M,,NI,,1602,0,20,MAR26,1989,
+5058252,Aswin.p.g,IND,M,,,,1602,0,20,MAR26,1989,
 25611518,Aswinika Mani R,IND,F,,,,1733,0,40,MAR26,2009,w
 429025281,Aswinraj A S,IND,M,,,,1507,0,40,MAR26,2003,i
 25176072,Ataishwarjya Sen,IND,M,,,,1524,0,40,MAR26,2011,
@@ -5490,7 +5490,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531015891,Ayush Padmanaban,IND,M,,,,1519,0,,MAR26,2011,
 35062948,Ayush Pandey,IND,M,,,,1532,0,20,MAR26,2000,i
 25645862,Ayush Patel,IND,M,,,,1587,4,20,MAR26,2006,
-25014870,Ayush Pattanaik,IND,M,,NI,,1860,0,20,MAR26,2002,
+25014870,Ayush Pattanaik,IND,M,,,,1860,0,20,MAR26,2002,
 537086774,Ayush Paul,IND,M,,,,1586,0,40,MAR26,2011,
 531018734,Ayush Prasad Gaikwad,IND,M,,,,1441,1,40,MAR26,2014,
 531030734,Ayush Pravin Borkute,IND,M,,,,1417,0,40,MAR26,2014,
@@ -5598,7 +5598,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 45035997,Bachalkar Sadanand,IND,M,,,,1628,0,20,MAR26,1965,
 531075991,Bachani Param,IND,M,,,,1654,0,40,MAR26,2011,
 547078120,Bachcha Lal Pal,IND,M,,,,1456,0,40,MAR26,1973,
-5013216,"Bachikar, Girish",IND,M,,"NI,FA",,1781,0,20,MAR26,1980,i
+5013216,"Bachikar, Girish",IND,M,,FA,,1781,0,20,MAR26,1980,i
 25945785,Bachu Vinod Kumar,IND,M,,NA,,1695,0,,MAR26,1990,i
 35051610,Badade Suryakant,IND,M,,,,1552,0,20,MAR26,1976,i
 564077047,Badal chaurasia,IND,M,,,,1456,8,40,MAR26,2002,
@@ -5619,7 +5619,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 558018794,Badri Narayanan V,IND,M,,,,1498,0,40,MAR26,2011,
 25775235,Badri V Baradwaj,IND,M,,,,1536,0,20,MAR26,2003,
 46683437,Badrinarayanan N,IND,M,,,,1897,0,,MAR26,2007,i
-5029961,"Badrinath, S.",IND,M,CM,FI,,1860,0,20,MAR26,1998,
+5029961,"Badrinath, S.",IND,M,CM,,,1860,0,20,MAR26,1998,
 35041835,Bafna Laxman,IND,M,,,,1672,0,20,MAR26,1998,i
 25620290,Bafna Tanish,IND,M,,,,1557,0,20,MAR26,2001,i
 537080105,Bagade Omkar,IND,M,,,,1524,0,40,MAR26,2008,i
@@ -5736,8 +5736,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 547098880,Balaji VG,IND,M,,,,1564,0,40,MAR26,1984,
 45025088,Balakowshi D S,IND,M,,,,1686,0,20,MAR26,2000,i
 25683500,Balakrishna Kavatrapu,IND,M,,,,1585,0,20,MAR26,1973,i
-25949950,Balakrishnan,IND,M,,,,1488,0,20,MAR26,1958,i
 25044389,Balakrishnan,IND,M,,,,1414,0,20,MAR26,1997,i
+25949950,Balakrishnan,IND,M,,,,1488,0,20,MAR26,1958,i
 33483116,Balakrishnan M,IND,M,,,,1444,0,40,MAR26,1983,i
 88188329,Balakrishnan R,IND,M,,,,1434,0,40,MAR26,2014,
 35081390,Balakrishnan V,IND,M,,,,1506,0,20,MAR26,1967,i
@@ -6046,7 +6046,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25054791,Bhagwat Heramb,IND,M,,,,1717,8,20,MAR26,2001,
 35099566,Bhagwat Rohit,IND,M,,,,1599,0,20,MAR26,1982,
 5046971,"Bhagwat, S.M.",IND,M,,,,1547,6,20,MAR26,1955,
-5005949,"Bhagwat, Vinod",IND,M,CM,"FI,NA",,1962,0,20,MAR26,1976,i
+5005949,"Bhagwat, Vinod",IND,M,CM,NA,,1962,0,20,MAR26,1976,i
 25016849,Bhagya Jayesh,IND,F,,,,1788,0,20,MAR26,1999,wi
 429019923,Bhagyaansh Goel,IND,M,,,,1462,0,40,MAR26,2014,
 46600825,Bhagyashree G Patil,IND,F,,,,1599,0,20,MAR26,2006,wi
@@ -6261,7 +6261,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 366112416,"Bhattacharjee, Anik",IND,M,,,,1512,0,40,MAR26,2010,
 366108997,"Bhattacharya, Abhinav",IND,M,,,,1501,0,40,MAR26,2010,
 35076116,"Bhattacharya, Arunava",IND,M,,,,1746,0,,MAR26,2004,i
-5008581,"Bhattacharya, Niladri Shekhar",IND,M,,FI,,1877,0,20,MAR26,1978,
+5008581,"Bhattacharya, Niladri Shekhar",IND,M,,,,1877,0,20,MAR26,1978,
 374097495,"Bhattacharya, Prateek",IND,M,,SI,,1447,0,40,MAR26,1985,
 564067980,"Bhattacharya, Prithvijeet",IND,M,,,,1652,6,40,MAR26,2006,
 25690841,Bhattacharyya Soham,IND,M,,,,2252,0,20,MAR26,2005,
@@ -6344,7 +6344,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 45013381,Bhavyay Gupta,IND,M,,,,1790,0,40,MAR26,2006,i
 531010156,Bhavyesh Balaji Reddy Mareddy,IND,M,,,,1460,0,40,MAR26,2016,
 48759988,Bhawen Marimuthu,IND,M,,,,1445,7,40,MAR26,2011,
-25015885,Bhawesh Pandiyar,IND,M,,"NI,FA",,1766,7,20,MAR26,2001,
+25015885,Bhawesh Pandiyar,IND,M,,FA,,1766,7,20,MAR26,2001,
 531049770,Bhawish N,IND,M,,,,1541,0,40,MAR26,2009,
 531069495,Bhawsar Pritesh,IND,M,,,,1471,0,40,MAR26,1989,
 564049094,"Bhayani, Taksh Ashish",IND,M,,,,1669,0,40,MAR26,2013,
@@ -6677,7 +6677,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 46609172,Borse Vitesh,IND,M,,,,1582,0,20,MAR26,2001,i
 25904400,Borude Rajendra,IND,M,,,,1503,0,20,MAR26,1962,i
 48768782,Bose Aayush,IND,M,,,,1401,0,40,MAR26,2010,
-5011990,"Bose, Sayan",IND,M,,FI,,1947,0,,MAR26,1995,i
+5011990,"Bose, Sayan",IND,M,,,,1947,0,,MAR26,1995,i
 45048711,Bothara Pratik,IND,M,,,,1576,0,20,MAR26,1992,i
 46640690,Bothikar Tejas,IND,M,,,,1546,0,20,MAR26,1999,i
 45010609,Botta Durga Deepak,IND,M,,,,1687,0,20,MAR26,1992,i
@@ -6826,7 +6826,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25009532,"Chakravarthi Reddy, M",IND,M,IM,,,2127,16,20,MAR26,1996,
 5000874,"Chakravarthi, K",IND,M,,,,1888,0,20,MAR26,1964,
 5009316,"Chakravarthi, S.V.C.",IND,M,,,,1800,0,20,MAR26,1966,i
-5029546,Chakravarthy Y V K,IND,M,,"FI,NA",,2076,0,20,MAR26,1996,i
+5029546,Chakravarthy Y V K,IND,M,,NA,,2076,0,20,MAR26,1996,i
 45059829,Chakravarti Shivalingam,IND,M,,,,1450,0,20,MAR26,2002,
 33428085,Chakravarty Shubhojit,IND,M,,,,1539,0,20,MAR26,2002,i
 48774413,Chakravarty Uday,IND,M,,,,1555,0,40,MAR26,1980,i
@@ -7194,7 +7194,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48723290,Chetana Gopalakrishnan,IND,F,,,,1658,7,40,MAR26,2011,w
 531065333,Chetana Naik,IND,F,,,,1473,0,40,MAR26,2009,w
 429056489,Chetanya Sachdeva,IND,M,,,,1458,0,40,MAR26,2008,i
-45062838,Chethan M S,IND,M,,DI,,1490,0,20,MAR26,1995,i
+45062838,Chethan M S,IND,M,,,,1490,0,20,MAR26,1995,i
 45041733,Chethan Ram H R,IND,M,,NA,,1513,0,20,MAR26,1994,i
 25690140,Chethan S,IND,M,,,,1522,0,20,MAR26,1999,i
 45066809,Chethan S P,IND,M,,,,1422,0,20,MAR26,1994,i
@@ -7326,7 +7326,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 537045296,Chiroshri Nandhan S V,IND,F,,,,1487,0,40,MAR26,2016,w
 25797883,Chitaliya Nevil,IND,M,,,,1477,0,40,MAR26,2010,
 25736728,Chitalkar Nilesh,IND,M,,,,1575,0,20,MAR26,1997,i
-5065062,Chitaranjan Taorem,IND,M,,FI,,1941,0,20,MAR26,1992,i
+5065062,Chitaranjan Taorem,IND,M,,,,1941,0,20,MAR26,1992,i
 48731757,Chithresh P,IND,M,,,,1417,0,40,MAR26,2012,
 35002899,Chitlange Sakshi,IND,F,WIM,WIM,,2078,0,20,MAR26,2000,wi
 25768310,Chitlangia Paarth,IND,M,,,,1445,0,40,MAR26,2008,i
@@ -7503,7 +7503,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48767581,Daglia Chandraprakash,IND,M,,,,1543,15,40,MAR26,1968,i
 35023497,Dahale Anant,IND,M,,,,1457,0,20,MAR26,1973,i
 564028607,Dahale Prashant,IND,M,,,,1480,0,40,MAR26,1989,
-5037794,"Dahale, Atul",IND,M,CM,FI,,2050,0,20,MAR26,1989,i
+5037794,"Dahale, Atul",IND,M,CM,,,2050,0,20,MAR26,1989,i
 564073696,"Dahale, Piyush Amol",IND,M,,,,1615,5,40,MAR26,2011,
 366108950,"Dahale, Rajas",IND,M,,,,1744,0,,MAR26,2010,
 531042457,Dahare Misal,IND,M,,,,1583,0,40,MAR26,1992,i
@@ -7604,6 +7604,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 547043946,Dalwadi Harsh R,IND,M,,,,1543,8,40,MAR26,1992,
 25094190,Damale Anwit,IND,M,,,,1704,0,20,MAR26,2002,i
 558022767,Daman Deep Singh,IND,M,,,,1446,0,40,MAR26,2003,
+564049019,"Damarla, Sai Veera Siddhik",IND,M,,,,1655,9,40,MAR26,2013,
 88131270,Damerla Jaya sai,IND,M,,,,1407,0,40,MAR26,2008,i
 25130420,Damesh,IND,M,,,,1407,0,20,MAR26,1989,i
 48714542,Dameshai Umdor,IND,M,,,,1491,0,40,MAR26,2007,
@@ -7733,7 +7734,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33378100,Darshan Shashidhar,IND,M,,,,1545,0,20,MAR26,2003,i
 547068558,Darshan T,IND,M,,,,1505,0,,MAR26,2013,
 5035767,"Darshan, Gupta",IND,M,,,,1713,0,20,MAR26,1953,i
-5044855,"Darshan, V P S",IND,M,,"NI,NA",,1766,0,20,MAR26,1993,
+5044855,"Darshan, V P S",IND,M,,NA,,1766,0,20,MAR26,1993,
 35019244,Darshana Balakrishnan,IND,F,,,,1560,0,20,MAR26,2003,wi
 429025680,Darsheel Dinesh Dhakne,IND,M,,,,1618,0,40,MAR26,2010,
 547086254,Darsheel Jitesh Patil,IND,M,,,,1415,0,40,MAR26,2014,
@@ -7761,7 +7762,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5037808,"Darwin, S.",IND,M,,,,1934,0,20,MAR26,1994,i
 564028860,Das Adwik,IND,M,,,,1481,11,40,MAR26,2014,
 25636880,Das Bhola Nath,IND,M,,,,1703,0,20,MAR26,1998,i
-5076404,Das Gopal,IND,M,,NI,,1714,0,20,MAR26,1982,i
+5076404,Das Gopal,IND,M,,,,1714,0,20,MAR26,1982,i
 25748114,Das Manvel,IND,M,,,,1477,0,20,MAR26,1985,
 35093754,Das Prashanti Kumar,IND,M,,,,1581,0,40,MAR26,1972,i
 25763016,Das Sai Sourav,IND,M,,,,1452,0,40,MAR26,2009,i
@@ -7962,7 +7963,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25113046,Deendyal Singh,IND,M,,,,1674,0,20,MAR26,1992,i
 25729926,Deep Bhavik Shah,IND,M,,,,1541,0,20,MAR26,2004,i
 25030469,Deep Das,IND,M,,,,1655,0,,MAR26,1994,
-5093953,Deep Dutta,IND,M,,"NI,FA",,1765,0,20,MAR26,1994,i
+5093953,Deep Dutta,IND,M,,FA,,1765,0,20,MAR26,1994,i
 5078733,Deep Kapoor,IND,M,,,,1945,0,20,MAR26,1996,i
 25722042,Deep Karmakar,IND,M,,,,1652,0,40,MAR26,2009,i
 531067786,Deep Phunage,IND,M,,,,1445,3,40,MAR26,2013,
@@ -8016,8 +8017,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25002481,Deepak Rastogi,IND,M,,,,1543,4,20,MAR26,1961,
 429002109,Deepak Roshan M S,IND,M,,,,1521,0,40,MAR26,2011,
 547046449,Deepak S,IND,M,,,,1460,0,40,MAR26,2013,
-564023834,Deepak Sahu,IND,M,,,,1701,0,40,MAR26,1977,
 537065343,Deepak Sahu,IND,M,,,,1544,0,40,MAR26,1992,i
+564023834,Deepak Sahu,IND,M,,,,1701,0,40,MAR26,1977,
 558050485,Deepak Santhanam,IND,M,,,,1539,0,40,MAR26,1980,
 25961500,Deepak Shankhar A,IND,M,,,,1511,0,20,MAR26,1999,i
 537073281,Deepak Singh,IND,M,,,,1512,0,40,MAR26,2004,
@@ -8847,7 +8848,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 537069870,Dhruba Bhattacharyya,IND,M,,,,1512,0,40,MAR26,2010,
 25768808,Dhrubajyoti Barman,IND,M,,,,1651,0,40,MAR26,2007,i
 25717570,Dhrubajyoti Borpatra,IND,M,,,,1688,0,20,MAR26,1998,i
-25114689,Dhrubajyoti Das,IND,M,,NI,,1504,0,20,MAR26,1974,i
+25114689,Dhrubajyoti Das,IND,M,,,,1504,0,20,MAR26,1974,i
 33391769,Dhrubajyoti Talukdar,IND,M,,,,1556,0,40,MAR26,1992,
 5010187,"Dhrubajyoti, Saha",IND,M,,NA,,1553,0,20,MAR26,1985,
 25951343,Dhruone R Reddy G,IND,M,,,,1431,0,40,MAR26,2010,i
@@ -9543,7 +9544,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5055270,Eashwar.m,IND,M,,,,1940,0,20,MAR26,1999,i
 48717460,Eastam Setty Keerthi Sai,IND,M,,,,1573,0,20,MAR26,2007,
 35084585,Ebenezer Rajakumar D,IND,M,,,,1585,0,20,MAR26,1967,i
-5003377,"Ebenezer, Joseph",IND,M,CM,"FT,SI,LSI,SLI",,1771,0,20,MAR26,1966,
+5003377,"Ebenezer, Joseph",IND,M,CM,"SI,LSI,SLI",,1771,0,20,MAR26,1966,
 531026001,Ebin Antony,IND,M,,,,1733,0,40,MAR26,2007,
 46600884,Ebin Benny,IND,M,,,,1789,0,20,MAR26,2002,
 25643355,Edwin Adams V,IND,M,,,,1446,0,40,MAR26,2005,i
@@ -9845,7 +9846,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 45017468,Gadgilwar Sumit,IND,M,,,,1528,0,20,MAR26,1990,i
 531053254,Gadhari Mitesh,IND,M,,,,1411,4,40,MAR26,2014,
 25793136,Gadhavi Veerbhadrasinh,IND,M,CM,,,1823,0,40,MAR26,2009,
-45017999,Gadhia Naimesh S,IND,M,,"NI,NA",,1465,0,40,MAR26,1987,
+45017999,Gadhia Naimesh S,IND,M,,NA,,1465,0,40,MAR26,1987,
 25043587,Gadhiya Harsh Manoj,IND,M,,,,1761,0,20,MAR26,1995,i
 25048040,Gadhiya Hrithvik,IND,M,,,,1818,0,20,MAR26,2000,i
 25967126,Gadia Kush,IND,M,,,,1501,0,20,MAR26,2003,i
@@ -9936,7 +9937,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25014528,Gajria Aashna,IND,F,,,,1712,0,20,MAR26,2001,wi
 547096357,Gajula Lakshmi Narasimha,IND,M,,,,1468,0,40,MAR26,2013,
 25717952,Gajula Priyanka,IND,F,,,,1450,0,20,MAR26,1999,wi
-5077834,Gajwa Ankit,IND,M,FM,FI,,2129,0,20,MAR26,1997,
+5077834,Gajwa Ankit,IND,M,FM,,,2129,0,20,MAR26,1997,
 35041533,Gala Jainam,IND,M,,,,1704,0,20,MAR26,2000,i
 45040095,Gala Jainam R,IND,M,,,,1453,0,20,MAR26,2003,i
 25753037,Gala Jayesh M,IND,M,,,,1504,0,20,MAR26,1974,i
@@ -10481,7 +10482,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 35099736,Godbole Sachin,IND,M,,,,1723,0,20,MAR26,1974,i
 25048058,Godbole Shantanu,IND,M,,,,1735,0,20,MAR26,1997,i
 45098875,Godbole Shardul,IND,M,,,,1663,0,40,MAR26,2006,i
-5085764,"Godbole, Amar",IND,M,,NI,,1762,0,,MAR26,1987,i
+5085764,"Godbole, Amar",IND,M,,,,1762,0,,MAR26,1987,i
 5059550,"Godbole, Atharva",IND,M,,IA,,2067,0,20,MAR26,1996,i
 33324441,Goddeti Hima Tejaswini,IND,F,,,,1788,0,,MAR26,2010,w
 25975790,Gode Trushna,IND,F,,,,1458,0,40,MAR26,2007,wi
@@ -10613,7 +10614,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5011809,Gopal Shah,IND,M,,,,1644,0,20,MAR26,1948,
 537060503,Gopal Surendran,IND,M,,,,1471,0,40,MAR26,2011,
 48716561,Gopal Upadhyay,IND,M,,,,1577,0,40,MAR26,2002,
-5001447,"Gopal, K.N.",IND,M,CM,FI,,1980,0,20,MAR26,1971,i
+5001447,"Gopal, K.N.",IND,M,CM,,,1980,0,20,MAR26,1971,i
 25052837,Gopala Krishna B V,IND,M,,,,1722,0,20,MAR26,1966,i
 429033853,Gopala Krishna Sharma Kolluru,IND,M,,,,1531,0,40,MAR26,1979,i
 25920421,Gopala Krishnan M,IND,M,,,,1573,0,40,MAR26,2007,
@@ -10621,7 +10622,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 429020425,Gopalakrishnan,IND,M,,,,1410,0,40,MAR26,1989,
 45069360,Gopalakrishnan Baskaran,IND,M,,,,1547,0,40,MAR26,1987,i
 25949012,Gopalakrishnan G,IND,M,,,,1816,0,40,MAR26,2008,
-5002044,"Gopalakrishnan, K.",IND,M,,FT,,2018,0,20,MAR26,1964,i
+5002044,"Gopalakrishnan, K.",IND,M,,,,2018,0,20,MAR26,1964,i
 25034464,Gopalan Deepak,IND,M,,,,1763,0,20,MAR26,1998,i
 88125343,Gopalsamy Muthiah,IND,M,,,,1431,0,40,MAR26,1985,i
 45045020,Gopi Krishna Saravanan,IND,M,,,,1657,0,20,MAR26,2005,i
@@ -10769,8 +10770,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531045294,Gowtham K A,IND,M,,,,1501,0,40,MAR26,2003,i
 45084149,Gowtham K P,IND,M,,,,1575,0,20,MAR26,2001,
 33450145,Gowtham Krishna R,IND,M,,,,1535,0,40,MAR26,2011,i
-88137600,Gowtham M,IND,M,,,,1500,0,20,MAR26,2001,i
 33302014,Gowtham M,IND,M,,,,1518,0,40,MAR26,2007,i
+88137600,Gowtham M,IND,M,,,,1500,0,20,MAR26,2001,i
 564095169,Gowtham Maddirala,IND,M,,,,1436,7,40,MAR26,1988,
 25192000,Gowtham Rajesh Nair,IND,M,,,,1407,0,40,MAR26,2012,i
 45097100,Gowtham Ramamoorthy,IND,M,,,,1670,0,40,MAR26,2008,i
@@ -11083,7 +11084,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33422435,Hakesh Taroon C,IND,M,,,,1609,0,40,MAR26,2010,
 48768871,Hakim Ayaan Rajjak,IND,M,,,,1476,0,40,MAR26,2008,
 48789593,Halbhavi Pranav Sanjay,IND,M,,,,1688,0,40,MAR26,2000,
-5005132,"Haldar, Ajoy",IND,M,,NI,,1920,0,20,MAR26,1966,i
+5005132,"Haldar, Ajoy",IND,M,,,,1920,0,20,MAR26,1966,i
 33436800,Haldiya Pulak Banerjee,IND,M,,,,1585,0,40,MAR26,2007,i
 5080100,Haleshwarayya H.M.,IND,M,,,,1401,0,20,MAR26,1947,
 45081948,Halkude Aryan,IND,M,,,,1550,5,20,MAR26,2005,
@@ -11521,8 +11522,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 88129179,Harsh Shailesh Shingrut,IND,M,,,,1447,8,40,MAR26,2007,
 25637134,Harsh Sharad Motghare,IND,M,,,,1470,0,40,MAR26,2005,i
 25651595,Harsh Sharma,IND,M,,FA,,1603,0,,MAR26,1994,i
-537055828,Harsh Sharma,IND,M,,,,1509,0,40,MAR26,2004,i
 33380023,Harsh Sharma,IND,M,,,,1499,0,40,MAR26,2002,
+537055828,Harsh Sharma,IND,M,,,,1509,0,40,MAR26,2004,i
 547030445,Harsh Sheth,IND,M,,,,1414,0,40,MAR26,2009,
 48712132,Harsh Shreyas Dhanavade,IND,M,,,,1459,0,,MAR26,2012,
 35089463,Harsh Singh Senger,IND,M,,,,1600,0,20,MAR26,2002,i
@@ -11645,8 +11646,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531043640,Harshit Malhotra,IND,M,,,,1405,0,40,MAR26,2010,
 33469342,Harshit Nareshbabu,IND,M,,,,1407,0,40,MAR26,2010,i
 531035957,Harshit P Koliwad,IND,M,,,,1518,0,40,MAR26,2003,i
-537019775,Harshit Raj,IND,M,,,,1472,0,40,MAR26,2008,i
 547021730,Harshit Raj,IND,M,,,,1415,0,40,MAR26,2012,
+537019775,Harshit Raj,IND,M,,,,1472,0,40,MAR26,2008,i
 25638815,Harshit Ranjan Sahu,IND,M,FM,,,1997,0,40,MAR26,2006,
 558035036,Harshit Rathore,IND,M,,,,1445,0,40,MAR26,2008,
 88101010,Harshit Saha,IND,M,,,,1509,0,40,MAR26,2012,
@@ -11942,7 +11943,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5044286,"Himanshu, Bhasin",IND,M,,,,1917,0,20,MAR26,1987,i
 5034884,"Himanshu, Moudgil",IND,M,,,,1771,8,20,MAR26,1983,
 564044386,"Himanshu, Pandey",IND,M,,,,1622,0,40,MAR26,1998,
-5007836,"Himanshu, Sharma",IND,M,GM,FT,,2313,0,10,MAR26,1983,i
+5007836,"Himanshu, Sharma",IND,M,GM,,,2313,0,10,MAR26,1983,i
 429056322,Himel Dutta,IND,M,,,,1494,0,40,MAR26,2012,i
 537021281,Himel Singha Roy,IND,M,,,,1468,0,40,MAR26,2008,i
 531044000,Himnish Kashyap,IND,M,,,,1551,0,40,MAR26,2014,
@@ -12525,7 +12526,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5039398,"Jacob, Ragland A",IND,M,,,,1695,0,20,MAR26,1951,i
 25796518,Jadav Gogoi,IND,M,,,,1606,0,20,MAR26,1975,i
 46620400,Jadav Jayesh,IND,M,,,,1662,0,20,MAR26,1978,
-564055574,"Jadav, Ayaan Limesh",IND,M,,,,1655,9,40,MAR26,2018,
 88124762,Jade Adrian,IND,M,,,,1571,0,40,MAR26,2014,
 25777424,Jadeja Arvindsinh,IND,M,,,,1589,0,40,MAR26,1975,
 33416397,Jadeja Divyardhansinh H,IND,M,,,,1456,0,20,MAR26,2002,i
@@ -12810,7 +12810,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25904515,Jaiswal Sarthak,IND,M,,,,1571,0,20,MAR26,2003,i
 25061895,Jaiswal Shubham,IND,M,,,,1593,0,20,MAR26,1994,i
 88130215,Jaiswal Tanush,IND,M,,,,1435,0,40,MAR26,2007,i
-5006830,"Jaiswal, Puneet",IND,M,CM,"FI,FI,IA",,2182,0,20,MAR26,1984,i
+5006830,"Jaiswal, Puneet",IND,M,CM,"FI,IA",,2182,0,20,MAR26,1984,i
 564028437,"Jaiswal, Riddhiman",IND,M,,,,1437,3,40,MAR26,2014,
 33428212,Jaiswar Shailesh,IND,M,,,,1426,0,40,MAR26,2002,i
 429032369,Jaithra Sharma,IND,M,,,,1401,0,40,MAR26,2014,i
@@ -13374,7 +13374,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531003052,Jimit Saini,IND,M,,,,1482,0,40,MAR26,2014,
 46689249,Jimmy Zothanpuia,IND,M,,,,1738,0,20,MAR26,1986,i
 33468419,Jimson Paul John Jayakumaran,IND,M,,,,1427,0,40,MAR26,2014,
-35078950,Jinal Yagnik,IND,F,,NI,,1537,0,20,MAR26,2001,wi
+35078950,Jinal Yagnik,IND,F,,,,1537,0,20,MAR26,2001,wi
 35002511,Jinan Jomon,IND,M,FM,,,1947,0,20,MAR26,2004,i
 558087990,Jinang Rahul Jhaveri,IND,M,,,,1446,0,40,MAR26,2011,
 564061582,"Jinang, Barlota",IND,M,,,,1568,0,40,MAR26,2011,
@@ -13832,8 +13832,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25145185,Kailash Kumar,IND,M,,,,1507,0,20,MAR26,1994,i
 429099706,Kailash Partheeban,IND,M,,,,1515,0,,MAR26,2015,
 46601910,Kailash Rajasekaran,IND,M,,,,1464,0,40,MAR26,2008,i
-25659057,Kailash S,IND,M,,,,1435,0,20,MAR26,1997,i
 531056920,Kailash S,IND,M,,,,1401,5,40,MAR26,2018,
+25659057,Kailash S,IND,M,,,,1435,0,20,MAR26,1997,i
 33354421,Kailash V,IND,M,,,,1500,0,40,MAR26,2010,
 547031476,Kailashini Saravanaprabu K S,IND,F,,,,1431,0,40,MAR26,2017,w
 558098291,Kaira Gupta,IND,F,,,,1423,5,40,MAR26,2021,w
@@ -13966,7 +13966,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 88183815,Kamakshee Joshi,IND,F,,,,1535,0,40,MAR26,2010,w
 35018485,Kamal Deka,IND,M,,,,1590,0,20,MAR26,1983,i
 5012171,Kamal Kanti Pal,IND,M,,,,1817,0,20,MAR26,1953,i
-5076498,Kamal Karmakar,IND,M,,FI,,1809,0,,MAR26,1991,i
+5076498,Kamal Karmakar,IND,M,,,,1809,0,,MAR26,1991,i
 429084962,Kamal Kishor Lakhera,IND,M,,,,1436,0,40,MAR26,1984,i
 5048966,"Kamal Kishore, Debnath",IND,M,,,,1806,0,20,MAR26,1989,i
 25044559,Kamal Raj Babu B,IND,M,,,,1668,0,20,MAR26,1976,i
@@ -14028,8 +14028,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 45093857,Kamble Rahul Bhimrao,IND,M,,,,1537,0,40,MAR26,1994,
 48767247,Kamble Sachin,IND,M,,,,1404,0,40,MAR26,1998,i
 33312273,Kamble Samruddhi Vishwanath,IND,F,,,,1495,0,40,MAR26,2011,w
-25753614,Kamble Sujal,IND,M,,,,1413,0,20,MAR26,2004,i
 25774476,Kamble Sujal,IND,M,,,,1488,0,40,MAR26,2009,i
+25753614,Kamble Sujal,IND,M,,,,1413,0,20,MAR26,2004,i
 25932829,Kamble Swapnil,IND,M,,,,1527,10,40,MAR26,1995,
 46617426,Kamble Tejaswar,IND,M,,,,1534,0,20,MAR26,1997,
 25697803,Kamble Vishal,IND,M,,,,1438,0,40,MAR26,1995,
@@ -14091,7 +14091,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 564041700,Kande Govind Jotinath,IND,M,,,,1511,8,40,MAR26,1997,
 33400636,Kandi Santosh Sai Karthik,IND,M,,,,1767,0,40,MAR26,2010,
 35079450,Kandi Utkarsh,IND,M,,,,1522,0,20,MAR26,2002,i
-5007607,"Kandi, Ravi",IND,M,,"FI,NA",,1649,6,,MAR26,1966,
+5007607,"Kandi, Ravi",IND,M,,NA,,1649,6,,MAR26,1966,
 564055523,"Kandiya, Advait Mihir",IND,M,,,,1631,0,40,MAR26,2015,
 5037042,"Kandke, Sachin",IND,M,,,,1632,0,20,MAR26,1980,i
 88108082,Kandlavath Manvith Naik,IND,M,,,,1441,0,40,MAR26,2016,
@@ -14440,7 +14440,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 577007859,Karthik R,IND,M,,,,1683,9,40,MAR26,1996,
 35084704,Karthik R (1993),IND,M,,,,1606,0,20,MAR26,1993,i
 25642162,Karthik Raj,IND,M,,,,1768,0,40,MAR26,2006,i
-25044583,Karthik Raj C,IND,M,,FI,,1746,0,20,MAR26,1996,i
+25044583,Karthik Raj C,IND,M,,,,1746,0,20,MAR26,1996,i
 33411646,Karthik Raja K N,IND,M,,,,1490,0,40,MAR26,2011,i
 48788759,Karthik Raja S,IND,M,,,,1441,0,20,MAR26,2003,i
 25035215,Karthik Rajaa,IND,M,IM,,,2219,0,20,MAR26,2001,
@@ -14500,8 +14500,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 46683763,Karthikeyan Panchapakesan,IND,M,,,,1449,0,20,MAR26,1976,i
 558054286,Karthikeyan Rajendiran,IND,M,,,,1445,0,40,MAR26,1985,
 25180100,Karthikeyan S,IND,M,,,,1434,0,40,MAR26,2010,i
-48701327,Karthikeyan S,IND,M,,,,1435,0,40,MAR26,2016,
 25054384,Karthikeyan S,IND,M,,,,1439,0,40,MAR26,1998,i
+48701327,Karthikeyan S,IND,M,,,,1435,0,40,MAR26,2016,
 25745913,Karthikeyan Sakthivel,IND,M,,,,1670,0,20,MAR26,2007,i
 88116891,Karthikeyan Sivagami,IND,M,,NA,,1453,0,40,MAR26,2000,
 537097679,Karthikeyan Sokkalingam,IND,M,,,,1432,0,40,MAR26,2016,
@@ -14526,8 +14526,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25757024,Kartik Kaushal,IND,M,,,,1516,0,40,MAR26,2008,i
 33315418,Kartik Khetwal,IND,M,,,,1749,8,20,MAR26,2003,
 33447810,Kartik Krishnan,IND,M,,,,1457,0,40,MAR26,1993,
-33312370,Kartik Kumar,IND,M,,,,1629,0,40,MAR26,2007,
 564034712,Kartik Kumar,IND,M,,,,1438,0,40,MAR26,2013,
+33312370,Kartik Kumar,IND,M,,,,1629,0,40,MAR26,2007,
 547042826,Kartik Kumar Mishra,IND,M,,,,1442,0,40,MAR26,2013,
 46676465,Kartik Kumar Singh,IND,M,,,,1847,0,40,MAR26,2007,i
 537051466,Kartik Kumar Singh,IND,M,,,,1505,0,40,MAR26,2012,
@@ -14567,8 +14567,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33406146,Karumuri Venkata Naga Swapnasri,IND,F,,,,1519,0,40,MAR26,2009,wi
 25936875,Karumuru Abhinay Reddy,IND,M,,,,1545,0,20,MAR26,1997,i
 33427275,Karun Gaurav,IND,M,,,,1705,0,40,MAR26,2005,i
-25992880,Karun Kumar,IND,M,,,,1416,0,40,MAR26,1988,
 537011677,Karun Kumar,IND,M,,,,1520,0,40,MAR26,2011,i
+25992880,Karun Kumar,IND,M,,,,1416,0,40,MAR26,1988,
 48734810,Karunakaran K,IND,M,,,,1591,0,40,MAR26,2003,
 33390320,Karunakaran Subramanian,IND,M,,,,1464,0,40,MAR26,1990,i
 5049180,"Karunakaran, M",IND,M,,,,1661,0,20,MAR26,1955,
@@ -15252,11 +15252,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25652745,Kiran Kumar D J V,IND,M,,,,1578,0,,MAR26,1975,i
 25139436,Kiran Kumar Mallikarjuna,IND,M,,,,1501,0,20,MAR26,1982,i
 25685570,Kiran Prasath T,IND,M,,,,1576,0,40,MAR26,2006,i
-547099020,Kiran S,IND,F,,,,1465,0,40,MAR26,2010,w
 88114996,Kiran S,IND,M,,,,1416,0,40,MAR26,2009,
+547099020,Kiran S,IND,F,,,,1465,0,40,MAR26,2010,w
 5090407,Kiran Shantaram Chopdekar,IND,M,,,,1424,5,20,MAR26,1963,
 5049334,"Kiran, Kishore P",IND,M,,,,1479,0,20,MAR26,1981,i
-5019575,"Kiran, Manisha Mohanty",IND,F,WGM,WGM,FI,2069,0,20,MAR26,1989,w
+5019575,"Kiran, Manisha Mohanty",IND,F,WGM,WGM,,2069,0,20,MAR26,1989,w
 5001382,"Kiran, Panditrao",IND,M,,,,1806,8,,MAR26,1965,
 25015427,"Kiran, Vasishta T S",IND,M,,,,1660,0,20,MAR26,1996,
 5068789,Kiran.y,IND,M,,,,1867,0,40,MAR26,1987,i
@@ -15333,7 +15333,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33463620,Kishore Kumar,IND,M,,,,1415,0,40,MAR26,2008,i
 88123057,Kishore Kumar D,IND,M,,,,1418,0,40,MAR26,1996,i
 25976737,Kishore Kumar J,IND,M,,,,1461,0,20,MAR26,2004,i
-46683801,Kishore Kumar Jaganathan,IND,M,,FI,,1795,0,20,MAR26,2002,i
+46683801,Kishore Kumar Jaganathan,IND,M,,,,1795,0,20,MAR26,2002,i
 33395420,Kishore Kumar Karthi Keyan,IND,M,,,,1527,0,40,MAR26,2008,i
 25035304,Kishore Kumar L S,IND,M,,,,1815,0,20,MAR26,1996,i
 25950371,Kishore Kumar Mannala,IND,M,,,,1447,0,20,MAR26,1982,i
@@ -16059,7 +16059,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 537003453,Kumar J,IND,M,,,,1538,0,40,MAR26,1982,i
 558086021,Kumar Kamble,IND,M,,,,1416,0,40,MAR26,1998,
 25636928,Kumar Kaushik,IND,M,,,,1407,0,40,MAR26,2008,i
-25978683,Kumar Manish,IND,M,,"DI,NI,FA",,1450,0,20,MAR26,1977,i
+25978683,Kumar Manish,IND,M,,"DI,FA",,1450,0,20,MAR26,1977,i
 25658310,Kumar Nitin,IND,M,,,,1851,0,40,MAR26,1996,i
 25770195,Kumar Patil,IND,M,,,,1524,0,20,MAR26,1972,
 35084798,Kumar Pauparapatty Gunasekar,IND,M,,,,1419,0,20,MAR26,1990,i
@@ -16153,7 +16153,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 558065385,Kunal G Krishna,IND,M,,,,1493,2,40,MAR26,2011,
 537084461,Kunal Gupta,IND,M,,,,1498,0,40,MAR26,2012,
 33483230,Kunal Hasmukhbhai Kachariya,IND,M,,,,1488,0,20,MAR26,2000,i
-25972774,Kunal Kalra,IND,M,,"DI,NA",,1440,0,,MAR26,1987,
+25972774,Kunal Kalra,IND,M,,NA,,1440,0,,MAR26,1987,
 531041027,Kunal Kulaste,IND,M,,,,1413,0,40,MAR26,2011,
 531036538,Kunal Kulkarni,IND,M,,,,1443,0,40,MAR26,2010,
 25979515,Kunal Kumar,IND,M,,NA,,1490,0,40,MAR26,1998,i
@@ -16235,8 +16235,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33450897,Kushaankur Mandal,IND,M,,,,1464,0,40,MAR26,2012,
 25631195,Kushagr Gowda,IND,M,,,,1441,0,40,MAR26,2006,i
 25167910,Kushagra,IND,M,,,,1523,0,40,MAR26,2006,i
-429068002,Kushagra Agarwal,IND,M,,,,1476,0,40,MAR26,2011,
 531064957,Kushagra Agarwal,IND,M,,,,1455,0,40,MAR26,2010,i
+429068002,Kushagra Agarwal,IND,M,,,,1476,0,40,MAR26,2011,
 537042963,Kushagra Bathwal,IND,M,,,,1429,0,40,MAR26,2015,
 429068711,Kushagra Chandel,IND,M,,,,1589,0,40,MAR26,2010,
 33453861,Kushagra Chauhan,IND,M,,,,1549,0,40,MAR26,2006,
@@ -16323,7 +16323,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 366099780,"Lahon, Divyanshu",IND,M,,,,1522,0,,MAR26,2010,i
 35050613,Lahoti Jayanti,IND,F,,,,1474,0,20,MAR26,2001,wi
 35047868,Lahoti Riya,IND,F,,,,1699,0,20,MAR26,2000,wi
-25030884,Lahoty Surendra,IND,M,,"NI,NA",,1598,0,20,MAR26,1991,
+25030884,Lahoty Surendra,IND,M,,NA,,1598,0,20,MAR26,1991,
 531047998,Lahu Ajgaonkar,IND,M,,,,1493,0,40,MAR26,1999,i
 25729144,Lahuchand Krishna Thakur,IND,M,,,,1514,2,20,MAR26,1959,
 45047260,Laiju CT,IND,M,,,,1511,0,20,MAR26,1980,
@@ -16393,7 +16393,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25950401,Lakshman Manchala,IND,M,,,,1498,0,40,MAR26,2007,i
 45047936,Lakshman Raj S,IND,M,,,,1621,0,20,MAR26,2001,
 25638360,Lakshman Rao Athukuri,IND,M,,,,1588,0,20,MAR26,1988,i
-5007631,"Lakshman, YogeshL",IND,M,,DI,,1603,0,,MAR26,1996,i
+5007631,"Lakshman, YogeshL",IND,M,,,,1603,0,,MAR26,1996,i
 25939840,Lakshmanan,IND,M,,,,1548,0,40,MAR26,2005,i
 25106198,Lakshmanan D,IND,M,,,,1600,8,20,MAR26,1983,
 25016334,Lakshmanan K A,IND,M,,,,1714,0,20,MAR26,1944,i
@@ -16851,7 +16851,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 46614672,Mackenzie Campbel B,IND,M,,,,1609,0,40,MAR26,2007,
 46609407,Madake Sushilkumar,IND,M,,,,1515,0,20,MAR26,1980,i
 25634267,Madan Kumar,IND,M,,,,1519,0,20,MAR26,1988,i
-5022541,"Madanasri, Gundala",IND,F,WCM,WCM,"FI,FI",1816,0,20,MAR26,1993,w
+5022541,"Madanasri, Gundala",IND,F,WCM,WCM,FI,1816,0,20,MAR26,1993,w
 564026507,"Madane, Arnav Ashish",IND,M,,,,1421,0,40,MAR26,2014,
 366101010,"Madari, Sanjay",IND,M,,,,1421,3,,MAR26,1992,
 48771503,Madasu Sai Pavan,IND,M,,,,1446,0,40,MAR26,1996,
@@ -16963,7 +16963,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33417113,Madhuresh Kumar,IND,M,,,,1440,0,20,MAR26,1995,i
 45049122,Madhuresh Mohan Gupta,IND,M,,,,1429,0,40,MAR26,2008,i
 25946226,Madhuri Gubbala,IND,F,,,,1492,0,,MAR26,1987,w
-5044251,"Madhuri, N",IND,F,,FI,,1711,0,20,MAR26,1984,wi
+5044251,"Madhuri, N",IND,F,,,,1711,0,20,MAR26,1984,wi
 35069624,Madhurjya Bharali,IND,M,,NA,,1741,0,40,MAR26,1983,i
 5090415,"Madhusoodana Bhat, S",IND,M,,,,1698,0,20,MAR26,1968,
 5007798,"Madhusoodanan, K.R.",IND,M,,,,1845,0,20,MAR26,1964,
@@ -17717,7 +17717,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 45033072,Manuel Inbam,IND,M,,,,1565,0,20,MAR26,2003,i
 558057862,Manuj Rajpal,IND,M,,,,1566,0,40,MAR26,2003,
 537021982,Manuj Reddy Maddula,IND,M,,,,1528,7,40,MAR26,2013,
-5080789,Manukonda Arun,IND,M,,FI,,2033,0,20,MAR26,1990,i
+5080789,Manukonda Arun,IND,M,,,,2033,0,20,MAR26,1990,i
 531095950,Manukrishnan R N,IND,M,,,,1422,0,,MAR26,2013,
 48729558,Manush Patel,IND,M,,,,1637,6,,MAR26,2012,
 5040680,Manush Shah,IND,M,IM,,,2207,0,20,MAR26,1997,i
@@ -17785,7 +17785,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33337969,Mariyappan K,IND,M,,,,1511,0,20,MAR26,1969,i
 547045140,Mark Aryan Noronha,IND,M,,,,1441,0,40,MAR26,2010,
 429022398,Mark B Dsouza,IND,M,,,,1450,0,40,MAR26,2016,
-46679545,Markanday Amol,IND,M,,"NI,NA",,1675,0,,MAR26,1984,i
+46679545,Markanday Amol,IND,M,,NA,,1675,0,,MAR26,1984,i
 48704660,Markande Swayam,IND,M,,,,1438,0,40,MAR26,2013,i
 48786322,"Marksim Karki Abirami, Sriiyukthaa",IND,F,,,,1639,6,,MAR26,2015,w
 558031600,Marmik Parikh,IND,M,,,,1568,0,40,MAR26,2006,
@@ -17863,7 +17863,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531076262,Matroja Rudrarajsinh Hemantsinh,IND,M,,,,1443,0,40,MAR26,2013,
 25006169,Matta Besh Vignesh Reddy,IND,M,,,,1777,0,20,MAR26,2000,i
 25044680,Matta Theja Sahithi,IND,F,,,,1783,0,20,MAR26,1998,wi
-5016649,"Matta, Vinay Kumar",IND,M,FM,"FT,FT",,2072,9,20,MAR26,1985,
+5016649,"Matta, Vinay Kumar",IND,M,FM,FT,,2072,9,20,MAR26,1985,
 25628941,Mattania Wilfred,IND,F,,,,1430,0,40,MAR26,2005,wi
 25690353,Matthew R Joseph,IND,M,,,,1624,0,40,MAR26,2009,i
 33436827,Matthew Ryan Anthony,IND,M,,,,1517,0,40,MAR26,2004,i
@@ -17962,7 +17962,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5007879,"Mayur, Patel",IND,M,,,,1939,0,20,MAR26,1962,i
 429060273,Mayura K,IND,M,,,,1454,4,40,MAR26,2012,
 547089652,Mayuravo Sarkar,IND,M,,,,1607,0,40,MAR26,2012,
-5093007,Mayurdhwajsinh A Jadav,IND,M,,"NI,FA",,1754,0,20,MAR26,1998,i
+5093007,Mayurdhwajsinh A Jadav,IND,M,,FA,,1754,0,20,MAR26,1998,i
 547000546,Mayuresh Bhalchandra Patil,IND,M,,,,1413,2,40,MAR26,2013,
 547010762,Mayuresh Kumar,IND,M,,,,1701,0,20,MAR26,1999,
 33449902,Mayuresh Laxlabh Desai,IND,M,,,,1773,0,40,MAR26,2009,
@@ -18005,7 +18005,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 46622080,Md. Raj Molla,IND,M,,,,1895,0,20,MAR26,1993,i
 25646508,Md. Rashid,IND,M,,,,1579,12,20,MAR26,1975,
 45078505,Md. Shabbir Ali,IND,M,,,,1593,0,20,MAR26,1987,i
-25662961,Md. Shahid,IND,M,,"NI,NA",,1549,0,20,MAR26,1990,i
+25662961,Md. Shahid,IND,M,,NA,,1549,0,20,MAR26,1990,i
 25600648,Md.Amin,IND,M,,,,1487,0,,MAR26,1999,i
 88135250,Meda Lakhith,IND,M,,,,1520,0,40,MAR26,2014,
 429054966,Medansh B,IND,M,,,,1507,6,40,MAR26,2013,
@@ -18270,7 +18270,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33476586,Milankumar Naranbhai Dharsenda,IND,M,,,,1632,0,,MAR26,1989,
 5024080,"Mili, Ghosh",IND,F,,,,1734,0,20,MAR26,1980,wi
 531014992,Milind Ashok Sawant,IND,M,,,,1470,14,40,MAR26,2003,
-46693971,Milind B Naik,IND,M,,NI,,1459,0,20,MAR26,1966,i
+46693971,Milind B Naik,IND,M,,,,1459,0,20,MAR26,1966,i
 547062460,Milind Chander,IND,M,,,,1788,0,40,MAR26,1996,
 48763900,Milind Deshpande,IND,M,,,,1420,0,20,MAR26,1975,i
 33377715,Milind Gandhi,IND,M,,,,1447,0,40,MAR26,1983,
@@ -18347,7 +18347,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 564047113,"Mishra, Harsh Ku",IND,M,,,,1523,0,40,MAR26,1998,
 366093867,"Mishra, Himanshu",IND,M,,,,1468,0,20,MAR26,1974,i
 5006007,"Mishra, Manoj",IND,M,CM,,,1931,0,20,MAR26,1969,i
-5000106,"Mishra, Neeraj-Kumar",IND,M,IM,"FT,IA",,2200,0,20,MAR26,1968,i
+5000106,"Mishra, Neeraj-Kumar",IND,M,IM,IA,,2200,0,20,MAR26,1968,i
 564074668,"Mishra, Rohansh",IND,M,,,,1593,8,40,MAR26,2012,
 564068412,"Mishra, Rudransh",IND,M,,,,1414,5,40,MAR26,2004,
 25028642,"Mishra, Srinibas",IND,M,,,,1749,0,20,MAR26,2000,i
@@ -18474,7 +18474,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 429026296,Mohamed Abuthalif,IND,M,,,,1465,0,40,MAR26,2011,
 88104834,Mohamed Ameen A,IND,M,,,,1405,0,20,MAR26,1975,i
 35065815,Mohamed Anees M,IND,M,IM,,,2164,0,20,MAR26,2003,
-45071810,Mohamed Ansari,IND,M,,"NI,NA",,1498,0,20,MAR26,1992,i
+45071810,Mohamed Ansari,IND,M,,NA,,1498,0,20,MAR26,1992,i
 537045385,Mohamed Aqeel M,IND,M,,,,1407,0,40,MAR26,2012,
 35090178,"Mohamed Ashef, Noor",IND,M,,,,1642,0,40,MAR26,1992,i
 88134580,Mohamed Basheer R,IND,M,,,,1477,0,40,MAR26,2014,
@@ -18564,7 +18564,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25049275,Mohammed Mudassir,IND,M,,,,1686,0,,MAR26,1999,i
 531023401,Mohammed Murtaza Khan,IND,M,,,,1485,0,40,MAR26,2009,i
 33420130,Mohammed Muzammil A,IND,M,,,,1654,0,20,MAR26,2000,i
-25156187,Mohammed Nizar,IND,M,,"DI,NA",,1845,0,40,MAR26,1979,
+25156187,Mohammed Nizar,IND,M,,NA,,1845,0,40,MAR26,1979,
 45018561,Mohammed Rafiq Syed Ali,IND,M,,,,1564,0,40,MAR26,2005,i
 25123955,Mohammed Raihan,IND,M,,,,1415,0,40,MAR26,2006,i
 429048184,Mohammed Ridhwan Bafakyh,IND,M,,,,1406,0,40,MAR26,2011,
@@ -18774,7 +18774,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 35001825,Monicca G V,IND,F,,,,1507,0,20,MAR26,1999,wi
 558036849,Monika M,IND,F,,,,1402,0,40,MAR26,2016,w
 558095225,Monika Vishwakarma,IND,F,,,,1484,0,40,MAR26,2004,w
-5064643,"Monika, Sahu",IND,F,,"NI,FA",,1626,0,20,MAR26,1996,wi
+5064643,"Monika, Sahu",IND,F,,FA,,1626,0,20,MAR26,1996,wi
 46647910,Monikandan R,IND,M,,,,1548,0,20,MAR26,1993,i
 33346364,Monil Maroo,IND,M,,NA,,1570,0,40,MAR26,2007,
 25101331,Monindra Nath Das,IND,M,,,,1428,0,20,MAR26,1998,i
@@ -18812,7 +18812,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33499144,Moondra Bhavin,IND,M,,,,1580,0,40,MAR26,2003,
 429058759,Moorthattil Aaradhya Nissi,IND,F,,,,1512,6,40,MAR26,2013,w
 429070538,Moorthattil Akshara Kalyani,IND,F,,,,1554,5,40,MAR26,2016,w
-33326479,Moorthattil Harikumar,IND,M,,"DI,NA",,1480,4,20,MAR26,1980,
+33326479,Moorthattil Harikumar,IND,M,,NA,,1480,4,20,MAR26,1980,
 48756636,Moorthiraj Bhat,IND,M,,,,1509,0,20,MAR26,1979,i
 35016466,Moorthy R,IND,M,,,,1710,0,20,MAR26,1954,i
 5099102,Moovendhan A B,IND,M,,,,1508,0,20,MAR26,2000,
@@ -18995,8 +18995,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25646435,Mukesh Kumar,IND,M,,,,1714,0,20,MAR26,2003,i
 35061518,Mukesh Kumar,IND,M,,,,1562,5,20,MAR26,1995,
 531059449,Mukesh Kumar,IND,M,,,,1726,0,40,MAR26,1989,i
-537035630,Mukesh Kumar,IND,M,,,,1411,0,40,MAR26,1978,i
 537035649,Mukesh Kumar,IND,M,,,,1420,0,40,MAR26,1981,
+537035630,Mukesh Kumar,IND,M,,,,1411,0,40,MAR26,1978,i
 25690361,Mukesh Kumar J,IND,M,,,,1497,0,20,MAR26,2002,i
 25059360,Mukesh Kumar S M,IND,M,,"NI,NA",,1695,0,,MAR26,1997,i
 537032321,Mukesh Kumar Yadav,IND,M,,,,1424,0,40,MAR26,1974,i
@@ -19067,7 +19067,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25087258,Mulla Nihalahamad,IND,M,,,,1751,0,20,MAR26,1989,i
 88135683,Mulla Sara,IND,F,,,,1419,0,40,MAR26,2009,wi
 531046037,Mullaivalavan M,IND,M,,,,1417,0,40,MAR26,1981,
-5035023,"Mullick, Saikat",IND,M,,NI,,1813,0,20,MAR26,1994,i
+5035023,"Mullick, Saikat",IND,M,,,,1813,0,20,MAR26,1994,i
 35080350,"Mullick,Raahil",IND,M,IM,,,2245,0,40,MAR26,2007,i
 48770230,Multani Lakshya,IND,M,,,,1611,0,40,MAR26,2009,
 547026456,Muluto Phesao,IND,M,,,,1540,0,40,MAR26,1984,
@@ -19123,7 +19123,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48745820,Muralidhar Kirubanandam,IND,M,,,,1412,0,40,MAR26,2005,i
 25093657,Muralidhar L,IND,M,,,,1751,0,20,MAR26,1974,i
 45088772,Muralidhar Rao M,IND,M,,,,1513,0,40,MAR26,2005,i
-5062462,Muralidhara G K,IND,M,,"NI,NA",,1621,0,20,MAR26,1970,i
+5062462,Muralidhara G K,IND,M,,NA,,1621,0,20,MAR26,1970,i
 45047308,Muralidharan M,IND,M,,,,1600,0,20,MAR26,2001,i
 46698833,Muralidharan Naniyate,IND,M,,,,1560,0,20,MAR26,1964,
 25782673,Muralidharan P S,IND,M,,,,1607,0,20,MAR26,1963,
@@ -19432,7 +19432,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 46645640,Nair Mandar,IND,M,,,,1524,0,20,MAR26,1991,i
 45099030,Nair Milind,IND,M,,,,1519,0,20,MAR26,2003,i
 25955004,Nair Mithun,IND,M,,,,1403,0,20,MAR26,2004,i
-35097164,Nair Rajesh,IND,M,,"SI,DI",,1435,0,20,MAR26,1972,i
+35097164,Nair Rajesh,IND,M,,SI,,1435,0,20,MAR26,1972,i
 547066016,Nair Sanjay,IND,M,,,,1501,4,40,MAR26,1973,
 45036691,Nair Sharath,IND,M,,,,1491,0,20,MAR26,2001,i
 547083239,Nair Siddhant Rajesh,IND,M,,,,1462,0,40,MAR26,2012,
@@ -19534,8 +19534,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 547008342,Naman Goyal,IND,M,,,,1474,0,40,MAR26,2007,
 25700839,Naman Jain,IND,M,,,,1486,0,20,MAR26,2003,i
 537027565,Naman Kalpesh Vora,IND,M,,,,1406,0,40,MAR26,2006,i
-48723142,Naman Kaushik,IND,M,,,,1533,6,,MAR26,2003,
 45091625,Naman Kaushik,IND,M,,,,1533,0,20,MAR26,1997,i
+48723142,Naman Kaushik,IND,M,,,,1533,6,,MAR26,2003,
 25176862,Naman Khandelwal,IND,M,,,,1701,0,40,MAR26,2011,
 25623664,Naman Mehrothra,IND,M,,,,1525,0,20,MAR26,2003,i
 558021612,Naman Narendra Jain,IND,M,,,,1402,3,40,MAR26,2015,
@@ -19707,7 +19707,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5016037,"Narayanan, K.",IND,M,,,,2248,0,20,MAR26,1991,i
 5005760,"Narayanan, P",IND,M,,,,1800,0,20,MAR26,1983,i
 5027160,"Narayanan, S.r",IND,M,,,,1818,0,20,MAR26,1948,i
-5018420,"Narayanan, Srinath",IND,M,GM,FST,,2440,0,10,MAR26,1994,
+5018420,"Narayanan, Srinath",IND,M,GM,,,2440,0,10,MAR26,1994,
 5074339,Narayanan.M.R,IND,M,,,,1720,0,20,MAR26,1998,i
 33450390,Narayani Umesh Marathe,IND,F,,,,1516,5,40,MAR26,2016,w
 531018963,Narcinha Sripad Pai,IND,M,,,,1689,0,40,MAR26,1981,i
@@ -19786,7 +19786,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48745219,Nashvan Mohammed,IND,M,,,,1515,0,40,MAR26,2007,i
 88137651,Nasirullakhan A,IND,M,,,,1516,0,20,MAR26,1978,
 45041903,Nasser Poyil,IND,M,,,,1669,0,20,MAR26,1976,
-5005000,Natarajan C,IND,M,CM,"DI,DI",,2183,0,20,MAR26,1975,i
+5005000,Natarajan C,IND,M,CM,DI,,2183,0,20,MAR26,1975,i
 46635246,Natarajan M,IND,M,,,,1603,0,20,MAR26,1973,
 25932012,Natarajan S,IND,M,,,,1458,0,40,MAR26,2006,i
 33367698,Natarajan Shravan,IND,M,,,,1600,0,40,MAR26,2014,
@@ -19798,7 +19798,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25021656,Nath Gorakh,IND,M,,,,1473,0,40,MAR26,1976,i
 25150880,Nath Neil,IND,M,,,,1435,0,40,MAR26,2007,i
 547049790,Nath Tomonash,IND,M,,,,1469,5,40,MAR26,2015,
-5006724,"Nath, Rupankar",IND,M,CM,"FT,FT",,1939,0,20,MAR26,1980,
+5006724,"Nath, Rupankar",IND,M,CM,FT,,1939,0,20,MAR26,1980,
 25691163,Nathan Cherry Philips,IND,M,,,,1409,0,40,MAR26,2009,i
 88104303,Nathan Mahesh Joel,IND,M,,,,1412,0,40,MAR26,2009,i
 33481326,Nathan Mathew Punnoose,IND,M,,,,1414,0,40,MAR26,2012,
@@ -19820,7 +19820,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 429052912,Naval Mit Vora,IND,M,,,,1589,0,40,MAR26,2014,
 531003095,Naval Neema,IND,M,,,,1416,0,40,MAR26,2013,
 5067111,"Navalgund, Chidamber",IND,M,,,,1577,0,40,MAR26,1998,i
-5030854,"Navalgund, Niranjan",IND,M,FM,FT,,2142,0,20,MAR26,1994,i
+5030854,"Navalgund, Niranjan",IND,M,FM,,,2142,0,20,MAR26,1994,i
 25921983,Navali Sharveel,IND,M,,,,1413,0,40,MAR26,2009,i
 46671897,Navalkar Amit,IND,M,,,,1677,0,20,MAR26,1981,i
 48795631,Navalkar Prashant,IND,M,,,,1550,0,40,MAR26,1981,i
@@ -20313,7 +20313,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48732869,Nikita Susan Thomas,IND,F,,,,1465,7,40,MAR26,2011,w
 88197760,Nikitha Giri,IND,F,,,,1412,1,40,MAR26,2014,w
 25149148,Nikkitasha Sakhare,IND,F,,,,1419,0,40,MAR26,2010,wi
-5037921,Niklesh Kumar Jain,IND,M,,"FI,FI",,1940,0,,MAR26,1984,
+5037921,Niklesh Kumar Jain,IND,M,,FI,,1940,0,,MAR26,1984,
 429069432,Nikshit Sasmal,IND,M,,,,1443,0,40,MAR26,2015,
 25769162,Nikunj Agrawal,IND,M,,,,1570,0,40,MAR26,2011,
 25111604,Nikunj Goenka,IND,M,,,,1467,0,40,MAR26,2006,
@@ -20967,7 +20967,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 547071010,Omm Agarwal,IND,M,,,,1473,0,40,MAR26,2013,
 25010662,Omm Verma,IND,M,,,,1633,6,,MAR26,1976,
 558052836,Omprakash Mishra,IND,M,,,,1530,0,40,MAR26,1961,
-5051223,"Omprakash, Soni",IND,M,,NI,,1695,0,20,MAR26,1985,
+5051223,"Omprakash, Soni",IND,M,,,,1695,0,20,MAR26,1985,
 25081276,Omved K V,IND,M,,,,1558,0,40,MAR26,1999,
 25735217,Oniya Nalo,IND,M,,,,1727,0,20,MAR26,2000,
 33331537,Onkar Banerjee,IND,M,,,,1476,0,40,MAR26,2010,i
@@ -21223,7 +21223,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48767735,Pandit Yatin Waman,IND,M,,,,1479,0,20,MAR26,1985,i
 46679650,Pandit Yogesh,IND,M,,,,1671,0,20,MAR26,1982,i
 5007135,"Pandit, Arun",IND,M,,,,2012,0,20,MAR26,1955,i
-5051347,"Pandit, Prem",IND,M,,"DI,NI",,1664,0,,MAR26,1966,i
+5051347,"Pandit, Prem",IND,M,,,,1664,0,,MAR26,1966,i
 45025460,Pandiyan J,IND,M,,,,1590,0,20,MAR26,1995,i
 5040221,"Pandiyan, R",IND,M,,,,1778,0,20,MAR26,1977,i
 33302170,Pandiyarajan S,IND,M,,,,1604,0,20,MAR26,2001,i
@@ -21613,7 +21613,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33344515,Patel Shrushti Trishulkumar,IND,F,,,,1420,0,40,MAR26,2011,w
 48770345,Patel Shubh,IND,M,,,,1524,0,40,MAR26,2012,
 531077838,Patel Soham Hiteshkumar,IND,M,,,,1514,0,40,MAR26,2013,
-45038600,Patel Suyogkumar M,IND,M,,NI,,1710,0,20,MAR26,2005,
+45038600,Patel Suyogkumar M,IND,M,,,,1710,0,20,MAR26,2005,
 25918680,Patel Trishul D,IND,M,,,,1405,0,,MAR26,1979,i
 46660437,Patel Ujjawal,IND,M,,,,1559,0,20,MAR26,2000,i
 547045698,Patel Vandan,IND,M,,,,1577,0,40,MAR26,2000,
@@ -21789,9 +21789,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5086728,"Patil, D R",IND,M,,,,1746,0,20,MAR26,1971,i
 5051460,"Patil, Deepak Shankar",IND,M,,,,1786,0,20,MAR26,1996,i
 5035040,"Patil, Ketan",IND,M,,,,1792,0,20,MAR26,1990,i
-5021391,"Patil, Mitali",IND,F,WFM,WFM,FI,1931,0,20,MAR26,1991,wi
+5021391,"Patil, Mitali",IND,F,WFM,WFM,,1931,0,20,MAR26,1991,wi
 5029813,"Patil, Nagesh",IND,M,,NA,,2006,0,20,MAR26,1987,i
-5038758,"Patil, Pratik",IND,M,CM,FI,,2207,0,20,MAR26,1995,i
+5038758,"Patil, Pratik",IND,M,CM,,,2207,0,20,MAR26,1995,i
 5077532,"Patil, Sagar",IND,M,,,,1432,0,20,MAR26,1992,i
 564026159,"Patil, Samarth Mahesh",IND,M,,,,1497,0,40,MAR26,2006,
 564073700,"Patil, Shreemay Mohan",IND,M,,,,1416,7,40,MAR26,2011,
@@ -22348,7 +22348,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 45004609,Pradip Damodhar Bawankule,IND,M,,,,1477,0,20,MAR26,1997,i
 45079455,Pradip Dey,IND,M,,,,1530,0,20,MAR26,1969,
 35067729,Pradip Kumar Nath,IND,M,,,,1735,0,20,MAR26,1964,i
-5007119,"Pradip, Ghosh",IND,M,,FI,,1985,0,20,MAR26,1983,
+5007119,"Pradip, Ghosh",IND,M,,,,1985,0,20,MAR26,1983,
 5029830,"Pradip, Kumar Debnath",IND,M,,,,1597,7,20,MAR26,1966,
 46643575,Pradnya Sachin Kakodkar,IND,F,,NA,,1436,2,20,MAR26,1980,w
 429038510,Pradnyesh Joshi,IND,M,,,,1417,0,40,MAR26,2012,
@@ -22743,7 +22743,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25720147,Praneeth K S S R A,IND,M,,,,1591,0,40,MAR26,2007,
 531079750,Praneeth S Uppinal,IND,M,,,,1553,6,40,MAR26,2017,
 5091411,Praneeth Surya K,IND,M,FM,,,2275,0,20,MAR26,1997,i
-25048937,Praneetha K,IND,F,,NI,,1438,0,20,MAR26,1995,wi
+25048937,Praneetha K,IND,F,,,,1438,0,20,MAR26,1995,wi
 558085246,Praneetha S,IND,F,,,,1422,0,40,MAR26,2009,w
 429049377,Pranesh G,IND,M,,,,1454,0,40,MAR26,2013,i
 25191365,Pranesh J R,IND,M,,,,1599,0,40,MAR26,2007,i
@@ -22876,7 +22876,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 35053809,Prasath K,IND,M,,,,1562,0,20,MAR26,2000,i
 46662219,Prasath K R,IND,M,,,,1700,0,20,MAR26,1981,
 35015389,Prasenjit Bhattacharya,IND,M,,,,1666,0,,MAR26,1981,i
-5004420,Prasenjit Dutta,IND,M,FM,FT,,2241,0,20,MAR26,1981,i
+5004420,Prasenjit Dutta,IND,M,FM,,,2241,0,20,MAR26,1981,i
 547040980,Prasenjit Ishwar,IND,M,,,,1462,0,40,MAR26,2013,
 25153340,Prasenjit Namasudra,IND,M,,,,1615,14,20,MAR26,1993,
 5025150,"Prasenjit, Das",IND,M,,,,1711,0,20,MAR26,1968,i
@@ -23171,8 +23171,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531019757,Preetham A S,IND,M,,,,1553,0,40,MAR26,2010,i
 46610502,Preetham Gangadhar,IND,M,,,,1527,0,20,MAR26,2003,i
 46655093,Preetham H N,IND,M,,,,1533,0,20,MAR26,2000,i
-88163989,Preetham M,IND,M,,,,1415,0,40,MAR26,2013,i
 558071059,Preetham M,IND,M,,,,1560,9,40,MAR26,2012,
+88163989,Preetham M,IND,M,,,,1415,0,40,MAR26,2013,i
 33368821,Preetham Reddy Nagula,IND,M,,,,1439,0,40,MAR26,2010,i
 88169987,Preetham S,IND,M,,,,1433,0,,MAR26,2012,
 531028012,Preetham Shivakumar V,IND,M,,,,1434,0,40,MAR26,2010,i
@@ -23319,10 +23319,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5026059,"Priya, Ranjan Das",IND,M,,,,1700,0,20,MAR26,1954,i
 547034513,Priyaansh Agarwal,IND,M,,,,1527,0,40,MAR26,2013,
 25022997,Priyadarshan P,IND,M,,,,1582,0,20,MAR26,1991,i
-25076485,Priyadarshi Alok,IND,M,,"NI,IA",,1659,5,,MAR26,1997,
+25076485,Priyadarshi Alok,IND,M,,IA,,1659,5,,MAR26,1997,
 5023599,"Priyadarshi, Torne",IND,M,,,,1854,0,20,MAR26,1983,i
 25722964,Priyadarshini Mulloli,IND,F,,,,1547,0,20,MAR26,2005,wi
-5011833,"Priyadarshini, M.",IND,F,WFM,WFM,"FI,FA",1803,0,20,MAR26,1987,w
+5011833,"Priyadarshini, M.",IND,F,WFM,WFM,FA,1803,0,20,MAR26,1987,w
 558019120,Priyadharasan S S,IND,M,,,,1511,8,40,MAR26,2016,
 25175785,Priyadharsan S,IND,M,,,,1519,0,40,MAR26,2009,
 429015812,Priyadharshan V,IND,M,,,,1400,0,40,MAR26,2009,
@@ -23676,7 +23676,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531009239,Raghava Vijaya Pola,IND,M,,,,1453,0,40,MAR26,2012,
 35032402,Raghavan K,IND,M,,,,1575,0,20,MAR26,1943,i
 25070800,Raghavan Muktesh,IND,M,,,,1765,0,20,MAR26,2002,
-25001353,Raghavan R,IND,M,,NI,,1504,0,20,MAR26,1986,i
+25001353,Raghavan R,IND,M,,,,1504,0,20,MAR26,1986,i
 429042364,Raghavan Saravanan,IND,M,,,,1437,0,40,MAR26,2012,
 25015583,Raghavan V,IND,M,,,,1584,0,20,MAR26,1948,i
 46681477,Raghavendira M S,IND,M,,,,1541,0,20,MAR26,1994,
@@ -23807,7 +23807,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25036475,Rahul Lamba,IND,M,,,,1866,0,20,MAR26,1993,i
 531060811,Rahul Lohia,IND,M,,,,1473,0,40,MAR26,1997,i
 25691686,Rahul Mahale,IND,M,,,,1431,0,40,MAR26,2007,i
-25093754,Rahul Mayur Sharma,IND,M,,"NI,SI,FA",,1609,0,20,MAR26,1978,i
+25093754,Rahul Mayur Sharma,IND,M,,"SI,FA",,1609,0,20,MAR26,1978,i
 48740713,Rahul Modi,IND,M,,,,1464,0,20,MAR26,1995,i
 33400830,Rahul Mynala,IND,M,,,,1594,0,40,MAR26,2010,i
 25082825,Rahul N Kamath,IND,M,,,,1818,0,20,MAR26,1998,
@@ -23944,7 +23944,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531015468,Rajaganapathi V,IND,M,,,,1436,0,40,MAR26,2014,i
 46617035,Rajaganapathy S,IND,M,,,,1566,0,20,MAR26,1986,i
 25045504,Rajagopal V,IND,M,,,,1427,0,40,MAR26,1977,
-5080843,Rajagopalan,IND,M,,NI,,1638,0,20,MAR26,1968,i
+5080843,Rajagopalan,IND,M,,,,1638,0,20,MAR26,1968,i
 46684271,Rajagopalan Srinivasan,IND,M,,,,1583,0,20,MAR26,1979,i
 531015476,Rajagowtham S,IND,M,,,,1463,0,40,MAR26,2013,
 429010926,Rajakumar D,IND,M,,,,1413,0,40,MAR26,1973,i
@@ -24149,7 +24149,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 35011189,Raju N Hegadi,IND,M,,,,1785,0,20,MAR26,1964,i
 45080933,Raju Prasad R,IND,M,,,,1634,0,20,MAR26,2004,
 33419892,Raju Singh,IND,M,,,,1518,0,20,MAR26,1966,i
-25626531,Raju Vislavath,IND,M,,"DI,NI,FA",,1504,0,20,MAR26,1998,i
+25626531,Raju Vislavath,IND,M,,"NI,FA",,1504,0,20,MAR26,1998,i
 5004721,"Raju, Gogoi",IND,M,,,,1657,0,20,MAR26,1983,i
 5017190,"Raju, J.K.",IND,M,,,,1826,0,,MAR26,1980,
 5034469,"Raju, M",IND,M,,,,1623,0,20,MAR26,1960,i
@@ -24350,7 +24350,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25789783,Raman Siddhardh B,IND,M,,,,1701,0,40,MAR26,2011,
 25958909,Raman Trikazhipuram,IND,M,,,,1601,0,20,MAR26,1947,i
 25002104,"Raman, D",IND,M,,,,1709,0,20,MAR26,1983,i
-5019389,"Raman, R.",IND,M,,NI,,1636,0,,MAR26,1968,
+5019389,"Raman, R.",IND,M,,,,1636,0,,MAR26,1968,
 5009545,"Ramana, Babu B.",IND,M,,,,1879,0,20,MAR26,1976,
 45088950,Ramanan Natarajan,IND,M,,,,1426,0,20,MAR26,2000,i
 25779559,Ramanan Vedhika,IND,F,,,,1438,0,40,MAR26,2005,wi
@@ -24368,7 +24368,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25604244,Ramaprasad Kodlekere,IND,M,,,,1480,0,20,MAR26,1959,
 88170993,Ramar Rajasekaran,IND,M,,,,1468,0,40,MAR26,1979,
 33334005,Ramaswamy T,IND,M,,,,1431,0,20,MAR26,1973,i
-5004373,"Ramaswamy, Aarthie",IND,F,WGM,WGM,FT,1967,0,20,MAR26,1981,wi
+5004373,"Ramaswamy, Aarthie",IND,F,WGM,WGM,,1967,0,20,MAR26,1981,wi
 564048390,"Ramavat, Mohit",IND,M,,,,1472,7,40,MAR26,1997,
 33419906,Ramavtar Chourey,IND,M,,,,1462,0,20,MAR26,1958,i
 45034370,Ramba Srinivasa Rao,IND,M,,,,1500,0,20,MAR26,1968,i
@@ -24462,7 +24462,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 558018050,Ramu T,IND,M,,,,1462,0,40,MAR26,1967,
 88173887,Ramu Thutaram,IND,M,,,,1484,0,40,MAR26,1989,i
 25675761,Ramu V,IND,M,,,,1507,0,20,MAR26,1987,i
-5006171,"Ramu, K.",IND,M,FM,"FT,FT",,2074,0,20,MAR26,1978,i
+5006171,"Ramu, K.",IND,M,FM,FT,,2074,0,20,MAR26,1978,i
 537056379,Ramya Krishnaiah,IND,F,,,,1499,0,,MAR26,1987,w
 45028184,Ramyashree Gangadhar,IND,F,,,,1672,0,20,MAR26,1982,wi
 25692399,Rana Apoorvakumar,IND,M,,NI,,1627,7,,MAR26,1996,
@@ -24589,7 +24589,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25644246,Rasmita Kumari Patro,IND,F,,,,1485,0,20,MAR26,1991,wi
 35047930,Raste Varun,IND,M,,,,1742,0,20,MAR26,1997,i
 564046524,"Rastogi, Sanjit",IND,M,,,,1524,0,40,MAR26,2012,
-5095751,"Rastogi, Sumit",IND,M,,NI,,1680,0,20,MAR26,1995,i
+5095751,"Rastogi, Sumit",IND,M,,,,1680,0,20,MAR26,1995,i
 547081929,Ratan Ananta Fulzele,IND,M,,,,1416,0,40,MAR26,2011,
 46640320,Ratan Gandhi S,IND,M,,,,1434,0,40,MAR26,2006,i
 25781626,Ratan Ghosh,IND,M,,,,1468,0,20,MAR26,1969,i
@@ -24710,7 +24710,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33479518,Ravi Jagdish Rao,IND,M,,,,1419,0,20,MAR26,1978,i
 429013178,Ravi Kalidas Gawali,IND,M,,,,1423,0,40,MAR26,1981,
 25928481,Ravi Kant Srivastava,IND,M,,,,1579,0,20,MAR26,1960,i
-5075742,Ravi Kant Tiwari,IND,M,,"FI,FA",,1863,0,20,MAR26,1995,
+5075742,Ravi Kant Tiwari,IND,M,,FA,,1863,0,20,MAR26,1995,
 48732486,Ravi Kiran Modekurti,IND,M,,,,1438,0,20,MAR26,1992,i
 48767794,Ravi Krishang,IND,M,,,,1465,0,40,MAR26,2011,i
 25707817,Ravi Krishna G,IND,M,,,,1851,8,,MAR26,2007,
@@ -24755,7 +24755,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5029929,"Ravi, Patra",IND,M,,,,1864,0,20,MAR26,1959,
 25009737,"Ravi, Sangole",IND,M,,,,1841,0,20,MAR26,1982,i
 5022169,"Ravi, Sohoni",IND,M,,,,1811,0,40,MAR26,1987,i
-5017220,"Ravi, Teja S.",IND,M,IM,"FT,FT",,2200,9,20,MAR26,1993,
+5017220,"Ravi, Teja S.",IND,M,IM,FT,,2200,9,20,MAR26,1993,
 5000238,"Ravi, Thandalam Shanmugam",IND,M,IM,,,2010,9,20,MAR26,1971,
 35036041,Ravichandran K,IND,M,,,,1541,0,20,MAR26,1988,i
 5003113,"Ravichandran, K.",IND,M,,FI,,1879,0,20,MAR26,1965,i
@@ -24829,7 +24829,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25150669,Rawool Vibhav,IND,M,,,,1470,0,40,MAR26,2011,
 25958038,Rawte Suresh,IND,M,,,,1631,3,20,MAR26,1977,
 48770515,Ray Abhishek,IND,M,,,,1487,0,,MAR26,2007,
-35043358,Ray Biswajit,IND,M,,NI,,1846,0,20,MAR26,1963,i
+35043358,Ray Biswajit,IND,M,,,,1846,0,20,MAR26,1963,i
 48773239,Ray Vivek,IND,M,,,,1454,0,,MAR26,2008,
 88178978,Rayaan Mikael Rozario,IND,M,,,,1467,0,,MAR26,2017,
 33497907,Rayaan Patil,IND,M,,,,1536,0,,MAR26,2012,
@@ -25011,7 +25011,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 429054559,Ribhya Joshi,IND,F,,,,1402,0,40,MAR26,2015,w
 531014429,Richard Jaimin,IND,M,,,,1599,0,40,MAR26,2010,i
 25717065,Richard Solomon M,IND,M,,,,1869,0,40,MAR26,2008,
-5083494,Richin Jain,IND,M,,NI,,1719,0,20,MAR26,1990,i
+5083494,Richin Jain,IND,M,,,,1719,0,20,MAR26,1990,i
 33324212,Richwin Infantar I P,IND,M,,,,1497,0,40,MAR26,2009,i
 429078059,Ridaan Gupta,IND,M,,,,1672,0,40,MAR26,2017,
 33389373,Riddhi Jaykumar Baraskar,IND,F,,,,1418,0,40,MAR26,2008,w
@@ -26042,8 +26042,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 45005958,Sachin Kakodkar,IND,M,,,,1580,0,20,MAR26,1971,i
 25928643,Sachin Kalher,IND,M,,,,1664,0,20,MAR26,2001,
 88127109,Sachin Kumar,IND,M,,,,1448,0,40,MAR26,2010,
-531057926,Sachin Kumar,IND,M,,,,1608,0,40,MAR26,2002,i
 25189360,Sachin Kumar,IND,M,,,,1410,0,40,MAR26,1997,i
+531057926,Sachin Kumar,IND,M,,,,1608,0,40,MAR26,2002,i
 564037274,Sachin Kumar R,IND,M,,,,1555,6,40,MAR26,2010,
 33301530,Sachin Kumar Saini,IND,M,,,,1421,0,20,MAR26,1988,i
 45008469,Sachin Manchanda,IND,M,,,,1431,0,20,MAR26,1978,i
@@ -26051,7 +26051,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 46681710,Sachin Mohite,IND,M,,,,1572,0,20,MAR26,1983,i
 537014498,Sachin Munduiya,IND,M,,,,1551,0,40,MAR26,2010,i
 46643010,Sachin P Arolkar,IND,M,,,,1668,0,20,MAR26,1971,i
-5029953,Sachin P S,IND,M,,"NI,NA",,1702,8,20,MAR26,1990,
+5029953,Sachin P S,IND,M,,NA,,1702,8,20,MAR26,1990,
 25919229,Sachin Pai,IND,M,,,,1662,6,20,MAR26,2007,
 547013907,Sachin Pandey,IND,M,,,,1514,0,40,MAR26,1995,
 25917668,Sachin Pandharinath Vaidya,IND,M,,,,1576,0,20,MAR26,1963,i
@@ -26174,7 +26174,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 45021767,Sahani Ram Prasad,IND,M,,,,1530,0,20,MAR26,1966,i
 25164686,Sahanithees G,IND,M,,,,1487,0,40,MAR26,2008,i
 25140647,Sahanna Rajmohan,IND,F,,,,1419,0,40,MAR26,2008,wi
-25708830,Sahare Roshan,IND,M,,NI,,1523,0,20,MAR26,1997,i
+25708830,Sahare Roshan,IND,M,,,,1523,0,20,MAR26,1997,i
 429007852,Sahare Sumedh,IND,M,,,,1509,0,40,MAR26,2008,i
 564047806,"Sahare, Rohan",IND,M,,,,1542,0,40,MAR26,2005,
 25019589,"Sahare, Umesh",IND,M,,,,1632,0,20,MAR26,1997,
@@ -26254,7 +26254,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 564046516,"Sahu, Astik",IND,M,,,,1412,0,40,MAR26,2011,
 564047873,"Sahu, Priyanshu Pavan",IND,M,,,,1556,0,40,MAR26,2012,
 5010560,"Sahu, Rajendra Kumar",IND,M,CM,,,2036,0,20,MAR26,1966,i
-5000157,"Sahu, Sekhar Chandra",IND,M,IM,FST,,2016,0,20,MAR26,1955,i
+5000157,"Sahu, Sekhar Chandra",IND,M,IM,,,2016,0,20,MAR26,1955,i
 5023653,"Sahu, Vikramaditya",IND,M,,,,2032,0,20,MAR26,1987,i
 537099914,Sahya Kailas,IND,F,,,,1583,0,40,MAR26,2015,w
 88134180,Sai Aashritha Gudimetla,IND,F,,,,1429,0,40,MAR26,2017,wi
@@ -26552,7 +26552,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 547055456,Saketh Linu Chandran,IND,M,,,,1500,0,40,MAR26,2010,
 48737631,Saketh Padmanabhan,IND,M,,,,1467,0,40,MAR26,2006,i
 48740730,Saketh Sree Ram,IND,M,,,,1428,0,20,MAR26,2003,i
-5042178,"Saketh, Pedagandham",IND,M,CM,"FI,FI",,1912,0,20,MAR26,1992,
+5042178,"Saketh, Pedagandham",IND,M,CM,FI,,1912,0,20,MAR26,1992,
 33434115,Sakhadeo Nischal,IND,M,,,,1512,6,40,MAR26,2006,
 35086294,Sakhalkar Tejas,IND,M,,,,1681,0,40,MAR26,2001,i
 25753525,Sakhardande Harsh,IND,M,,,,1456,0,40,MAR26,2007,i
@@ -26711,8 +26711,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 547008660,Samar Jain,IND,M,,,,1544,6,40,MAR26,2016,
 564007154,Samar Kore,IND,M,,,,1430,8,40,MAR26,2018,
 429027632,Samar Sabharwal,IND,M,,,,1510,0,40,MAR26,2014,
-547062592,Samar Singh,IND,M,,,,1482,0,40,MAR26,2011,
 547029820,Samar Singh,IND,M,,,,1436,0,40,MAR26,2012,
+547062592,Samar Singh,IND,M,,,,1482,0,40,MAR26,2011,
 5025303,"Samar, Chatterjee",IND,M,,,,1992,0,20,MAR26,1967,i
 35010166,Samarateja K,IND,M,,,,1701,0,20,MAR26,2004,i
 33354669,Samarjith B Nair,IND,M,,,,1497,0,40,MAR26,2009,i
@@ -27117,8 +27117,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25790196,Sanjay K A,IND,M,,,,1538,0,40,MAR26,2007,i
 531068103,Sanjay Kar,IND,M,,,,1502,0,40,MAR26,1985,i
 33351333,Sanjay Kukreja,IND,M,,,,1889,0,20,MAR26,1977,i
-537037390,Sanjay Kumar,IND,M,,,,1659,10,,MAR26,2002,
 25987739,Sanjay Kumar,IND,M,,,,1544,8,,MAR26,1979,
+537037390,Sanjay Kumar,IND,M,,,,1659,10,,MAR26,2002,
 33371237,Sanjay Kumar Behera,IND,M,,,,1476,0,20,MAR26,1979,i
 25177435,Sanjay Kumar Belwal,IND,M,,,,1456,0,20,MAR26,1967,i
 531070540,Sanjay Kumar Das,IND,M,,,,1662,0,40,MAR26,1980,i
@@ -27148,7 +27148,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5062764,"Sanjay Rangharajhan, M",IND,M,,,,1488,0,20,MAR26,1998,i
 564062090,Sanjay Rayakwar,IND,M,,,,1614,0,40,MAR26,1992,
 48795046,Sanjay S L,IND,M,,,,1417,3,40,MAR26,2016,
-25043943,Sanjay S Pillai,IND,M,,FI,,1812,0,20,MAR26,1998,i
+25043943,Sanjay S Pillai,IND,M,,,,1812,0,20,MAR26,1998,i
 48714755,Sanjay Sain,IND,M,,,,1556,0,40,MAR26,1994,
 33462585,Sanjay Sankaranarayanan,IND,M,,,,1407,0,,MAR26,2014,i
 35098977,Sanjay Santhanakumar,IND,M,,,,1440,0,20,MAR26,2004,i
@@ -27163,8 +27163,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 45072264,Sanjay Sriram,IND,M,,,,1638,0,20,MAR26,2006,i
 25059963,Sanjay Thiruvengadam,IND,M,,,,1814,0,20,MAR26,2000,i
 48769452,Sanjay Tiwaskar,IND,M,,,,1475,4,40,MAR26,1970,
-558069070,Sanjay V,IND,M,,,,1410,0,40,MAR26,2014,
 33365474,Sanjay V,IND,M,,,,1440,0,40,MAR26,2010,
+558069070,Sanjay V,IND,M,,,,1410,0,40,MAR26,2014,
 25038370,"Sanjay, Belurkar",IND,M,,,,1611,0,20,MAR26,1967,i
 5027306,"Sanjay, Chhabra",IND,M,,,,1836,0,20,MAR26,1979,
 5005906,"Sanjay, Gopalan",IND,M,,,,1680,0,40,MAR26,1996,i
@@ -27539,7 +27539,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25089404,Sardana Aanandi,IND,F,,,,1619,0,20,MAR26,2000,wi
 48720186,Sardar Balraj Singh,IND,M,,,,1479,0,40,MAR26,2005,
 46672001,Sardar Surendra,IND,M,,,,1413,5,40,MAR26,1945,
-5000599,"Sareen, Vishal",IND,M,IM,FST,,2245,0,10,MAR26,1973,
+5000599,"Sareen, Vishal",IND,M,IM,,,2245,0,10,MAR26,1973,
 25658921,Saren S,IND,M,,,,1482,0,,MAR26,1960,i
 46662537,Sarfaraz Goodwala,IND,M,,,,1525,0,20,MAR26,1999,i
 429032822,Sarfraz Khan,IND,M,,,,1533,0,40,MAR26,2011,
@@ -27881,7 +27881,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25911104,Satyajit Manikrao Mankar,IND,M,,,,1436,0,40,MAR26,1992,i
 558058931,Satyajit Rath,IND,M,,,,1481,0,40,MAR26,2004,
 25039342,Satyajit Sarkar,IND,M,,,,1703,0,20,MAR26,1986,
-5006910,"Satyakam, Swayangsu",IND,M,,"NI,SI",,2071,0,20,MAR26,1978,i
+5006910,"Satyakam, Swayangsu",IND,M,,SI,,2071,0,20,MAR26,1978,i
 25933930,Satyaki Dutta,IND,M,,,,1408,0,40,MAR26,2007,i
 25948652,Satyaki G Gokul,IND,M,,,,1560,0,40,MAR26,2012,i
 48766666,Satyaki Kumar Ghosh,IND,M,,,,1414,0,40,MAR26,2014,i
@@ -27897,8 +27897,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48787256,Satyam Singh,IND,M,,,,1448,0,40,MAR26,2003,i
 25121561,Satyam Singh Sengar,IND,M,,,,1502,0,20,MAR26,1997,i
 33391521,Satyam Vatsa,IND,M,,,,1591,0,40,MAR26,2001,i
-537033417,Satyam Yadav,IND,M,,,,1514,0,40,MAR26,2006,i
 531011225,Satyam Yadav,IND,M,,,,1441,0,40,MAR26,2006,i
+537033417,Satyam Yadav,IND,M,,,,1514,0,40,MAR26,2006,i
 88139190,Satyamkumar Santosh Singh,IND,M,,,,1447,0,40,MAR26,2013,
 25683764,Satyanarayana Ch V V,IND,M,,,,1457,0,40,MAR26,1982,
 25640097,Satyanarayana D A N,IND,M,,,,1410,0,40,MAR26,1992,i
@@ -27908,7 +27908,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25079492,Satyanarayana Raju D S,IND,M,,,,1644,0,20,MAR26,1960,i
 5012996,"Satyanarayana, P.",IND,M,,,,1952,0,20,MAR26,1977,i
 35036947,Satyanarayna Murthy PVV,IND,M,,,,1515,3,,MAR26,1962,
-5004306,"Satyapragyan, Swayangsu",IND,M,IM,FT,,2348,0,10,MAR26,1982,i
+5004306,"Satyapragyan, Swayangsu",IND,M,IM,,,2348,0,10,MAR26,1982,i
 537042343,Satyapratap Ahirwar,IND,M,,,,1516,6,40,MAR26,2001,
 537025422,Satyarth Sharma,IND,M,,,,1577,0,40,MAR26,2018,
 48731048,Satyasavit,IND,M,,,,1615,0,40,MAR26,2013,i
@@ -27918,7 +27918,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5059356,"Saughanthika, AS",IND,F,,,,1781,0,20,MAR26,1999,wi
 558013202,Sauhardya Ray,IND,M,,,,1725,0,40,MAR26,2000,
 45092222,Saukhya Savant,IND,F,,,,1425,0,40,MAR26,2006,wi
-35016849,Saumil Nair,IND,M,,NI,,1847,0,20,MAR26,1999,
+35016849,Saumil Nair,IND,M,,,,1847,0,20,MAR26,1999,
 537002252,Saumitra Joshi,IND,M,,,,1653,0,40,MAR26,2006,i
 531058000,Saumya Aggarwal,IND,M,,,,1539,0,40,MAR26,2010,
 25651870,Saumya Agrawal,IND,F,,,,1416,0,40,MAR26,2008,wi
@@ -28106,7 +28106,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48745324,Sejal Mahesh,IND,F,,,,1509,0,40,MAR26,2012,w
 33480427,Sejpal Kavyan,IND,M,,,,1614,0,40,MAR26,2010,i
 45018758,Sekar A Muthusamy,IND,M,,,,1588,0,20,MAR26,1950,i
-5043743,"Sekar, B",IND,M,FM,"FI,FT",,2102,0,20,MAR26,1991,i
+5043743,"Sekar, B",IND,M,FM,FT,,2102,0,20,MAR26,1991,i
 5063981,"Sekar, S.",IND,M,,,,1593,0,20,MAR26,1962,i
 429075661,Sekaran N,IND,M,,,,1406,0,40,MAR26,1978,i
 25000730,Sekhamo. K,IND,M,,,,1489,0,40,MAR26,1957,
@@ -28264,7 +28264,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 46611029,Shah Krish G,IND,M,,,,1648,0,40,MAR26,2006,i
 25692640,Shah Krish J,IND,M,,,,1499,0,40,MAR26,2006,
 88146901,Shah Krishil,IND,M,,,,1410,4,40,MAR26,2009,
-33450676,Shah Krishna Pragneshkumar,IND,M,,"DI,IA",,1852,5,40,MAR26,2001,
+33450676,Shah Krishna Pragneshkumar,IND,M,,IA,,1852,5,40,MAR26,2001,
 46616403,Shah Kritee,IND,F,,,,1648,0,40,MAR26,2006,wi
 48795240,Shah Maher,IND,F,,,,1433,4,40,MAR26,2012,w
 547044039,Shah Manan Dharmeshkumar,IND,M,,,,1598,6,,MAR26,2005,
@@ -28342,7 +28342,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 564073521,"Shahane, Shubham Santosh",IND,M,,,,1455,6,40,MAR26,1997,
 25635069,Shahapure Abhishek,IND,M,,,,1579,0,20,MAR26,1999,i
 547066156,Shahid Ansari,IND,M,,,,1669,5,40,MAR26,2000,
-25191055,Shahid Husain,IND,M,,"NI,FA",,1758,0,40,MAR26,1999,
+25191055,Shahid Husain,IND,M,,FA,,1758,0,40,MAR26,1999,
 531029426,Shahid Noor,IND,M,,,,1710,0,40,MAR26,1992,
 5017378,"Shahid, Ahmed S.K.",IND,M,,,,1872,0,,MAR26,1989,i
 5002087,"Shahid, Azmat",IND,M,,,,1934,0,20,MAR26,1962,
@@ -28561,8 +28561,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 429084180,Sharat Kamat,IND,M,,,,1461,0,40,MAR26,1995,i
 48740756,Sharat Yadav,IND,M,,,,1408,0,20,MAR26,1994,i
 25052497,Sharath,IND,M,,,,1660,0,20,MAR26,1990,i
-564018113,Sharath A,IND,M,,,,1604,0,40,MAR26,2007,
 564021319,Sharath A,IND,M,,,,1751,0,40,MAR26,1990,
+564018113,Sharath A,IND,M,,,,1604,0,40,MAR26,2007,
 48726362,Sharath Chandan S,IND,M,,,,1506,0,20,MAR26,2001,i
 25723065,Sharath Kumar D T,IND,M,,,,1534,0,20,MAR26,1991,i
 25629123,Sharath Kumar H K,IND,M,,,,1541,5,,MAR26,2000,
@@ -28775,8 +28775,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33418730,Shashwat Sarawagi,IND,M,,,,1449,0,40,MAR26,2007,i
 25117840,Shashwat Singh,IND,M,,,,1476,0,,MAR26,2010,i
 33397570,Shashwat Singh,IND,M,,,,1527,6,40,MAR26,2013,
-33331430,Shashwat Singh,IND,M,,,,1481,0,40,MAR26,1998,i
 558003266,Shashwat Singh,IND,M,,,,1407,0,40,MAR26,2007,
+33331430,Shashwat Singh,IND,M,,,,1481,0,40,MAR26,1998,i
 88142604,Shashwat T S,IND,M,,,,1402,0,,MAR26,2009,
 33383243,Shashwath Arun Upadhyaya,IND,M,,,,1512,0,40,MAR26,2005,i
 531038310,Shashwath Nayak,IND,M,,,,1424,0,40,MAR26,2015,
@@ -29432,7 +29432,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25798723,Shreeka S Hegde,IND,F,,,,1447,0,40,MAR26,2007,wi
 537093355,Shreekant Ghude,IND,M,,,,1496,0,40,MAR26,1990,
 531038344,Shreekanth A P,IND,M,,,,1476,0,40,MAR26,2000,
-45080178,Shreekanth N,IND,M,,NI,,1511,0,20,MAR26,1990,i
+45080178,Shreekanth N,IND,M,,,,1511,0,20,MAR26,1990,i
 33494509,Shreekantha P,IND,M,,,,1517,6,40,MAR26,1986,
 531045391,Shreemannarayana Shashidhar,IND,M,,,,1411,0,40,MAR26,2013,i
 48722782,Shreenath L,IND,M,,,,1412,0,40,MAR26,2015,
@@ -29534,10 +29534,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25172255,Shreyansh Alsisaria,IND,M,,,,1504,0,,MAR26,2010,i
 45015422,Shreyansh Bansal,IND,M,,,,1404,0,40,MAR26,2009,i
 33478015,Shreyansh Chandan Tekade,IND,M,,,,1493,0,40,MAR26,2009,i
-5029139,Shreyansh Daklia,IND,M,,"FI,FI",,2193,0,20,MAR26,1991,
+5029139,Shreyansh Daklia,IND,M,,FI,,2193,0,20,MAR26,1991,
 429041724,Shreyansh Das,IND,M,,,,1912,0,40,MAR26,2017,
-88175073,Shreyansh Jain,IND,M,,,,1570,0,40,MAR26,1997,i
 33345635,Shreyansh Jain,IND,M,,,,1569,7,40,MAR26,2012,
+88175073,Shreyansh Jain,IND,M,,,,1570,0,40,MAR26,1997,i
 48711810,Shreyansh Jain (Punjab),IND,M,,,,1598,7,40,MAR26,2012,
 429086647,Shreyansh Kumar,IND,M,,,,1558,0,40,MAR26,2013,
 33399433,Shreyansh Kumar Dwivedi,IND,M,,,,1413,0,40,MAR26,2010,i
@@ -29702,7 +29702,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48716030,Shripad Vijay Bhake,IND,M,,,,1401,0,40,MAR26,2014,
 5075033,"Shripad,K V",IND,M,,IA,,1865,0,20,MAR26,1981,i
 25953176,Shriraj S,IND,M,,,,1469,0,20,MAR26,2004,i
-45044538,Shriram,IND,M,,NI,,1687,0,20,MAR26,2001,
+45044538,Shriram,IND,M,,,,1687,0,20,MAR26,2001,
 547003650,Shriram Balbhim Jadhav,IND,M,,,,1587,0,40,MAR26,2007,
 429005353,Shriram C Hegde,IND,M,,,,1491,9,20,MAR26,2000,
 33468435,Shriram G S,IND,M,,,,1444,0,40,MAR26,2013,i
@@ -29891,7 +29891,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33310319,Shuvayu Datta,IND,M,,,,1547,0,40,MAR26,2013,
 25771710,Shuyvan Dey,IND,M,,,,1438,0,40,MAR26,2008,i
 531058108,Shwaant Sharma,IND,M,,,,1484,0,,MAR26,2011,
-35044877,Shweta Goswami,IND,F,,DI,,1418,0,40,MAR26,1979,wi
+35044877,Shweta Goswami,IND,F,,,,1418,0,40,MAR26,1979,wi
 46643192,Shweta Kamalaksh Sahakari,IND,F,,,,1471,0,40,MAR26,2005,wi
 25016920,Shweta Priyadarshini,IND,F,,,,1764,0,20,MAR26,1999,wi
 35059122,Shweta Sumant Koyande,IND,F,,,,1512,0,20,MAR26,1998,wi
@@ -30073,7 +30073,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48765465,Siddhartha Nanda,IND,M,,,,1566,0,,MAR26,1998,i
 537081586,Siddhartha Parkipandla,IND,M,,,,1463,0,40,MAR26,2012,
 25923846,Siddhartha Sarkar,IND,M,,,,1597,0,40,MAR26,2006,i
-25780590,Siddhartha Shankar Srivastava,IND,M,,DI,,1469,4,20,MAR26,1977,
+25780590,Siddhartha Shankar Srivastava,IND,M,,,,1469,4,20,MAR26,1977,
 25769707,Siddharthan Anandan,IND,M,,,,1669,0,20,MAR26,2004,
 25771388,Siddhes Das,IND,M,,,,1473,0,40,MAR26,2004,i
 531019285,Siddhesh Annasaheb Gorane,IND,M,,,,1418,0,40,MAR26,2008,i
@@ -30183,7 +30183,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531024440,Singh Anarva,IND,M,,,,1511,0,40,MAR26,2009,
 25661876,Singh Ankit,IND,M,,,,1738,0,20,MAR26,1995,i
 46691235,Singh Ankit Kumar,IND,M,,,,1586,0,20,MAR26,1994,i
-25774271,Singh Anshu,IND,M,,"DI,NA",,1696,0,,MAR26,2004,
+25774271,Singh Anshu,IND,M,,NA,,1696,0,,MAR26,2004,
 25959174,Singh Arnav,IND,M,,,,1486,0,40,MAR26,2008,i
 537044982,Singh Aryan,IND,M,,,,1419,0,40,MAR26,2014,
 5038324,Singh Bhogen R K,IND,M,,,,1921,0,20,MAR26,1969,
@@ -30257,7 +30257,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5001455,"Singh, P K",IND,M,,,,1950,0,20,MAR26,1964,
 5001218,"Singh, Pritam",IND,M,,,,1944,0,20,MAR26,1973,i
 564033546,"Singh, Rajiv",IND,M,,,,1561,0,40,MAR26,2006,
-5004284,"Singh, Rishpal S",IND,M,FM,"FT,FT",,2075,0,20,MAR26,1982,i
+5004284,"Singh, Rishpal S",IND,M,FM,FT,,2075,0,20,MAR26,1982,i
 564031373,"Singh, Rohan",IND,M,,,,1545,0,40,MAR26,2011,
 5006090,"Singh, S. Vikramjit",IND,M,,,,2188,0,20,MAR26,1982,
 25001574,"Singh, Soram Rahul",IND,M,,,,1970,0,20,MAR26,1986,
@@ -30672,7 +30672,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 564062562,"Soni, Yashvi Narayan",IND,F,,,,1522,1,40,MAR26,2013,w
 25113070,Sonia Singhania,IND,F,,NA,,1433,4,40,MAR26,1986,w
 25064339,Sonigra Romil,IND,M,,,,1611,0,20,MAR26,1997,i
-35058320,Sonkalan Bharati,IND,M,,NI,,1965,0,20,MAR26,2000,i
+35058320,Sonkalan Bharati,IND,M,,,,1965,0,20,MAR26,2000,i
 25087657,Sonkamble Bharat,IND,M,,,,1773,0,20,MAR26,1981,i
 48770655,Sonkar Shaurya,IND,M,,,,1468,0,40,MAR26,2011,i
 48769614,Sonkar Tapasya,IND,F,,,,1412,0,40,MAR26,2009,wi
@@ -30749,7 +30749,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 88167410,Soumya Lakshmi P,IND,F,,,,1403,0,40,MAR26,2009,wi
 5025460,"Soumya, Banerjee",IND,M,,,,1913,0,20,MAR26,1985,i
 5066417,"Soumya, Ranjan Das",IND,M,,,,1793,0,20,MAR26,1995,i
-5016193,"Soumya, Swaminathan",IND,F,IM,WGM,FT,2111,0,20,MAR26,1989,wi
+5016193,"Soumya, Swaminathan",IND,F,IM,WGM,,2111,0,20,MAR26,1989,wi
 25164872,Soumyadeep Dey,IND,M,,,,1449,0,40,MAR26,2011,
 45066965,Soumyadeep Maity,IND,M,,,,1672,0,20,MAR26,1998,i
 35026836,Soumyadeep Majumder,IND,M,,,,1542,0,20,MAR26,2001,i
@@ -31175,7 +31175,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 537045466,Srinith G,IND,M,,,,1428,0,40,MAR26,2015,
 33494525,Srinith Shet,IND,M,,,,1580,5,40,MAR26,2017,
 25912992,Srinithi S,IND,F,,,,1593,6,40,MAR26,2011,w
-35096419,Srinivas Ch,IND,M,,"DI,FA",,1751,0,,MAR26,1983,i
+35096419,Srinivas Ch,IND,M,,FA,,1751,0,,MAR26,1983,i
 45007675,Srinivas Ganesan,IND,M,,,,1569,0,20,MAR26,2001,i
 25748610,Srinivas Gopal Reddy K,IND,M,,,,1642,0,40,MAR26,2006,
 45058261,Srinivas Kamisetty,IND,M,,,,1476,0,20,MAR26,1996,
@@ -31377,7 +31377,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48763136,Subash Chandra Bose G,IND,M,,,,1427,0,20,MAR26,1984,i
 48745944,Subash Raj M,IND,M,,,,1624,0,40,MAR26,2006,
 558056009,Subash S,IND,M,,,,1409,0,40,MAR26,2000,
-5099285,Subash Sanker D M,IND,M,,"NI,NA",,1670,0,20,MAR26,1997,
+5099285,Subash Sanker D M,IND,M,,NA,,1670,0,20,MAR26,1997,
 46648178,Subashree Ranganathan,IND,F,,,,1513,0,40,MAR26,2006,wi
 547038128,Subasri S,IND,F,,,,1447,0,40,MAR26,2016,w
 46653899,Subba Rao P Venkata,IND,M,,,,1608,6,40,MAR26,1976,
@@ -31705,7 +31705,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 88193225,Sule Sarang,IND,M,,,,1527,0,40,MAR26,2007,
 531023789,Sulebhavi Minal,IND,F,,,,1527,0,40,MAR26,2009,w
 45061033,Sulekh Kumar Malik,IND,M,,NA,,1516,0,20,MAR26,1971,i
-25732269,Sulekha Das,IND,F,,"NI,FA",,1496,1,20,MAR26,1981,w
+25732269,Sulekha Das,IND,F,,FA,,1496,1,20,MAR26,1981,w
 88175448,Suleman Ansari,IND,M,,,,1712,0,40,MAR26,1963,
 46650628,Sulfikar Ali Bhooto,IND,M,,,,1696,0,20,MAR26,1969,i
 88192075,Sultania Parth,IND,M,,,,1438,0,,MAR26,2014,
@@ -32028,7 +32028,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48729710,Suryaansh Bansal,IND,M,,,,1555,0,40,MAR26,2013,i
 25743198,Suryadev M,IND,M,,,,1548,0,40,MAR26,2008,i
 88150780,Suryakumar H,IND,M,,,,1510,0,40,MAR26,2014,
-5098130,Suryakumar S A,IND,M,,"NI,NA",,1668,0,20,MAR26,1997,i
+5098130,Suryakumar S A,IND,M,,NA,,1668,0,20,MAR26,1997,i
 531017568,Suryanaarayan D K,IND,M,,,,1518,0,40,MAR26,1995,i
 25773062,Suryananda M D,IND,M,,NA,,1475,0,40,MAR26,2005,i
 45058296,Suryanaraya Swamy Mopuri,IND,M,,,,1644,0,20,MAR26,1969,i
@@ -32291,7 +32291,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 547052724,Swayam Swaroop Sahoo,IND,M,,,,1456,0,40,MAR26,2015,
 88187608,Swayam Tejas Joshi,IND,M,,,,1480,2,40,MAR26,2013,
 558057480,Swayam Vikas Ligade,IND,M,,,,1479,0,40,MAR26,2017,
-5028183,"Swayams, Mishra",IND,M,GM,FT,,2435,0,10,MAR26,1992,
+5028183,"Swayams, Mishra",IND,M,GM,,,2435,0,10,MAR26,1992,
 25611402,Swayham P Das,IND,M,CM,,,2037,9,40,MAR26,2008,
 531049591,Sweekar M P,IND,M,,,,1609,8,40,MAR26,2013,
 88128776,Sweena Raut,IND,F,,,,1466,0,40,MAR26,2016,wi
@@ -32339,7 +32339,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 48763160,Syed Shabib Ahamed,IND,M,,,,1459,0,20,MAR26,2004,i
 88163784,Syed Shafeez,IND,M,,,,1447,0,,MAR26,2009,
 558012060,Syed Zainulabideen,IND,M,,,,1456,0,40,MAR26,2018,
-5054150,"Syed, Rehman Nazeer",IND,M,,FI,,1866,0,,MAR26,1990,i
+5054150,"Syed, Rehman Nazeer",IND,M,,,,1866,0,,MAR26,1990,i
 33386285,T S S Sameer Hussain,IND,M,,,,1433,0,20,MAR26,1988,i
 564077691,T Thamizhiniyan,IND,M,,,,1569,9,40,MAR26,2020,
 374097717,"T, Shreesh",IND,M,,,,1466,0,,MAR26,2012,
@@ -32814,7 +32814,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 46687300,Telang Sanika,IND,F,,,,1465,0,40,MAR26,2005,wi
 25969714,Telang Shrikant,IND,M,,,,1600,0,20,MAR26,1976,i
 35079328,Telang Yashwant,IND,M,,,,1626,0,20,MAR26,2001,i
-5004543,"Teli, Rajendra",IND,M,,FI,,1991,0,20,MAR26,1965,i
+5004543,"Teli, Rajendra",IND,M,,,,1991,0,20,MAR26,1965,i
 88116107,Telkar Siddhant Dilip,IND,M,,,,1513,0,40,MAR26,2005,i
 429044022,Tembe Aayansh,IND,M,,,,1428,0,40,MAR26,2013,
 25682105,Tembhurne Smit,IND,M,,,,1426,0,20,MAR26,1990,i
@@ -32918,7 +32918,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 88116840,Thanish Senthil Kumaran,IND,M,,,,1445,0,40,MAR26,2010,i
 88191230,Thanishka H,IND,F,,,,1464,6,40,MAR26,2017,w
 25732781,Thaniya Shree C,IND,F,,,,1507,6,40,MAR26,2011,w
-5024927,"Thanki, Hemal Karsanji",IND,M,,"FI,FT",,2083,0,20,MAR26,1985,i
+5024927,"Thanki, Hemal Karsanji",IND,M,,FI,,2083,0,20,MAR26,1985,i
 45089108,Thanmay S Bhat,IND,M,,,,1525,0,40,MAR26,2006,i
 558098410,Thanmaya Jaisanker,IND,F,,,,1545,0,40,MAR26,2012,w
 429072018,Thanmaya R,IND,F,,,,1416,0,40,MAR26,2015,w
@@ -32996,7 +32996,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33352631,Thejasy Sreenivas,IND,F,,,,1437,0,40,MAR26,2013,wi
 547026561,Thejavi Chusi,IND,M,,,,1406,0,40,MAR26,2007,
 33329125,Thejesh G,IND,M,,,,1520,0,40,MAR26,2010,i
-5009154,"Thejkumar, M. S.",IND,M,GM,FT,,2242,0,10,MAR26,1981,i
+5009154,"Thejkumar, M. S.",IND,M,GM,,,2242,0,10,MAR26,1981,i
 25657194,Theju K V,IND,M,,,,1731,0,20,MAR26,2003,i
 46657134,Thejus M A,IND,M,,,,1478,0,,MAR26,1980,i
 88114325,Theksanaa S,IND,F,,,,1621,0,40,MAR26,2010,w
@@ -33128,7 +33128,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25667025,Tikotkar Raghav,IND,M,,,,1434,0,20,MAR26,2002,i
 429066506,Tikshan Kommuri,IND,M,,,,1455,0,40,MAR26,2016,
 45064989,Tilak Aditya,IND,M,,,,1555,6,20,MAR26,2004,
-5000165,"Tilak, Sharad S",IND,M,IM,FT,,2097,0,20,MAR26,1962,
+5000165,"Tilak, Sharad S",IND,M,IM,,,2097,0,20,MAR26,1962,
 33330786,Tilekar Mansi,IND,F,,,,1564,7,20,MAR26,2007,w
 25657836,Tillu Saurabh,IND,M,,,,1560,0,20,MAR26,2003,
 33364788,Tilok Chandra Bora,IND,M,,,,1433,0,40,MAR26,1961,i
@@ -33257,7 +33257,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 531076106,Trivedi Dhwanit Darshan,IND,M,,,,1551,5,40,MAR26,2011,
 25670565,Trivedi Gaurav V,IND,M,,,,1803,8,20,MAR26,1987,
 531076319,Trivedi Harsh Bhaveshkumar,IND,M,,,,1464,0,40,MAR26,2014,
-35000187,Trivedi Karan R,IND,M,,NI,,1930,0,20,MAR26,1997,i
+35000187,Trivedi Karan R,IND,M,,,,1930,0,20,MAR26,1997,i
 35092707,Trivedi Manisha,IND,M,,,,1426,0,40,MAR26,1966,
 35000195,Trivedi Rushang,IND,M,,,,1869,0,20,MAR26,1985,i
 25658778,Trivedi Vishal,IND,M,,,,1402,0,20,MAR26,1995,i
@@ -33286,7 +33286,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5063019,"Tulsi, M",IND,F,,,,1803,0,20,MAR26,2000,wi
 25071653,Tungar Prasanna,IND,F,,,,1720,0,20,MAR26,1999,wi
 537080911,Tungikar Sarang,IND,M,,,,1502,0,40,MAR26,1995,i
-45035431,Tupe Ashirwad,IND,M,,DI,,1521,6,20,MAR26,1994,
+45035431,Tupe Ashirwad,IND,M,,,,1521,6,20,MAR26,1994,
 25167200,Tupe Pragati,IND,F,,,,1473,0,40,MAR26,1997,w
 48704989,Tupsangve Swaroop,IND,M,,,,1512,0,40,MAR26,2010,i
 25720554,Turaka Pardiv Prakash,IND,M,,,,1535,0,20,MAR26,1995,i
@@ -33444,7 +33444,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 429012759,Uma Eswari Meenakshinathan,IND,F,,,,1725,5,40,MAR26,2011,w
 25669818,Uma Harsha P,IND,M,,,,1539,0,20,MAR26,1999,i
 25068679,Uma Maheswara Rao K,IND,M,,,,1548,0,20,MAR26,1978,i
-5075050,"Uma Maheswaran, P",IND,M,,"NI,FI,IA",,1912,0,20,MAR26,1993,i
+5075050,"Uma Maheswaran, P",IND,M,,"FI,IA",,1912,0,20,MAR26,1993,i
 33388644,Uma Siva Surya Chintapalli,IND,M,,,,1493,0,40,MAR26,2008,i
 35014978,Umakant Vijay Zanje,IND,M,,,,1762,0,20,MAR26,1978,i
 25714414,Umang Dev,IND,M,,,,1488,0,40,MAR26,2007,
@@ -34693,7 +34693,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 35054333,Vijaya Prathap,IND,M,,,,1537,0,20,MAR26,1996,
 35024671,Vijaya Raman S,IND,M,,,,1509,5,20,MAR26,1984,
 45078955,Vijaya Siva B,IND,M,,,,1470,0,40,MAR26,2006,i
-5026725,"Vijaya, Bhaskar B.",IND,M,,FI,,1677,8,40,MAR26,1971,
+5026725,"Vijaya, Bhaskar B.",IND,M,,,,1677,8,40,MAR26,1971,
 5015421,"Vijaya, Kumar A.V.S.",IND,M,,,,1825,0,20,MAR26,1977,
 35019210,Vijayakumar E,IND,M,,,,1457,0,20,MAR26,1981,
 25788450,Vijayakumar J,IND,M,,,,1557,0,20,MAR26,1989,i
@@ -34703,7 +34703,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 35029746,Vijayakumar S,IND,M,,,,1477,0,20,MAR26,1974,i
 25610805,Vijayakumar V Nambiar,IND,M,,,,1498,0,20,MAR26,1967,i
 366105378,"Vijayakumar, Vidvath Bharadwaj",IND,M,,,,1467,0,40,MAR26,2014,i
-5065577,Vijayakumar.N.,IND,M,,DI,,1765,0,20,MAR26,1983,i
+5065577,Vijayakumar.N.,IND,M,,,,1765,0,20,MAR26,1983,i
 5004098,"Vijayalakshmi, Subbaraman",IND,F,IM,WGM,,2262,0,20,MAR26,1979,wi
 48737399,Vijayamurugan N G,IND,M,,,,1511,0,40,MAR26,2009,i
 45099928,Vijayan B Y,IND,M,,,,1465,0,40,MAR26,2005,i
@@ -34715,7 +34715,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5025630,"Vijayaraj, R.",IND,M,,,,1773,0,20,MAR26,1986,i
 45075182,Vijayasubhasri S,IND,F,,,,1766,0,20,MAR26,2005,wi
 5013208,Vijayeendra Y G,IND,M,,,,2108,0,20,MAR26,1982,i
-46662960,Vijaykumar R P,IND,M,,"NI,NA",,1588,0,20,MAR26,1995,i
+46662960,Vijaykumar R P,IND,M,,NA,,1588,0,20,MAR26,1995,i
 45030790,Vijendra Kumar,IND,M,,,,1608,0,20,MAR26,1998,
 25105175,Vijesh L,IND,M,,,,1480,0,40,MAR26,2008,i
 48791601,Vijhai Nandhan S,IND,M,,,,1513,0,40,MAR26,2008,i
@@ -34773,7 +34773,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 45034826,Vikram K,IND,M,,,,1716,0,20,MAR26,1993,
 429055113,Vikram K Rao,IND,M,,,,1434,0,40,MAR26,2016,
 35019430,Vikram L,IND,M,,,,1750,0,20,MAR26,1987,i
-46652671,Vikram Mishra,IND,M,,NI,,1604,0,,MAR26,1989,i
+46652671,Vikram Mishra,IND,M,,,,1604,0,,MAR26,1989,i
 46610642,Vikram Nadig,IND,M,,,,1564,0,20,MAR26,2002,i
 45074933,Vikram Natraj S,IND,M,,,,1557,0,20,MAR26,2003,i
 537097245,Vikram R,IND,M,,,,1529,0,40,MAR26,1992,i
@@ -35042,7 +35042,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25779230,Vishal Pabari,IND,M,,,,1639,0,20,MAR26,2001,i
 537068121,Vishal Panchaal,IND,M,,,,1450,0,40,MAR26,1992,
 25082493,Vishal R V,IND,M,,,,1707,0,20,MAR26,2004,i
-25991027,Vishal Rajesh Shah,IND,M,,"DI,NA",,1423,0,,MAR26,1996,
+25991027,Vishal Rajesh Shah,IND,M,,NA,,1423,0,,MAR26,1996,
 547019379,Vishal Rathia,IND,M,,,,1447,0,40,MAR26,2011,
 429054079,Vishal Redkar,IND,M,,,,1457,0,40,MAR26,2003,
 25727010,Vishal S,IND,M,,,,1435,0,40,MAR26,2006,i
@@ -35265,7 +35265,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25724223,Viswesh S J,IND,M,,,,1462,0,40,MAR26,2009,i
 537001370,Viswesh Thiagarajan,IND,M,,,,1526,0,,MAR26,1994,
 5083893,Visweshwaran R,IND,M,,,,1611,0,20,MAR26,1994,i
-5005353,"Visweswaran, K.",IND,M,FM,FT,,2065,0,20,MAR26,1974,i
+5005353,"Visweswaran, K.",IND,M,FM,,,2065,0,20,MAR26,1974,i
 33484279,Vitasta Koul,IND,F,,,,1597,0,40,MAR26,2012,w
 33363846,Vithula Prasath,IND,F,,,,1422,0,40,MAR26,2008,wi
 88138615,Vittal Narayanan,IND,M,,,,1553,0,40,MAR26,2016,
@@ -35386,7 +35386,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 429026164,Viveka S,IND,F,,,,1482,0,40,MAR26,2015,wi
 35040901,Vivekanand S,IND,M,,,,1547,0,,MAR26,2000,i
 25734326,Vivekanand Yadav,IND,M,,,,1750,0,,MAR26,1979,
-5054664,"Vivekananda, L",IND,M,,NI,,1892,0,,MAR26,1994,
+5054664,"Vivekananda, L",IND,M,,,,1892,0,,MAR26,1994,
 366127642,"Vivekanandan, Rishi",IND,M,,,,1525,0,40,MAR26,2009,i
 5006309,"Vivekanathan, M",IND,M,,NI,,1756,0,,MAR26,1998,i
 531046312,Vivekasai P M,IND,F,,,,1565,0,,MAR26,2013,w
@@ -35673,8 +35673,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 33398135,Yash Hole,IND,M,,,,1458,0,40,MAR26,2007,i
 25044206,Yash Ingolikar,IND,M,,,,1705,0,20,MAR26,2002,i
 558034331,Yash Jadhwani,IND,M,,,,1527,0,40,MAR26,2006,
-48705020,Yash Jain,IND,M,,,,1624,0,20,MAR26,1998,i
 33418390,Yash Jain,IND,M,,,,1482,0,40,MAR26,2014,
+48705020,Yash Jain,IND,M,,,,1624,0,20,MAR26,1998,i
 46680810,Yash Joshi,IND,M,,,,1627,0,20,MAR26,2002,i
 25902172,Yash Joshi,IND,M,,,,1478,0,40,MAR26,2006,
 35027263,Yash Jyoti Bir,IND,F,WFM,WFM,,1962,0,20,MAR26,2006,w
@@ -35987,8 +35987,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 558098518,Yuvaraaghav,IND,M,,,,1430,0,40,MAR26,2015,
 25197304,Yuvaraj,IND,M,,,,1441,0,40,MAR26,2009,
 46669868,Yuvaraj A,IND,M,,,,1453,0,40,MAR26,1999,i
-48731447,Yuvaraj K,IND,M,,,,1566,6,20,MAR26,1991,
 35075780,Yuvaraj K,IND,M,,,,1412,0,20,MAR26,1999,i
+48731447,Yuvaraj K,IND,M,,,,1566,6,20,MAR26,1991,
 88179842,Yuvaraj Karwa V,IND,M,,,,1422,0,40,MAR26,2008,i
 531036961,Yuvaraj Mallikarjun Gadag,IND,M,,,,1499,0,40,MAR26,2001,i
 25162284,Yuvaraj Narahari Danane,IND,M,,,,1565,0,40,MAR26,1974,

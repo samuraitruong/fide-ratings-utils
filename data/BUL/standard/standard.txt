@@ -78,7 +78,7 @@ ID Number      Name                                                         Fed 
 2939843        Antonov, Vasil                                               BUL M                                1449  0   40 2014  i   
 2900327        Antonov, Vladimir                                            BUL M   IM                           2075  0   10 1949  i   
 2906775        Antov, Anton                                                 BUL M                                1996  0   20 1951  i   
-2915235        Antova, Gabriela                                             BUL F   FM   WGM  FI                 2168  0   20 2002  w   
+2915235        Antova, Gabriela                                             BUL F   FM   WGM                     2168  0   20 2002  w   
 2923874        Apostolov, Teodor                                            BUL M                                1875  0   20 1974      
 2950880        Apostolov, Valentin                                          BUL M                                1641  0   20 1994  i   
 2921847        Apulcheva, Kristina                                          BUL F                                1516  0   40 2005  wi  
@@ -287,7 +287,7 @@ ID Number      Name                                                         Fed 
 2903563        Chaushev, Gosho                                              BUL M                                1790  0   40 1963  i   
 2959267        Chaushev, Martin S                                           BUL M                                1499  0   40 1997  i   
 2911400        Chepandov, Georgi                                            BUL M                                1794  0   40 1946  i   
-2905540        Cheparinov, Ivan                                             BUL M   GM        FST                2627  0   10 1986      
+2905540        Cheparinov, Ivan                                             BUL M   GM                           2627  0   10 1986      
 2905426        Cheparinov, Nedelcho                                         BUL M             NA                 2123  0   20 1958  i   
 2908131        Chervenkov, Dinko                                            BUL M                                1841  0   20 1931  i   
 2919397        Chervenrakov, Krum                                           BUL M                                1873  0   40 1968  i   
@@ -1388,7 +1388,7 @@ ID Number      Name                                                         Fed 
 2900580        Mitev, Georgi                                                BUL M                                2298  0   20 1961  i   
 2928230        Mitev, Hristo K.                                             BUL M                                1748  0   40 1946  i   
 2903474        Mitev, Kamen                                                 BUL M                                1758  0   20 1968  i   
-2913348        Mitev, Miroslav                                              BUL M             FI,IA              1878  0   20 1990  i   
+2913348        Mitev, Miroslav                                              BUL M             IA                 1878  0   20 1990  i   
 2929287        Mitev, Mitko                                                 BUL M                                1837  0   20 1965  i   
 2940418        Mitev, Plamen                                                BUL M                                1944  0   40 1961  i   
 2921707        Mitev, Valentin                                              BUL M   FM                           2302  9   20 2004      
@@ -1528,7 +1528,7 @@ ID Number      Name                                                         Fed 
 2924277        Nikolova, Angelika                                           BUL F                                1564  0   20 2007  wi  
 2900807        Nikov, Nikolai                                               BUL M                                2305  0   20 1963  i   
 2903962        Ninchev, Daniel                                              BUL M                                1932  0   20 1996  i   
-2911060        Ninov, Dayan                                                 BUL M   FM        FT,FA              2240  0   20 1993  i   
+2911060        Ninov, Dayan                                                 BUL M   FM        FA                 2240  0   20 1993  i   
 2900181        Ninov, Kiril                                                 BUL M   IM                           2407  0   10 1968  i   
 2900424        Ninov, Nikolai                                               BUL M   GM                           2324  0   10 1969      
 2905043        Ninov, Nikolay                                               BUL M                                2029  0   40 1982  i   
@@ -1664,7 +1664,7 @@ ID Number      Name                                                         Fed 
 2926180        Petrov, Ivo                                                  BUL M                                1548  0   20 2006  i   
 2968924        Petrov, Kiril                                                BUL M                                1616  0   40 2011      
 2952769        Petrov, Krassimir                                            BUL M                                1707  0   20 1969      
-2901773        Petrov, Marian                                               BUL M   GM        FT                 2428  0   10 1975      
+2901773        Petrov, Marian                                               BUL M   GM                           2428  0   10 1975      
 2911086        Petrov, Martin                                               BUL M   GM        FT                 2543  0   10 2000      
 2937816        Petrov, Momchil                                              BUL M                                1523  0   40 2008  i   
 2918870        Petrov, Nikolay                                              BUL M                                1644  0   40 1957      
@@ -2338,7 +2338,7 @@ ID Number      Name                                                         Fed 
 2952289        Vichev, Ivaylo                                               BUL M                                2003  0   40 2008      
 2906899        Videnov, Ivan                                                BUL M                                2065  0   20 1939  i   
 2931885        Videnov, Zahari                                              BUL M                                1668  0   20 2004  i   
-2907763        Videnova-Kuljasevic, Iva                                     BUL F   IM   WGM  FT                 2261  7   10 1987  w   
+2907763        Videnova-Kuljasevic, Iva                                     BUL F   IM   WGM                     2261  7   10 1987  w   
 2918072        Videv, Georgi                                                BUL M                                1822  0   40 1973  i   
 2904667        Viktorov, Genadi                                             BUL M                                2147  0   40 1957      
 2932482        Vishev, Nikolay                                              BUL M                                1515  6   20 1977      
@@ -2397,7 +2397,7 @@ ID Number      Name                                                         Fed 
 2918927        Yordanov, Lachezar                                           BUL M   FM                           2391  0   20 2001      
 2931109        Yordanov, Mario                                              BUL M                                1601  0   40 2010      
 2928590        Yordanov, Martin                                             BUL M                                1583  0   20 2007      
-2906163        Yordanov, Nikolay                                            BUL M             FT,FT              2030  7   20 1971      
+2906163        Yordanov, Nikolay                                            BUL M             FT                 2030  7   20 1971      
 2907445        Yordanov, Nikolay Plamenov                                   BUL M   FM                           2211  0   20 1986      
 2961040        Yordanov, Radoslav                                           BUL M                                1525  0   40 2013      
 2933292        Yordanov, Rosen                                              BUL M                                1732  0   40 1985  i   

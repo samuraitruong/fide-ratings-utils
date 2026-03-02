@@ -192,7 +192,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5562686,"ben ameur, mahdi",TUN,M,,,,1590,0,20,MAR26,2002,
 5530113,"Ben Ameur, Mohamed Ali",TUN,M,,,,1811,0,20,MAR26,1979,i
 5546540,"Ben Ameur,Ala",TUN,M,,,,1606,0,40,MAR26,2008,
-5502012,"Ben Ammar, Mohamed",TUN,M,CM,FI,,2046,0,20,MAR26,1995,
+5502012,"Ben Ammar, Mohamed",TUN,M,CM,,,2046,0,20,MAR26,1995,
 5552486,"Ben Ammar,Hassen",TUN,M,,,,1792,0,20,MAR26,1999,i
 5538980,"Ben amor, Anas",TUN,M,,,,1563,0,20,MAR26,2006,
 5508509,"Ben Amor, Meriem",TUN,F,WCM,WCM,,1793,19,40,MAR26,2008,w
@@ -875,7 +875,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5531713,"Maatouk, Mohamed Neji",TUN,M,,,,1550,0,20,MAR26,2004,i
 5529298,"Maatouk, Mohamed Yassine",TUN,M,,,,1476,0,20,MAR26,2003,i
 5500672,"Mabrouk, Fathi",TUN,M,,,,1987,0,20,MAR26,1984,i
-5502276,"Mabrouk, Fethi",TUN,M,,"DI,NA",,1607,0,20,MAR26,1957,
+5502276,"Mabrouk, Fethi",TUN,M,,NA,,1607,0,20,MAR26,1957,
 5554365,"Mabrouk, Rahim",TUN,M,,,,1492,0,20,MAR26,2006,
 5562325,"machi, kousai",TUN,M,,,,1543,0,20,MAR26,2007,
 5511135,"Madani, Mohamed Salah",TUN,M,,,,1860,0,20,MAR26,1974,i
@@ -926,7 +926,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5510767,"Mdaini,Mohamed Aziz",TUN,M,,,,1498,0,20,MAR26,2004,i
 5508312,"Mdimegh, Mohamed",TUN,M,,,,1650,0,20,MAR26,1993,i
 5562996,"Mechi, Kousay",TUN,M,,,,1613,0,20,MAR26,2007,
-5503000,"Meddeb, Amine",TUN,M,,FI,,1860,0,20,MAR26,1988,i
+5503000,"Meddeb, Amine",TUN,M,,,,1860,0,20,MAR26,1988,i
 5501059,"Meddeb, Anis",TUN,M,FM,,,2020,0,20,MAR26,1978,i
 5501652,"Meddeb, Chadha",TUN,F,WIM,WIM,FA,1743,0,20,MAR26,1993,wi
 5571987,"Medemegh, Mohamed",TUN,M,,,,1520,9,40,MAR26,1972,

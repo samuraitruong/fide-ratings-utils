@@ -18,12 +18,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13222228,"Bae, Jaemin",KOR,M,,,,1500,0,40,MAR26,2015,
 13217437,"Bae, Jinwoo",KOR,M,,,,1695,0,40,MAR26,2009,i
 13216830,"Bae, Joowon",KOR,M,,,,1493,0,40,MAR26,2015,i
-13201298,"Bae, Junggi",KOR,M,,"FI,FI",,1785,0,20,MAR26,1982,i
+13201298,"Bae, Junggi",KOR,M,,FI,,1785,0,20,MAR26,1982,i
 13209272,"Bae, Minseok",KOR,M,,,,1641,0,20,MAR26,1998,i
 13203436,"Bae, Sungwoo",KOR,M,,,,1810,0,20,MAR26,1999,
 13222520,"Baek, Juwhan",KOR,M,,,,1650,0,40,MAR26,2003,i
 13231707,"Baek, Seunghan",KOR,M,,,,1682,0,40,MAR26,1998,i
-13200186,"Baek, Wongi",KOR,M,,FI,,1732,0,20,MAR26,1982,
+13200186,"Baek, Wongi",KOR,M,,,,1732,0,20,MAR26,1982,
 13211846,"Baik, Junyoung",KOR,M,,,,1584,0,20,MAR26,2000,i
 13236830,"Ban, Jiho",KOR,M,,,,1555,0,40,MAR26,2005,
 13226541,"Bang, Saeyul",KOR,M,,,,1601,0,40,MAR26,2009,i
@@ -48,7 +48,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13215124,"Cho, Hayoon",KOR,M,,,,1465,0,40,MAR26,2013,
 13226436,"Cho, Hyunyou",KOR,M,,,,1760,0,40,MAR26,2012,i
 13221884,"Cho, Minjae",KOR,M,,,,1526,0,40,MAR26,2008,i
-13200550,"Cho, Seongho",KOR,M,,NI,,1908,0,20,MAR26,1990,i
+13200550,"Cho, Seongho",KOR,M,,,,1908,0,20,MAR26,1990,i
 13201190,"Cho, Yeonhee",KOR,F,WCM,WCM,"NI,NA",1759,0,20,MAR26,2001,wi
 13208160,"Cho, Yongwoo",KOR,M,,,,1543,0,40,MAR26,2006,i
 13235613,"Cho, Yoon",KOR,M,,,,1442,0,40,MAR26,2013,
@@ -56,7 +56,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13210688,"Choi, Beomseok",KOR,M,,,,1425,0,40,MAR26,2012,i
 13224530,"Choi, Chanuk",KOR,M,,,,1654,0,,MAR26,2009,i
 13228684,"Choi, Doeun",KOR,M,,,,1538,0,40,MAR26,2010,
-13207415,"Choi, Gyungsook",KOR,F,,NI,,1478,0,20,MAR26,1962,wi
+13207415,"Choi, Gyungsook",KOR,F,,,,1478,0,20,MAR26,1962,wi
 13209124,"Choi, Hyomook",KOR,M,,,,1468,0,20,MAR26,1994,i
 13211382,"Choi, Hyunbin",KOR,M,,,,1587,0,20,MAR26,2006,i
 13225634,"Choi, Hyunmin",KOR,M,,,,1653,0,40,MAR26,2006,
@@ -162,7 +162,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13219758,"Jin, Soohyeon",KOR,M,,,,1480,0,40,MAR26,2012,i
 13208314,"Jo, Hajin",KOR,M,,,,1595,0,40,MAR26,2007,i
 13208322,"Jo, Hyeonho",KOR,M,,,,1522,0,20,MAR26,1977,i
-13206311,"Jo, Ukrae",KOR,M,,"NI,NI",,1869,0,20,MAR26,1984,
+13206311,"Jo, Ukrae",KOR,M,,NI,,1869,0,20,MAR26,1984,
 13218344,"Jong, Seungmin",KOR,M,,,,1544,0,20,MAR26,1998,i
 13215205,"Joo, Eram",KOR,M,,,,1603,0,40,MAR26,2012,
 13228625,"Jun, Jinyong",KOR,M,,,,1448,0,40,MAR26,2002,i
@@ -173,7 +173,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13224026,"Jung, Jihoo",KOR,M,,,,1479,0,40,MAR26,2009,i
 13206850,"Jung, Jihoon",KOR,M,,,,1535,0,40,MAR26,2006,i
 13207954,"Jung, Jinuk",KOR,M,,,,1599,0,40,MAR26,2006,
-13206222,"Jung, Jinwoo",KOR,M,,NI,,1780,0,40,MAR26,2006,i
+13206222,"Jung, Jinwoo",KOR,M,,,,1780,0,40,MAR26,2006,i
 13214349,"Jung, Kyumin",KOR,M,,,,1738,0,,MAR26,2011,
 13222104,"Jung, Ona",KOR,M,,,,1494,0,40,MAR26,2012,
 13218662,"Jung, Sanghun",KOR,M,,,,1433,0,40,MAR26,2008,i
@@ -185,7 +185,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13228129,"Ka, Beomseo",KOR,M,,,,1600,0,40,MAR26,1997,i
 13209027,"Kang, Dongyoon",KOR,M,,,,1532,0,40,MAR26,2009,i
 13213288,"Kang, Heelin",KOR,M,,,,1531,0,40,MAR26,1997,i
-13207776,"Kang, Hyunjung",KOR,F,,NI,,1415,0,40,MAR26,1974,w
+13207776,"Kang, Hyunjung",KOR,F,,,,1415,0,40,MAR26,1974,w
 13201980,"Kang, Jiin",KOR,F,,,,1598,0,20,MAR26,2002,wi
 13231723,"Kang, Jiwon",KOR,M,,,,1739,0,40,MAR26,2013,
 13217119,"Kang, Seungji",KOR,M,,,,1577,0,40,MAR26,2009,i
@@ -425,9 +425,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13209841,"Lee, Minkyoung",KOR,F,,,,1455,0,20,MAR26,1995,wi
 13233424,"Lee, Minseong",KOR,M,,,,1784,0,40,MAR26,2009,
 13204173,"Lee, Minsu",KOR,M,,,,1801,0,20,MAR26,1977,i
-13208586,"Lee, Onbin",KOR,M,,"NI,NI",,1602,0,20,MAR26,1998,
+13208586,"Lee, Onbin",KOR,M,,NI,,1602,0,20,MAR26,1998,
 13220373,"Lee, Ruk",KOR,M,,,,1640,0,40,MAR26,2015,
-13200011,"Lee, Sanghoon",KOR,M,FM,NI,,2153,0,20,MAR26,1981,i
+13200011,"Lee, Sanghoon",KOR,M,FM,,,2153,0,20,MAR26,1981,i
 13202979,"Lee, Sangmoon",KOR,M,,,,1768,0,20,MAR26,1991,i
 13231847,"Lee, Seoha",KOR,F,,,,1444,0,40,MAR26,2013,w
 13225480,"Lee, Seohan",KOR,M,,,,1506,0,40,MAR26,2015,
@@ -567,7 +567,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13219049,"Park, Siwoo",KOR,M,,,,1565,0,40,MAR26,2008,i
 13216570,"Park, Sowon",KOR,F,,,,1523,0,40,MAR26,2014,wi
 13203320,"Park, Sunwoo",KOR,F,WFM,WFM,,1826,0,20,MAR26,2003,w
-13203835,"Park, Yerim",KOR,F,,DI,,1449,0,20,MAR26,2004,w
+13203835,"Park, Yerim",KOR,F,,,,1449,0,20,MAR26,2004,w
 13217577,"Perkins, Ashley",KOR,M,,,,1570,0,,MAR26,1990,i
 13209361,"Ra, Dongwoo",KOR,M,,,,1565,0,40,MAR26,2010,i
 4901320,"Rentsen, Erdenetulga",KOR,M,,,,2127,0,20,MAR26,1992,

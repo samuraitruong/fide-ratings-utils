@@ -24,7 +24,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2505762,"Annesley, Gareth",IRL,M,,,,1918,0,20,MAR26,1972,
 2510251,"Antohi, Marius",IRL,M,,,,1815,5,20,MAR26,1982,
 2526468,"Apukhtina, Anastasiia",IRL,F,,,,1486,1,40,MAR26,1999,w
-5206049,"Arellano, Robert",IRL,M,,"NI,NI",,2062,2,,MAR26,1976,
+5206049,"Arellano, Robert",IRL,M,,NI,,2062,2,,MAR26,1976,
 2510340,"Armstrong, Chris",IRL,M,,,,1660,7,20,MAR26,1964,
 2502089,"Armstrong, Fred",IRL,M,,,,1801,7,20,MAR26,1964,
 2511983,"Arshakyan, Arman",IRL,M,,,,1643,0,40,MAR26,2009,
@@ -942,7 +942,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2505819,"Newman, Mark",IRL,M,,"SI,LSI",,1837,1,40,MAR26,1963,
 2535769,"Nguyen, Trung Kien",IRL,M,,,,1779,0,40,MAR26,2003,
 2508460,"Ni Laighleis, Aisling",IRL,F,,,,1490,0,40,MAR26,2003,wi
-2505665,"Ni Mhuireagain, Eibhia",IRL,F,WCM,WCM,"NI,NI,FA",1764,0,20,MAR26,2000,wi
+2505665,"Ni Mhuireagain, Eibhia",IRL,F,WCM,WCM,"NI,FA",1764,0,20,MAR26,2000,wi
 2516896,"Nichenametla V, Advaith",IRL,M,,,,1919,8,40,MAR26,2010,
 2501724,"Nicholson, John",IRL,M,,,,1827,0,20,MAR26,1954,i
 2516624,"Nielsen, Robert",IRL,M,,,,1682,5,20,MAR26,1991,
@@ -967,7 +967,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2512165,"O Connor, Hugh",IRL,M,,,,1813,0,20,MAR26,1992,i
 415375,"O Grady, Gary P.",IRL,M,,,,1938,0,20,MAR26,1968,i
 2512157,"O Hanlon, Joe",IRL,M,,,,1725,14,20,MAR26,0,
-2507382,"O Muireagain, Colm",IRL,M,,"FI,FI",,1626,0,40,MAR26,1966,i
+2507382,"O Muireagain, Colm",IRL,M,,FI,,1626,0,40,MAR26,1966,i
 2510197,"O Sullivan, James",IRL,M,,,,1650,0,40,MAR26,1968,
 2500620,"O'Cinneide, Mel",IRL,M,,,,2096,0,20,MAR26,1965,
 2500493,"O'Connell, Gerard",IRL,M,,,,2035,0,20,MAR26,1958,

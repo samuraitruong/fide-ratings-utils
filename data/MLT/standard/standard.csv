@@ -36,8 +36,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5605717,"Borg Barthet, Jacques",MLT,M,,,,1437,0,40,MAR26,2013,
 5603870,"Borg Mercieca, Elena",MLT,F,,,,1519,5,40,MAR26,2015,w
 5605490,"Borg Mercieca, George",MLT,M,,,,1480,4,40,MAR26,2017,
-5600065,"Borg, Andrew",MLT,M,FM,FI,,2093,0,20,MAR26,1962,i
-5600014,"Borg, Geoffrey",MLT,M,FM,FST,,2367,0,20,MAR26,1963,i
+5600065,"Borg, Andrew",MLT,M,FM,,,2093,0,20,MAR26,1962,i
+5600014,"Borg, Geoffrey",MLT,M,FM,,,2367,0,20,MAR26,1963,i
 5605709,"Borg, Nikol",MLT,M,,,,1596,6,40,MAR26,2017,
 5604737,"Briffa, Zachary",MLT,M,,,,1494,7,40,MAR26,2011,
 5601487,"Buckle, Adam",MLT,M,,,,1746,7,20,MAR26,2000,
@@ -119,7 +119,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5604087,"Grima Bongailas, Isaac",MLT,M,,,,1761,0,,MAR26,2010,
 5600855,"Grima, Jurgen",MLT,M,,,,1612,0,40,MAR26,0,i
 14906546,"Grima, Karolina",MLT,F,,,,2013,0,20,MAR26,1984,wi
-5600588,"Grima, Noel",MLT,M,,"FI,IA",,1632,0,40,MAR26,1986,i
+5600588,"Grima, Noel",MLT,M,,IA,,1632,0,40,MAR26,1986,i
 5606403,"Guillaumier, Ryan",MLT,M,,,,1423,6,40,MAR26,2012,
 5604311,"Gusarov, Mark Mikhail",MLT,M,,,,1586,4,40,MAR26,2011,
 5603650,"Haber, Mario",MLT,M,,,,1576,3,40,MAR26,1970,
@@ -168,7 +168,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 727067,"Novak, Attila Robert",MLT,M,CM,"SI,NA",,2135,0,20,MAR26,1984,
 5605067,"Ozsoy, Ozgun",MLT,M,,,,1474,7,40,MAR26,2015,
 5605512,"Ozsoy, Ozkan",MLT,M,,,,1579,2,40,MAR26,1978,
-5600189,"Pace, Colin",MLT,M,CM,FI,,2132,0,20,MAR26,1979,
+5600189,"Pace, Colin",MLT,M,CM,,,2132,0,20,MAR26,1979,
 5605555,"Padron Gonzalez, Alexander Ariel",MLT,M,,,,1608,0,40,MAR26,1991,i
 6363318,"Pala, Onurcan",MLT,M,,,,1852,0,20,MAR26,1991,
 5602327,"Pantovic, Ema Sintayu",MLT,F,,,,1512,0,20,MAR26,2004,wi
@@ -227,7 +227,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5604478,"Strojek, Lars",MLT,M,,,,1582,0,40,MAR26,2010,
 5602947,"Thake, Conrad",MLT,M,CM,,,1863,0,20,MAR26,1963,
 5602599,"Thomas, David",MLT,M,,,,1657,0,40,MAR26,2002,i
-5600464,"Thornton, Filipina",MLT,F,WFM,WFM,"FI,NA",1783,6,20,MAR26,1977,w
+5600464,"Thornton, Filipina",MLT,F,WFM,WFM,NA,1783,6,20,MAR26,1977,w
 5602637,"Thornton, Hayley",MLT,F,,,,1499,3,40,MAR26,2011,w
 5600219,"Toledo, Peter",MLT,M,,,,2300,0,40,MAR26,0,i
 5400120,"Unger, Manfred",MLT,M,,,,2099,0,20,MAR26,1963,i
@@ -236,7 +236,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5603544,"Vella, Beppe",MLT,M,,,,1698,0,40,MAR26,1988,i
 5600081,"Vella, Brian",MLT,M,,,,2205,0,20,MAR26,1968,i
 5606330,"Vella, Brian",MLT,M,,,,1479,8,40,MAR26,1960,
-5600243,"Vella, Duncan",MLT,M,CM,"FI,SI,IA",,1908,0,20,MAR26,1971,
+5600243,"Vella, Duncan",MLT,M,CM,"SI,IA",,1908,0,20,MAR26,1971,
 5600910,"Vella, Joe",MLT,M,,,,1806,0,40,MAR26,0,i
 5603560,"Vella, Timothy",MLT,M,,,,1780,0,40,MAR26,2003,i
 503070,"Verkasalo, Tommi",MLT,M,FM,,,2167,0,20,MAR26,1982,

@@ -13,7 +13,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3838439,"Abuhadba,Khalil",PER,M,,,,1517,0,40,MAR26,2007,i
 3846768,"Aburto Ramirez, Oscar Eduardo",PER,M,,,,1588,0,40,MAR26,2006,i
 3854566,"Acevedo Aybar, Carlos Sebastian",PER,M,,,,1434,0,40,MAR26,2006,i
-3825507,"Acevedo Chavez, Freddy Adrian",PER,M,,"NI,NI",,1871,0,20,MAR26,2000,
+3825507,"Acevedo Chavez, Freddy Adrian",PER,M,,NI,,1871,0,20,MAR26,2000,
 3886581,"Aching Rengifo, Cesar Alejandro",PER,M,,,,1544,0,40,MAR26,2010,i
 81474164,"Achulli De la Cruz, Luis Alberto",PER,M,,,,1656,0,40,MAR26,1988,
 81473397,"Acosta Rojas, Fabrizio Alexander",PER,M,,,,1706,0,40,MAR26,2008,
@@ -189,7 +189,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3851605,"Apaza Silva, Bruno Eduardo",PER,M,,,,1594,0,40,MAR26,2006,i
 3847152,"Apaza Valdivia, Alan Benjamin",PER,M,,,,1590,0,40,MAR26,2008,
 81428570,"Apaza Yucra, Rodrigo Thiago",PER,M,,,,1426,0,40,MAR26,2014,i
-3801888,"Apaza, Flor",PER,F,,DI,,1794,0,20,MAR26,1992,wi
+3801888,"Apaza, Flor",PER,F,,,,1794,0,20,MAR26,1992,wi
 3801993,"Apaza, Jorge",PER,M,,,,1739,0,20,MAR26,0,
 3872963,"Api Bringas, Zamari Teresa",PER,F,,,,1519,0,40,MAR26,2012,w
 3828131,"Apolin Meza, Tito",PER,M,,,,1595,0,20,MAR26,1971,i
@@ -233,7 +233,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3887936,"Arevalo Tito, Kevin",PER,M,,,,1475,0,40,MAR26,2008,i
 3847683,"Arevalo Tito, Roosewelt Anthony",PER,M,,,,1691,0,20,MAR26,2001,i
 3871274,"Argamonte Robles, Lisseth Yurhii",PER,F,,,,1515,0,40,MAR26,2008,wi
-3800660,"Arias Gaviria, Mario Alexis",PER,M,FM,"SI,FT,AO,IO,LSI",,",",2229,0,MAR26,1995,
+3800660,"Arias Gaviria, Mario Alexis",PER,M,FM,"SI,AO,IO,LSI,IA",,2229,0,20,MAR26,1995,
 3839400,"Arias Lomparte Paz,Yuani Steffano",PER,M,,,,1627,0,40,MAR26,2005,i
 3868214,"Arias Ochoa, Adriana Maddyel",PER,F,,,,1429,0,40,MAR26,2008,wi
 3842398,"Arias Otoya, Erik Ronaldo",PER,M,,,,1691,0,40,MAR26,1997,i
@@ -263,7 +263,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3800466,"Ascoy, Adolfo",PER,M,,,,2116,0,20,MAR26,0,i
 3869903,"Astete Umeres, Americo",PER,M,,,,1522,0,40,MAR26,1993,
 3869911,"Astete Umeres, Antoni",PER,M,,,,1552,0,20,MAR26,1990,i
-3829197,"Asto Enciso, Noe",PER,M,,"NI,FA",,1792,0,20,MAR26,1986,i
+3829197,"Asto Enciso, Noe",PER,M,,FA,,1792,0,20,MAR26,1986,i
 81474377,"Asto Loayza, Jose Martin",PER,M,,,,1661,0,40,MAR26,1993,
 3856020,"Astorga Lopez, Angel Alexis",PER,M,,,,1658,0,40,MAR26,1989,i
 3880796,"Astoyauri De la Cruz, Fernando Isaac",PER,M,CM,,,1854,7,40,MAR26,2011,
@@ -728,7 +728,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 81474148,"Chiroque Ecca, Petter Pavell",PER,M,,,,1556,0,40,MAR26,2009,
 3889556,"Chomlon Perales, Cesar",PER,M,,,,1670,0,20,MAR26,1988,i
 3805093,"Chong Chinchay, Eric Joel",PER,M,,,,2060,0,20,MAR26,1999,i
-3834808,"Chong Sanchez, Jose Luis",PER,M,,NI,,1765,0,40,MAR26,1980,i
+3834808,"Chong Sanchez, Jose Luis",PER,M,,,,1765,0,40,MAR26,1980,i
 3874869,"Choque Aparco, Esteban Abel",PER,M,,,,1626,0,40,MAR26,2010,i
 3885984,"Choque Aroapaza, Hugo Cesar",PER,M,,,,1586,0,40,MAR26,2007,i
 3831957,"Choque Flores, Alex",PER,M,,,,1500,0,40,MAR26,2010,i
@@ -807,7 +807,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3873498,"Condori Quispe, Leysi Azucena",PER,F,,,,1476,0,40,MAR26,2011,w
 3850471,"Condori Ramirez, Dilan Smit",PER,M,,,,1643,0,40,MAR26,2010,i
 3850692,"Condori Yupamqui, Luis Eduardo",PER,M,,,,1479,0,40,MAR26,2009,i
-3801128,"Condori, Edwin",PER,M,,FI,,2045,6,20,MAR26,1973,
+3801128,"Condori, Edwin",PER,M,,,,2045,6,20,MAR26,1973,
 3807045,"Condori, Nestor",PER,M,,,,1864,0,20,MAR26,0,
 81457804,"Contreras Gastelo, Sebastian Alonso",PER,M,,,,1493,0,40,MAR26,2013,
 3824675,"Contreras Huaman, Fiorella",PER,F,FM,WIM,,2174,0,20,MAR26,2007,w
@@ -1221,7 +1221,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 81455291,"Gallet Tapia, Sandro Adrian",PER,M,,,,1466,0,40,MAR26,2012,
 3802906,"Gallo Ponce, Elbert",PER,M,FM,,,2129,0,20,MAR26,1958,
 81457359,"Galoc Dominguez, Jose Alfonso",PER,M,,,,1419,0,40,MAR26,2014,
-3800458,"Galvan, Jesus",PER,M,FM,FT,,2198,0,20,MAR26,1975,
+3800458,"Galvan, Jesus",PER,M,FM,,,2198,0,20,MAR26,1975,
 3844285,"Galvez Hidalgo, Arian Abner",PER,M,,,,1618,0,40,MAR26,2011,
 81403925,"Galvez Llatas, Ileana Jamila",PER,F,,,,1475,0,40,MAR26,2009,wi
 3881296,"Galvez Ponciano, Ricardo",PER,M,,,,1705,0,20,MAR26,1972,i
@@ -1667,7 +1667,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 81454490,"Llagas Zegarra, Analucia",PER,F,,,,1419,0,40,MAR26,2009,w
 3837181,"Llallire Bellido, Deivis Marco",PER,M,,,,1617,0,20,MAR26,2003,i
 3822044,"Llamoca Mansilla, Cesar David",PER,M,,NA,,1714,0,20,MAR26,2003,i
-3818853,"Llanos Rojas, Jorge",PER,M,,"NI,SI,NA",,1880,0,,MAR26,1998,i
+3818853,"Llanos Rojas, Jorge",PER,M,,"SI,NA",,1880,0,,MAR26,1998,i
 3852016,"Llanto Llacsa, Yaden Wilden",PER,M,,,,1762,0,40,MAR26,2009,
 3876578,"Llatas Parihuaman, Jose Maria",PER,M,,,,1832,0,40,MAR26,2013,
 81453183,"Llaury Puyo, Aaron Marcel",PER,M,,,,1542,0,20,MAR26,1979,
@@ -1738,7 +1738,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3860493,Luza Chura Marco Adriano,PER,M,,,,1690,0,40,MAR26,2010,
 81475950,"Lyamouri, Mickael Mehdi",PER,M,,,,1462,0,40,MAR26,1992,
 3891542,"Macavilca Paulino, Yamber Eudocio",PER,M,,,,1712,0,20,MAR26,1982,i
-3820947,"Maceda Espinoza, Christian",PER,M,,FI,,1933,0,20,MAR26,0,i
+3820947,"Maceda Espinoza, Christian",PER,M,,,,1933,0,20,MAR26,0,i
 3820955,"Maceda Espinoza, Martin",PER,M,,,,1872,0,20,MAR26,0,i
 3809447,"Maceda Velasquez, Roberto",PER,M,,SI,,1914,5,40,MAR26,1969,
 3836045,"Macedo Henostroza, Omar Pedro",PER,M,,,,1754,0,40,MAR26,0,i
@@ -2233,7 +2233,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3803589,"Palacios, Angie",PER,F,,,,1668,0,20,MAR26,1992,wi
 3801225,"Palacios, Efrain",PER,M,,,,2058,6,20,MAR26,1969,
 3813495,"Palacios, Nicky",PER,M,,,,1610,0,40,MAR26,0,i
-3805204,"Palao, Adriana",PER,F,WCM,WCM,FI,1910,0,20,MAR26,2001,w
+3805204,"Palao, Adriana",PER,F,WCM,WCM,,1910,0,20,MAR26,2001,w
 3846776,"Palermo Camasca, Giuseppe Gervassio",PER,M,,,,1647,0,20,MAR26,2001,i
 81482736,"Palma Hurtado, Joseph Jayco",PER,M,,,,1495,7,40,MAR26,2009,
 81406282,"Palmi Padilla, Manuel Francisco",PER,M,,,,1785,0,20,MAR26,1991,i

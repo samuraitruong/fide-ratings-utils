@@ -151,7 +151,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6518826,"Barrantes Granados, Ian Daniel",CRC,M,,,,1973,0,20,MAR26,2007,
 6520871,"Barrantes Jimenez, Keisy",CRC,F,,,,1495,4,20,MAR26,2006,w
 6506798,"Barrantes Najera, Pablo",CRC,M,,,,1941,0,20,MAR26,1954,i
-6500358,"Barrios Zamora, Carlos",CRC,M,,"SI,FI,FT,IA",,2041,0,20,MAR26,1976,i
+6500358,"Barrios Zamora, Carlos",CRC,M,,"SI,FT,IA",,2041,0,20,MAR26,1976,i
 6521088,"Barrueta Suarez, David Manuel",CRC,M,,,,1785,0,20,MAR26,1979,i
 6505392,"Baum Gutierrez, Ismael",CRC,M,,,,1509,0,20,MAR26,1991,
 6558488,"Bautista Ugalde, Jose Pablo",CRC,M,,,,1545,0,20,MAR26,2000,i
@@ -254,7 +254,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6504604,"Carrion Ruiz, Daniel",CRC,M,,,,1531,0,20,MAR26,1995,i
 6516858,"Cartin Aguilar, Luis Javier",CRC,M,,,,1893,0,20,MAR26,2004,i
 6534007,"Cartin Cascante, Carlos Josue",CRC,M,,,,1554,0,20,MAR26,1999,i
-6500625,"Carvajal Gorgona, Jonathan",CRC,M,FM,FT,,2160,0,20,MAR26,1986,i
+6500625,"Carvajal Gorgona, Jonathan",CRC,M,FM,,,2160,0,20,MAR26,1986,i
 6504612,"Carvajal Pena, Daniel",CRC,M,,,,1920,0,20,MAR26,1998,
 6515533,"Carvajal Rivera, Maria Camila",CRC,F,,,,1440,0,40,MAR26,2010,wi
 6529690,"Casasa Vargas, Jaime",CRC,M,,,,1459,4,20,MAR26,1960,
@@ -338,7 +338,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6527825,"Cordero Cortes, Anderson",CRC,M,,,,1455,0,20,MAR26,2007,
 6528902,"Cordero Cortes, Enderson",CRC,M,,,,1479,0,40,MAR26,2011,
 6556183,"Cordero Esquivel, Gabriel",CRC,M,,,,1513,6,40,MAR26,2009,
-6503489,"Cordero Maroto, Nelson",CRC,M,,NI,,1783,0,20,MAR26,1979,i
+6503489,"Cordero Maroto, Nelson",CRC,M,,,,1783,0,20,MAR26,1979,i
 6511295,"Cordero Urena, Gabriel",CRC,M,,,,1438,0,20,MAR26,2003,i
 6500439,"Cordoba Solano, Edwin",CRC,M,,,,1911,0,20,MAR26,1961,i
 6518729,"Coronado Pasquier, Alejandro",CRC,M,,,,1461,0,20,MAR26,2004,i
@@ -442,7 +442,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6516912,"Gamboa Guillen, Ignacio Andres",CRC,M,,,,1492,0,20,MAR26,2007,i
 6508340,"Gamboa Navarro, Andrea Maria",CRC,F,,,,1558,0,20,MAR26,1997,w
 6506020,"Gamboa Vargas, Jose Pablo",CRC,M,,,,1733,0,20,MAR26,1995,
-3955176,"Garcia Delgado, Rafael Eduardo",CRC,M,,NI,,1562,0,20,MAR26,2002,i
+3955176,"Garcia Delgado, Rafael Eduardo",CRC,M,,,,1562,0,20,MAR26,2002,i
 6522785,"Garcia Fajardo, Samuel",CRC,M,,,,1492,0,40,MAR26,2012,
 6569625,"Garcia Gaspar, Alberto",CRC,M,,,,1437,0,20,MAR26,2003,
 6565735,"Garcia Mendez, Julian",CRC,M,,,,1411,4,40,MAR26,2013,
@@ -584,7 +584,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6550177,"Jarquin Pizarro, Seyni Lisbeth",CRC,F,,,,1414,0,20,MAR26,2007,wi
 6571123,"Jarrin Carranza, Jean Mathew",CRC,M,,,,1516,0,40,MAR26,2011,
 6523595,"Jean Adrien, Wilberge",CRC,F,,,,1481,0,20,MAR26,1963,w
-6501176,"Jimenez Aguilar, Gustavo",CRC,M,,"NI,NA",,1875,0,20,MAR26,1982,i
+6501176,"Jimenez Aguilar, Gustavo",CRC,M,,NA,,1875,0,20,MAR26,1982,i
 6501052,"Jimenez Alvarado, Alonso",CRC,M,,,,2133,0,20,MAR26,1988,i
 6522971,"Jimenez Bennett, Fernando",CRC,M,,,,1422,0,20,MAR26,2003,i
 6528082,"Jimenez Cerdas, Matias",CRC,M,,,,1408,0,40,MAR26,2011,i

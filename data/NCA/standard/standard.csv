@@ -14,7 +14,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6100694,"Alarcon, Pamela",NCA,F,WFM,WFM,,1952,0,20,MAR26,1993,w
 6110606,"Aleman Martinez, Maria Alejandra",NCA,F,,,,1554,0,40,MAR26,2013,w
 6109420,"Aleman Martinez, Verania Monserrat",NCA,F,,,,1546,0,40,MAR26,2009,wi
-6100457,"Alfaro, William",NCA,M,FM,FI,,2117,0,20,MAR26,1982,
+6100457,"Alfaro, William",NCA,M,FM,,,2117,0,20,MAR26,1982,
 6105602,"Allen Montes, Charles Mijail",NCA,M,,,,1704,0,20,MAR26,1981,i
 6100783,"Allen, Alonso",NCA,M,,,,1813,0,20,MAR26,0,
 6103987,"Allen, Luisa Amanda",NCA,F,,,,1647,0,40,MAR26,2001,wi
@@ -426,7 +426,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6101135,"Quintanilla, Marvin",NCA,M,,,,1917,0,20,MAR26,0,i
 6110363,"Quintero Obando, Lesber Alexander",NCA,M,,,,1644,0,20,MAR26,2003,i
 6107265,"Quintero Rodriguez, Manuel Jose",NCA,M,,,,1803,0,40,MAR26,2004,i
-6101984,"Quintero, Armando",NCA,M,,"FI,FI",,1830,0,20,MAR26,0,i
+6101984,"Quintero, Armando",NCA,M,,FI,,1830,0,20,MAR26,0,i
 6107958,"Ramirez Altamirano, Laura Seline",NCA,F,,,,1640,0,20,MAR26,2002,wi
 6101437,"Ramirez, Richard",NCA,M,,,,1850,0,40,MAR26,0,i
 6104630,"Ramos Castillo, Mijail",NCA,M,,,,1566,0,40,MAR26,1994,i

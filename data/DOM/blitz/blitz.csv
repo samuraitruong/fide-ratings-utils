@@ -356,7 +356,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6434207,"German, Hendry Javiel",DOM,M,,,,1695,0,20,MAR26,1994,i
 6413366,"Germes Suarez, Hector Augusto",DOM,M,,,,2038,0,20,MAR26,1976,
 6409199,"Gil Lauriano, Saury",DOM,M,,,,2038,0,20,MAR26,1982,i
-6430724,"Gil, Freddy Alberto",DOM,M,,"SI,NI,NA",,1815,0,20,MAR26,1967,i
+6430724,"Gil, Freddy Alberto",DOM,M,,"SI,NA",,1815,0,20,MAR26,1967,i
 6443095,"Gil, Manuel Antonio",DOM,M,,,,1880,0,20,MAR26,1990,
 6407900,"Gil, Sergio Agustin",DOM,M,,,,1866,0,20,MAR26,1967,i
 6419860,"Giraldi , Fernando",DOM,M,,,,1819,0,20,MAR26,0,i
@@ -633,7 +633,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6414249,"Noboa , Marcos",DOM,M,,,,1855,0,20,MAR26,0,i
 6430589,"Noesi Almonte, Belkis Leonora",DOM,M,,,,1737,0,20,MAR26,1990,
 6410251,"Nouel Leon, Juan Manuel",DOM,M,,,,1897,0,20,MAR26,1963,i
-6406874,"Nova Ramirez, Presley Eury",DOM,M,,"NI,NA",,1900,0,20,MAR26,1989,
+6406874,"Nova Ramirez, Presley Eury",DOM,M,,NA,,1900,0,20,MAR26,1989,
 6440479,"Nova, Luis Roberto",DOM,M,,,,1875,0,20,MAR26,1970,
 6416780,"Novas Gomez, Mario De Jesus",DOM,M,,,,1801,0,20,MAR26,2000,
 6409687,"Nunez Antigua, Inocencio",DOM,M,,,,1902,0,20,MAR26,1982,i
@@ -769,7 +769,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6441440,"Ramirez Mota, Mily Scarlett",DOM,F,,,,1511,0,20,MAR26,2006,w
 6415660,"Ramirez Nunez, Henry Miguel",DOM,M,,,,1761,0,20,MAR26,1990,
 6409407,"Ramirez Paniagua, Luis Enrique",DOM,M,,,,1862,0,20,MAR26,1987,
-6401007,"Ramirez Reyes, Braulio Fernando",DOM,M,FM,"FI,SI,FI,NA",,2099,0,20,MAR26,1980,
+6401007,"Ramirez Reyes, Braulio Fernando",DOM,M,FM,"SI,FI,NA",,2099,0,20,MAR26,1980,
 6405959,"Ramirez Severino, Eudomar",DOM,M,,,,1856,0,20,MAR26,1993,
 6410626,"Ramirez, Deyvis",DOM,M,,,,1778,0,20,MAR26,0,
 6438091,"Ramirez, Hirundy",DOM,M,,,,1827,0,20,MAR26,1960,i
@@ -817,7 +817,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6422179,"Rodriguez Hernandez, Luis Alberto",DOM,M,,,,1804,0,20,MAR26,1987,i
 6431038,"Rodriguez Manzanillo, Luis Yael",DOM,M,,,,1657,0,40,MAR26,2008,i
 6427278,"Rodriguez Matias, Nathanael",DOM,M,,,,1893,0,20,MAR26,1996,
-6419712,"Rodriguez Mejia, Eddy Gabriel",DOM,M,,NI,,2041,7,20,MAR26,1997,
+6419712,"Rodriguez Mejia, Eddy Gabriel",DOM,M,,,,2041,7,20,MAR26,1997,
 6423124,"Rodriguez Meran, Edgar Antonio",DOM,M,,,,1919,0,20,MAR26,1975,
 6435122,"Rodriguez Munoz, Omar de Jesus",DOM,M,,,,1795,8,40,MAR26,2012,
 6400337,"Rodriguez Nunez, Jose Altagracia",DOM,M,,,,2118,0,20,MAR26,1969,i

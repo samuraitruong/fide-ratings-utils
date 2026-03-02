@@ -169,7 +169,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4240340,"Anagnostopoulou, Antonia",GRE,F,,,,1627,0,40,MAR26,1999,wi
 4204859,"Anagnostou, Ioannis",GRE,M,,,,1914,0,20,MAR26,1972,i
 4282701,"Anagnostou, Zoi",GRE,F,,,,1461,0,40,MAR26,1972,wi
-4203020,"Anagnou, Konstantinos",GRE,M,,FI,,2082,0,20,MAR26,1973,i
+4203020,"Anagnou, Konstantinos",GRE,M,,,,2082,0,20,MAR26,1973,i
 4205669,"Anairousis, Panag",GRE,M,,,,1887,0,20,MAR26,1959,i
 42188156,"Ananian, Samvel",GRE,M,,,,1482,0,40,MAR26,2008,i
 25881418,"Anastasaki, Anastasia St",GRE,F,,,,1447,0,40,MAR26,2010,wi
@@ -758,7 +758,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4210980,"Bourdakis, Stavros",GRE,M,,,,1890,4,20,MAR26,1984,
 4233409,"Bourhas, Orfeas",GRE,M,,,,1915,3,20,MAR26,1997,
 4274008,"Bournakas, Alexis",GRE,M,,,,1870,0,20,MAR26,1970,
-4279468,"Bournakas, Apostolos",GRE,M,,"NI,NA",,1625,0,20,MAR26,1997,
+4279468,"Bournakas, Apostolos",GRE,M,,NA,,1625,0,20,MAR26,1997,
 4289862,"Bournakas, Iason",GRE,M,,,,1508,0,40,MAR26,2005,i
 4289005,"Bournakas, Vlassis",GRE,M,,,,1575,0,20,MAR26,2001,
 42160693,"Bournias, Nikolaos",GRE,M,,,,1527,2,20,MAR26,2003,
@@ -1128,8 +1128,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25854437,"Diakouli, Ioanna-Maria",GRE,F,,,,1458,0,20,MAR26,2001,wi
 4231830,"Diakoumakos, Georgios",GRE,M,,,,1650,0,20,MAR26,1980,i
 4239245,"Diakoumeas, Aristofanis",GRE,M,,,,1753,3,20,MAR26,1996,
-4207300,"Diamandis, Georgios",GRE,M,,"FI,FI",,1690,5,20,MAR26,1957,
-4252390,"Diamandis, Phoebus-Apollo",GRE,M,,"DI,DI",,1762,10,20,MAR26,1996,
+4207300,"Diamandis, Georgios",GRE,M,,FI,,1690,5,20,MAR26,1957,
+4252390,"Diamandis, Phoebus-Apollo",GRE,M,,DI,,1762,10,20,MAR26,1996,
 4215516,"Diamantakis, Ioannis",GRE,M,,,,1554,0,40,MAR26,1965,i
 25835009,"Diamantakos, Ioannis",GRE,M,,,,1749,0,20,MAR26,1972,i
 25832875,"Diamantakos, Sotirios",GRE,M,,,,1797,1,20,MAR26,2005,
@@ -1721,7 +1721,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4203682,"Georgiou, Iraklis",GRE,M,,,,2121,0,20,MAR26,1943,i
 4268393,"Georgiou, Konstantinos",GRE,M,,,,1927,2,20,MAR26,2000,
 4284569,"Georgiou, Konstantinos 39106",GRE,M,,,,1638,0,20,MAR26,1983,i
-4205634,"Georgiou, Kostantinos",GRE,M,,FI,,2177,0,20,MAR26,1981,
+4205634,"Georgiou, Kostantinos",GRE,M,,,,2177,0,20,MAR26,1981,
 4299671,"Georgiou, Michail",GRE,M,,,,1406,0,40,MAR26,0,i
 4214960,"Georgiou, Napoleon",GRE,M,,,,1872,0,20,MAR26,1992,i
 25849808,"Georgiou, Nikolaos D",GRE,M,,,,1795,4,40,MAR26,2005,
@@ -1756,7 +1756,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42183251,"Gerogiannis, Ioannis",GRE,M,,,,1435,0,40,MAR26,1972,
 25805860,"Gerolymatou, Maria",GRE,F,,,,1542,0,20,MAR26,0,wi
 4288564,"Gerontis, Nikolaos",GRE,M,,,,1680,0,20,MAR26,2001,i
-4214463,"Gerontopoulos, Prodromos",GRE,M,,"NI,NI,IA",,1751,0,20,MAR26,1979,
+4214463,"Gerontopoulos, Prodromos",GRE,M,,"NI,IA",,1751,0,20,MAR26,1979,
 4257340,"Geropapas, Periklis",GRE,M,,,,1859,4,20,MAR26,1980,
 4204760,"Geroukalis, Athanasios",GRE,M,,,,1793,4,20,MAR26,1963,
 4217802,"Geroukalis, Hristos",GRE,M,,,,1736,4,20,MAR26,1992,
@@ -1881,7 +1881,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25883097,"Gkavardinas, Antonios",GRE,M,FM,,,2254,9,20,MAR26,2010,
 25883100,"Gkavardinas, Christos Konstantinos",GRE,M,,,,1779,0,40,MAR26,2008,i
 42195160,"Gkekas, Alexandros",GRE,M,,,,1506,5,40,MAR26,1999,
-4200608,"Gkekas, Sokratis",GRE,M,,"NI,NI",,2048,0,20,MAR26,1959,
+4200608,"Gkekas, Sokratis",GRE,M,,NI,,2048,0,20,MAR26,1959,
 42131227,"Gkekos, Ioannis",GRE,M,,,,1781,2,20,MAR26,1990,
 25819500,"Gkeli, Maria",GRE,F,,,,1414,0,40,MAR26,2003,wi
 4215958,"Gkertsos, Georgios",GRE,M,,,,1871,0,20,MAR26,1987,i
@@ -2017,7 +2017,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25836390,"Grigoropoulos, Spyridon",GRE,M,,,,1497,0,40,MAR26,1938,i
 25886878,"Grigoropoulou, Kleopatra",GRE,F,,,,1495,0,40,MAR26,2008,w
 4288270,"Grimpilas, Michail",GRE,M,,,,1470,0,40,MAR26,1975,i
-4202520,"Gripeos, Kiriakos",GRE,M,,FI,,2006,0,20,MAR26,1970,i
+4202520,"Gripeos, Kiriakos",GRE,M,,,,2006,0,20,MAR26,1970,i
 4292723,"Grivas, Alexandros",GRE,M,,,,1521,0,20,MAR26,0,i
 4200039,"Grivas, Efstratios",GRE,M,GM,FST,,2330,0,10,MAR26,1966,
 25868187,"Grivas, Michail",GRE,M,,,,1536,0,40,MAR26,2006,i
@@ -2064,7 +2064,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4216245,"Haralabidis, Tengkiz",GRE,M,,,,1919,0,20,MAR26,1949,i
 4261631,"Haralabidou, Maria",GRE,F,,FA,,1797,0,20,MAR26,1998,w
 4201132,"Haralabopoulos, Dimitrios",GRE,M,,,,1811,2,20,MAR26,1983,
-4203640,"Harana, Alexandra",GRE,F,,FI,,1802,0,20,MAR26,1979,wi
+4203640,"Harana, Alexandra",GRE,F,,,,1802,0,20,MAR26,1979,wi
 4242637,"Hararis, Dimitrios",GRE,M,,,,1874,0,20,MAR26,1956,i
 4254317,"Hararis, Georgios",GRE,M,,,,1971,0,20,MAR26,1981,
 4208145,"Haratsidis, Vasilios",GRE,M,,,,2014,0,20,MAR26,1985,i
@@ -2213,7 +2213,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4203658,"Ignatiadis, Theodoros",GRE,M,,,,1899,2,20,MAR26,1966,
 4295145,"Ikonomakis, Vasilios",GRE,M,,,,1810,0,40,MAR26,1985,i
 25820800,"Ikonomidis, Savas",GRE,M,,,,1679,0,20,MAR26,1999,i
-4209958,"Ikonomopoulou, Maria",GRE,F,WFM,WFM,FI,2095,0,20,MAR26,1989,wi
+4209958,"Ikonomopoulou, Maria",GRE,F,WFM,WFM,,2095,0,20,MAR26,1989,wi
 4233751,"Ikonomou, Anastasios",GRE,M,,,,1789,0,20,MAR26,1971,
 4202864,"Ikonomou, Georgios",GRE,M,,,,2073,0,20,MAR26,1944,i
 4249658,"Ikonomou, Nikolaos",GRE,M,,,,1553,0,40,MAR26,2000,i
@@ -2245,7 +2245,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4275977,"Iliopoulou, Eleni",GRE,F,,,,1674,0,20,MAR26,1997,wi
 4201213,"Iliopoulou, Elisavet",GRE,F,,,,1767,0,20,MAR26,1998,wi
 4201221,"Iliopoulou, Sofia",GRE,F,,,,1536,0,40,MAR26,1990,wi
-4224370,"Ilkou, Eleni",GRE,F,,NI,,1731,0,20,MAR26,1994,wi
+4224370,"Ilkou, Eleni",GRE,F,,,,1731,0,20,MAR26,1994,wi
 42178827,"Intzos, Dimitrios",GRE,M,,,,1755,0,40,MAR26,2009,i
 42161231,"Ioannidis, Agis",GRE,M,,,,1431,1,40,MAR26,2015,
 4239555,"Ioannidis, Alexandros",GRE,M,,,,1790,0,40,MAR26,1998,i
@@ -2507,7 +2507,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4205928,"Kanellopoulos, Panayotis",GRE,M,,,,2244,0,20,MAR26,1978,i
 25808966,"Kanellopoulou, Ioustini",GRE,F,,,,1474,0,20,MAR26,2006,wi
 4226267,"Kanellos, Antonios",GRE,M,,,,1620,1,40,MAR26,1993,
-4254201,"Kanellos, Dimitrios V.",GRE,M,,NI,,2017,1,20,MAR26,1994,
+4254201,"Kanellos, Dimitrios V.",GRE,M,,,,2017,1,20,MAR26,1994,
 4203070,"Kanelopoulos, Damianos",GRE,M,,,,2067,0,20,MAR26,1975,i
 4227042,"Kanetis, Vasilios",GRE,M,,,,1782,0,20,MAR26,1995,i
 42192650,"Kanistras, Nikolaos",GRE,M,,,,1456,2,40,MAR26,2012,
@@ -2562,7 +2562,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4238427,"Karabasis, Ilias-Stylianos",GRE,M,,,,1808,0,20,MAR26,1992,i
 4203313,"Karabelas, Vasilios",GRE,M,,,,2109,0,40,MAR26,1979,i
 4221591,"Karabinas, Andreas",GRE,M,,,,1790,0,40,MAR26,1946,i
-4296346,"Karaboikis, Spiridon",GRE,M,,"FI,FA",,1936,0,20,MAR26,1971,i
+4296346,"Karaboikis, Spiridon",GRE,M,,FA,,1936,0,20,MAR26,1971,i
 25874535,"Karachalios, Emmanouil",GRE,M,,,,1735,0,40,MAR26,1988,i
 25832743,"Karachalios, Georgios",GRE,M,,,,1444,0,40,MAR26,2007,i
 25860569,"Karachalios, Georgios P",GRE,M,,,,1795,0,40,MAR26,1966,i
@@ -2913,7 +2913,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4289250,"Keppas, Konstantinos",GRE,M,,,,1721,0,40,MAR26,1948,i
 42107849,"Keramaros, Vasileios",GRE,M,,,,1859,7,40,MAR26,2011,
 42144213,"Keramiotis, Ioannis",GRE,M,,,,1653,6,40,MAR26,2014,
-4285310,"Keramiotis, Michail",GRE,M,,"FI,FI,IA",,1953,0,,MAR26,1977,i
+4285310,"Keramiotis, Michail",GRE,M,,"FI,IA",,1953,0,,MAR26,1977,i
 42129354,"Keramiotis, Stylianos",GRE,M,,,,1531,3,40,MAR26,2013,
 25855964,"Kerasidis, Eleftherios",GRE,M,,,,1429,0,40,MAR26,2006,i
 4293800,"Kerasiotis, Ioannis",GRE,M,,,,1563,0,40,MAR26,0,i
@@ -3080,7 +3080,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25806840,"Kolotouros, Konstantinos",GRE,M,,,,1657,0,40,MAR26,1958,i
 42139309,"Koloutsos, Spyridon",GRE,M,,,,1464,2,40,MAR26,2014,
 4226640,"Kolovos, Georgios",GRE,M,,,,1741,0,40,MAR26,1963,i
-25820176,"Kolovos, Grigorios",GRE,M,,NI,,1780,0,40,MAR26,1974,
+25820176,"Kolovos, Grigorios",GRE,M,,,,1780,0,40,MAR26,1974,
 4220471,"Kolovos, M",GRE,M,,,,1698,0,40,MAR26,1995,i
 42173540,"Kolovos, Vasileios",GRE,M,,,,1588,0,40,MAR26,1980,i
 42133645,"Kolovou, Christina",GRE,F,,,,1432,0,40,MAR26,2010,w
@@ -3094,7 +3094,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25804740,"Kominos, Charalampos - Gavriil",GRE,M,,,,1755,0,40,MAR26,1989,i
 42191602,"Komisopoulos, Sotirios",GRE,M,,,,1430,0,40,MAR26,2015,
 4217519,"Komninos, Charalampos",GRE,M,,,,1817,0,20,MAR26,1995,i
-4205022,"Komninos, Nikolaos",GRE,M,CM,"FI,FI",,2208,0,20,MAR26,1973,i
+4205022,"Komninos, Nikolaos",GRE,M,CM,FI,,2208,0,20,MAR26,1973,i
 4214579,"Komsoulas, Asterios",GRE,M,,,,1933,0,20,MAR26,1989,i
 4202325,"Kondopoulos, Dimitrios",GRE,M,,,,1975,0,20,MAR26,1973,
 4200942,"Kondou, Eva",GRE,F,WIM,WIM,,1990,0,20,MAR26,1965,w
@@ -3214,7 +3214,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42199468,"Korogonas, Georgios",GRE,M,,,,1581,0,40,MAR26,2010,
 42161185,"Koromilas, Athanasios",GRE,M,,,,1650,0,40,MAR26,2015,
 42165997,"Koronaki, Georgia",GRE,F,,,,1433,0,40,MAR26,2003,wi
-4215397,"Koronas, Vasilios",GRE,M,,NI,,1880,0,20,MAR26,1993,
+4215397,"Koronas, Vasilios",GRE,M,,,,1880,0,20,MAR26,1993,
 42188865,"Korontzis, Orfeas",GRE,M,,,,1587,1,40,MAR26,1999,
 4204832,"Korou, Laskarina",GRE,F,,IA,,1875,0,20,MAR26,1975,w
 25831992,"Korovesis, Dimitris Apollonas",GRE,M,,,,1563,0,40,MAR26,2005,i
@@ -3449,7 +3449,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4244702,"Koutoukidis, Panagiotis",GRE,M,FM,,,2373,0,10,MAR26,1996,
 4252675,"Koutoulakis, Georgios",GRE,M,,,,1593,0,40,MAR26,1998,i
 4209842,"Koutourinis, Apostolos",GRE,M,,,,1961,5,20,MAR26,1986,
-4270010,"Koutouzof, Ioannis",GRE,M,,NI,,1719,0,20,MAR26,1976,
+4270010,"Koutouzof, Ioannis",GRE,M,,,,1719,0,20,MAR26,1976,
 4279905,"Koutrakis, Nikolaos",GRE,M,,,,1406,0,40,MAR26,2003,i
 4203941,"Koutrakis, Stamatios",GRE,M,,,,1899,0,,MAR26,1984,
 25822047,"Koutrakis, Theodoros",GRE,M,,,,1663,0,20,MAR26,2005,i
@@ -3629,7 +3629,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25844113,"Lafkas, Ioannis",GRE,M,,,,1469,0,40,MAR26,2009,i
 25869930,"Lafkidis, Apostolos",GRE,M,,,,2126,0,40,MAR26,2010,
 42105250,"Lagaras, Konstantinos",GRE,M,,,,1444,0,20,MAR26,1958,i
-25837788,"Lagaras, Stylianos",GRE,M,,"NI,NA",,2016,12,20,MAR26,1995,
+25837788,"Lagaras, Stylianos",GRE,M,,NA,,2016,12,20,MAR26,1995,
 4210190,"Laggousis, Andreas",GRE,M,,,,1944,4,,MAR26,1980,
 42166713,"Lagios, Alexandros",GRE,M,,,,1452,0,40,MAR26,1989,i
 25804359,"Lagogianni, Niki Vasiliki",GRE,F,,NA,,1564,0,20,MAR26,2005,wi
@@ -3815,7 +3815,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4264282,"Liris, Orestis",GRE,M,,,,1824,0,20,MAR26,1982,i
 4238508,"Lithoxoos, Theodoros",GRE,M,,,,1807,1,20,MAR26,1988,
 4206886,"Litsas, Ioannis",GRE,M,CM,IA,,2155,0,20,MAR26,1983,
-4227131,"Litsas, Panagiotis",GRE,M,,NI,,1887,0,20,MAR26,1996,i
+4227131,"Litsas, Panagiotis",GRE,M,,,,1887,0,20,MAR26,1996,i
 4265025,"Livanopoulou, Athina",GRE,F,,,,1476,0,40,MAR26,1977,w
 4203992,"Livas, Ioannis",GRE,M,,,,1556,1,20,MAR26,1952,
 25820885,"Livas, Stavros",GRE,M,,,,1514,0,40,MAR26,2006,i
@@ -3906,8 +3906,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25838890,"Makedonas, Michail",GRE,M,,,,1614,0,20,MAR26,1990,i
 25865250,"Makedos, Ioannis",GRE,M,,,,1569,0,20,MAR26,2004,i
 42113571,"Maki, Eftychia Maria",GRE,F,,,,1461,0,40,MAR26,2008,wi
-4207513,"Makka, Evanthia",GRE,F,WFM,WFM,"FI,NA",2024,0,20,MAR26,1986,wi
-4205316,"Makka, Ioulia",GRE,F,WIM,WIM,FT,1961,0,20,MAR26,1983,wi
+4207513,"Makka, Evanthia",GRE,F,WFM,WFM,NA,2024,0,20,MAR26,1986,wi
+4205316,"Makka, Ioulia",GRE,F,WIM,WIM,,1961,0,20,MAR26,1983,wi
 4206622,"Makkas, Panayiotis",GRE,M,,,,1809,0,20,MAR26,1946,i
 42115132,"Makmilan, Markos Nil",GRE,M,,,,1608,0,40,MAR26,2001,i
 42189420,"Makri, Eftychia",GRE,F,,,,1477,0,40,MAR26,2012,w
@@ -4199,7 +4199,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42148090,"Matziaras, Athanasios",GRE,M,,,,1647,10,20,MAR26,1995,
 42145562,"Mavidis, Christos",GRE,M,,,,1564,7,40,MAR26,2013,
 42129400,"Mavrakis, Nikolaos Lazaros",GRE,M,,,,1450,0,40,MAR26,2011,i
-4216776,"Mavreas, Dimitrios",GRE,M,,FI,,1993,0,20,MAR26,1972,i
+4216776,"Mavreas, Dimitrios",GRE,M,,,,1993,0,20,MAR26,1972,i
 25864971,"Mavreli, Symela Maria",GRE,F,,,,1436,0,40,MAR26,2008,w
 25834150,"Mavridis, Achileas",GRE,M,,,,1691,0,40,MAR26,2009,i
 25840045,"Mavridis, Athanasios",GRE,M,,,,1888,0,20,MAR26,2006,
@@ -4482,7 +4482,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42113865,"Moula, Sofia",GRE,F,,,,1431,0,40,MAR26,2010,w
 4204190,"Moula, Zoi",GRE,F,,,,1794,0,20,MAR26,1945,wi
 25837834,"Moulianitakis, Nikolaos",GRE,M,,,,1449,0,20,MAR26,2006,i
-4219724,"Moulias, Alexandros",GRE,M,,NI,,1969,0,20,MAR26,1988,i
+4219724,"Moulias, Alexandros",GRE,M,,,,1969,0,20,MAR26,1988,i
 4219732,"Moulias, Athanasios",GRE,M,,,,1868,0,40,MAR26,1992,i
 42186765,"Moumtzidis, Argyrios",GRE,M,,,,1497,0,40,MAR26,2002,i
 4285670,"Mountakis, Hristos",GRE,M,,,,1403,0,40,MAR26,2004,i
@@ -4585,7 +4585,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25838938,"Nasos, Konstantinos",GRE,M,,,,1788,0,20,MAR26,2000,i
 25838253,"Nasos, Valerios",GRE,M,,,,1950,1,20,MAR26,2005,
 4201396,"Nathanail, Emanouel",GRE,M,CM,,,1949,0,20,MAR26,1959,i
-4289358,"Nathanail, Spyridon",GRE,M,,DI,,1648,5,20,MAR26,1961,
+4289358,"Nathanail, Spyridon",GRE,M,,,,1648,5,20,MAR26,1961,
 42133262,"Natsiou, Paschalia Ath",GRE,F,,,,1476,0,40,MAR26,2007,wi
 42101379,"Natsis, Christos",GRE,M,,,,1707,0,20,MAR26,1984,i
 4200268,"Natsis, Trifon",GRE,M,,,,2290,0,20,MAR26,1959,i
@@ -4659,7 +4659,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4272994,"Nikolakis, Panagiotis Marios",GRE,M,,,,2024,0,20,MAR26,2002,
 25825232,"Nikolakopoulos, Charalampos",GRE,M,,,,1426,0,40,MAR26,1973,i
 25825135,"Nikolakopoulos, Dimitrios",GRE,M,,NA,,1609,0,20,MAR26,2005,i
-25825240,"Nikolakopoulos, Konstantinos",GRE,M,,NI,,1422,0,40,MAR26,1970,i
+25825240,"Nikolakopoulos, Konstantinos",GRE,M,,,,1422,0,40,MAR26,1970,i
 42142954,"Nikolakopoulos, Konstantinos V",GRE,M,,,,1656,0,20,MAR26,1976,
 42104246,"Nikolakopoulos, Leonidas Marios",GRE,M,,,,1854,2,40,MAR26,2011,
 4219759,"Nikolakopoulos, Nikolaos",GRE,M,,SI,,1894,0,20,MAR26,1972,i
@@ -4670,7 +4670,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25835050,"Nikolaou, Lamprini",GRE,F,,,,1425,0,40,MAR26,2000,wi
 25832603,"Nikolaou, Nikolaos S.",GRE,M,,,,1713,0,40,MAR26,1966,i
 42102600,"Nikolaou, Sofia",GRE,F,,"SI,NA",,1471,0,40,MAR26,1979,w
-4264398,"Nikolaou, Spiridon",GRE,M,,FI,,2116,0,20,MAR26,1998,
+4264398,"Nikolaou, Spiridon",GRE,M,,,,2116,0,20,MAR26,1998,
 25801139,"Nikolaou, Theodoros",GRE,M,,,,1499,0,20,MAR26,2005,i
 42187974,"Nikolaou, Vasileios K",GRE,M,,,,1415,0,40,MAR26,2012,i
 4251369,"Nikolaraki, Irini",GRE,F,,,,1623,0,40,MAR26,1989,wi
@@ -4731,11 +4731,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4210883,"Ntaifas, Ioannis",GRE,M,,,,1808,12,20,MAR26,1964,
 25811207,"Ntakouris, Vasilios",GRE,M,,,,1510,0,40,MAR26,1972,i
 25836234,"Ntala, Konstantina",GRE,F,,NA,,1543,0,20,MAR26,2003,wi
-4227778,"Ntalampiras, Spyros",GRE,M,,FI,,1829,2,20,MAR26,1979,
+4227778,"Ntalampiras, Spyros",GRE,M,,,,1829,2,20,MAR26,1979,
 4284801,"Ntalas, Athanasios",GRE,M,,,,1717,0,20,MAR26,1974,i
 4281225,"Ntalas, Georgios",GRE,M,,,,1458,0,20,MAR26,1977,
 25844873,"Ntalas, Panagiotis",GRE,M,,,,1445,0,40,MAR26,2006,i
-4230515,"Ntantais, Avraam",GRE,M,,DI,,1742,1,20,MAR26,1971,
+4230515,"Ntantais, Avraam",GRE,M,,,,1742,1,20,MAR26,1971,
 541000870,"Ntantamis, Dimitrios",GRE,M,,,,1684,1,40,MAR26,1987,
 4205057,"Ntatsis, Georgios",GRE,M,,,,1919,0,20,MAR26,1963,i
 42171881,"Ntavliakos, Ioannis",GRE,M,,,,1585,3,20,MAR26,1973,
@@ -4871,7 +4871,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25849727,"Paloka, Marjan",GRE,M,,,,1750,0,40,MAR26,1970,i
 4207777,"Pambalos, Panayiotis",GRE,M,,,,2005,0,20,MAR26,1991,i
 4207734,"Pambalou, Fotini",GRE,F,,NA,,2020,0,20,MAR26,1987,wi
-25804995,"Pamporis, Vasileios",GRE,M,,DI,,1699,0,40,MAR26,1977,i
+25804995,"Pamporis, Vasileios",GRE,M,,,,1699,0,40,MAR26,1977,i
 4252497,"Panagakis, Panagiotis",GRE,M,,,,1921,0,40,MAR26,1976,i
 42173787,"Panagiotakis, Konstantinos G M",GRE,M,,,,1429,0,40,MAR26,2011,
 4210778,"Panagiotakopoulos, Gerasimos",GRE,M,,,,2176,3,20,MAR26,1990,
@@ -5034,7 +5034,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42148367,"Papadopoulos, Dimitrios Roq",GRE,M,,,,1524,0,40,MAR26,2001,i
 25846825,"Papadopoulos, Filippos",GRE,M,,,,1920,0,20,MAR26,2007,
 42159717,"Papadopoulos, Filippos NA",GRE,M,,,,1568,0,40,MAR26,2016,
-4210271,"Papadopoulos, Georgios",GRE,M,FM,"FI,NA",,2378,4,20,MAR26,1998,
+4210271,"Papadopoulos, Georgios",GRE,M,FM,NA,,2378,4,20,MAR26,1998,
 4216628,"Papadopoulos, Georgios",GRE,M,,,,1881,0,20,MAR26,1991,i
 4257766,"Papadopoulos, Georgios",GRE,M,,,,1787,0,,MAR26,1956,i
 4210050,"Papadopoulos, Georgios",GRE,M,,,,1710,5,20,MAR26,1962,
@@ -5061,7 +5061,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4242378,"Papadopoulos, Nikolaos-Rigas",GRE,M,,,,1636,0,20,MAR26,1997,i
 42183758,"Papadopoulos, Odysseas Panos",GRE,M,,,,1485,6,40,MAR26,2013,
 4212304,"Papadopoulos, Panagiotis",GRE,M,,,,1967,0,20,MAR26,1991,
-25814273,"Papadopoulos, Panagiotis",GRE,M,,NI,,1853,0,,MAR26,1986,i
+25814273,"Papadopoulos, Panagiotis",GRE,M,,,,1853,0,,MAR26,1986,i
 4245695,"Papadopoulos, Panagiotis",GRE,M,,,,1573,0,20,MAR26,1998,i
 42145589,"Papadopoulos, Panagiotis G",GRE,M,,,,1402,0,40,MAR26,2013,
 42107938,"Papadopoulos, Panagiotis Sp",GRE,M,,,,1641,0,40,MAR26,2006,
@@ -5143,7 +5143,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4273001,"Papaioannou, Evagelos",GRE,M,,,,1606,0,20,MAR26,2001,i
 25879898,"Papaioannou, Filippos Nikolaos",GRE,M,,,,1469,0,40,MAR26,2008,i
 25865021,"Papaioannou, Ioanna",GRE,F,,,,1471,0,20,MAR26,2007,wi
-4201345,"Papaioannou, Ioannis",GRE,M,GM,FT,,2611,0,10,MAR26,1976,
+4201345,"Papaioannou, Ioannis",GRE,M,GM,,,2611,0,10,MAR26,1976,
 541020383,"Papaioannou, Konstantinos I",GRE,M,,,,1651,8,40,MAR26,1992,
 4289374,"Papaioannou, Paris",GRE,M,,,,1464,0,40,MAR26,2003,i
 25824279,"Papakalodoukas, Ilias",GRE,M,,,,1503,0,40,MAR26,1976,i
@@ -5310,7 +5310,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25885545,"Paraskevoulakos, Alexandros",GRE,M,,,,1541,0,20,MAR26,1982,i
 25857061,"Parastatidis, Charalampos",GRE,M,,,,1783,7,20,MAR26,1997,
 25855069,"Parcharidis, Triantafyllos",GRE,M,,,,1552,0,40,MAR26,2009,i
-4207556,"Parginos, Vassilios",GRE,M,,FT,,2103,0,20,MAR26,1976,i
+4207556,"Parginos, Vassilios",GRE,M,,,,2103,0,20,MAR26,1976,i
 25820788,"Parisi, Theodora",GRE,F,,,,1498,0,20,MAR26,2006,wi
 4297539,"Parisis, Apostolos",GRE,M,,,,1849,0,20,MAR26,1985,i
 25819593,"Parnassas, Georgios",GRE,M,,,,1641,0,40,MAR26,1968,i
@@ -5507,7 +5507,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42187796,"Pidoulas, Athanasios",GRE,M,,,,1534,0,40,MAR26,2008,
 4222741,"Pierrakou, Ekaterini",GRE,F,,,,1774,0,20,MAR26,1992,wi
 42181240,"Pikis, Konstantinos",GRE,M,,,,1551,0,40,MAR26,2009,
-4203739,"Pilalis, Christos",GRE,M,,"FI,FI",,2006,0,,MAR26,1966,i
+4203739,"Pilalis, Christos",GRE,M,,FI,,2006,0,,MAR26,1966,i
 65800052,"Pilalis, Ernestos",GRE,M,,NA,,1609,0,,MAR26,2006,i
 4216512,"Pilas, Georgios",GRE,M,,,,1930,0,40,MAR26,1991,i
 541006461,"Pilitsidis, Christos",GRE,M,,,,1871,7,40,MAR26,1990,
@@ -5700,7 +5700,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4204441,"Psirogiannis, Athanasios",GRE,M,,,,1793,0,20,MAR26,1954,i
 4207432,"Psittos, Konstantinos",GRE,M,,,,2032,0,20,MAR26,1956,i
 4232135,"Psofimi, Milia",GRE,F,,,,1763,0,20,MAR26,1999,w
-4259033,"Psoma, Virginia",GRE,F,,DI,,1685,2,20,MAR26,1986,w
+4259033,"Psoma, Virginia",GRE,F,,,,1685,2,20,MAR26,1986,w
 42198615,"Psomas, Konstantinos",GRE,M,,,,1470,4,40,MAR26,2017,
 25843842,"Psomas, Stelios",GRE,M,,,,1554,0,40,MAR26,2006,i
 4222806,"Psomiadis, Haralampos",GRE,M,,,,1845,0,20,MAR26,1961,
@@ -5764,7 +5764,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4215109,"Rigopoulos-Tsigkos, Alexandros",GRE,M,,,,2069,0,20,MAR26,1992,
 25875167,"Rigos, Loukas",GRE,M,,,,1621,0,40,MAR26,1983,i
 4246551,"Rigou, Konstantina",GRE,F,,,,1558,2,20,MAR26,1998,w
-4272749,"Rikaniadis, Stamatios",GRE,M,,DI,,1657,0,40,MAR26,1979,i
+4272749,"Rikaniadis, Stamatios",GRE,M,,,,1657,0,40,MAR26,1979,i
 4208056,"Rinopoulos, Vasilis",GRE,M,,,,1944,0,20,MAR26,1988,i
 42110041,"Risvas, Evangelos Menelaos",GRE,M,,,,1463,0,40,MAR26,2009,
 42157900,"Ritinioti, Sofia",GRE,F,,,,1583,3,40,MAR26,2015,w
@@ -5905,8 +5905,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25895958,"Sampsonoglou, Dimitrios",GRE,M,,,,1628,7,40,MAR26,2009,
 25825500,"Sampsonoglou, Vasilios",GRE,M,,,,1868,7,20,MAR26,2005,
 42158818,"Sanas, Dionysios Marios",GRE,M,,,,1601,0,40,MAR26,2008,i
-4207645,"Sandalakis, Angelos",GRE,M,IM,FT,,2399,0,10,MAR26,1988,
-4222890,"Sandalakis, Nikolaos",GRE,M,CM,FI,,2231,0,20,MAR26,1994,
+4207645,"Sandalakis, Angelos",GRE,M,IM,,,2399,0,10,MAR26,1988,
+4222890,"Sandalakis, Nikolaos",GRE,M,CM,,,2231,0,20,MAR26,1994,
 4287533,"Santorinaios, Hristodoulos",GRE,M,,,,1952,2,20,MAR26,1996,
 4287541,"Santorinaios, Iakovos",GRE,M,,,,1891,4,20,MAR26,1999,
 42180074,"Santrazamis, Symeon",GRE,M,,,,1619,0,40,MAR26,2009,i
@@ -5920,7 +5920,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4245865,"Sarakenidis, Nikolaos",GRE,M,,,,1849,0,20,MAR26,1979,
 4222903,"Sarantakos, Sotirios",GRE,M,,,,1822,0,20,MAR26,1979,i
 4262794,"Sarantidis, Gavriil",GRE,M,,,,1474,2,40,MAR26,1961,
-25843354,"Sarantidis, Ilias",GRE,M,,DI,,1603,0,40,MAR26,1987,
+25843354,"Sarantidis, Ilias",GRE,M,,,,1603,0,40,MAR26,1987,
 25803786,"Sarantopoulos, Konstantinos",GRE,M,,,,1587,0,20,MAR26,2004,i
 4213378,"Sarantopoulos, Panayotis",GRE,M,,,,1799,3,20,MAR26,1994,
 4213394,"Sarantopoulou, Niki",GRE,F,,,,1559,3,20,MAR26,1996,w
@@ -6064,14 +6064,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25826972,"Sidiropoulos, Dimitrios",GRE,M,,,,1659,0,40,MAR26,1987,i
 4296168,"Sidiropoulos, Georgios",GRE,M,,,,1471,0,20,MAR26,1976,i
 4277740,"Sidiropoulos, Georgios Th.",GRE,M,,,,1725,0,20,MAR26,2000,i
-4222954,"Sidiropoulos, Leonidas",GRE,M,,"NI,IA",,1884,0,20,MAR26,1990,i
+4222954,"Sidiropoulos, Leonidas",GRE,M,,IA,,1884,0,20,MAR26,1990,i
 4240065,"Sidiropoulos, Nikolaos Ch.",GRE,M,,,,2266,0,20,MAR26,1976,
 4217250,"Sidiropoulos, Nikolaos K.",GRE,M,,,,2193,0,20,MAR26,1997,
 42153352,"Sidiropoulos, Panagiotis Arg",GRE,M,,,,1634,7,40,MAR26,2015,
 42149215,"Sidiropoulos, Panagiotis Chr",GRE,M,,,,1729,0,40,MAR26,1989,
 541001133,"Sidiropoulos, Panagiotis Z",GRE,M,,,,1519,0,40,MAR26,1997,i
 25802496,"Sidiropoulos, Vasilis",GRE,M,,NA,,2042,0,20,MAR26,2005,
-4208498,"Siempos, Konstantinos",GRE,M,,FI,,1946,0,20,MAR26,1982,i
+4208498,"Siempos, Konstantinos",GRE,M,,,,1946,0,20,MAR26,1982,i
 25818309,"Sienczewski, Mariusz",GRE,M,,,,1422,0,40,MAR26,0,i
 25892924,"Sifakis, Nektarios",GRE,M,,,,1859,0,40,MAR26,2005,
 541005180,"Sifaleras, Angelos",GRE,M,,,,1675,0,40,MAR26,1976,
@@ -6424,7 +6424,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4285409,"Stavrianos, Vasilios",GRE,M,,,,1635,0,20,MAR26,1955,i
 358104830,"Stavridis, Grigoris",GRE,M,,,,1521,0,40,MAR26,2007,
 4223659,"Stavrinoudakis, St",GRE,M,,,,1805,0,40,MAR26,1974,i
-4291760,"Stavropoulos, Aris",GRE,M,,NI,,1662,0,20,MAR26,1963,i
+4291760,"Stavropoulos, Aris",GRE,M,,,,1662,0,20,MAR26,1963,i
 42166012,"Stavropoulos, Georgios S",GRE,M,,,,1818,6,40,MAR26,2014,
 4255283,"Stavropoulos, Konstantinos",GRE,M,,,,2141,3,20,MAR26,2000,
 25821997,"Stavropoulos, Konstantinos Sot.",GRE,M,,,,1425,0,40,MAR26,2004,i
@@ -6447,7 +6447,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4265319,"Stefanatos, Gerasimos",GRE,M,,,,1735,0,20,MAR26,2001,i
 4223101,"Stefanatos, Nikolaos",GRE,M,,,,1918,0,20,MAR26,1992,
 4213297,"Stefanidi, Maria",GRE,F,,,,1853,0,20,MAR26,1990,wi
-4207750,"Stefanidi, Maria-Anna",GRE,F,WFM,WFM,"SI,FI,SLI",2004,0,20,MAR26,1986,w
+4207750,"Stefanidi, Maria-Anna",GRE,F,WFM,WFM,"SI,SLI",2004,0,20,MAR26,1986,w
 25841114,"Stefanidis, Apostolos",GRE,M,,,,1432,0,40,MAR26,2004,i
 42172187,"Stefanidis, Christos",GRE,M,,,,1428,0,40,MAR26,2010,i
 4278011,"Stefanidis, Dimitrios",GRE,M,,,,1589,0,40,MAR26,2001,i
@@ -6530,7 +6530,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4210972,"Symeonidis, Ilarion",GRE,M,,,,1763,0,20,MAR26,1953,
 25873806,"Symeonidis, Theofilos",GRE,M,,,,1771,0,20,MAR26,2002,
 541004329,"Sympas, Anastasios Georgios",GRE,M,,,,1752,0,40,MAR26,2009,
-25828967,"Synetos, Dionysios",GRE,M,,NI,,1840,0,20,MAR26,1989,
+25828967,"Synetos, Dionysios",GRE,M,,,,1840,0,20,MAR26,1989,
 541007441,"Syngounis, Filippos",GRE,M,,,,1427,1,40,MAR26,2016,
 4257081,"Syrigos, Hristos",GRE,M,,,,1423,0,40,MAR26,1993,i
 4223187,"Syriopoulos, Antonis",GRE,M,,,,1688,0,40,MAR26,1979,i
@@ -6551,7 +6551,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42199123,"Taktikos, Nikiforos",GRE,M,,,,1559,0,40,MAR26,2014,
 42124140,"Taladianos, Ioannis",GRE,M,,,,1593,0,40,MAR26,2008,
 25894765,"Talaverou, Vasiliki Viktoria",GRE,F,,,,1731,0,40,MAR26,2011,w
-4254007,"Tallidis, Georgios",GRE,M,,NI,,1779,0,,MAR26,1973,i
+4254007,"Tallidis, Georgios",GRE,M,,,,1779,0,,MAR26,1973,i
 541013646,"Taloukdar, Amir",GRE,M,,,,1587,0,40,MAR26,2000,
 541013654,"Taloukdar, Arman",GRE,M,,,,1446,0,40,MAR26,2000,
 25823523,"Tamiolakis, Eleftherios",GRE,M,,,,1506,0,40,MAR26,2004,i
@@ -6775,7 +6775,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 25823884,"Tourtidis, Theodoros",GRE,M,,,,1755,4,20,MAR26,1980,
 25893351,"Tousoulis, Anargyros",GRE,M,,,,1756,0,40,MAR26,1975,i
 25881760,"Toutoudakis, Angelos",GRE,M,,,,1525,0,40,MAR26,2008,i
-4297563,"Tozaros, Christos",GRE,M,,DI,,1431,0,40,MAR26,1971,i
+4297563,"Tozaros, Christos",GRE,M,,,,1431,0,40,MAR26,1971,i
 25807650,"Tozarou, Ifigenia",GRE,F,,NA,,1584,0,20,MAR26,2003,wi
 541022467,"Trachalakis, Emmanouil",GRE,M,,,,1602,0,40,MAR26,1988,
 42112893,"Trachanas, Panagiotis",GRE,M,,,,1467,0,40,MAR26,2003,i
@@ -7334,7 +7334,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4210735,"Varvadoukas, Theodoros",GRE,M,,,,2109,0,20,MAR26,1988,i
 42183200,"Varvaresos, Dionysios",GRE,M,,,,1610,12,40,MAR26,2011,
 25869825,"Varvarigos, Georgios",GRE,M,,,,1485,0,40,MAR26,2003,i
-4217667,"Varveraki, Argiri",GRE,F,,NI,,1624,0,20,MAR26,1991,wi
+4217667,"Varveraki, Argiri",GRE,F,,,,1624,0,20,MAR26,1991,wi
 4251474,"Varverakis, Konstantinos",GRE,M,,,,1646,0,40,MAR26,1959,i
 25885340,"Varveris, Spyridon",GRE,M,,,,1445,0,40,MAR26,2006,i
 4274245,"Vasarmidis, Eleftherios",GRE,M,,,,1478,0,20,MAR26,0,
@@ -7395,7 +7395,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42151864,"Vaxevanakis, Ioannis",GRE,M,,NA,,1500,0,20,MAR26,1994,
 5309077,"Vayanos,George Marwan",GRE,M,,,,2105,2,20,MAR26,2006,
 42140358,"Vazdirvanidis, Christos",GRE,M,,,,1466,1,40,MAR26,2012,
-4219902,"Vazelaki, Stamatia",GRE,F,,"NI,NI",,1619,0,20,MAR26,1971,w
+4219902,"Vazelaki, Stamatia",GRE,F,,NI,,1619,0,20,MAR26,1971,w
 4203674,"Vazelakis, Dimitrios",GRE,M,,,,1877,7,20,MAR26,1966,
 25826662,"Vazos, Antonios",GRE,M,,,,1445,0,40,MAR26,2000,i
 4229924,"Vazoura, Aphroditi-Haralambia",GRE,F,,,,1692,0,20,MAR26,2001,wi
@@ -7741,7 +7741,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4276817,"Zioviris, Georgios",GRE,M,,,,1801,0,,MAR26,1982,i
 42167868,"Zisakos, Iason",GRE,M,,,,1457,0,40,MAR26,2009,i
 42167850,"Zisakos, Orestis",GRE,M,,,,1404,0,40,MAR26,2009,i
-4262921,"Zisiadis, Dimitrios",GRE,M,,"FI,FI,FA",,2013,0,20,MAR26,1999,
+4262921,"Zisiadis, Dimitrios",GRE,M,,"FI,FA",,2013,0,20,MAR26,1999,
 4291336,"Zisimatos, S",GRE,M,,,,1809,6,40,MAR26,0,
 42159016,"Zisis, Christoforos I",GRE,M,,,,1414,0,40,MAR26,2000,i
 25823280,"Zisis, Georgios",GRE,M,,,,1518,0,40,MAR26,2005,i

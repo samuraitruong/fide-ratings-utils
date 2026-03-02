@@ -5805,21 +5805,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "447008547",
-    "Name": "Aliyev, Ali",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1507",
-    "Gms": "7",
-    "K": "20",
-    "RatingMonth": "MAR26",
-    "B-day": "2007",
-    "Flag": ""
-  },
-  {
     "ID Number": "13792555",
     "Name": "Aliyev, Ali",
     "Fed": "KAZ",
@@ -5833,6 +5818,21 @@
     "RatingMonth": "MAR26",
     "B-day": "2014",
     "Flag": "i"
+  },
+  {
+    "ID Number": "447008547",
+    "Name": "Aliyev, Ali",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1507",
+    "Gms": "7",
+    "K": "20",
+    "RatingMonth": "MAR26",
+    "B-day": "2007",
+    "Flag": ""
   },
   {
     "ID Number": "447067624",
@@ -34800,21 +34800,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "447057661",
-    "Name": "Kim, Valeriy",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1601",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAR26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13713892",
     "Name": "Kim, Valeriy",
     "Fed": "KAZ",
@@ -34827,6 +34812,21 @@
     "K": "20",
     "RatingMonth": "MAR26",
     "B-day": "1948",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "447057661",
+    "Name": "Kim, Valeriy",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1601",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAR26",
+    "B-day": "2008",
     "Flag": "i"
   },
   {
@@ -44255,7 +44255,7 @@
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "FM",
-    "WTit": "FI,IA",
+    "WTit": "IA",
     "OTit": "",
     "Rating": "2175",
     "Gms": "0",
@@ -62525,7 +62525,7 @@
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "FM",
-    "WTit": "FT,FST",
+    "WTit": "FT",
     "OTit": "",
     "Rating": "2120",
     "Gms": "0",
@@ -74270,7 +74270,7 @@
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "",
-    "WTit": "NI",
+    "WTit": "",
     "OTit": "",
     "Rating": "1753",
     "Gms": "0",

@@ -1086,7 +1086,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1331922,"Dellenbach, Jean-Paul",SUI,M,,,,1625,0,20,MAR26,1956,i
 1328042,"Dell`ambrogio, Edy",SUI,M,,,,2019,0,20,MAR26,1955,
 1314475,"Delmonico, Nils",SUI,M,,,,1978,1,20,MAR26,1977,
-1313436,"Delpin, Eric",SUI,M,,"FI,SI,FA",,2043,0,20,MAR26,1990,
+1313436,"Delpin, Eric",SUI,M,,"SI,FA",,2043,0,20,MAR26,1990,
 1313770,"Delpin, Patrice",SUI,M,,,,1962,0,20,MAR26,1958,i
 1308440,"Deluermoz, Francois",SUI,M,,,,1883,0,40,MAR26,1974,i
 1373846,"Delvecchio, Davide",SUI,M,,,,1738,5,40,MAR26,1998,
@@ -2015,7 +2015,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1310127,"Hartmann, Thomas",SUI,M,,,,2085,0,20,MAR26,1958,i
 1356976,"Hartsleben, Gerhard",SUI,M,,,,1982,2,40,MAR26,1967,
 1364448,"Hasan, Musabbir",SUI,M,,,,1421,3,40,MAR26,2013,
-1303309,"Hasenohr, Benedict",SUI,M,FM,FT,,2243,3,20,MAR26,1995,
+1303309,"Hasenohr, Benedict",SUI,M,FM,,,2243,3,20,MAR26,1995,
 1324705,"Hasenohr, Oliver",SUI,M,,,,1504,0,40,MAR26,1967,
 1343106,"Hasler, Dominik",SUI,M,,,,1822,0,20,MAR26,1968,i
 1320270,"Hasler, Patrick",SUI,M,,,,1879,1,20,MAR26,1962,
@@ -2230,7 +2230,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1374206,"Hugelshofer, Martin",SUI,M,,,,1717,0,40,MAR26,1949,
 1325108,"Hugener, Roger",SUI,M,,,,1675,0,20,MAR26,1963,
 1319876,"Hugentobler, Niklaus",SUI,M,,,,1698,0,20,MAR26,1948,i
-1301497,"Hugentobler, Patrick",SUI,M,FM,FI,,2183,11,20,MAR26,1956,
+1301497,"Hugentobler, Patrick",SUI,M,FM,,,2183,11,20,MAR26,1956,
 1343980,"Hugger , Marcel",SUI,M,,,,1802,0,40,MAR26,1990,i
 1312421,"Huggler, Andreas",SUI,M,,,,1744,1,20,MAR26,1946,
 1388479,"Huguenin, Albert",SUI,M,,,,1713,0,20,MAR26,1939,i
@@ -2584,7 +2584,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1328220,"Knecht, Daniel",SUI,M,,,,1726,0,20,MAR26,1951,i
 1306529,"Kneifel, Stefan",SUI,M,,,,2096,0,20,MAR26,1969,i
 1369717,"Kneubuehler, Marco",SUI,M,,,,1674,1,20,MAR26,2005,
-1346580,"Knezevic, Zeljko",SUI,M,,DI,,1769,1,20,MAR26,1956,
+1346580,"Knezevic, Zeljko",SUI,M,,,,1769,1,20,MAR26,1956,
 1389394,"Knobel, Hansruedi",SUI,M,,,,1538,0,20,MAR26,1965,i
 1300687,"Knobel, Rolf",SUI,M,,,,2260,0,40,MAR26,1963,i
 1369725,"Knoerzer, Christoph",SUI,M,,,,1660,0,20,MAR26,1950,i
@@ -3651,7 +3651,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1301829,"Paladini, Jean-Michel",SUI,M,,,,1965,2,20,MAR26,1962,
 1359266,"Palairet, Alexander",SUI,M,,,,2030,8,40,MAR26,2012,
 1325582,"Palau, Jean-Paul",SUI,M,,,,1561,0,20,MAR26,1943,i
-1305573,"Paleologu, Vladimir",SUI,M,,FI,,2067,0,20,MAR26,1971,
+1305573,"Paleologu, Vladimir",SUI,M,,,,2067,0,20,MAR26,1971,
 1372890,"Paliwal, Saurabh",SUI,M,,,,1508,0,20,MAR26,1992,i
 1319647,"Paliwoda, Felix",SUI,M,,,,1784,0,20,MAR26,1962,i
 1361228,"Pallagi, Luca",SUI,M,,,,1593,0,40,MAR26,2008,i
@@ -4337,7 +4337,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1309889,"Schiendorfer, Emanuel",SUI,M,FM,,,2395,1,20,MAR26,1990,
 1312960,"Schiendorfer, Florian",SUI,M,,,,2164,0,20,MAR26,1990,i
 1328492,"Schiendorfer, Reinhard",SUI,M,,,,1964,0,20,MAR26,1955,
-1303198,"Schild, Christophe",SUI,M,,"NI,SI",,2026,1,20,MAR26,1977,
+1303198,"Schild, Christophe",SUI,M,,SI,,2026,1,20,MAR26,1977,
 1334379,"Schilliger, Erwin",SUI,M,,,,1867,0,40,MAR26,1946,
 1315722,"Schilling, Andreas",SUI,M,,,,2027,0,40,MAR26,1969,
 1326040,"Schilling, Christian",SUI,M,,,,1942,0,40,MAR26,1984,i
@@ -4859,7 +4859,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1322907,"Suter, Yannick",SUI,M,,,,1960,0,20,MAR26,1992,i
 1309692,"Sutter, Dominik",SUI,M,,,,2092,0,20,MAR26,1977,i
 1347721,"Sutter, Julian",SUI,M,,,,1913,3,40,MAR26,2011,
-1300474,"Sutter, Oliver",SUI,M,FM,FI,,2297,7,10,MAR26,1970,
+1300474,"Sutter, Oliver",SUI,M,FM,,,2297,7,10,MAR26,1970,
 1330128,"Sutter, Samuel",SUI,M,,,,1765,0,20,MAR26,1970,
 1339249,"Sutter-Somm, Thomas",SUI,M,,,,1743,0,20,MAR26,1956,i
 1309803,"Suwendo, Poedjo",SUI,M,,,,1690,2,20,MAR26,1942,

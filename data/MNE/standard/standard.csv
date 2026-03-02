@@ -235,7 +235,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 16500580,"Kontic, Veselin",MNE,M,,,,1849,0,40,MAR26,1996,i
 16507797,"Koprivica, Andrija",MNE,M,,,,1807,0,40,MAR26,2008,
 16501683,"Korac, Dusan",MNE,M,,,,2002,0,40,MAR26,1969,i
-900290,"Kosic, Dragan",MNE,M,GM,FT,,2342,10,10,MAR26,1970,
+900290,"Kosic, Dragan",MNE,M,GM,,,2342,10,10,MAR26,1970,
 933899,"Kosoric, Luka",MNE,M,,,,2084,0,20,MAR26,1959,i
 16500016,"Kostic, Vladimir",MNE,M,,,,1923,0,20,MAR26,1996,i
 16509684,"Kovac, Nikola",MNE,M,,,,1802,0,40,MAR26,2006,i
@@ -311,7 +311,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 16503406,"Miletic, Vuk",MNE,M,,,,2229,0,20,MAR26,2003,
 16510852,"Milicevic, Nikola",MNE,M,,,,1497,0,40,MAR26,2008,
 16508041,"Milinkovic, Vlade",MNE,M,,,,1831,0,40,MAR26,1956,i
-901385,"Miljanic, Boro",MNE,M,IM,FT,,2342,0,10,MAR26,1965,
+901385,"Miljanic, Boro",MNE,M,IM,,,2342,0,10,MAR26,1965,
 942022,"Milosevic, Dejan",MNE,M,,,,1915,0,40,MAR26,1976,i
 16501055,"Milosevic, Dragomir",MNE,M,,,,1762,0,20,MAR26,1952,i
 16501586,"Milosevic, Radmila",MNE,F,,,,1723,0,20,MAR26,1965,wi
@@ -526,7 +526,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 921670,"Stanicic, Josip",MNE,M,,,,2106,0,20,MAR26,1948,i
 16511662,"Stankovic, Petar",MNE,M,,,,1505,0,40,MAR26,2010,
 930318,"Stankovic, Zarko",MNE,M,,,,2095,0,40,MAR26,1970,i
-931411,"Stojanovic, Marija R",MNE,F,WIM,WIM,FI,2072,0,20,MAR26,1983,wi
+931411,"Stojanovic, Marija R",MNE,F,WIM,WIM,,2072,0,20,MAR26,1983,wi
 16500172,"Stojanovic, Nebojsa",MNE,M,,,,1975,0,20,MAR26,1958,i
 16505999,"Stojanovic, Radovan",MNE,M,,,,1840,0,20,MAR26,1959,
 16500814,"Stojanovic, Slobodan",MNE,M,,,,1842,0,20,MAR26,1958,i

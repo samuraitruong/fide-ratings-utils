@@ -505,7 +505,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13507362,"Klimovich, Hanna",FID,F,,,,1665,0,20,MAR26,1996,w
 13519514,"Klintsevich, Andrei",FID,M,,,,1861,0,20,MAR26,1988,
 73000485,"Knap, Jasa",FID,M,,,,1695,0,40,MAR26,2002,i
-4119150,"Kobalia, Mikhail",FID,M,GM,"FST,FST",,2538,0,10,MAR26,1978,
+4119150,"Kobalia, Mikhail",FID,M,GM,FST,,2538,0,10,MAR26,1978,
 13519352,"Koishman, Karina",FID,F,,,,1680,0,40,MAR26,2009,wi
 55770037,"Kokareva, Sofya Dm",FID,F,,,,1834,9,40,MAR26,2014,w
 34147222,"Kolchin, Maxim",FID,M,,,,2155,0,20,MAR26,2006,i
@@ -659,7 +659,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 138105352,"Manlla Hasan, Ahmad",FID,M,,,,1578,0,40,MAR26,1996,i
 34368213,"Markov, Igor A.",FID,M,,,,1891,0,40,MAR26,2011,
 24121622,"Markov, Ilja",FID,M,,,,1846,0,20,MAR26,1975,
-55826962,"Markov, Mikhail Ev.",FID,M,,,,1549,5,,MAR26,2018,
+55826962,"Markov, Mikhail Ev.",FID,M,,,,1555,3,,MAR26,2018,
 115201984,"Marquez, Danilo",FID,M,,,,1710,0,40,MAR26,1964,i
 150095622,"Martakov, Roman",FID,M,,,,1455,0,,MAR26,2007,i
 11203498,"Martin, Garry",FID,M,,,,1699,0,40,MAR26,1967,i
@@ -728,7 +728,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 366130138,"Nadar, Kaushik",FID,M,,,,1539,0,40,MAR26,1989,i
 10302778,"Nair, Anan",FID,M,,,,1477,0,40,MAR26,1986,i
 366095404,"Nair, Saranya",FID,F,,,,1519,0,40,MAR26,2010,wi
-4118987,"Najer, Evgeniy",FID,M,GM,FST,,2619,0,10,MAR26,1977,
+4118987,"Najer, Evgeniy",FID,M,GM,,,2619,0,10,MAR26,1977,
 10301860,"Nanthalathu, Ebin",FID,M,,,,1669,0,40,MAR26,2002,
 111105406,"Nasir, Tahir",FID,M,,,,1668,0,,MAR26,1990,
 34513302,"Nasraddin, Rafea Mahdi",FID,M,,,,1778,0,40,MAR26,1974,i
@@ -852,11 +852,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34209026,"Radionenko, Gleb",FID,M,,,,1815,6,40,MAR26,2011,
 55669441,"Radushinskaya, Svetlana",FID,F,,,,1672,8,40,MAR26,2013,w
 10301976,"Raeisi, Shahla",FID,F,,,,1540,0,40,MAR26,1981,wi
-4103203,"Raetsky, Alexander",FID,M,GM,"FT,FT",,2282,0,10,MAR26,1961,
+4103203,"Raetsky, Alexander",FID,M,GM,FT,,2282,0,10,MAR26,1961,
 26386046,"Rahmuni, Saad",FID,M,,,,1457,0,40,MAR26,2004,i
 366110091,"Rajeev, Pallavi",FID,F,,,,1764,0,,MAR26,2011,w
 55729711,"Rakhimkulov, Askar",FID,M,,,,1999,9,40,MAR26,2013,
-4173708,"Rakhmanov, Aleksandr",FID,M,GM,FT,,2590,9,10,MAR26,1989,
+4173708,"Rakhmanov, Aleksandr",FID,M,GM,,,2590,9,10,MAR26,1989,
 327104700,"Ralchev, Vasil",FID,M,,,,1528,0,40,MAR26,1997,i
 74600389,"Ramchandani, Yash",FID,M,,,,1527,0,40,MAR26,2000,i
 4114213,"Raondi, Yan-Martin",FID,M,,,,1638,0,20,MAR26,1936,
@@ -1112,7 +1112,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34119741,"Usacheva, Glafira",FID,F,WFM,WFM,NA,2088,9,20,MAR26,2003,w
 34254854,"Uskov, Artem",FID,M,GM,,,2521,0,10,MAR26,2010,
 379112431,"Ussenov, Abylay",FID,M,,,,1617,0,,MAR26,2002,
-24140848,"Utiatskaja, Irina",FID,F,WIM,WIM,FI,2065,0,20,MAR26,1996,w
+24140848,"Utiatskaja, Irina",FID,F,WIM,WIM,,2065,0,20,MAR26,1996,w
 366194752,"V, Kanisha",FID,F,,,,1422,0,40,MAR26,2003,wi
 3500683,"Valdivia, Manuel",FID,M,FM,,,2255,0,20,MAR26,1963,
 13506498,"Valevich, Sergei",FID,M,,,,1992,0,20,MAR26,1994,i

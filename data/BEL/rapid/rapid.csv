@@ -113,7 +113,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 548005860,"Balza, Leo",BEL,M,,,,1401,0,40,MAR26,2011,
 254428,"Bara, Gloria",BEL,F,,,,1449,0,20,MAR26,2006,wi
 207497,"Barbe, Tom",BEL,M,,,,2050,0,,MAR26,1987,i
-200395,"Barbier, Astrid",BEL,F,WFM,WFM,NI,1925,0,20,MAR26,1996,wi
+200395,"Barbier, Astrid",BEL,F,WFM,WFM,,1925,0,20,MAR26,1996,wi
 285978,"Barbier, Francois",BEL,M,,,,1686,3,20,MAR26,1987,
 262455,"Barbier, Thomas",BEL,M,,,,1933,0,20,MAR26,1989,i
 207977,"Barbier, Wiebke",BEL,F,,,,1985,0,20,MAR26,1992,w
@@ -725,7 +725,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 269328,"Dieltjens, Rafael",BEL,M,,,,1442,0,40,MAR26,2013,i
 269280,"Dieltjens, Simon",BEL,M,,,,1554,0,40,MAR26,2010,i
 215813,"Dierckens, Joachim",BEL,M,,,,1612,0,40,MAR26,1990,i
-205745,"Dierckens, Sarah",BEL,F,,FI,,1949,0,20,MAR26,1987,wi
+205745,"Dierckens, Sarah",BEL,F,,,,1949,0,20,MAR26,1987,wi
 229270,"Dierckx, Falco",BEL,M,,,,1632,0,20,MAR26,1996,i
 215830,"Dierckx, Jef",BEL,M,,,,1710,0,20,MAR26,1969,i
 285587,"Dierickx, Ulysse",BEL,M,,,,1510,0,40,MAR26,2008,
@@ -846,7 +846,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 238228,"Faybish, Benjamin",BEL,M,,,,2043,0,20,MAR26,2004,
 249270,"Faybish, Dana",BEL,F,,,,1691,0,20,MAR26,2007,wi
 233609,"Faybish, Nathaniel",BEL,M,,,,1851,0,20,MAR26,2003,i
-202142,"Faybish, Nimrod",BEL,M,,FI,,2159,0,20,MAR26,1971,
+202142,"Faybish, Nimrod",BEL,M,,,,2159,0,20,MAR26,1971,
 233617,"Faymonville, Marcel",BEL,M,,,,1634,0,20,MAR26,1970,
 270113,"Ferdaoui, Jamal",BEL,M,,,,1915,0,20,MAR26,1977,i
 285455,"Fernandez Domingos, Elias",BEL,M,,,,1702,0,40,MAR26,1991,i
@@ -1141,7 +1141,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 287610,"Hosseini, Hamid Reze",BEL,M,,,,1510,0,40,MAR26,1986,i
 275069,"Houbben, Johnny",BEL,M,,,,1705,0,20,MAR26,1992,
 276790,"Houze, Sylvain",BEL,M,,,,1564,0,40,MAR26,1973,i
-13300865,"Hovhannisyan, Mher",BEL,M,GM,FT,,2409,0,10,MAR26,1978,i
+13300865,"Hovhannisyan, Mher",BEL,M,GM,,,2409,0,10,MAR26,1978,i
 282723,"Huang, Kayan",BEL,M,,,,1878,0,40,MAR26,2009,
 227080,"Hubert, Rene",BEL,M,,,,1633,0,20,MAR26,1945,
 248703,"Hubinon, Bryan",BEL,M,,,,1686,0,40,MAR26,2005,i
@@ -1415,7 +1415,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 243981,"Liveyns, Rune",BEL,M,,,,1882,0,20,MAR26,2004,
 241709,"Loes, Pierre",BEL,M,,,,1612,0,20,MAR26,1963,
 202789,"Lombart, Philippe",BEL,M,,,,1824,0,20,MAR26,1954,
-45197148,"Loncke, Matthieu",BEL,M,,NI,,2114,0,20,MAR26,2004,i
+45197148,"Loncke, Matthieu",BEL,M,,,,2114,0,20,MAR26,2004,i
 227471,"Londers, Jan",BEL,M,,,,1871,7,20,MAR26,1981,
 294276,"Lonfils, Lorenz",BEL,M,,,,1484,0,40,MAR26,2002,i
 276545,"Longfils, Damien",BEL,M,,,,1649,0,20,MAR26,2005,

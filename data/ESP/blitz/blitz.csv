@@ -267,7 +267,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 32026935,"Alfaya Marcelo, Roberto",ESP,M,FM,,,2091,0,20,MAR26,1999,
 32026943,"Alfaya Martinez, Enrique",ESP,M,,,,1622,0,20,MAR26,1969,
 22218203,"Alfonso Abrego, Santiago",ESP,M,,,,1839,0,20,MAR26,1945,i
-2271532,"Alfonso Durban, Xavier",ESP,M,CM,FI,,2210,0,20,MAR26,1992,i
+2271532,"Alfonso Durban, Xavier",ESP,M,CM,,,2210,0,20,MAR26,1992,i
 24593508,"Alfonso Hidalgo, Andres",ESP,M,,,,1626,0,20,MAR26,1965,
 2221276,"Alfonso Nogue, Alfonso",ESP,M,,,,1993,0,20,MAR26,1960,i
 24593486,"Alfonso Pellisa, Aaron",ESP,M,,,,2080,0,20,MAR26,2003,
@@ -323,7 +323,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2260409,"Aloma Vidal, Robert",ESP,M,IM,,,2415,0,10,MAR26,1989,
 54599563,"Alonso Agudo, Mario",ESP,M,,,,1702,0,40,MAR26,2008,
 2221560,"Alonso Alonso, Ivan",ESP,M,,,,2020,0,20,MAR26,1975,
-2257050,"Alonso Alvarez, Aitor",ESP,M,FM,"FT,FT",,2060,0,20,MAR26,1986,i
+2257050,"Alonso Alvarez, Aitor",ESP,M,FM,FT,,2060,0,20,MAR26,1986,i
 54570123,"Alonso Alvarez, Alvaro",ESP,M,,,,1490,0,40,MAR26,2009,i
 54570115,"Alonso Alvarez, Daniel",ESP,M,,,,1512,0,40,MAR26,2009,i
 94749574,"Alonso Anton, Carlos",ESP,M,,,,1758,0,20,MAR26,1985,i
@@ -400,7 +400,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54782040,"Altelarrea Hernando, Rodrigo",ESP,M,,,,1796,0,40,MAR26,2010,
 22254269,"Altuna Iza, Jon",ESP,M,,,,1763,0,20,MAR26,1976,i
 24549711,"Altuzarra Goni, Eduardo",ESP,M,,,,1620,0,20,MAR26,2002,i
-2204304,"Alvarado Ascanio, Francisco",ESP,M,CM,"FI,SI",,2071,0,20,MAR26,1974,
+2204304,"Alvarado Ascanio, Francisco",ESP,M,CM,SI,,2071,0,20,MAR26,1974,
 2276119,"Alvarado Diaz, Alejandro",ESP,M,IM,,,2477,0,10,MAR26,1993,
 2262800,"Alvarado Rodriguez, David",ESP,M,,,,1881,0,20,MAR26,1985,i
 553000633,"Alvarez Aguayo, Oscar Marcelino",ESP,M,,,,1613,0,20,MAR26,1982,
@@ -565,7 +565,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54700892,"Andres Echeverria, Javier",ESP,M,,,,1406,0,40,MAR26,2011,i
 54536359,"Andres Garre, Adrian",ESP,M,,,,1604,0,40,MAR26,2010,i
 2212595,"Andres Gonzalez, Alberto",ESP,M,IM,,,2473,0,10,MAR26,1981,i
-2217783,"Andres Gonzalez, Ivan",ESP,M,FM,"FT,FT",,2310,0,20,MAR26,1983,
+2217783,"Andres Gonzalez, Ivan",ESP,M,FM,FT,,2310,0,20,MAR26,1983,
 24580740,"Andres Iniguez, Iker",ESP,M,,,,2052,0,40,MAR26,2008,
 22267883,"Andres Magri, Josep M.",ESP,M,,,,1825,0,20,MAR26,1960,
 2246880,"Andres Miguel, Andres",ESP,M,,,,1714,0,20,MAR26,1950,i
@@ -666,7 +666,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 32016522,"Aragon Gutierrez, Alejandro",ESP,M,,,,1840,0,20,MAR26,1995,
 24560669,"Aragon Ramos, Gabriel",ESP,M,,,,1662,0,20,MAR26,1969,
 32057008,"Aragoneses Montero, Elena",ESP,F,,,,1716,0,20,MAR26,2001,wi
-54516994,"Arambulo Urbaneta, Henry Jose",ESP,M,,FI,,1739,0,20,MAR26,1967,i
+54516994,"Arambulo Urbaneta, Henry Jose",ESP,M,,,,1739,0,20,MAR26,1967,i
 24516350,"Aramendia Ybarra, Carlota",ESP,F,,,,1644,0,20,MAR26,2005,wi
 22200622,"Arana Garate, Jon",ESP,M,,,,1921,0,20,MAR26,1979,i
 54514517,"Arana Garcia, Alberto",ESP,M,,,,1635,0,40,MAR26,2009,i
@@ -995,8 +995,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2210134,"Bajo Gutierrez, Ignacio",ESP,M,FM,,,2121,0,20,MAR26,1970,
 2257165,"Bajo Vicente, Alberto",ESP,M,,,,1978,0,20,MAR26,1978,
 2214962,"Balada Moreno, Jose Luis",ESP,M,,,,1997,0,20,MAR26,1956,i
-2297914,"Balague Camps, Marc",ESP,M,CM,"NI,NI",,2069,0,20,MAR26,1995,i
-2266822,"Balague Canadell, Jordi",ESP,M,,"FI,FI",,1979,0,20,MAR26,1958,
+2297914,"Balague Camps, Marc",ESP,M,CM,NI,,2069,0,20,MAR26,1995,i
+2266822,"Balague Canadell, Jordi",ESP,M,,FI,,1979,0,20,MAR26,1958,
 535047356,"Balague Planas, Aleix",ESP,M,,,,1480,0,40,MAR26,2018,
 94762163,"Balague Planas, Lluc",ESP,M,,,,1559,0,40,MAR26,2015,
 523004460,"Balague Ribalta, Marti",ESP,M,,,,1485,0,40,MAR26,2010,i
@@ -2098,7 +2098,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 94701474,"Carbajo Redondo, Raul",ESP,M,,,,1466,0,20,MAR26,1970,
 54712629,"Carbajosa Casado, Jose David",ESP,M,,,,1633,0,20,MAR26,1973,i
 24515450,"Carballido Bouzas, Adan",ESP,M,,,,1971,0,20,MAR26,1999,
-22237852,"Carballido Mateo, Ignacio",ESP,M,,NI,,1581,0,,MAR26,1982,
+22237852,"Carballido Mateo, Ignacio",ESP,M,,,,1581,0,,MAR26,1982,
 523065338,"Carballo Alvarez, Lucas",ESP,M,,,,1481,0,40,MAR26,2010,i
 535076771,"Carballo Beltran de Guevara, Hermes",ESP,M,,,,1495,6,40,MAR26,2012,
 22276408,"Carballo Cancela, Manuel",ESP,M,,,,2056,0,20,MAR26,1996,i
@@ -3192,7 +3192,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22257187,"De Paz Vazquez, Luis Javier",ESP,M,,,,1856,0,20,MAR26,1959,
 54563852,"de Pedro Cuadrado, Marcos",ESP,M,,,,2020,0,20,MAR26,2004,i
 54705762,"De Prada Quintana, Susana",ESP,F,,,,1584,0,40,MAR26,2010,w
-2203600,"De Prado Rodriguez, Oscar Bruno",ESP,M,FM,"FT,IA",,2190,0,20,MAR26,1973,i
+2203600,"De Prado Rodriguez, Oscar Bruno",ESP,M,FM,IA,,2190,0,20,MAR26,1973,i
 54518997,"De Santiago Gordo, Abel",ESP,M,,,,1917,0,20,MAR26,2003,
 523003529,"de Santiago Soto, Rafael Angel",ESP,M,,,,1692,0,20,MAR26,1957,i
 54568188,"De Solaun Bouza, Noel",ESP,M,,,,1438,0,40,MAR26,2008,
@@ -4128,7 +4128,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54733022,"Fernandez Pallol, Ivan",ESP,M,,,,1521,0,40,MAR26,2009,
 32005539,"Fernandez Panzano, Jose Juan",ESP,M,,,,1672,0,,MAR26,1973,i
 523003952,"Fernandez Paredes, Daniel",ESP,M,,,,1531,0,20,MAR26,1979,
-22257357,"Fernandez Pastor, Luis",ESP,M,,NI,,1946,0,20,MAR26,1983,
+22257357,"Fernandez Pastor, Luis",ESP,M,,,,1946,0,20,MAR26,1983,
 54788927,"Fernandez Pedreira, Alejandro",ESP,M,,,,1505,0,20,MAR26,1998,i
 32009372,"Fernandez Pereda, Victor",ESP,M,,,,1713,0,20,MAR26,1989,i
 94794774,"Fernandez Perez, Aaron",ESP,M,,,,1425,0,40,MAR26,2010,i
@@ -4560,7 +4560,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 94725209,"Galli Galante, Franco Giuliano",ESP,M,,,,1499,0,40,MAR26,2008,i
 22222774,"Gallo Ponce, Roger",ESP,M,,,,1912,0,20,MAR26,1957,i
 54516196,"Galstyan, David",ESP,M,FM,,,2083,0,20,MAR26,2006,
-32041144,"Galvan Cipriani, Viviana",ESP,F,WFM,WFM,FI,2012,0,20,MAR26,2004,w
+32041144,"Galvan Cipriani, Viviana",ESP,F,WFM,WFM,,2012,0,20,MAR26,2004,w
 22287876,"Galvan Perez-Ilzarbe, Alejandro",ESP,M,,,,1831,0,20,MAR26,2000,i
 2212447,"Galvan Sarmiento, Jose Luis",ESP,M,,,,1936,0,20,MAR26,1957,i
 2208202,"Galvez Extremera, Francisco",ESP,M,,,,2088,0,20,MAR26,1968,i
@@ -5212,7 +5212,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 94743320,"Gil Rodriguez, Juan",ESP,M,,,,1555,0,20,MAR26,1987,
 54561310,"Gil Sempere, David",ESP,M,,,,1555,0,20,MAR26,1980,
 54790840,"Gil Toscano, Pablo",ESP,M,,,,1746,0,20,MAR26,1988,i
-24579173,"Gil Turrion, Ricardo",ESP,M,,"NI,NI",,1668,0,20,MAR26,1979,i
+24579173,"Gil Turrion, Ricardo",ESP,M,,NI,,1668,0,20,MAR26,1979,i
 54794420,"Gil Van Gils, Juan Ramon",ESP,M,,,,1659,0,,MAR26,1978,i
 24583391,"Gil Vega, Marcel",ESP,M,,,,1895,0,20,MAR26,1981,i
 32043147,"Gil Villascusa, Jose",ESP,M,,,,1562,0,20,MAR26,1953,
@@ -6065,7 +6065,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 32073658,"Hernandez Iglesias, Hector",ESP,M,,,,1542,0,20,MAR26,2004,i
 2278278,"Hernandez Izquierdo, Alberto",ESP,M,,,,1973,0,20,MAR26,1963,i
 523094842,"Hernandez Koevoet, Samuel",ESP,M,,,,1502,0,40,MAR26,2011,
-2272555,"Hernandez Leon, Alberto",ESP,M,FM,FI,,2183,0,20,MAR26,1990,
+2272555,"Hernandez Leon, Alberto",ESP,M,FM,,,2183,0,20,MAR26,1990,
 2285622,"Hernandez Leon, Sergio",ESP,M,CM,,,2181,6,20,MAR26,1991,
 24575208,"Hernandez Lopez, Alberto",ESP,M,,,,1926,0,20,MAR26,1961,i
 54577209,"Hernandez Lopez, Sandra",ESP,F,,,,1598,0,40,MAR26,2009,w
@@ -6260,7 +6260,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 523000899,"Huarte Klimov, Ivan",ESP,M,,,,1510,0,40,MAR26,2014,i
 32008066,"Huarte Zozaya, Aitor",ESP,M,,NA,,2001,0,20,MAR26,2000,
 553007069,"Huaylinos Castaneda, Luis Alejandro",ESP,M,,,,1593,0,40,MAR26,2010,
-2268795,"Huerga Leache, Mikel",ESP,M,GM,"FT,FT,FA",,2468,0,10,MAR26,1989,
+2268795,"Huerga Leache, Mikel",ESP,M,GM,"FT,FA",,2468,0,10,MAR26,1989,
 535035757,"Huerta Cier, Hector Jose",ESP,M,,,,1797,0,20,MAR26,1995,
 32086865,"Huerta Llorens, Arnau",ESP,M,,,,1880,0,20,MAR26,2003,i
 54546583,"Huerta Marroquin, Borja",ESP,M,,,,1553,0,20,MAR26,1997,i
@@ -6333,7 +6333,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22224629,"Iglesias Garcia, Jorge",ESP,M,,,,2025,0,20,MAR26,1996,i
 54767156,"Iglesias Gomez, Mariano",ESP,M,,,,1685,0,20,MAR26,1971,
 32019602,"Iglesias Gonsalvez, Elio",ESP,M,,,,1537,0,20,MAR26,1982,
-94720231,"Iglesias Gonzalez, Francisco Javier",ESP,M,,DI,,1802,0,20,MAR26,1997,
+94720231,"Iglesias Gonzalez, Francisco Javier",ESP,M,,,,1802,0,20,MAR26,1997,
 32094094,"Iglesias Gonzalez, Sabela",ESP,F,,,,1669,0,20,MAR26,2002,wi
 54533112,"Iglesias Jimenez, Javier",ESP,M,,,,1806,0,20,MAR26,1965,
 2212544,"Iglesias Leon, Francisco Javier",ESP,M,,,,1992,0,20,MAR26,1972,
@@ -6509,7 +6509,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54532396,"Jimenez Delgado, Marc",ESP,M,,,,1472,0,40,MAR26,2008,i
 54555809,"Jimenez Diaz, Juan",ESP,M,,,,1549,0,20,MAR26,2007,i
 94779295,"Jimenez Escudero, Daniel",ESP,M,,,,1623,0,40,MAR26,2012,
-32070934,"Jimenez Fernandez, Rebeca",ESP,F,WFM,WFM,NI,2075,0,20,MAR26,2004,w
+32070934,"Jimenez Fernandez, Rebeca",ESP,F,WFM,WFM,,2075,0,20,MAR26,2004,w
 24595888,"Jimenez Freniche, David",ESP,M,,,,2036,0,40,MAR26,2010,
 54537010,"Jimenez Freniche, Jose Ramon",ESP,M,,,,1516,0,20,MAR26,2004,i
 523004010,"Jimenez Gallego, Daniel",ESP,M,,,,1502,0,20,MAR26,2006,
@@ -9939,7 +9939,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 535034777,"Pereda Perez, Izan",ESP,M,,,,1536,0,40,MAR26,2012,
 523007630,"Pereira Dos Santos, Jorge",ESP,M,,,,1838,0,20,MAR26,1981,
 94734402,"Pereira Fernandez, Abraham",ESP,M,,,,1482,0,40,MAR26,2015,
-2209667,"Pereira Figueroa, Manuel",ESP,M,,FI,,2013,0,20,MAR26,1959,
+2209667,"Pereira Figueroa, Manuel",ESP,M,,,,2013,0,20,MAR26,1959,
 2215420,"Pereira Garcia, Josep R.",ESP,M,,,,1782,0,20,MAR26,1960,i
 535036095,"Pereira Gonzalez, Ezequiel Nicolas",ESP,M,,,,1621,0,20,MAR26,2007,
 54735424,"Pereira Gonzalez, Manuel",ESP,M,,,,1813,0,20,MAR26,1978,i
@@ -10820,7 +10820,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2282780,"Recio Reyes, Sergio",ESP,M,,,,1914,0,20,MAR26,1988,i
 2228424,"Recuenco Andres, Javier",ESP,M,,,,1905,0,20,MAR26,1973,i
 2255766,"Recuero Guerra, David",ESP,M,IM,,,2392,0,10,MAR26,1991,i
-2254085,"Recuero Guerra, Javier",ESP,M,FM,"FI,FI,FA",,2271,0,20,MAR26,1987,
+2254085,"Recuero Guerra, Javier",ESP,M,FM,"FI,FA",,2271,0,20,MAR26,1987,
 32010427,"Recuna Aranda, Miguel",ESP,M,,,,1855,0,20,MAR26,1999,i
 32049196,"Recuna Aranda, Xoan",ESP,M,,,,1541,0,20,MAR26,2004,i
 32056354,"Recuna Carrasco, Rafael",ESP,M,,,,1561,0,20,MAR26,1966,i
@@ -11163,7 +11163,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 32067798,"Rodriguez de Paz, Bastolome",ESP,M,,,,1611,0,20,MAR26,1965,i
 2263777,"Rodriguez De Robles, Ignacio",ESP,M,,,,1869,0,20,MAR26,1967,
 24512451,"Rodriguez Del Cerro, Ricardo",ESP,M,CM,,,1979,0,20,MAR26,2003,i
-2298988,"Rodriguez Del Moral, Angel",ESP,M,,"NI,NA",,1881,0,,MAR26,1955,i
+2298988,"Rodriguez Del Moral, Angel",ESP,M,,NA,,1881,0,,MAR26,1955,i
 2256967,"Rodriguez Del Pino, Daniel",ESP,M,,,,1925,0,20,MAR26,1982,i
 535080272,"Rodriguez Des, Gabriel",ESP,M,,,,1419,0,40,MAR26,2013,
 32044186,"Rodriguez Diaz, Javier 1994",ESP,M,,,,2008,0,20,MAR26,1994,
@@ -11716,7 +11716,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54773610,"Rullan Bento, Pau",ESP,M,,,,1649,0,40,MAR26,2013,
 54544980,"Rumbo Picazo, Jaime",ESP,M,,,,1814,0,40,MAR26,2011,
 32012799,"Runza Rodriguez, David",ESP,M,,,,1962,0,20,MAR26,1997,
-22245049,"Ruperez Benito, Antonio",ESP,M,FM,FI,,2407,0,10,MAR26,1998,
+22245049,"Ruperez Benito, Antonio",ESP,M,FM,,,2407,0,10,MAR26,1998,
 94740003,"Rusillo Ramirez, Bernabe",ESP,M,,,,1681,0,40,MAR26,2010,
 32027940,"Russo, Daniel",ESP,M,,,,1627,0,20,MAR26,1960,
 94755000,"Ryabintsev, Alexander",ESP,M,,,,1816,0,20,MAR26,1974,i
@@ -12893,7 +12893,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2299100,"Tejedor Fuente, Enrique",ESP,M,IM,,,2553,0,10,MAR26,1995,
 2206374,"Tejedor Fuente, Marina",ESP,F,,,,1875,0,20,MAR26,1998,wi
 2206404,"Tejedor Garcia, Adolfo",ESP,M,,,,1652,0,20,MAR26,1964,
-22250778,"Tejera Nava, Jose Israel",ESP,M,,"NI,NI",,1737,0,20,MAR26,1976,i
+22250778,"Tejera Nava, Jose Israel",ESP,M,,NI,,1737,0,20,MAR26,1976,i
 32073240,"Tejido Garcia, Marcos Javier",ESP,M,,,,1681,0,20,MAR26,1961,i
 54586631,"Tejido Villanueva, Esteban Edgardo",ESP,M,,,,1719,0,20,MAR26,1975,
 2248794,"Tellechea Amesti, Eduardo",ESP,M,,,,1861,0,20,MAR26,1966,i
@@ -13512,7 +13512,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 523053194,"Venini, Pablo Sebastian",ESP,M,,,,1513,0,20,MAR26,1981,
 54506220,"Ventaja Jimenez, Manuel",ESP,M,,NA,,1764,0,20,MAR26,2005,i
 2257955,"Ventas Cosano, David",ESP,M,,,,2099,0,20,MAR26,1984,i
-22201220,"Ventos Alfonso, Alba",ESP,F,,FI,,1830,0,20,MAR26,1992,wi
+22201220,"Ventos Alfonso, Alba",ESP,F,,,,1830,0,20,MAR26,1992,wi
 2214326,"Ventos Navarro, Liberto",ESP,M,,,,1912,0,20,MAR26,1962,i
 22276092,"Ventura Bolet, Alexandre",ESP,M,,,,2232,0,20,MAR26,1999,
 22238824,"Ventura Bolet, Maxim",ESP,M,FM,,,2184,0,20,MAR26,1997,

@@ -150,7 +150,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13523333,"Borodulin, Pavel",BLR,M,,,,1646,0,20,MAR26,2003,i
 13514644,"Borovik, Maksim",BLR,M,,,,1596,0,40,MAR26,2003,i
 13520385,"Borovikova, Marija",BLR,F,,,,1866,4,40,MAR26,2008,w
-13504703,"Borsuk, Yury",BLR,M,FM,FT,,2269,0,20,MAR26,1989,i
+13504703,"Borsuk, Yury",BLR,M,FM,,,2269,0,20,MAR26,1989,i
 13516540,"Braichuk, Aliaksei",BLR,M,,,,1551,0,40,MAR26,2006,i
 13500490,"Brovko, Nadezhda",BLR,F,,,,1939,0,20,MAR26,1983,wi
 13530577,"Brovko, Yan",BLR,M,,,,1562,0,40,MAR26,2008,
@@ -596,7 +596,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13522582,"Kotava, Iryna",BLR,M,,,,1494,0,20,MAR26,2007,i
 13534602,"Kotava, Natallia",BLR,F,,,,1523,0,40,MAR26,2016,w
 13504428,"Kovalenko, Sergey P.",BLR,M,,,,1953,0,20,MAR26,1934,i
-13500023,"Kovalev, Andrei",BLR,M,GM,FST,,2407,29,10,MAR26,1961,
+13500023,"Kovalev, Andrei",BLR,M,GM,,,2407,29,10,MAR26,1961,
 13502786,"Kovalev, Dmitry",BLR,M,,,,2119,0,40,MAR26,0,i
 13533495,"Kovalev, Mark",BLR,M,,,,1811,9,40,MAR26,2008,
 13504355,"Kovaleva, Ekaterina",BLR,F,WFM,WFM,,1962,0,20,MAR26,1984,w
@@ -1297,7 +1297,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13516914,"Tsurko, Uladzislau",BLR,M,,,,1669,0,40,MAR26,2006,i
 13519980,"Tsvirko, Stas",BLR,M,,,,1763,0,20,MAR26,2004,i
 13526545,"Tsybin, Egor",BLR,M,,,,1689,0,40,MAR26,2006,i
-13505130,"Tsyhanchuk, Stanislav",BLR,M,IM,"FT,FA",,2273,0,10,MAR26,1992,
+13505130,"Tsyhanchuk, Stanislav",BLR,M,IM,FA,,2273,0,10,MAR26,1992,
 13521004,"Tsyhanou, Andrei",BLR,M,,,,1729,16,40,MAR26,2010,
 13520997,"Tsyhanova, Hanna",BLR,F,,,,1430,0,40,MAR26,2008,wi
 13518089,"Tumaschik, Evgeny",BLR,M,,,,1693,0,40,MAR26,2000,i

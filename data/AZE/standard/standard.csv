@@ -4,7 +4,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13404512,"Abasov, Azad",AZE,M,,,,1788,0,40,MAR26,1962,i
 13448374,"Abasov, Elgun",AZE,M,,,,1491,0,40,MAR26,2009,
 54153972,"Abasov, Farid",AZE,M,,,,1528,0,40,MAR26,2007,i
-13402960,"Abasov, Nijat",AZE,M,GM,FST,,2583,6,10,MAR26,1995,
+13402960,"Abasov, Nijat",AZE,M,GM,,,2583,6,10,MAR26,1995,
 13401580,"Abasov, Togrul",AZE,M,,,,1956,0,40,MAR26,1986,i
 13401688,"Abasov, Yasar",AZE,M,,,,2021,0,40,MAR26,1958,i
 13419781,"Abasov, Yusif",AZE,M,,,,1840,0,40,MAR26,2008,
@@ -150,7 +150,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13455729,"Aghamirzayeva, Rena",AZE,F,,,,1625,0,40,MAR26,2011,w
 13466003,"Aghammadli, Fidan",AZE,F,,,,1403,0,40,MAR26,2011,wi
 13454390,"Aghammadov, Karim",AZE,M,,,,1625,0,40,MAR26,2011,
-13402854,"Aghasiyev, Kamal",AZE,M,IM,FT,,2422,4,10,MAR26,1988,
+13402854,"Aghasiyev, Kamal",AZE,M,IM,,,2422,4,10,MAR26,1988,
 13402374,"Aghasiyeva, Fidan",AZE,F,WIM,WIM,,2150,2,20,MAR26,1987,w
 13453157,"Aghasiyeva, Maltam",AZE,F,,,,1679,0,40,MAR26,1990,wi
 13452509,"Aghaverdiyeva, Maryam",AZE,F,WFM,WFM,,2136,2,40,MAR26,2010,w
@@ -1020,7 +1020,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13468995,"Guliyev, Omar",AZE,M,,,,1608,8,40,MAR26,2013,
 13455966,"Guliyev, Rakif",AZE,M,,,,1412,0,40,MAR26,2010,
 13481932,"Guliyev, Ramil",AZE,M,,,,1713,0,40,MAR26,2002,i
-13400320,"Guliyev, Raul",AZE,M,,"FI,NA",,2054,0,20,MAR26,1990,i
+13400320,"Guliyev, Raul",AZE,M,,NA,,2054,0,20,MAR26,1990,i
 13412884,"Guliyev, Rufat",AZE,M,,,,1788,0,40,MAR26,1975,i
 13457012,"Guliyev, Rufat",AZE,M,,,,1667,0,40,MAR26,1995,
 13459201,"Guliyev, Rza",AZE,M,,,,1767,8,40,MAR26,2012,
@@ -1892,7 +1892,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13438972,"Latifov, Ruslan",AZE,M,,,,1681,0,40,MAR26,2008,i
 13420844,"Levashov, Batir",AZE,M,,,,1677,0,20,MAR26,2004,i
 13445731,"Madadli, Muhammad",AZE,M,,,,1414,0,40,MAR26,2009,i
-13400142,"Magerramov, Elmar",AZE,M,GM,FST,,2515,0,10,MAR26,1958,i
+13400142,"Magerramov, Elmar",AZE,M,GM,,,2515,0,10,MAR26,1958,i
 13438832,"Magsudsoy, Jamaladdin",AZE,M,,,,1599,6,40,MAR26,2011,
 13422170,"Mahamajanov, Gurban",AZE,M,,,,1482,0,40,MAR26,2009,
 13434446,"Maharramli, Ali",AZE,M,,,,1628,0,40,MAR26,2003,i

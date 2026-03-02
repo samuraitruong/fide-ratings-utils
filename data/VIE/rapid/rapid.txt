@@ -315,7 +315,7 @@ ID Number      Name                                                         Fed 
 12411736       Doan, Thuy My Dung                                           VIE F                                1678  0   20 2006  w   
 12400335       Doan, Van Duc                                                VIE M                                1916  0   20 1987      
 12443522       Doi Ngoc Bich                                                VIE F                                1546  0   40 2014  w   
-12403040       Dong Khanh Linh                                              VIE F   WCM  WCM  FI,NA              1847  0   20 2000  w   
+12403040       Dong Khanh Linh                                              VIE F   WCM  WCM  NA                 1847  0   20 2000  w   
 12449610       Dong Quang Minh                                              VIE M                                1419  0   40 2012  i   
 12452092       Dong Van Hieu                                                VIE M                                1531  0   40 2011  i   
 12400343       Dong, Bao Nghia                                              VIE M   FM                           2157  0   20 1992      
@@ -557,8 +557,8 @@ ID Number      Name                                                         Fed 
 12488925       Le Duy Nguyen                                                VIE M                                1532  0   40 2015      
 12471119       Le Duy Phat                                                  VIE M                                1444  0   40 2014      
 12430366       Le Gia Bao                                                   VIE M                            AFM 1633  0   20 2004      
-12476390       Le Gia Bao                                                   VIE M                                1678  6   40 2009      
 12483559       Le Gia Bao                                                   VIE M                                1530  0   40 2006      
+12476390       Le Gia Bao                                                   VIE M                                1678  6   40 2009      
 12467243       Le Gia Hung                                                  VIE M                                1515  0   40 2010  i   
 12435406       Le Giang Bao Chau                                            VIE F                                1508  0   40 2012  w   
 12454478       Le Giang Phuc Tien                                           VIE M                                1584  5   40 2016      
@@ -577,8 +577,8 @@ ID Number      Name                                                         Fed 
 12416789       Le Hoang Anh                                                 VIE M                                1521  0   40 2009  i   
 12432229       Le Hoang Bao Tu                                              VIE F                                1561  0   40 2013  w   
 12472468       Le Hoang Khanh                                               VIE F                                1479  0   40 2015  w   
-12484474       Le Hoang Long                                                VIE M                                1595  6   40 2012      
 12445053       Le Hoang Long                                                VIE M                            AFM 1474  4   40 2010      
+12484474       Le Hoang Long                                                VIE M                                1595  6   40 2012      
 12427349       Le Hoang Ngan                                                VIE F                                1488  0   40 2008  wi  
 12471917       Le Hoang Nhat Tuyen                                          VIE M                            AFM 1662  11  40 2012      
 12427322       Le Hoang Phuong Thy                                          VIE F                                1436  2   40 2009  w   
@@ -750,7 +750,7 @@ ID Number      Name                                                         Fed 
 12417556       Le, Thi Thuan Loi                                            VIE F                                1610  0   40 2008  wi  
 12402389       Le, Thien Vi                                                 VIE M                                1939  0   20 1945      
 12428680       Le, Truong Nhat Nam                                          VIE M                                1571  0   40 2013  i   
-12401153       Le, Tuan Minh                                                VIE M   GM        FT                 2501  0   10 1996      
+12401153       Le, Tuan Minh                                                VIE M   GM                           2501  0   10 1996      
 12419460       Le, Van Khoa                                                 VIE M                                1487  0   40 2011  i   
 12420220       Le, Van Viet                                                 VIE M                                1683  0   40 1993      
 12429058       Le, Vinh Dinh                                                VIE M                                1808  0   40 2009      
@@ -903,8 +903,8 @@ ID Number      Name                                                         Fed 
 12493163       Nguyen Bao Minh                                              VIE M                                1587  0   40 2012      
 12441708       Nguyen Bao Nam                                               VIE M                                1573  0   40 2017      
 12487244       Nguyen Bao Phong                                             VIE M                                1502  0   40 2014      
-12451797       Nguyen Binh Minh                                             VIE M                                1477  0   40 2012      
 12445134       Nguyen Binh Minh                                             VIE M                                1635  0   40 2009  i   
+12451797       Nguyen Binh Minh                                             VIE M                                1477  0   40 2012      
 12476102       Nguyen Binh Nguyen                                           VIE M                                1543  4   40 2009      
 12419966       Nguyen Binh Vy                                               VIE F   WIM  WIM                     2041  0   40 2008  w   
 12453447       Nguyen Cam Tu                                                VIE F                                1513  0   40 2007  w   
@@ -1103,8 +1103,8 @@ ID Number      Name                                                         Fed 
 12437557       Nguyen Minh Khoa                                             VIE M                                1589  7   40 2009      
 12438405       Nguyen Minh Khoi                                             VIE M                                1609  0   40 2007  i   
 12481262       Nguyen Minh Khoi                                             VIE M                                1524  4   40 2017      
-12471259       Nguyen Minh Khoi                                             VIE M                                1583  0   40 2011      
 561006610      Nguyen Minh Khoi                                             VIE M                                1525  9   40 2012      
+12471259       Nguyen Minh Khoi                                             VIE M                                1583  0   40 2011      
 12431788       Nguyen Minh Khue                                             VIE F                                1416  0   40 2007  w   
 12496855       Nguyen Minh Long                                             VIE M                                1723  0   40 2012      
 12465500       Nguyen Minh Nguyen                                           VIE M                                1532  0   40 2018      
@@ -1185,8 +1185,8 @@ ID Number      Name                                                         Fed 
 12498572       Nguyen Phuc Hai Dang                                         VIE M                                1592  7   40 2009      
 12432660       Nguyen Phuc Hoang                                            VIE M                                1673  6   40 2009      
 12431885       Nguyen Phuc Khang                                            VIE M                                1660  6   40 2011      
-12455784       Nguyen Phuc Khang                                            VIE M                                1720  0   40 2010  i   
 12458287       Nguyen Phuc Khang                                            VIE M                                1476  0   40 2015      
+12455784       Nguyen Phuc Khang                                            VIE M                                1720  0   40 2010  i   
 12433128       Nguyen Phuc Khoi                                             VIE M                                1406  0   40 2011  i   
 12435791       Nguyen Phuc Nguyen                                           VIE M                                1712  0   40 2015      
 12431460       Nguyen Phuc Tam                                              VIE M                                1767  0   40 2014      
@@ -1493,8 +1493,8 @@ ID Number      Name                                                         Fed 
 153110983      Nguyen, Minh Duc                                             VIE M                            AFM 1607  0   40 2016      
 12426830       Nguyen, Minh Kha                                             VIE M                                1665  0   20 1997      
 12429449       Nguyen, Minh Khang                                           VIE M                            AFM 1866  0   40 2011  i   
-12489166       Nguyen, Minh Khoi                                            VIE M                                1530  1   40 2017      
 12490890       Nguyen, Minh Khoi                                            VIE M                                1443  0   40 2018      
+12489166       Nguyen, Minh Khoi                                            VIE M                                1530  1   40 2017      
 12408166       Nguyen, Minh Nhat                                            VIE M                                1650  0   40 2003  i   
 12477710       Nguyen, Minh Son                                             VIE M                                1564  12  40 2015      
 12404489       Nguyen, Minh Thanh                                           VIE M                                1573  0   40 2011  i   
@@ -1591,7 +1591,7 @@ ID Number      Name                                                         Fed 
 12402958       Nguyen, Tri Thien                                            VIE M                                1825  0   20 1998  i   
 12412473       Nguyen, Tri Thinh                                            VIE M                                1710  0   20 2007      
 12426709       Nguyen, Trong Thai Duong                                     VIE M                                1438  0   40 2011  i   
-12422754       Nguyen, Trung Dung                                           VIE M             NI,SI          AGM 1718  7   40 2000      
+12422754       Nguyen, Trung Dung                                           VIE M             SI             AGM 1718  7   40 2000      
 12409820       Nguyen, Trung Hieu                                           VIE M                                1756  0   20 2003  i   
 12402311       Nguyen, Truong Bao Tran                                      VIE F             NA             AIM 1802  0   20 1995  w   
 12415936       Nguyen, Tuan Loc                                             VIE M                                2196  0   20 1991  i   
@@ -1931,8 +1931,8 @@ ID Number      Name                                                         Fed 
 12457469       Tran Danh Minh                                               VIE M                                1530  0   40 2016      
 12432164       Tran Dieu Linh                                               VIE F                                1543  0   40 2009  wi  
 12457680       Tran Do Hoang Nguyen                                         VIE M                                1605  0   40 1996  i   
-12492221       Tran Duc Anh                                                 VIE M                                1472  0   40 2012      
 12468355       Tran Duc Anh                                                 VIE M                                1433  0   40 2007  i   
+12492221       Tran Duc Anh                                                 VIE M                                1472  0   40 2012      
 12405957       Tran Duc Anh                                                 VIE M                            AIM 1709  0   40 2000  i   
 12422380       Tran Duc Hai                                                 VIE M             SI,NA          AFM 1773  0   40 1995      
 12441163       Tran Duc Khoa                                                VIE M                                1484  0   40 2015      
@@ -1972,7 +1972,7 @@ ID Number      Name                                                         Fed 
 12423599       Tran Le Vy                                                   VIE F   WFM  WFM                     1940  0   40 2012  w   
 12440019       Tran Mai Han                                                 VIE F                                1529  0   40 2012  w   
 12424471       Tran Mai Xuan Uyen                                           VIE F                                1688  6   40 2010  w   
-12401897       Tran Manh Tien                                               VIE M   FM        FI,NA              2124  0   20 1990      
+12401897       Tran Manh Tien                                               VIE M   FM        NA                 2124  0   20 1990      
 12466360       Tran Minh Bao                                                VIE M                                1595  0   40 2014      
 12438618       Tran Minh Hai                                                VIE M                                1461  0   40 2014  i   
 12458970       Tran Minh Man                                                VIE F             NA                 1734  0   40 2003  w   

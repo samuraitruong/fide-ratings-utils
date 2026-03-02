@@ -34,7 +34,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14701146,"Ilhomzoda, Maryam",TJK,F,,,,1690,0,20,MAR26,2002,wi
 14700948,"Ilkhomi, Jaloliddin",TJK,M,IM,,,2243,0,20,MAR26,2007,
 14705168,"Isaev, Firuz",TJK,M,,,,1416,0,40,MAR26,2014,
-14700050,"Isaev, Jamshed",TJK,M,IM,"FT,FA",,2239,0,20,MAR26,1967,
+14700050,"Isaev, Jamshed",TJK,M,IM,FA,,2239,0,20,MAR26,1967,
 14700840,"Ismailov, Timur",TJK,M,,,,1955,7,20,MAR26,1990,
 14706881,"Jamolov, Behruz",TJK,M,,,,1688,6,40,MAR26,1991,
 14702916,"Jumaev, Ihson",TJK,M,,,,1857,0,20,MAR26,2007,
@@ -44,7 +44,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14705397,"Kamolov, Farrukh",TJK,M,,,,1436,2,40,MAR26,2013,
 14701731,"Kandakov, Mehrbakhsh",TJK,M,,,,1722,0,20,MAR26,2005,i
 14701049,"Karamshoev, Shafik",TJK,M,,,,1959,0,20,MAR26,1998,i
-14700280,"Karimov, Alisher",TJK,M,FM,"FI,NA",,2186,0,20,MAR26,1997,i
+14700280,"Karimov, Alisher",TJK,M,FM,NA,,2186,0,20,MAR26,1997,i
 14700581,"Khidoyatov, Miraziz",TJK,M,,,,1693,2,20,MAR26,1958,
 14703211,"Khojaeva, Tomiris",TJK,F,,,,1598,4,40,MAR26,2011,w
 14703203,"Khojaeva, Yosamin",TJK,F,,,,1573,3,40,MAR26,2013,w
@@ -113,7 +113,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14704374,"Tolibova, Dilola",TJK,F,,,,1604,0,40,MAR26,2008,w
 14702428,"Uzoqov, Nasimjon",TJK,M,,,,1636,0,,MAR26,2001,i
 14704668,"Vahobov, Kamronbek",TJK,M,,,,1521,0,40,MAR26,2009,
-14700824,"Vatanov, Khurshed",TJK,M,,FI,,1869,0,20,MAR26,1969,i
+14700824,"Vatanov, Khurshed",TJK,M,,,,1869,0,20,MAR26,1969,i
 14702924,"Voskolovich, Bogdan",TJK,M,,,,1691,8,40,MAR26,2011,
 14704960,"Yablokov, Luka",TJK,M,,,,1446,2,40,MAR26,2015,
 14700930,"Yunusov, Mukhammad",TJK,M,,NA,,1844,0,20,MAR26,1999,

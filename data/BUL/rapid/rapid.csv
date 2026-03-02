@@ -88,7 +88,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2906775,"Antov, Anton",BUL,M,,,,1970,0,20,MAR26,1951,
 2919214,"Antov, Atanas",BUL,M,,,,1694,0,20,MAR26,1948,
 2934582,"Antov, Georgi",BUL,M,,,,1665,0,40,MAR26,2006,i
-2915235,"Antova, Gabriela",BUL,F,FM,WGM,FI,2204,0,20,MAR26,2002,wi
+2915235,"Antova, Gabriela",BUL,F,FM,WGM,,2204,0,20,MAR26,2002,wi
 2923874,"Apostolov, Teodor",BUL,M,,,,1798,0,20,MAR26,1974,
 2959739,"Apostolov, Velin",BUL,M,,,,1453,0,40,MAR26,1999,i
 2921847,"Apulcheva, Kristina",BUL,F,,,,1543,0,40,MAR26,2005,wi
@@ -301,14 +301,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2956012,"Chemelyarov, Stoyan",BUL,M,,,,1582,0,40,MAR26,1934,i
 2976110,"Chempov, Zvezdelin",BUL,M,,,,1577,0,40,MAR26,1971,
 2911400,"Chepandov, Georgi",BUL,M,,,,1846,0,20,MAR26,1946,i
-2905540,"Cheparinov, Ivan",BUL,M,GM,FST,,2615,0,10,MAR26,1986,
+2905540,"Cheparinov, Ivan",BUL,M,GM,,,2615,0,10,MAR26,1986,
 2905426,"Cheparinov, Nedelcho",BUL,M,,NA,,2097,0,20,MAR26,1958,i
 2908131,"Chervenkov, Dinko",BUL,M,,,,1839,0,20,MAR26,1931,i
 2935805,"Chervenyakov, Filip",BUL,M,,,,1485,0,40,MAR26,2009,i
 2912058,"Cheslavski, Maksim",BUL,M,,,,1987,0,20,MAR26,1955,i
 2962969,"Chilev, Georgi",BUL,M,,,,1505,0,40,MAR26,2014,
 2921057,"Chilikova, Eli",BUL,F,,,,1635,0,20,MAR26,2002,wi
-2967251,"Chimidialkov, Ivo",BUL,M,,,,1624,7,20,MAR26,1966,
+2967251,"Chimidialkov, Ivo",BUL,M,,,,1624,7,,MAR26,1966,
 2930439,"Chirakov, Petar",BUL,M,,,,1950,0,20,MAR26,1976,i
 2934892,"Chirkov, Asen",BUL,M,,,,2000,0,20,MAR26,1972,i
 2920425,"Chitakova, Galya",BUL,F,,,,1735,0,20,MAR26,2003,wi
@@ -455,8 +455,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2935473,"Dimitrov, Radosvet",BUL,M,,,,1474,0,40,MAR26,2008,i
 2946696,"Dimitrov, Stefan",BUL,M,,,,1821,8,20,MAR26,1985,
 2918757,"Dimitrov, Teodor",BUL,M,,,,2141,0,20,MAR26,1976,i
-2945835,"Dimitrov, Teodor",BUL,M,,,,1435,0,40,MAR26,2013,
 2951681,"Dimitrov, Teodor",BUL,M,,,,1410,0,40,MAR26,2014,i
+2945835,"Dimitrov, Teodor",BUL,M,,,,1435,0,40,MAR26,2013,
 2976692,"Dimitrov, Teodor S.",BUL,M,,,,1556,5,40,MAR26,2014,
 2945126,"Dimitrov, Vasil",BUL,M,,,,1543,0,20,MAR26,1953,i
 2917220,"Dimitrov, Ventsislav",BUL,M,,,,1916,0,20,MAR26,1966,
@@ -602,8 +602,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2973057,"Filipov, Filip Pl.",BUL,M,,,,1519,0,40,MAR26,1994,
 2902818,"Filipov, Kotse",BUL,M,,,,1728,0,40,MAR26,1954,i
 2930196,"Filipov, Valentin",BUL,M,,,,1541,0,40,MAR26,2007,i
-2953463,"Florov, Pavel",BUL,M,,,,1851,0,20,MAR26,1941,
 2922215,"Florov, Pavel",BUL,M,,,,1741,0,20,MAR26,1970,i
+2953463,"Florov, Pavel",BUL,M,,,,1851,0,20,MAR26,1941,
 2910535,"Fotev, Stefan",BUL,M,,,,1864,0,20,MAR26,1993,i
 2940574,"Gaberov, Vladislav",BUL,M,,,,1710,0,20,MAR26,1984,i
 2917653,"Gachev, Rumen",BUL,M,,,,1933,0,20,MAR26,1993,
@@ -686,8 +686,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2958473,"Georgiev, Mariyan",BUL,M,,,,1524,0,40,MAR26,2009,i
 2950235,"Georgiev, Martin Or",BUL,M,,,,1453,4,40,MAR26,2013,
 2918129,"Georgiev, Nikolay",BUL,M,,,,2075,0,20,MAR26,1988,i
-2946734,"Georgiev, Nikolay",BUL,M,,,,1632,0,20,MAR26,1996,i
 2956780,"Georgiev, Nikolay",BUL,M,,,,1417,0,40,MAR26,2014,
+2946734,"Georgiev, Nikolay",BUL,M,,,,1632,0,20,MAR26,1996,i
 2933748,"Georgiev, Nikolay St.",BUL,M,,,,1492,0,40,MAR26,2009,i
 2936208,"Georgiev, Radmil",BUL,M,,,,1760,0,40,MAR26,2009,
 2921073,"Georgiev, Simeon",BUL,M,,,,1522,0,20,MAR26,2001,i
@@ -915,8 +915,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2905256,"Ivanov, Boris",BUL,M,,,,1885,0,20,MAR26,1999,i
 2945878,"Ivanov, Boris B",BUL,M,,,,1734,0,20,MAR26,1994,i
 2912317,"Ivanov, Daniel",BUL,M,,,,1840,5,20,MAR26,1980,
-2952092,"Ivanov, Daniel",BUL,M,,,,1884,0,20,MAR26,1972,i
 2946785,"Ivanov, Daniel",BUL,M,,,,1576,0,20,MAR26,2000,i
+2952092,"Ivanov, Daniel",BUL,M,,,,1884,0,20,MAR26,1972,i
 2966964,"Ivanov, Daniel K.",BUL,M,,,,1453,0,40,MAR26,2015,
 2952491,"Ivanov, Daniel M.",BUL,M,,,,1648,0,20,MAR26,1982,
 2915804,"Ivanov, Denis",BUL,M,,,,1795,0,20,MAR26,2001,i
@@ -935,8 +935,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2917840,"Ivanov, Iliyan V",BUL,M,,,,1710,0,20,MAR26,2002,i
 2928299,"Ivanov, Ivan",BUL,M,,,,1587,0,20,MAR26,2004,i
 2949229,"Ivanov, Ivan",BUL,M,,,,1551,5,40,MAR26,2013,
-2938839,"Ivanov, Ivan",BUL,M,,,,1525,0,40,MAR26,2010,i
 2950782,"Ivanov, Ivan",BUL,M,,,,1657,0,20,MAR26,1987,i
+2938839,"Ivanov, Ivan",BUL,M,,,,1525,0,40,MAR26,2010,i
 2919117,"Ivanov, Ivan Iv.",BUL,M,,,,1678,0,20,MAR26,2003,i
 2941627,"Ivanov, Ivan Penchev",BUL,M,,,,2065,0,20,MAR26,1968,i
 2923882,"Ivanov, Ivan Petkov",BUL,M,,,,1911,0,20,MAR26,1952,
@@ -946,8 +946,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2960060,"Ivanov, Ivaylo Ivanov",BUL,M,,,,1665,0,40,MAR26,1989,i
 2907291,"Ivanov, Ivelin",BUL,M,,,,2075,0,20,MAR26,1965,i
 2971089,"Ivanov, Ivelin I.",BUL,M,,,,1728,0,40,MAR26,1986,
-2956870,"Ivanov, Ivo",BUL,M,,,,1489,0,40,MAR26,2010,i
 2914433,"Ivanov, Ivo",BUL,M,,,,1665,7,20,MAR26,1979,
+2956870,"Ivanov, Ivo",BUL,M,,,,1489,0,40,MAR26,2010,i
 2958660,"Ivanov, Ivo M.",BUL,M,,,,1675,0,20,MAR26,1976,
 2901250,"Ivanov, Jordan",BUL,M,IM,,,2314,0,20,MAR26,1960,i
 2933730,"Ivanov, Kalin",BUL,M,,,,1549,0,40,MAR26,2007,i
@@ -1072,8 +1072,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2937778,Karaivanov Atanas,BUL,M,,,,1710,0,20,MAR26,1952,i
 2974002,"Karaivanov, Boris",BUL,M,,,,1481,5,40,MAR26,2017,
 2925710,"Karaivanov, Kaloyan",BUL,M,,,,1965,0,20,MAR26,1999,i
-2952114,"Karaivanov, Ognyan",BUL,M,,,,1800,0,20,MAR26,1977,i
 2952009,"Karaivanov, Ognyan",BUL,M,,,,1783,0,20,MAR26,1987,i
+2952114,"Karaivanov, Ognyan",BUL,M,,,,1800,0,20,MAR26,1977,i
 2919150,"Karaivanova, Petya",BUL,F,WFM,WFM,NA,2082,0,20,MAR26,2007,w
 2956055,"Karakalchev, Zhivko",BUL,M,,,,1588,0,40,MAR26,1955,i
 2918420,"Karakashev, Teodor",BUL,M,,,,1726,0,20,MAR26,2002,i
@@ -1473,7 +1473,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2966271,"Mitev, Ancho",BUL,M,,,,1476,0,40,MAR26,1978,i
 2957795,"Mitev, Atila",BUL,M,,,,1466,0,40,MAR26,2017,
 2903474,"Mitev, Kamen",BUL,M,,,,1752,0,20,MAR26,1968,i
-2913348,"Mitev, Miroslav",BUL,M,,"FI,IA",,1976,0,20,MAR26,1990,
+2913348,"Mitev, Miroslav",BUL,M,,IA,,1976,0,20,MAR26,1990,
 2929287,"Mitev, Mitko",BUL,M,,,,1798,5,20,MAR26,1965,
 2977672,"Mitev, Mitko V.",BUL,M,,,,1473,0,40,MAR26,2003,
 2940418,"Mitev, Plamen",BUL,M,,,,1986,0,20,MAR26,1961,i
@@ -1644,7 +1644,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2948249,"Nikolova, Bozhana",BUL,F,,,,1454,0,20,MAR26,1991,wi
 2973499,"Nikolova, Liliya",BUL,F,,,,1575,0,40,MAR26,2008,w
 2903962,"Ninchev, Daniel",BUL,M,,,,1923,7,20,MAR26,1996,
-2911060,"Ninov, Dayan",BUL,M,FM,"FT,FA",,2145,0,20,MAR26,1993,i
+2911060,"Ninov, Dayan",BUL,M,FM,FA,,2145,0,20,MAR26,1993,i
 2900424,"Ninov, Nikolai",BUL,M,GM,,,2382,0,10,MAR26,1969,
 2903890,"Ninov, Ventsislav",BUL,M,,,,2200,0,20,MAR26,1973,
 2934426,"Ninova, Katrin",BUL,F,,,,1568,0,20,MAR26,2006,wi
@@ -1774,8 +1774,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2961130,"Petkov, Nikolay R",BUL,M,,,,1907,0,20,MAR26,1968,
 2953293,"Petkov, Pavel",BUL,M,,,,1519,0,40,MAR26,2008,i
 2972123,"Petkov, Pavel M.",BUL,M,,,,1497,0,40,MAR26,2016,
-2944162,"Petkov, Plamen",BUL,M,,,,1829,0,20,MAR26,1960,i
 2905523,"Petkov, Plamen",BUL,M,,,,1570,0,40,MAR26,1977,i
+2944162,"Petkov, Plamen",BUL,M,,,,1829,0,20,MAR26,1960,i
 2923394,"Petkov, Preslav",BUL,M,,,,1876,0,20,MAR26,1999,i
 2923408,"Petkov, Rostislav",BUL,M,,,,1938,0,20,MAR26,1999,
 2965771,"Petkov, Velizar",BUL,M,,,,1517,0,40,MAR26,2017,
@@ -1810,7 +1810,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2960877,"Petrov, Kostadin A.",BUL,M,,,,1422,0,40,MAR26,2014,
 2952769,"Petrov, Krassimir",BUL,M,,,,1742,8,20,MAR26,1969,
 2956080,"Petrov, Kristofar",BUL,M,,,,1604,0,40,MAR26,2006,
-2901773,"Petrov, Marian",BUL,M,GM,FT,,2406,0,10,MAR26,1975,
+2901773,"Petrov, Marian",BUL,M,GM,,,2406,0,10,MAR26,1975,
 2911086,"Petrov, Martin",BUL,M,GM,FT,,2530,0,10,MAR26,2000,
 2929520,"Petrov, Martin V.",BUL,M,,,,1929,0,20,MAR26,1987,i
 2968983,"Petrov, Mitko",BUL,M,,,,1718,0,40,MAR26,1955,i
@@ -1819,8 +1819,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2918870,"Petrov, Nikolay",BUL,M,,,,1806,0,20,MAR26,1957,
 2924129,"Petrov, Nikolay",BUL,M,,,,1617,0,20,MAR26,2003,i
 2957868,"Petrov, Ognyan",BUL,M,,,,1498,0,40,MAR26,2013,
-2950863,"Petrov, Petar",BUL,M,,,,1836,0,20,MAR26,1991,i
 2944855,"Petrov, Petar",BUL,M,,,,1576,0,20,MAR26,1994,i
+2950863,"Petrov, Petar",BUL,M,,,,1836,0,20,MAR26,1991,i
 2904071,"Petrov, Plamen",BUL,M,,,,1865,0,20,MAR26,1989,i
 2961679,"Petrov, Presiyan",BUL,M,,,,1573,7,,MAR26,1990,
 2927101,"Petrov, Preslav",BUL,M,,,,1683,0,40,MAR26,2006,i
@@ -2465,8 +2465,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2947536,"Vasilev, Aleksandar",BUL,M,,,,2004,0,40,MAR26,2012,
 2905094,"Vasilev, Dimitar P.",BUL,M,,,,1909,0,20,MAR26,1951,i
 2909367,"Vasilev, Hristo",BUL,M,,,,1772,0,20,MAR26,1999,i
-2949008,"Vasilev, Ivan",BUL,M,,,,1555,0,20,MAR26,1989,i
 2954524,"Vasilev, Ivan",BUL,M,,,,1559,0,20,MAR26,1946,
+2949008,"Vasilev, Ivan",BUL,M,,,,1555,0,20,MAR26,1989,i
 2970180,"Vasilev, Kalin",BUL,M,,,,1498,0,40,MAR26,1985,
 2970171,"Vasilev, Kaloyan K.",BUL,M,,,,1479,0,40,MAR26,2016,
 2963523,"Vasilev, Kaloyan Vas.",BUL,M,,,,1406,0,40,MAR26,2007,i
@@ -2521,7 +2521,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2913291,"Veselinov, Dimcho",BUL,M,,,,2088,0,20,MAR26,1971,i
 2952289,"Vichev, Ivaylo",BUL,M,,,,1904,0,40,MAR26,2008,
 2931885,"Videnov, Zahari",BUL,M,,,,1608,0,20,MAR26,2004,i
-2907763,"Videnova-Kuljasevic, Iva",BUL,F,IM,WGM,FT,2296,0,20,MAR26,1987,w
+2907763,"Videnova-Kuljasevic, Iva",BUL,F,IM,WGM,,2296,0,20,MAR26,1987,w
 2932482,"Vishev, Nikolay",BUL,M,,,,1643,0,20,MAR26,1977,
 2935368,"Visulchev, Martin",BUL,M,,,,1507,0,40,MAR26,2010,i
 2954222,"Vladimirov, Anton",BUL,M,,,,1710,0,20,MAR26,1969,
@@ -2597,7 +2597,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2931109,"Yordanov, Mario",BUL,M,,,,1553,0,40,MAR26,2010,i
 2928590,"Yordanov, Martin",BUL,M,,,,1757,0,20,MAR26,2007,
 2975793,"Yordanov, Mladen",BUL,M,,,,1648,0,40,MAR26,1985,
-2906163,"Yordanov, Nikolay",BUL,M,,"FT,FT",,2127,0,20,MAR26,1971,i
+2906163,"Yordanov, Nikolay",BUL,M,,FT,,2127,0,20,MAR26,1971,i
 2964295,"Yordanov, Nikolay Il.",BUL,M,,,,1519,0,40,MAR26,2011,i
 2907445,"Yordanov, Nikolay Plamenov",BUL,M,FM,,,2236,0,20,MAR26,1986,
 2961040,"Yordanov, Radoslav",BUL,M,,,,1600,0,40,MAR26,2013,

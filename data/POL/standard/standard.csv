@@ -265,7 +265,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91145767,"Bakowski, Rafal",POL,M,,,,1430,3,40,MAR26,2012,
 21002878,"Bakulinski, Piotr",POL,M,,,,1512,0,40,MAR26,2005,i
 91152720,"Bakun, Krzysztof",POL,M,,,,1438,0,40,MAR26,1972,i
-13506129,"Bakunovich, Volha",POL,F,WFM,WFM,"FI,FI,FA",2099,0,40,MAR26,1992,wi
+13506129,"Bakunovich, Volha",POL,F,WFM,WFM,"FI,FA",2099,0,40,MAR26,1992,wi
 1110454,"Bakunowicz, Jerzy",POL,M,,,,1990,0,20,MAR26,1948,i
 21027960,"Bala, Bartosz",POL,M,,NA,,1715,0,20,MAR26,2007,
 1128183,"Balanda, Joanna",POL,F,,,,1623,0,40,MAR26,1995,wi
@@ -8347,7 +8347,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21883394,"Matkowski, Mariusz",POL,M,,,,1580,0,40,MAR26,1972,i
 1197029,"Matla, Denis",POL,M,,,,1614,0,20,MAR26,2002,i
 1129228,"Matla, Mateusz",POL,M,,,,2061,0,20,MAR26,1989,i
-1101234,"Matlak, Jacek",POL,M,FM,FT,,2233,0,20,MAR26,1964,i
+1101234,"Matlak, Jacek",POL,M,FM,,,2233,0,20,MAR26,1964,i
 1133187,"Matlak, Marcin",POL,M,,,,1988,0,20,MAR26,1986,i
 1100122,"Matlak, Marek",POL,M,IM,,,2479,0,10,MAR26,1966,i
 1116371,"Matlega, Bartlomiej",POL,M,,,,2059,0,20,MAR26,1984,i
@@ -12077,7 +12077,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21817502,"Sikorski, Wojciech",POL,M,,,,1566,0,20,MAR26,2001,i
 13513656,"Silich, Yahor",POL,M,FM,,,2211,0,20,MAR26,2006,
 1143778,"Siluk, Jan",POL,M,,,,1753,0,20,MAR26,1971,i
-1142356,"Simon, Marek",POL,M,,"NI,NA",,1881,8,20,MAR26,1993,
+1142356,"Simon, Marek",POL,M,,NA,,1881,8,20,MAR26,1993,
 21084793,"Sinczak, Michal",POL,M,,,,1612,0,40,MAR26,1982,i
 1119885,"Singer, Krystian",POL,M,,,,2178,0,20,MAR26,1985,i
 1102915,"Sinica, Jan",POL,M,,,,2235,0,20,MAR26,1963,i

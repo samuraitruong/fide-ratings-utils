@@ -25,7 +25,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8409447,"Argueta, Douglas",HON,M,,,,1537,0,20,MAR26,2000,
 8415552,"Arias Lopez, Gabriel Antonio",HON,M,,,,1550,0,40,MAR26,1960,
 8405719,"Arteaga, Gustavo",HON,M,,,,1810,0,40,MAR26,1995,i
-8401977,"Baca, Franklin",HON,M,,NI,,1807,0,40,MAR26,0,i
+8401977,"Baca, Franklin",HON,M,,,,1807,0,40,MAR26,0,i
 8406499,"Banegas Rodas, Grascia Maria",HON,F,,,,1609,0,40,MAR26,1995,wi
 8409064,"Barahona Garcia, Jose",HON,M,,,,1551,0,40,MAR26,2002,i
 8406197,"Barahona Moncada, Marvin",HON,M,,,,1720,0,40,MAR26,1984,i
@@ -195,7 +195,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8401381,"Hernandez Reyes, Elvis",HON,M,,,,1819,0,20,MAR26,1976,
 8401748,"Hernandez, Dario",HON,M,,,,1847,0,40,MAR26,0,i
 8403449,"Hernandez, Fernando",HON,M,,,,1893,0,20,MAR26,1994,
-8400318,"Hernandez, Juan Carlos",HON,M,CM,"FI,SI,IO",,1888,0,20,MAR26,1984,
+8400318,"Hernandez, Juan Carlos",HON,M,CM,"SI,IO",,1888,0,20,MAR26,1984,
 8405620,"Hernandez, Orlyn",HON,M,,,,1687,0,40,MAR26,1992,i
 8408408,"Hernandez, Pedro Antonio",HON,M,,,,1689,0,20,MAR26,1997,
 8409250,"Herrera Guillen, Evelyn",HON,F,,,,1673,0,40,MAR26,1995,wi
@@ -265,7 +265,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8405344,"Matamoros, Nancy",HON,F,,,,1616,0,20,MAR26,1997,w
 8408416,"Matute Garcia, Jose Luis",HON,M,,,,1698,0,20,MAR26,1999,i
 8401489,"McDowell, Sharon",HON,F,,,,1760,0,20,MAR26,1997,wi
-8400261,"Medina Colindres, Javier",HON,M,CM,FI,,2236,0,20,MAR26,1973,i
+8400261,"Medina Colindres, Javier",HON,M,CM,,,2236,0,20,MAR26,1973,i
 8413177,"Medina Ordonez, Tharcis",HON,M,,,,1433,0,40,MAR26,2009,i
 8400814,"Medina Ucles, Ernesto Efrain",HON,M,,,,1747,0,40,MAR26,1951,
 8400342,"Medina Viana, Ricardo",HON,M,CM,,,1988,0,20,MAR26,1962,
@@ -274,7 +274,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8404720,"Mejia Castellanos, Mhia Cecilia",HON,F,,,,1430,0,40,MAR26,2009,w
 8409196,"Mejia Jimenez, Junior Enrique",HON,M,,,,1686,0,40,MAR26,1999,i
 8405115,"Mejia Lopez, Jose David",HON,M,,,,1601,0,40,MAR26,1969,i
-8404976,"Mejia Varela, Fernando Alexis",HON,M,,"FI,FA",,1913,0,20,MAR26,1999,
+8404976,"Mejia Varela, Fernando Alexis",HON,M,,FA,,1913,0,20,MAR26,1999,
 8403309,"Mejia, Camila",HON,F,,,,1594,0,20,MAR26,2004,wi
 8403554,"Mejia, Jesus",HON,M,,,,1763,0,40,MAR26,1989,i
 8405182,"Mejia, Jimmy",HON,M,,,,1617,0,40,MAR26,1992,i

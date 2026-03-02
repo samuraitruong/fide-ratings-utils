@@ -1,9 +1,9 @@
 ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 20694229,"Apap, Titouan",MNC,M,,,,1813,0,20,MAR26,2000,i
 2810115,"Aronin, Pavel",MNC,M,,,,2005,0,20,MAR26,1979,i
-12500283,"Bagheri, Amir",MNC,M,GM,FT,,2413,0,10,MAR26,1978,
+12500283,"Bagheri, Amir",MNC,M,GM,,,2413,0,10,MAR26,1978,
 609153,"Benlolo, Alain",MNC,M,,,,1979,0,20,MAR26,1958,i
-5400740,"Berezovska , Svetlana",MNC,F,WCM,WCM,"NI,NA",1795,0,20,MAR26,1971,w
+5400740,"Berezovska , Svetlana",MNC,F,WCM,WCM,NA,1795,0,20,MAR26,1971,w
 5400651,"Berezovsky, Fiorina",MNC,F,WCM,WCM,,1806,0,20,MAR26,2007,w
 4646215,"Berezovsky, Igor",MNC,M,IM,,,2309,0,20,MAR26,1971,i
 26080192,"Berthaut, Alexandre",MNC,M,,,,1912,0,20,MAR26,1998,
@@ -66,5 +66,5 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 606340,"Verdier, Patrice",MNC,M,FM,,,1956,0,20,MAR26,1962,
 5403162,"Vicefield , Joshua",MNC,M,,,,1436,0,40,MAR26,2017,
 650609,"Vigny, Philippe",MNC,M,,,,1821,0,20,MAR26,1964,i
-654183,"Villegas, Pierre",MNC,M,IM,"FI,NA",,2307,0,10,MAR26,1992,
+654183,"Villegas, Pierre",MNC,M,IM,NA,,2307,0,10,MAR26,1992,
 4121082,"Zvereva, Marija",MNC,F,WIM,WIM,,1949,0,20,MAR26,1978,w

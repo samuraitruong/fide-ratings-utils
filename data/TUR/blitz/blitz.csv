@@ -143,7 +143,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34561218,"Akkus, Deniz",TUR,M,,,,1774,0,20,MAR26,1978,i
 51620294,"Akkus, Muhammed Ali",TUR,M,,,,1872,0,40,MAR26,2013,
 34542400,"Akkus, Serhat",TUR,M,,,,1615,0,20,MAR26,1982,i
-6301649,"Akman, Ozgur",TUR,M,,FI,,2033,0,20,MAR26,1984,i
+6301649,"Akman, Ozgur",TUR,M,,,,2033,0,20,MAR26,1984,i
 6345948,"Akman, Serkan",TUR,M,,,,1986,0,20,MAR26,1982,i
 34501762,"Akoglanoglu, Murat Umut",TUR,M,,,,1621,0,20,MAR26,2004,i
 6378099,"Akpinar, Dogac",TUR,M,,,,1826,0,20,MAR26,1985,i
@@ -691,7 +691,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34532188,"Bayraktar, Huseyin",TUR,M,,,,1718,0,20,MAR26,1993,i
 34584048,"Bayraktar, Umit",TUR,M,,,,1594,0,20,MAR26,2001,i
 44562047,"Bayram, Emre",TUR,M,,,,1453,0,20,MAR26,1999,i
-6365051,"Bayram, Irem Inci",TUR,F,,"NI,NA",,1798,0,20,MAR26,1999,wi
+6365051,"Bayram, Irem Inci",TUR,F,,NA,,1798,0,20,MAR26,1999,wi
 44543735,"Bayram, Ismail",TUR,M,,,,1468,0,20,MAR26,1983,i
 6375383,"Bayram, Mehmet Arda",TUR,M,,,,1723,0,20,MAR26,1996,i
 6333230,"Bayram, Mesut",TUR,M,,,,1729,0,20,MAR26,1986,i
@@ -851,7 +851,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6321704,"Bulut, Orhan",TUR,M,,,,1471,0,20,MAR26,1983,
 51681501,"Bulut, Tolga Esref",TUR,M,,,,1628,0,40,MAR26,2015,
 6357776,"Burabak, Mert Burak",TUR,M,,,,1813,0,20,MAR26,1994,i
-6310630,"Burcu, Cagatay",TUR,M,FM,FI,,2231,0,20,MAR26,1996,i
+6310630,"Burcu, Cagatay",TUR,M,FM,,,2231,0,20,MAR26,1996,i
 44505175,"Buyuk, Ecrin Efsa",TUR,F,WFM,WFM,,1714,0,20,MAR26,2007,w
 44505116,"Buyuk, Elvin Esma",TUR,F,,,,1659,0,40,MAR26,2009,w
 26310872,"Buyuk, Eymen Eren",TUR,M,FM,,,2137,0,40,MAR26,2011,
@@ -926,7 +926,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6372732,"Caliskan, Berk Tugra",TUR,M,,,,1653,0,20,MAR26,2003,i
 44521200,"Caliskan, Deniz",TUR,M,,,,1491,0,20,MAR26,1979,i
 26361469,"Caliskan, Eren",TUR,M,,,,1577,0,40,MAR26,2009,
-6301258,"Caliskan, Ismail",TUR,M,,FI,,1764,0,20,MAR26,1982,i
+6301258,"Caliskan, Ismail",TUR,M,,,,1764,0,20,MAR26,1982,i
 44520328,"Caliskan, Omer Numan",TUR,M,,,,1504,0,20,MAR26,2003,
 6389066,"Caliskan, Seha",TUR,M,,,,1925,0,20,MAR26,2006,i
 6336663,"Caliskan, Soner",TUR,M,,,,1774,0,20,MAR26,1995,i
@@ -1656,7 +1656,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34549137,"Erdogan, Tekin Alp",TUR,M,,,,1822,0,20,MAR26,2006,i
 6366740,"Erdogan, Yunus Emre",TUR,M,,,,1851,0,20,MAR26,2001,i
 51672766,"Erdogan, Yusuf Hamza",TUR,M,,,,1552,0,20,MAR26,2006,i
-6301495,"Erdogdu, Aziz Mert",TUR,M,GM,FST,,2375,0,10,MAR26,1979,
+6301495,"Erdogdu, Aziz Mert",TUR,M,GM,,,2375,0,10,MAR26,1979,
 6391419,"Erdogdu, Muammer Mustafa",TUR,M,,,,1807,0,20,MAR26,1962,i
 26383900,"Erdogdu, Semih",TUR,M,,,,1576,0,20,MAR26,2005,i
 6398499,"Erdogmus, Salih",TUR,M,,,,1474,0,20,MAR26,2004,i
@@ -1876,8 +1876,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6332447,"Gok, Irfan",TUR,M,,,,1869,0,20,MAR26,1972,i
 44525109,"Gok, Oguz Kaan",TUR,M,,,,1612,0,20,MAR26,1996,i
 6352006,"Gok, Ozan Berkay",TUR,M,,,,1857,0,20,MAR26,2002,i
-26392259,"Gokalp, Enes",TUR,M,,,,1411,0,40,MAR26,2008,i
 51686856,"Gokalp, Enes",TUR,M,,,,1686,0,20,MAR26,2000,i
+26392259,"Gokalp, Enes",TUR,M,,,,1411,0,40,MAR26,2008,i
 51638487,"Gokaslan, Mehdi",TUR,M,,,,1456,0,20,MAR26,2007,
 51638495,"Gokaslan, Samet",TUR,M,,,,1436,0,20,MAR26,2002,
 6304028,"Gokay, Ali Ekber",TUR,M,,,,1727,0,20,MAR26,1952,i

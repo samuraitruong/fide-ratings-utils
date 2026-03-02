@@ -23,7 +23,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11201517,"Al Mahmood, Salman",BRN,M,,,,1754,0,20,MAR26,2004,i
 11203358,"AL Najem, Mamdooh",BRN,M,,,,1588,0,40,MAR26,1987,i
 11203668,"Al Sahaf, Ali",BRN,M,,NA,,1538,0,20,MAR26,2001,i
-11200030,"Al Sulaiti, Ali",BRN,M,,FI,,2101,0,20,MAR26,1973,i
+11200030,"Al Sulaiti, Ali",BRN,M,,,,2101,0,20,MAR26,1973,i
 11200162,"Al-Ghasra, Ahmed",BRN,M,,,,1708,0,20,MAR26,1989,i
 11200057,"Al-Ghasra, Ali",BRN,M,CM,,,1923,0,20,MAR26,1986,
 11200170,"Al-Ghasra, Osama",BRN,M,,,,1801,0,20,MAR26,1993,i
@@ -66,7 +66,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11209127,"Alsanadi, Ahmed",BRN,M,,,,1488,0,20,MAR26,1996,
 11208066,"Alsari, Ali",BRN,M,,,,1483,0,40,MAR26,2004,i
 11206187,"AlSari,Yusuf",BRN,M,,,,1609,0,20,MAR26,2002,
-11207523,"Alshabib,Zainab",BRN,F,,"DI,NA",,1543,0,40,MAR26,1999,wi
+11207523,"Alshabib,Zainab",BRN,F,,NA,,1543,0,40,MAR26,1999,wi
 11209119,"Alshawoosh, Mohammed",BRN,M,,,,1462,0,40,MAR26,2010,
 11208554,"Alshehabi, Shehab",BRN,M,,,,1616,0,20,MAR26,1999,
 11205520,"Altaif, Ali",BRN,M,,,,1566,0,20,MAR26,1998,i
@@ -77,8 +77,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11205024,"Asadalla, Mohamed",BRN,M,,,,1515,0,20,MAR26,1991,i
 11203862,"Ashraf, Hasan",BRN,M,,,,1559,0,20,MAR26,1992,i
 11206519,Ayoob Asad,BRN,M,,NA,,1493,0,20,MAR26,1997,i
-11200243,"Ayyad, Husain",BRN,M,FM,FI,,2118,0,20,MAR26,1986,
-11200235,"Ayyad, Maher",BRN,M,FM,FI,,2053,0,20,MAR26,1978,
+11200243,"Ayyad, Husain",BRN,M,FM,,,2118,0,20,MAR26,1986,
+11200235,"Ayyad, Maher",BRN,M,FM,,,2053,0,20,MAR26,1978,
 11210940,BADER NADER AHMED,BRN,M,,,,1569,0,40,MAR26,2014,
 11201673,"Bagalay, Henry",BRN,M,,,,1689,0,20,MAR26,1968,i
 11202629,"Bala, Vatusia",BRN,F,,,,1475,0,20,MAR26,2004,wi
@@ -95,7 +95,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11200600,"Bukhalaf, Mansoor",BRN,M,,DI,,1821,0,20,MAR26,1992,i
 11209909,Daij Mohamed Eid,BRN,M,,,,1442,0,40,MAR26,2013,
 11209917,Danial Mohamed Alkhalidi,BRN,M,,,,1453,0,40,MAR26,2011,
-11201258,"Darwish, Hashim",BRN,M,,FI,,1843,0,20,MAR26,1984,i
+11201258,"Darwish, Hashim",BRN,M,,,,1843,0,20,MAR26,1984,i
 11204524,"Dashti, Sarah",BRN,F,,,,1430,0,40,MAR26,2011,w
 11201649,"Devishree, Murali",BRN,F,,,,1550,0,20,MAR26,2000,wi
 11210788,Ebrahim Tareq Albureshaid,BRN,M,,,,1600,0,40,MAR26,2010,

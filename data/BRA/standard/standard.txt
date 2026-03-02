@@ -2419,7 +2419,7 @@ ID Number      Name                                                         Fed 
 2109638        De Carvalho, Irahy Ribeiro                                   BRA M                                1921  0   20 1929  i   
 2106191        De Carvalho, Jose Jorge                                      BRA M                                2137  0   20 1959  i   
 22727531       De Carvalho, Jose Luciano Leonel                             BRA M                                1820  0   40 1978  i   
-22730729       De Carvalho, Jose Sydnei Garcia                              BRA M                                1649  0   40 1964  i   
+22730729       De Carvalho, Jose Sydnei Garcia                              BRA M                            ACM 1649  0   40 1964  i   
 2130203        De Carvalho, Laerte Dias                                     BRA M                                2013  0   40 1964  i   
 2175053        De Carvalho, Matheus Leao                                    BRA M                                1623  0   40 2002  i   
 44742894       De Carvalho, Mauro Machado                                   BRA M                                1548  0   20 1968      
@@ -4392,7 +4392,7 @@ ID Number      Name                                                         Fed 
 22794832       Guimaraes, Abrahao Do Nascimento                             BRA M                                1874  0   40 2002      
 2121107        Guimaraes, Artemis Pamela                                    BRA F                                1966  0   20 1995  wi  
 2172100        Guimaraes, Dalton Carvalho                                   BRA M                                1677  0   40 1996  i   
-2112450        Guimaraes, Diogo Duarte                                      BRA M   FM        FT,NA              2272  9   20 1984      
+2112450        Guimaraes, Diogo Duarte                                      BRA M   FM        NA                 2272  9   20 1984      
 44702434       Guimaraes, Eduardo Victor                                    BRA M                                1611  0   40 2008  i   
 538009064      Guimaraes, Felipe Pavanato                                   BRA M                                1423  0   40 2017      
 2162148        Guimaraes, Felipe Tavares                                    BRA M                                1551  0   40 1989  i   
@@ -4760,7 +4760,7 @@ ID Number      Name                                                         Fed 
 2122499        Lara, Diego Costa                                            BRA M                            AGM 1837  0   20 1991  i   
 2121182        Laranjeira,Marcio Muniz                                      BRA M                                1970  0   20 1986      
 2108135        Laroca, Alvaro Ney                                           BRA M                                1690  0   20 1939  i   
-22743790       Laroca, Fernando                                             BRA M             NI                 1617  0   40 1971  i   
+22743790       Laroca, Fernando                                             BRA M                                1617  0   40 1971  i   
 22796991       Lassala, Bernardo Valias                                     BRA M                                1766  1   40 2001      
 44775741       Laurentino, Arthur Furtado                                   BRA M                                1986  0   40 1966  i   
 22767118       Laurindo, Ulisses Alvaro                                     BRA M                                1743  0   20 2006      
@@ -4809,7 +4809,7 @@ ID Number      Name                                                         Fed 
 538066696      Lefundes, Mateus Oliveira                                    BRA M                                1624  0   40 2005      
 2191342        Leitao Neto, Antonio Alves                                   BRA M                                1982  0   20 1956      
 2105179        Leitao, Nicolau                                              BRA M                                2071  0   20 1983      
-2101246        Leitao, Rafael                                               BRA M   GM        FT                 2588  0   10 1979      
+2101246        Leitao, Rafael                                               BRA M   GM                           2588  0   10 1979      
 2180006        Leite Filho, Mario Tomaz                                     BRA M                                2013  0   40 1996  i   
 2179210        Leite Filho, Newton Crispino                                 BRA M                                1937  0   40 1965  i   
 2105926        Leite Jr, Erasmo Castro                                      BRA M                                2002  0   20 1968  i   
@@ -4878,7 +4878,7 @@ ID Number      Name                                                         Fed 
 22741470       Liborio,Cibelly Curte                                        BRA F                                1496  0   40 2005  wi  
 22705880       Liborio,Diogenes Augusto Santos                              BRA M                                1726  0   40 2003  i   
 2153971        Librelato, Ana Julia Goulart                                 BRA F                                1867  0   20 2001  wi  
-2153963        Librelato, Kathie Goulart                                    BRA F   WIM  WIM  SI,FI,NA           2133  0   20 1998  w   
+2153963        Librelato, Kathie Goulart                                    BRA F   WIM  WIM  SI,NA              2133  0   20 1998  w   
 44700296       Lichote, Joao Lacerda                                        BRA M                                1768  0   40 2007  i   
 44757956       Licinio, Leticia                                             BRA F                                1532  0   40 2007  wi  
 2171244        Liebl, Felipe                                                BRA M                                1614  0   40 2001  i   
@@ -4905,7 +4905,7 @@ ID Number      Name                                                         Fed 
 22761799       Lima, Brayan Theo Milhome                                    BRA M                                1843  0   40 1985  i   
 2199360        Lima, Carlos Eduardo Correia                                 BRA M                                1914  0   40 1954      
 22780807       Lima, Carlos Eduardo I De Araujo                             BRA M                                1980  8   20 2004      
-2100045        Lima, Darcy                                                  BRA M   GM        FT,SI              2360  17  10 1962      
+2100045        Lima, Darcy                                                  BRA M   GM        SI                 2360  17  10 1962      
 2126621        Lima, Delcio Souza                                           BRA M                                2062  0   40 1942  i   
 2102986        Lima, Diniz Neves                                            BRA M                                2132  0   20 1962  i   
 22737146       Lima, Donato de Souza                                        BRA M                                1884  0   40 2001  i   
@@ -5158,9 +5158,9 @@ ID Number      Name                                                         Fed 
 44782306       Macedo, Jose Augusto Xavier                                  BRA M                                1401  0   40 2016      
 44797036       Macedo, Leonardo De Oliveira                                 BRA M                                1598  0   40 1979      
 2104164        Macedo, Luiz Soares de                                       BRA M                                1692  0   20 1923  i   
-2109972        Macedo, Maximo Iack                                          BRA M   IM        FT                 2315  0   10 1986  i   
+2109972        Macedo, Maximo Iack                                          BRA M   IM                           2315  0   10 1986  i   
 22790136       Macedo, Maximo Ian Farias De                                 BRA M                                1584  5   40 2015      
-2103427        Macedo, Maximo Igor                                          BRA M             FI,AO              2210  0   20 1978  i   
+2103427        Macedo, Maximo Igor                                          BRA M             AO                 2210  0   20 1978  i   
 2102307        Macedo, Maximo Valerio                                       BRA M   FM                           1908  5   20 1953      
 44788924       Macedo, Pedro Henrique Fernandes                             BRA M                                1988  0   40 1990      
 22762140       Macedo, Rafael Magalhaes                                     BRA M                                1421  0   40 2010  i   
@@ -5315,7 +5315,7 @@ ID Number      Name                                                         Fed 
 2106434        Marcondes Cesar, Jose Hamilton                               BRA M                                2083  0   40 1967  i   
 2152894        Marcondes, Igor Dalcol                                       BRA M                                1887  0   20 1996      
 2177951        Marge, Matheus Andre                                         BRA M                                1762  0   20 1983  i   
-2124378        Mariani, Daniel Brandao                                      BRA M             FI                 2049  0   20 1989      
+2124378        Mariani, Daniel Brandao                                      BRA M                                2049  0   20 1989      
 22779841       Mariani, Kim Paul                                            BRA M                                1775  0   40 2014      
 22737189       Mariani, Vitor Caramico Steffen                              BRA M                                1424  0   40 2009  i   
 2146606        Mariano de Oliveira, Geovane                                 BRA M                                2048  0   40 1979  i   
@@ -6842,7 +6842,7 @@ ID Number      Name                                                         Fed 
 2150999        Ribeiro, Cesar Augusto Basagni                               BRA M                                1422  0   20 1971  i   
 22721878       Ribeiro, Daniel Malta                                        BRA M                                1917  0   20 1997  i   
 22754741       Ribeiro, Davison Soares                                      BRA M                                1997  0   40 1998  i   
-2109999        Ribeiro, Denison Carlos Vieira                               BRA M                            AFM 1904  0   20 1983      
+2109999        Ribeiro, Denison Carlos Vieira                               BRA M                            AIM 1904  0   20 1983      
 22760245       Ribeiro, Dionatan Lua Franzen                                BRA M                                1972  0   20 2004      
 22730346       Ribeiro, Fabiano Mendes                                      BRA M             NA                 1782  0   40 1992      
 22755896       Ribeiro, Fabiano Pinto                                       BRA M             NA                 1854  0   20 1971      
@@ -8111,7 +8111,7 @@ ID Number      Name                                                         Fed 
 538029545      Teodoro, Pedro Henrique De Souza                             BRA M                                1709  0   40 2003      
 22741747       Teramoto, Anderson                                           BRA M                                1747  0   20 1961  i   
 2105829        Teramoto, Wilson                                             BRA M                                1956  0   40 1959  i   
-2109220        Terao, Juliana Sayumi                                        BRA F   FM   WIM  FT                 2169  0   20 1991  w   
+2109220        Terao, Juliana Sayumi                                        BRA F   FM   WIM                     2169  0   20 1991  w   
 2111047        Terao, Rodrigo Akira                                         BRA M   FM                           2362  0   10 1990  i   
 22710914       Tereza, Mirela Pedro                                         BRA F   WCM  WCM                     1505  0   40 2008  w   
 538013991      Terra, Alfredo Mochi                                         BRA M                                1516  0   40 2003  i   

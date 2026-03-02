@@ -121,7 +121,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5601983,"Muscat, Isaac",MLT,M,,,,1507,0,20,MAR26,2003,i
 5604540,"Muthukumar, Krishnan",MLT,M,,,,1743,0,40,MAR26,1975,i
 727067,"Novak, Attila Robert",MLT,M,CM,"SI,NA",,2205,0,20,MAR26,1984,
-5600189,"Pace, Colin",MLT,M,CM,FI,,2120,0,20,MAR26,1979,i
+5600189,"Pace, Colin",MLT,M,CM,,,2120,0,20,MAR26,1979,i
 5604206,"Pace, Dante",MLT,M,,,,1457,0,40,MAR26,2011,
 5601274,"Pace, Matthew",MLT,M,,,,1560,0,20,MAR26,1969,i
 5604907,"Pace, Zach",MLT,M,,,,1581,0,40,MAR26,2009,i
@@ -167,13 +167,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5605024,"Suwala, Kamil",MLT,M,,,,1613,0,40,MAR26,1991,i
 5602947,"Thake, Conrad",MLT,M,CM,,,1880,0,20,MAR26,1963,
 5604486,"Thorne, Carl",MLT,M,,,,1447,0,40,MAR26,2011,i
-5600464,"Thornton, Filipina",MLT,F,WFM,WFM,"FI,NA",1785,0,20,MAR26,1977,w
+5600464,"Thornton, Filipina",MLT,F,WFM,WFM,NA,1785,0,20,MAR26,1977,w
 5602637,"Thornton, Hayley",MLT,F,,,,1494,0,40,MAR26,2011,w
 5604885,"Tibayan, Mark",MLT,M,,,,1569,0,40,MAR26,2005,i
 5400120,"Unger, Manfred",MLT,M,,,,2024,0,20,MAR26,1963,i
 5601932,Vella Jeremy,MLT,M,,,,1689,0,20,MAR26,2003,i
 5603544,"Vella, Beppe",MLT,M,,,,1663,0,40,MAR26,1988,i
-5600243,"Vella, Duncan",MLT,M,CM,"FI,SI,IA",,2001,0,20,MAR26,1971,
+5600243,"Vella, Duncan",MLT,M,CM,"SI,IA",,2001,0,20,MAR26,1971,
 5604613,"Vella, Wayne",MLT,M,,,,1451,4,40,MAR26,2011,
 5604281,"Wang, Yunlong",MLT,F,,,,1606,0,40,MAR26,2012,w
 5603153,"Wang, Ziyi",MLT,M,,,,1433,3,40,MAR26,2013,

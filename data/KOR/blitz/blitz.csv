@@ -6,12 +6,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13227211,"Alimbekova, Aibiike",KOR,F,,,,1518,0,40,MAR26,2010,w
 13222228,"Bae, Jaemin",KOR,M,,,,1611,0,40,MAR26,2015,
 13203436,"Bae, Sungwoo",KOR,M,,,,1754,0,20,MAR26,1999,i
-13200186,"Baek, Wongi",KOR,M,,FI,,1753,0,20,MAR26,1982,
+13200186,"Baek, Wongi",KOR,M,,,,1753,0,20,MAR26,1982,
 13207091,"Bin Nasrin, Nayyef Ashyraf",KOR,M,,,,1765,0,,MAR26,1993,i
 13223100,"Byun, Junseok",KOR,M,,,,1788,0,40,MAR26,2011,
 13205480,"Cheon, Sehyuk",KOR,M,CM,,,1804,0,40,MAR26,2008,i
 13226185,"Cho, Eunjun",KOR,M,,,,1694,0,,MAR26,2016,i
-13200550,"Cho, Seongho",KOR,M,,NI,,1908,0,20,MAR26,1990,i
+13200550,"Cho, Seongho",KOR,M,,,,1908,0,20,MAR26,1990,i
 13201190,"Cho, Yeonhee",KOR,F,WCM,WCM,"NI,NA",1743,0,20,MAR26,2001,wi
 13235613,"Cho, Yoon",KOR,M,,,,1416,0,40,MAR26,2013,
 13234706,"Choe, Matthew Hajoon",KOR,M,,,,1677,0,40,MAR26,2015,
@@ -161,9 +161,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13202154,"Lee, Kyungseok",KOR,M,CM,,,2029,0,20,MAR26,1992,i
 13222805,"Lee, Minjoon C",KOR,M,,,,1556,0,40,MAR26,2011,
 13233424,"Lee, Minseong",KOR,M,,,,1829,0,40,MAR26,2009,
-13208586,"Lee, Onbin",KOR,M,,"NI,NI",,1687,0,20,MAR26,1998,
+13208586,"Lee, Onbin",KOR,M,,NI,,1687,0,20,MAR26,1998,
 13220373,"Lee, Ruk",KOR,M,,,,1548,0,40,MAR26,2015,
-13200011,"Lee, Sanghoon",KOR,M,FM,NI,,2085,0,20,MAR26,1981,i
+13200011,"Lee, Sanghoon",KOR,M,FM,,,2085,0,20,MAR26,1981,i
 13231847,"Lee, Seoha",KOR,F,,,,1453,0,40,MAR26,2013,w
 13225480,"Lee, Seohan",KOR,M,,,,1562,0,40,MAR26,2015,
 13209329,"Lee, Seojun B",KOR,M,,,,1434,0,20,MAR26,2007,
@@ -224,7 +224,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13220578,"Park, Sihoo",KOR,M,,,,1781,0,40,MAR26,2009,
 13234463,"Park, Siwoo D",KOR,M,,,,1529,0,40,MAR26,2014,
 13203320,"Park, Sunwoo",KOR,F,WFM,WFM,,1846,0,20,MAR26,2003,w
-13203835,"Park, Yerim",KOR,F,,DI,,1447,0,20,MAR26,2004,w
+13203835,"Park, Yerim",KOR,F,,,,1447,0,20,MAR26,2004,w
 13218239,"Quirk, Duk Hunter",KOR,M,,,,1612,0,40,MAR26,2010,i
 4901320,"Rentsen, Erdenetulga",KOR,M,,,,2140,0,20,MAR26,1992,
 5029015,"RV, Adith",KOR,M,,,,1862,0,20,MAR26,1998,
@@ -239,7 +239,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 329218666,"Shinn, Jungmin",KOR,M,,,,1905,0,,MAR26,2004,i
 13215698,"Son, Juwon",KOR,M,,,,1596,0,,MAR26,2012,
 13219057,"Song, Jihu",KOR,M,,,,1792,0,40,MAR26,2013,
-413003,"Song, Jinwoo",KOR,M,FM,"FI,FT",,1874,7,20,MAR26,1973,
+413003,"Song, Jinwoo",KOR,M,FM,FT,,1874,7,20,MAR26,1973,
 13211617,"Song, Mingeun",KOR,M,,,,1704,0,40,MAR26,2011,i
 23766506,"Song, Yul",KOR,M,,,,1473,0,40,MAR26,2012,i
 13231855,"Ten, Dmitriy Val",KOR,M,,,,1446,0,40,MAR26,2011,

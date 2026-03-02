@@ -67,7 +67,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4700228,"Cela, Altin",ALB,M,IM,,,2485,0,10,MAR26,1975,i
 4713281,"Cela, Ermir",ALB,M,,,,1839,0,40,MAR26,1998,
 4703650,"Cela, Krojf",ALB,M,,,,1822,0,40,MAR26,1984,i
-4700716,"Cela, Shkelqim",ALB,M,FM,"FT,FT",,2179,0,20,MAR26,1956,i
+4700716,"Cela, Shkelqim",ALB,M,FM,FT,,2179,0,20,MAR26,1956,i
 4700376,"Cika, Agron",ALB,M,,,,1956,2,20,MAR26,1955,
 4702450,"Citozi, Fatmir",ALB,M,,,,1785,0,40,MAR26,1947,
 4703758,"Cota, Anja",ALB,F,,,,1474,0,40,MAR26,2010,wi
@@ -231,7 +231,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4700252,"Mihasi, Lime",ALB,M,,NA,,1954,0,20,MAR26,1967,
 4700732,"Mikeli, Leonard",ALB,M,,,,2277,0,40,MAR26,1935,i
 4709853,"Molla, Klevis",ALB,M,,,,1790,0,40,MAR26,1991,
-4700015,"Muco, Fatos",ALB,M,IM,FT,,2420,0,10,MAR26,1949,i
+4700015,"Muco, Fatos",ALB,M,IM,,,2420,0,10,MAR26,1949,i
 4704070,"Myftari, Robert",ALB,M,,,,1789,0,40,MAR26,1978,i
 4705807,"Ndreko, Ailin",ALB,F,WCM,WCM,,1726,0,40,MAR26,2012,w
 4700589,"Ndreu, Donald",ALB,M,,,,1887,0,20,MAR26,1998,
@@ -327,7 +327,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4702352,"Tashi, Josif",ALB,M,,,,1728,0,20,MAR26,1947,
 4701470,"Tavasja, Elvis",ALB,M,,,,2087,0,,MAR26,1986,i
 4703189,"Telegrafi, Adi",ALB,M,,,,1929,0,40,MAR26,1979,i
-4703502,"Temali, Erion",ALB,M,,DI,,1737,0,40,MAR26,1981,
+4703502,"Temali, Erion",ALB,M,,,,1737,0,40,MAR26,1981,
 4706358,"Troshani, Henri",ALB,M,,,,1412,0,40,MAR26,2014,
 4701356,"Tusha, Ruzhdi",ALB,M,,,,1738,0,20,MAR26,1965,
 4701496,"Vasili, Marinel",ALB,M,,,,1770,0,20,MAR26,2002,i
@@ -346,7 +346,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4705114,"Xhembulla, Aleksander",ALB,M,FM,,,2286,0,20,MAR26,2006,
 4701232,"Xhilaga, Vladimir",ALB,M,,,,1873,0,40,MAR26,1982,i
 4700678,"Yzeiraj, Diamant",ALB,M,,,,1826,0,20,MAR26,1993,i
-4700104,"Zadrima, Aldo",ALB,M,,"FT,SI",,2255,0,20,MAR26,1948,i
+4700104,"Zadrima, Aldo",ALB,M,,SI,,2255,0,20,MAR26,1948,i
 4700546,"Zarkaj, Artur",ALB,M,,,,2043,0,40,MAR26,1961,i
 4703936,"Zavalani, Gjergj",ALB,M,,,,1861,0,40,MAR26,1954,i
 4701062,"Zefi, Xhon",ALB,M,,,,1864,0,20,MAR26,1964,i

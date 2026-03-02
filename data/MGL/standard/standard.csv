@@ -13,7 +13,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4924312,"Ali, Bauirjan",MGL,M,,,,1623,0,40,MAR26,2011,
 4901223,"Altan, Tuvdendorj",MGL,M,,,,2030,0,20,MAR26,1966,i
 4900278,"Altan-Och, Genden",MGL,M,FM,IA,,2173,0,20,MAR26,1961,
-4901444,"Altan-Ulzii, Enkhtuul",MGL,F,WGM,WGM,"FT,NA",2142,0,20,MAR26,1994,w
+4901444,"Altan-Ulzii, Enkhtuul",MGL,F,WGM,WGM,NA,2142,0,20,MAR26,1994,w
 4905130,Altanbayar Tserenpeljee,MGL,M,,,,2081,0,20,MAR26,1983,i
 4923421,"Altangerel, Baatar",MGL,M,,NA,,1664,0,40,MAR26,1987,
 4902629,"Altangerel, Odgerel",MGL,M,,,,1879,0,20,MAR26,2000,i
@@ -69,7 +69,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4900600,"Ankhchimeg, Bayanmunkh",MGL,F,WIM,WIM,,2077,0,20,MAR26,1983,w
 4903676,Ankhiluun Gantulga,MGL,F,,,,1522,0,40,MAR26,2004,wi
 4931203,Ankhzaya Batkhishigt,MGL,F,,,,1613,0,40,MAR26,2010,w
-4901339,"Anu, Bayar",MGL,F,WFM,WFM,FT,2025,0,20,MAR26,1993,wi
+4901339,"Anu, Bayar",MGL,F,WFM,WFM,,2025,0,20,MAR26,1993,wi
 4908880,"Anu, Bayart-Uchral",MGL,F,WCM,WCM,,1771,0,40,MAR26,2012,w
 4909011,"Anu-Ujin, Adiyabilegt",MGL,F,,,,1521,0,40,MAR26,2011,wi
 4904060,Anudari Tsogdelger,MGL,F,,,,1825,0,20,MAR26,2007,w
@@ -174,7 +174,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4928270,Bayarjargal Byambaa,MGL,M,,,,1839,0,40,MAR26,1968,i
 4901479,"Bayarkhuu, Khurelchuluun",MGL,M,,,,2110,0,20,MAR26,1996,i
 4901282,"Bayarmaa, Battogtokh",MGL,F,,,,1889,0,40,MAR26,1984,wi
-4900260,"Bayarmaa, Bayarjargal",MGL,F,WIM,WIM,FI,2110,0,20,MAR26,1995,w
+4900260,"Bayarmaa, Bayarjargal",MGL,F,WIM,WIM,,2110,0,20,MAR26,1995,w
 4900189,"Bayarmaa, Gendenjamc",MGL,F,WIM,WIM,,1911,0,20,MAR26,1963,w
 4900677,"Bayarmandakh, Balgan",MGL,M,FM,,,2120,0,20,MAR26,1974,
 4903013,"Bayarsaikhan, Adiya",MGL,M,,,,1915,0,20,MAR26,1965,i
@@ -204,7 +204,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4919017,"Bilguun, Gansukh",MGL,M,,,,1617,0,40,MAR26,2008,i
 4902319,"Bilguun, Lkhagvasanj",MGL,M,,,,1862,0,20,MAR26,2003,i
 4904320,"Bilguun, Narankhuu",MGL,M,,,,1567,0,40,MAR26,2004,i
-4901541,"Bilguun, Sumiya",MGL,M,GM,FI,,2442,0,10,MAR26,1997,
+4901541,"Bilguun, Sumiya",MGL,M,GM,,,2442,0,10,MAR26,1997,
 4932307,Bilguunbayar Nyamsuren,MGL,M,,,,1556,0,40,MAR26,2018,
 4929438,"Bilguungerel, Erdenetsogt",MGL,F,,,,1402,0,40,MAR26,2021,w
 4931009,Bilguuntugs Bayarmagnai,MGL,M,,,,1618,0,40,MAR26,2013,
@@ -614,7 +614,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4933842,Mungunsarnai Natar,MGL,F,,,,1540,0,40,MAR26,2004,w
 4931386,Munguntulga Baasansuren,MGL,M,,,,1488,0,40,MAR26,2013,
 4904494,"Munguntulga, Batjargal",MGL,M,,,,1763,0,40,MAR26,2000,i
-4900758,"Munguntuul, Batkhuyag",MGL,F,IM,WGM,FT,2340,0,10,MAR26,1987,w
+4900758,"Munguntuul, Batkhuyag",MGL,F,IM,WGM,,2340,0,10,MAR26,1987,w
 4925122,"Munguntuul, Enkh-Amar",MGL,F,,,,1509,0,40,MAR26,2006,wi
 4904508,"Munguntuya, Batbold",MGL,F,,,,1486,0,40,MAR26,2002,wi
 4902831,"Mungunzul, Bat-Erdene",MGL,F,WIM,WIM,,2347,0,20,MAR26,2005,w
@@ -743,7 +743,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4902696,"Onongol , Tselmeg",MGL,F,,,,1595,0,40,MAR26,2004,wi
 4905180,Orgil Rentsen,MGL,M,,,,1699,0,40,MAR26,1984,
 4905555,Orgil Unurbayar,MGL,M,,,,1725,0,40,MAR26,2003,i
-4902076,"Orgil, Gantumur",MGL,M,,"FI,NA",,2097,0,,MAR26,1987,i
+4902076,"Orgil, Gantumur",MGL,M,,NA,,2097,0,,MAR26,1987,i
 4907493,Orgilon Batsaikhan,MGL,M,,,,2096,0,40,MAR26,2008,
 4931424,Orgiluun Munkhdul,MGL,F,,,,1474,0,40,MAR26,2015,w
 4919378,"Osorjamts, Myagmardorj",MGL,M,,,,1681,0,40,MAR26,1963,i
@@ -1003,7 +1003,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2054906,"Uyanga, Byambaa",MGL,F,WFM,WFM,,1960,0,20,MAR26,1990,w
 4929284,"Uyangabileg, Uranbileg",MGL,F,,,,1629,0,40,MAR26,2010,w
 4918959,"Uyangalyankhua, Batzaya",MGL,F,,,,1728,0,,MAR26,2011,w
-4900952,"Yanjindulam, Dulamsuren",MGL,F,WIM,WIM,FI,2091,0,20,MAR26,1988,wi
+4900952,"Yanjindulam, Dulamsuren",MGL,F,WIM,WIM,,2091,0,20,MAR26,1988,wi
 4901452,"Yanjinlkham, Bayarsaikhan",MGL,F,WFM,WFM,,1974,0,20,MAR26,1996,wi
 4907701,Yengilik Makhmyet,MGL,F,,,,1747,0,40,MAR26,1971,wi
 4905962,"Yeruultei, Batbaatar",MGL,M,CM,,,1927,0,40,MAR26,2010,

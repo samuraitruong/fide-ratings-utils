@@ -380,7 +380,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1251465,"Berechet, Eduard Mihai",ROU,M,,,,1659,0,20,MAR26,2007,i
 1200240,"Berechet, Otiliu-Octavian",ROU,M,IM,,,1920,0,20,MAR26,1962,
 1242393,"Berechet, Stefan-Mario",ROU,M,,,,1965,0,20,MAR26,2003,
-1204920,"Berescu, Alin-Mile",ROU,M,GM,FT,,2374,0,10,MAR26,1980,i
+1204920,"Berescu, Alin-Mile",ROU,M,GM,,,2374,0,10,MAR26,1980,i
 1281399,"Berszan, Peter",ROU,M,,,,1658,0,20,MAR26,1951,i
 42249732,"Besliu, Tudor",ROU,M,,,,1420,0,40,MAR26,2016,
 1244876,"Beuran, Liviu",ROU,M,,,,1748,0,20,MAR26,1956,i
@@ -517,7 +517,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42209625,"Bratu, Narcis-Alexandru",ROU,M,,,,1536,0,40,MAR26,2010,i
 1262971,"Bratu, Teodor-Cosmin",ROU,M,,,,1975,0,20,MAR26,1976,i
 1200283,"Breahna, Radu",ROU,M,FM,,,2264,0,20,MAR26,1965,
-42216206,"Breaz, Adrian",ROU,M,,"DI,SI,DI",,1759,0,20,MAR26,1989,i
+42216206,"Breaz, Adrian",ROU,M,,"SI,DI",,1759,0,20,MAR26,1989,i
 42215218,"Breaz, Albert",ROU,M,,,,1533,0,40,MAR26,2015,i
 42217008,"Breaz, Arthur",ROU,M,,,,1488,0,40,MAR26,2017,i
 42248620,"Breaz, Eric-Alexandru",ROU,M,,,,1420,0,40,MAR26,2015,
@@ -726,7 +726,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1256475,"Chiric, David",ROU,M,,,,1572,0,20,MAR26,2006,i
 42207088,"Chiricuta, Ion",ROU,M,,,,1772,0,20,MAR26,1971,i
 1263862,"Chirila, Carmen-Maria",ROU,F,,,,1432,0,20,MAR26,2005,wi
-1211668,"Chirila, Ioan-Cristian",ROU,M,GM,"FST,FST",,2435,0,10,MAR26,1991,i
+1211668,"Chirila, Ioan-Cristian",ROU,M,GM,FST,,2435,0,10,MAR26,1991,i
 1299077,"Chirila, Mihai-Eduard",ROU,M,,,,1760,0,20,MAR26,1998,i
 42244641,"Chirila, Tudor-Ioan",ROU,M,,,,1481,0,40,MAR26,2018,
 1297732,"Chirita, Ana Alexandra",ROU,F,,,,1511,0,40,MAR26,2011,wi
@@ -923,7 +923,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1221655,"Corolea, Diana-Gabriela",ROU,F,,,,1754,0,20,MAR26,1998,wi
 1263188,"Cosac, Robert-Mihai",ROU,M,,,,1734,0,40,MAR26,2008,i
 42202221,"Coseraru, Daria Ecaterina",ROU,F,,,,1465,0,40,MAR26,2011,wi
-1201590,"Cosma, Elena-Luminita",ROU,F,WGM,WGM,"FT,IA",2088,0,20,MAR26,1972,w
+1201590,"Cosma, Elena-Luminita",ROU,F,WGM,WGM,IA,2088,0,20,MAR26,1972,w
 1200100,"Cosma, Ioan",ROU,M,IM,,,2154,0,10,MAR26,1965,
 1263196,"Cosman, Adrian-Vasile",ROU,M,,,,1581,0,20,MAR26,2006,
 1217968,"Cosman, Andreea-Marioara",ROU,F,WIM,WIM,,2166,8,20,MAR26,1997,w
@@ -1779,7 +1779,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42236789,"Ionescu, Andrei V.",ROU,M,,,,1670,0,20,MAR26,1982,
 42253896,"Ionescu, Andrei-Constantin",ROU,M,,,,1518,5,40,MAR26,2015,
 1212192,"Ionescu, Bogdan",ROU,M,,SI,,2195,0,,MAR26,1983,i
-1200860,"Ionescu, Cristian-Dan",ROU,M,FM,"FT,FT",,2187,0,20,MAR26,1958,i
+1200860,"Ionescu, Cristian-Dan",ROU,M,FM,FT,,2187,0,20,MAR26,1958,i
 1277065,"Ionescu, Daria S.",ROU,F,,,,1601,0,40,MAR26,2010,w
 42259444,"Ionescu, David-Andrei",ROU,M,,,,1591,0,40,MAR26,2017,
 42253039,"Ionescu, Ilinca",ROU,F,,,,1582,0,40,MAR26,2017,w
@@ -2201,7 +2201,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42243416,"Matei, Octavian",ROU,M,,,,1552,0,40,MAR26,2016,
 1227319,"Matei, Raul-Cornel",ROU,M,,,,1878,0,,MAR26,1997,i
 1218751,"Matei, Stefan-Razvan",ROU,M,,NA,,1700,0,20,MAR26,1986,
-1279165,"Matei-Catruna, Andrei",ROU,M,,,,1686,0,40,MAR26,2011,
+1279165,"Matei-Catruna, Andrei",ROU,M,,,,1686,0,,MAR26,2011,
 1206370,"Mateuta, Gabriel",ROU,M,IM,,,2505,0,10,MAR26,1980,i
 1238868,"Maties, Andrei",ROU,M,,,,1662,0,20,MAR26,2004,i
 4176960,"Maximov, Oleg",ROU,M,FM,,,2230,0,20,MAR26,1965,i
@@ -2410,7 +2410,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42200458,"Motca, Crina Geanina",ROU,F,,,,1424,0,40,MAR26,2011,wi
 1242091,"Motiu, Victor",ROU,M,,,,1789,0,20,MAR26,2005,i
 1263439,"Motofelea, Alexandru-Catalin",ROU,M,,,,1625,0,20,MAR26,1992,i
-4121830,"Motylev, Alexander",ROU,M,GM,"FST,FST",,2502,0,10,MAR26,1979,
+4121830,"Motylev, Alexander",ROU,M,GM,FST,,2502,0,10,MAR26,1979,
 1200151,"Mozes, Ervin",ROU,M,IM,,,1901,0,20,MAR26,1946,
 42234581,"Muha, Iustin",ROU,M,,,,1406,0,40,MAR26,2011,i
 1277294,"Muha, Matei",ROU,M,,,,1590,0,40,MAR26,2010,i
@@ -3280,7 +3280,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1213504,"Sava, Ana-Maria",ROU,F,WCM,WCM,,1728,0,20,MAR26,1987,wi
 1215841,"Sava, Bogdan",ROU,M,,,,1941,0,20,MAR26,1980,i
 1213326,"Sava, Catalin-Vasile",ROU,M,,,,2218,0,20,MAR26,1983,i
-1210114,"Sava, Christiansen-Danut-Eugen",ROU,M,FM,"FT,SI,FT",,1898,0,20,MAR26,1978,
+1210114,"Sava, Christiansen-Danut-Eugen",ROU,M,FM,"SI,FT",,1898,0,20,MAR26,1978,
 42233682,"Sava, Daniel",ROU,M,,,,1631,6,40,MAR26,2017,
 1215280,"Sava, Gabriela-Liliana",ROU,F,,,,1923,0,20,MAR26,1986,wi
 42204844,"Sava, Natalia-Maria",ROU,F,,,,1449,0,40,MAR26,2013,w
@@ -3348,7 +3348,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1213792,"Sfarlog, Tudor-Vlad",ROU,M,,,,2192,0,20,MAR26,1990,i
 42219612,"Sfichi, Andrei",ROU,M,,,,1840,7,40,MAR26,2010,
 42244161,"Sfirnaciuc, David",ROU,M,,,,1684,0,40,MAR26,2014,
-1213776,"Sgircea, Silvia-Raluca",ROU,F,WIM,WIM,"FT,FA",2066,0,20,MAR26,1989,wi
+1213776,"Sgircea, Silvia-Raluca",ROU,F,WIM,WIM,FA,2066,0,20,MAR26,1989,wi
 42228085,"Shah, Ayan-Iosif",ROU,M,,,,1508,0,40,MAR26,2010,i
 14129574,"Shevchenko, Kirill",ROU,M,GM,,,2554,0,10,MAR26,2002,i
 1245465,"Sianga, Dima",ROU,M,,,,1883,0,20,MAR26,1955,i
@@ -3439,7 +3439,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1241451,"Stan, Vlad-Stefan",ROU,M,,,,1429,0,20,MAR26,2004,i
 1268732,"Stan, Vlad-Stefan G.",ROU,M,,,,1494,0,20,MAR26,2007,i
 42219540,"Stana, Rares-Andrei",ROU,M,,,,1593,9,40,MAR26,2013,
-1205013,"Stanca, Adrian",ROU,M,,"FI,FI",,2157,0,20,MAR26,1976,i
+1205013,"Stanca, Adrian",ROU,M,,FI,,2157,0,20,MAR26,1976,i
 42205808,"Stanci, David-Dacian",ROU,M,,,,1588,0,40,MAR26,2009,
 1239996,"Stancioiu, Andrei-Calin",ROU,M,,,,1731,0,20,MAR26,1976,i
 1217674,"Stanciu, Alexandru-Ovidiu",ROU,M,FM,,,2251,0,20,MAR26,1993,
@@ -3981,7 +3981,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 42224403,"Voicu, Stefan",ROU,M,,,,1582,0,40,MAR26,2014,
 42202868,"Voicu, Stefan-Constantin",ROU,M,,,,1479,0,40,MAR26,2011,i
 1248650,"Voicu, Teodor-Mihnea",ROU,M,CM,,,2183,0,20,MAR26,2006,
-1206729,"Voicu-Jagodzinsky, Carmen",ROU,F,WGM,WGM,"FT,FT",2189,0,20,MAR26,1981,w
+1206729,"Voicu-Jagodzinsky, Carmen",ROU,F,WGM,WGM,FT,2189,0,20,MAR26,1981,w
 1218077,"Voiculescu, Florin",ROU,M,,,,1831,0,20,MAR26,1958,
 42215510,"Voinea, Eduard-Stefan",ROU,M,,,,1539,0,40,MAR26,2014,
 1295845,"Voinescu, Carol-Andrei",ROU,M,,,,1443,0,20,MAR26,2006,

@@ -55,7 +55,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532033079,"Abrar, Zaman",BAN,M,,,,1807,0,40,MAR26,2008,
 10213201,"Abu Lish, Ansary",BAN,M,,,,1871,0,20,MAR26,1988,i
 532031220,"Abu Saber, Md Ariful Islam",BAN,M,,,,1753,0,20,MAR26,1978,
-10200916,"Abu Sufian, Shakil",BAN,M,IM,FT,,2288,0,20,MAR26,1980,
+10200916,"Abu Sufian, Shakil",BAN,M,IM,,,2288,0,20,MAR26,1980,
 10211160,"Abu Taleb, Kuranu",BAN,M,,,,1927,0,20,MAR26,1981,i
 10235663,"Abu, Ayub",BAN,M,,,,1570,0,20,MAR26,1981,i
 10208771,"Abu, Reza",BAN,M,,,,1940,0,20,MAR26,1971,i
@@ -76,7 +76,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10212582,"Afrin Jahan, Munia",BAN,F,,,,1764,0,20,MAR26,1998,wi
 10297316,"Afshan Ahliat, Kreste",BAN,F,,,,1643,0,40,MAR26,2016,w
 10201530,"Afzal, Kazi Md. Mahbub",BAN,M,,FA,,1848,0,20,MAR26,1967,
-10208313,"Ahad, Syed Abdul",BAN,M,,NI,,1785,0,20,MAR26,1974,i
+10208313,"Ahad, Syed Abdul",BAN,M,,,,1785,0,20,MAR26,1974,i
 10293914,"Ahanaf Abid, Eshan",BAN,M,,,,1580,0,40,MAR26,2011,
 10248269,"Ahbab, Ahmed",BAN,M,,,,1783,0,20,MAR26,1980,i
 532031238,"Ahmar, Saleh",BAN,M,,,,1754,0,20,MAR26,2001,
@@ -183,7 +183,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 532019785,"Asfak Safin, Ahnaf",BAN,M,,,,1617,0,40,MAR26,2011,
 315277496,"Ashaduzzaman, Md",BAN,M,,,,1875,0,20,MAR26,1983,i
 10264825,"Ashish, Mazumder",BAN,M,,,,1883,0,20,MAR26,1990,i
-10259767,"Ashiya, Sultana",BAN,F,,NI,,1548,0,20,MAR26,1988,w
+10259767,"Ashiya, Sultana",BAN,F,,,,1548,0,20,MAR26,1988,w
 10257535,"Ashraf Al, Imam",BAN,M,,,,1723,0,20,MAR26,1968,
 10299238,"Ashraful Hasan, Khan",BAN,M,,,,1583,0,20,MAR26,1994,i
 10223479,"Ashraful, Alam",BAN,M,,,,1870,0,20,MAR26,1978,i
@@ -245,7 +245,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10275797,"Chowdhury, Ahnaf Zarif",BAN,M,,,,1737,0,20,MAR26,2003,i
 10204318,"Chowdhury, Amdadul Kabir",BAN,M,,,,1844,0,20,MAR26,1979,
 10201947,"Chowdhury, Bisnu",BAN,M,,,,1975,0,20,MAR26,0,i
-10203095,"Chowdhury, Mahmuda Hoque",BAN,F,WCM,WCM,"NI,SI",1827,0,20,MAR26,1982,wi
+10203095,"Chowdhury, Mahmuda Hoque",BAN,F,WCM,WCM,SI,1827,0,20,MAR26,1982,wi
 10234209,"Chowdhury, Monirul Islam",BAN,M,,,,1732,0,20,MAR26,1966,i
 10202889,"Chowdhury, Rana",BAN,M,,,,1924,0,20,MAR26,1974,i
 10277102,"Chowdhury, Safwan Jawad",BAN,M,,,,1462,0,40,MAR26,2012,i
@@ -321,7 +321,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10256954,"Gaffar, Mollah",BAN,M,,,,1745,0,20,MAR26,1980,
 10220321,Gaushey,BAN,M,,,,1833,0,20,MAR26,1989,i
 10295410,"Gazi, Mohammad Ayas",BAN,M,,,,1450,0,20,MAR26,1978,i
-10201858,"Ghosh, Chanchal Kumer",BAN,M,CM,FI,,2087,0,20,MAR26,1977,i
+10201858,"Ghosh, Chanchal Kumer",BAN,M,CM,,,2087,0,20,MAR26,1977,i
 10202617,"Gias Uddin, Ahmed",BAN,M,,,,1917,0,20,MAR26,1978,i
 10261133,"Gias, Uddin",BAN,M,,,,1704,0,20,MAR26,1998,i
 10238646,"Gm, Junayed",BAN,M,,,,1726,0,20,MAR26,1998,i
@@ -567,7 +567,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10210822,"Majumder, Lokesh Chandra",BAN,M,,,,1876,0,20,MAR26,1968,i
 10228578,"Maksudur, Rahman",BAN,M,,,,1690,0,20,MAR26,1985,
 10289844,"Malek, Khizir Ibne",BAN,M,,,,1652,0,20,MAR26,1983,
-10202129,"Mallick, Masudur Rahman",BAN,M,,"FI,IO",,2062,0,20,MAR26,1973,i
+10202129,"Mallick, Masudur Rahman",BAN,M,,IO,,2062,0,20,MAR26,1973,i
 10277706,"Mamunur, Rashid",BAN,M,,,,1760,0,20,MAR26,1982,i
 10247939,"Mamunur, Rashid",BAN,M,,,,1678,0,20,MAR26,1996,i
 10261052,"Manash Kumar, Saha",BAN,M,,,,1713,0,20,MAR26,1999,i
@@ -1015,8 +1015,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10210148,"Md., Zakaria",BAN,M,,,,1860,0,20,MAR26,1978,
 10211314,"Md.abdul, Motin",BAN,M,,,,1821,0,20,MAR26,0,i
 10211772,"Md.abzid, Rahman",BAN,M,CM,,,1989,0,20,MAR26,1987,
-10223533,"Md.aftabul, Islam",BAN,M,,,,1680,0,20,MAR26,1979,i
 10223525,"Md.aftabul, Islam",BAN,M,,,,1709,0,20,MAR26,1989,i
+10223533,"Md.aftabul, Islam",BAN,M,,,,1680,0,20,MAR26,1979,i
 10222006,"Md.ariful , Amin",BAN,M,,,,1935,0,20,MAR26,1992,
 10229396,"Md.golam, Nur",BAN,M,,,,1787,0,20,MAR26,1972,i
 10223088,"Md.hannan, Uddin",BAN,M,,,,1708,0,20,MAR26,1986,i
@@ -1301,7 +1301,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10215433,"Rakib Ahmed , Saleh",BAN,M,,,,1907,0,,MAR26,1984,
 10234225,"Rakibul Islam Maruf, Md.",BAN,M,,,,1665,0,20,MAR26,1999,i
 10292420,"Rakibul, Islam",BAN,M,,,,1630,0,20,MAR26,2007,i
-10206361,"Rakibul, Islam Shachchu",BAN,M,,NI,,1927,0,,MAR26,1972,i
+10206361,"Rakibul, Islam Shachchu",BAN,M,,,,1927,0,,MAR26,1972,i
 10218157,"Rameen, Ahmed",BAN,M,,,,1689,0,20,MAR26,2004,i
 10257772,"Rana, Md Sohel",BAN,M,,,,1865,0,20,MAR26,1984,
 532036612,"Ranju, Kha",BAN,M,,,,1711,0,20,MAR26,1980,

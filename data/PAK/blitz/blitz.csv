@@ -44,7 +44,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7801785,Ali Rayyan Sanwal,PAK,M,,,,1772,0,,MAR26,1993,
 7814917,Ali Raza,PAK,M,,SI,,1635,0,20,MAR26,1999,i
 7849974,Ali seena,PAK,M,,,,1521,0,40,MAR26,2011,
-7810881,Alishba Shafique,PAK,F,,"NI,NA",,1564,0,20,MAR26,2003,wi
+7810881,Alishba Shafique,PAK,F,,NA,,1564,0,20,MAR26,2003,wi
 7830793,Amatullah Hamid,PAK,F,,,,1495,0,40,MAR26,2018,w
 7818580,Ameer Hamza Khetran,PAK,M,,,,1616,0,20,MAR26,1996,i
 7800053,Amer Karim,PAK,M,FM,"NI,LSI,SI,NA",,2212,0,20,MAR26,1970,
@@ -134,7 +134,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7817304,Haroon Masih,PAK,M,,,,1675,0,20,MAR26,1992,
 7802633,Hasan Tariq Athar,PAK,M,,NA,,1795,0,,MAR26,1966,
 7809328,Haseeb Ur Rehman Jawad,PAK,M,,NA,,1761,0,20,MAR26,1982,i
-7806809,Hassaan Mehmood,PAK,M,,"NI,NA",,1455,0,,MAR26,1994,i
+7806809,Hassaan Mehmood,PAK,M,,NA,,1455,0,,MAR26,1994,i
 7810865,Hassan Afzaal,PAK,M,,,,1621,0,,MAR26,1988,i
 7807368,Hassan Hamid,PAK,M,,,,1475,0,40,MAR26,2015,
 7842406,Haziq Adnan,PAK,M,,,,1715,0,,MAR26,2011,
@@ -284,8 +284,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7831200,Muhammad Qasim,PAK,M,,"SI,NA",,1542,0,,MAR26,1995,
 7803419,Muhammad Rafi Khan,PAK,M,,,,1705,0,20,MAR26,1979,i
 7819609,Muhammad Rashid,PAK,M,,,,1646,0,20,MAR26,2001,i
-7831951,Muhammad Rayyan,PAK,M,,,,1610,0,40,MAR26,2008,i
 7821093,Muhammad Rayyan,PAK,M,,,,1781,0,20,MAR26,2005,
+7831951,Muhammad Rayyan,PAK,M,,,,1610,0,40,MAR26,2008,i
 7831676,Muhammad Rayyan,PAK,M,,,,1527,0,20,MAR26,2005,i
 7825528,Muhammad Saad,PAK,M,,,,1584,0,20,MAR26,1996,i
 7809042,Muhammad sabir,PAK,M,,,,1806,0,20,MAR26,1974,i
@@ -300,7 +300,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7802170,Muhammad Shafique Jnr,PAK,M,,,,1761,0,20,MAR26,1970,i
 7807759,Muhammad Shahrukh,PAK,M,,NA,,1693,0,20,MAR26,1995,i
 7801777,Muhammad Shahzad,PAK,M,,,,1951,0,,MAR26,1984,i
-7804806,Muhammad Shahzeb,PAK,M,,"SI,NI,LSI,FI,FA",,1941,0,20,MAR26,1991,i
+7804806,Muhammad Shahzeb,PAK,M,,"SI,LSI,FA",,1941,0,20,MAR26,1991,i
 7817169,Muhammad Shaiman Saleem,PAK,M,,NA,,1625,0,,MAR26,2000,
 7810814,Muhammad Shehryar Najmi,PAK,M,,,,1744,0,20,MAR26,2002,
 7808674,Muhammad Siddique,PAK,M,,NA,,1652,0,20,MAR26,1987,i
@@ -388,7 +388,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 7818190,Salman Nasrullah Ghulamani,PAK,M,,,,1490,0,20,MAR26,1996,i
 7819684,Sameez Sarfaraz,PAK,M,,,,1712,0,20,MAR26,2006,i
 7814364,Sami Ullah,PAK,M,,,,1710,0,20,MAR26,1998,i
-7817290,Samreen Khan,PAK,F,,"NI,NA",,1590,0,20,MAR26,1985,wi
+7817290,Samreen Khan,PAK,F,,NA,,1590,0,20,MAR26,1985,wi
 7835825,Saqib Ishaque,PAK,M,,,,1568,0,20,MAR26,2005,
 7803230,Sarmad Hussain,PAK,M,,"SI,NA",,1860,0,20,MAR26,1992,i
 7820020,Sarmad Idrees,PAK,M,,,,1557,0,20,MAR26,1991,i

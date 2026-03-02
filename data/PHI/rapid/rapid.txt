@@ -400,7 +400,7 @@ ID Number      Name                                                         Fed 
 521069760      Arcilla, Luke Anthony                                        PHI M                                1538  6   40 2012      
 5254515        Arcinue, Jeanne Marie                                        PHI F                                1623  0   40 2012  w   
 521018944      Areglado, Reymart                                            PHI M                                1828  4   40 2011      
-5235006        Arellano, Bryle                                              PHI M             FI,FI,NA       AGM 2181  8   20 1989      
+5235006        Arellano, Bryle                                              PHI M             FI,NA          AGM 2181  8   20 1989      
 5266874        Arellano, Carlito Jr.                                        PHI M                                1917  0   20 1974  i   
 5230381        Arellano, Khristian Clyde                                    PHI M                                1861  0   20 1988  i   
 5237831        Arellano, Phoebie Angel                                      PHI F                                1620  0   40 2002  w   
@@ -428,8 +428,8 @@ ID Number      Name                                                         Fed 
 5203554        Armendi, Alfredo Jr.                                         PHI M                                1588  0   40 1985      
 5282438        Arnaiz, Austin John                                          PHI M                                1584  0   20 1986  i   
 5256941        Arnel Enrico Paolo Codera                                    PHI M                                1670  0   40 2003  i   
-5201292        Arninio, Jason                                               PHI M                                2043  4   40 1990      
 521079200      Arninio, Jason                                               PHI M                                1919  8   40 1985      
+5201292        Arninio, Jason                                               PHI M                                2043  4   40 1990      
 521044210      Arocena, Edgar                                               PHI M                                1541  0   40 1963      
 521006725      Aromin, Mark Joachim                                         PHI M                                1562  0   40 2006  i   
 521024138      Aromin, Wulfhere                                             PHI M                                1620  0   40 2013  i   
@@ -1817,7 +1817,7 @@ ID Number      Name                                                         Fed 
 521007268      Duhig, Yannie Theo                                           PHI M                                1480  0   40 2013      
 5261627        Dulatre, Mark Anthony                                        PHI M             NA             AGM 1592  0   40 1993  i   
 521045844      Dulay, Princeof Jaren                                        PHI M                                1535  0   40 2007  i   
-5265819        Dulnuan, Dwayne Tyler                                        PHI M                            ACM 1725  0   40 2014      
+5265819        Dulnuan, Dwayne Tyler                                        PHI M                            AFM 1725  0   40 2014      
 521061777      Dulnuan, John Willstian                                      PHI M                                1474  0   40 2013      
 5248809        Dultra, Jhune Angelo                                         PHI M                                1896  0   20 2002      
 5248310        Dumadag, Laurence Wilfred                                    PHI M                                1758  0   20 1974  i   
@@ -2045,7 +2045,7 @@ ID Number      Name                                                         Fed 
 521061548      Fedalgo, Nathnaiel                                           PHI M                                1498  0   40 2015      
 521007977      Felicitas, Reymark                                           PHI M                                1583  0   40 2001  i   
 521003300      Felipe, Gerald                                               PHI M                            AIM 1885  0   40 1991      
-5221927        Felix, Winnie                                                PHI M             FI                 1739  0   20 1967      
+5221927        Felix, Winnie                                                PHI M                                1739  0   20 1967      
 5227518        Feolino, Edwin                                               PHI M                                1752  0   20 1972  i   
 521036489      Fermil, Iyah                                                 PHI F                                1483  0   40 2012  wi  
 5219647        Fernandez, Allan                                             PHI M                                1828  0   20 1979  i   
@@ -2752,7 +2752,7 @@ ID Number      Name                                                         Fed 
 5243939        Kho, Lynus Garrett                                           PHI M                                1803  0   20 2003  i   
 521017891      Kinalamay, Jude                                              PHI M                                1701  0   40 2004      
 5297850        Kindipan, Jezry                                              PHI M                            AFM 1646  0   40 1990  i   
-5235812        Kindipan, Zyralle                                            PHI F             NI,SI,NA       AIM 1627  4   20 1993  w   
+5235812        Kindipan, Zyralle                                            PHI F             SI,NA          AIM 1627  4   20 1993  w   
 5252652        Kintanar, Stephen                                            PHI M                                1998  0   20 1961  i   
 5220769        Kis-ing, Christopher Khalil                                  PHI M                                1997  0   20 2003      
 521018537      Kitongan, David Kale                                         PHI M                                1426  0   40 2010  i   
@@ -2832,7 +2832,7 @@ ID Number      Name                                                         Fed 
 521075751      Lagunoy, Uzielle Gail                                        PHI F                                1633  0   40 2013  w   
 5265258        Lagusad, John Meg                                            PHI M                                1890  0   40 1999  i   
 5202876        Lagutin, Nelman                                              PHI M             NA                 2002  0   20 1981      
-5260078        Lagutin, Nelsonerro                                          PHI M             NI             AFM 1941  0   20 1989      
+5260078        Lagutin, Nelsonerro                                          PHI M                            AFM 1941  0   20 1989      
 5298270        Lainez, Julian Victor                                        PHI M                                1515  0   40 2002  i   
 521023786      Lait, Vladimir                                               PHI M                                1816  0   20 2006      
 521030413      Lajot, Kia Kendra                                            PHI F                                1510  0   40 2015  w   
@@ -3409,8 +3409,8 @@ ID Number      Name                                                         Fed 
 5281970        Martinez, Christian Emmanuel                                 PHI M                                1851  0   20 2002      
 521026742      Martinez, Jefferson                                          PHI M                                1812  0   40 1989  i   
 5274648        Martinez, Marlo                                              PHI M                                1869  0   20 1979  i   
-521047570      Martinez, Raven                                              PHI M                                1535  0   40 2010  i   
 521051437      Martinez, Raven                                              PHI M                                1577  0   40 2007  i   
+521047570      Martinez, Raven                                              PHI M                                1535  0   40 2010  i   
 5201446        Martinez, Rolly                                              PHI M   IM                           2497  0   10 1970  i   
 521058130      Martirez, Daniel John                                        PHI M                                1693  0   40 2008  i   
 5235316        MARTIREZ, Royce                                              PHI M                                1672  0   40 1999  i   
@@ -3567,8 +3567,8 @@ ID Number      Name                                                         Fed 
 5233909        MINDO, Dominino Jr                                           PHI M                                1575  0   20 1969      
 521055300      Minoza, Trisha Madel                                         PHI F                                1596  0   40 2011  w   
 521035113      Miparanum, Azrel Jacob                                       PHI M                                1531  0   40 2014      
-521033765      Mirabeles, Elpidio                                           PHI M                                1767  0   40 1992  i   
 5246741        Mirabeles, Elpidio                                           PHI M                                1883  0   20 1953  i   
+521033765      Mirabeles, Elpidio                                           PHI M                                1767  0   40 1992  i   
 5298075        Mirabite, Manny                                              PHI M                                1461  0   40 1999      
 521032041      Mirabona, Karl Lance                                         PHI M                                1545  0   40 2008  i   
 521059543      Miraflor, Bernard                                            PHI M                                1660  0   40 1980  i   
@@ -4789,7 +4789,7 @@ ID Number      Name                                                         Fed 
 5298989        Sanchez, Kenzo                                               PHI M                                1476  0   40 2012  i   
 5229839        Sanchez, Krisen Yochabel Marie                               PHI M                                1663  0   40 2005  i   
 521049980      Sanchez, Krystelle Emerald                                   PHI F                                1517  0   40 2014  w   
-115202945      Sanchez, Marfred                                             PHI M             SI,NA          AGM 1896  0   40 1990  i   
+115202945      Sanchez, Marfred                                             PHI M             NA             AGM 1896  0   40 1990  i   
 5258081        Sanchez, Paul                                                PHI M                                1821  0   20 1983  i   
 5292557        Sanchez, Penelope Kate                                       PHI F                                1616  0   40 2010  w   
 5291038        Sanchez, Sophia Khaila                                       PHI F                                1440  0   40 2007  w   
@@ -4878,7 +4878,7 @@ ID Number      Name                                                         Fed 
 5265380        Segales, Alejandro                                           PHI M                                1839  0   20 1974      
 5288371        Segara, Hannah                                               PHI F                                1748  0   40 2013  w   
 5288380        Segara, Nathan                                               PHI M                                1775  0   40 2010      
-5201616        Segarra, Randy                                               PHI M   FM        FT,FT              2150  0   20 0         
+5201616        Segarra, Randy                                               PHI M   FM        FT                 2150  0   20 0         
 5222974        segundo, Tommy Jr.                                           PHI M                                1957  0   40 2002  i   
 5266629        Segura, Kobi Bryant                                          PHI M                                1609  0   40 2005  i   
 5277060        Sekak, Sumail Iii                                            PHI M                                1915  0   20 2001  i   
@@ -4926,7 +4926,7 @@ ID Number      Name                                                         Fed 
 5298130        Silvala, Mikelle Kristoff                                    PHI M                                1511  0   40 2009  i   
 521049262      Silvano, Ramon Jr                                            PHI M                                1644  0   40 2007      
 5272009        Silvano, Vhea Ashley                                         PHI F                                1769  0   40 2009  w   
-5248302        Silvederio, John Michael Britanico                           PHI M             FI             AGM 1978  0   20 1992  i   
+5248302        Silvederio, John Michael Britanico                           PHI M                            AGM 1978  0   20 1992  i   
 5241316        Sim, Alexis Vien                                             PHI M                                1711  0   20 2004  i   
 521002690      Sim, Danny                                                   PHI M                                1617  0   40 1957  i   
 5295599        Sim, Rafael Jr                                               PHI M                                1936  8   20 1988      
@@ -5019,7 +5019,7 @@ ID Number      Name                                                         Fed 
 5262089        Subia, Millery Gen                                           PHI F                                1613  0   40 2013  w   
 5206871        Suede, Akiko Charmaine                                       PHI F                                1908  0   20 0     wi  
 5207010        Suede, Alexis Charlotte                                      PHI F                                1792  0   20 0     wi  
-5208920        Suede, Mikee Charlene                                        PHI F   WIM  WIM  FI                 2048  0   20 1994  wi  
+5208920        Suede, Mikee Charlene                                        PHI F   WIM  WIM                     2048  0   20 1994  wi  
 521017026      Suerto, Argylle Lord Hezekiah                                PHI M                                1524  0   40 2011      
 521041210      Suico, Renante                                               PHI M                                1729  0   40 1987  i   
 5264812        Suico, Seth David                                            PHI M                                1612  0   40 2014      
@@ -5252,7 +5252,7 @@ ID Number      Name                                                         Fed 
 5226724        Tolentino, Jerry                                             PHI M                                2048  0   20 1977  i   
 521018669      Tolentino, Mark Lawrence                                     PHI M                                1517  0   40 2000  i   
 521058768      Tolentino, Queen Sheylee                                     PHI F                                1673  0   40 2009  wi  
-5202795        Tolentino, Rustum                                            PHI M   FM        FT,NA              2286  0   20 1982      
+5202795        Tolentino, Rustum                                            PHI M   FM        NA                 2286  0   20 1982      
 5230365        Tolentino, Sean Aldryl S.                                    PHI M                                1882  0   40 2009      
 5259606        Tolosa, Christian                                            PHI M                                1951  7   40 2011      
 521003106      Tomang, Jojimar                                              PHI M                                1756  0   40 1977  i   
@@ -5457,8 +5457,8 @@ ID Number      Name                                                         Fed 
 521065934      Verdida, Michael Azariah                                     PHI M                                1421  0   40 2016      
 5205034        Verdun, Xavier John                                          PHI M                                2168  0   20 0     i   
 5283051        Vergara, Arelle                                              PHI M                                1629  0   40 2007  i   
-521056862      Vergara, Arnold                                              PHI M                                1618  0   40 1976      
 521058067      Vergara, Arnold                                              PHI M                                1865  0   40 2004  i   
+521056862      Vergara, Arnold                                              PHI M                                1618  0   40 1976      
 521004994      Vergara, Joel                                                PHI M                                1793  0   40 1975  i   
 5220360        Vergara, Joseph Raphael                                      PHI M                                1771  0   40 2008      
 521028729      Vergara, Rav Andrie                                          PHI M                                1634  0   40 2004  i   

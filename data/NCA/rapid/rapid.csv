@@ -9,7 +9,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6110606,"Aleman Martinez, Maria Alejandra",NCA,F,,,,1607,0,40,MAR26,2013,wi
 6109420,"Aleman Martinez, Verania Monserrat",NCA,F,,,,1512,0,40,MAR26,2009,wi
 6112374,"Alfaro Sanchez, Carlos Eduardo",NCA,M,,,,1573,0,40,MAR26,2006,i
-6100457,"Alfaro, William",NCA,M,FM,FI,,2076,0,20,MAR26,1982,
+6100457,"Alfaro, William",NCA,M,FM,,,2076,0,20,MAR26,1982,
 6105602,"Allen Montes, Charles Mijail",NCA,M,,,,1717,0,20,MAR26,1981,i
 6100783,"Allen, Alonso",NCA,M,,,,1792,4,20,MAR26,0,
 6103987,"Allen, Luisa Amanda",NCA,F,,,,1657,0,20,MAR26,2001,wi
@@ -298,7 +298,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6114393,"Quintanilla Rivera, Humberto Rafael",NCA,M,,,,1675,3,40,MAR26,2011,
 6110363,"Quintero Obando, Lesber Alexander",NCA,M,,,,1765,0,20,MAR26,2003,i
 6107265,"Quintero Rodriguez, Manuel Jose",NCA,M,,,,1752,0,20,MAR26,2004,i
-6101984,"Quintero, Armando",NCA,M,,"FI,FI",,1889,0,20,MAR26,0,i
+6101984,"Quintero, Armando",NCA,M,,FI,,1889,0,20,MAR26,0,i
 6112226,"Real Miranda, Halinda Mariel",NCA,F,,,,1525,0,40,MAR26,2003,wi
 6110690,"Reyes Sequeira, Axel Daniel",NCA,M,,,,1566,0,20,MAR26,2001,i
 6100686,"Rios Borgen, Edgard Jose",NCA,M,,,,1863,0,20,MAR26,1961,i

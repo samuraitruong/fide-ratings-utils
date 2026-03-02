@@ -11,12 +11,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11209852,Ahmed Merza Ahmed Hasan,BRN,M,,,,1566,0,40,MAR26,2002,
 11200332,"Ahmed, Hamad Ali",BRN,M,,,,1770,0,40,MAR26,0,i
 11205270,"Ahmed, Najla",BRN,F,,NA,,1569,3,20,MAR26,2000,w
-11200081,"Al Afoo, Shaker",BRN,M,FM,FT,,2182,0,40,MAR26,1969,i
+11200081,"Al Afoo, Shaker",BRN,M,FM,,,2182,0,40,MAR26,1969,i
 11202300,"Al Jamri, Maleeha",BRN,F,,"NI,IA",,1644,0,40,MAR26,1991,wi
 11201851,"Al Jowder, Isa",BRN,M,,,,1526,0,40,MAR26,2003,i
 11206640,"Al Khalifa, Sh. Khaled",BRN,M,,,,1488,0,40,MAR26,2004,i
 11201517,"Al Mahmood, Salman",BRN,M,,,,1820,0,20,MAR26,2004,i
-11200030,"Al Sulaiti, Ali",BRN,M,,FI,,2089,0,20,MAR26,1973,i
+11200030,"Al Sulaiti, Ali",BRN,M,,,,2089,0,20,MAR26,1973,i
 11200162,"Al-Ghasra, Ahmed",BRN,M,,,,1708,0,40,MAR26,1989,i
 11200057,"Al-Ghasra, Ali",BRN,M,CM,,,1985,0,20,MAR26,1986,
 11200170,"Al-Ghasra, Osama",BRN,M,,,,1737,0,20,MAR26,1993,
@@ -45,14 +45,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11203897,"Alsalti, Rania",BRN,F,,,,1572,0,40,MAR26,1981,wi
 11209127,"Alsanadi, Ahmed",BRN,M,,,,1680,0,40,MAR26,1996,i
 11206187,"AlSari,Yusuf",BRN,M,,,,1673,0,40,MAR26,2002,
-11207523,"Alshabib,Zainab",BRN,F,,"DI,NA",,1529,0,40,MAR26,1999,wi
+11207523,"Alshabib,Zainab",BRN,F,,NA,,1529,0,40,MAR26,1999,wi
 11208554,"Alshehabi, Shehab",BRN,M,,,,1646,0,40,MAR26,1999,
 11209291,"AlWardi, Hussain",BRN,M,,,,1759,0,40,MAR26,2007,
 11201550,"Amini, Ali",BRN,M,,,,1730,0,20,MAR26,1964,i
 11201584,"Amini, Hossein Ali",BRN,M,,,,1666,0,20,MAR26,0,i
 11206519,Ayoob Asad,BRN,M,,NA,,1610,0,40,MAR26,1997,
-11200243,"Ayyad, Husain",BRN,M,FM,FI,,2106,0,20,MAR26,1986,
-11200235,"Ayyad, Maher",BRN,M,FM,FI,,1964,0,20,MAR26,1978,
+11200243,"Ayyad, Husain",BRN,M,FM,,,2106,0,20,MAR26,1986,
+11200235,"Ayyad, Maher",BRN,M,FM,,,1964,0,20,MAR26,1978,
 11202360,"Bayoneta, Richard",BRN,M,,,,2110,0,40,MAR26,0,i
 11204184,"Binzaiman, Ayman",BRN,M,,NA,,1558,3,,MAR26,1985,
 11200359,"Bu Khammas, Abdulla",BRN,M,,,,1785,0,20,MAR26,0,i
@@ -63,7 +63,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11200367,"Bukhalaf, Khalaf",BRN,M,,,,1788,0,20,MAR26,1994,
 11200596,"Bukhalaf, Khalil",BRN,M,FM,,,1960,0,20,MAR26,1994,i
 11200600,"Bukhalaf, Mansoor",BRN,M,,DI,,1866,0,40,MAR26,1992,i
-11201258,"Darwish, Hashim",BRN,M,,FI,,1792,0,20,MAR26,1984,i
+11201258,"Darwish, Hashim",BRN,M,,,,1792,0,20,MAR26,1984,i
 11204524,"Dashti, Sarah",BRN,F,,,,1494,0,40,MAR26,2011,w
 11201649,"Devishree, Murali",BRN,F,,,,1531,0,40,MAR26,2000,wi
 11210788,Ebrahim Tareq Albureshaid,BRN,M,,,,1693,6,40,MAR26,2010,

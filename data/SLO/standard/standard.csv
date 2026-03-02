@@ -282,7 +282,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14654822,"Dobnikar, Nik",SLO,M,,,,1676,0,40,MAR26,1998,i
 14664283,"Dobrilla Ruzic, Robertino",SLO,M,,,,1746,0,,MAR26,2008,
 14612593,"Dobrovoljc, Andrej",SLO,M,,,,1767,0,40,MAR26,1967,i
-14609835,"Dobrovoljc, Andreja",SLO,F,,NI,,1909,0,20,MAR26,1997,wi
+14609835,"Dobrovoljc, Andreja",SLO,F,,,,1909,0,20,MAR26,1997,wi
 14609843,"Dobrovoljc, Vid",SLO,M,IM,,,2395,0,10,MAR26,2000,
 14618141,"Dolenc, Mile",SLO,M,,,,1841,0,20,MAR26,1951,i
 14667207,"Dolenc, Peter",SLO,M,,,,1912,0,40,MAR26,1994,i
@@ -568,7 +568,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14602407,"Jazbinsek, Vera",SLO,F,,,,1804,0,20,MAR26,1957,wi
 14610329,"Jelen, Ales",SLO,M,,,,1893,0,40,MAR26,1978,i
 14625458,"Jelen, Anja",SLO,F,,,,1585,0,20,MAR26,2006,wi
-14600668,"Jelen, Igor",SLO,M,IM,FT,,2312,0,10,MAR26,1972,
+14600668,"Jelen, Igor",SLO,M,IM,,,2312,0,10,MAR26,1972,
 14600056,"Jelen, Iztok",SLO,M,IM,,,2415,0,10,MAR26,1947,i
 14632985,"Jelen, Luka",SLO,M,,,,1591,0,40,MAR26,2008,i
 14611791,"Jelen, Miha",SLO,M,,,,1930,0,20,MAR26,2002,i
@@ -627,7 +627,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14613646,"Kanc, Ignacij",SLO,M,,,,1618,0,40,MAR26,1934,i
 14638339,"Kante, Enej",SLO,M,,,,1410,0,40,MAR26,2008,i
 14653907,"Kapla, Maksimilijan",SLO,M,,,,1423,0,40,MAR26,2011,i
-14602334,"Kaps, Darja",SLO,F,WGM,WGM,FT,2126,0,20,MAR26,1981,wi
+14602334,"Kaps, Darja",SLO,F,WGM,WGM,,2126,0,20,MAR26,1981,wi
 14605368,"Karamehic, Berin",SLO,M,,,,1969,0,40,MAR26,1986,i
 14603322,"Karer, Gregor",SLO,M,,,,2172,0,20,MAR26,1982,i
 14602148,"Kariz, Peter",SLO,M,,,,2142,0,40,MAR26,1960,i
@@ -1006,7 +1006,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14605520,"Mazej, Jernej",SLO,M,,,,2123,0,20,MAR26,1984,i
 14653699,"Mazi Petric, Tisa",SLO,F,,,,1452,3,40,MAR26,2014,w
 14655349,"Mazi Petric, Tjob",SLO,M,,,,1486,0,40,MAR26,2011,
-14600315,"Mazi, Leon",SLO,M,IM,FT,,2280,0,10,MAR26,1959,
+14600315,"Mazi, Leon",SLO,M,IM,,,2280,0,10,MAR26,1959,
 14673762,"Mazi, Majda",SLO,F,,,,1469,0,40,MAR26,1959,wi
 73006971,"Mazzini, Katarina",SLO,F,,,,1903,0,20,MAR26,2003,wi
 14645351,"Medik, Eva",SLO,M,,,,1421,0,40,MAR26,2011,i
@@ -1268,7 +1268,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14604817,"Poglajen, Franc",SLO,M,,,,1815,0,20,MAR26,1958,
 14652064,"Pokorn, Tugomir",SLO,M,,,,1567,0,40,MAR26,1964,i
 14639750,"Polajzar, Stanislav",SLO,M,,,,1815,0,40,MAR26,1955,i
-14600218,"Polajzer, Danilo",SLO,M,IM,"FT,NA",,2194,0,10,MAR26,1958,
+14600218,"Polajzer, Danilo",SLO,M,IM,NA,,2194,0,10,MAR26,1958,
 14609436,"Polanc, Uros",SLO,M,,,,1773,0,40,MAR26,1994,i
 14607166,"Polutnik, Jure",SLO,M,,,,1988,0,40,MAR26,1984,i
 14643413,"Pompe, Niko",SLO,M,,,,2269,0,20,MAR26,2007,
@@ -1840,7 +1840,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14674785,"Zupan, Luka",SLO,M,,,,1462,0,40,MAR26,2007,
 14651971,"Zupan, Mirko",SLO,M,,,,1686,0,40,MAR26,1957,
 14643600,"Zupan, Mirko",SLO,M,,,,1683,0,40,MAR26,1978,i
-14607280,"Zupancic, Jernej",SLO,M,,"FI,FA",,2200,0,20,MAR26,1991,
+14607280,"Zupancic, Jernej",SLO,M,,FA,,2200,0,20,MAR26,1991,
 14611627,"Zupancic, Klemen",SLO,M,,,,1829,0,20,MAR26,2000,
 14606631,"Zupancic, Urban",SLO,M,,,,1991,0,20,MAR26,1988,
 14658100,"Zupancic, Zara",SLO,F,,,,1473,5,40,MAR26,2015,w

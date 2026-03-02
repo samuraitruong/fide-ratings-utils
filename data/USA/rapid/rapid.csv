@@ -46,7 +46,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 30925240,"Anderson, Kirk",USA,M,,,,1489,0,40,MAR26,1973,i
 2043572,"Andreas, Peter",USA,M,,,,1917,0,20,MAR26,1954,i
 30958300,"Ansari, Jahaan",USA,M,,,,1815,0,20,MAR26,1995,i
-4107012,"Antipov, Mikhail Al.",USA,M,GM,FT,,2605,0,10,MAR26,1997,i
+4107012,"Antipov, Mikhail Al.",USA,M,GM,,,2605,0,10,MAR26,1997,i
 2085330,"Apelo, David",USA,M,,,,1963,0,,MAR26,1957,i
 30945232,"Apper, Kevin",USA,M,,,,1724,0,40,MAR26,1949,
 2019647,"Aramil, William",USA,M,,,,2205,0,20,MAR26,1985,i
@@ -344,7 +344,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2039397,"Covic, Mehmed",USA,M,,,,1695,0,20,MAR26,1947,
 2053020,"Covington, M Paul",USA,M,,,,1834,0,20,MAR26,1948,i
 39995348,"Cowell, Isaac Bainbridge",USA,M,,,,1606,3,40,MAR26,1986,
-30964334,"Coy, Matthew",USA,M,,NI,,1857,0,20,MAR26,2002,i
+30964334,"Coy, Matthew",USA,M,,,,1857,0,20,MAR26,2002,i
 2095793,"Creger, Leo",USA,M,,,,2081,0,20,MAR26,1997,i
 2089882,"Cremisi, Daniel",USA,M,,,,2135,5,20,MAR26,1999,
 39924939,"Creswell, Charlie",USA,M,,,,1849,0,40,MAR26,2008,i
@@ -396,7 +396,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 30961904,"Dentchouk, Emmanuel",USA,M,,,,1842,0,40,MAR26,2009,i
 39961184,"Denton, Thomas J",USA,M,,,,1920,0,40,MAR26,1964,
 2014734,"Deolalikar, Nisha",USA,F,,,,1899,0,20,MAR26,1991,wi
-12500330,"Derakhshani, Dorsa",USA,F,IM,WGM,FT,2170,0,20,MAR26,1998,wi
+12500330,"Derakhshani, Dorsa",USA,F,IM,WGM,,2170,0,20,MAR26,1998,wi
 39925242,"Desai, Jairaj",USA,M,,,,1606,0,40,MAR26,2014,i
 39914194,"Desai, Karan Arun",USA,M,,,,1405,0,40,MAR26,2015,
 30967902,"Desai, Samara Lina",USA,F,,,,1539,0,40,MAR26,2009,wi
@@ -421,7 +421,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2090694,"Dommalapati, Aasa",USA,F,WFM,WFM,,1838,0,20,MAR26,2004,wi
 2049023,"Dommalapati, Abhinay",USA,M,,,,1885,0,20,MAR26,1999,i
 2060442,"Dona, Luca",USA,M,,,,1914,0,20,MAR26,1962,i
-2000709,"Donaldson, John",USA,M,IM,FST,,2374,0,10,MAR26,1958,
+2000709,"Donaldson, John",USA,M,IM,,,2374,0,10,MAR26,1958,
 2021749,"Dong, Alice",USA,F,,,,1941,0,20,MAR26,1998,wi
 30977380,"Dong, Kyle Qiyu",USA,M,CM,,,1998,0,40,MAR26,2013,
 39919722,"Dorf, Vlad",USA,M,,,,1783,0,40,MAR26,1971,i
@@ -474,7 +474,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 30963818,"Etinoff, Claude",USA,M,,,,1728,0,20,MAR26,1959,i
 2061880,"Ewing, Gabriel",USA,M,,,,2055,0,20,MAR26,1993,i
 2055112,"Fabbri, Alexander",USA,M,,,,2050,0,20,MAR26,1995,i
-2031531,"Faerman, Laila",USA,F,,"NI,LSI",,1878,0,40,MAR26,1982,wi
+2031531,"Faerman, Laila",USA,F,,LSI,,1878,0,40,MAR26,1982,wi
 2094401,"Fan, Zheyuan",USA,M,,,,2073,0,20,MAR26,1991,i
 10600507,"Farahat, Ali",USA,M,IM,FT,,2235,0,20,MAR26,1975,
 30987466,"Farhat, Adam",USA,M,,,,1411,0,,MAR26,2009,i
@@ -830,7 +830,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 30913411,"Kauffmann, Evan Michael",USA,M,,,,1910,0,20,MAR26,1999,
 39948803,"Kaushik, Shlok",USA,M,,,,1562,0,40,MAR26,2015,
 39933997,"Kavari, Aarav",USA,M,,,,1794,8,40,MAR26,2015,
-2026384,"Kavutskiy, Kostya",USA,M,IM,FT,,2414,0,10,MAR26,1992,i
+2026384,"Kavutskiy, Kostya",USA,M,IM,,,2414,0,10,MAR26,1992,i
 2046512,"Kay, Gabriella",USA,F,,,,1671,0,40,MAR26,1987,wi
 75003570,"Kazan, Jude",USA,M,,,,1936,3,40,MAR26,2010,
 2025426,"Kearse, Gregory Sashi",USA,M,,,,1971,0,20,MAR26,1949,i
@@ -1212,7 +1212,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 30983150,"Muthu, Kamatchi",USA,F,,,,1525,0,40,MAR26,2012,w
 30987261,"Muthukumar, Haari",USA,M,FM,,,1999,0,40,MAR26,2007,i
 30977053,"Muthukumaran, Gurru",USA,M,,,,1834,0,40,MAR26,2010,
-2041715,"Myers, Dominique",USA,M,,FI,,1987,0,20,MAR26,1992,i
+2041715,"Myers, Dominique",USA,M,,,,1987,0,20,MAR26,1992,i
 39926419,"Myhre, Robert",USA,M,,,,1742,0,40,MAR26,1967,i
 129063880,"Nadig, Rahul",USA,M,,,,1479,0,,MAR26,2007,i
 33431434,Naga Abhi Ram Ponnaluri,USA,M,,,,1588,0,40,MAR26,2013,
@@ -1242,7 +1242,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 30928648,"Neale, Mark",USA,M,,,,1607,0,40,MAR26,1971,i
 39930955,"Neema, Mukund",USA,M,,,,1623,6,40,MAR26,2010,
 39908470,"Negarajan, Arjun",USA,M,,,,1400,0,40,MAR26,2011,
-322750,"Nemcova, Katerina",USA,F,WGM,WGM,FT,2217,0,20,MAR26,1990,wi
+322750,"Nemcova, Katerina",USA,F,WGM,WGM,,2217,0,20,MAR26,1990,wi
 30981204,"Nemiroff, Samuel",USA,M,,,,1771,0,40,MAR26,2013,
 30989973,"Nemmali, Prateek R",USA,M,,,,1939,0,40,MAR26,2006,i
 30955416,"Ner, John",USA,M,,,,1667,0,20,MAR26,1998,i
@@ -1273,7 +1273,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2017040,"Olsen, Robert",USA,M,,,,2034,0,20,MAR26,1958,i
 30977100,"Olujic, Steven A",USA,M,,,,1692,0,20,MAR26,1994,i
 2080893,"Ombina, Edward P",USA,M,,,,1800,0,20,MAR26,1948,i
-14101025,"Onischuk, Alexander",USA,M,GM,FST,,2618,0,10,MAR26,1975,i
+14101025,"Onischuk, Alexander",USA,M,GM,,,2618,0,10,MAR26,1975,i
 2095386,"Onyango, Adia",USA,F,,,,1860,0,20,MAR26,1974,wi
 24125890,"Oparin, Grigoriy",USA,M,GM,,,2606,0,10,MAR26,1997,
 2017253,"Osmonbekov, Talaibek",USA,M,,,,2092,0,20,MAR26,1974,
@@ -1342,7 +1342,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 30971497,"Perecharla, Hariram Saikrishna",USA,M,,,,1768,0,40,MAR26,2013,i
 39914313,"Perez, Javier Armando",USA,M,,,,1619,0,40,MAR26,1991,i
 2035251,"Perez, Robert",USA,M,,,,2337,0,20,MAR26,1995,i
-2048434,"Perrine, Dalton",USA,M,FM,FI,,2217,0,20,MAR26,1993,i
+2048434,"Perrine, Dalton",USA,M,FM,,,2217,0,20,MAR26,1993,i
 39916146,"Petersen, Sidney Michael Rauner",USA,M,,,,1623,0,20,MAR26,1998,
 30979595,"Peterson, Brian",USA,M,,,,1819,0,20,MAR26,1982,i
 39921727,"Peterson, Jared E",USA,M,,,,1656,0,40,MAR26,1945,i
@@ -1507,7 +1507,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2019299,"Rosenberg, Evan S",USA,M,,,,2123,0,20,MAR26,1983,i
 39935809,"Rosenstock, Ephraim M",USA,M,,,,2164,0,,MAR26,2009,
 2045150,"Rosenthal, Nicholas",USA,M,,,,2189,0,20,MAR26,1996,i
-2041588,"Rotenberg, Marc",USA,M,,NI,,1876,0,40,MAR26,1960,i
+2041588,"Rotenberg, Marc",USA,M,,,,1876,0,40,MAR26,1960,i
 39981649,"Rothe-Kushel, William PI",USA,M,,,,1769,0,40,MAR26,2012,
 2017571,"Roush, John Everett",USA,M,,,,2104,0,40,MAR26,1957,i
 39963462,"Rowe, Gabriel",USA,M,,,,1771,0,40,MAR26,1997,
@@ -1588,7 +1588,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2026171,"Schwarz, Daniel",USA,M,,,,2275,0,20,MAR26,1989,i
 2024535,"Sciacca, Patrick",USA,M,,,,1916,0,20,MAR26,1963,i
 30941156,"Scialdone, Gary",USA,M,,,,1860,0,20,MAR26,1955,i
-2048450,"Scott, Harold",USA,M,,"FI,FI",,1947,0,20,MAR26,1970,i
+2048450,"Scott, Harold",USA,M,,FI,,1947,0,20,MAR26,1970,i
 2045826,"Scott, Jeffrey L",USA,M,,,,1571,0,20,MAR26,1985,i
 2084708,"Scoville, William B",USA,M,,,,1774,0,20,MAR26,1964,i
 2024950,"Seada, Karim Maher",USA,M,,,,1696,0,20,MAR26,1975,i
@@ -1612,7 +1612,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 150111440,"Sethuraman, Anand",USA,M,,,,1618,0,,MAR26,2008,i
 30965250,"Sethuraman, Roshan",USA,M,,,,2073,0,40,MAR26,2011,
 2040506,"Sevian, Samuel",USA,M,GM,,,2667,0,10,MAR26,2000,
-2008572,"Shabalov, Alexander",USA,M,GM,FT,,2465,0,10,MAR26,1967,
+2008572,"Shabalov, Alexander",USA,M,GM,,,2465,0,10,MAR26,1967,
 30993342,"Shafer, Logan C",USA,M,CM,,,2230,0,40,MAR26,2009,
 30990670,"Shah, Paras Radhey",USA,M,,,,1627,0,40,MAR26,2010,i
 2009064,"Shahade, Gregory",USA,M,IM,,,2476,0,10,MAR26,1978,i
@@ -1634,7 +1634,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 30901731,"Sheer, Grey",USA,M,,,,1870,0,20,MAR26,2004,i
 30998719,"Shen, Alice",USA,F,,,,1725,0,40,MAR26,2015,wi
 39920720,"Shen, Leo Xiaohang",USA,M,,,,1798,0,40,MAR26,2013,
-2057360,"Sheng, Joshua",USA,M,GM,FT,,2511,0,10,MAR26,2000,
+2057360,"Sheng, Joshua",USA,M,GM,,,2511,0,10,MAR26,2000,
 2080311,"Shepherd, Duncan",USA,M,,,,1963,0,20,MAR26,1996,i
 39927490,"Sheren, Pierce Jonathan",USA,M,,,,1507,0,40,MAR26,2015,
 39904008,"Sherwood, Forest J",USA,M,,,,1812,0,40,MAR26,2012,

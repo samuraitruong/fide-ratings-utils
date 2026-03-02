@@ -259,7 +259,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3402282,"Cabrera Gonzalez, Sergio",CHI,M,,,,1954,0,20,MAR26,1974,i
 3410480,"Caceres Leal, Jaime",CHI,M,,,,2240,9,20,MAR26,1986,
 3470229,"Caceres Monroy, Josefa Hanan",CHI,F,,,,1443,4,40,MAR26,2015,w
-3457389,"Caceres Nunez, Sebastian",CHI,M,,NI,,1919,0,20,MAR26,1978,
+3457389,"Caceres Nunez, Sebastian",CHI,M,,,,1919,0,20,MAR26,1978,
 3403041,"Caceres Soto, Enrique",CHI,M,,,,1962,0,20,MAR26,1949,i
 3402169,"Caceres Vasquez, Sergio",CHI,M,FM,,,2051,0,20,MAR26,1964,i
 3470806,"Calbun Millacahuin, Benjamin Andres",CHI,M,,,,1488,0,40,MAR26,2013,
@@ -293,7 +293,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3471578,"Caprile Toro, Matias",CHI,M,,,,1467,0,40,MAR26,2013,i
 3447022,"Caputo Sanhueza, Martin",CHI,M,,,,1667,0,20,MAR26,2002,i
 3439739,"Carcamo Calderon, Angela Ayline",CHI,F,,,,1492,0,20,MAR26,2005,wi
-3419835,"Carcamo Calderon, Jose Ignacio",CHI,M,,"NI,NA",,1904,0,20,MAR26,1994,
+3419835,"Carcamo Calderon, Jose Ignacio",CHI,M,,NA,,1904,0,20,MAR26,1994,
 3475409,"Carcamo Saldivia, Pia Ignacia",CHI,F,,,,1644,0,40,MAR26,2010,wi
 3452301,"Carmona Munoz, Veronica",CHI,F,,,,1635,0,20,MAR26,1968,wi
 3401057,"Carmona Rosales, Jose Luis",CHI,M,,,,2014,0,20,MAR26,1930,i
@@ -500,7 +500,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3482634,"Duran Aranda, Alexander Stefan",CHI,M,,,,1614,8,40,MAR26,1988,
 3426289,"Duran Serra, Alonso",CHI,M,,,,1854,0,,MAR26,1981,i
 3459314,"Egana Arriagada, Cristian",CHI,M,,,,1828,10,,MAR26,1972,
-3400182,"Egger, Jorge",CHI,M,IM,FT,,2369,0,10,MAR26,1974,
+3400182,"Egger, Jorge",CHI,M,IM,,,2369,0,10,MAR26,1974,
 3483738,"Elgueta Silva, Eduardo Daniel",CHI,M,,,,1488,4,40,MAR26,2012,
 3486540,"Elias Diaz, Paulo Abraham Nahuel",CHI,M,,,,1769,0,20,MAR26,2004,
 3407225,"Ellemberg Navarrete, Allan",CHI,M,,,,2083,0,20,MAR26,1955,i
@@ -603,7 +603,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3472035,"Gacitua Espinoza, Oscar Santiago",CHI,M,,,,1579,5,40,MAR26,2016,
 3476294,"Gajardo Cifuentes, Sebastian Andres",CHI,M,,,,1543,0,40,MAR26,2012,i
 3416127,"Gajardo Navarro, Marcial",CHI,M,,,,1870,0,20,MAR26,1984,i
-3423905,"Galarce Sanchez, Cristian",CHI,M,,"NI,NI",,1712,9,20,MAR26,1984,
+3423905,"Galarce Sanchez, Cristian",CHI,M,,NI,,1712,9,20,MAR26,1984,
 3409074,"Galaz Quinones, Glem",CHI,M,,,,1933,0,20,MAR26,1986,i
 3405010,"Galefsky Caycho, Eduardo",CHI,M,,,,2018,0,20,MAR26,1969,i
 3453502,"Galindo Charlin, Jaime",CHI,M,,,,1554,0,40,MAR26,2013,i
@@ -905,7 +905,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3411460,"Lopez Espinoza, Martin",CHI,M,,,,1766,0,20,MAR26,1955,
 3477118,"Lopez Fernandez, Luis Alberto",CHI,M,,,,1870,0,20,MAR26,1974,i
 3445453,"Lopez Huayta, Alexander",CHI,M,,,,1491,0,20,MAR26,2002,i
-3418740,"Lopez Illanes, Orlando Abel",CHI,M,,"FI,NA",,1900,0,20,MAR26,1995,
+3418740,"Lopez Illanes, Orlando Abel",CHI,M,,NA,,1900,0,20,MAR26,1995,
 3425126,"Lopez Langenbach, Rodrigo",CHI,M,,,,1609,0,20,MAR26,1971,i
 3427129,"Lopez Marambio, Jose",CHI,M,,,,1741,0,20,MAR26,1968,i
 3434389,"Lopez Parra, Santiago",CHI,M,,,,1612,0,20,MAR26,2002,i
@@ -1016,7 +1016,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3469743,"Merino Leal, Ricardo Antonio",CHI,M,,,,1757,0,20,MAR26,1987,i
 3413209,"Merino Zurita, Hector",CHI,M,,,,1749,0,20,MAR26,1954,i
 3407616,"Meruvia Meruvia, Juan",CHI,M,,,,1934,0,20,MAR26,1974,
-3402126,"Mesias Rojas, Rabindranath",CHI,M,CM,"IO,FT",,2137,0,20,MAR26,1978,i
+3402126,"Mesias Rojas, Rabindranath",CHI,M,CM,IO,,2137,0,20,MAR26,1978,i
 3402886,"Meyer Monsalve, Ewald",CHI,M,,,,1886,9,20,MAR26,1967,
 3422860,"Meza Alarcon, Jose Sebastian",CHI,M,,,,1755,0,20,MAR26,2000,i
 3421910,"Meza Alarcon, Sergio Andres",CHI,M,,,,1750,0,20,MAR26,1997,i

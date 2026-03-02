@@ -371,7 +371,7 @@ ID Number      Name                                                         Fed 
 3933121        Brito Zambrano, Angel Efrain                                 VEN M                                1845  0   40 1996  i   
 3903630        Brizuela Abreu, Reivis Gabriel                               VEN M   CM                           2160  0   20 1992      
 3903648        Brizuela Abreu, Ronald Jesus                                 VEN M   IM                           2283  0   10 1994      
-3903621        Brizuela Rojas, Jose Rafael                                  VEN M             NI,NI              1977  2   20 0         
+3903621        Brizuela Rojas, Jose Rafael                                  VEN M             NI                 1977  2   20 0         
 3947254        Brown Chauran, William Antonio                               VEN M                                1513  0   40 2001  i   
 3934667        Brunings Jie, Carlos                                         VEN M                                1928  0   40 1957  i   
 3967794        Buendia Molina, Luis Mario                                   VEN M                                1536  0   40 2004  i   
@@ -985,7 +985,7 @@ ID Number      Name                                                         Fed 
 3994899        Fonteris Cobis, Xavier Robelquis                             VEN M                                1421  0   40 2010  i   
 3993183        Fonteris Vargas, Robelquis                                   VEN M                                1535  0   40 1979  i   
 3932990        Fontiveros, Carlos                                           VEN M                                1899  0   40 1989  i   
-3912078        Ford Garcia, Moises David                                    VEN M             FI             AGM 1860  0   20 1987  i   
+3912078        Ford Garcia, Moises David                                    VEN M                            AGM 1860  0   20 1987  i   
 3943534        Ford Marin, Karelys Del Valle                                VEN F                                1541  0   40 2003  wi  
 3958027        Fornerino Gomez, Robert de Jesus                             VEN M                                1657  6   40 1960      
 3994929        Francia Liendo, Manuel Enrique                               VEN M                                1594  0   40 2010  i   
@@ -1086,7 +1086,7 @@ ID Number      Name                                                         Fed 
 3928020        Gelviz Rodriguez, Emily Antonella                            VEN F                                1564  0   20 2002  wi  
 3973395        German Gil, Daniel Alejandro                                 VEN M                                1617  0   40 2006  i   
 3997650        Gil Carrance, Ahyled Valentina                               VEN F                                1520  0   40 2012  w   
-3916138        Gil Mavares, Ricardo Jose                                    VEN M             FI             AIM 1936  0   20 1984      
+3916138        Gil Mavares, Ricardo Jose                                    VEN M                            AIM 1936  0   20 1984      
 3940934        Gil Oviedo, Luis Felipe                                      VEN M                                1463  0   40 2009  i   
 3938905        Gil Oviedo, Luis Mariano                                     VEN M                                1577  0   20 2002  i   
 3927180        Gil Sevilla, Abardonado                                      VEN M                                1637  0   40 1975      
@@ -1746,7 +1746,7 @@ ID Number      Name                                                         Fed 
 23922338       Martinez Moron, Mathias Jose                                 VEN M                                1488  0   40 2014      
 3968626        Martinez Morris, Moises David                                VEN M                                1657  0   40 1999  i   
 3966801        Martinez Nolazco, Rafael Adrian                              VEN M                                1447  0   40 2002  i   
-3900711        Martinez Perdomo, Aleidi Josefina                            VEN F   WIM  WIM  FT                 2188  0   20 1977  wi  
+3900711        Martinez Perdomo, Aleidi Josefina                            VEN F   WIM  WIM                     2188  0   20 1977  wi  
 3934691        Martinez Polanco, Adrian Raul                                VEN M                                1650  0   20 2003  i   
 3901807        Martinez Reyes, Pedro Ramon                                  VEN M   IM                           2383  4   10 1991      
 23928441       Martinez Rodriguez, Carla Daniela                            VEN F                                1492  5   40 2014  w   
@@ -2205,7 +2205,7 @@ ID Number      Name                                                         Fed 
 3933997        Otero, Hector                                                VEN M                                1669  0   40 1996  i   
 3903737        Ovalles Gomez, Guillermo Hugo                                VEN M                                1840  0   40 1953  i   
 23915412       Ovalles Medina, Juan Sebastian                               VEN M                                1577  0   40 2014      
-3900436        Ovalles Noguera, Otto Enrique                                VEN M             FI                 2129  0   20 1971  i   
+3900436        Ovalles Noguera, Otto Enrique                                VEN M                                2129  0   20 1971  i   
 3907546        Oviedo Araujo, Angel Jose                                    VEN M                                1705  0   20 1955  i   
 3998690        Oviedo Arrieche, Johan Eduardo                               VEN M                                1541  0   40 2012  i   
 3953718        Pabon Vanegas, Eduardo                                       VEN M                                1609  0   40 1965  i   
@@ -2291,8 +2291,8 @@ ID Number      Name                                                         Fed 
 3906175        Pastran Gonzalez, Luis Jose                                  VEN M                                1976  0   20 1997  i   
 3933253        Pastrano Gonzalez, Jhonny Robert                             VEN M                                1700  0   20 1964  i   
 3957608        Patino Fernandez, Richard Isaac                              VEN M                                1542  0   20 2005  i   
-3902790        Patino Garcia, Carols                                        VEN F             NI,NA              1891  0   20 1997  wi  
-3902781        Patino Garcia, Corals                                        VEN F   WFM  WFM  FI,SI              2050  2   20 1999  w   
+3902790        Patino Garcia, Carols                                        VEN F             NA                 1891  0   20 1997  wi  
+3902781        Patino Garcia, Corals                                        VEN F   WFM  WFM  SI                 2050  2   20 1999  w   
 3995585        Patino Neuta, Kenny Rafael                                   VEN M                                1464  0   20 1987      
 3906981        Pautt Andrade, Jose Gregorio                                 VEN M                                2080  4   20 1979      
 3946843        Pavon Montilla, Andrius Jesus                                VEN M                                1687  0   40 1995  i   
@@ -2554,7 +2554,7 @@ ID Number      Name                                                         Fed 
 3919765        Rengel Castillo, Oscar Jose                                  VEN M                                1567  0   20 1959      
 3907309        Resta, Francisco                                             VEN M                                1762  0   20 1977  i   
 3910156        Restrepo Sanchez, Edgar Santiago                             VEN M                                1750  0   40 1969      
-3909603        Revilla Moron, Oniel Josue                                   VEN M   CM        FI                 2195  0   20 1987      
+3909603        Revilla Moron, Oniel Josue                                   VEN M   CM                           2195  0   20 1987      
 23934522       Revilla Timaure, Jose Angel                                  VEN M                                1470  5   40 2012      
 3935426        Rey Garcia, Pedro Antonio                                    VEN M                                1758  0   40 1962  i   
 3987043        Reyes Brito, Santiago David                                  VEN M                                1653  0   40 2005      
@@ -2762,7 +2762,7 @@ ID Number      Name                                                         Fed 
 3941116        Romero Coronel, Petter Jose                                  VEN M                                1642  0   40 1978  i   
 3970558        Romero Espana, Eliezer Benjamin                              VEN M                                1662  0   20 2006      
 3964906        Romero Figuera, Alexander Jose                               VEN M                                1612  0   40 2005  i   
-3903133        Romero Gonzalez, Jose Gregorio                               VEN M             FI,FI              1863  0   40 1973  i   
+3903133        Romero Gonzalez, Jose Gregorio                               VEN M             FI                 1863  0   40 1973  i   
 3915590        Romero Hernandez, Aynel Natasha                              VEN F                                1668  0   20 1999  wi  
 3919439        Romero Hernandez, Geovanny Jose                              VEN M                                1613  0   20 1990      
 3997057        Romero Jerez, Tito Libardo                                   VEN M                                1676  0   20 1945      
@@ -2801,7 +2801,7 @@ ID Number      Name                                                         Fed 
 23902108       Rosario Rosario, Edduary Esmeralda                           VEN F                                1422  0   40 2013  w   
 3983617        Roso Delgado, Anthony Jose                                   VEN M                                1502  0   20 2007      
 3903826        Rossel Calanche, Jose Gregorio                               VEN M                                1974  0   20 1986      
-3900533        Rovira Contreras, Tairu Manuela                              VEN F   WIM  WIM  FI,FI              2024  0   20 1995  w   
+3900533        Rovira Contreras, Tairu Manuela                              VEN F   WIM  WIM  FI                 2024  0   20 1995  w   
 3907023        Rovira Cruz, Luis Manuel                                     VEN M                                1996  0   20 1961  i   
 23912111       Rubio Benitez, Miguel Alejandro                              VEN M                                1522  0   40 2011      
 3972089        Rubio Carmona, Breiner Gabriel                               VEN M                                1573  0   40 1998  i   
@@ -2842,7 +2842,7 @@ ID Number      Name                                                         Fed 
 3928675        Salazar Hernandez, Anibal Jose                               VEN M                                2083  0   20 1981  i   
 3925501        Salazar Herrera, Yorgelys                                    VEN F                                1720  0   20 1998  wi  
 3944212        Salazar Joaquin, Carlos Javier                               VEN M                                1575  0   40 2003  i   
-3931579        Salazar Martinez, Angel Daniel                               VEN M             NI                 1842  0   40 1995  i   
+3931579        Salazar Martinez, Angel Daniel                               VEN M                                1842  0   40 1995  i   
 23922010       Salazar Maurera, Guadalupe de la Santisima Trinidad          VEN F                                1560  0   40 2012  w   
 3943500        Salazar Moreno, Diego Alejandro                              VEN M                                1645  0   20 2005  i   
 23925345       Salazar Moujalli, Leonardo                                   VEN M                                1473  0   40 2012      
@@ -2880,7 +2880,7 @@ ID Number      Name                                                         Fed 
 3907708        Sanchez Cano, Markel                                         VEN M                                2041  0   20 1971  i   
 3991539        Sanchez Carrizo, Santiago Josue                              VEN M                                1780  0   40 2005      
 3907589        Sanchez Castellanos, German Alex                             VEN M   CM        FI                 2007  0   20 1984      
-3900754        Sanchez Castillo, Sarai Carolina                             VEN F   IM   WGM  FT,SI              2064  0   20 1981  wi  
+3900754        Sanchez Castillo, Sarai Carolina                             VEN F   IM   WGM  SI                 2064  0   20 1981  wi  
 3960471        Sanchez Chacon, Samuel David                                 VEN M                                1696  0   40 2001  i   
 3910865        Sanchez Crespo, Stacy Mariana                                VEN F   WCM  WCM                     1713  0   20 2005  wi  
 3912795        Sanchez Ferrer, Reinier German                               VEN M                                1835  0   40 1977  i   
@@ -2919,7 +2919,7 @@ ID Number      Name                                                         Fed 
 3950301        Santana Lira, Carlos Santiago                                VEN M                                1558  0   40 1998  i   
 3967565        Santana Vasquez, Henry William                               VEN M                                1887  0   40 1984  i   
 3909638        Santana, Elias Jesus                                         VEN M                                1792  0   40 1991  i   
-3903834        Santana, Lester                                              VEN M             FI                 2034  0   20 1986  i   
+3903834        Santana, Lester                                              VEN M                                2034  0   20 1986  i   
 3941507        Santos Barrera, Andres Eduardo                               VEN M                                1486  0   40 2005  i   
 3960587        Santos Moreno, Alfredo Alejandro                             VEN M                                1738  0   40 1994  i   
 3926427        Saragoza Fajardo, Jose Miguel                                VEN M                                1754  0   40 1990  i   
@@ -3037,7 +3037,7 @@ ID Number      Name                                                         Fed 
 3942163        Thomas Romero, Jesus Enrique                                 VEN M                                1839  0   40 1960  i   
 3978818        Thompson Chirinos, Isaac Josue                               VEN M                                1559  0   40 2003  i   
 3930483        Timana Escalona, Cristian Jessim                             VEN M                                1504  0   20 2005  i   
-3901165        Tirado Veliz, Henry Jose                                     VEN M   CM        FI                 2015  0   20 1977      
+3901165        Tirado Veliz, Henry Jose                                     VEN M   CM                           2015  0   20 1977      
 3929442        Toledo Gomez, Daniel Alejandro                               VEN M                                1886  0   40 1981  i   
 3968014        Toledo Romero, Jesus Ramon                                   VEN M                                2009  0   40 1996  i   
 3965945        Toledo Romero, Jose Rafael                                   VEN M                                1715  0   20 2006  i   
@@ -3175,7 +3175,7 @@ ID Number      Name                                                         Fed 
 3908127        Vargas, Carlos Andres                                        VEN M             NA                 1927  0   40 1970  i   
 3937720        Vargas, Gerardo                                              VEN M                                1936  0   40 1965  i   
 3917967        Vargas, Gerzon                                               VEN M                                1667  0   20 1973  i   
-3901858        Vasquez Alcala, Astrid                                       VEN F   WCM  WCM  FI                 2010  0   20 1991  wi  
+3901858        Vasquez Alcala, Astrid                                       VEN F   WCM  WCM                     2010  0   20 1991  wi  
 3910059        Vasquez Alcala, Jhonny                                       VEN M                                2100  0   20 1989  i   
 23900954       Vasquez Jimenez, Nelson Leonardo                             VEN M                                1434  0   40 2015  i   
 3963861        Vasquez Rivero, Angel David                                  VEN M                                1628  0   40 2012      

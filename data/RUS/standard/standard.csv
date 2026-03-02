@@ -1399,7 +1399,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 540051790,"Aniskin, Vladimir Andr",RUS,M,,,,1544,0,40,MAR26,2017,
 24104710,"Aniskov, Artiom",RUS,M,,FA,,2168,0,20,MAR26,1990,i
 34331980,"Anisova, Mariya",RUS,F,,,,1899,0,40,MAR26,1988,wi
-4130782,"Anissimov, Ivan",RUS,M,CM,"FI,FI",,2208,0,20,MAR26,1983,i
+4130782,"Anissimov, Ivan",RUS,M,CM,FI,,2208,0,20,MAR26,1983,i
 4126181,"Anjuhin, Alexey",RUS,M,IM,,,2185,0,10,MAR26,1963,i
 24191329,"Annenkov, Evgeni",RUS,M,,,,2064,0,20,MAR26,1993,i
 4129733,"Annenkov, Kirill",RUS,M,FM,,,2214,0,20,MAR26,1970,i
@@ -8674,7 +8674,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44129572,"Etuka, Alexander",RUS,M,,,,1762,0,20,MAR26,2007,i
 34370790,"Evanzhelisti, Eva",RUS,F,,,,1512,0,20,MAR26,2007,wi
 4137094,"Evdokimenko, Valentin",RUS,M,FM,,,2154,0,20,MAR26,1956,i
-4139275,"Evdokimov, Alexander A.",RUS,M,GM,FT,,2465,0,10,MAR26,1985,i
+4139275,"Evdokimov, Alexander A.",RUS,M,GM,,,2465,0,10,MAR26,1985,i
 24225592,"Evdokimov, Alexandr",RUS,M,,,,1611,0,40,MAR26,2010,i
 4161211,"Evdokimov, Alexei",RUS,M,,,,2107,0,20,MAR26,1969,i
 24162450,"Evdokimov, Alexey",RUS,M,FM,,,2205,0,20,MAR26,1996,i
@@ -13635,7 +13635,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24171808,"Jangurazova, Raisa",RUS,F,,,,1783,0,40,MAR26,1950,wi
 34133043,"Janke, Leon",RUS,M,,,,1781,0,20,MAR26,1998,i
 4141261,"Janov, Dimitry",RUS,M,,,,2354,0,20,MAR26,1975,i
-4102711,"Janovsky, Sergey",RUS,M,GM,FST,,2496,0,10,MAR26,1960,i
+4102711,"Janovsky, Sergey",RUS,M,GM,,,2496,0,10,MAR26,1960,i
 4130022,"Janturin, Artur",RUS,M,IM,,,2330,0,10,MAR26,1985,
 4155360,"Jarkow, W. W.",RUS,M,,,,2155,0,40,MAR26,1953,i
 34185361,"Jaroslavtsev, Dmitriy",RUS,M,,,,1574,0,20,MAR26,2006,i
@@ -14394,7 +14394,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4150260,"Karin, Petr",RUS,M,,,,2208,0,40,MAR26,1982,i
 55790810,"Karin, Ramil",RUS,M,,,,1441,0,40,MAR26,2012,
 24112950,"Karintsev, Oleg",RUS,M,,,,2012,0,40,MAR26,1983,i
-14109603,"Karjakin, Sergey",RUS,M,GM,,,2750,2,10,MAR26,1990,
+14109603,"Karjakin, Sergey",RUS,M,GM,,,2750,0,10,MAR26,1990,i
 34132012,"Karkavin, Andrej",RUS,M,,,,2101,0,20,MAR26,1962,i
 34192910,"Karlov, Alexey",RUS,M,,,,2057,0,20,MAR26,1985,
 4166922,"Karlov, Dmitriy",RUS,M,,,,2013,0,40,MAR26,0,i
@@ -18180,7 +18180,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24200336,"Kovner, Aleksei",RUS,M,,,,1788,0,20,MAR26,1988,i
 44152256,"Kovner, Oleg",RUS,M,,,,1550,0,40,MAR26,2007,i
 4167805,"Kovpak, Anastasiya",RUS,F,WIM,WIM,,2201,0,20,MAR26,1984,wi
-4106938,"Kovpak, Igor",RUS,M,,FT,,1948,0,20,MAR26,1960,i
+4106938,"Kovpak, Igor",RUS,M,,,,1948,0,20,MAR26,1960,i
 55886710,"Kovriakov, Aleksandr",RUS,M,,,,1636,0,40,MAR26,2007,
 4141067,"Kovrich Ko, Dmitrij",RUS,M,,,,2126,0,20,MAR26,1983,i
 4152840,"Kovriga, Evgeny",RUS,M,IM,,,2086,0,10,MAR26,0,i
@@ -21429,7 +21429,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4189442,"Lukin, Oleg A",RUS,M,,,,2116,0,40,MAR26,1964,i
 24162922,"Lukin, Vasily",RUS,M,,,,1754,0,20,MAR26,1933,i
 24253723,"Lukin, Yliya",RUS,M,,,,1752,0,40,MAR26,2005,i
-24102270,"Lukina, Aleksandra",RUS,F,WFM,WFM,FI,1887,0,20,MAR26,1996,wi
+24102270,"Lukina, Aleksandra",RUS,F,WFM,WFM,,1887,0,20,MAR26,1996,wi
 55845282,"Lukina, Dariya Dm",RUS,F,,,,1531,0,40,MAR26,2016,w
 34121428,"Lukina, Ekaterina",RUS,F,,,,1666,0,40,MAR26,1983,wi
 34459022,"Lukina, Irina",RUS,F,,,,1515,0,40,MAR26,1969,wi
@@ -23041,7 +23041,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54105587,"Matveeva, Kseniia",RUS,F,,,,1628,0,40,MAR26,2008,wi
 54110270,"Matveeva, Ksenya",RUS,F,,,,1623,0,20,MAR26,2006,wi
 34191159,"Matveeva, Nadezhda",RUS,F,,,,1510,0,40,MAR26,2001,wi
-24107018,"Matveeva, Olga",RUS,F,WIM,WIM,FT,2079,0,20,MAR26,1992,w
+24107018,"Matveeva, Olga",RUS,F,WIM,WIM,,2079,0,20,MAR26,1992,w
 24215341,"Matveeva, Sofia S.",RUS,F,,,,1462,0,40,MAR26,2006,wi
 4119827,"Matveeva, Svetlana",RUS,F,IM,WGM,,2380,0,10,MAR26,1969,wi
 522075275,"Matveychuk, Semen",RUS,M,,,,1409,0,40,MAR26,2010,
@@ -26481,7 +26481,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54176557,"Obolenskaya, Angelina",RUS,F,,,,1420,0,40,MAR26,2007,wi
 4156013,"Obolenskikh, Dmitry",RUS,M,IM,,,2528,9,10,MAR26,1985,
 34130338,"Obolensky, Boris",RUS,M,,,,1623,0,40,MAR26,2000,i
-24153648,"Obolentseva, Alexandra",RUS,F,WGM,WGM,FT,2323,0,20,MAR26,2001,wi
+24153648,"Obolentseva, Alexandra",RUS,F,WGM,WGM,,2323,0,20,MAR26,2001,wi
 4102835,"Obolentseva, Nina",RUS,F,,,,1872,0,20,MAR26,1938,wi
 4193407,"Obolonik, Dmitriy",RUS,M,,,,2147,0,20,MAR26,1986,i
 522066225,"Obolonskiy, Daniil Aleks",RUS,M,,,,1560,2,40,MAR26,2016,
@@ -26735,7 +26735,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34109100,"Onischenko, Leonid",RUS,M,,,,1894,0,20,MAR26,1998,
 34298118,"Onischenko, Semen",RUS,M,,,,1545,0,40,MAR26,2005,i
 54158419,"Onischuk, Alena",RUS,F,,,,1557,0,20,MAR26,2007,wi
-14104008,"Onischuk, Anastasia",RUS,F,WFM,WFM,"FT,NA",2002,0,20,MAR26,1980,wi
+14104008,"Onischuk, Anastasia",RUS,F,WFM,WFM,NA,2002,0,20,MAR26,1980,wi
 34201238,"Onischuk, Vasilisa",RUS,F,,,,1564,9,40,MAR26,2011,w
 4129075,"Onishchenko, Mikhail",RUS,M,,,,1844,0,20,MAR26,1949,i
 522030387,"Onishenko, Andrey",RUS,M,,,,1467,0,40,MAR26,2015,
@@ -29470,7 +29470,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522025413,"Potiy, Nikita",RUS,M,,,,1546,0,40,MAR26,2007,
 4127005,"Potkin, Alexei V.",RUS,M,,,,2308,0,20,MAR26,1959,i
 4158792,"Potkin, Alexey",RUS,M,,,,2240,0,40,MAR26,1977,i
-4131061,"Potkin, Vladimir",RUS,M,GM,FST,,2551,0,10,MAR26,1982,
+4131061,"Potkin, Vladimir",RUS,M,GM,,,2551,0,10,MAR26,1982,
 4150759,"Potlov, Semen",RUS,M,,,,2010,0,20,MAR26,1991,i
 44178760,"Potorochin, Vadim",RUS,M,,,,1560,0,20,MAR26,2007,i
 34374531,"Potorokin, Maksim",RUS,M,,,,1648,4,40,MAR26,2010,
@@ -30951,7 +30951,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24118486,"Rublev, Andrei",RUS,M,,,,2083,0,20,MAR26,1989,i
 4164288,"Rublev, Sergey",RUS,M,,,,1963,0,20,MAR26,1960,i
 54104335,"Rublevsky, Mikhail",RUS,M,,,,1586,0,20,MAR26,2005,i
-4115309,"Rublevsky, Sergei",RUS,M,GM,FST,,2637,0,10,MAR26,1974,i
+4115309,"Rublevsky, Sergei",RUS,M,GM,,,2637,0,10,MAR26,1974,i
 54182530,"Rubtcov, Leonid",RUS,M,,,,2011,0,40,MAR26,1975,i
 4159438,"Rubtsov, Aleksandr",RUS,M,,,,1929,0,20,MAR26,1989,i
 34179272,"Rubtsov, Aleksandr",RUS,M,,,,1830,0,20,MAR26,2004,
@@ -34983,7 +34983,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55711545,"Sinelnikova, Polina",RUS,F,,,,1525,0,40,MAR26,2009,wi
 34466150,"Sinelshchikova, Varvara",RUS,F,,,,1819,9,40,MAR26,2011,w
 4129636,"Sinev, Alexander",RUS,M,,,,1924,0,40,MAR26,1956,i
-4187865,"Sineva, Valerija",RUS,F,,NI,,1998,0,20,MAR26,1987,wi
+4187865,"Sineva, Valerija",RUS,F,,,,1998,0,20,MAR26,1987,wi
 54164290,"Singeleitsev, Andrei",RUS,M,,,,1854,0,40,MAR26,1998,i
 55860680,"Singeleytsev, Andrey",RUS,M,,,,1590,0,40,MAR26,1998,i
 24133809,"Siniagovsky, Eugeny",RUS,M,,,,1902,0,40,MAR26,1992,i
@@ -39582,7 +39582,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34393064,"Utkin, Saveliy",RUS,M,,,,1493,0,40,MAR26,2012,
 34376879,"Utkin, Vitaly",RUS,M,,,,1443,0,40,MAR26,2007,i
 24112160,"Utkin, Vladimir",RUS,M,,,,2021,0,20,MAR26,1948,i
-4183428,"Utkina, Natalia",RUS,F,WCM,WCM,FI,1990,0,20,MAR26,1988,wi
+4183428,"Utkina, Natalia",RUS,F,WCM,WCM,,1990,0,20,MAR26,1988,wi
 34180645,"Utkina, Yulia",RUS,F,,,,1677,0,40,MAR26,2000,wi
 24159760,"Utnasanov, Adyan",RUS,M,,,,1984,0,20,MAR26,1998,
 4134524,"Utnasunov, Alexander",RUS,M,,,,2421,0,10,MAR26,1985,i

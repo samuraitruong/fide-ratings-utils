@@ -76,7 +76,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34561218,"Akkus, Deniz",TUR,M,,,,1780,0,20,MAR26,1978,i
 51620294,"Akkus, Muhammed Ali",TUR,M,,,,1824,0,40,MAR26,2013,i
 34542400,"Akkus, Serhat",TUR,M,,,,1597,0,20,MAR26,1982,i
-6301649,"Akman, Ozgur",TUR,M,,FI,,2088,0,20,MAR26,1984,i
+6301649,"Akman, Ozgur",TUR,M,,,,2088,0,20,MAR26,1984,i
 34501762,"Akoglanoglu, Murat Umut",TUR,M,,,,1609,0,20,MAR26,2004,i
 6378102,"Akpinar, Gorkem",TUR,F,,,,1614,0,20,MAR26,1979,wi
 34528970,"Akpinar, Muhammed",TUR,M,,,,1708,0,20,MAR26,1998,i
@@ -398,7 +398,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6393462,"Bayraktar, Onat",TUR,M,,,,1561,0,20,MAR26,2002,i
 51649330,"Bayram, Ali Ozgur",TUR,M,,,,1894,0,20,MAR26,1996,i
 44562047,"Bayram, Emre",TUR,M,,,,1459,0,20,MAR26,1999,i
-6365051,"Bayram, Irem Inci",TUR,F,,"NI,NA",,1755,0,20,MAR26,1999,wi
+6365051,"Bayram, Irem Inci",TUR,F,,NA,,1755,0,20,MAR26,1999,wi
 6375383,"Bayram, Mehmet Arda",TUR,M,,,,1741,0,20,MAR26,1996,i
 6333230,"Bayram, Mesut",TUR,M,,,,1770,0,20,MAR26,1986,i
 44582439,"Bayrambeyli, Emel",TUR,F,,,,1518,0,40,MAR26,2009,wi
@@ -479,7 +479,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6313922,"Bulut, Muhammed",TUR,M,,,,1863,0,20,MAR26,1991,i
 6395023,"Bulut, Omer",TUR,M,,,,1639,0,20,MAR26,1982,i
 6357776,"Burabak, Mert Burak",TUR,M,,,,1890,0,20,MAR26,1994,i
-6310630,"Burcu, Cagatay",TUR,M,FM,FI,,2231,0,20,MAR26,1996,i
+6310630,"Burcu, Cagatay",TUR,M,FM,,,2231,0,20,MAR26,1996,i
 44505175,"Buyuk, Ecrin Efsa",TUR,F,WFM,WFM,,1735,0,40,MAR26,2007,wi
 44505116,"Buyuk, Elvin Esma",TUR,F,,,,1573,0,40,MAR26,2009,wi
 26310872,"Buyuk, Eymen Eren",TUR,M,FM,,,1856,0,40,MAR26,2011,
@@ -936,7 +936,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 51638460,"Erdogan, Kerem",TUR,M,,,,1668,0,40,MAR26,2009,
 51681757,"Erdogan, Medet",TUR,M,,,,1592,0,40,MAR26,2015,
 6366740,"Erdogan, Yunus Emre",TUR,M,,,,1886,0,20,MAR26,2001,i
-6301495,"Erdogdu, Aziz Mert",TUR,M,GM,FST,,2360,0,10,MAR26,1979,
+6301495,"Erdogdu, Aziz Mert",TUR,M,GM,,,2360,0,10,MAR26,1979,
 6391419,"Erdogdu, Muammer Mustafa",TUR,M,,,,1877,0,20,MAR26,1962,i
 44599790,"Erdogmus, Yagiz Kaan",TUR,M,GM,,,2493,0,10,MAR26,2011,
 6346006,"Erece, Ece Alkim",TUR,F,WCM,WCM,,1800,0,20,MAR26,2001,wi

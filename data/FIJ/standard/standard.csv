@@ -3,10 +3,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11400234,"Adricula, Noel A",FIJ,M,CM,,,1779,0,20,MAR26,1958,i
 11400161,"Andrea, Frentina",FIJ,F,,,,1755,0,40,MAR26,1990,wi
 11400145,"Arora, Neel",FIJ,M,,,,1909,0,20,MAR26,1953,i
-11400188,"Arvind, Goru",FIJ,M,CM,NI,,1752,0,20,MAR26,1980,i
+11400188,"Arvind, Goru",FIJ,M,CM,,,1752,0,20,MAR26,1980,i
 11401966,"Bale, Ryan",FIJ,M,,,,1630,0,40,MAR26,1992,i
 11400080,"Bancod, Robert",FIJ,M,,,,2171,0,40,MAR26,1957,i
-11400978,"Bennion, William Robert Raymond",FIJ,M,,"DI,NA",,1686,0,40,MAR26,1998,i
+11400978,"Bennion, William Robert Raymond",FIJ,M,,NA,,1686,0,40,MAR26,1998,i
 11400587,"Borg, Zen",FIJ,M,,,,1811,0,40,MAR26,1997,i
 11400552,"Caldeira, John",FIJ,M,,,,1825,0,20,MAR26,1955,i
 11400021,"Chand, Alvis",FIJ,M,,,,1826,0,40,MAR26,1983,i
@@ -21,7 +21,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11400102,"Lyons, Kieran",FIJ,F,WFM,WFM,,1795,0,20,MAR26,1989,wi
 11402890,"Lyons, Ryan Joshua",FIJ,M,,,,1552,0,40,MAR26,0,i
 11400170,"Maharaj, Jashint C",FIJ,M,,,,1763,0,20,MAR26,1983,i
-11402504,"Maharaj, Yash Krishen",FIJ,M,,NI,,1813,0,20,MAR26,2002,i
+11402504,"Maharaj, Yash Krishen",FIJ,M,,,,1813,0,20,MAR26,2002,i
 11403268,"Masau, Latileta",FIJ,F,,,,1497,0,40,MAR26,2011,w
 11401737,"Nadan, Avinesh",FIJ,M,,,,1664,0,,MAR26,1986,
 11400676,"Nahapetyan, Gor",FIJ,M,,,,1753,0,40,MAR26,2003,i
@@ -38,7 +38,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11400315,"Raj, Rajiv",FIJ,M,,,,1637,0,40,MAR26,1991,i
 11402083,"Sarup, Prashant",FIJ,M,,,,1820,0,40,MAR26,1989,i
 11400722,"Sewak, Aarti",FIJ,F,,,,1596,0,40,MAR26,1985,wi
-11400153,"Sikivou, Taione",FIJ,M,CM,"SI,FI,NA",,1897,0,20,MAR26,1990,i
+11400153,"Sikivou, Taione",FIJ,M,CM,"SI,NA",,1897,0,20,MAR26,1990,i
 11402180,"Singh, Ashwin",FIJ,M,,,,1531,0,40,MAR26,1994,i
 11403586,"Singh, Praveer",FIJ,M,,,,1555,0,40,MAR26,2008,
 11400099,"Sukhu, Gloria",FIJ,F,WCM,WCM,NI,1615,0,20,MAR26,1954,wi

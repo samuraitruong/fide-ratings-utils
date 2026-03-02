@@ -107,7 +107,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 265888,"Balanck, Mateo",BEL,M,,,,1465,0,20,MAR26,2006,i
 297585,"Baldi, Gabriel",BEL,M,,,,1426,0,40,MAR26,2010,
 207497,"Barbe, Tom",BEL,M,,,,1982,0,,MAR26,1987,
-200395,"Barbier, Astrid",BEL,F,WFM,WFM,NI,1918,0,20,MAR26,1996,wi
+200395,"Barbier, Astrid",BEL,F,WFM,WFM,,1918,0,20,MAR26,1996,wi
 285978,"Barbier, Francois",BEL,M,,,,1743,8,20,MAR26,1987,
 207977,"Barbier, Wiebke",BEL,F,,,,1998,0,20,MAR26,1992,wi
 202100,"Barbier, Wim",BEL,M,,,,2074,0,20,MAR26,1960,i
@@ -679,7 +679,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 548001767,"Di Paolo, Gaetano",BEL,M,,,,1677,0,20,MAR26,1986,
 297364,"Di Pietrantonio, Simon",BEL,M,,,,1590,0,20,MAR26,1991,
 243523,"Di Pronio, Mario",BEL,M,,,,1676,0,20,MAR26,1990,i
-205745,"Dierckens, Sarah",BEL,F,,FI,,1854,0,20,MAR26,1987,wi
+205745,"Dierckens, Sarah",BEL,F,,,,1854,0,20,MAR26,1987,wi
 285587,"Dierickx, Ulysse",BEL,M,,,,1479,0,40,MAR26,2008,
 294047,"Dieu, Benoit",BEL,M,,,,1482,0,20,MAR26,1997,
 293857,"Dimitrakopoulos, Athanasios",BEL,M,,,,1461,5,20,MAR26,1976,
@@ -781,7 +781,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 238228,"Faybish, Benjamin",BEL,M,,,,2073,8,20,MAR26,2004,
 249270,"Faybish, Dana",BEL,F,,,,1604,0,20,MAR26,2007,wi
 233609,"Faybish, Nathaniel",BEL,M,,,,1815,0,20,MAR26,2003,i
-202142,"Faybish, Nimrod",BEL,M,,FI,,2101,18,20,MAR26,1971,
+202142,"Faybish, Nimrod",BEL,M,,,,2101,18,20,MAR26,1971,
 233617,"Faymonville, Marcel",BEL,M,,,,1581,0,20,MAR26,1970,
 270113,"Ferdaoui, Jamal",BEL,M,,,,1888,0,20,MAR26,1977,i
 285455,"Fernandez Domingos, Elias",BEL,M,,,,1658,0,20,MAR26,1991,i
@@ -1019,7 +1019,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 229660,"Hoop, Rupert",BEL,M,,,,1930,0,20,MAR26,2000,i
 247553,"Hossain, Issa Anirban",BEL,M,,,,1611,0,20,MAR26,2003,i
 275069,"Houbben, Johnny",BEL,M,,,,1675,0,20,MAR26,1992,i
-13300865,"Hovhannisyan, Mher",BEL,M,GM,FT,,2390,0,10,MAR26,1978,
+13300865,"Hovhannisyan, Mher",BEL,M,GM,,,2390,0,10,MAR26,1978,
 282723,"Huang, Kayan",BEL,M,,,,1753,0,40,MAR26,2009,
 248703,"Hubinon, Bryan",BEL,M,,,,1686,0,20,MAR26,2005,i
 241580,"Huet, Aubin",BEL,M,,,,1761,0,20,MAR26,1988,i
@@ -1258,7 +1258,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 218626,"Logie, Bernard",BEL,M,,NA,,1814,0,20,MAR26,1956,i
 231207,"Logie, Dimitri",BEL,M,,"FI,IO",,1983,0,20,MAR26,1980,i
 202789,"Lombart, Philippe",BEL,M,,,,1722,0,20,MAR26,1954,
-45197148,"Loncke, Matthieu",BEL,M,,NI,,2210,9,20,MAR26,2004,
+45197148,"Loncke, Matthieu",BEL,M,,,,2210,9,20,MAR26,2004,
 227471,"Londers, Jan",BEL,M,,,,1908,0,20,MAR26,1981,
 264393,"Londers, Tuur",BEL,M,,,,1719,0,40,MAR26,2010,i
 276545,"Longfils, Damien",BEL,M,,,,1740,0,20,MAR26,2005,
