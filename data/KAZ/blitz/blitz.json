@@ -34800,21 +34800,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "13713892",
-    "Name": "Kim, Valeriy",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1898",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "MAR26",
-    "B-day": "1948",
-    "Flag": "i"
-  },
-  {
     "ID Number": "447057661",
     "Name": "Kim, Valeriy",
     "Fed": "KAZ",
@@ -34827,6 +34812,21 @@
     "K": "40",
     "RatingMonth": "MAR26",
     "B-day": "2008",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "13713892",
+    "Name": "Kim, Valeriy",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1898",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "MAR26",
+    "B-day": "1948",
     "Flag": "i"
   },
   {
@@ -41514,7 +41514,7 @@
     "OTit": "",
     "Rating": "1430",
     "Gms": "0",
-    "K": "40",
+    "K": "",
     "RatingMonth": "MAR26",
     "B-day": "2014",
     "Flag": "i"
@@ -64485,6 +64485,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "447013974",
+    "Name": "Sidoikin, Fyodor",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1552",
+    "Gms": "6",
+    "K": "",
+    "RatingMonth": "MAR26",
+    "B-day": "2014",
+    "Flag": ""
+  },
+  {
     "ID Number": "13766775",
     "Name": "Sidorov, Sergey",
     "Fed": "KAZ",
@@ -64513,21 +64528,6 @@
     "RatingMonth": "MAR26",
     "B-day": "2007",
     "Flag": "i"
-  },
-  {
-    "ID Number": "447013974",
-    "Name": "Sidoykin, Fedor",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1552",
-    "Gms": "6",
-    "K": "",
-    "RatingMonth": "MAR26",
-    "B-day": "2014",
-    "Flag": ""
   },
   {
     "ID Number": "13721771",
@@ -75229,8 +75229,8 @@
     "Name": "Yerzhan, Bibissara",
     "Fed": "KAZ",
     "Sex": "F",
-    "Title": "",
-    "WTit": "",
+    "Title": "WCM",
+    "WTit": "WCM",
     "OTit": "",
     "Rating": "1782",
     "Gms": "9",

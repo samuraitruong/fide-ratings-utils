@@ -2319,8 +2319,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13703447,"Kim, T",KAZ,F,,,,1737,0,20,MAR26,1949,wi
 13719262,"Kim, Teodor",KAZ,M,,,,1740,0,20,MAR26,1949,i
 13731904,"Kim, Valeriy",KAZ,M,,,,1863,0,20,MAR26,1955,i
-13713892,"Kim, Valeriy",KAZ,M,,,,1898,0,20,MAR26,1948,i
 447057661,"Kim, Valeriy",KAZ,M,,,,1601,0,40,MAR26,2008,i
+13713892,"Kim, Valeriy",KAZ,M,,,,1898,0,20,MAR26,1948,i
 557010781,"Kim, Vladimir K",KAZ,M,,,,1674,9,20,MAR26,1980,
 447014326,"Kim, Vyacheslav",KAZ,M,,,,1462,0,20,MAR26,2007,i
 13772678,"Kim, Yelena",KAZ,F,,,,1468,0,40,MAR26,2011,wi
@@ -2766,7 +2766,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 447032650,"Makhsot, Ravil",KAZ,M,,,,1509,21,40,MAR26,2012,
 447098058,"Makisheva, Adel",KAZ,F,,,,1426,3,40,MAR26,2017,w
 447070331,"Maksat, Adiya",KAZ,F,,,,1410,7,40,MAR26,2016,w
-447053143,"Maksat, Ostemir",KAZ,M,,,,1430,0,40,MAR26,2014,i
+447053143,"Maksat, Ostemir",KAZ,M,,,,1430,0,,MAR26,2014,i
 13715291,"Maksatov, Madi",KAZ,M,,,,2028,0,20,MAR26,1999,i
 557014469,"Maksatuly, Sayat",KAZ,M,,,,1478,0,40,MAR26,2008,
 13710478,"Maksimenko, Viktor",KAZ,M,FM,FA,,2277,0,20,MAR26,1971,i
@@ -4298,9 +4298,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13741616,"Shustova, Karina",KAZ,F,,,,1485,0,40,MAR26,2009,wi
 13751514,"Shvaryov , Artyom",KAZ,M,,,,1519,0,20,MAR26,2002,i
 13740660,"Sidgaliev, Nazarbek",KAZ,M,,,,1731,0,20,MAR26,2002,i
+447013974,"Sidoikin, Fyodor",KAZ,M,,,,1552,6,,MAR26,2014,
 13766775,"Sidorov, Sergey",KAZ,M,,,,1953,0,20,MAR26,1954,i
 13728954,"Sidoruk, Egor",KAZ,M,,,,1497,0,20,MAR26,2007,i
-447013974,"Sidoykin, Fedor",KAZ,M,,,,1552,6,,MAR26,2014,
 13721771,"Sim, Sergey",KAZ,M,,,,1678,0,20,MAR26,1941,i
 447038586,"Simbinov, Amir",KAZ,M,,,,1478,0,,MAR26,2010,
 447037385,"Simonov, Matvey",KAZ,M,,,,1499,0,40,MAR26,2012,
@@ -5014,7 +5014,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 447026871,"Yertyshbayev, Almat",KAZ,M,,,,1458,0,20,MAR26,1986,i
 447032731,"Yerzhan, Arlan",KAZ,M,,,,1496,0,40,MAR26,2014,
 447098368,"Yerzhan, Bibisara",KAZ,F,,,,1792,0,40,MAR26,2012,w
-13740407,"Yerzhan, Bibissara",KAZ,F,,,,1782,9,40,MAR26,2012,w
+13740407,"Yerzhan, Bibissara",KAZ,F,WCM,WCM,,1782,9,40,MAR26,2012,w
 13730347,"Yerzhan, Dilnaz",KAZ,F,,,,1539,0,20,MAR26,2007,wi
 557019975,"Yerzhan, Zangar",KAZ,M,,,,1512,7,40,MAR26,2017,
 13716620,"Yerzhan, Zhangir",KAZ,M,,,,1755,0,,MAR26,2003,i

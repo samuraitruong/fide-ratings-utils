@@ -39654,7 +39654,7 @@
     "OTit": "",
     "Rating": "1462",
     "Gms": "9",
-    "K": "40",
+    "K": "",
     "RatingMonth": "MAR26",
     "B-day": "2014",
     "Flag": ""
@@ -61845,6 +61845,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "447013974",
+    "Name": "Sidoikin, Fyodor",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1624",
+    "Gms": "7",
+    "K": "",
+    "RatingMonth": "MAR26",
+    "B-day": "2014",
+    "Flag": ""
+  },
+  {
     "ID Number": "13728954",
     "Name": "Sidoruk, Egor",
     "Fed": "KAZ",
@@ -61858,21 +61873,6 @@
     "RatingMonth": "MAR26",
     "B-day": "2007",
     "Flag": "i"
-  },
-  {
-    "ID Number": "447013974",
-    "Name": "Sidoykin, Fedor",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1624",
-    "Gms": "7",
-    "K": "",
-    "RatingMonth": "MAR26",
-    "B-day": "2014",
-    "Flag": ""
   },
   {
     "ID Number": "13721771",
@@ -72454,8 +72454,8 @@
     "Name": "Yerzhan, Bibissara",
     "Fed": "KAZ",
     "Sex": "F",
-    "Title": "",
-    "WTit": "",
+    "Title": "WCM",
+    "WTit": "WCM",
     "OTit": "",
     "Rating": "1836",
     "Gms": "9",

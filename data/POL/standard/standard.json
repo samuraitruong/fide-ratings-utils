@@ -50280,21 +50280,6 @@
     "Flag": "w"
   },
   {
-    "ID Number": "1132237",
-    "Name": "Gondko, Katarzyna",
-    "Fed": "POL",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1792",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "MAR26",
-    "B-day": "1989",
-    "Flag": "wi"
-  },
-  {
     "ID Number": "1176684",
     "Name": "Gondro, Kacper",
     "Fed": "POL",
@@ -72465,21 +72450,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "41820665",
-    "Name": "Kaczmarek, Piotr",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1650",
-    "Gms": "5",
-    "K": "40",
-    "RatingMonth": "MAR26",
-    "B-day": "2013",
-    "Flag": ""
-  },
-  {
     "ID Number": "21856958",
     "Name": "Kaczmarek, Piotr",
     "Fed": "POL",
@@ -72493,6 +72463,21 @@
     "RatingMonth": "MAR26",
     "B-day": "1987",
     "Flag": "i"
+  },
+  {
+    "ID Number": "41820665",
+    "Name": "Kaczmarek, Piotr",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1650",
+    "Gms": "5",
+    "K": "40",
+    "RatingMonth": "MAR26",
+    "B-day": "2013",
+    "Flag": ""
   },
   {
     "ID Number": "21027587",
@@ -95119,7 +95104,7 @@
     "Name": "Kraczek, Cezary",
     "Fed": "POL",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "2213",
@@ -101068,6 +101053,21 @@
     "RatingMonth": "MAR26",
     "B-day": "1950",
     "Flag": "i"
+  },
+  {
+    "ID Number": "1132237",
+    "Name": "Kubit, Katarzyna",
+    "Fed": "POL",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1792",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "MAR26",
+    "B-day": "1989",
+    "Flag": "wi"
   },
   {
     "ID Number": "1120778",

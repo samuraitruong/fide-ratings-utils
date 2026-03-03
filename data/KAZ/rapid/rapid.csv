@@ -473,8 +473,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13725998,"Alisher, Dias",KAZ,M,,,,1502,0,40,MAR26,2009,i
 557008914,"Alisseiko, Nikita",KAZ,M,,,,1541,0,40,MAR26,2011,
 13796852,"Aliuly, Abay",KAZ,M,,,,1513,0,40,MAR26,2016,
-13792555,"Aliyev, Ali",KAZ,M,,,,1466,0,40,MAR26,2014,i
 447008547,"Aliyev, Ali",KAZ,M,,,,1456,19,20,MAR26,2007,
+13792555,"Aliyev, Ali",KAZ,M,,,,1466,0,40,MAR26,2014,i
 447095849,"Aliyev, Nail",KAZ,M,,,,1706,0,40,MAR26,1950,
 13750755,"Alkesh, Adil",KAZ,M,,,,1769,0,20,MAR26,2000,i
 13758551,"Alkhanov, Beybit",KAZ,M,,,,1619,0,40,MAR26,1962,
@@ -1875,8 +1875,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 447017198,"Filippov, Rodion",KAZ,M,,,,1658,0,40,MAR26,2015,
 447008709,"Filippova, Milana",KAZ,F,WCM,WCM,,1819,6,40,MAR26,2015,w
 13767518,"Finko, Yuliya",KAZ,F,,,,1492,0,40,MAR26,2009,wi
-13729527,"Fisenko, Evgeny",KAZ,M,,,,1497,0,20,MAR26,2000,i
 13740946,"Fisenko, Evgeny",KAZ,M,,,,1646,0,20,MAR26,1943,i
+13729527,"Fisenko, Evgeny",KAZ,M,,,,1497,0,20,MAR26,2000,i
 13781596,"Fishman, Sofiya",KAZ,F,,,,1464,0,40,MAR26,2008,wi
 13791117,"Flyaum, Mikhail",KAZ,M,,,,1486,0,40,MAR26,2013,i
 447017201,"Fokin, Artur",KAZ,M,,,,1421,0,40,MAR26,2015,i
@@ -2849,8 +2849,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 447032383,"Kim, Andrey",KAZ,M,,,,1509,17,40,MAR26,2009,
 447048328,"Kim, Andrey",KAZ,M,,,,1589,0,,MAR26,1964,i
 13751573,"Kim, Andrey",KAZ,M,,,,1525,0,40,MAR26,2008,i
-557022305,"Kim, Anna",KAZ,F,,,,1564,5,40,MAR26,2012,w
 13735179,"Kim, Anna",KAZ,F,,,,1413,0,40,MAR26,2011,wi
+557022305,"Kim, Anna",KAZ,F,,,,1564,5,40,MAR26,2012,w
 13747452,"Kim, Dmitrii",KAZ,M,,,,1470,0,20,MAR26,1977,i
 557006024,"Kim, Eldar",KAZ,M,,,,1603,0,40,MAR26,2008,
 447068043,"Kim, Georgiy",KAZ,M,,,,1477,0,40,MAR26,1944,i
@@ -3438,7 +3438,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13710621,"Maklushov, Serik",KAZ,M,,,,1722,0,20,MAR26,0,i
 447070331,"Maksat, Adiya",KAZ,F,,,,1412,0,40,MAR26,2016,w
 13785702,"Maksat, Dosbek",KAZ,M,,,,1401,0,40,MAR26,2005,i
-447053143,"Maksat, Ostemir",KAZ,M,,,,1582,0,40,MAR26,2014,
+447053143,"Maksat, Ostemir",KAZ,M,,,,1582,0,,MAR26,2014,
 447028416,"Maksatbek, Meirzhan",KAZ,M,,,,1450,0,40,MAR26,2012,
 13715291,"Maksatov, Madi",KAZ,M,,,,1977,0,20,MAR26,1999,i
 447066792,"Maksatuly, Erasyl",KAZ,M,,,,1559,0,40,MAR26,2009,i
@@ -3610,8 +3610,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 447020113,"Medetuly, Abdullah",KAZ,M,,,,1423,0,40,MAR26,2009,
 13777726,"Medetuly, Nurdaulet",KAZ,M,,,,1671,0,40,MAR26,2010,
 447066059,"Medeugaliev, Kurmanbai",KAZ,M,,,,1458,6,20,MAR26,1966,
-447069635,"Medvedev, Aleksandr",KAZ,M,,,,1558,0,40,MAR26,1972,i
 13709356,"Medvedev, Aleksandr",KAZ,M,,,,1693,0,40,MAR26,0,i
+447069635,"Medvedev, Aleksandr",KAZ,M,,,,1558,0,40,MAR26,1972,i
 13703692,"Medybayev, Daniyar",KAZ,M,,,,2184,0,20,MAR26,1988,
 13701606,"Medybayev, Renat",KAZ,M,,,,2084,0,20,MAR26,1990,i
 13772236,"Megedinov, Idris",KAZ,M,,,,1521,0,40,MAR26,2005,i
@@ -5375,9 +5375,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13751514,"Shvaryov , Artyom",KAZ,M,,,,1553,0,20,MAR26,2002,i
 447030569,"Shyntas, Nurzhan",KAZ,M,,,,1422,0,40,MAR26,2007,i
 13740660,"Sidgaliev, Nazarbek",KAZ,M,,,,1709,0,20,MAR26,2002,i
+447013974,"Sidoikin, Fyodor",KAZ,M,,,,1615,0,,MAR26,2014,
 13766775,"Sidorov, Sergey",KAZ,M,,,,1967,0,20,MAR26,1954,i
 13728954,"Sidoruk, Egor",KAZ,M,,,,1508,0,40,MAR26,2007,i
-447013974,"Sidoykin, Fedor",KAZ,M,,,,1615,0,,MAR26,2014,
 557001960,"Sigaliev, Asylbek",KAZ,M,,,,1583,0,40,MAR26,1965,
 447025050,"Silkin, Nikita",KAZ,M,,,,1559,0,40,MAR26,2010,
 447038586,"Simbinov, Amir",KAZ,M,,,,1581,7,,MAR26,2010,
@@ -5835,7 +5835,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13758845,"Tolegen, Beksultan",KAZ,M,,,,1486,0,40,MAR26,2009,i
 13788221,"Tolegen, Dastan",KAZ,M,,,,1498,0,40,MAR26,2006,i
 13764039,"Tolegen, Galiaskar",KAZ,M,,,,1499,0,40,MAR26,2009,
-447037547,"Tolegen, Temirlan",KAZ,M,,,,1548,5,40,MAR26,2012,
+447037547,"Tolegen, Temirlan",KAZ,M,,,,1548,5,40,MAR26,2013,
 13775774,"Tolegenkyzy, Sara",KAZ,F,,,,1463,0,40,MAR26,2013,wi
 13725890,"Tolegenov, Rauan",KAZ,M,,,,1520,0,20,MAR26,2005,
 13712306,"Tolegenov, Rollan",KAZ,M,,,,1750,0,20,MAR26,1998,i
@@ -6302,7 +6302,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13709658,"Yerserik, Adilet",KAZ,M,,,,1925,0,20,MAR26,1999,
 447011874,"Yertai, Osman",KAZ,M,,,,1453,10,40,MAR26,2018,
 13784250,"Yertay, Omar",KAZ,M,,,,1465,0,40,MAR26,2014,
-13740407,"Yerzhan, Bibissara",KAZ,F,,,,1885,9,40,MAR26,2012,w
+13740407,"Yerzhan, Bibissara",KAZ,F,WCM,WCM,,1885,9,40,MAR26,2012,w
 13730347,"Yerzhan, Dilnaz",KAZ,F,,,,1560,0,20,MAR26,2007,w
 557019975,"Yerzhan, Zangar",KAZ,M,,,,1553,0,40,MAR26,2017,
 13758500,"Yerzhan, Zhandos",KAZ,M,,,,1421,0,20,MAR26,2004,i
@@ -6437,8 +6437,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 447077077,"Zhakisheva, Venera",KAZ,F,,,,1508,7,40,MAR26,2018,w
 557011290,"Zhakiya, Abubakir",KAZ,M,,,,1543,0,40,MAR26,2017,
 13768506,"Zhakiya, Ansar",KAZ,M,,,,1403,0,40,MAR26,2010,
-13710354,"Zhakiyanov, Galym",KAZ,M,,,,1905,0,20,MAR26,2002,i
 447049944,"Zhakiyanov, Galym",KAZ,M,,,,1736,11,20,MAR26,1976,
+13710354,"Zhakiyanov, Galym",KAZ,M,,,,1905,0,20,MAR26,2002,i
 447070099,"Zhaksybai, Balausa",KAZ,F,,,,1523,0,40,MAR26,2013,wi
 13789287,"Zhaksybay, Alden",KAZ,M,,,,1407,0,40,MAR26,2012,i
 447070552,"Zhaksybayev, Bekarys",KAZ,M,,,,1671,0,40,MAR26,1997,
