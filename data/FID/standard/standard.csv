@@ -7,7 +7,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 115095101,"Abeto, Salvador Adonis Vi Layague",FID,M,,,,1664,0,,APR26,1993,
 351104472,"Abiton, Gerard",FID,M,,,,1405,1,40,APR26,1954,
 26344610,"Abohalaka, Reshed",FID,M,,,,1776,6,20,APR26,1991,
-13526669,"Abramkina, Veranika",FID,F,WFM,WFM,,2243,16,40,APR26,2010,w
+13526669,"Abramkina, Veranika",FID,F,WFM,WFM,,2256,17,40,APR26,2010,w
 24104655,"Abramova, Yulia",FID,F,WCM,WCM,,1888,0,20,APR26,1987,wi
 385105002,"Aburawi, Ahmed",FID,M,,,,1578,0,40,APR26,2011,i
 13511122,"Adamchyk, Miraslau",FID,M,,,,1605,0,40,APR26,1998,i
@@ -103,6 +103,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55669794,"Barabash, Anastasiya Aleks",FID,F,,,,1659,0,40,APR26,2013,w
 55760236,"Baranov, Prokhor",FID,M,,,,1630,0,40,APR26,2016,
 324111836,"Barbosa, Thiago Rodrigo",FID,M,,,,1728,0,,APR26,1994,
+396112490,"Barrios Lagunes, Gustavo",FID,M,,,,1728,5,40,APR26,1985,
 124111545,"Bartoshevich-Zhagel, Rafail",FID,M,,,,1516,0,,APR26,2013,
 34334491,"Baryshnikov, Grigoriy",FID,M,,,,1547,0,40,APR26,2011,i
 146104529,"Basu, Sanchalak",FID,M,,,,1480,0,40,APR26,1987,i
@@ -320,7 +321,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 345280920,"Garcia Macarron, Jorge",FID,M,,,,1865,0,,APR26,1979,i
 343098595,"Garcia Zambrano, Alvaro",FID,M,,,,1897,0,40,APR26,1991,
 150112278,"Garcia, Raphael",FID,M,,,,1745,0,,APR26,1983,
-34127035,"Garifullina, Leya",FID,F,IM,WGM,,2447,9,10,APR26,2004,w
+34127035,"Garifullina, Leya",FID,F,IM,WGM,,2448,18,10,APR26,2004,w
 13502085,"Garnova, Anastasia",FID,F,,,,1796,0,20,APR26,1995,wi
 55899684,"Gatin, Marsel R",FID,M,,,,1601,16,40,APR26,2018,
 366099824,"Gautam, Anushka",FID,M,,,,1441,0,40,APR26,2009,i
@@ -464,7 +465,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 366196828,"Kewalramani, Abhir",FID,M,,,,1639,0,20,APR26,2007,i
 55650678,"Khachaturian, Aram",FID,M,,,,1589,0,40,APR26,2008,i
 34281886,"Khachaturian, Emin",FID,M,,,,1912,0,40,APR26,1999,i
-34378049,"Khafizova, Diana",FID,F,WIM,WIM,,2265,25,40,APR26,2010,w
+34378049,"Khafizova, Diana",FID,F,WIM,WIM,,2285,26,40,APR26,2010,w
 34372296,"Khaleev, Timofey D",FID,M,,,,2156,9,40,APR26,2010,
 4100115,"Khalifman, Alexander",FID,M,GM,,,2597,0,10,APR26,1966,i
 34147869,"Khalikov, Bulat",FID,M,CM,,,2171,0,20,APR26,2003,i
@@ -579,7 +580,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 345111800,"Labaig Fuertes, Jose Maria",FID,M,,,,1655,0,40,APR26,1972,
 115110422,"LADAN, RUDY",FID,M,,,,1915,0,,APR26,1974,i
 24132144,"Lagashin, Pavel",FID,M,,,,1894,30,20,APR26,1989,
-396112490,"Lagunes, Gustavo Barrios",FID,M,,,,1728,5,40,APR26,1985,
 34160059,"Lalaev, Ashur",FID,M,,,,1757,0,20,APR26,1982,i
 115108970,"Lamigo, Ramel",FID,M,,,,1721,0,,APR26,1989,i
 107111247,"Lamme, Victor",FID,M,,,,1827,0,40,APR26,1959,i
@@ -687,7 +687,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5130905,"Mendoza, Victor",FID,M,,,,1738,0,40,APR26,1982,i
 24227757,"Meshcheryakova, Alina",FID,F,,,,1481,0,20,APR26,2005,wi
 4116887,"Mesropov, Konstantin",FID,M,IM,,,2458,0,10,APR26,1971,
-44191995,"Mikhailina, Olga",FID,F,WCM,WCM,,1803,0,40,APR26,2008,w
+44191995,"Mikhailina, Olga",FID,F,WCM,WCM,,1918,9,40,APR26,2008,w
 55744010,"Mikhaleva, Yulia",FID,F,,,,1517,0,40,APR26,2014,w
 44108320,"Mikheeva, Galina",FID,F,FM,WIM,,2121,19,20,APR26,2007,w
 2333988,"Mikike, Mikael Ulrik Ano",FID,M,,,,1818,0,40,APR26,1995,
@@ -802,7 +802,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 345105026,"Perez Barrios, Juan",FID,M,,,,1880,0,20,APR26,1960,i
 150102389,"Perez Gallardo, Renier Cristino",FID,M,,,,1481,0,40,APR26,1989,i
 373197039,"Perez, Christian",FID,M,,,,1642,0,40,APR26,1979,i
-34188859,"Pershina, Maria",FID,F,WFM,WFM,,2256,28,20,APR26,2005,w
+34188859,"Pershina, Maria",FID,F,WFM,WFM,,2271,29,20,APR26,2005,w
 34315497,"Petrenko, Anton",FID,M,,,,1480,0,40,APR26,2005,i
 24216836,"Petrov, Maksim",FID,M,,,,1822,0,20,APR26,2003,i
 13506897,"Petrushkevich, Maxim",FID,M,,,,1989,0,20,APR26,1998,i
@@ -1149,7 +1149,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34384529,"Vlashchenko, Ilya",FID,M,,,,1449,0,40,APR26,2013,
 34384510,"Vlashchenko, Ivan",FID,M,,,,1487,0,40,APR26,2011,
 34370730,"Vlasova, Mariya N",FID,F,WFM,WFM,,2094,0,40,APR26,2010,w
-54113067,"Vlasova, Olesia",FID,F,WFM,WFM,,2071,17,40,APR26,2008,w
+54113067,"Vlasova, Olesia",FID,F,WFM,WFM,,2068,18,40,APR26,2008,w
 351104481,"Vohra, Ankit",FID,M,,,,1689,0,20,APR26,1998,
 54104408,"Volchkova, Alena",FID,F,WFM,WFM,,2112,19,40,APR26,2008,w
 55698581,"Volkova, Nadezhda Vlad",FID,F,,,,1750,9,40,APR26,2015,w
@@ -1200,6 +1200,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13500430,"Zajogin, Alexander",FID,M,,,,2328,2,10,APR26,1974,
 4115333,"Zakhartsov, Viacheslav V.",FID,M,GM,,,2467,0,10,APR26,1968,i
 55850880,"Zakirova, Liliia",FID,F,,,,1471,0,40,APR26,2012,w
+13507222,"Zakrzheuski, Uladzislau",FID,M,,,,1901,0,20,APR26,1996,i
 44577591,"Zammo, Yaser",FID,M,,,,1564,0,40,APR26,1997,i
 367113122,"Zarbakhsh, Amirhossein",FID,M,,,,1866,0,40,APR26,1996,i
 24127175,"Zavalin, Dmitri",FID,M,,,,1744,0,40,APR26,1986,
@@ -1210,7 +1211,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 63100649,"Zengru, Zheng",FID,F,,,,1466,0,40,APR26,2003,wi
 55694381,"Zhabinskii, Fedor",FID,M,,,,1531,0,40,APR26,2013,
 331105374,"Zhao, Haoyi Kyle",FID,M,,,,1733,0,40,APR26,2015,
-24278670,"Zhapova, Yana",FID,F,FM,WGM,,2209,36,20,APR26,2008,w
+24278670,"Zhapova, Yana",FID,F,FM,WGM,,2206,37,20,APR26,2008,w
 55783562,"Zharkov, Daniil",FID,M,,,,1741,0,40,APR26,2012,
 24105929,"Zhdanov, Petr",FID,M,,,,1956,0,20,APR26,1986,
 55678300,"Zherzdev, Mikhail",FID,M,,,,1849,0,40,APR26,2012,
@@ -1220,7 +1221,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34187534,"Zhukov, Anton",FID,M,FM,,,2298,0,20,APR26,2004,
 13527690,"Zhukov, Roman",FID,M,,,,1803,8,40,APR26,2011,
 522036130,"Zhumankulov, Arman",FID,M,,,,1629,0,,APR26,1987,i
-54113075,"Zhurova, Anna",FID,F,WFM,WFM,,2338,27,20,APR26,2005,w
+54113075,"Zhurova, Anna",FID,F,WFM,WFM,,2331,28,20,APR26,2005,w
 24114944,"Zinchenko, Anatoly",FID,M,,,,1923,0,20,APR26,1989,i
 54199239,"Ziuzginov, Alexander",FID,M,,,,1914,0,,APR26,1984,i
 4190009,"Zolotukhin, Valery",FID,M,FM,,,2315,0,20,APR26,1986,i

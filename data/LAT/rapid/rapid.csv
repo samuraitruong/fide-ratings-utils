@@ -283,7 +283,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11614579,"Brantevics, Adams",LAT,M,,,,1750,0,20,APR26,1948,i
 11602660,"Breikss, Peteris",LAT,M,,,,1771,16,20,APR26,1958,
 11635231,"Breimanis, Artemijs",LAT,M,,,,1637,0,20,APR26,1999,i
-11645920,"Brencis, Adrians",LAT,M,,,,1593,0,40,APR26,2010,
+11645920,"Brencis, Adrians",LAT,M,,,,1593,0,,APR26,2010,
 11619350,"Brencs, Mareks",LAT,M,,,,1420,0,40,APR26,2010,i
 11641606,"Brengulis, Bruno",LAT,M,,,,1423,0,40,APR26,2012,
 11642025,"Brezauckis, Martins",LAT,M,,,,1486,0,40,APR26,2007,i
@@ -1014,8 +1014,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11621460,"Kozlovs, Aleksandrs",LAT,M,,,,1481,0,40,APR26,2005,i
 11625775,"Kozlovs, Pavels",LAT,M,,,,1438,0,40,APR26,2010,i
 11608358,"Kozlovskis, Janis",LAT,M,,,,1711,0,20,APR26,1944,i
-11646977,"Kozlovskis, Juris",LAT,M,,,,1415,0,40,APR26,1986,
 11609869,"Kozlovskis, Juris",LAT,M,,,,1562,6,20,APR26,1948,
+11646977,"Kozlovskis, Juris",LAT,M,,,,1415,0,40,APR26,1986,
 11645113,"Kozlovskis, Marjans",LAT,M,,,,1415,0,40,APR26,2015,
 11642211,"Kozulins, Kristaps",LAT,M,,,,1473,0,40,APR26,1989,
 11611693,"Krainovs, Maksims",LAT,M,,,,1810,0,20,APR26,1979,i
@@ -1444,8 +1444,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11612720,"Nikitins,Aleksandrs",LAT,M,,,,1773,0,20,APR26,1985,i
 11601493,"Nikolajev, Denis",LAT,M,,,,2360,0,10,APR26,1983,
 11606592,"Nikolajeva, Marija",LAT,F,,,,1780,0,20,APR26,2002,wi
-11615290,"Nikolajevs, Andrejs",LAT,M,,,,1795,0,20,APR26,1956,i
 11622741,"Nikolajevs, Andrejs",LAT,M,,,,1617,0,20,APR26,1999,i
+11615290,"Nikolajevs, Andrejs",LAT,M,,,,1795,0,20,APR26,1956,i
 11614412,"Nikolajevs, Vladimirs",LAT,M,,,,1659,0,20,APR26,1953,i
 11648104,"Nilovs, Artemijs",LAT,M,,,,1848,12,40,APR26,2015,
 11635312,"Noreikis, Andris",LAT,M,,,,1854,0,20,APR26,1978,i
@@ -1522,7 +1522,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11612738,"Pabriks, Hauke Namejs",LAT,M,,,,1685,0,20,APR26,2000,i
 11622024,"Padedzis, Maris",LAT,M,,,,1671,0,20,APR26,1988,i
 11640120,"Paegle, Aivars",LAT,M,,,,1611,0,20,APR26,1951,i
-11624078,"Paikens, Reinis",LAT,M,,,,2387,0,20,APR26,2008,
+11624078,"Paikens, Reinis",LAT,M,FM,,,2387,0,20,APR26,2008,
 11607483,"Pakalns, Raivis Kristians",LAT,M,,,,1977,0,20,APR26,2002,
 11602058,"Pakskis, Kristaps",LAT,M,FM,,,2232,0,20,APR26,1990,i
 11601507,"Pakula, Aleksej",LAT,M,,NA,,1963,0,20,APR26,1979,

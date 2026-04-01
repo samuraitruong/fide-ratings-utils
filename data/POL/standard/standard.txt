@@ -3104,7 +3104,7 @@ ID Number      Name                                                         Fed 
 21019347       Gaska, Dominik                                               POL M                                1605  0   40 2004  i   
 21034060       Gaska, Karol                                                 POL M                                1620  9   40 2008      
 1186000        Gaska, Stanislaw                                             POL M                                1966  0   40 1987  i   
-21858594       Gaszka, Zuzanna                                              POL F                                2137  9   40 2009  w   
+21858594       Gaszka, Zuzanna                                              POL F   WFM  WFM                     2137  9   40 2009  w   
 1168525        Gatner, Karolina                                             POL F                                1485  0   40 1979  w   
 91109558       Gatner, Leon                                                 POL M                                1676  9   40 2017      
 1104225        Gawarecki, Leszek                                            POL M                                2210  0   40 1960  i   
@@ -3686,7 +3686,7 @@ ID Number      Name                                                         Fed 
 1102214        Grossmann, Ryszard                                           POL M   FM                           1932  0   20 1949  i   
 41820207       Groszkowski, Henryk                                          POL M                                1632  9   20 1954      
 1195387        Groszyk, Maciej                                              POL M                                1513  0   20 1998  i   
-21835845       Grot, Blazej                                                 POL M   CM                           2325  11  20 2008      
+21835845       Grot, Blazej                                                 POL M   FM                           2325  11  20 2008      
 1171496        Grot, Jacek                                                  POL M                                1539  0   20 2000  i   
 1177958        Grota, Mateusz                                               POL M                                1920  0   20 1995  i   
 1161202        Grubalska, Daria                                             POL F                                1568  0   40 1998  wi  
@@ -4865,12 +4865,12 @@ ID Number      Name                                                         Fed 
 41812956       Kaczmarek, Jan                                               POL M                                1533  0   40 2005  i   
 1138073        Kaczmarek, Julia                                             POL F                                1839  0   20 1989  wi  
 1170910        Kaczmarek, Maciej                                            POL M                                1977  0   20 1990  i   
-1184792        Kaczmarek, Michal                                            POL M                                1907  3   20 1978      
+1184792        Kaczmarek, Michal                                            POL M                                1897  2   20 1978      
 21879389       Kaczmarek, Paulina                                           POL F                                1775  11  40 2008  w   
 1131346        Kaczmarek, Piotr                                             POL M                                1926  0   20 1987  i   
 1121006        Kaczmarek, Piotr                                             POL M                                1664  2   20 1958      
-41820665       Kaczmarek, Piotr                                             POL M                                1650  0   40 2013      
 21856958       Kaczmarek, Piotr                                             POL M                                1650  0   40 1987  i   
+41820665       Kaczmarek, Piotr                                             POL M                                1650  0   40 2013      
 21027587       Kaczmarek, Remigiusz                                         POL M                                1637  0   40 1995  i   
 1165968        Kaczmarek, Stanislaw                                         POL M                                1779  0   40 1962  i   
 21835144       Kaczmarek, Tomasz                                            POL M                                1818  0   20 1993      
@@ -6439,7 +6439,7 @@ ID Number      Name                                                         Fed 
 1191330        Kraska, Mateusz                                              POL M                                1809  0   40 1993  i   
 21881227       Krasniewska, Zofia                                           POL F             NA                 1439  0   40 2009  w   
 21895481       Krasniewski, Grzegorz                                        POL M             NA                 1684  3   40 2009      
-21874565       Krasniewski, Maciej                                          POL M             NA                 2227  9   40 2008      
+21874565       Krasniewski, Maciej                                          POL M   CM        NA                 2227  9   40 2008      
 91178282       Krasniewski, Michal                                          POL M                                1599  17  40 2011      
 21878650       Krasniewski, Piotr                                           POL M             NA                 1512  0   20 1976      
 21854505       Krasniewski, Szymon                                          POL M                                1978  0   20 2005      
@@ -10855,7 +10855,7 @@ ID Number      Name                                                         Fed 
 21817316       Popadowski, Wojciech                                         POL M                                1641  0   20 2004  i   
 21845263       Popczyk, Ryszard                                             POL M                                1693  0   40 1951  i   
 21010587       Popczynska, Maja                                             POL F                                1850  9   40 2008  w   
-21036586       Popczynska, Michalina                                        POL F                                2022  16  40 2012  w   
+21036586       Popczynska, Michalina                                        POL F   WCM  WCM                     2022  16  40 2012  w   
 21083053       Popczynska, Zuzanna                                          POL F                                1578  11  40 2014  w   
 21063966       Popczynski, Andrzej                                          POL M                                1584  0   20 1958      
 1114727        Popczynski, Przemyslaw                                       POL M                                2120  0   20 1978  i   
@@ -11765,7 +11765,7 @@ ID Number      Name                                                         Fed 
 545059268      Rytel, Mikolaj                                               POL M                                1537  0   40 2010      
 21817324       Rytwinski, Karol                                             POL M                                1437  0   40 2004  i   
 41847245       Rywak, Filip                                                 POL M                                1562  0   40 2006  i   
-21083061       Rzadkowska, Kaja                                             POL F   WCM  WCM                     2102  16  40 2012  w   
+21083061       Rzadkowska, Kaja                                             POL F   WFM  WFM                     2102  16  40 2012  w   
 21083070       Rzadkowska, Lila                                             POL F   WCM  WCM                     1908  13  40 2014  w   
 41848101       Rzap, Filip                                                  POL M             NA                 2121  13  40 2009      
 21027307       Rzasa, Dominik                                               POL M                                1513  0   40 2003  i   

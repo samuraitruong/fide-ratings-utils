@@ -2089,8 +2089,8 @@
     "Name": "Elizabeth Cassidy Maina",
     "Fed": "KEN",
     "Sex": "F",
-    "Title": "WCM",
-    "WTit": "WCM",
+    "Title": "WFM",
+    "WTit": "WFM",
     "OTit": "",
     "Rating": "1809",
     "Gms": "0",
@@ -7890,21 +7890,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "554015383",
-    "Name": "Murigi Solomon",
-    "Fed": "KEN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1578",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "APR26",
-    "B-day": "2010",
-    "Flag": ""
-  },
-  {
     "ID Number": "554017050",
     "Name": "Murigi Solomon",
     "Fed": "KEN",
@@ -7917,6 +7902,21 @@
     "K": "40",
     "RatingMonth": "APR26",
     "B-day": "2008",
+    "Flag": ""
+  },
+  {
+    "ID Number": "554015383",
+    "Name": "Murigi Solomon",
+    "Fed": "KEN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1578",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "APR26",
+    "B-day": "2010",
     "Flag": ""
   },
   {

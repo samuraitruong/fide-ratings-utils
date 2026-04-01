@@ -4590,21 +4590,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12343870",
-    "Name": "Kumar, Pradip",
-    "Fed": "NEP",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1700",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "APR26",
-    "B-day": "1987",
-    "Flag": ""
-  },
-  {
     "ID Number": "12341800",
     "Name": "Kumar, Pradip",
     "Fed": "NEP",
@@ -4618,6 +4603,21 @@
     "RatingMonth": "APR26",
     "B-day": "2005",
     "Flag": "i"
+  },
+  {
+    "ID Number": "12343870",
+    "Name": "Kumar, Pradip",
+    "Fed": "NEP",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1700",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "APR26",
+    "B-day": "1987",
+    "Flag": ""
   },
   {
     "ID Number": "12311219",
@@ -7216,7 +7216,7 @@
   },
   {
     "ID Number": "12312649",
-    "Name": "Phuyal, Aashish",
+    "Name": "Phunyal, Aashish",
     "Fed": "NEP",
     "Sex": "M",
     "Title": "",
