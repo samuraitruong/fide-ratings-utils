@@ -1,49 +1,101 @@
 ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
-14800063,"Abrantes, Persson",MOZ,M,CM,,,1996,0,20,MAR26,1990,i
-14809435,"Alar, Yuran Edgar",MOZ,M,,,,1721,0,40,MAR26,1995,
-14800047,"Alice, Mateus Felizardo Viageiro",MOZ,M,FM,,,2191,0,20,MAR26,1980,i
-14806266,"Amirali, Munir Navazali",MOZ,M,,,,1644,0,40,MAR26,1979,
-14800039,"Andrade, Ivan",MOZ,M,FM,,,2149,0,20,MAR26,1982,
-14800438,Belmiro Mendes Mahota,MOZ,M,,,,1812,0,20,MAR26,1999,i
-14800489,Botao Milton,MOZ,M,,,,1969,0,20,MAR26,1983,i
-14801655,"Bulande, Bento",MOZ,M,,,,1644,0,40,MAR26,1971,
-14804174,"Carquete, Galilei",MOZ,M,,,,1820,0,20,MAR26,2006,
-14800250,"Castro, Neusa Aridas De",MOZ,F,WCM,WCM,SI,1687,0,20,MAR26,1995,w
-14809486,"Chissale, Estevao Mavuto Severiano",MOZ,M,,,,1633,0,40,MAR26,2002,
-14806550,"Chongue, Egidio Da Isabel",MOZ,M,,,,1742,0,40,MAR26,2000,
-14800276,"Chunguane, Ilidio Alberto",MOZ,M,CM,,,1931,0,20,MAR26,1976,
-14807688,"Cossa, Luis Manuel",MOZ,M,,,,1701,0,40,MAR26,1995,
-14803577,"Cossa, Manuel Roque",MOZ,M,,,,1843,0,40,MAR26,1981,
-14803607,"Cossa, Remigio Enoque",MOZ,M,,,,1838,0,40,MAR26,2006,
-14805790,"Ernesto, Tiago Liam Banze",MOZ,M,,,,1534,0,40,MAR26,2015,
-14806746,"Fernandes, Miguel Eduardo Taibo",MOZ,M,,,,1646,0,40,MAR26,2010,
-14800756,Gilberto Gil Uamusse,MOZ,M,,,,1867,0,20,MAR26,1990,
-14806339,"Guambe, Joao Rubene",MOZ,M,,,,1962,0,40,MAR26,2004,
-14800373,Hayssan Abdul Arnaldo Afu,MOZ,M,,,,1549,0,40,MAR26,2005,i
-14802120,"Ignacio, Arroyo Mayo",MOZ,M,,NA,,1731,0,20,MAR26,1984,i
-14801221,"Jamal, Hamid Harmon Gulamo",MOZ,M,CM,,,2019,0,20,MAR26,1999,
-14805936,"Jazire, Jermaine Tafar",MOZ,M,,,,1702,0,40,MAR26,2014,i
-14800730,Joao Farisse,MOZ,M,CM,,,1943,0,20,MAR26,2004,
-14809729,"Mabote, Abnerson Armando",MOZ,M,,,,1674,0,40,MAR26,2007,
-14801159,"Mabote, Sa Adolfo",MOZ,M,,,,1714,0,20,MAR26,1956,
-14801248,"Macuacua, Marcos Simao",MOZ,M,,,,1829,0,20,MAR26,1998,
-14802287,"Magagule, Senzo Frederico",MOZ,M,,,,1824,0,20,MAR26,2002,
-14802023,"Mahassule, Jubilio Alberto",MOZ,M,,,,1684,0,40,MAR26,2000,
-14810387,"Malate, Malik Menelik Da Silva",MOZ,M,,,,1501,0,40,MAR26,2011,
-14800209,"Malenda, Ana",MOZ,F,,,,1534,0,20,MAR26,1987,w
-14800802,"Manjate, Celso Andre",MOZ,M,,,,1909,0,20,MAR26,2001,
-14810034,"Mucavel, Marcelo Joao",MOZ,M,,,,1641,0,40,MAR26,1996,
-14801302,"Napoleao, Lourenco",MOZ,M,CM,,,1972,0,20,MAR26,1995,
-14802945,"Ngovene, Alberto Jose",MOZ,M,,,,1575,0,40,MAR26,1964,
-14802848,"Nombora, William dos Santos",MOZ,M,,,,1712,0,40,MAR26,1993,i
-14800098,"Paiva, Donaldo",MOZ,M,FM,,,2205,0,20,MAR26,1991,
-14805316,"Posso, Bruno Eduardo",MOZ,M,,,,1601,0,20,MAR26,1996,i
-14801345,"Poyiatzis,Alexandros Michali Ribeiro e Silva",MOZ,M,,,,1673,0,,MAR26,1997,i
-14807564,"Sozinho, Lidia Jose",MOZ,F,,,,1642,0,40,MAR26,2003,w
-14801493,"Taremba, Edson",MOZ,M,,,,1573,0,40,MAR26,1993,i
-14802546,"Ualane, Celso Dario",MOZ,M,,,,1678,0,40,MAR26,1999,
-14805839,"Uamusse, Stelio Henriques",MOZ,M,,,,1833,0,40,MAR26,1994,
-14803704,"Victorino Mafuca, Amelia Carlos",MOZ,F,,,,1492,0,40,MAR26,2002,w
-14800144,"Vilhete, Vania Fausto Da T.",MOZ,F,WIM,WIM,,1799,0,20,MAR26,1985,wi
-14802902,"Zimba, Domingos Fabiao",MOZ,M,,,,1533,0,40,MAR26,1966,
-14810379,"Zimila, Antonio Joao",MOZ,M,,,,1463,0,40,MAR26,1999,
+14800063,"Abrantes, Persson",MOZ,M,CM,,,1979,8,20,APR26,1990,
+14809516,"Agostinho, Everton Lazio",MOZ,M,,,,1806,4,40,APR26,2008,
+14809435,"Alar, Yuran Edgar",MOZ,M,,,,1704,5,40,APR26,1995,
+14803291,Alberto Ananias Pambo,MOZ,M,,,,1892,8,40,APR26,2005,
+14800047,"Alice, Mateus Felizardo Viageiro",MOZ,M,FM,,,2191,0,20,APR26,1980,i
+14806266,"Amirali, Munir Navazali",MOZ,M,,,,1638,1,40,APR26,1979,
+14800039,"Andrade, Ivan",MOZ,M,FM,,,2129,9,20,APR26,1982,
+14800438,Belmiro Mendes Mahota,MOZ,M,,,,1812,0,20,APR26,1999,i
+14800489,Botao Milton,MOZ,M,,,,1923,7,20,APR26,1983,
+14801655,"Bulande, Bento",MOZ,M,,,,1654,2,40,APR26,1971,
+14800268,"Calicoca, Wilton Inacio",MOZ,M,FM,,,2005,9,20,APR26,1984,
+14802279,"Cardoso, Bruno Artur",MOZ,M,,,,1846,4,20,APR26,1999,
+14804174,"Carquete, Galilei",MOZ,M,,,,1820,0,20,APR26,2006,
+14803879,"Cassamo, Osvaldo",MOZ,M,,,,1787,6,20,APR26,1978,
+14800250,"Castro, Neusa Aridas De",MOZ,F,WCM,WCM,SI,1677,4,20,APR26,1995,w
+14802201,"Chicalangane Junior, Acacio Antonio",MOZ,M,,,,1808,6,40,APR26,2000,
+14800764,"Chirindza, Rafael Bernardo",MOZ,M,,,,1863,7,20,APR26,1996,
+14809486,"Chissale, Estevao Mavuto Severiano",MOZ,M,,,,1625,1,40,APR26,2002,
+14806550,"Chongue, Egidio Da Isabel",MOZ,M,,,,1742,0,40,APR26,2000,
+14800276,"Chunguane, Ilidio Alberto",MOZ,M,CM,,,1941,8,20,APR26,1976,
+14807688,"Cossa, Luis Manuel",MOZ,M,,,,1702,6,40,APR26,1995,
+14803577,"Cossa, Manuel Roque",MOZ,M,,,,1837,4,40,APR26,1981,
+14803607,"Cossa, Remigio Enoque",MOZ,M,,,,1842,7,40,APR26,2006,
+14807017,"Cuembeia, Breti",MOZ,M,,,,1780,6,40,APR26,1998,
+14802228,Cumbane. Augusto Elidio,MOZ,M,,,,1733,3,,APR26,2001,
+14807670,"Cumbe, Elias Elves Bernardo",MOZ,M,,,,1732,4,40,APR26,1996,
+14801167,"Danca, Pedro Alson Bernardo",MOZ,M,,,,1711,2,40,APR26,1999,
+14802821,Edivaldo Onions Araujo,MOZ,M,,,,1649,8,40,APR26,1992,
+14800845,Emilton Alexandre,MOZ,M,,,,1698,4,40,APR26,1997,
+14805790,"Ernesto, Tiago Liam Banze",MOZ,M,,,,1513,3,40,APR26,2015,
+14810042,"Farooq, Adam Nurmohomed",MOZ,M,,,,1425,7,40,APR26,2014,
+14806746,"Fernandes, Miguel Eduardo Taibo",MOZ,M,,,,1618,3,40,APR26,2010,
+14810522,"Francisco, Anthoine De Fragido Jose",MOZ,M,,,,1538,6,40,APR26,2006,
+14800500,"Gafar, Izdine",MOZ,M,,,,1922,7,20,APR26,1993,
+14800756,Gilberto Gil Uamusse,MOZ,M,,,,1867,0,20,APR26,1990,
+14806339,"Guambe, Joao Rubene",MOZ,M,,,,1938,8,40,APR26,2004,
+14810514,"Gundane, Benildo Dickson",MOZ,M,,,,1606,7,40,APR26,2005,
+14800373,Hayssan Abdul Arnaldo Afu,MOZ,M,,,,1592,2,40,APR26,2005,
+14802120,"Ignacio, Arroyo Mayo",MOZ,M,,NA,,1731,0,20,APR26,1984,i
+14801221,"Jamal, Hamid Harmon Gulamo",MOZ,M,CM,,,2005,7,20,APR26,1999,
+14809931,"Jangua, Lourenco augusto",MOZ,M,,,,1604,6,40,APR26,1999,
+14802570,"Jazire, Delroy Anesu",MOZ,M,,,,1584,6,40,APR26,2010,
+14805936,"Jazire, Jermaine Tafar",MOZ,M,,,,1702,0,40,APR26,2014,i
+14800730,Joao Farisse,MOZ,M,CM,,,1971,8,20,APR26,2004,
+14810450,"Joarce, Jorge Paulino Bondo",MOZ,M,,,,1690,7,40,APR26,2007,
+14805596,Jossar Luis Sale,MOZ,M,,,,1720,9,40,APR26,2008,
+14803658,"Junior, Egidio Inocencio",MOZ,M,,,,1711,9,40,APR26,2003,
+14800683,"Langa, Domingos",MOZ,M,,,,1545,4,40,APR26,1958,
+14801310,"Langa, Mario Emerson",MOZ,M,,,,1728,5,20,APR26,1994,
+14809729,"Mabote, Abnerson Armando",MOZ,M,,,,1674,0,40,APR26,2007,
+14801159,"Mabote, Sa Adolfo",MOZ,M,,,,1704,4,20,APR26,1956,
+14809478,"Macamo Junior, Manuel Domingos",MOZ,M,,,,1774,9,40,APR26,2007,
+14807998,"Machava, Armando Bernardo",MOZ,M,,,,1510,1,40,APR26,2013,
+14807742,"Machava, Judencio Bernardo",MOZ,M,,,,1469,2,40,APR26,2008,
+14801248,"Macuacua, Marcos Simao",MOZ,M,,,,1829,0,20,APR26,1998,
+14802287,"Magagule, Senzo Frederico",MOZ,M,,,,1885,7,20,APR26,2002,
+14802023,"Mahassule, Jubilio Alberto",MOZ,M,,,,1634,4,40,APR26,2000,
+14809427,"Mahohoma, Farai",MOZ,M,,,,1506,6,40,APR26,2007,
+14810387,"Malate, Malik Menelik Da Silva",MOZ,M,,,,1477,2,40,APR26,2011,
+14800209,"Malenda, Ana",MOZ,F,,,,1534,0,20,APR26,1987,w
+14810158,"Maliquete, Herminia Esmeraldo Luciano",MOZ,F,,,,1439,7,40,APR26,2010,w
+14806258,"Manganhe, Edson Artur Feliciano",MOZ,M,,,,1702,4,40,APR26,2000,
+14803887,"Manhonha, Viegas Rocha",MOZ,M,,,,1662,5,40,APR26,1986,
+14800802,"Manjate, Celso Andre",MOZ,M,,,,1909,0,20,APR26,2001,
+14801434,"Mariano, Gerson",MOZ,M,,,,1727,7,40,APR26,1989,
+14803933,"Maringa, Silenio Elves",MOZ,M,,,,1591,6,40,APR26,2003,
+14809966,"Miguel, Luis Pascoal",MOZ,M,,,,1543,5,40,APR26,1992,
+14810034,"Mucavel, Marcelo Joao",MOZ,M,,,,1613,4,40,APR26,1996,
+14800527,Mutumane Carlos,MOZ,M,,,,1790,8,40,APR26,1997,
+14803569,"Naftal, Firmino Fernando",MOZ,M,,,,1733,6,40,APR26,1973,
+14801027,Naira Sinoia,MOZ,F,,,,1593,8,20,APR26,2007,w
+14801302,"Napoleao, Lourenco",MOZ,M,CM,,,1958,9,20,APR26,1995,
+14807009,"Neve, Anderson Mario",MOZ,M,,,,1470,5,40,APR26,2011,
+14802945,"Ngovene, Alberto Jose",MOZ,M,,,,1575,0,40,APR26,1964,
+14802848,"Nombora, William dos Santos",MOZ,M,,,,1712,0,40,APR26,1993,i
+14809290,"Norte, Jorge Onesio Renato",MOZ,M,,,,1638,7,40,APR26,2003,
+14800098,"Paiva, Donaldo",MOZ,M,FM,,,2182,9,20,APR26,1991,
+14806304,"Palma, Estenezelao Rosa Rodrigues",MOZ,M,,,,1489,6,40,APR26,1997,
+14805316,"Posso, Bruno Eduardo",MOZ,M,,,,1601,0,20,APR26,1996,i
+14801345,"Poyiatzis,Alexandros Michali Ribeiro e Silva",MOZ,M,,,,1673,0,,APR26,1997,i
+14806509,"Rambique, Nilton Paulo",MOZ,M,,,,1720,3,40,APR26,2004,
+14800284,"Sande, Avertino",MOZ,M,,,,1913,8,20,APR26,1994,
+14802171,"Sandramo, Chineva Rufino",MOZ,F,WCM,WCM,,1565,4,20,APR26,2007,w
+14803240,"Sarajabo, Jojo Abdul",MOZ,M,,,,1691,3,40,APR26,2003,
+14807564,"Sozinho, Lidia Jose",MOZ,F,,,,1636,1,40,APR26,2003,w
+14803151,"Tajabo, Cerramildo Lussane",MOZ,M,,,,1739,8,40,APR26,2004,
+14801493,"Taremba, Edson",MOZ,M,,,,1573,0,40,APR26,1993,i
+14807530,"Tsope, Helio Atonio",MOZ,M,,,,1505,5,40,APR26,2000,
+14810565,"Tule, Zefanias Manuel",MOZ,M,,,,1600,6,40,APR26,2008,
+14802546,"Ualane, Celso Dario",MOZ,M,,,,1678,0,40,APR26,1999,
+14804662,"Uamusse, Alfeu Filimao",MOZ,M,,,,1719,6,40,APR26,1991,
+14805839,"Uamusse, Stelio Henriques",MOZ,M,,,,1840,7,40,APR26,1994,
+14800403,Vasco Mateus Felizardo Viageiro,MOZ,M,,,,1994,7,20,APR26,2003,
+14810506,"Viageiro, Victor Felizardo",MOZ,M,,,,1735,7,40,APR26,1997,
+14803704,"Victorino Mafuca, Amelia Carlos",MOZ,F,,,,1492,0,40,APR26,2002,w
+14800144,"Vilhete, Vania Fausto Da T.",MOZ,F,WIM,WIM,,1778,4,20,APR26,1985,w
+14801817,"Viola, Napoleao D Henriques",MOZ,M,,,,1665,2,40,APR26,1987,
+14801523,"Zavala, Fernando",MOZ,M,,,,1778,5,40,APR26,1995,
+14802902,"Zimba, Domingos Fabiao",MOZ,M,,,,1530,1,40,APR26,1966,
+14810379,"Zimila, Antonio Joao",MOZ,M,,,,1463,0,40,APR26,1999,
