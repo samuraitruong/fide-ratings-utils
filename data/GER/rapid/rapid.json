@@ -9420,21 +9420,6 @@
     "Flag": "w"
   },
   {
-    "ID Number": "34651004",
-    "Name": "Bergmann, Adrian",
-    "Fed": "GER",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1571",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "APR26",
-    "B-day": "2000",
-    "Flag": ""
-  },
-  {
     "ID Number": "533052085",
     "Name": "Bergmann, Adrian",
     "Fed": "GER",
@@ -9447,6 +9432,21 @@
     "K": "40",
     "RatingMonth": "APR26",
     "B-day": "2009",
+    "Flag": ""
+  },
+  {
+    "ID Number": "34651004",
+    "Name": "Bergmann, Adrian",
+    "Fed": "GER",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1571",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "APR26",
+    "B-day": "2000",
     "Flag": ""
   },
   {
@@ -108255,21 +108255,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "533032149",
-    "Name": "Roth, Thomas",
-    "Fed": "GER",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1686",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "APR26",
-    "B-day": "2002",
-    "Flag": ""
-  },
-  {
     "ID Number": "12965588",
     "Name": "Roth, Thomas",
     "Fed": "GER",
@@ -108283,6 +108268,21 @@
     "RatingMonth": "APR26",
     "B-day": "1987",
     "Flag": "i"
+  },
+  {
+    "ID Number": "533032149",
+    "Name": "Roth, Thomas",
+    "Fed": "GER",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1686",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "APR26",
+    "B-day": "2002",
+    "Flag": ""
   },
   {
     "ID Number": "12940895",
@@ -132030,21 +132030,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12955086",
-    "Name": "Thomas, Andreas",
-    "Fed": "GER",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1799",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "APR26",
-    "B-day": "1970",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34692886",
     "Name": "Thomas, Andreas",
     "Fed": "GER",
@@ -132057,6 +132042,21 @@
     "K": "40",
     "RatingMonth": "APR26",
     "B-day": "1957",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "12955086",
+    "Name": "Thomas, Andreas",
+    "Fed": "GER",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1799",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "APR26",
+    "B-day": "1970",
     "Flag": "i"
   },
   {
