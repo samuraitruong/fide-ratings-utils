@@ -54316,7 +54316,7 @@
   },
   {
     "ID Number": "144446942",
-    "Name": "Pena Gomez, Dilan Andres",
+    "Name": "Pena Gomez, Dylan Andres",
     "Fed": "COL",
     "Sex": "M",
     "Title": "",
@@ -58890,21 +58890,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "144401779",
-    "Name": "Ramirez Rodriguez, Alejandro",
-    "Fed": "COL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1711",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "APR26",
-    "B-day": "1990",
-    "Flag": "i"
-  },
-  {
     "ID Number": "4421639",
     "Name": "Ramirez Rodriguez, Alejandro",
     "Fed": "COL",
@@ -58913,6 +58898,21 @@
     "WTit": "",
     "OTit": "",
     "Rating": "1745",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "APR26",
+    "B-day": "1990",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "144401779",
+    "Name": "Ramirez Rodriguez, Alejandro",
+    "Fed": "COL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1711",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "APR26",
@@ -75249,7 +75249,7 @@
     "OTit": "",
     "Rating": "1849",
     "Gms": "0",
-    "K": "20",
+    "K": "",
     "RatingMonth": "APR26",
     "B-day": "2000",
     "Flag": "i"

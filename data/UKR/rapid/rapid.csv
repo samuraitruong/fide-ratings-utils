@@ -20,8 +20,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14121310,"Abramova, Marina",UKR,F,,,,1921,0,20,APR26,1970,wi
 14131951,"Abramyan, Artur",UKR,M,,,,2133,0,20,APR26,1995,i
 34143971,"Achinovich, Oleg",UKR,M,,,,2098,16,40,APR26,2012,
-14195917,"Adamchuk, Dmytro",UKR,M,,,,1577,0,40,APR26,2008,
 14187710,"Adamchuk, Dmytro",UKR,M,,,,1826,0,20,APR26,1995,i
+14195917,"Adamchuk, Dmytro",UKR,M,,,,1577,0,40,APR26,2008,
 529008778,"Adamchuk, Illia",UKR,M,,,,1421,0,40,APR26,2010,
 34132961,"Adamchuk, Tadei",UKR,M,,,,1523,0,40,APR26,2007,i
 529013941,"Adamenko, Danylo",UKR,M,,,,1428,0,40,APR26,2015,
@@ -2995,9 +2995,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34181709,"Ivanov, Illia",UKR,M,,,,1477,2,40,APR26,2009,
 34118829,"Ivanov, Ivan Petr",UKR,M,,,,1470,14,20,APR26,1958,
 14162318,"Ivanov, Konstantin",UKR,M,,,,2018,0,20,APR26,1994,i
-34155198,"Ivanov, Maksym",UKR,M,,,,1542,0,40,APR26,2008,i
-34137505,"Ivanov, Maksym",UKR,M,,,,1522,0,40,APR26,2005,i
 529039061,"Ivanov, Maksym",UKR,M,,,,1584,0,40,APR26,2017,
+34137505,"Ivanov, Maksym",UKR,M,,,,1522,0,40,APR26,2005,i
+34155198,"Ivanov, Maksym",UKR,M,,,,1542,0,40,APR26,2008,i
 34176039,"Ivanov, Mykyta",UKR,M,,,,1669,15,40,APR26,2014,
 34130268,"Ivanov, Nikita D",UKR,M,,,,1483,0,40,APR26,2006,i
 14133873,"Ivanov, Nikolay",UKR,M,,,,1836,0,20,APR26,1977,i
@@ -4044,16 +4044,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34188851,"Kotsiuk, Kirill",UKR,M,,,,1530,5,40,APR26,2013,
 14199602,"Kotskovych, Bohdan",UKR,M,,,,1673,0,20,APR26,2007,
 34136827,"Kotskovych, Mykhailo",UKR,M,,,,1595,0,40,APR26,2008,i
-34140786,"Kotskovych, Vasyl",UKR,M,,,,1507,0,40,APR26,2010,
 14172500,"Kotskovych, Vasyl",UKR,M,,,,1694,0,20,APR26,1960,
+34140786,"Kotskovych, Vasyl",UKR,M,,,,1507,0,40,APR26,2010,
 34129960,"Kotsur, Mykhailo",UKR,M,,,,1764,0,,APR26,2000,i
 34142991,"Kotsur, Yaroslav",UKR,M,,,,1522,0,40,APR26,2009,i
 14101483,"Koutsin, Sergey",UKR,M,IM,,,2381,0,10,APR26,1957,i
 34187367,"Kovach, Dmytro",UKR,M,,,,1524,0,40,APR26,2011,i
 14144751,"Koval, Anatoly",UKR,M,,,,2127,0,20,APR26,1989,i
 14175932,"Koval, Anatoly",UKR,M,,,,1895,0,20,APR26,1961,i
-529022096,"Koval, Andrii",UKR,M,,,,1665,0,40,APR26,1994,
 34176560,"Koval, Andrii",UKR,M,,,,1459,0,40,APR26,2013,i
+529022096,"Koval, Andrii",UKR,M,,,,1665,0,40,APR26,1994,
 34117350,"Koval, Andriy",UKR,M,,,,1495,0,20,APR26,1968,i
 14144760,"Koval, Artem",UKR,M,FM,,,2268,0,20,APR26,1990,i
 14179547,"Koval, Dariy",UKR,M,,,,1780,0,40,APR26,2008,i
@@ -4062,8 +4062,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34144587,"Koval, Halyna",UKR,F,,,,1502,0,20,APR26,1969,wi
 34158642,"Koval, Illya",UKR,M,,,,1458,0,40,APR26,2009,i
 34190147,"Koval, Maksym",UKR,M,,,,1863,21,40,APR26,2015,
-34117970,"Koval, Nazar",UKR,M,,,,1535,0,20,APR26,1981,i
 34189882,"Koval, Nazar",UKR,M,,,,1654,11,40,APR26,2008,
+34117970,"Koval, Nazar",UKR,M,,,,1535,0,20,APR26,1981,i
 529017220,"Koval, Nazarij",UKR,M,,,,1608,0,40,APR26,2011,i
 34186158,"Koval, Oleksii",UKR,M,,,,1555,0,40,APR26,2009,i
 529018897,"Koval, Sofiia",UKR,F,,,,1520,0,40,APR26,2013,w
@@ -4087,8 +4087,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14169703,"Kovalchuk, Tania",UKR,F,,,,1693,0,20,APR26,2001,wi
 14170990,"Kovalchuk, Valentyn",UKR,M,,,,1809,0,20,APR26,1993,i
 14131897,"Kovalchuk, Vasyl",UKR,M,,,,1825,0,20,APR26,1973,i
-529028590,"Kovalchuk, Vasyl",UKR,M,,,,1534,5,40,APR26,1957,
 14146487,"Kovalchuk, Vasyl",UKR,M,,,,1698,0,20,APR26,1955,
+529028590,"Kovalchuk, Vasyl",UKR,M,,,,1534,5,40,APR26,1957,
 14191334,"Kovalchuk, Victor",UKR,M,,,,1969,9,20,APR26,2007,
 34115340,"Kovalchuk, Vitaliy",UKR,M,,,,1846,0,20,APR26,1984,i
 14129337,"Kovalchuk, Vladimir",UKR,M,FM,,,1974,0,20,APR26,1982,
@@ -4468,8 +4468,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34192727,"Kukhar, Volodymyr",UKR,M,,,,1648,0,20,APR26,1994,
 34164278,"Kukharchuk, Myroslav",UKR,M,,,,1784,0,40,APR26,2011,
 34100482,"Kukharsky, Oleg",UKR,M,,,,1666,0,40,APR26,2009,i
-14166119,"Kukharuk, Oleksandr",UKR,M,,,,1821,0,20,APR26,2003,i
 34132520,"Kukharuk, Oleksandr",UKR,M,,,,1649,0,40,APR26,2011,
+14166119,"Kukharuk, Oleksandr",UKR,M,,,,1821,0,20,APR26,2003,i
 34183884,"Kukhta, Artem",UKR,M,,,,1488,0,40,APR26,2010,
 34122486,"Kukla, Petro",UKR,M,,,,1843,0,20,APR26,1960,i
 529032695,"Kuklin, Lev",UKR,M,,,,1812,0,40,APR26,1971,
@@ -4840,8 +4840,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34126651,"Leleko, Leonid",UKR,M,,,,1475,0,40,APR26,2010,i
 529014492,"Lelyiavyn, Artem",UKR,M,,,,1458,0,20,APR26,1983,
 529014506,"Lelyiavyn, Nazar",UKR,M,,,,1830,16,40,APR26,2012,
-14167492,"Lemak, Mykhaylo",UKR,M,,,,1789,0,20,APR26,1952,i
 14177129,"Lemak, Mykhaylo",UKR,M,,,,1440,0,20,APR26,1938,i
+14167492,"Lemak, Mykhaylo",UKR,M,,,,1789,0,20,APR26,1952,i
 34127801,"Lemba, Albert",UKR,M,,,,2043,0,40,APR26,2008,i
 14106027,"Lembak, Jurij",UKR,M,FM,,,2173,0,20,APR26,1965,
 34107886,"Lemekh, Serhiy",UKR,M,,,,1707,0,20,APR26,1963,i
@@ -5179,8 +5179,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14106132,"Lysak, Igor",UKR,M,IM,,,2180,0,20,APR26,1984,i
 14145707,"Lysanov, Viktor",UKR,M,,,,1987,0,20,APR26,1950,i
 14115867,"Lysenko, Albina",UKR,F,,,,1875,0,20,APR26,1987,wi
-34121480,"Lysenko, Andrii",UKR,M,,,,1859,0,20,APR26,1974,i
 34161597,"Lysenko, Andrii",UKR,M,,,,1830,0,20,APR26,1984,i
+34121480,"Lysenko, Andrii",UKR,M,,,,1859,0,20,APR26,1974,i
 14114631,"Lysenko, Evgen",UKR,M,,,,1948,0,20,APR26,1937,i
 14176076,"Lysenko, Grygoriy",UKR,M,,,,1795,0,20,APR26,1953,i
 529011086,"Lysenko, Iryna",UKR,F,,,,1638,7,40,APR26,2008,w
@@ -5431,8 +5431,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14193760,"Martinuk, Nazar",UKR,M,,,,1686,0,20,APR26,1998,i
 14120208,"Martiyan, Alexandr",UKR,M,,,,2113,0,20,APR26,1974,i
 34141073,"Marton, Mykhailo",UKR,M,,,,1623,0,40,APR26,2011,i
-529046408,"Martseniuk, Artem",UKR,M,,,,1472,8,40,APR26,2011,
 14196220,"Martseniuk, Artem",UKR,M,,,,1541,0,20,APR26,2006,i
+529046408,"Martseniuk, Artem",UKR,M,,,,1472,8,40,APR26,2011,
 529032270,"Martseniuk, Matviy",UKR,M,,,,1623,0,40,APR26,2016,
 34164065,"Martseniuk, Mikhail",UKR,M,,,,1943,0,20,APR26,2003,i
 529032288,"Martseniuk, Nazar",UKR,M,,,,1648,0,40,APR26,2009,
@@ -5662,8 +5662,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 529031150,"Melnyk, Michael",UKR,M,,,,1517,0,40,APR26,2014,
 529036321,"Melnyk, Myroslava",UKR,F,,,,1422,0,40,APR26,2006,w
 14196310,"Melnyk, Nazar",UKR,M,,,,1891,0,20,APR26,2003,i
-529014522,"Melnyk, Oleksandr",UKR,M,,,,1432,0,40,APR26,1963,
 529014395,"Melnyk, Oleksandr",UKR,M,,,,1744,0,40,APR26,1989,i
+529014522,"Melnyk, Oleksandr",UKR,M,,,,1432,0,40,APR26,1963,
 14172526,"Melnyk, Olena",UKR,F,,,,1542,0,40,APR26,2008,wi
 34101390,"Melnyk, Olexiy",UKR,M,,,,1840,0,20,APR26,1963,i
 14158914,"Melnyk, Roman",UKR,M,,,,1805,0,20,APR26,2006,i
@@ -5997,8 +5997,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14197634,"Muzyka, Ilona",UKR,F,,,,1578,0,40,APR26,2005,wi
 34162550,"Muzyka, Tamila",UKR,F,,,,1734,0,40,APR26,1984,w
 14108194,"Muzyka, Vasily",UKR,M,,,,2002,0,20,APR26,1975,i
-529002109,"Muzyka, Volodymyr",UKR,M,,,,1532,0,40,APR26,1988,i
 34102191,"Muzyka, Volodymyr",UKR,M,,,,1706,0,20,APR26,1967,i
+529002109,"Muzyka, Volodymyr",UKR,M,,,,1532,0,40,APR26,1988,i
 14180626,"Muzyka, Yosyp",UKR,M,,,,1644,0,20,APR26,1948,i
 34191119,"Muzyria, Maxim",UKR,M,,,,2026,0,40,APR26,2008,
 529000637,"Myhal, Matviy",UKR,M,,,,1434,7,40,APR26,2014,
@@ -7081,8 +7081,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 529028744,"Polishchuk, Mark",UKR,M,,,,1474,0,40,APR26,2016,
 34188940,"Polishchuk, Nikita",UKR,M,,,,1571,5,40,APR26,2015,
 14106019,"Polishchuk, Oleg",UKR,M,,,,2025,9,20,APR26,1971,
-34141197,"Polishchuk, Oleksandr",UKR,M,,,,1505,4,40,APR26,2008,
 34194380,"Polishchuk, Oleksandr",UKR,M,,,,1747,0,40,APR26,1977,i
+34141197,"Polishchuk, Oleksandr",UKR,M,,,,1505,4,40,APR26,2008,
 34140549,"Polishchuk, Oleksiy",UKR,M,,,,1526,0,40,APR26,2011,i
 34191631,"Polishchuk, Pavlo",UKR,M,,,,1659,0,40,APR26,1979,i
 14128624,"Polishchuk, Serhii",UKR,M,,,,1708,0,20,APR26,1974,i
@@ -7699,8 +7699,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14146738,"Rudenko, Ivan",UKR,M,,,,1787,0,20,APR26,1949,
 34198610,"Rudenko, Ivan",UKR,M,,,,1446,8,40,APR26,2013,
 14194970,"Rudenko, Matvii",UKR,M,,,,1624,0,40,APR26,2009,
-34183248,"Rudenko, Oleksandr",UKR,M,,,,1706,0,40,APR26,1968,i
 14144395,"Rudenko, Oleksandr",UKR,M,,,,1855,0,20,APR26,1951,i
+34183248,"Rudenko, Oleksandr",UKR,M,,,,1706,0,40,APR26,1968,i
 14162300,"Rudenko, Olexandr",UKR,M,,,,1685,0,20,APR26,2002,i
 14122880,"Rudenko, Serhiy",UKR,M,,,,1951,0,20,APR26,1990,i
 14128993,"Rudenko, Stanislav",UKR,M,,,,1808,0,20,APR26,1940,i
@@ -7947,8 +7947,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14183226,"Savchenko, Volodymyr",UKR,M,,,,1999,0,20,APR26,1963,i
 14172259,"Savchuk, Andriy",UKR,M,,,,1599,0,40,APR26,1984,
 529035457,"Savchuk, Bohdan",UKR,M,,,,1606,9,40,APR26,2011,
-34190546,"Savchuk, Bohdan",UKR,M,,,,1439,0,40,APR26,2008,i
 34189840,"Savchuk, Bohdan",UKR,M,,,,1551,0,40,APR26,2009,i
+34190546,"Savchuk, Bohdan",UKR,M,,,,1439,0,40,APR26,2008,i
 14143690,"Savchuk, Igor",UKR,M,,,,1734,0,20,APR26,1964,i
 14172267,"Savchuk, Ivan",UKR,M,,,,1941,0,20,APR26,1988,i
 14131447,"Savchuk, Julia",UKR,F,,,,1825,0,20,APR26,1995,wi
@@ -8068,8 +8068,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34119701,"Semenov, Stepan",UKR,M,,,,1602,0,40,APR26,2008,i
 14101319,"Semenov, Valeri",UKR,M,FM,,,2219,0,20,APR26,1956,i
 14159511,"Semenov, Vladimir",UKR,M,,,,1930,0,20,APR26,1948,
-529023785,"Semenova, Alina",UKR,F,,,,1821,0,40,APR26,2000,w
 529046246,"Semenova, Alina",UKR,F,,,,1541,6,40,APR26,1987,w
+529023785,"Semenova, Alina",UKR,F,,,,1821,0,40,APR26,2000,w
 529014050,"Semenova, Myroslava",UKR,F,,,,1428,0,40,APR26,2014,w
 34152350,"Semenova, Natalia",UKR,F,,,,1556,0,20,APR26,1995,wi
 14175584,"Semenukha, Nikita",UKR,M,,,,2138,44,20,APR26,2004,
@@ -8264,8 +8264,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34192395,"Shcherbiy, Igor",UKR,M,,,,1561,0,40,APR26,1982,
 14126540,"Shcherbov, Hryhorii",UKR,M,FM,,,2010,0,20,APR26,1961,
 529031583,"Shcherbyna, Kyrylo",UKR,M,,,,1466,1,40,APR26,2012,
-34199519,"Shcherbyna, Maksym",UKR,M,,,,1793,0,40,APR26,2004,i
 529006325,"Shcherbyna, Maksym",UKR,M,,,,1677,0,40,APR26,2014,i
+34199519,"Shcherbyna, Maksym",UKR,M,,,,1793,0,40,APR26,2004,i
 34147861,"Shcherbyna, Mark",UKR,M,,,,1923,0,40,APR26,2011,
 34199764,"Shcherbyna, Serhii",UKR,M,,,,1468,0,40,APR26,1972,i
 34199772,"Shcherbyna, Taras",UKR,M,,,,1554,0,40,APR26,1999,i
@@ -9208,8 +9208,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34153705,"Sydorchuk, Volodymyr",UKR,M,,,,1797,0,20,APR26,1993,i
 14149346,"Sydorenko, Anatoly",UKR,M,,,,1873,0,20,APR26,1952,i
 34198237,"Sydorenko, Anton",UKR,M,,,,1648,0,40,APR26,2011,
-34186530,"Sydorenko, Denys",UKR,M,,,,1460,0,40,APR26,2015,
 529031109,"Sydorenko, Denys",UKR,M,,,,1590,3,40,APR26,2009,
+34186530,"Sydorenko, Denys",UKR,M,,,,1460,0,40,APR26,2015,
 34120084,"Sydorenko, Grigoriy",UKR,M,,,,1548,0,40,APR26,2008,i
 34186050,"Sydorenko, Nikita",UKR,M,,,,1553,0,40,APR26,2010,i
 14163365,"Sydoryak, Vira",UKR,F,,,,1851,0,20,APR26,1999,wi
@@ -9293,8 +9293,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14176343,"Tarasenko, Mikhail",UKR,M,,,,1946,0,40,APR26,2005,i
 34166343,"Tarasenko, Ruslan",UKR,M,,,,1562,0,40,APR26,2014,
 14157713,"Tarasenko, Vladislav",UKR,M,,,,1974,0,20,APR26,2005,i
-14162458,"Tarasenko, Yaroslav",UKR,M,,,,1718,0,20,APR26,1937,i
 529012821,"Tarasenko, Yaroslav",UKR,M,,,,1442,0,40,APR26,2013,
+14162458,"Tarasenko, Yaroslav",UKR,M,,,,1718,0,20,APR26,1937,i
 529008247,"Tarasiuk, Oleksandr",UKR,M,,,,1760,0,40,APR26,1980,i
 14133075,"Tarasiuk, Ruslan",UKR,M,,,,1864,0,20,APR26,1972,i
 14179857,"Tarasiuk, Serhiy",UKR,M,,,,1882,0,20,APR26,1968,i
@@ -9322,8 +9322,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14170523,"Tatara, Mykola",UKR,M,,,,1765,0,20,APR26,1951,
 529031842,"Tatarchuk, Myhailo",UKR,M,,,,1471,0,40,APR26,1959,
 34189726,"Tatarchyk, Volodymyr",UKR,M,,,,1663,0,40,APR26,1957,
-14177145,"Tatarenkov, Mykhaylo",UKR,M,,,,1669,0,20,APR26,1942,
 14176408,"Tatarenkov, Mykhaylo",UKR,M,,,,1870,0,20,APR26,1950,i
+14177145,"Tatarenkov, Mykhaylo",UKR,M,,,,1669,0,20,APR26,1942,
 14114437,"Tatarinov, Maxim",UKR,M,,,,2091,0,20,APR26,1982,
 14164736,"Tatarska, Olga",UKR,F,,,,1612,0,20,APR26,2002,wi
 14169347,"Tatarska, Veronika",UKR,F,,,,1659,0,20,APR26,1971,wi
@@ -10092,8 +10092,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34121706,"Volokha, Oleksandr",UKR,M,,,,1719,0,20,APR26,1980,i
 14107090,"Volokitin, Andrei",UKR,M,GM,,,2513,0,10,APR26,1986,
 34101357,"Volos, Illia",UKR,M,,,,1659,0,40,APR26,2009,i
-34181660,"Voloshchuk, Andrii",UKR,M,,,,1465,0,40,APR26,2009,i
 529015308,"Voloshchuk, Andrii",UKR,M,,,,1624,0,40,APR26,1981,
+34181660,"Voloshchuk, Andrii",UKR,M,,,,1465,0,40,APR26,2009,i
 34152679,"Voloshchuk, Andrii",UKR,M,,,,1887,0,20,APR26,1978,
 14162202,"Voloshchuk, Iliya",UKR,M,,,,2156,0,20,APR26,2004,i
 529003865,"Voloshchuk, Oleksandr",UKR,M,,,,1565,0,40,APR26,2010,i
@@ -10170,8 +10170,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14110563,"Vovk, Anastasiia",UKR,F,WGM,WGM,,2040,0,20,APR26,1985,wi
 14114470,"Vovk, Andriy",UKR,M,GM,,,2538,0,10,APR26,1991,i
 529043085,"Vovk, Marko",UKR,M,,,,1552,6,40,APR26,2017,
-529023459,"Vovk, Oleksandr",UKR,M,,,,1492,0,40,APR26,2008,
 529028876,"Vovk, Oleksandr",UKR,M,,,,1633,0,40,APR26,1973,
+529023459,"Vovk, Oleksandr",UKR,M,,,,1492,0,40,APR26,2008,
 14113490,"Vovk, Orest",UKR,M,FM,,,2392,0,10,APR26,1982,i
 14104687,"Vovk, Viktor",UKR,M,,,,2090,0,20,APR26,1960,i
 14127695,"Vovk, Viktor",UKR,M,,,,1740,0,20,APR26,1964,
