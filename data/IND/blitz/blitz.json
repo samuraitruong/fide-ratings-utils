@@ -11265,21 +11265,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "33476675",
-    "Name": "Aditya Gupta",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1448",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAY26",
-    "B-day": "2014",
-    "Flag": "i"
-  },
-  {
     "ID Number": "429071518",
     "Name": "Aditya Gupta",
     "Fed": "IND",
@@ -11292,6 +11277,21 @@
     "K": "20",
     "RatingMonth": "MAY26",
     "B-day": "2005",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "33476675",
+    "Name": "Aditya Gupta",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1448",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAY26",
+    "B-day": "2014",
     "Flag": "i"
   },
   {
@@ -17655,21 +17655,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "531054218",
-    "Name": "Akshat Singh",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1536",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAY26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "429049989",
     "Name": "Akshat Singh",
     "Fed": "IND",
@@ -17683,6 +17668,21 @@
     "RatingMonth": "MAY26",
     "B-day": "2006",
     "Flag": ""
+  },
+  {
+    "ID Number": "531054218",
+    "Name": "Akshat Singh",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1536",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAY26",
+    "B-day": "2008",
+    "Flag": "i"
   },
   {
     "ID Number": "25774492",
@@ -79254,7 +79254,7 @@
     "OTit": "",
     "Rating": "1468",
     "Gms": "0",
-    "K": "40",
+    "K": "",
     "RatingMonth": "MAY26",
     "B-day": "2012",
     "Flag": ""
@@ -82995,21 +82995,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "33380023",
-    "Name": "Harsh Sharma",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1598",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "MAY26",
-    "B-day": "2002",
-    "Flag": ""
-  },
-  {
     "ID Number": "547078901",
     "Name": "Harsh Sharma",
     "Fed": "IND",
@@ -83022,6 +83007,21 @@
     "K": "40",
     "RatingMonth": "MAY26",
     "B-day": "2009",
+    "Flag": ""
+  },
+  {
+    "ID Number": "33380023",
+    "Name": "Harsh Sharma",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1598",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "MAY26",
+    "B-day": "2002",
     "Flag": ""
   },
   {
@@ -213150,21 +213150,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "547080124",
-    "Name": "Souradeep Das",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1520",
-    "Gms": "7",
-    "K": "40",
-    "RatingMonth": "MAY26",
-    "B-day": "2019",
-    "Flag": ""
-  },
-  {
     "ID Number": "88132358",
     "Name": "Souradeep Das",
     "Fed": "IND",
@@ -213177,6 +213162,21 @@
     "K": "40",
     "RatingMonth": "MAY26",
     "B-day": "2012",
+    "Flag": ""
+  },
+  {
+    "ID Number": "547080124",
+    "Name": "Souradeep Das",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1520",
+    "Gms": "7",
+    "K": "40",
+    "RatingMonth": "MAY26",
+    "B-day": "2019",
     "Flag": ""
   },
   {
@@ -223399,7 +223399,7 @@
     "Name": "Swaraj Palit",
     "Fed": "IND",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "1951",

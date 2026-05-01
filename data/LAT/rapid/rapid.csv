@@ -868,8 +868,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11648155,"Kalnins, Ervins",LAT,M,,,,1670,0,40,MAY26,2007,i
 11626992,"Kalnins, Girts",LAT,M,,,,1554,0,20,MAY26,1979,i
 11642998,"Kalnins, Kaspars",LAT,M,,,,1841,0,20,MAY26,1984,
-11607718,"Kalnins, Normunds",LAT,M,,,,1882,0,20,MAY26,1931,i
 11612037,"Kalnins, Normunds",LAT,M,,,,1738,0,20,MAY26,1962,i
+11607718,"Kalnins, Normunds",LAT,M,,,,1882,0,20,MAY26,1931,i
 11638516,"Kalnins, Reinis",LAT,M,,,,1564,0,40,MAY26,1997,i
 11604069,"Kalnins, Toms",LAT,M,,"AO,IO,SI",,2104,0,20,MAY26,1996,
 11640600,"Kalnins, Valters",LAT,M,,,,1539,0,20,MAY26,2004,i
@@ -1035,8 +1035,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11621460,"Kozlovs, Aleksandrs",LAT,M,,,,1481,0,40,MAY26,2005,i
 11625775,"Kozlovs, Pavels",LAT,M,,,,1438,0,40,MAY26,2010,i
 11608358,"Kozlovskis, Janis",LAT,M,,,,1711,0,20,MAY26,1944,i
-11646977,"Kozlovskis, Juris",LAT,M,,,,1415,0,40,MAY26,1986,
 11609869,"Kozlovskis, Juris",LAT,M,,,,1562,0,20,MAY26,1948,
+11646977,"Kozlovskis, Juris",LAT,M,,,,1415,0,40,MAY26,1986,
 11645113,"Kozlovskis, Marjans",LAT,M,,,,1430,6,40,MAY26,2015,
 11642211,"Kozulins, Kristaps",LAT,M,,,,1473,0,40,MAY26,1989,
 11611693,"Krainovs, Maksims",LAT,M,,,,1810,0,20,MAY26,1979,i
@@ -1641,7 +1641,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11654597,"Platais, Kristians",LAT,M,,,,1638,0,40,MAY26,2002,
 11612150,"Plate, Marks",LAT,M,,,,1720,0,20,MAY26,1984,i
 11651261,"Platinska, Magdalina",LAT,F,,,,1544,4,,MAY26,2016,w
-11622598,"Platonovs, Nikolajs",LAT,M,,,,2128,8,40,MAY26,2012,
+11622598,"Platonovs, Nikolajs",LAT,M,CM,,,2128,8,40,MAY26,2012,
 11617250,"Plauca, Lelde",LAT,F,,,,1413,0,40,MAY26,2009,wi
 11619147,"Plaucs, Maris",LAT,M,,,,1408,0,20,MAY26,2007,i
 11615320,"Plavaraja,Vanesa",LAT,F,,,,1467,0,20,MAY26,2006,wi
@@ -1727,7 +1727,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11600659,"Putka, Verners",LAT,M,FM,FT,,2370,0,10,MAY26,1977,
 11646861,"Putnina, Mudite",LAT,F,,,,1471,0,40,MAY26,1988,w
 11611928,"Puzina, Nikolajs",LAT,M,,,,1669,0,20,MAY26,1958,
-11650745,"Puzirevskis, Viktors",LAT,M,,,,1510,12,40,MAY26,2011,
+11650745,"Puzirevskis, Viktors",LAT,M,,,,1510,12,,MAY26,2011,
 11620706,"Puzulis, Martins",LAT,M,,,,1403,0,40,MAY26,2010,i
 11644397,"Radcenko, Igors",LAT,M,,,,1424,0,40,MAY26,2013,
 11613289,"Radionovs, Genrihs",LAT,M,,,,1436,0,40,MAY26,2008,i
@@ -1943,8 +1943,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11612860,"Sikalovs, Valerijs",LAT,M,,,,1657,0,20,MAY26,1948,i
 11629118,"Siksna, Agris",LAT,M,,,,1594,0,20,MAY26,1972,i
 11623110,"Silina, Marina",LAT,F,,,,1687,0,40,MAY26,1956,wi
-11649844,"Silins, Andrejs",LAT,M,,,,1432,0,40,MAY26,2004,i
 11620200,"Silins, Andrejs",LAT,M,,,,1567,0,20,MAY26,1954,i
+11649844,"Silins, Andrejs",LAT,M,,,,1432,0,40,MAY26,2004,i
 11634936,"Silins, Indrikis",LAT,M,,,,1546,0,20,MAY26,1990,i
 11609680,"Silins, Juris",LAT,M,,,,1645,0,20,MAY26,2003,
 11630981,"Silins, Miks",LAT,M,,,,1570,0,40,MAY26,2010,i

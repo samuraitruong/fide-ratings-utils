@@ -13035,21 +13035,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "11607718",
-    "Name": "Kalnins, Normunds",
-    "Fed": "LAT",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1882",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "MAY26",
-    "B-day": "1931",
-    "Flag": "i"
-  },
-  {
     "ID Number": "11612037",
     "Name": "Kalnins, Normunds",
     "Fed": "LAT",
@@ -13062,6 +13047,21 @@
     "K": "20",
     "RatingMonth": "MAY26",
     "B-day": "1962",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "11607718",
+    "Name": "Kalnins, Normunds",
+    "Fed": "LAT",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1882",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "MAY26",
+    "B-day": "1931",
     "Flag": "i"
   },
   {
@@ -15540,21 +15540,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "11646977",
-    "Name": "Kozlovskis, Juris",
-    "Fed": "LAT",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1415",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAY26",
-    "B-day": "1986",
-    "Flag": ""
-  },
-  {
     "ID Number": "11609869",
     "Name": "Kozlovskis, Juris",
     "Fed": "LAT",
@@ -15567,6 +15552,21 @@
     "K": "20",
     "RatingMonth": "MAY26",
     "B-day": "1948",
+    "Flag": ""
+  },
+  {
+    "ID Number": "11646977",
+    "Name": "Kozlovskis, Juris",
+    "Fed": "LAT",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1415",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAY26",
+    "B-day": "1986",
     "Flag": ""
   },
   {
@@ -24634,7 +24634,7 @@
     "Name": "Platonovs, Nikolajs",
     "Fed": "LAT",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "2128",
@@ -25929,7 +25929,7 @@
     "OTit": "",
     "Rating": "1510",
     "Gms": "12",
-    "K": "40",
+    "K": "",
     "RatingMonth": "MAY26",
     "B-day": "2011",
     "Flag": ""
@@ -29160,21 +29160,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "11649844",
-    "Name": "Silins, Andrejs",
-    "Fed": "LAT",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1432",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAY26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "11620200",
     "Name": "Silins, Andrejs",
     "Fed": "LAT",
@@ -29187,6 +29172,21 @@
     "K": "20",
     "RatingMonth": "MAY26",
     "B-day": "1954",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "11649844",
+    "Name": "Silins, Andrejs",
+    "Fed": "LAT",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1432",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAY26",
+    "B-day": "2004",
     "Flag": "i"
   },
   {
