@@ -14745,21 +14745,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12471992",
-    "Name": "Nguyen Khanh An",
-    "Fed": "VIE",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1498",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAY26",
-    "B-day": "2018",
-    "Flag": "w"
-  },
-  {
     "ID Number": "12458783",
     "Name": "Nguyen Khanh An",
     "Fed": "VIE",
@@ -14772,6 +14757,21 @@
     "K": "40",
     "RatingMonth": "MAY26",
     "B-day": "2016",
+    "Flag": "w"
+  },
+  {
+    "ID Number": "12471992",
+    "Name": "Nguyen Khanh An",
+    "Fed": "VIE",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1498",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAY26",
+    "B-day": "2018",
     "Flag": "w"
   },
   {
@@ -15570,21 +15570,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12454915",
-    "Name": "Nguyen Minh Phuc",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1598",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAY26",
-    "B-day": "2016",
-    "Flag": ""
-  },
-  {
     "ID Number": "12497622",
     "Name": "Nguyen Minh Phuc",
     "Fed": "VIE",
@@ -15597,6 +15582,21 @@
     "K": "40",
     "RatingMonth": "MAY26",
     "B-day": "2017",
+    "Flag": ""
+  },
+  {
+    "ID Number": "12454915",
+    "Name": "Nguyen Minh Phuc",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1598",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAY26",
+    "B-day": "2016",
     "Flag": ""
   },
   {
@@ -16065,21 +16065,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12469955",
-    "Name": "Nguyen Nhat Minh",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1612",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAY26",
-    "B-day": "2012",
-    "Flag": ""
-  },
-  {
     "ID Number": "12437549",
     "Name": "Nguyen Nhat Minh",
     "Fed": "VIE",
@@ -16093,6 +16078,21 @@
     "RatingMonth": "MAY26",
     "B-day": "2009",
     "Flag": "i"
+  },
+  {
+    "ID Number": "12469955",
+    "Name": "Nguyen Nhat Minh",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1612",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAY26",
+    "B-day": "2012",
+    "Flag": ""
   },
   {
     "ID Number": "12431729",
@@ -16110,21 +16110,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "561000809",
-    "Name": "Nguyen Nhat Nam",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1458",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAY26",
-    "B-day": "2017",
-    "Flag": ""
-  },
-  {
     "ID Number": "12473340",
     "Name": "Nguyen Nhat Nam",
     "Fed": "VIE",
@@ -16137,6 +16122,21 @@
     "K": "40",
     "RatingMonth": "MAY26",
     "B-day": "2015",
+    "Flag": ""
+  },
+  {
+    "ID Number": "561000809",
+    "Name": "Nguyen Nhat Nam",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1458",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAY26",
+    "B-day": "2017",
     "Flag": ""
   },
   {
@@ -26880,18 +26880,18 @@
     "Flag": "w"
   },
   {
-    "ID Number": "12405957",
+    "ID Number": "12468355",
     "Name": "Tran Duc Anh",
     "Fed": "VIE",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1870",
+    "Rating": "1647",
     "Gms": "0",
     "K": "",
     "RatingMonth": "MAY26",
-    "B-day": "2000",
+    "B-day": "2007",
     "Flag": "i"
   },
   {
@@ -26910,18 +26910,18 @@
     "Flag": ""
   },
   {
-    "ID Number": "12468355",
+    "ID Number": "12405957",
     "Name": "Tran Duc Anh",
     "Fed": "VIE",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1647",
+    "Rating": "1870",
     "Gms": "0",
     "K": "",
     "RatingMonth": "MAY26",
-    "B-day": "2007",
+    "B-day": "2000",
     "Flag": "i"
   },
   {

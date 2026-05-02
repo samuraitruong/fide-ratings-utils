@@ -45465,21 +45465,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "429049989",
-    "Name": "Akshat Singh",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1616",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "MAY26",
-    "B-day": "2006",
-    "Flag": ""
-  },
-  {
     "ID Number": "531054218",
     "Name": "Akshat Singh",
     "Fed": "IND",
@@ -45492,6 +45477,21 @@
     "K": "40",
     "RatingMonth": "MAY26",
     "B-day": "2008",
+    "Flag": ""
+  },
+  {
+    "ID Number": "429049989",
+    "Name": "Akshat Singh",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1616",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "MAY26",
+    "B-day": "2006",
     "Flag": ""
   },
   {
@@ -143694,7 +143694,7 @@
     "OTit": "",
     "Rating": "1661",
     "Gms": "0",
-    "K": "40",
+    "K": "",
     "RatingMonth": "MAY26",
     "B-day": "2011",
     "Flag": ""
@@ -550215,21 +550215,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "35022415",
-    "Name": "Ravi Kumar",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "NA",
-    "OTit": "",
-    "Rating": "1634",
-    "Gms": "4",
-    "K": "20",
-    "RatingMonth": "MAY26",
-    "B-day": "1979",
-    "Flag": ""
-  },
-  {
     "ID Number": "46608176",
     "Name": "Ravi Kumar",
     "Fed": "IND",
@@ -550243,6 +550228,21 @@
     "RatingMonth": "MAY26",
     "B-day": "1985",
     "Flag": "i"
+  },
+  {
+    "ID Number": "35022415",
+    "Name": "Ravi Kumar",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "NA",
+    "OTit": "",
+    "Rating": "1634",
+    "Gms": "4",
+    "K": "20",
+    "RatingMonth": "MAY26",
+    "B-day": "1979",
+    "Flag": ""
   },
   {
     "ID Number": "35085611",
