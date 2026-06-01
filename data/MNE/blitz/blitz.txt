@@ -1,11 +1,11 @@
-ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA MAY26 Gms K  B-day Flag
+ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA JUN26 Gms K  B-day Flag
 16506723       Abdovic, Daris                                               MNE M                                1502  0   40 2010  i   
 918776         Abramovic, Dragoljub                                         MNE M                                2053  0   20 1958      
 16506693       Acimic, Anja                                                 MNE F                                1443  0   40 2008  wi  
 939811         Adrovic, Admir                                               MNE M                                2031  0   20 1989  i   
 16503465       Adrovic, Asmir                                               MNE M                                1908  0   20 1984  i   
 16508572       Adzic, Jovan                                                 MNE M                                1689  0   40 2009  i   
-16510437       Agic, Zejn                                                   MNE M                                1764  11  40 2017      
+16510437       Agic, Zejn                                                   MNE M                                1764  0   40 2017      
 909556         Agovic, Sadudin                                              MNE M                                1965  0   20 1960  i   
 16501098       Ajanovic, Berina                                             MNE F                                1630  0   20 1999  wi  
 16505735       Ajdarpasic, Cazim                                            MNE M                                1983  0   20 1954  i   
@@ -18,8 +18,8 @@ ID Number      Name                                                         Fed 
 919659         Aleksic, Nenad C                                             MNE M   FM                           2145  0   20 1969  i   
 936707         Alibasic, Mirto                                              MNE M                                2023  0   20 1967  i   
 16501632       Alivodic, Dario                                              MNE M   CM                           2148  0   20 2002  i   
-16502094       Andjelic, Djordje                                            MNE M                                2024  0   20 2005      
-16502086       Andjelic, Nikolina                                           MNE F                                1715  0   20 2002  w   
+16502094       Andjelic, Djordje                                            MNE M                                2013  24  20 2005      
+16502086       Andjelic, Nikolina                                           MNE F                                1715  0   20 2002  wi  
 16504569       Andjic, Borislav                                             MNE M                                1852  0   20 1963      
 921424         Andjic, Milonja                                              MNE M                                1944  0   20 1959      
 16502493       Andjic, Vladan                                               MNE M             NA                 2147  0   20 1984      
@@ -108,17 +108,17 @@ ID Number      Name                                                         Fed 
 16509390       Djendjinovic, Danilo                                         MNE M                                1757  0   40 2008  i   
 16509285       Djendjinovic, Ines                                           MNE F                                1609  0   20 2007  wi  
 16510445       Djokic, Slobodan                                             MNE M                                1687  0   20 1970  i   
-903930         Djokovic, Mirsad                                             MNE M                                2054  0   20 1970      
+903930         Djokovic, Mirsad                                             MNE M                                2054  23  20 1970      
 933872         Djonovic, Milorad                                            MNE M                                1980  0   20 1961  i   
-16500334       Djukanovic, Mitar                                            MNE M                                2088  0   20 1994      
+16500334       Djukanovic, Mitar                                            MNE M                                2035  24  20 1994      
 920304         Djukanovic, Sreten                                           MNE M   FM                           2233  0   20 1968      
 16508874       Djukic, Katarina                                             MNE F                                1926  0   40 2008  w   
-922412         Djukic, Nikola                                               MNE M   GM                           2516  0   10 1983      
+922412         Djukic, Nikola                                               MNE M   GM                           2533  23  10 1983      
 16509188       Djurisic, Lazar                                              MNE M                                1426  0   40 2012  i   
 16500849       Djurovic, Branimir                                           MNE M                                1819  0   20 1949  i   
 16507843       Djurovic, Marko                                              MNE M                                1843  0   20 1993  i   
-16503902       Djurovic, Peko                                               MNE M   FM                           2400  11  10 2006      
-931306         Draganic, Veljko                                             MNE M                                2283  0   10 1983      
+16503902       Djurovic, Peko                                               MNE M   FM                           2400  0   10 2006      
+931306         Draganic, Veljko                                             MNE M                                2274  17  10 1983      
 16512057       Dragojevic, Drazen                                           MNE M                                1561  0   20 1980      
 927260         Dragovic, Aleksandar                                         MNE M   FM                           2201  0   20 1967      
 900397         Drasko, Milan                                                MNE M   GM                           2358  0   10 1962      
@@ -133,7 +133,7 @@ ID Number      Name                                                         Fed 
 16509650       Dzeverdanovic, Damjan                                        MNE M                                1707  0   20 2006  i   
 16509668       Dzeverdanovic, Milos                                         MNE M                                1885  0   20 1972  i   
 16510127       Dzeverdanovic, Nikolina                                      MNE F                                1613  0   40 2009  w   
-16506669       Femic, Radonja                                               MNE M                                1664  11  20 1983      
+16506669       Femic, Radonja                                               MNE M                                1664  0   20 1983      
 16502124       Feratovic, Fahrudin                                          MNE M                                1906  0   20 1994  i   
 16506472       Gavranic, Aleksandar                                         MNE M                                1938  0   20 1988  i   
 903698         Geler, Aleksandar                                            MNE M   FM                           2129  0   20 1959  i   
@@ -142,23 +142,23 @@ ID Number      Name                                                         Fed 
 16510410       Glusica, Tadija                                              MNE M                                1418  0   40 2013      
 16510062       Golubovic, Minja                                             MNE F                                1453  0   40 2013  w   
 16503074       Golubovic, Radonja                                           MNE M                                1905  0   20 1950  i   
-16509226       Grbovic, Dino                                                MNE M                                2146  19  20 2005      
+16509226       Grbovic, Dino                                                MNE M                                2146  0   20 2005      
 906220         Grbovic, Veselin                                             MNE M   FM                           2070  0   20 1953  i   
 941743         Grdinic, Petar                                               MNE M                                1921  0   20 1994  i   
 16504666       Guberinic, Faruk                                             MNE M                                1814  0   20 1968      
 16502906       Guberinic, Miroslav                                          MNE M                                1682  0   20 1983      
-16500989       Gudelj, Miljan                                               MNE M                                1836  10  20 1993      
+16500989       Gudelj, Miljan                                               MNE M                                1836  0   20 1993      
 16505344       Guzina, Aleksandar                                           MNE M                                1717  0   20 2005  i   
 16508610       Gvozdenovic, Marija                                          MNE F                                1741  0   20 1984  wi  
 16503554       Gvozdenovic, Vladimir                                        MNE M                                2044  0   20 1974  i   
-16515048       Husovic, Enes                                                MNE M                                1834  11  40 2000      
-16504623       Husovic, Ervin                                               MNE M                                1846  10  20 1992      
+16515048       Husovic, Enes                                                MNE M                                1834  0   20 2000      
+16504623       Husovic, Ervin                                               MNE M                                1846  0   20 1992      
 909777         Husovic, Nusret                                              MNE M                                1865  0   20 1952      
 16503147       Ibra, Rahman                                                 MNE M                                1950  0   20 1953  i   
 16514017       Ilgnerov, Arkadii                                            MNE M                                1660  0   40 2010      
 4156021        Iljin, Artem                                                 MNE M   GM                           2437  0   10 1987  i   
 900095         Ivanovic, Bozidar                                            MNE M   GM                           2299  0   20 1946      
-16500857       Ivanovic, Ilija                                              MNE M                                1894  10  20 1966      
+16500857       Ivanovic, Ilija                                              MNE M                                1901  23  20 1966      
 16507410       Ivanovic, Mijo                                               MNE M                                1540  0   20 1988  i   
 16504976       Ivanovic, Tara                                               MNE F                                1639  0   20 2005  wi  
 903728         Ivanovic, Vojislav                                           MNE M                                2133  0   20 1954  i   
@@ -180,11 +180,11 @@ ID Number      Name                                                         Fed 
 16512847       Juskovic, Matija                                             MNE M                                1410  0   40 2008      
 932060         Kadic, Branislav                                             MNE M                                1949  0   20 1966      
 16512065       Kadovic, Tamara                                              MNE F                                1603  0   20 1997  w   
-14403803       Kadric, Denis                                                MNE M   GM                           2497  0   10 1995      
-921815         Kalezic, Blazo                                               MNE M   IM                           2449  0   10 1978      
+14403803       Kadric, Denis                                                MNE M   GM                           2522  24  10 1995      
+921815         Kalezic, Blazo                                               MNE M   IM                           2448  23  10 1978      
 16502698       Kalezic, Bojan                                               MNE M                                1929  0   20 2002  i   
 16513118       Kalmakov, Lev                                                MNE M                                1562  0   40 2016      
-932825         Kandic, Milojko                                              MNE M             NA                 1876  0   20 1978      
+932825         Kandic, Milojko                                              MNE M             NA                 1895  23  20 1978      
 16506073       Kankaras, Radovan                                            MNE M                                1772  0   20 1966  i   
 16513592       Kapidani, Hadi                                               MNE M                                1552  0   40 2012      
 943819         Karisik, Nenad                                               MNE M                                2149  0   20 1989      
@@ -192,7 +192,7 @@ ID Number      Name                                                         Fed 
 16510992       Kavaja, Dusan                                                MNE M                                1689  0   20 1999      
 16501730       Kekovic, Zarija                                              MNE M                                1890  0   20 1941  i   
 16500342       Kilibarda, Mitar                                             MNE M                                1971  0   20 1960  i   
-16500350       Kisic, Bozidar                                               MNE M   FM                           2218  0   20 1996      
+16500350       Kisic, Bozidar                                               MNE M   FM                           2217  23  20 1996      
 16510909       Kljajic, Lav                                                 MNE M                                1584  0   40 2011      
 16508394       Knezevic, Aleksa                                             MNE M                                1869  0   20 1992  i   
 16504429       Knezevic, Dimitrije                                          MNE M                                1745  0   20 2005  i   
@@ -208,11 +208,11 @@ ID Number      Name                                                         Fed 
 16503384       Kontic, Ilija                                                MNE M                                1827  0   20 1954  i   
 16507797       Koprivica, Andrija                                           MNE M                                1696  0   40 2008  i   
 16501683       Korac, Dusan                                                 MNE M                                2005  0   20 1969  i   
-16513169       Kornilova, Kira                                              MNE F                                1419  8   40 2018  w   
+16513169       Kornilova, Kira                                              MNE F                                1419  0   40 2018  w   
 900290         Kosic, Dragan                                                MNE M   GM                           2451  0   10 1970  i   
 933899         Kosoric, Luka                                                MNE M                                2151  0   20 1959  i   
 16506030       Kostic, Nedjeljko                                            MNE M                                1820  0   20 1946  i   
-16502701       Kovacevic, Dragoljub                                         MNE M                                1887  0   20 2004      
+16502701       Kovacevic, Dragoljub                                         MNE M                                1904  23  20 2004      
 16503252       Kovacevic, Ljubo                                             MNE M                                1961  0   20 1960  i   
 16503660       Kovacevic, Sasa                                              MNE M                                1838  0   20 1960  i   
 16508289       Kovacevic, Vuk                                               MNE M                                1790  0   20 1986  i   
@@ -227,24 +227,24 @@ ID Number      Name                                                         Fed 
 16509692       Kujacic, Marko                                               MNE M                                1662  0   20 1975  i   
 16514564       Kuznetsov, Roman                                             MNE M                                1486  0   40 2015      
 16505913       Laban, Petar                                                 MNE M                                1805  0   20 1992  i   
-925390         Laban, Zoran                                                 MNE M                                2030  24  20 1965      
+925390         Laban, Zoran                                                 MNE M                                2030  0   20 1965      
 909955         Lakovic, Dragisa                                             MNE M                                1909  0   20 1966  i   
 16503953       Latkovic, Matija                                             MNE M                                1642  0   20 2004  i   
 16501616       Lazarevic, Dragan                                            MNE M                                1752  0   20 1956  i   
 16502191       Lazarevic, Zoran                                             MNE M                                2062  0   20 1986  i   
-905330         Lekic, Dusan                                                 MNE M   IM                           2231  0   20 1969  i   
+905330         Lekic, Dusan                                                 MNE M   IM                           2242  9   20 1969      
 900052         Lekic, Lazar                                                 MNE M                                2067  0   20 1997  i   
 16507495       Lekic, Pavle                                                 MNE M                                1783  0   20 1986  i   
 16504070       Lipovac, Rajko                                               MNE M                                1809  0   20 1958      
-16504160       Ljeskovic, Luka                                              MNE M             IA             AFM 1905  0   20 2001      
+16504160       Ljeskovic, Luka                                              MNE M             IA             AFM 1933  7   20 2001      
 909963         Ljujic, Budimir                                              MNE M                                1891  0   20 1957  i   
 909971         Loncar, Milenko                                              MNE M                                2148  0   20 1968  i   
-16500598       Luburic, Stefan                                              MNE M                                1549  39  20 1993      
+16500598       Luburic, Stefan                                              MNE M                                1579  27  20 1993      
 16501101       Lukic, Lazar                                                 MNE M                                1959  0   20 1999  i   
 16505581       Lukic, Nikola                                                MNE M                                1883  0   20 2001  i   
 927511         Luksic, Vladimir                                             MNE M                                1987  0   20 1939  i   
 16502990       Malisic, Miodrag                                             MNE M                                1932  0   20 1978      
-16503007       Malisic, Miroslav                                            MNE M                                1950  0   20 1975      
+16503007       Malisic, Miroslav                                            MNE M                                1894  23  20 1975      
 16504801       Maljevic, Miloje                                             MNE M                                2124  0   20 1967  i   
 16504496       Mandic, Anastasija                                           MNE F                                1617  0   20 2007  wi  
 16501756       Mandic, Branko                                               MNE M                                1807  0   20 1959  i   
@@ -263,7 +263,7 @@ ID Number      Name                                                         Fed 
 16503287       Markovic, Slobodan Z                                         MNE M                                1761  0   20 2000  i   
 921653         Marovic, Mato                                                MNE M                                1947  0   20 1936  i   
 16502558       Marsenic, Lazar                                              MNE M                                2035  0   20 1998  i   
-16504089       Masovic, Milan                                               MNE M                                1817  13  20 1992      
+16504089       Masovic, Milan                                               MNE M                                1817  0   20 1992      
 16500040       Medjedovic, Marko                                            MNE M                                2121  0   20 1979      
 16512855       Medojevic, Marinko                                           MNE M                                1581  0   20 1963  i   
 16500059       Medovic, Vladimir                                            MNE M                                1918  0   20 1956  i   
@@ -271,22 +271,22 @@ ID Number      Name                                                         Fed 
 900320         Mehovic, Jasmin                                              MNE M                                1974  0   20 1990  i   
 16502221       Micunovic, Marko                                             MNE M                                1955  0   20 1960  i   
 16512219       Mihailovic, Milenko                                          MNE M                                1508  0   20 1970  i   
-16508750       Mihajlovic, Stefan                                           MNE M                                1520  0   40 2012      
+16508750       Mihajlovic, Stefan                                           MNE M                                1668  24  40 2012      
 16504143       Mijajlovic, Aleksandar                                       MNE M                                1822  0   20 2000  i   
 935069         Mijovic, Stefan                                              MNE M   IM                           2292  0   10 1988  i   
 921033         Milanovic, Slavisa                                           MNE M   IM                           2283  0   20 1977  i   
-16503406       Miletic, Vuk                                                 MNE M                                2217  0   20 2003      
+16503406       Miletic, Vuk                                                 MNE M                                2270  23  20 2003      
 16506111       Milicevic, Miro                                              MNE M                                1747  0   20 1951  i   
 16510852       Milicevic, Nikola                                            MNE M                                1571  0   40 2008      
 16508041       Milinkovic, Vlade                                            MNE M                                1960  0   20 1956  i   
-901385         Miljanic, Boro                                               MNE M   IM                           2254  0   10 1965      
+901385         Miljanic, Boro                                               MNE M   IM                           2254  0   10 1965  i   
 16503155       Miljanic, Zeljko                                             MNE M             IA                 1779  0   20 1961  i   
 942022         Milosevic, Dejan                                             MNE M                                1994  0   20 1976  i   
 16506332       Milosevic, Vuk                                               MNE M                                1718  0   20 2003  i   
 933988         Milovic, Aleksandra                                          MNE F   WIM  WIM                     1995  0   20 1986  w   
-16504330       Milovic, Ilija                                               MNE M                                1915  0   40 2009      
-930903         Milovic, Jovan                                               MNE M   FM                           2248  0   20 1985      
-16509455       Milovic, Radovan                                             MNE M                                1654  0   40 2008      
+16504330       Milovic, Ilija                                               MNE M                                1956  24  40 2009      
+930903         Milovic, Jovan                                               MNE M   FM                           2318  24  20 1985      
+16509455       Milovic, Radovan                                             MNE M                                1705  24  40 2008      
 16506510       Milovic, Sofija                                              MNE F                                1502  0   40 2012  wi  
 16506944       Milovic, Uros                                                MNE M                                1731  0   20 2002  i   
 16509323       Milutinovic, Srdjan                                          MNE M                                1476  0   20 2006  i   
@@ -304,17 +304,17 @@ ID Number      Name                                                         Fed 
 16501446       Mugosa, Srdjan                                               MNE M                                1995  0   20 1964  i   
 16502922       Mujevic, Dzemail                                             MNE M                                1977  0   20 1961  i   
 16505786       Muratovic, Esad                                              MNE M                                1888  0   20 1978  i   
-16501845       Muric, Tafil                                                 MNE M                                2021  11  20 1967      
+16501845       Muric, Tafil                                                 MNE M                                2021  0   20 1967      
 2071851        Musikic, Stefan                                              MNE M                                1826  0   20 2004  i   
 939935         Musovic, Armin                                               MNE M   FM                           2295  0   20 1989      
 928330         Mustafic, Ismet                                              MNE M                                1965  0   20 1960      
 16506464       Nedic, Milan                                                 MNE M                                1784  0   20 1965      
 944882         Nedic, Nikola                                                MNE M                                1788  0   20 1967      
-16505301       Nenezic, Danilo                                              MNE M                                2033  0   20 1972      
+16505301       Nenezic, Danilo                                              MNE M                                2077  23  20 1972      
 900591         Neric, Jelena                                                MNE F                                1846  0   20 1989  wi  
-908975         Nikac, Predrag                                               MNE M   IM                           2188  0   20 1968      
+908975         Nikac, Predrag                                               MNE M   IM                           2162  24  20 1968      
 16508432       Nikcevic, Milan                                              MNE M                                1871  0   20 1998  i   
-901776         Nikcevic, Nebojsa                                            MNE M   GM                           2238  0   10 1965      
+901776         Nikcevic, Nebojsa                                            MNE M   GM                           2249  13  10 1965      
 908983         Nikcevic, Zelidrag                                           MNE M                                2200  0   20 1956  i   
 16500903       Nikolic, Dragomir                                            MNE M                                2070  0   20 1952  i   
 925853         Nikolic, Nebojsa                                             MNE M   FM                           2143  0   20 1968      
@@ -325,39 +325,39 @@ ID Number      Name                                                         Fed 
 4146794        Novikova, Anna                                               MNE F   WIM  WIM  NA                 2085  0   20 1985  w   
 16507550       Nurkovic, Omer                                               MNE M                                1849  0   20 1973  i   
 16511085       Nurkovic, Rustem                                             MNE M                                1769  0   20 1962      
-16500920       Obadovic, Zeljko                                             MNE M                                1852  11  20 1968      
+16500920       Obadovic, Zeljko                                             MNE M                                1757  24  20 1968      
 16507401       Obradovic, Lazar                                             MNE M                                1869  0   20 1987  i   
 16508980       Orlandic, Aleksej                                            MNE M                                1768  0   40 2008  i   
 16502396       Ostojic, Bojan                                               MNE M                                1762  0   20 2000  i   
-900699         Pajkovic, Vladimir                                           MNE M   FM                           2372  0   10 1961  i   
+900699         Pajkovic, Vladimir                                           MNE M   FM                           2352  22  10 1961      
 16508351       Pali, Florim                                                 MNE M                                1812  0   20 1985  i   
 16512863       Pantovic, Radomir                                            MNE M                                1642  0   20 1977  i   
-16509544       Pavlovic, David                                              MNE M                                1757  0   40 2014      
+16509544       Pavlovic, David                                              MNE M                                1769  24  40 2014      
 16510259       Pavlovic, Vesko                                              MNE M                                1729  0   20 2000      
-944963         Pecurica, Milos                                              MNE M   FM        FA                 2247  0   20 1994      
+944963         Pecurica, Milos                                              MNE M   FM        FA                 2246  24  20 1994      
 16502230       Pejcic, Dejan                                                MNE M                                2012  0   20 1976  i   
 921017         Pejovic, Branko                                              MNE M   FM                           1953  0   20 1954  i   
 920991         Pejovic, Jovan                                               MNE M                                1961  0   20 1956      
 943207         Pejovic, Milivoje                                            MNE M                                1994  0   20 1950  i   
-16504178       Pekic, Momcilo                                               MNE M             IA                 1834  0   20 1996      
+16504178       Pekic, Momcilo                                               MNE M             IA                 1834  0   20 1996  i   
 16503414       Pekovic, Boro                                                MNE M                                1777  0   20 1957  i   
 16509463       Pepdjonovic, Stefan                                          MNE M                                1666  0   40 2009  i   
 16506480       Perazic, Dragutin                                            MNE M                                1917  0   20 1973  i   
-16507010       Peric, Toman                                                 MNE M                                1830  0   40 2012      
+16507010       Peric, Toman                                                 MNE M                                1681  23  40 2012      
 16502248       Perisic, Milutin                                             MNE M                                1946  0   20 1957  i   
-16506049       Perisic, Nikola                                              MNE M                                1837  0   20 2005  i   
+16506049       Perisic, Nikola                                              MNE M                                1918  23  20 2005      
 16501713       Perkovic, Radovan                                            MNE M                                1983  0   20 1988      
-919640         Perosevic, Aleksandar                                        MNE M                                2026  0   20 1965      
+919640         Perosevic, Aleksandar                                        MNE M                                2085  24  20 1965      
 16508890       Perovic, Petar                                               MNE M                                1609  0   20 2002  i   
 939978         Perovic, Rade                                                MNE M                                1887  0   20 1960  i   
-16510089       Pesic, Damjan                                                MNE M                                1720  0   40 2011      
+16510089       Pesic, Damjan                                                MNE M                                1660  23  40 2011      
 16502400       Pesikan, Djordje                                             MNE M                                1650  0   20 2000  i   
 916625         Petijevic, Vaso                                              MNE M   FM                           2146  0   20 1971  i   
 16502256       Petkovic, Mato                                               MNE M                                1822  0   20 1955  i   
 16500148       Petovic, Luka                                                MNE M                                1966  0   20 1956  i   
 16511794       Petric, Relja                                                MNE M                                1535  0   40 2010      
-4101286        Petrov, Nikita                                               MNE M   GM                           2526  0   10 1996      
-920355         Petrovic, Slavko                                             MNE M                                1845  10  20 1955      
+4101286        Petrov, Nikita                                               MNE M   GM                           2528  24  10 1996      
+920355         Petrovic, Slavko                                             MNE M                                1832  23  20 1955      
 16509781       Petrusic, Dusica                                             MNE F                                1634  0   40 2013  w   
 936332         Petrusic, Goran                                              MNE M             NA                 1918  0   20 1973  i   
 936782         Pikula, Rodoljub                                             MNE M             NA                 1999  0   20 1966  i   
@@ -367,7 +367,7 @@ ID Number      Name                                                         Fed 
 16503589       Pobor, Milo                                                  MNE M   FM                           2176  0   20 2004  i   
 942049         Pobor, Nebojsa                                               MNE M                                2054  0   20 1970  i   
 14600129       Podlesnik, Bogdan                                            MNE M   IM                           2182  0   20 1961      
-913650         Popadic, Dragan                                              MNE M   FM                           2132  0   20 1961      
+913650         Popadic, Dragan                                              MNE M   FM                           2138  2   20 1961      
 55665519       Popov, Yaroslav                                              MNE M                                1645  0   40 2014      
 34450734       Popova, Kira                                                 MNE F                                1656  0   40 2012  w   
 16504518       Popovic, Mateja                                              MNE F                                1889  0   20 2005  wi  
@@ -378,10 +378,11 @@ ID Number      Name                                                         Fed 
 16508904       Porobic, Ivan                                                MNE M                                1820  0   20 1998  i   
 910058         Potpara, Nikola                                              MNE M                                2350  0   10 1993  i   
 939765         Prijovic, Bojan                                              MNE M                                1976  0   20 1987      
-924504         Prijovic, Miodrag                                            MNE M                                1906  0   20 1960      
+924504         Prijovic, Miodrag                                            MNE M                                1862  24  20 1960      
 16500520       Purisic, Kemal                                               MNE M                                1896  0   20 1959  i   
-16504720       Pusara, Mihailo                                              MNE M                                2209  0   40 2008      
-16501926       Putnik, Perica                                               MNE M                                2007  0   20 1968      
+16504720       Pusara, Mihailo                                              MNE M                                2086  24  40 2008      
+16501926       Putnik, Perica                                               MNE M                                1934  23  20 1968      
+16501772       Rabrenovic, Matija                                           MNE M                                1715  19  20 2001      
 925268         Rabrenovic, Milinko                                          MNE M   FM                           2198  0   20 1966  i   
 16508831       Racic, Andrej                                                MNE M                                1675  0   20 2007  i   
 16503520       Radic, Ivan                                                  MNE M                                1914  0   20 1981      
@@ -419,7 +420,7 @@ ID Number      Name                                                         Fed 
 16512871       Rakocevic, Srecko                                            MNE M                                1708  0   20 1975  i   
 936537         Ralevic, Zoran                                               MNE M                                1968  0   20 1952  i   
 16504879       Ramdedovic, Almir                                            MNE M                                1817  0   20 1974  i   
-16508017       Raonic, Ljubisav                                             MNE M                                1692  0   20 2006      
+16508017       Raonic, Ljubisav                                             MNE M                                1739  23  20 2006      
 16500440       Rasovic, Uros                                                MNE M   CM                           2136  0   20 1991      
 16512405       Raspopovic, Jaksa                                            MNE M                                1633  0   40 2015      
 912956         Ratkovic, Milorad                                            MNE M                                2078  0   20 1966      
@@ -434,11 +435,11 @@ ID Number      Name                                                         Fed 
 16503180       Sabotic, Denis                                               MNE M                                1873  0   20 1984  i   
 16508122       Sabovic, Mensur                                              MNE M                                1672  0   20 1995  i   
 16510178       Samardzic, Andrej                                            MNE M                                1441  0   40 2009      
-16510941       Samardzic, Matija                                            MNE M                                1470  0   40 2012      
+16510941       Samardzic, Matija                                            MNE M                                1448  23  40 2012      
 16502477       Samardzic, Slavisa                                           MNE M             NA                 1789  0   20 1996  i   
 16509137       Saranovic, Boris                                             MNE M                                1475  0   40 2014  i   
 933368         Saranovic, Mitar                                             MNE M                                2138  0   20 1983  i   
-909319         Saric, Igor                                                  MNE M   FM                           2209  0   10 1973      
+909319         Saric, Igor                                                  MNE M   FM                           2248  24  10 1973      
 16509811       Saric, Rastko                                                MNE M                                1459  0   40 2014      
 934550         Savic, Miomir                                                MNE M   FM                           2079  0   20 1967      
 16500393       Savic, Vladimir                                              MNE M                                1959  0   20 1971      
@@ -455,9 +456,9 @@ ID Number      Name                                                         Fed 
 16510267       Sekulic, Nikola                                              MNE M                                1944  0   20 2000      
 942910         Sekulovic, Zeljko                                            MNE M                                2006  0   20 1971  i   
 935379         Semiz, Svetlana                                              MNE F                                1914  0   20 1977  wi  
-16510801       Shevtsov, Egor                                               MNE M                            AFM 1688  0   40 2013      
-16510810       Shevtsov, Konstantin                                         MNE M                                1609  0   40 2015      
-16510798       Shevtsova, Varvara                                           MNE F                                1467  0   40 2011  w   
+16510801       Shevtsov, Egor                                               MNE M                            AFM 1726  23  40 2013      
+16510810       Shevtsov, Konstantin                                         MNE M                                1538  24  40 2015      
+16510798       Shevtsova, Varvara                                           MNE F                                1448  5   40 2011  w   
 16505069       Sijaric, Rahim                                               MNE M                                1826  0   20 1966  i   
 16508505       Simonovic, Milenko                                           MNE M                                1723  0   20 1960  i   
 24108600       Skvortsov, Andrei                                            MNE M   CM                           2369  0   10 1996      
@@ -480,7 +481,7 @@ ID Number      Name                                                         Fed 
 16508734       Stanic, Stefan                                               MNE M                                1450  0   40 2013      
 921670         Stanicic, Josip                                              MNE M                                1895  0   20 1948  i   
 16506081       Stanisic, Milutin                                            MNE M                                1824  0   20 1962  i   
-16511662       Stankovic, Petar                                             MNE M                                1543  0   40 2010      
+16511662       Stankovic, Petar                                             MNE M                                1567  24  40 2010      
 16505522       Stanojevic, Tijana                                           MNE F                                1463  0   20 2007  wi  
 16508920       Stevanovic, Savo                                             MNE M                                1815  0   20 1972  i   
 16502655       Stijepovic, Radislav                                         MNE M                                2042  0   20 1966  i   
@@ -491,7 +492,7 @@ ID Number      Name                                                         Fed 
 16508483       Stojovic, Milutin                                            MNE M                                1916  0   20 1976      
 16502507       Strikovic, Adnan                                             MNE M                                1883  0   20 1979      
 16503708       Sucur, Rados                                                 MNE M                                1713  0   20 1950  i   
-16502310       Sukovic, Andrej                                              MNE M   FM                           2306  0   20 1999      
+16502310       Sukovic, Andrej                                              MNE M   FM                           2341  23  20 1999      
 16502329       Sukovic, Darko                                               MNE M                                1929  0   20 2003      
 16505603       Svrkota, Milos                                               MNE M                                1620  0   40 2009  i   
 16510739       Tadic, Jana                                                  MNE F                                1434  0   40 2010  w   
@@ -500,7 +501,7 @@ ID Number      Name                                                         Fed 
 16502566       Todorovic, Stanko                                            MNE M                                1609  0   20 1998  i   
 16512650       Tomasevic, Bogdan                                            MNE M                                1504  0   40 2014      
 16512340       Tomasevic, Maksim                                            MNE M                                1567  0   40 2012      
-16501799       Tomic, Aleksandar                                            MNE M   IM                           2318  0   10 1996      
+16501799       Tomic, Aleksandar                                            MNE M   IM                           2322  23  10 1996      
 16502485       Tomic, Danilo                                                MNE M                                1894  0   20 1995  i   
 939072         Tomic, Dragomir                                              MNE M                                1988  0   20 1956  i   
 941328         Tomic, Goran                                                 MNE M   FM        IO                 2191  0   20 1959  i   
@@ -515,10 +516,10 @@ ID Number      Name                                                         Fed 
 16510283       Vejsilovic, Sukrija                                          MNE M                                1753  0   20 1963      
 16504640       Vesovic, Ksenija                                             MNE F                                1702  0   20 2000  wi  
 942340         Vesovic, Nebojsa                                             MNE M                                1919  0   20 1963  i   
-920126         Vico, Milan                                                  MNE M                                1851  0   20 1953      
+920126         Vico, Milan                                                  MNE M                                1816  23  20 1953      
 16504119       Vidakovic, Budimir                                           MNE M                                1936  0   20 1958  i   
 935360         Vih, Antun                                                   MNE M                                2024  0   20 1949  i   
-934038         Vlatkovic, Milos                                             MNE M   FM                           2260  0   20 1978      
+934038         Vlatkovic, Milos                                             MNE M   FM                           2294  21  20 1978      
 16507177       Vojicic, Nikola                                              MNE M                                1540  0   40 2010  i   
 16508530       Vojinovic, Marina                                            MNE F                                1738  0   20 1999  wi  
 16507509       Vranes, Nikola                                               MNE M                                2060  0   20 1986      
@@ -528,10 +529,10 @@ ID Number      Name                                                         Fed 
 16502299       Vuckovic, Dragan                                             MNE M                                1972  0   20 1952  i   
 16504798       Vuckovic, Iva                                                MNE F                                1505  0   20 2007  wi  
 16501870       Vuckovic, Marko                                              MNE M                                1978  0   20 2003  i   
-932620         Vujacic, Igor                                                MNE M   CM        IA                 2085  0   20 1981      
+932620         Vujacic, Igor                                                MNE M   CM        IA                 2040  17  20 1981      
 16509072       Vujacic, Ognjen                                              MNE M                                1502  0   40 2011      
 16502213       Vujacic, Petar                                               MNE M                                1667  0   20 1995  i   
-910449         Vujadinovic, Zeljko                                          MNE M                                1900  0   20 1964      
+910449         Vujadinovic, Zeljko                                          MNE M                                1868  24  20 1964      
 910465         Vujisic, Rajko                                               MNE M                                1791  0   20 1958      
 16502663       Vujkovic, Sasa                                               MNE M                                1959  0   20 1961  i   
 16503864       Vujosevic, Ratko                                             MNE M                                1767  0   20 1980  i   
@@ -552,20 +553,20 @@ ID Number      Name                                                         Fed 
 942286         Vukovic, Krsto                                               MNE M                                1879  0   20 1967      
 16502817       Vukovic, Nemanja                                             MNE M                                1708  0   20 2004  i   
 16514238       Vukovic, Petar                                               MNE M                                1593  0   40 2010      
-16512146       Vukovic, Stefan                                              MNE M                                1496  0   20 2007      
+16512146       Vukovic, Stefan                                              MNE M                                1453  23  20 2007      
 16504364       Vukovic, Stefan                                              MNE M                                1797  0   20 2001  i   
 16505247       Vukovic, Zarija                                              MNE M                                1760  0   20 1987  i   
 1300270        Vulevic, Vjekoslav                                           MNE M   FM                           2248  0   20 1949      
 16508297       Vusovic, Luka                                                MNE M                                1705  0   20 2003  i   
-24105880       Yaksin, Oleg                                                 MNE M   FM                           2321  0   20 1992      
+24105880       Yaksin, Oleg                                                 MNE M   FM                           2283  24  20 1992      
 938980         Zarubica, Milos                                              MNE M                                1953  0   20 1942  i   
 16502442       Zarubica, Miodrag                                            MNE M                                1852  0   20 1981  i   
 943274         Zecevic, Ivan                                                MNE M                                2110  0   20 1993  i   
-16512898       Zejak, Petar                                                 MNE M                                1767  10  20 1977      
+16512898       Zejak, Petar                                                 MNE M                                1767  0   20 1977      
 24129518       Zherebtsova, Alexandra                                       MNE F   FM   WFM                     2106  0   20 1993  w   
 16514076       Zhukov, Andrey                                               MNE M                                1817  0   20 1977      
 16512812       Zhukov, Mikhail                                              MNE M                                1444  0   40 2013      
 16512138       Zinchenko, Boris                                             MNE M                                1711  0   40 2008  i   
 16505484       Zindovic, Selena                                             MNE F                                1708  0   20 2005  wi  
 16500636       Zivkovic, Slaven                                             MNE M                                1910  0   20 1991  i   
-16507223       Zizic, Djordje                                               MNE M                                2042  0   40 2010      
+16507223       Zizic, Djordje                                               MNE M                                2084  23  40 2010      
