@@ -67,8 +67,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 447040211,"Abdugapparova, Amina",KAZ,F,,,,1402,0,40,JUN26,2017,w
 13755552,"Abduhalykov, Agadil",KAZ,M,,,,1459,0,20,JUN26,2005,i
 447010762,"Abdukarimov, Alibek",KAZ,M,,NA,,1721,0,20,JUN26,1991,i
-447016051,"Abdukarimova, Damira",KAZ,F,,,,1423,0,40,JUN26,2010,w
 13793730,"Abdukarimova, Damira",KAZ,F,,,,1490,0,20,JUN26,2006,wi
+447016051,"Abdukarimova, Damira",KAZ,F,,,,1423,0,40,JUN26,2010,w
 447005386,"Abdukhamid, Amir",KAZ,M,,,,1474,0,40,JUN26,2015,
 447011203,"Abdukhamid, Assiya",KAZ,F,,,,1407,0,40,JUN26,2016,w
 13784285,"Abdulgaziyeva, Zhanar",KAZ,F,,,,1582,4,20,JUN26,1982,w
@@ -417,8 +417,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13725998,"Alisher, Dias",KAZ,M,,,,1474,0,40,JUN26,2009,i
 557008914,"Alisseiko, Nikita",KAZ,M,,,,1527,0,40,JUN26,2011,
 13796852,"Aliuly, Abay",KAZ,M,,,,1457,4,40,JUN26,2016,
-13792555,"Aliyev, Ali",KAZ,M,,,,1425,0,40,JUN26,2014,i
 447008547,"Aliyev, Ali",KAZ,M,,,,1509,0,20,JUN26,2007,
+13792555,"Aliyev, Ali",KAZ,M,,,,1425,0,40,JUN26,2014,i
 447067624,"Aliyev, Damir",KAZ,M,,,,1413,0,40,JUN26,2018,
 13787519,"Aliyev, Kalys",KAZ,M,,,,1462,0,40,JUN26,2011,i
 447005890,"Alkhanov, Slanbek",KAZ,M,,,,1471,0,20,JUN26,1991,
@@ -1087,7 +1087,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 447005041,"Beksultanov, Elaman",KAZ,M,,,,1472,0,40,JUN26,2012,
 447003839,"Bektaliyev, Askar",KAZ,M,,,,1641,0,20,JUN26,1964,
 447036850,"Bektayev, Nurzhan",KAZ,M,,,,1546,0,20,JUN26,1970,
-557010927,"Bektemirov, Alikhan",KAZ,M,,,,1420,0,40,JUN26,2014,
+557010927,"Bektemirov, Alizhan",KAZ,M,,,,1420,0,40,JUN26,2014,
 13779702,"Bektemisova, Malika",KAZ,F,,,,1540,0,40,JUN26,2011,w
 13752197,"Bektorov, Beybarys",KAZ,M,,,,1556,0,40,JUN26,2011,i
 557035156,"Bekturganov, Beksultan",KAZ,M,,,,1493,0,20,JUN26,1996,
@@ -3275,6 +3275,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 447071885,"Mukhtar, Omar",KAZ,M,,,,1489,0,40,JUN26,2009,
 447018240,"Mukhtar, Zhannur",KAZ,M,,,,1598,0,40,JUN26,2012,
 447016949,"Mukhtarkyzy, Zhansaya",KAZ,F,,,,1446,0,40,JUN26,2010,wi
+13784714,"Mukhtaruly, Akhmediyar",KAZ,M,,,,1912,0,40,JUN26,2014,
 447086807,"Mukhtasar, Adilkhan",KAZ,M,,,,1459,5,40,JUN26,2011,
 13782959,"Mukushev, Azat",KAZ,M,,,,1502,0,40,JUN26,2013,i
 13714686,"Mukushev, B",KAZ,M,,,,1824,0,20,JUN26,1955,i
@@ -4483,7 +4484,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13760742,"Sherbasov, Auez",KAZ,M,,,,1403,0,20,JUN26,1951,i
 13781472,"Sheremetyev, Ruslan",KAZ,M,,,,1446,0,20,JUN26,2007,i
 13724037,"Sheriyazdan, Alikhan",KAZ,M,,,,1568,0,20,JUN26,2007,i
-447052295,"Shershnev, Vyacheslav",KAZ,M,,,,1954,0,20,JUN26,1957,i
 13783009,"Shershnyov, Vyacheslav",KAZ,M,,,,1535,7,20,JUN26,1957,
 13763660,"Sheruen, Batyrkhan",KAZ,M,,,,1532,0,20,JUN26,2007,i
 13756478,"Shevchenko, Alexandr",KAZ,M,,,,1717,6,20,JUN26,1995,
@@ -4611,7 +4611,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 447043253,"Subbotin, Alex",KAZ,M,,,,1727,4,20,JUN26,1964,
 447099658,"Suepov, Azamat",KAZ,M,,,,1511,0,20,JUN26,1991,
 447056410,"Sugirbekov, Mambet",KAZ,M,,,,1602,0,20,JUN26,1969,i
-13784714,"Sugraliyev, Akhmediyar",KAZ,M,,,,1912,0,40,JUN26,2014,
 447055340,"Suindik, Zangar",KAZ,M,,,,1630,0,40,JUN26,2011,
 13722778,"Suiundikuly, Bakdaulet",KAZ,M,,,,1955,0,20,JUN26,2000,i
 447026324,"Sukhanov, Matvey",KAZ,M,,,,1429,0,40,JUN26,2017,

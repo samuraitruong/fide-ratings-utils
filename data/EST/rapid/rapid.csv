@@ -71,7 +71,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4511948,"Balabonin, Matvei",EST,M,,,,1402,0,40,JUN26,2010,i
 4517628,"Balder, Ian Gregor",EST,M,,,,1580,0,20,JUN26,2005,
 4514840,"Barinov, Robert",EST,M,,,,1630,0,20,JUN26,2003,i
-24144924,"Barinova, Marina",EST,F,,,,1921,11,20,JUN26,1994,w
+24144924,"Barinova, Marina",EST,F,WCM,WCM,,1921,11,20,JUN26,1994,w
 4510615,"Barkasheva, Sofia",EST,F,WCM,WCM,,2012,0,40,JUN26,2008,w
 4514033,"Basarab, Mark",EST,M,,,,1498,0,20,JUN26,2002,i
 4501284,"Bashkite, Viktoria",EST,F,WIM,WIM,,2005,0,20,JUN26,1985,wi
@@ -1183,8 +1183,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4509544,"Tehvanus, Eleri",EST,F,,,,1622,0,20,JUN26,1980,w
 4509358,"Telliskivi, Laur",EST,M,,,,1794,0,20,JUN26,1989,i
 4509366,"Telliskivi, Sven",EST,M,,,,2006,0,20,JUN26,1985,i
-4528263,"Teppo, Mart",EST,M,,,,1663,0,40,JUN26,2008,i
 4529146,"Teppo, Mart",EST,M,,,,1466,0,40,JUN26,2009,i
+4528263,"Teppo, Mart",EST,M,,,,1663,0,40,JUN26,2008,i
 4515714,"Terk, Erik",EST,M,,,,1665,0,20,JUN26,1952,i
 4520378,"Thimm, Leelo Mia",EST,F,,,,1422,6,40,JUN26,2014,w
 4522460,"Thompson, Christopher",EST,M,,,,1855,0,20,JUN26,1977,i
