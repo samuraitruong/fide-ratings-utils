@@ -22449,7 +22449,7 @@
     "OTit": "",
     "Rating": "1626",
     "Gms": "6",
-    "K": "20",
+    "K": "",
     "RatingMonth": "JUN26",
     "B-day": "1976",
     "Flag": ""
@@ -22785,21 +22785,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "343413803",
-    "Name": "Dunne, Christopher",
-    "Fed": "ENG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1914",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JUN26",
-    "B-day": "1995",
-    "Flag": "i"
-  },
-  {
     "ID Number": "496332",
     "Name": "Dunne, Christopher",
     "Fed": "ENG",
@@ -22812,6 +22797,21 @@
     "K": "20",
     "RatingMonth": "JUN26",
     "B-day": "1970",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "343413803",
+    "Name": "Dunne, Christopher",
+    "Fed": "ENG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1914",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JUN26",
+    "B-day": "1995",
     "Flag": "i"
   },
   {
@@ -39720,21 +39720,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "455350",
-    "Name": "Jones, Daniel",
-    "Fed": "ENG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1708",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JUN26",
-    "B-day": "1990",
-    "Flag": ""
-  },
-  {
     "ID Number": "343435440",
     "Name": "Jones, Daniel",
     "Fed": "ENG",
@@ -39747,6 +39732,21 @@
     "K": "20",
     "RatingMonth": "JUN26",
     "B-day": "1997",
+    "Flag": ""
+  },
+  {
+    "ID Number": "455350",
+    "Name": "Jones, Daniel",
+    "Fed": "ENG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1708",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JUN26",
+    "B-day": "1990",
     "Flag": ""
   },
   {
@@ -74911,7 +74911,7 @@
   },
   {
     "ID Number": "485250",
-    "Name": "Smith, Mark",
+    "Name": "Smith, Mark P",
     "Fed": "ENG",
     "Sex": "M",
     "Title": "",

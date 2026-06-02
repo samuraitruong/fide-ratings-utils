@@ -1495,7 +1495,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 450723,"Duda, Lucas",ENG,M,,,,1942,0,20,JUN26,1981,i
 495476,"Dudhia, Vansh",ENG,M,,,,1465,0,40,JUN26,2011,i
 403032,"Duff, Rufus",ENG,M,,,,2141,0,20,JUN26,1995,i
-343445276,"Dugdale, Andy",ENG,M,,,,1626,6,20,JUN26,1976,
+343445276,"Dugdale, Andy",ENG,M,,,,1626,6,,JUN26,1976,
 343445268,"Dugdale, Daniel",ENG,M,,,,1504,4,40,JUN26,2013,
 454281,"Dugdale, David",ENG,M,,,,1700,6,40,JUN26,1947,
 466271,"Dugdale, Stephen",ENG,M,,,,1498,0,20,JUN26,1964,i
@@ -1518,8 +1518,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 472425,"Dunn, Giles",ENG,M,,,,1745,0,20,JUN26,1977,i
 456551,"Dunn, Maxim",ENG,M,,,,1858,0,20,JUN26,1997,i
 343406920,"Dunnachie, Ivan",ENG,M,,,,1753,0,20,JUN26,2001,i
-343413803,"Dunne, Christopher",ENG,M,,,,1914,0,20,JUN26,1995,i
 496332,"Dunne, Christopher",ENG,M,,,,1690,0,20,JUN26,1970,i
+343413803,"Dunne, Christopher",ENG,M,,,,1914,0,20,JUN26,1995,i
 439380,"Dunne, David C",ENG,M,,,,1571,0,20,JUN26,1957,
 343404634,"Dupler, Johnathan",ENG,M,,,,1424,0,40,JUN26,2007,i
 405434,"Dupre, Paul D",ENG,M,,,,1947,0,20,JUN26,1961,i
@@ -2647,8 +2647,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 490180,"Johnston, Will",ENG,M,,,,1665,0,20,JUN26,1990,i
 457582,"Jones, Andrew",ENG,M,,,,1593,0,,JUN26,1968,i
 414905,"Jones, Chris S",ENG,M,,,,1734,0,20,JUN26,1960,
-455350,"Jones, Daniel",ENG,M,,,,1708,0,20,JUN26,1990,
 343435440,"Jones, Daniel",ENG,M,,,,1667,0,20,JUN26,1997,
+455350,"Jones, Daniel",ENG,M,,,,1708,0,20,JUN26,1990,
 343412424,"Jones, Dixon H",ENG,M,,,,1684,0,40,JUN26,1964,i
 343452736,"Jones, Dylan",ENG,M,,,,1598,0,40,JUN26,2014,
 343460119,"Jones, Joshua",ENG,M,,,,1718,0,20,JUN26,1998,
@@ -4993,7 +4993,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 470988,"Smith, Jonathan D",ENG,M,,,,1560,0,20,JUN26,1977,
 343444938,"Smith, Joseph",ENG,M,,,,1576,0,40,JUN26,2005,
 343481493,"Smith, Louis",ENG,M,,,,1425,5,40,JUN26,2017,
-485250,"Smith, Mark",ENG,M,,,,1875,0,20,JUN26,1981,i
+485250,"Smith, Mark P",ENG,M,,,,1875,0,20,JUN26,1981,i
 418234,"Smith, Martin",ENG,M,,,,1796,0,20,JUN26,1967,i
 458104,"Smith, Matt",ENG,M,,,,1810,0,20,JUN26,1994,i
 456454,"Smith, Michael J",ENG,M,,,,1612,0,20,JUN26,1949,i
