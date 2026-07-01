@@ -1,8 +1,8 @@
-ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA JUN26 Gms K  B-day Flag
+ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA JUL26 Gms K  B-day Flag
 4829603        Aaiad, Salman Kareem                                         IRQ M                                1653  0   20 1972  i   
 4801628        Abaeji, Sinan Younus Abdulrazzaq                             IRQ M   CM                           2091  0   20 1971  i   
 4832345        Abass, Nayif Kareem                                          IRQ M                                1831  0   20 1969  i   
-4830024        Abbas Ahmed Abbas Mahroos                                    IRQ M                                1632  5   20 1987      
+4830024        Abbas Ahmed Abbas Mahroos                                    IRQ M                                1632  0   20 1987      
 4804937        Abbas Hussein kzar                                           IRQ M   CM                           1956  0   20 1997  i   
 4806778        Abbas, Abdul Zahra Abbas                                     IRQ M                                1788  0   20 1962  i   
 4827260        Abbas, Abud Hasham                                           IRQ M                                1842  0   20 1964      
@@ -13,7 +13,7 @@ ID Number      Name                                                         Fed 
 4802330        Abdul, Ameer Gated                                           IRQ M                                1861  0   20 1969  i   
 4806450        Abdulazeez Aswad Azeez                                       IRQ M             FA                 1638  0   20 1971      
 4840682        Abdulazeez, Mohammed Sadeq                                   IRQ M                                1741  0   20 1999      
-4824261        Abdulkareem Sh. Mahdi Al-Obaidi                              IRQ M                                1471  0   20 1959      
+4824261        Abdulkareem Sh. Mahdi Al-Obaidi                              IRQ M                                1471  0   20 1959  i   
 4812212        Abdulkarim Abdulqadr Ahmad                                   IRQ M                                1868  0   20 1958  i   
 4819586        Abdulla, Ahmed Abdulkareem                                   IRQ M                                1571  0   20 1996  i   
 4822927        Abdulla, Moeaid Kareem                                       IRQ M                                1699  0   40 2009  i   
@@ -62,7 +62,7 @@ ID Number      Name                                                         Fed 
 4822013        Ahmed, Majed Rashid                                          IRQ M                                1605  0   20 1975  i   
 4835239        Ahmed, Mohamed Yaber                                         IRQ M                                1762  0   20 1996  i   
 4803191        Ahmed, Nasir                                                 IRQ M                                1864  0   20 1964  i   
-4820991        Ahmed, Nasir Abdulwahid                                      IRQ M                                1899  0   20 1981  i   
+4820991        Ahmed, Nasir Abdulwahid                                      IRQ M                            ACM 1899  0   20 1981  i   
 4806204        Ahmed, Qutayba Yunis                                         IRQ M   CM                           1905  0   20 2000  i   
 4827317        Ahmed, Rahim Amin                                            IRQ M                                1639  0   20 1995  i   
 4822552        Ahmed, Salah Kakarash                                        IRQ M                                1657  0   20 1994  i   
@@ -104,7 +104,7 @@ ID Number      Name                                                         Fed 
 4808738        Ali Abbas, Abdulzahra                                        IRQ M                                1645  0   20 2003  i   
 4811569        Ali Adnan Younus                                             IRQ M                                1844  0   20 1963      
 4808746        Ali Ahmed, Attiyah                                           IRQ M                                1635  0   20 1999  i   
-4812034        Ali Farhad Ali                                               IRQ M                                1779  0   20 2001  i   
+4812034        Ali Farhad Ali                                               IRQ M                                1782  3   20 2001      
 4810139        Ali Firas Qassim                                             IRQ M                                1949  0   20 2006      
 4830873        Ali Hadi, Abdali                                             IRQ M                                1699  0   20 1982      
 4810791        Ali Jasim Ibrahim                                            IRQ M                                1753  0   20 2000  i   
@@ -215,7 +215,7 @@ ID Number      Name                                                         Fed 
 4809831        Bashir Fahim Hawza                                           IRQ M                                1626  0   20 1992  i   
 4820193        Bawan, Mahmood Mohammed                                      IRQ M                                1708  0   20 2006  i   
 4827180        Bayan Jamal Mohammed Ameen                                   IRQ F             NA                 1552  0   20 1974  w   
-4807030        Bewar, Jafer                                                 IRQ M                                1929  0   20 1988  i   
+4807030        Bewar, Jafer                                                 IRQ M                                1906  2   20 1988      
 4815440        Bilal, Tareq Mousa                                           IRQ M                                1780  0   20 1999  i   
 4811658        Bootan Sherzad Qader                                         IRQ M                                1905  0   20 1985  i   
 4817877        Chako, Mohammed Anwer                                        IRQ M                                1612  0   20 1969  i   
@@ -243,7 +243,7 @@ ID Number      Name                                                         Fed 
 4803116        DLPAK ISMAEL IBRAHIM                                         IRQ F   WIM  WIM                     1863  0   20 1988  wi  
 4805780        Dlsoz Omer Sedeeq                                            IRQ M                                1875  0   20 1972  i   
 4808770        Dyar, Bakir Bahram                                           IRQ M                                1507  0   20 2003  i   
-4817370        Dyar, Jaza Bakir                                             IRQ M   CM                           1954  0   20 1996  i   
+4817370        Dyar, Jaza Bakir                                             IRQ M   CM                           1969  3   20 1996      
 4823834        Edel, Nabeel Aziz                                            IRQ M                                1495  0   40 2013  i   
 4801806        Ehab, Mazin Elias                                            IRQ M   CM                           2180  0   20 1987  i   
 4807820        Emad, Ghanim Fatohi                                          IRQ M                                1689  0   20 1960      
@@ -424,7 +424,7 @@ ID Number      Name                                                         Fed 
 4806468        Khudhair Shuaib Adham                                        IRQ M                                1866  0   20 1950  i   
 4836790        Khudhair, Abdulkarim Khudhair                                IRQ M                                1812  0   20 2004      
 4831144        Laith, Husam Kzar                                            IRQ M                                1514  0   20 1987  i   
-4801059        Laith, Kasib                                                 IRQ M   FM                           1999  20  20 1986      
+4801059        Laith, Kasib                                                 IRQ M   FM                           2013  10  20 1986      
 4814177        Lana, Hawar Khaleel                                          IRQ F                                1497  0   20 2004  wi  
 4813103        Lania, Salah Abdullah                                        IRQ F                                1599  0   20 1999  wi  
 4816285        Lara, Samir Anwar                                            IRQ F                                1492  0   40 2011  wi  
@@ -572,7 +572,7 @@ ID Number      Name                                                         Fed 
 4847768        Nihad, Salah Elden Bahram                                    IRQ M                                1861  0   20 1962      
 4813510        Nma, Qasim Osman                                             IRQ F                                1428  0   20 2003  wi  
 4800249        Noah, A .H. Al-Ali                                           IRQ M   IM                           2283  0   20 1970  i   
-1504690        Nomat, Emil-Lion                                             IRQ M                                1875  0   20 1973      
+1504690        Nomat, Emil-Lion                                             IRQ M                                1868  7   20 1973      
 4823796        Noor, Aldien Sahib                                           IRQ M                                1632  0   20 1988  i   
 4806620        Noori, Sabah Nori                                            IRQ M   IM                           1906  0   20 2000  i   
 4847512        Nooruldeen, Ismael I?                                        IRQ M                                1678  0   20 2000      
@@ -606,7 +606,7 @@ ID Number      Name                                                         Fed 
 4822455        Qasim, Ali Hadi                                              IRQ M                                1798  0   20 1998  i   
 4811020        Qutaiba Sadeq Yair Almajbool                                 IRQ M                            AFM 1741  0   20 1989  i   
 4823621        Raad, Muttair Faraj                                          IRQ M                                1654  0   20 1971  i   
-4809645        Rabar Bakhtyar Hama Saleh                                    IRQ M                                1699  0   20 2000  i   
+4809645        Rabar Bakhtyar Hama Saleh                                    IRQ M                                1695  1   20 2000      
 4806212        Rabeea, Sabah Nori                                           IRQ M   FM                           1984  0   20 2002      
 4820690        Raed, Khalel Khamas                                          IRQ M                                1808  0   20 1992  i   
 4807685        Rafea, Sabri Fayyadh                                         IRQ M                                1884  0   20 1964  i   
@@ -717,6 +717,7 @@ ID Number      Name                                                         Fed 
 4808665        Thu Al Faqar, Ali Ahmed                                      IRQ M                                1893  0   20 2001  i   
 4809521        Tiba, Mahdi Attiyah                                          IRQ F                                1775  0   20 2006  wi  
 4817311        Usama Ahmed M Zaki Abdul Raman Agha                          IRQ M                                1654  0   20 2001  i   
+4814860        Vaver, Ismil Taha                                            IRQ M                                1961  3   20 1996      
 4823800        Wael, Abdulahad Hameed                                       IRQ M                                1711  0   20 1992  i   
 4800494        Waheed, Ayad                                                 IRQ M                                1994  0   20 1966  i   
 4820940        Waleed, Hamed Jabir                                          IRQ M                                1787  0   20 1983  i   
