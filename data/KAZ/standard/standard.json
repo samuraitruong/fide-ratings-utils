@@ -3931,7 +3931,7 @@
   },
   {
     "ID Number": "13752111",
-    "Name": "Akhmet, Suleyman",
+    "Name": "Akhmet, Suleiman",
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "CM",
@@ -8134,7 +8134,7 @@
     "Name": "Ansat, Aldiyar",
     "Fed": "KAZ",
     "Sex": "M",
-    "Title": "IM",
+    "Title": "GM",
     "WTit": "",
     "OTit": "",
     "Rating": "2500",
@@ -20385,6 +20385,21 @@
     "Flag": "w"
   },
   {
+    "ID Number": "557050457",
+    "Name": "Duisenbek, Mukhammedali",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1535",
+    "Gms": "7",
+    "K": "40",
+    "RatingMonth": "JUL26",
+    "B-day": "2014",
+    "Flag": ""
+  },
+  {
     "ID Number": "447059176",
     "Name": "Duisenbekov, Ernar",
     "Fed": "KAZ",
@@ -20758,21 +20773,6 @@
     "RatingMonth": "JUL26",
     "B-day": "2002",
     "Flag": "wi"
-  },
-  {
-    "ID Number": "557050457",
-    "Name": "Duysenbek, Mukhammedali",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1535",
-    "Gms": "7",
-    "K": "40",
-    "RatingMonth": "JUL26",
-    "B-day": "2014",
-    "Flag": ""
   },
   {
     "ID Number": "13798103",
@@ -63511,7 +63511,7 @@
   },
   {
     "ID Number": "557050333",
-    "Name": "Shevchenko, Andrey E?",
+    "Name": "Shevchenko, Andrey E",
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "",

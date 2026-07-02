@@ -5476,7 +5476,7 @@
   },
   {
     "ID Number": "13752111",
-    "Name": "Akhmet, Suleyman",
+    "Name": "Akhmet, Suleiman",
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "CM",
@@ -8085,21 +8085,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "13792555",
-    "Name": "Aliyev, Ali",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1466",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "JUL26",
-    "B-day": "2014",
-    "Flag": "i"
-  },
-  {
     "ID Number": "447008547",
     "Name": "Aliyev, Ali",
     "Fed": "KAZ",
@@ -8113,6 +8098,21 @@
     "RatingMonth": "JUL26",
     "B-day": "2007",
     "Flag": ""
+  },
+  {
+    "ID Number": "13792555",
+    "Name": "Aliyev, Ali",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1466",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "JUL26",
+    "B-day": "2014",
+    "Flag": "i"
   },
   {
     "ID Number": "447078090",
@@ -11554,7 +11554,7 @@
     "Name": "Ansat, Aldiyar",
     "Fed": "KAZ",
     "Sex": "M",
-    "Title": "IM",
+    "Title": "GM",
     "WTit": "",
     "OTit": "",
     "Rating": "2453",
@@ -32115,21 +32115,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "13729527",
-    "Name": "Fisenko, Evgeny",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1497",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JUL26",
-    "B-day": "2000",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13740946",
     "Name": "Fisenko, Evgeny",
     "Fed": "KAZ",
@@ -32142,6 +32127,21 @@
     "K": "20",
     "RatingMonth": "JUL26",
     "B-day": "1943",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "13729527",
+    "Name": "Fisenko, Evgeny",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1497",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JUL26",
+    "B-day": "2000",
     "Flag": "i"
   },
   {
@@ -43800,21 +43800,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "13729551",
-    "Name": "Karyagin, Nikolay",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1808",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JUL26",
-    "B-day": "2002",
-    "Flag": "i"
-  },
-  {
     "ID Number": "557031630",
     "Name": "Karyagin, Nikolay",
     "Fed": "KAZ",
@@ -43828,6 +43813,21 @@
     "RatingMonth": "JUL26",
     "B-day": "1960",
     "Flag": ""
+  },
+  {
+    "ID Number": "13729551",
+    "Name": "Karyagin, Nikolay",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1808",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JUL26",
+    "B-day": "2002",
+    "Flag": "i"
   },
   {
     "ID Number": "13777874",
@@ -90646,7 +90646,7 @@
   },
   {
     "ID Number": "557050333",
-    "Name": "Shevchenko, Andrey E?",
+    "Name": "Shevchenko, Andrey E",
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "",
@@ -93675,21 +93675,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "13779850",
-    "Name": "Suleymenov, Kanat",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1410",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JUL26",
-    "B-day": "1973",
-    "Flag": "i"
-  },
-  {
     "ID Number": "13789643",
     "Name": "Suleymenov, Kanat",
     "Fed": "KAZ",
@@ -93702,6 +93687,21 @@
     "K": "20",
     "RatingMonth": "JUL26",
     "B-day": "1968",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "13779850",
+    "Name": "Suleymenov, Kanat",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1410",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JUL26",
+    "B-day": "1973",
     "Flag": "i"
   },
   {

@@ -1020,21 +1020,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "13793730",
-    "Name": "Abdukarimova, Damira",
-    "Fed": "KAZ",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1490",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JUL26",
-    "B-day": "2006",
-    "Flag": "wi"
-  },
-  {
     "ID Number": "447016051",
     "Name": "Abdukarimova, Damira",
     "Fed": "KAZ",
@@ -1048,6 +1033,21 @@
     "RatingMonth": "JUL26",
     "B-day": "2010",
     "Flag": "w"
+  },
+  {
+    "ID Number": "13793730",
+    "Name": "Abdukarimova, Damira",
+    "Fed": "KAZ",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1490",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JUL26",
+    "B-day": "2006",
+    "Flag": "wi"
   },
   {
     "ID Number": "447005386",
@@ -4381,7 +4381,7 @@
   },
   {
     "ID Number": "13752111",
-    "Name": "Akhmet, Suleyman",
+    "Name": "Akhmet, Suleiman",
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "CM",
@@ -8794,7 +8794,7 @@
     "Name": "Ansat, Aldiyar",
     "Fed": "KAZ",
     "Sex": "M",
-    "Title": "IM",
+    "Title": "GM",
     "WTit": "",
     "OTit": "",
     "Rating": "2431",
@@ -22170,6 +22170,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "557050457",
+    "Name": "Duisenbek, Mukhammedali",
+    "Fed": "KAZ",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1448",
+    "Gms": "6",
+    "K": "40",
+    "RatingMonth": "JUL26",
+    "B-day": "2014",
+    "Flag": ""
+  },
+  {
     "ID Number": "557020256",
     "Name": "Duisenbek, Yesenbek",
     "Fed": "KAZ",
@@ -22483,21 +22498,6 @@
     "RatingMonth": "JUL26",
     "B-day": "2002",
     "Flag": "wi"
-  },
-  {
-    "ID Number": "557050457",
-    "Name": "Duysenbek, Mukhammedali",
-    "Fed": "KAZ",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1448",
-    "Gms": "6",
-    "K": "40",
-    "RatingMonth": "JUL26",
-    "B-day": "2014",
-    "Flag": ""
   },
   {
     "ID Number": "557040273",
@@ -68146,7 +68146,7 @@
   },
   {
     "ID Number": "557050333",
-    "Name": "Shevchenko, Andrey E?",
+    "Name": "Shevchenko, Andrey E",
     "Fed": "KAZ",
     "Sex": "M",
     "Title": "",

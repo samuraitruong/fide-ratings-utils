@@ -67,8 +67,8 @@ ID Number      Name                                                         Fed 
 447040211      Abdugapparova, Amina                                         KAZ F                                1402  0   40 2017  w   
 13755552       Abduhalykov, Agadil                                          KAZ M                                1459  0   20 2005  i   
 447010762      Abdukarimov, Alibek                                          KAZ M             NA                 1721  0   20 1991  i   
-13793730       Abdukarimova, Damira                                         KAZ F                                1490  0   20 2006  wi  
 447016051      Abdukarimova, Damira                                         KAZ F                                1423  0   40 2010  w   
+13793730       Abdukarimova, Damira                                         KAZ F                                1490  0   20 2006  wi  
 447005386      Abdukhamid, Amir                                             KAZ M                                1474  0   40 2015      
 447011203      Abdukhamid, Assiya                                           KAZ F                                1407  0   40 2016  w   
 13784285       Abdulgaziyeva, Zhanar                                        KAZ F                                1582  0   20 1982  w   
@@ -291,7 +291,7 @@ ID Number      Name                                                         Fed 
 13708414       Akhmet, A                                                    KAZ M                                1770  0   20 0     i   
 13769936       Akhmet, Daulet                                               KAZ M                                1517  0   40 2013      
 13775006       Akhmet, Mukhtar                                              KAZ M                                1598  0   20 1998  i   
-13752111       Akhmet, Suleyman                                             KAZ M   CM                           2161  0   40 2012      
+13752111       Akhmet, Suleiman                                             KAZ M   CM                           2161  0   40 2012      
 13761528       Akhmetbayev, Dosym                                           KAZ M                                1520  0   40 2008  i   
 13715410       Akhmetbek, Ali                                               KAZ M                                1767  0   20 1999  i   
 557036403      Akhmetkarim, Amir                                            KAZ M                                1490  0   40 2013      
@@ -585,7 +585,7 @@ ID Number      Name                                                         Fed 
 13702114       Ankudinova, Yelena                                           KAZ F   WGM  WGM  NA                 1904  0   20 1962  w   
 13728806       Anokhin, Vladimir                                            KAZ M                                1818  0   20 2005      
 13715640       Ansat, Abilmansur                                            KAZ M             NA                 1689  0   20 2006  i   
-13715658       Ansat, Aldiyar                                               KAZ M   IM                           2431  22  10 2008      
+13715658       Ansat, Aldiyar                                               KAZ M   GM                           2431  22  10 2008      
 13717766       Ansat, Isatai                                                KAZ M                                1449  0   20 2002  i   
 13727435       Antonov, Aleksandr                                           KAZ M                                1631  0   20 1951  i   
 13711512       Antontsev, Yevgeniy                                          KAZ M                                1716  0   20 1999  i   
@@ -1477,6 +1477,7 @@ ID Number      Name                                                         Fed 
 13776134       Duisenbay, Beibarys                                          KAZ M                                1725  0   40 2011      
 557016828      Duisenbay, Yenlik                                            KAZ F                                1427  0   40 2014  w   
 447022680      Duisenbek , Alisher                                          KAZ M                                1585  0   20 2006  i   
+557050457      Duisenbek, Mukhammedali                                      KAZ M                                1448  6   40 2014      
 557020256      Duisenbek, Yesenbek                                          KAZ M                                1512  0   40 2020      
 447059176      Duisenbekov, Ernar                                           KAZ M                                1516  0   40 2014      
 447041684      Duisenbinova, Lyayan                                         KAZ F                                1515  0   40 2016  w   
@@ -1498,7 +1499,6 @@ ID Number      Name                                                         Fed 
 13781901       Dushatov, Timur                                              KAZ M   CM                           1866  0   40 2012  i   
 557035814      Duskali, Arystankhan                                         KAZ M                                1634  0   40 2015      
 13715704       Dutpayeva, Dalila                                            KAZ F                                1554  0   20 2002  wi  
-557050457      Duysenbek, Mukhammedali                                      KAZ M                                1448  6   40 2014      
 557040273      Duysenbin, Kairat                                            KAZ M                                1447  0   20 1939      
 13718622       Duzbayev, Mukay                                              KAZ M                                1912  0   20 1943  i   
 13709208       Duzel, Tamerlan                                              KAZ M                                1726  0   20 0     i   
@@ -4542,7 +4542,7 @@ ID Number      Name                                                         Fed 
 13783009       Shershnyov, Vyacheslav                                       KAZ M                                1548  7   20 1957      
 13763660       Sheruen, Batyrkhan                                           KAZ M                                1532  0   20 2007  i   
 13756478       Shevchenko, Alexandr                                         KAZ M                                1717  0   20 1995      
-557050333      Shevchenko, Andrey E?                                        KAZ M                                1614  9   40 2017      
+557050333      Shevchenko, Andrey E                                         KAZ M                                1614  9   40 2017      
 13747649       Shichkin, Vladimir                                           KAZ M                            AIM 1874  0   20 2007      
 447087986      Shiden, Askar                                                KAZ M                                1594  0   40 2011      
 13773992       Shilan, Adilet                                               KAZ M                                1557  0   40 2009      
@@ -5555,7 +5555,7 @@ ID Number      Name                                                         Fed 
 13702327       Zhansagimov, Almaz                                           KAZ M                                2091  0   20 1987  i   
 13750968       Zhanshukov, Adlet                                            KAZ M                                1764  0   20 1987  i   
 447038691      Zhanshukov, Merkhat                                          KAZ M                                1649  8   40 2014      
-447025123      Zhantemirov, Amirzhan                                        KAZ M                            ACM 1736  17  40 2011      
+447025123      Zhantemirov, Amirzhan                                        KAZ M                            AFM 1736  17  40 2011      
 447016477      Zhantemirova, Ameliya                                        KAZ F                                1401  5   40 2015  w   
 13745590       Zhanturin, Abdulla                                           KAZ M                                1472  0   20 2004  i   
 13756680       Zhanuzak , Eskendir                                          KAZ M                                1657  0   20 2004  i   
