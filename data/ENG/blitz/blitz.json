@@ -3035,7 +3035,7 @@
     "Fed": "ENG",
     "Sex": "M",
     "Title": "",
-    "WTit": "NI",
+    "WTit": "NI,NI",
     "OTit": "",
     "Rating": "1747",
     "Gms": "0",
@@ -9690,21 +9690,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "343482112",
-    "Name": "Cojocaru, Cosmin Daniel",
-    "Fed": "ENG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1812",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JUL26",
-    "B-day": "1988",
-    "Flag": ""
-  },
-  {
     "ID Number": "343460666",
     "Name": "Cojocaru, Cosmin Daniel",
     "Fed": "ENG",
@@ -9717,6 +9702,21 @@
     "K": "40",
     "RatingMonth": "JUL26",
     "B-day": "2019",
+    "Flag": ""
+  },
+  {
+    "ID Number": "343482112",
+    "Name": "Cojocaru, Cosmin Daniel",
+    "Fed": "ENG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1812",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JUL26",
+    "B-day": "1988",
     "Flag": ""
   },
   {
@@ -14595,21 +14595,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "343466737",
-    "Name": "Fajuyitan, Daniel",
-    "Fed": "ENG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1638",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JUL26",
-    "B-day": "1966",
-    "Flag": ""
-  },
-  {
     "ID Number": "343466494",
     "Name": "Fajuyitan, Daniel",
     "Fed": "ENG",
@@ -14622,6 +14607,21 @@
     "K": "20",
     "RatingMonth": "JUL26",
     "B-day": "1997",
+    "Flag": ""
+  },
+  {
+    "ID Number": "343466737",
+    "Name": "Fajuyitan, Daniel",
+    "Fed": "ENG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1638",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JUL26",
+    "B-day": "1966",
     "Flag": ""
   },
   {
@@ -21735,21 +21735,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "343489257",
-    "Name": "Holden, John",
-    "Fed": "ENG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1750",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JUL26",
-    "B-day": "1969",
-    "Flag": ""
-  },
-  {
     "ID Number": "343407595",
     "Name": "Holden, John",
     "Fed": "ENG",
@@ -21763,6 +21748,21 @@
     "RatingMonth": "JUL26",
     "B-day": "1993",
     "Flag": "i"
+  },
+  {
+    "ID Number": "343489257",
+    "Name": "Holden, John",
+    "Fed": "ENG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1750",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JUL26",
+    "B-day": "1969",
+    "Flag": ""
   },
   {
     "ID Number": "343438610",
@@ -48000,21 +48000,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "343443915",
-    "Name": "Smith, Adam",
-    "Fed": "ENG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1586",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "JUL26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "343458033",
     "Name": "Smith, Adam",
     "Fed": "ENG",
@@ -48027,6 +48012,21 @@
     "K": "20",
     "RatingMonth": "JUL26",
     "B-day": "2002",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "343443915",
+    "Name": "Smith, Adam",
+    "Fed": "ENG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1586",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "JUL26",
+    "B-day": "2004",
     "Flag": "i"
   },
   {
