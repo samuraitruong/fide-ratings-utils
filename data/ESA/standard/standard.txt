@@ -1,4 +1,4 @@
-ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA JUL26 Gms K  B-day Flag
+ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA AUG26 Gms K  B-day Flag
 6705863        Abarca, Camila Rene                                          ESA F   WCM  WCM  NA                 1804  0   20 2003  wi  
 6702147        Abarca, Xavier                                               ESA M                                1911  0   40 0     i   
 6700209        Acevedo, Salmir                                              ESA M                                2112  0   20 1977  i   
@@ -53,16 +53,16 @@ ID Number      Name                                                         Fed 
 6710255        Barahona, Josue                                              ESA M                                1634  0   40 2011      
 6711162        Barraza Perez, Angel Efrain                                  ESA M                                1724  0   40 2012      
 6703186        Barrientos, Freddy                                           ESA M                                1909  0   20 0     i   
-6705294        Barrientos, Fredi                                            ESA M                                1872  0   40 0         
-6710247        Benner, Teresa Ann                                           ESA F                                1519  0   40 2012  w   
+6705294        Barrientos, Fredi                                            ESA M                                1872  0   40 0     i   
+6710247        Benner, Teresa Ann                                           ESA F                                1519  0   40 2012  wi  
 6700292        Blanco, David E.                                             ESA M                                1924  0   20 1981  i   
-6700837        Blandon, Jaime                                               ESA M                                1907  0   20 1987  i   
+6700837        Blandon, Jaime                                               ESA M                            AFM 1907  0   20 1987  i   
 6701639        Bolanos, Jeremias                                            ESA M                            ACM 1568  0   20 0         
 6711979        Bonilla Contreras, Francisco Humberto                        ESA M                                1547  0   40 2008      
 6714056        Bonilla Velasquez, Diego Fabian                              ESA M                                1422  0   40 2017      
-6708196        Bonilla, Cesar                                               ESA M                                1555  6   40 1996      
+6708196        Bonilla, Cesar                                               ESA M                                1555  0   40 1996      
 6701647        Brizuela, Ruben                                              ESA M                                1755  0   40 1943  i   
-6700900        Bucaro, Luis                                                 ESA M                                1788  0   40 1956      
+6700900        Bucaro, Luis                                                 ESA M                                1788  0   40 1956  i   
 6700187        Burgos Figueroa, Carlos E.                                   ESA M   IM                           2091  0   20 1979      
 6707114        Burgos Victor Manuel                                         ESA M                                1621  0   40 1956  i   
 6708200        Burgos, Bryan Daniel                                         ESA M                                1576  0   40 2007  i   
@@ -107,7 +107,7 @@ ID Number      Name                                                         Fed 
 6702244        Colorado, Efrain                                             ESA M                                1927  0   20 0     i   
 6706975        Constantino Gudiel                                           ESA M                                1736  0   40 1959      
 6702821        Contreras, Benjamin                                          ESA M                                1870  0   40 0     i   
-6707521        Cordova Juan Pablo                                           ESA M                                1464  0   40 2005      
+6707521        Cordova Juan Pablo                                           ESA M                                1464  0   40 2005  i   
 6700977        Coreas, Guillermo                                            ESA M                                1966  0   20 1988  i   
 6703232        Cornejo, Milton                                              ESA M                                1732  0   20 0         
 6708269        Cortez, Carlos                                               ESA M                                1669  0   20 2007      
@@ -147,7 +147,7 @@ ID Number      Name                                                         Fed 
 6707378        Fuentes Geovanny                                             ESA M                                1719  0   40 1997  i   
 6711790        Fuentes Menendez, Josue Daniel                               ESA M                                1773  0   40 2004      
 6713726        Fuentes, Carlos Alfredo                                      ESA M                                1577  0   40 1970      
-6703003        Funes, Carlos                                                ESA M                                1485  3   40 1978      
+6703003        Funes, Carlos                                                ESA M                                1485  0   40 1978      
 6708331        Funes, Mateo                                                 ESA M                                1474  0   40 2004  i   
 6702988        Galvez, Jose Ernesto                                         ESA M                                1907  0   40 0     i   
 6703275        Garay, Nelson                                                ESA M                                1796  0   40 0     i   
@@ -218,7 +218,7 @@ ID Number      Name                                                         Fed 
 6707556        Ibarra, Alex R.                                              ESA M             NA                 1846  0   20 2007      
 6709826        Ibarra, Katherine                                            ESA F                                1532  0   40 2014  w   
 6709974        Iglesias, Carlos                                             ESA M                                1430  0   40 2015      
-6700144        Infante, Salvador                                            ESA M   FM                           2101  0   20 1951  i   
+6700144        Infante, Salvador                                            ESA M   FM                           2073  5   20 1951      
 6700616        Iraheta, Rafael                                              ESA M                                1999  0   20 1990  i   
 6712185        Jaime Rodriguez, Francisco Raul                              ESA M                                1518  0   40 1994  i   
 6706908        Jimenez Andres                                               ESA M                                1487  0   40 2006  i   
@@ -246,7 +246,7 @@ ID Number      Name                                                         Fed 
 6707661        Lopez Tobar, Jeffrey Jair                                    ESA M                                1556  0   40 2009      
 6703364        Lopez, Alfredo                                               ESA M                                1679  0   40 0     i   
 6704760        Lopez, Arnold                                                ESA M                                1857  0   40 0     i   
-6700713        Lopez, Carlos Manuel                                         ESA M             SI,NA              1920  0   20 1991      
+6700713        Lopez, Carlos Manuel                                         ESA M             SI,NA              1920  0   20 1991  i   
 6701213        Lopez, Erika Esmeralda                                       ESA F                                1910  0   20 1992  wi  
 6708064        Lopez, Luis                                                  ESA M                                1604  0   40 2004  i   
 6706134        Magana Juan                                                  ESA M                                1651  0   40 1980  i   
@@ -340,7 +340,7 @@ ID Number      Name                                                         Fed 
 6707513        Nuila Katherine                                              ESA F                                1596  0   20 2004  wi  
 6710379        Olivar Molina, Francisco David                               ESA M                                1714  0   40 2010      
 6708730        Orellana, Fabio                                              ESA M                                1477  0   40 2011  i   
-6702392        Ortez, Andrea                                                ESA F   WIM  WIM                     1977  11  20 2001  w   
+6702392        Ortez, Andrea                                                ESA F   WIM  WIM                     1977  0   20 2001  w   
 6711065        Ortiz Molina, Jorge Alberto                                  ESA M                                1504  0   40 1982  i   
 6700390        Osorio, Lorena                                               ESA F   WFM  WFM                     1954  0   40 1997  wi  
 6709540        Pablo Ernesto Martinez Canales                               ESA M                                1671  0   40 1999  i   
@@ -352,7 +352,7 @@ ID Number      Name                                                         Fed 
 6705359        Parada, Elvis                                                ESA M                                1808  0   20 0     i   
 6711049        Paredes Joya, David Alejandro                                ESA M                                1656  0   20 2003      
 6711669        Paredes Ramirez, Fernando Andree                             ESA M                                1401  0   40 2015      
-6703020        Pasasin, Alejandro                                           ESA M                                1547  3   40 1957      
+6703020        Pasasin, Alejandro                                           ESA M                                1547  0   40 1957      
 6700357        Pastor, Omar                                                 ESA M                                1975  0   40 0     i   
 6700373        Pastor, Tania                                                ESA F   WFM  WFM                     1956  0   20 1979  wi  
 6712916        Pena Ortiz, Ernesto Salomon                                  ESA M                                1567  0   40 2007      
@@ -391,7 +391,7 @@ ID Number      Name                                                         Fed 
 6709486        Ricardo Enrique Morales Tejada                               ESA M                                1677  0   40 1978      
 6702139        Rios, Carlos                                                 ESA M                                1963  0   20 0     i   
 6701728        Rios, Salvador                                               ESA M                                1954  0   40 0     i   
-6702414        Rivas Campos, Jonatan Esli                                   ESA M                                1519  5   20 1977      
+6702414        Rivas Campos, Jonatan Esli                                   ESA M                                1519  0   20 1977      
 6712363        Rivas Medina, Fernando Enrique                               ESA M                                1496  0   40 2007      
 6701450        Rivas, Juan                                                  ESA M                                1520  0   40 1947      
 6703534        Rivas, Rigoberto                                             ESA M                                1796  0   40 0     i   
@@ -468,7 +468,7 @@ ID Number      Name                                                         Fed 
 6703780        Valencia, Oscar                                              ESA M                                1912  0   20 0     i   
 6710530        Vaquerano Lazo, Jose Daniel                                  ESA M                                1733  0   40 1980  i   
 6710450        Vaquerano, Daniel Mateo                                      ESA M                                1553  0   40 2011      
-6702490        Vaquero, Roberto                                             ESA M                                1548  5   40 0         
+6702490        Vaquero, Roberto                                             ESA M                                1548  0   40 0         
 6707408        Vasquez Cristian                                             ESA M                                1567  0   40 1998  i   
 6708897        Vasquez Munoz, Paola                                         ESA F                                1504  0   40 2007  wi  
 6707254        Vasquez Oscar Ernesto                                        ESA M                                1841  0   20 1972  i   
