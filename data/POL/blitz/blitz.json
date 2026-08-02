@@ -3285,21 +3285,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "21831610",
-    "Name": "Bak, Jakub",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1454",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "2001",
-    "Flag": ""
-  },
-  {
     "ID Number": "41847113",
     "Name": "Bak, Jakub",
     "Fed": "POL",
@@ -3313,6 +3298,21 @@
     "RatingMonth": "AUG26",
     "B-day": "2004",
     "Flag": "i"
+  },
+  {
+    "ID Number": "21831610",
+    "Name": "Bak, Jakub",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1454",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "2001",
+    "Flag": ""
   },
   {
     "ID Number": "21023468",
@@ -3855,21 +3855,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "545061181",
-    "Name": "Banas, Michal",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1695",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1985",
-    "Flag": ""
-  },
-  {
     "ID Number": "91163960",
     "Name": "Banas, Michal",
     "Fed": "POL",
@@ -3883,6 +3868,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1985",
     "Flag": "i"
+  },
+  {
+    "ID Number": "545061181",
+    "Name": "Banas, Michal",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1695",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1985",
+    "Flag": ""
   },
   {
     "ID Number": "91120780",
@@ -44220,21 +44220,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "41812948",
-    "Name": "Grabowski, Krzysztof",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1629",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1991",
-    "Flag": "i"
-  },
-  {
     "ID Number": "545090637",
     "Name": "Grabowski, Krzysztof",
     "Fed": "POL",
@@ -44248,6 +44233,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1995",
     "Flag": ""
+  },
+  {
+    "ID Number": "41812948",
+    "Name": "Grabowski, Krzysztof",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1629",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1991",
+    "Flag": "i"
   },
   {
     "ID Number": "21875626",
@@ -47055,21 +47055,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "21872740",
-    "Name": "Grzelak, Karol",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1665",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1989",
-    "Flag": "i"
-  },
-  {
     "ID Number": "41891287",
     "Name": "Grzelak, Karol",
     "Fed": "POL",
@@ -47082,6 +47067,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "2009",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "21872740",
+    "Name": "Grzelak, Karol",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1665",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1989",
     "Flag": "i"
   },
   {
@@ -57420,18 +57420,18 @@
     "Flag": ""
   },
   {
-    "ID Number": "21894612",
+    "ID Number": "91139821",
     "Name": "Jaworski, Mateusz",
     "Fed": "POL",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1589",
+    "Rating": "1799",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "AUG26",
-    "B-day": "2000",
+    "B-day": "2003",
     "Flag": "i"
   },
   {
@@ -57450,18 +57450,18 @@
     "Flag": ""
   },
   {
-    "ID Number": "91139821",
+    "ID Number": "21894612",
     "Name": "Jaworski, Mateusz",
     "Fed": "POL",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1799",
+    "Rating": "1589",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "AUG26",
-    "B-day": "2003",
+    "B-day": "2000",
     "Flag": "i"
   },
   {
@@ -61035,21 +61035,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "21089523",
-    "Name": "Kalinowski, Adam",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1429",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "2007",
-    "Flag": "i"
-  },
-  {
     "ID Number": "21090416",
     "Name": "Kalinowski, Adam",
     "Fed": "POL",
@@ -61062,6 +61047,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1997",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "21089523",
+    "Name": "Kalinowski, Adam",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1429",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "2007",
     "Flag": "i"
   },
   {
@@ -62460,21 +62460,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "21054193",
-    "Name": "Kania, Kacper",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1603",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "2001",
-    "Flag": "i"
-  },
-  {
     "ID Number": "545030340",
     "Name": "Kania, Kacper",
     "Fed": "POL",
@@ -62487,6 +62472,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1998",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "21054193",
+    "Name": "Kania, Kacper",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1603",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "2001",
     "Flag": "i"
   },
   {
@@ -74760,21 +74760,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "21849560",
-    "Name": "Kos, Krzysztof",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1513",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1995",
-    "Flag": "i"
-  },
-  {
     "ID Number": "21020442",
     "Name": "Kos, Krzysztof",
     "Fed": "POL",
@@ -74787,6 +74772,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1991",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "21849560",
+    "Name": "Kos, Krzysztof",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1513",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1995",
     "Flag": "i"
   },
   {
@@ -76035,21 +76035,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "21068798",
-    "Name": "Kot, Michal",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1719",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1995",
-    "Flag": "i"
-  },
-  {
     "ID Number": "41819969",
     "Name": "Kot, Michal",
     "Fed": "POL",
@@ -76063,6 +76048,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1974",
     "Flag": ""
+  },
+  {
+    "ID Number": "21068798",
+    "Name": "Kot, Michal",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1719",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1995",
+    "Flag": "i"
   },
   {
     "ID Number": "41822579",
@@ -84825,21 +84825,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "41860438",
-    "Name": "Kubik, Michal",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1476",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1999",
-    "Flag": ""
-  },
-  {
     "ID Number": "41849558",
     "Name": "Kubik, Michal",
     "Fed": "POL",
@@ -84853,6 +84838,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1975",
     "Flag": "i"
+  },
+  {
+    "ID Number": "41860438",
+    "Name": "Kubik, Michal",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1476",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1999",
+    "Flag": ""
   },
   {
     "ID Number": "21038490",
@@ -89715,21 +89715,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "21835314",
-    "Name": "Kwiatkowski, Mateusz",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1806",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1997",
-    "Flag": "i"
-  },
-  {
     "ID Number": "91100542",
     "Name": "Kwiatkowski, Mateusz",
     "Fed": "POL",
@@ -89742,6 +89727,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "2004",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "21835314",
+    "Name": "Kwiatkowski, Mateusz",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1806",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1997",
     "Flag": "i"
   },
   {
@@ -95100,21 +95100,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "545067562",
-    "Name": "Lisiecki, Mikolaj",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1506",
-    "Gms": "7",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "2012",
-    "Flag": ""
-  },
-  {
     "ID Number": "21860033",
     "Name": "Lisiecki, Mikolaj",
     "Fed": "POL",
@@ -95128,6 +95113,21 @@
     "RatingMonth": "AUG26",
     "B-day": "2005",
     "Flag": "i"
+  },
+  {
+    "ID Number": "545067562",
+    "Name": "Lisiecki, Mikolaj",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1506",
+    "Gms": "7",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "2012",
+    "Flag": ""
   },
   {
     "ID Number": "1151355",
@@ -114150,21 +114150,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "21896682",
-    "Name": "Musial, Piotr",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1428",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1986",
-    "Flag": "i"
-  },
-  {
     "ID Number": "91101921",
     "Name": "Musial, Piotr",
     "Fed": "POL",
@@ -114177,6 +114162,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "2008",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "21896682",
+    "Name": "Musial, Piotr",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1428",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1986",
     "Flag": "i"
   },
   {
@@ -119010,21 +119010,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "41876636",
-    "Name": "Nowicki, Pawel",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1530",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "2006",
-    "Flag": "i"
-  },
-  {
     "ID Number": "545048398",
     "Name": "Nowicki, Pawel",
     "Fed": "POL",
@@ -119038,6 +119023,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1994",
     "Flag": ""
+  },
+  {
+    "ID Number": "41876636",
+    "Name": "Nowicki, Pawel",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1530",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "2006",
+    "Flag": "i"
   },
   {
     "ID Number": "1167090",
@@ -187290,21 +187290,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "545047545",
-    "Name": "Wojciechowski, Pawel",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1521",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "2011",
-    "Flag": ""
-  },
-  {
     "ID Number": "21822999",
     "Name": "Wojciechowski, Pawel",
     "Fed": "POL",
@@ -187318,6 +187303,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1986",
     "Flag": "i"
+  },
+  {
+    "ID Number": "545047545",
+    "Name": "Wojciechowski, Pawel",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1521",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "2011",
+    "Flag": ""
   },
   {
     "ID Number": "1139843",
@@ -190245,21 +190245,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "545096945",
-    "Name": "Wozniak, Pawel",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1861",
-    "Gms": "13",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1979",
-    "Flag": ""
-  },
-  {
     "ID Number": "21842396",
     "Name": "Wozniak, Pawel",
     "Fed": "POL",
@@ -190273,6 +190258,21 @@
     "RatingMonth": "AUG26",
     "B-day": "2006",
     "Flag": "i"
+  },
+  {
+    "ID Number": "545096945",
+    "Name": "Wozniak, Pawel",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1861",
+    "Gms": "13",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1979",
+    "Flag": ""
   },
   {
     "ID Number": "1159500",
@@ -190770,21 +190770,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "21047537",
-    "Name": "Wroblewski, Kamil",
-    "Fed": "POL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1618",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "2003",
-    "Flag": "i"
-  },
-  {
     "ID Number": "91138396",
     "Name": "Wroblewski, Kamil",
     "Fed": "POL",
@@ -190798,6 +190783,21 @@
     "RatingMonth": "AUG26",
     "B-day": "2015",
     "Flag": ""
+  },
+  {
+    "ID Number": "21047537",
+    "Name": "Wroblewski, Kamil",
+    "Fed": "POL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1618",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "2003",
+    "Flag": "i"
   },
   {
     "ID Number": "21013004",
@@ -193740,18 +193740,18 @@
     "Flag": "i"
   },
   {
-    "ID Number": "21847835",
+    "ID Number": "41844530",
     "Name": "Zak, Karol",
     "Fed": "POL",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1551",
+    "Rating": "1456",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "AUG26",
-    "B-day": "2004",
+    "B-day": "1985",
     "Flag": "i"
   },
   {
@@ -193770,18 +193770,18 @@
     "Flag": ""
   },
   {
-    "ID Number": "41844530",
+    "ID Number": "21847835",
     "Name": "Zak, Karol",
     "Fed": "POL",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1456",
+    "Rating": "1551",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "AUG26",
-    "B-day": "1985",
+    "B-day": "2004",
     "Flag": "i"
   },
   {

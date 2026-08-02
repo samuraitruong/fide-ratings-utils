@@ -334,7 +334,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3672441,"Fernandez Guerra, Angel Rafael",ECU,M,,,,1443,0,40,AUG26,2018,
 3654168,"Fiallos Garces, Camila Isabel",ECU,F,,,,1450,0,40,AUG26,2015,w
 3654176,"Fiallos Garces, Emilia Alejandra",ECU,F,,,,1500,0,40,AUG26,2016,w
-3600270,"Fierro Baquero, Martha L.",ECU,F,IM,WGM,NA,2280,0,20,AUG26,1977,w
+3600270,"Fierro Baquero, Martha L.",ECU,F,IM,WGM,NA,2256,3,20,AUG26,1977,w
 3631788,"Fierro Leon, Pablo",ECU,M,,,,1705,0,40,AUG26,2005,i
 3657949,"Flores Chavez, Joseph Joaquin",ECU,M,,,,1527,0,40,AUG26,2012,
 3644863,"Flores Medina, Alexander Hiroki",ECU,M,,,,1597,0,,AUG26,2007,
@@ -363,7 +363,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3640515,"Galvez Alvarado, Nissi",ECU,F,,,,1718,0,40,AUG26,2008,w
 3659887,"Gaona Yupangui, Mateo",ECU,M,,,,1620,0,40,AUG26,2007,i
 3645002,"Garay Huillca, Alisson Jordana",ECU,F,,,,1557,0,40,AUG26,2014,w
-3664511,"Garces Paredes, Marina",ECU,F,,,,1448,3,40,AUG26,2018,w
 3642909,"Garcia Alban, Jorge Alejandro",ECU,M,,,,1688,0,40,AUG26,2008,
 3653056,"Garcia Cedeno, Segundo Marcos",ECU,M,,,,1453,0,40,AUG26,2009,i
 3640817,"Garcia De La Rosa, Daniel Vladimir",ECU,M,,,,1869,0,,AUG26,2009,
@@ -447,6 +446,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3639630,"Herrera Murillo, Mishel",ECU,F,,,,1445,0,40,AUG26,2009,wi
 3604659,"Herrera Rosero, Alex",ECU,M,,,,1895,0,20,AUG26,0,
 3635457,"Herrera Vargas, Juan Carlos",ECU,M,,,,1755,0,,AUG26,1997,i
+3600360,"Hidalgo Azanza, Jaime",ECU,M,,,,2077,9,20,AUG26,1956,
 3644448,"Hidalgo Chamorro, Theo Valentin",ECU,M,,,,1406,0,40,AUG26,2016,
 3634655,"Hidalgo Chamorro,Manuela Valentina",ECU,F,,,,1597,0,40,AUG26,2009,wi
 3637590,"Huerta Chacon, Jonnathan Santiago",ECU,M,,,,1747,0,20,AUG26,2004,i
@@ -803,7 +803,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3603555,"Palacios Zambrano, Victor",ECU,M,,,,2059,0,20,AUG26,1991,i
 3673472,"Paladines Munoz, Marvin Akili",ECU,M,,,,1484,0,40,AUG26,2015,
 3642267,"Palatte Murillo, Ivonne Leonella",ECU,F,,,,1563,0,40,AUG26,2010,w
-3646831,"Palma Franco, Alma Camila",ECU,F,,,,1704,7,40,AUG26,2015,w
+3646831,"Palma Franco, Alma Camila",ECU,F,,,,1695,15,40,AUG26,2015,w
 3604241,"Palma Moscoso, Alvaro Dario",ECU,M,,,,2172,0,20,AUG26,1993,i
 3646823,"Palma Veliz, Emily Milena",ECU,F,,,,1463,0,40,AUG26,2016,w
 3668517,"Panama Pichamba, Alan Nicolas",ECU,M,,,,1557,5,40,AUG26,2013,
@@ -1198,7 +1198,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3669335,"Zapata Jumbo, Gabriel Alexander",ECU,M,,,,1508,0,40,AUG26,2011,
 3634647,"Zapata, Cesar",ECU,M,,,,1628,0,20,AUG26,2001,
 3670210,"Zheng Siguenza, John Omar",ECU,M,,,,1457,0,40,AUG26,1994,
-3643891,"Zhindon Minchala, Ana Cristina",ECU,F,,,,1717,0,40,AUG26,2013,w
+3643891,"Zhindon Minchala, Ana Cristina",ECU,F,,,,1737,7,40,AUG26,2013,w
 3637689,"Zhindon Minchala, Andrea",ECU,F,,,,1516,0,20,AUG26,2004,wi
 3639410,"Zhindon Minchala, Maria Belen",ECU,F,,,,1538,0,40,AUG26,2008,w
 3632954,"Zhingri Dutan, Mabel Carolina",ECU,F,,,,1621,0,40,AUG26,2005,wi

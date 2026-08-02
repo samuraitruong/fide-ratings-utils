@@ -5902,8 +5902,8 @@
     "Title": "FM",
     "WTit": "",
     "OTit": "",
-    "Rating": "2356",
-    "Gms": "11",
+    "Rating": "2394",
+    "Gms": "20",
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "2001",
@@ -7972,8 +7972,8 @@
     "Title": "GM",
     "WTit": "",
     "OTit": "",
-    "Rating": "2411",
-    "Gms": "19",
+    "Rating": "2402",
+    "Gms": "27",
     "K": "10",
     "RatingMonth": "AUG26",
     "B-day": "1986",
@@ -33390,21 +33390,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "4462483",
-    "Name": "Gomez, Alberto",
-    "Fed": "COL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1914",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1961",
-    "Flag": "i"
-  },
-  {
     "ID Number": "4484916",
     "Name": "Gomez, Alberto",
     "Fed": "COL",
@@ -33417,6 +33402,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1952",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "4462483",
+    "Name": "Gomez, Alberto",
+    "Fed": "COL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1914",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1961",
     "Flag": "i"
   },
   {
@@ -47040,21 +47040,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "4468090",
-    "Name": "Martinez Urbina, Sergio Andres",
-    "Fed": "COL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1918",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1981",
-    "Flag": "i"
-  },
-  {
     "ID Number": "4409264",
     "Name": "Martinez Urbina, Sergio Andres",
     "Fed": "COL",
@@ -47067,6 +47052,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "1988",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "4468090",
+    "Name": "Martinez Urbina, Sergio Andres",
+    "Fed": "COL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1918",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1981",
     "Flag": "i"
   },
   {
@@ -86625,21 +86625,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "4445368",
-    "Name": "Velandia, Nilson Ferney",
-    "Fed": "COL",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1590",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1989",
-    "Flag": "i"
-  },
-  {
     "ID Number": "4464192",
     "Name": "Velandia, Nilson Ferney",
     "Fed": "COL",
@@ -86652,6 +86637,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "1993",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "4445368",
+    "Name": "Velandia, Nilson Ferney",
+    "Fed": "COL",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1590",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1989",
     "Flag": "i"
   },
   {

@@ -615,21 +615,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "532047398",
-    "Name": "Abdul, Aziz",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1521",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1963",
-    "Flag": ""
-  },
-  {
     "ID Number": "532017693",
     "Name": "Abdul, Aziz",
     "Fed": "BAN",
@@ -643,6 +628,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1981",
     "Flag": "i"
+  },
+  {
+    "ID Number": "532047398",
+    "Name": "Abdul, Aziz",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1521",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1963",
+    "Flag": ""
   },
   {
     "ID Number": "10260803",
@@ -825,21 +825,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "10293043",
-    "Name": "Abdul, Mannan",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1728",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1977",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10215000",
     "Name": "Abdul, Mannan",
     "Fed": "BAN",
@@ -852,6 +837,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "0",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10293043",
+    "Name": "Abdul, Mannan",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1728",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1977",
     "Flag": "i"
   },
   {
@@ -1530,21 +1530,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "10299920",
-    "Name": "Abdur, Rahman",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1544",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1970",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10248099",
     "Name": "Abdur, Rahman",
     "Fed": "BAN",
@@ -1557,6 +1542,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1989",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10299920",
+    "Name": "Abdur, Rahman",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1544",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1970",
     "Flag": "i"
   },
   {
@@ -1680,21 +1680,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "10271295",
-    "Name": "Abdus, Salam",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1822",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1968",
-    "Flag": ""
-  },
-  {
     "ID Number": "532003560",
     "Name": "Abdus, Salam",
     "Fed": "BAN",
@@ -1708,6 +1693,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1987",
     "Flag": "i"
+  },
+  {
+    "ID Number": "10271295",
+    "Name": "Abdus, Salam",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1822",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1968",
+    "Flag": ""
   },
   {
     "ID Number": "532007280",
@@ -13290,21 +13290,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10239553",
-    "Name": "Gias, Uddin",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1794",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1980",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10262890",
     "Name": "Gias, Uddin",
     "Fed": "BAN",
@@ -13317,6 +13302,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1999",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10239553",
+    "Name": "Gias, Uddin",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1794",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1980",
     "Flag": "i"
   },
   {
@@ -13785,21 +13785,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "532042108",
-    "Name": "Habibur, Rahman",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1737",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1987",
-    "Flag": ""
-  },
-  {
     "ID Number": "532023324",
     "Name": "Habibur, Rahman",
     "Fed": "BAN",
@@ -13813,6 +13798,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1976",
     "Flag": "i"
+  },
+  {
+    "ID Number": "532042108",
+    "Name": "Habibur, Rahman",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1737",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1987",
+    "Flag": ""
   },
   {
     "ID Number": "532003579",
@@ -17475,21 +17475,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10298517",
-    "Name": "Islam, Saiful",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1636",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1982",
-    "Flag": ""
-  },
-  {
     "ID Number": "10218270",
     "Name": "Islam, Saiful",
     "Fed": "BAN",
@@ -17503,6 +17488,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1967",
     "Flag": "i"
+  },
+  {
+    "ID Number": "10298517",
+    "Name": "Islam, Saiful",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1636",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1982",
+    "Flag": ""
   },
   {
     "ID Number": "10205764",
@@ -19005,21 +19005,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10277382",
-    "Name": "Joynal, Abedin",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1722",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1987",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10223495",
     "Name": "Joynal, Abedin",
     "Fed": "BAN",
@@ -19032,6 +19017,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1992",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10277382",
+    "Name": "Joynal, Abedin",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1722",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1987",
     "Flag": "i"
   },
   {
@@ -19905,21 +19905,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10234489",
-    "Name": "Kamrul, Hasan",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1797",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1974",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10224904",
     "Name": "Kamrul, Hasan",
     "Fed": "BAN",
@@ -19932,6 +19917,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1962",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10234489",
+    "Name": "Kamrul, Hasan",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1797",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1974",
     "Flag": "i"
   },
   {
@@ -25245,21 +25245,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10236392",
-    "Name": "Md Afzal, Hossain",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1832",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1972",
-    "Flag": "i"
-  },
-  {
     "ID Number": "532029799",
     "Name": "Md Afzal, Hossain",
     "Fed": "BAN",
@@ -25273,6 +25258,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1990",
     "Flag": ""
+  },
+  {
+    "ID Number": "10236392",
+    "Name": "Md Afzal, Hossain",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1832",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1972",
+    "Flag": "i"
   },
   {
     "ID Number": "532017065",
@@ -25470,21 +25470,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "532006462",
-    "Name": "Md Al Amin, Hossain",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1861",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1996",
-    "Flag": "i"
-  },
-  {
     "ID Number": "532006454",
     "Name": "Md Al Amin, Hossain",
     "Fed": "BAN",
@@ -25498,6 +25483,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1995",
     "Flag": ""
+  },
+  {
+    "ID Number": "532006462",
+    "Name": "Md Al Amin, Hossain",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1861",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1996",
+    "Flag": "i"
   },
   {
     "ID Number": "532010559",
@@ -25515,19 +25515,19 @@
     "Flag": ""
   },
   {
-    "ID Number": "532045662",
+    "ID Number": "10297693",
     "Name": "Md Al, Amin",
     "Fed": "BAN",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1546",
+    "Rating": "1672",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "AUG26",
-    "B-day": "1986",
-    "Flag": ""
+    "B-day": "1996",
+    "Flag": "i"
   },
   {
     "ID Number": "532043422",
@@ -25545,19 +25545,19 @@
     "Flag": ""
   },
   {
-    "ID Number": "10297693",
+    "ID Number": "532045662",
     "Name": "Md Al, Amin",
     "Fed": "BAN",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1672",
+    "Rating": "1546",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "AUG26",
-    "B-day": "1996",
-    "Flag": "i"
+    "B-day": "1986",
+    "Flag": ""
   },
   {
     "ID Number": "532045670",
@@ -25980,21 +25980,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "10245200",
-    "Name": "Md Aminul, Islam",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1706",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1977",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10298835",
     "Name": "Md Aminul, Islam",
     "Fed": "BAN",
@@ -26008,6 +25993,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1992",
     "Flag": ""
+  },
+  {
+    "ID Number": "10245200",
+    "Name": "Md Aminul, Islam",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1706",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1977",
+    "Flag": "i"
   },
   {
     "ID Number": "10294465",
@@ -26445,21 +26445,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10235752",
-    "Name": "Md Ariful, Islam",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1770",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1996",
-    "Flag": "i"
-  },
-  {
     "ID Number": "532046219",
     "Name": "Md Ariful, Islam",
     "Fed": "BAN",
@@ -26475,18 +26460,18 @@
     "Flag": ""
   },
   {
-    "ID Number": "532018800",
-    "Name": "Md Arifur, Rahman",
+    "ID Number": "10235752",
+    "Name": "Md Ariful, Islam",
     "Fed": "BAN",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1487",
+    "Rating": "1770",
     "Gms": "0",
-    "K": "40",
+    "K": "20",
     "RatingMonth": "AUG26",
-    "B-day": "2011",
+    "B-day": "1996",
     "Flag": "i"
   },
   {
@@ -26503,6 +26488,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1988",
     "Flag": ""
+  },
+  {
+    "ID Number": "532018800",
+    "Name": "Md Arifur, Rahman",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1487",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "2011",
+    "Flag": "i"
   },
   {
     "ID Number": "10205063",
@@ -29010,21 +29010,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "532045476",
-    "Name": "Md Jamal, Uddin",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1825",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1983",
-    "Flag": ""
-  },
-  {
     "ID Number": "532001380",
     "Name": "Md Jamal, Uddin",
     "Fed": "BAN",
@@ -29038,6 +29023,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1989",
     "Flag": "i"
+  },
+  {
+    "ID Number": "532045476",
+    "Name": "Md Jamal, Uddin",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1825",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1983",
+    "Flag": ""
   },
   {
     "ID Number": "10279261",
@@ -29640,21 +29640,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "532004419",
-    "Name": "Md Khorshed, Alam",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1673",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1962",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10298746",
     "Name": "Md Khorshed, Alam",
     "Fed": "BAN",
@@ -29667,6 +29652,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "1972",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "532004419",
+    "Name": "Md Khorshed, Alam",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1673",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1962",
     "Flag": "i"
   },
   {
@@ -30360,21 +30360,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "532042566",
-    "Name": "Md Masud, Rana",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1710",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1999",
-    "Flag": ""
-  },
-  {
     "ID Number": "10283919",
     "Name": "Md Masud, Rana",
     "Fed": "BAN",
@@ -30388,6 +30373,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1980",
     "Flag": "i"
+  },
+  {
+    "ID Number": "532042566",
+    "Name": "Md Masud, Rana",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1710",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1999",
+    "Flag": ""
   },
   {
     "ID Number": "10254773",
@@ -30870,21 +30870,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "532007370",
-    "Name": "Md Mizanur, Rahman",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1831",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "2004",
-    "Flag": ""
-  },
-  {
     "ID Number": "10246053",
     "Name": "Md Mizanur, Rahman",
     "Fed": "BAN",
@@ -30898,6 +30883,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1964",
     "Flag": "i"
+  },
+  {
+    "ID Number": "532007370",
+    "Name": "Md Mizanur, Rahman",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1831",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "2004",
+    "Flag": ""
   },
   {
     "ID Number": "532030126",
@@ -31260,21 +31260,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10299874",
-    "Name": "Md Monirul Islam",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1789",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1981",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10268430",
     "Name": "Md Monirul Islam",
     "Fed": "BAN",
@@ -31287,6 +31272,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "1987",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10299874",
+    "Name": "Md Monirul Islam",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1789",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1981",
     "Flag": "i"
   },
   {
@@ -31335,21 +31335,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "10290770",
-    "Name": "Md Monirul, Islam",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1759",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1993",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10286810",
     "Name": "Md Monirul, Islam",
     "Fed": "BAN",
@@ -31362,6 +31347,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "2005",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10290770",
+    "Name": "Md Monirul, Islam",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1759",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1993",
     "Flag": "i"
   },
   {
@@ -32400,19 +32400,19 @@
     "Flag": "i"
   },
   {
-    "ID Number": "532045719",
+    "ID Number": "10237330",
     "Name": "Md Nurul, Islam",
     "Fed": "BAN",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1530",
+    "Rating": "1849",
     "Gms": "0",
-    "K": "40",
+    "K": "20",
     "RatingMonth": "AUG26",
-    "B-day": "1981",
-    "Flag": ""
+    "B-day": "1976",
+    "Flag": "i"
   },
   {
     "ID Number": "532037473",
@@ -32430,19 +32430,19 @@
     "Flag": ""
   },
   {
-    "ID Number": "10237330",
+    "ID Number": "532045719",
     "Name": "Md Nurul, Islam",
     "Fed": "BAN",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1849",
+    "Rating": "1530",
     "Gms": "0",
-    "K": "20",
+    "K": "40",
     "RatingMonth": "AUG26",
-    "B-day": "1976",
-    "Flag": "i"
+    "B-day": "1981",
+    "Flag": ""
   },
   {
     "ID Number": "532007582",
@@ -32745,21 +32745,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10274405",
-    "Name": "Md Rafiqul, Islam",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1837",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1985",
-    "Flag": "i"
-  },
-  {
     "ID Number": "532009909",
     "Name": "Md Rafiqul, Islam",
     "Fed": "BAN",
@@ -32772,6 +32757,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "1973",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10274405",
+    "Name": "Md Rafiqul, Islam",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1837",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1985",
     "Flag": "i"
   },
   {
@@ -36945,21 +36945,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10256571",
-    "Name": "Md, Alamin",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1848",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1988",
-    "Flag": "i"
-  },
-  {
     "ID Number": "532033680",
     "Name": "Md, Alamin",
     "Fed": "BAN",
@@ -36987,6 +36972,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1990",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10256571",
+    "Name": "Md, Alamin",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1848",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1988",
     "Flag": "i"
   },
   {
@@ -37830,21 +37830,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10244476",
-    "Name": "Md, Israfil",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1824",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1980",
-    "Flag": ""
-  },
-  {
     "ID Number": "10255338",
     "Name": "Md, Israfil",
     "Fed": "BAN",
@@ -37858,6 +37843,21 @@
     "RatingMonth": "AUG26",
     "B-day": "2001",
     "Flag": "i"
+  },
+  {
+    "ID Number": "10244476",
+    "Name": "Md, Israfil",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1824",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1980",
+    "Flag": ""
   },
   {
     "ID Number": "532033702",
@@ -38040,21 +38040,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "10248536",
-    "Name": "Md, Kajol",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1776",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1972",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10248625",
     "Name": "Md, Kajol",
     "Fed": "BAN",
@@ -38067,6 +38052,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1989",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10248536",
+    "Name": "Md, Kajol",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1776",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1972",
     "Flag": "i"
   },
   {
@@ -38985,21 +38985,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "532006209",
-    "Name": "Md, Rasel",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1707",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1982",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10249850",
     "Name": "Md, Rasel",
     "Fed": "BAN",
@@ -39012,6 +38997,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "1996",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "532006209",
+    "Name": "Md, Rasel",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1707",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1982",
     "Flag": "i"
   },
   {
@@ -39420,21 +39420,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "10278770",
-    "Name": "Md, Saiful Islam",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1546",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1989",
-    "Flag": "i"
-  },
-  {
     "ID Number": "532000154",
     "Name": "Md, Saiful Islam",
     "Fed": "BAN",
@@ -39447,6 +39432,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "1996",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10278770",
+    "Name": "Md, Saiful Islam",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1546",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1989",
     "Flag": "i"
   },
   {
@@ -43035,21 +43035,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10228160",
-    "Name": "Md. Nazrul, Islam",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1850",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1978",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10228942",
     "Name": "Md. Nazrul, Islam",
     "Fed": "BAN",
@@ -43063,6 +43048,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1978",
     "Flag": ""
+  },
+  {
+    "ID Number": "10228160",
+    "Name": "Md. Nazrul, Islam",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1850",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1978",
+    "Flag": "i"
   },
   {
     "ID Number": "10229914",
@@ -46590,21 +46590,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "532046294",
-    "Name": "Mehedi, Hasan",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1589",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "2008",
-    "Flag": ""
-  },
-  {
     "ID Number": "532001576",
     "Name": "Mehedi, Hasan",
     "Fed": "BAN",
@@ -46618,6 +46603,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1989",
     "Flag": "i"
+  },
+  {
+    "ID Number": "532046294",
+    "Name": "Mehedi, Hasan",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1589",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "2008",
+    "Flag": ""
   },
   {
     "ID Number": "532035551",
@@ -50745,21 +50745,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "532031688",
-    "Name": "Moniruzzaman, Monir",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1819",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1977",
-    "Flag": ""
-  },
-  {
     "ID Number": "10284893",
     "Name": "Moniruzzaman, Monir",
     "Fed": "BAN",
@@ -50773,6 +50758,21 @@
     "RatingMonth": "AUG26",
     "B-day": "1993",
     "Flag": "i"
+  },
+  {
+    "ID Number": "532031688",
+    "Name": "Moniruzzaman, Monir",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1819",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1977",
+    "Flag": ""
   },
   {
     "ID Number": "532007418",
@@ -53745,21 +53745,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10279180",
-    "Name": "Nasir, Uddin",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1701",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1974",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10263500",
     "Name": "Nasir, Uddin",
     "Fed": "BAN",
@@ -53772,6 +53757,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1998",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10279180",
+    "Name": "Nasir, Uddin",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1701",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1974",
     "Flag": "i"
   },
   {
@@ -59085,21 +59085,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10298142",
-    "Name": "Rashidun Karim, Rahim",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1810",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "2007",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10297294",
     "Name": "Rashidun Karim, Rahim",
     "Fed": "BAN",
@@ -59112,6 +59097,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "2010",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10298142",
+    "Name": "Rashidun Karim, Rahim",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1810",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "2007",
     "Flag": "i"
   },
   {
@@ -62880,21 +62880,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "532026056",
-    "Name": "Sajid, Mahmud",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1486",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "2012",
-    "Flag": ""
-  },
-  {
     "ID Number": "532018533",
     "Name": "Sajid, Mahmud",
     "Fed": "BAN",
@@ -62907,6 +62892,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "2007",
+    "Flag": ""
+  },
+  {
+    "ID Number": "532026056",
+    "Name": "Sajid, Mahmud",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1486",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "2012",
     "Flag": ""
   },
   {
@@ -65925,21 +65925,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "10264663",
-    "Name": "Shamim, Ahmed",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1832",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "AUG26",
-    "B-day": "1982",
-    "Flag": "i"
-  },
-  {
     "ID Number": "532006284",
     "Name": "Shamim, Ahmed",
     "Fed": "BAN",
@@ -65952,6 +65937,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "1988",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10264663",
+    "Name": "Shamim, Ahmed",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1832",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "AUG26",
+    "B-day": "1982",
     "Flag": "i"
   },
   {
@@ -71325,21 +71325,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "10284990",
-    "Name": "Tanvir, Ahmed",
-    "Fed": "BAN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1615",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "2003",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10239332",
     "Name": "Tanvir, Ahmed",
     "Fed": "BAN",
@@ -71352,6 +71337,21 @@
     "K": "20",
     "RatingMonth": "AUG26",
     "B-day": "1997",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10284990",
+    "Name": "Tanvir, Ahmed",
+    "Fed": "BAN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1615",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "2003",
     "Flag": "i"
   },
   {

@@ -1470,21 +1470,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "20063440",
-    "Name": "Alcaraz, Lucas",
-    "Fed": "ARG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1641",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "2006",
-    "Flag": ""
-  },
-  {
     "ID Number": "20022484",
     "Name": "Alcaraz, Lucas",
     "Fed": "ARG",
@@ -1497,6 +1482,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "1982",
+    "Flag": ""
+  },
+  {
+    "ID Number": "20063440",
+    "Name": "Alcaraz, Lucas",
+    "Fed": "ARG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1641",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "2006",
     "Flag": ""
   },
   {
@@ -38280,21 +38280,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "20035713",
-    "Name": "Lucas, Juan Ignacio",
-    "Fed": "ARG",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1575",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "AUG26",
-    "B-day": "1996",
-    "Flag": "i"
-  },
-  {
     "ID Number": "20042515",
     "Name": "Lucas, Juan Ignacio",
     "Fed": "ARG",
@@ -38307,6 +38292,21 @@
     "K": "40",
     "RatingMonth": "AUG26",
     "B-day": "1994",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "20035713",
+    "Name": "Lucas, Juan Ignacio",
+    "Fed": "ARG",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1575",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "AUG26",
+    "B-day": "1996",
     "Flag": "i"
   },
   {
@@ -47917,8 +47917,8 @@
     "Title": "IM",
     "WTit": "",
     "OTit": "",
-    "Rating": "2511",
-    "Gms": "8",
+    "Rating": "2521",
+    "Gms": "16",
     "K": "10",
     "RatingMonth": "AUG26",
     "B-day": "2013",
