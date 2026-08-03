@@ -4,10 +4,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2300591,"Adalsteinsson, Hermann",ISL,M,,,,1647,0,20,AUG26,1968,
 2311496,"Adalsteinsson, Stefan Bogi",ISL,M,,,,1610,0,20,AUG26,2002,i
 2315483,"Adhikari, Flovent Rigved",ISL,M,,,,1705,0,20,AUG26,2005,
-2311593,"Aegisson, Pall Isak",ISL,M,,,,1583,0,20,AUG26,2002,
+2311593,"Aegisson, Pall Isak",ISL,M,,,,1531,11,20,AUG26,2002,
 2317109,"Agnarsson, Bjorn",ISL,M,,,,1493,0,20,AUG26,1951,i
 2316390,"Agnarsson, Ingi",ISL,M,,,,1769,0,20,AUG26,1971,
-2308118,"Agustsson, Egill Steinar",ISL,M,,,,1858,22,20,AUG26,1985,
+2308118,"Agustsson, Egill Steinar",ISL,M,,,,1841,33,20,AUG26,1985,
 2338114,"Agustsson, Hakon",ISL,M,,,,1597,0,20,AUG26,1975,
 2319314,"Agustsson, Orn",ISL,M,,,,1726,0,20,AUG26,1991,i
 2320762,"Agustsson, Smari Steinn",ISL,M,,,,1583,0,40,AUG26,2009,i
@@ -47,8 +47,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2331500,"Arnarsson, Rokkvi",ISL,M,,,,1452,0,40,AUG26,2012,
 2304570,"Arnarsson, Sveinn",ISL,M,,,,1843,0,20,AUG26,1984,
 2301032,"Arnason, Arni A.",ISL,M,,,,1994,0,20,AUG26,1963,i
-2310511,"Arnason, Arni Thor",ISL,M,,,,1836,0,20,AUG26,1951,i
 2308142,"Arnason, Arni Thor",ISL,M,,,,1735,0,20,AUG26,1938,i
+2310511,"Arnason, Arni Thor",ISL,M,,,,1836,0,20,AUG26,1951,i
 2305402,"Arnason, Einar Agust",ISL,M,,,,1762,0,20,AUG26,1984,
 2302756,"Arnason, Johannes Ingi",ISL,M,,,,1844,0,20,AUG26,1982,
 2300036,"Arnason, Jon L",ISL,M,GM,,,2319,0,10,AUG26,1960,i
@@ -77,7 +77,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2306166,"Axelsson, Omar Pall",ISL,M,,,,1866,0,20,AUG26,1995,i
 2318946,"B. Berglindardottir, Emilia Embla",ISL,F,,,,1552,0,40,AUG26,2012,w
 2302969,"Bachmann, Unnar Thor",ISL,M,,,,1926,0,20,AUG26,1980,
-2337215,"Baginski, Bartosz",ISL,M,,,,1581,0,40,AUG26,2010,
+2337215,"Baginski, Bartosz",ISL,M,,,,1582,3,40,AUG26,2010,
 2334828,"Bahadur Gurung, Prakul Bent",ISL,M,,,,1574,0,40,AUG26,2015,
 2327104,"Baldursson, Anton Bjorn",ISL,M,,,,1581,0,20,AUG26,1961,i
 2313464,"Baldursson, Atli Mar",ISL,M,,,,1512,0,20,AUG26,2002,i
@@ -114,7 +114,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2310600,"Birkisson, Bjorn Holm",ISL,M,CM,,,2216,0,20,AUG26,2000,
 2304554,"Birnuson, Geir",ISL,M,,,,1652,0,20,AUG26,1975,i
 2320576,"Bjarkason, Arnar Gauti",ISL,M,,,,1577,0,20,AUG26,2003,i
-2322455,"Bjarkason, Brynjar",ISL,M,,NA,,1763,0,20,AUG26,1979,
+2322455,"Bjarkason, Brynjar",ISL,M,,NA,,1760,9,20,AUG26,1979,
 2330008,"Bjarkason, Halldor Palmi",ISL,M,,NA,,1826,8,20,AUG26,1981,
 2333449,"Bjarkason, Viktor Franz",ISL,M,,,,1779,0,20,AUG26,2007,i
 2331489,"Bjarnason, Arnar Orri",ISL,M,,,,1475,0,20,AUG26,2003,i
@@ -122,7 +122,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2316633,"Bjarnason, Bjarki Freyr",ISL,M,,,,1815,0,20,AUG26,1988,i
 2323028,"Bjarnason, Kristinn",ISL,M,,,,1764,0,20,AUG26,1964,
 2301458,"Bjarnason, Kristinn Th",ISL,M,,,,1845,0,20,AUG26,1940,i
-2304848,"Bjarnason, Larus H",ISL,M,,,,1611,0,20,AUG26,1956,
+2304848,"Bjarnason, Larus H",ISL,M,,,,1590,6,20,AUG26,1956,
 2317028,"Bjarnason, Loftur Ingi",ISL,M,,,,1570,0,20,AUG26,1986,i
 2339110,"Bjarnason, Markus",ISL,M,,,,1489,0,20,AUG26,1979,
 2316501,"Bjarnason, Olafur",ISL,M,,,,1906,0,20,AUG26,1946,i
@@ -143,11 +143,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2326990,"Bjornsson, Gudjon Birkir",ISL,M,,,,1571,0,20,AUG26,1995,i
 2302039,"Bjornsson, Gunnar",ISL,M,,,,2002,0,20,AUG26,1967,
 2309475,"Bjornsson, Gustaf S.",ISL,M,,,,1701,0,20,AUG26,1984,i
-2325306,"Bjornsson, Harald",ISL,M,,NA,,1898,6,20,AUG26,1984,
+2325306,"Bjornsson, Harald",ISL,M,,NA,,1926,29,20,AUG26,1984,
 2326892,"Bjornsson, Helgi Valur",ISL,M,,,,1676,0,20,AUG26,2006,i
 2301539,"Bjornsson, Jon",ISL,M,,,,1540,0,20,AUG26,1945,i
 2317966,"Bjornsson, Julius",ISL,M,,,,1910,0,20,AUG26,1973,i
-2300974,"Bjornsson, Sigurbjorn",ISL,M,FM,,,2269,0,10,AUG26,1975,
+2300974,"Bjornsson, Sigurbjorn",ISL,M,FM,,,2289,9,10,AUG26,1975,
 2311542,"Bjornsson, Sigurjon Helgi",ISL,M,,,,1698,0,20,AUG26,1965,i
 2301954,"Bjornsson, Sverrir Orn",ISL,M,,,,2026,0,20,AUG26,1971,
 2329794,"Bjornsson, Thordur Valtyr",ISL,M,,,,1523,0,20,AUG26,1998,i
@@ -168,13 +168,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2305224,"Brynjarsson, Alexander Mar",ISL,M,,,,1675,0,20,AUG26,1994,i
 2315939,"Brynjarsson, Einar Dagur",ISL,M,,,,1480,0,40,AUG26,2009,i
 2302233,"Brynjarsson, Helgi",ISL,M,,,,2033,0,20,AUG26,1991,i
-2322544,"Brynjarsson, Nokkvi Holm",ISL,M,,,,1587,0,40,AUG26,2011,
-2321726,"Brynjarsson, Orvar Holm",ISL,M,,,,1948,0,40,AUG26,2012,
+2322544,"Brynjarsson, Nokkvi Holm",ISL,M,,,,1557,9,40,AUG26,2011,
+2321726,"Brynjarsson, Orvar Holm",ISL,M,,,,1971,10,40,AUG26,2012,
 2305313,"Buason, Gudmundur",ISL,M,,,,1755,0,20,AUG26,1944,i
 2303566,"Buason, Runar",ISL,M,,,,1921,0,20,AUG26,1949,i
 2305461,"Carlsson, Carl Johan",ISL,M,,,,1777,0,20,AUG26,1973,i
 2333740,"Cherepinsky, Viacheslav",ISL,M,,,,1696,0,20,AUG26,1966,i
-2334682,"Chowdary Dasari, Venkata Abhinay",ISL,M,,,,1591,0,40,AUG26,2017,
+2334682,"Chowdary Dasari, Venkata Abhinay",ISL,M,,,,1528,11,40,AUG26,2017,
 2338610,"Christophsson, Brimir",ISL,M,,,,1469,0,40,AUG26,2009,
 2317117,"Claesson, Karl Andersson",ISL,M,,,,1492,0,20,AUG26,2001,i
 2339307,"Cogan, Nico",ISL,M,,,,1551,0,20,AUG26,1981,
@@ -237,16 +237,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2338378,"Eiriksson, Birgir",ISL,M,,,,1538,8,20,AUG26,1969,
 2316536,"Eiriksson, Gisli",ISL,M,,,,1640,0,20,AUG26,1951,
 2302314,"Eiriksson, Sigurdur",ISL,M,,,,1864,9,20,AUG26,1951,
-2322277,"Eiriksson, Theodor",ISL,M,,,,1984,0,40,AUG26,2010,
+2322277,"Eiriksson, Theodor",ISL,M,,,,1965,15,40,AUG26,2010,
 2328801,"Elchaer, Adam",ISL,M,,,,1667,0,20,AUG26,2007,i
 2301822,"Eliasson, Jon Steinn",ISL,M,,,,1844,0,20,AUG26,1950,i
-2301784,"Eliasson, Kristjan Orn",ISL,M,,IA,,1948,0,20,AUG26,1958,
+2301784,"Eliasson, Kristjan Orn",ISL,M,,IA,,1986,15,20,AUG26,1958,
 2320789,"Elinarson, Tryggvi Mar",ISL,M,,,,1583,0,40,AUG26,2009,i
 2330628,"Emeliusson, Halldor",ISL,M,,,,1620,0,20,AUG26,1968,i
 2325373,"Emiliuson, Halldor",ISL,M,,,,1614,0,20,AUG26,1968,i
 2330326,"Emilsson, Jakob Thor",ISL,M,,,,1496,0,40,AUG26,2016,
 2330954,"Erlendsson Weinert, Robin Peter",ISL,M,,,,1576,7,40,AUG26,2011,
-2326116,"Ernisson, Petur Ulfar",ISL,M,,,,1969,0,40,AUG26,2015,
+2326116,"Ernisson, Petur Ulfar",ISL,M,,,,1943,8,40,AUG26,2015,
 2318059,"Eyjolfsson, Pall",ISL,M,,,,1591,0,20,AUG26,1967,i
 2327457,"Eyjolfsson, Sigurjon Kari",ISL,M,,,,1556,0,40,AUG26,2010,
 2304635,"Eymundsson, Eymundur",ISL,M,,,,1812,0,20,AUG26,1967,i
@@ -255,7 +255,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2335786,Fernandez Garcia Sergio,ISL,M,,,,1644,8,40,AUG26,1987,
 2300214,"Finnbogadottir, Tinna Kristin",ISL,F,,,,1914,0,20,AUG26,1991,w
 1701550,"Finnlaugsson, Gunnar",ISL,M,,,,1938,0,20,AUG26,1947,i
-2325462,"Finnsson Fenger, Emil",ISL,M,,,,1699,0,40,AUG26,2012,
+2325462,"Finnsson Fenger, Emil",ISL,M,,,,1768,27,40,AUG26,2012,
 2301997,"Finnsson, Finnur",ISL,M,,,,1592,0,20,AUG26,1935,i
 2303590,"Finnsson, Gunnar",ISL,M,,,,1820,0,20,AUG26,1947,i
 2308240,"Finnsson, Johann Arnar",ISL,M,,,,1886,0,20,AUG26,2000,
@@ -264,8 +264,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2333678,"Franksson, Adam",ISL,M,,,,1543,0,20,AUG26,2004,i
 2335832,"Fridbergsson, Hjalmar",ISL,M,,,,1443,0,20,AUG26,1974,
 2300885,"Fridbertsson, Aegir",ISL,M,,,,1951,0,20,AUG26,1966,
-2303124,"Fridgeirsson, Dagur Andri",ISL,M,,NA,,2036,0,20,AUG26,1995,
-2325594,"Fridgeirsson, Daniel Hakon",ISL,M,,NA,,1736,0,20,AUG26,1997,
+2303124,"Fridgeirsson, Dagur Andri",ISL,M,,NA,,2028,7,20,AUG26,1995,
+2325594,"Fridgeirsson, Daniel Hakon",ISL,M,,NA,,1732,6,20,AUG26,1997,
 2319292,"Fridgeirsson, Haraldur O",ISL,M,,,,1708,0,20,AUG26,1985,i
 2306948,"Fridgeirsson, Hilmar Freyr",ISL,M,,,,1911,0,20,AUG26,1999,
 2315963,"Fridgeirsson, Pall Ingi",ISL,M,,,,1422,0,20,AUG26,2003,i
@@ -310,7 +310,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2304864,"Gudfinnsson, Saebjorn",ISL,M,,,,1811,8,20,AUG26,1944,
 2329344,Gudjonsson Larus Solberg,ISL,M,,,,1554,0,20,AUG26,1951,
 2323664,"Gudjonsson, Anton Vignir",ISL,M,,,,1794,0,20,AUG26,1992,i
-2326280,"Gudjonsson, Ingi Haflidi",ISL,M,,NA,,1590,0,20,AUG26,1964,
+2326280,"Gudjonsson, Ingi Haflidi",ISL,M,,NA,,1585,3,20,AUG26,1964,
 2331926,"Gudjonsson, Odinn Freyr",ISL,M,,,,1475,0,20,AUG26,1983,i
 2325110,"Gudjonsson, Petur Alex",ISL,M,,,,1669,0,20,AUG26,2007,i
 2309980,"Gudjonsson, Sigurdur Pall",ISL,M,,,,1851,0,20,AUG26,1962,i
@@ -341,11 +341,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2322463,"Gudmundsson, Solvi",ISL,M,,,,1644,0,20,AUG26,2004,i
 2304872,"Gudmundsson, Stefan Thormar",ISL,M,,,,1877,0,20,AUG26,1946,i
 2329808,"Gudmundsson, Steinn",ISL,M,,,,1728,0,20,AUG26,1996,i
-2332280,"Gudmundsson, Sverrir",ISL,M,,,,1459,0,20,AUG26,1979,
+2332280,"Gudmundsson, Sverrir",ISL,M,,,,1450,5,20,AUG26,1979,
 2337053,"Gudmundsson, Thorbjorn Arnalds",ISL,M,,,,1597,0,20,AUG26,2006,
 2316650,"Gudmundsson, Thordur",ISL,M,,,,1699,0,20,AUG26,1976,i
 2324008,"Gudnason, Daniel",ISL,M,,,,1632,0,20,AUG26,1993,i
-2337223,"Gudnason, Kristofer Daniel",ISL,M,,,,1497,0,20,AUG26,1989,
+2337223,"Gudnason, Kristofer Daniel",ISL,M,,,,1477,4,20,AUG26,1989,
 2321637,"Gudnyjarson, Sigurdur Pall",ISL,M,,,,1843,0,40,AUG26,2011,
 2330059,Gulyas Adam Ferenc,ISL,M,,,,1776,7,20,AUG26,1988,
 2327058,"Gunnarsdottir, Eyrun Eva",ISL,F,,,,1473,0,20,AUG26,1991,wi
@@ -403,7 +403,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2311569,"Hallsson, Jon Eggert",ISL,M,,,,1861,0,20,AUG26,1980,
 2315866,"Hancu, Maricel",ISL,M,,,,1583,0,20,AUG26,1972,i
 2302861,"Hansson, Gudmundur Freyr",ISL,M,,,,1984,0,20,AUG26,1962,i
-2337991,"Hansson, Hilmar Asu",ISL,M,,,,1650,12,20,AUG26,1959,
+2337991,"Hansson, Hilmar Asu",ISL,M,,,,1611,18,20,AUG26,1959,
 2323109,"Haraldsson, Arnar Gylfi",ISL,M,,,,1663,0,20,AUG26,2001,i
 2333970,"Haraldsson, Audunn",ISL,M,,,,1707,0,20,AUG26,1990,
 2323460,"Haraldsson, Grettir Adolf",ISL,M,,,,1527,0,20,AUG26,1975,i
@@ -414,7 +414,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2320690,"Haraldsson, Jon Pall",ISL,M,,,,1715,0,20,AUG26,1970,
 2301865,"Haraldsson, Oskar",ISL,M,,,,1756,0,20,AUG26,1964,i
 2303655,"Haraldsson, Sigurjon",ISL,M,,,,1741,0,20,AUG26,1965,
-2332124,"Haraldsson, Thorvaldur Orri",ISL,M,,,,1458,0,40,AUG26,2016,
 2329077,"Hardarson, Emil",ISL,M,,,,1449,0,20,AUG26,1988,
 2332906,"Hardarson, Fannar",ISL,M,,,,1557,0,20,AUG26,2005,i
 2315890,"Hardarson, Gylfi Mar",ISL,M,,,,1714,0,20,AUG26,2003,i
@@ -449,16 +448,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2335611,"Helgason, Odinn",ISL,M,,,,1425,0,20,AUG26,1988,
 370243352,"Helgason, Olafur Sindri",ISL,M,,,,1763,0,20,AUG26,1981,i
 2316218,"Helgason, Sigurdur",ISL,M,,,,1686,0,20,AUG26,1991,i
-2327503,"Helmer Tobiasson, Joel",ISL,M,,,,1814,8,40,AUG26,2010,
+2327503,"Helmer Tobiasson, Joel",ISL,M,,,,1803,13,40,AUG26,2010,
 2325632,"Hendriksson, Tryggvi Leo",ISL,M,,,,1402,0,40,AUG26,2012,
 2311488,"Henriksen, Viktor Andri",ISL,M,,,,1475,0,20,AUG26,2000,i
+2339552,"Herald, Matthew B",ISL,M,,,,1669,8,40,AUG26,1982,
 2311127,"Hermannsson, Jon Adalsteinn",ISL,M,,,,1630,0,20,AUG26,1999,i
 2306093,"Hermannsson, Olafur",ISL,M,,,,1800,0,20,AUG26,1961,i
 2332310,"Hermannsson, Petur",ISL,M,,,,1574,0,20,AUG26,1983,i
 2325128,"Hermannsson, Sigurbjorn",ISL,M,,,,1924,0,20,AUG26,2007,i
 2332132,"Hermansen, Vilhelm Thor H",ISL,M,,,,1448,0,40,AUG26,2015,
-2335816,"Hjalmarsson, Odinn Darri",ISL,M,,,,1619,13,40,AUG26,2014,
-2315084,"Hjaltason, Elvar Orn",ISL,M,,,,1699,0,20,AUG26,1990,
+2335816,"Hjalmarsson, Odinn Darri",ISL,M,,,,1577,46,40,AUG26,2014,
+2315084,"Hjaltason, Elvar Orn",ISL,M,,,,1678,11,20,AUG26,1990,
 2312883,"Hjaltason, Magnus",ISL,M,,,,1582,0,20,AUG26,2005,i
 2316668,"Hjaltason, Thorarinn",ISL,M,,,,1597,0,20,AUG26,1947,i
 2323010,"Hjartar, Jon",ISL,M,,,,1452,0,20,AUG26,1977,i
@@ -495,6 +495,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2013576,"Ingimarsson, David",ISL,M,,,,1999,0,20,AUG26,1980,i
 2321700,"Ingimarsson, Oddur",ISL,M,,,,1812,0,20,AUG26,1978,i
 2301270,"Ingolfsdottir, Harpa",ISL,F,,,,1886,0,20,AUG26,1981,wi
+2336812,"Ingvaldsson, Noi",ISL,M,,,,1464,5,40,AUG26,2017,
 2335662,"Ingvarsson, Ari",ISL,M,,,,1532,0,40,AUG26,2009,i
 2326256,"Ingvarsson, Einar",ISL,M,,,,1461,0,20,AUG26,2004,
 2307065,"Ingvarsson, Kjartan",ISL,M,,,,1729,0,20,AUG26,1966,
@@ -534,18 +535,18 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2308380,"Johannsson, Johann Bernhard",ISL,M,,,,1661,0,20,AUG26,1994,i
 2338564,"Johannsson, Johann Bjorn",ISL,M,,,,1460,0,20,AUG26,2003,
 2336197,"Johannsson, Kristjan",ISL,M,,,,1606,0,20,AUG26,2005,
-2329174,"Johannsson, Leo Mar",ISL,M,,,,1458,0,20,AUG26,1968,
+2329174,"Johannsson, Leo Mar",ISL,M,,,,1467,17,20,AUG26,1968,
 2318539,"Johannsson, Markus Orri",ISL,M,,,,1945,0,40,AUG26,2009,
 2310244,"Johannsson, Olafur",ISL,M,,,,1652,0,20,AUG26,1972,
-2303051,"Johannsson, Orn Leo",ISL,M,FM,,,2368,0,10,AUG26,1994,
+2303051,"Johannsson, Orn Leo",ISL,M,FM,,,2372,10,10,AUG26,1994,
 2337231,"Johannsson, Tomas Orn",ISL,M,,,,1420,0,40,AUG26,2012,
 2335921,"Johnson, Zach",ISL,M,,,,1502,0,20,AUG26,2002,
 2330385,"Jokulsson, Eidur",ISL,M,,,,1570,5,40,AUG26,2016,
 2303060,"Jokulsson, Hrafn",ISL,M,,,,1896,0,20,AUG26,1965,i
 2300338,"Jonasson, Benedikt",ISL,M,FM,,,2219,0,20,AUG26,1957,i
-2311224,"Jonasson, Hordur",ISL,M,,,,1501,4,20,AUG26,1959,
+2311224,"Jonasson, Hordur",ISL,M,,,,1476,9,20,AUG26,1959,
 2301717,"Jonasson, Jonas",ISL,M,,,,1989,0,,AUG26,1964,i
-2303116,"Jonatansson, Sigurdur Freyr",ISL,M,,,,1692,0,20,AUG26,1969,
+2303116,"Jonatansson, Sigurdur Freyr",ISL,M,,,,1718,14,20,AUG26,1969,
 2321939,"Jonsdottir, Halldora",ISL,F,,,,1556,0,40,AUG26,2013,w
 2316706,"Jonsdottir, Katrin Maria",ISL,F,,,,1520,0,40,AUG26,2008,wi
 2324253,"Jonsdottir, Silja Run",ISL,F,,,,1484,0,40,AUG26,2011,wi
@@ -557,7 +558,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2316587,"Jonsson, Bjorn Gudbrandur",ISL,M,,,,1648,0,20,AUG26,1957,i
 2321300,"Jonsson, Daniel Fridrik",ISL,M,,,,1564,0,40,AUG26,2009,
 2332051,"Jonsson, Frodi",ISL,M,,,,1484,0,20,AUG26,2004,
-2309092,"Jonsson, Gauti Pall",ISL,M,,,,2311,15,20,AUG26,1999,
+2309092,"Jonsson, Gauti Pall",ISL,M,,,,2322,22,20,AUG26,1999,
 2332361,"Jonsson, Gudmundur Geir",ISL,M,,,,1432,0,20,AUG26,1957,i
 2323850,"Jonsson, Hallur Steinar",ISL,M,,,,1685,0,40,AUG26,2011,
 2310961,"Jonsson, Helgi Svanberg",ISL,M,,,,1615,0,20,AUG26,2001,
@@ -603,10 +604,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2307936,"Karlsson, Sighvatur",ISL,M,,,,1543,0,20,AUG26,1959,i
 2304716,"Karlsson, Snorri Sigurdur",ISL,M,,,,1771,0,20,AUG26,1980,i
 2305062,"Karlsson, Thorleifur",ISL,M,,,,2008,0,20,AUG26,1975,
-2329131,"Kato, Erik",ISL,M,,,,1880,0,40,AUG26,2009,
+2329131,"Kato, Erik",ISL,M,,,,1904,8,40,AUG26,2009,
 2329638,"Kemp, Henrik",ISL,M,,,,1488,0,20,AUG26,2004,i
 2323125,"Khukhunaishvili, Mirian",ISL,M,,,,1646,0,20,AUG26,1989,i
-2338661,"Kistela, Piotr Andrzej",ISL,M,,,,1459,0,20,AUG26,1998,
+2338661,"Kistela, Piotr Andrzej",ISL,M,,,,1442,3,20,AUG26,1998,
 2317192,"Kjartansson, Andres Mar",ISL,M,,,,1455,0,20,AUG26,2005,i
 2318342,"Kjartansson, Arnar Logi",ISL,M,,,,1470,0,40,AUG26,2009,i
 2303299,"Kjartansson, Dagur",ISL,M,,,,1892,0,20,AUG26,1996,
@@ -620,8 +621,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2308460,"Kjartansson, Sigurdur",ISL,M,,,,1574,0,20,AUG26,2000,i
 2339072,"Kjartansson, Sigurdur Thor",ISL,M,,,,1521,0,20,AUG26,1995,
 2328500,"Kjartansson, Stefan Karvel",ISL,M,,,,1727,0,40,AUG26,2009,i
-2300940,"Kjeld, Matthias",ISL,M,,,,2115,0,20,AUG26,1979,
+2300940,"Kjeld, Matthias",ISL,M,,,,2109,9,20,AUG26,1979,
 2318113,"Klimek, Michal",ISL,M,,,,1666,0,20,AUG26,1984,i
+2339650,"Knudsen, Martin M",ISL,M,,,,1694,8,40,AUG26,1980,
 2304953,"Knutsson, Johann Larsen",ISL,M,,,,1812,0,20,AUG26,1945,i
 2806231,"Knutsson, Larus",ISL,M,,,,1987,0,20,AUG26,1975,i
 2315475,"Kolbrunardottir Thorkellsdottir, Esther Lind Lillie",ISL,F,,,,1550,0,20,AUG26,2005,wi
@@ -634,7 +636,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2310007,"Kravchuk, Mykhaylo",ISL,M,,,,1890,0,20,AUG26,2003,
 2331403,"Krejci, John",ISL,M,,,,1495,0,20,AUG26,1972,i
 2334097,"Krishna, Rakshat Murali",ISL,M,,,,1465,0,40,AUG26,2014,
-2305232,"Kristbergsson, Bjorgvin",ISL,M,,,,1433,13,20,AUG26,1963,
+2305232,"Kristbergsson, Bjorgvin",ISL,M,,,,1420,24,20,AUG26,1963,
 2327554,"Kristbjornsdottir, Asta",ISL,M,,,,1554,0,20,AUG26,2007,
 2300370,"Kristinardottir, Elsa Maria",ISL,F,,,,1953,0,20,AUG26,1989,w
 2334313,"Kristinarson, Daniel Noi",ISL,M,,,,1489,0,40,AUG26,2012,
@@ -642,7 +644,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2306794,"Kristinsdottir, Aslaug",ISL,F,,,,1714,0,20,AUG26,1961,w
 1404679,"Kristinsson, Baldur",ISL,M,,,,2060,0,20,AUG26,1970,i
 2300141,"Kristinsson, Jon",ISL,M,,,,2083,0,20,AUG26,1942,i
-2339439,"Kristinsson, Kristinn",ISL,M,,,,1456,9,40,AUG26,2008,
 2305682,"Kristinsson, Magnus",ISL,M,,,,1871,0,20,AUG26,1969,
 2304724,"Kristinsson, Ogmundur",ISL,M,,,,2017,0,20,AUG26,1953,
 2303752,"Kristinsson, Ossur",ISL,M,,,,1827,0,20,AUG26,1945,i
@@ -664,7 +665,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2332604,"Krylov, Matvii",ISL,M,,,,1526,0,20,AUG26,2004,i
 2324423,"Kuraishi, Denis",ISL,M,,,,1508,0,20,AUG26,1977,i
 2325950,"Kvaran, Hjortur Einarsson",ISL,M,,,,1435,0,40,AUG26,2014,
-2300362,"Lagerman, Robert",ISL,M,FM,"FT,IA",,2191,6,20,AUG26,1962,
+2300362,"Lagerman, Robert",ISL,M,FM,"FT,IA",,2203,15,20,AUG26,1962,
 2337061,"Lanckman, Galaad",ISL,M,,,,1548,0,40,AUG26,2015,
 2304961,"Larusson, Eggert",ISL,M,,,,1897,0,20,AUG26,1948,i
 2333317,"Larusson, Konrad Thor",ISL,M,,,,1517,0,20,AUG26,1983,i
@@ -675,8 +676,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2302764,"Leifsson, Thorsteinn",ISL,M,,,,1793,0,20,AUG26,1961,i
 2313499,"Lemery, Jon Thor",ISL,M,,,,1798,0,20,AUG26,2001,i
 2308533,"Leosson, Atli Johann",ISL,M,,,,1827,0,20,AUG26,1983,i
-2325780,"Leosson, Haukur Vidis",ISL,M,,,,2012,7,40,AUG26,2014,
-2325764,"Leosson, Tomas Sindri",ISL,M,,,,1671,0,20,AUG26,2002,
+2325780,"Leosson, Haukur Vidis",ISL,M,,,,1952,15,40,AUG26,2014,
+2325764,"Leosson, Tomas Sindri",ISL,M,,,,1650,24,20,AUG26,2002,
 2300966,"Leosson, Torfi",ISL,M,,,,2090,0,20,AUG26,1978,
 2329573,Lesman Dorian,ISL,M,,,,1555,0,20,AUG26,1995,i
 2302870,"Loftsson, Arnaldur",ISL,M,,,,1979,0,20,AUG26,1970,
@@ -708,14 +709,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2310287,"Magnusson, Thorsteinn",ISL,M,,,,1778,8,20,AUG26,2000,
 2313391,"Mai, Alexander Oliver",ISL,M,CM,,,2109,0,20,AUG26,2003,
 2313383,"Mai, Aron Thor",ISL,M,,,,1986,0,20,AUG26,2001,i
-2306484,"Marelsson, Magni",ISL,M,,,,1631,0,20,AUG26,1998,
+2337827,"Marelsson, Aevar Orn",ISL,M,,,,1566,5,40,AUG26,2006,
+2306484,"Marelsson, Magni",ISL,M,,,,1662,6,20,AUG26,1998,
 2327759,"Mariuson, Adalsteinn Leifs",ISL,M,,,,1629,0,20,AUG26,1998,i
 2328070,"Marks, Benjamin",ISL,M,,,,1822,0,20,AUG26,1993,i
 2325640,"Martinsson, Jan Martin",ISL,M,,,,1527,0,20,AUG26,1986,i
 2303809,"Masson, Kjartan",ISL,M,,,,1692,0,20,AUG26,1970,
 2303817,"Masson, Vidar",ISL,M,,,,1746,0,20,AUG26,1974,i
 2321521,"Matharel, Tobias",ISL,M,,,,1697,0,40,AUG26,2009,
-2306034,"Matthiasson, Magnus",ISL,M,,,,1842,20,20,AUG26,1965,
+2306034,"Matthiasson, Magnus",ISL,M,,,,1839,30,20,AUG26,1965,
 2303469,"Moller, Agnar T",ISL,M,,,,1917,0,20,AUG26,1979,i
 1427075,"Moller, Baldur Helgi",ISL,M,,,,1942,0,20,AUG26,1980,i
 2328836,"Moller, Bjorn",ISL,M,,,,1538,0,20,AUG26,2003,i
@@ -725,7 +727,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2333465,"Muneret, Nicolas",ISL,M,,,,1545,0,20,AUG26,1993,i
 2323150,"Nastor, Adrian Aron",ISL,M,,,,1518,0,20,AUG26,2004,i
 2303507,"Nikulasson, Gunnar",ISL,M,,,,1678,0,20,AUG26,1960,i
-2310015,"Njardarson, Arnar Ingi",ISL,M,,NA,,1800,0,20,AUG26,1997,
+2310015,"Njardarson, Arnar Ingi",ISL,M,,NA,,1789,3,20,AUG26,1997,
 2313910,"Njardarson, Daniel Ernir",ISL,M,,,,1742,0,20,AUG26,2001,i
 2323290,"Nordal, Jon",ISL,M,,,,1566,0,20,AUG26,1997,i
 2323494,"Nordfjord, Isak",ISL,M,,,,1767,0,20,AUG26,2004,
@@ -758,7 +760,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2303957,"Olgeirsson, Armann",ISL,M,,,,1674,0,20,AUG26,1941,i
 2330199,"Olszewski, Milosz Ulfur",ISL,M,,,,1657,0,40,AUG26,2011,
 2311453,"Omarsson, Adam",ISL,M,CM,,,2189,0,20,AUG26,2007,
-2302772,"Omarsson, Dadi",ISL,M,CM,NA,,2309,0,20,AUG26,1991,
+2302772,"Omarsson, Dadi",ISL,M,CM,NA,,2307,11,20,AUG26,1991,
 2316102,"Omarsson, Josef",ISL,M,,,,1921,0,40,AUG26,2011,
 2328348,"Omarsson, Konrad",ISL,M,,,,1547,0,20,AUG26,1976,i
 2310821,"Omarsson, Kristofer",ISL,M,,,,1780,0,20,AUG26,1969,
@@ -768,7 +770,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2313014,"Oskarsson, Anton Breki",ISL,M,,,,1522,0,20,AUG26,2005,i
 2306638,"Oskarsson, Arnar Freyr",ISL,M,,,,1632,0,20,AUG26,1983,i
 2302780,"Oskarsson, Aron Ingi",ISL,M,,,,1905,0,20,AUG26,1988,i
-2330555,"Oskarsson, Jon Elias",ISL,M,,,,1584,0,40,AUG26,2010,
+2330555,"Oskarsson, Jon Elias",ISL,M,,,,1594,5,40,AUG26,2010,
 2321793,"Oskarsson, Julius Orri",ISL,M,,,,1552,0,20,AUG26,1993,
 2320118,"Oskarsson, Markus Orri",ISL,M,,,,2225,0,40,AUG26,2009,
 2323524,"Ossurarson, Ari Bjorn",ISL,M,,,,1565,0,20,AUG26,1998,i
@@ -799,7 +801,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2315785,"Petursson, Magnus V.",ISL,M,,,,1728,0,20,AUG26,1932,i
 2300028,"Petursson, Margeir",ISL,M,GM,,,2321,0,10,AUG26,1960,i
 2317575,"Petursson, Olafur Fannar",ISL,M,,,,1409,0,40,AUG26,2009,i
-2339056,"Petursson, Oskar Dadi",ISL,M,,,,1672,0,20,AUG26,1975,
+2339056,"Petursson, Oskar Dadi",ISL,M,,,,1641,5,20,AUG26,1975,
 2302136,"Petursson, Palmi Ragnar",ISL,M,FM,NA,,2073,0,20,AUG26,1964,
 2309645,"Petursson, Petur A.",ISL,M,,,,1565,0,20,AUG26,1980,i
 2303841,"Petursson, Stefan Mar",ISL,M,,,,1841,0,20,AUG26,1961,i
@@ -811,7 +813,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14121093,"Prudnykova, Olga",ISL,F,WIM,WIM,,2092,0,20,AUG26,1994,w
 305650,"Ptacnikova, Lenka",ISL,F,WGM,WGM,NA,2091,0,20,AUG26,1976,w
 2313758,"Ragnars, Kjartan",ISL,M,,,,1753,0,20,AUG26,1989,
-2304058,"Ragnarsson, Dagur",ISL,M,IM,,,2348,0,10,AUG26,1997,
+2304058,"Ragnarsson, Dagur",ISL,M,IM,,,2342,9,10,AUG26,1997,
 2328763,"Ragnarsson, Gunnar Smari",ISL,M,,,,1434,0,40,AUG26,2012,i
 2308860,"Ragnarsson, Heimir Pall",ISL,M,,,,1751,0,20,AUG26,2001,i
 2301040,"Ragnarsson, Johann",ISL,M,,,,2070,0,20,AUG26,1965,
@@ -822,7 +824,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2339099,"Reginsson, David",ISL,M,,,,1647,0,20,AUG26,1995,
 2326213,"Reynisson, Sigthor Michael",ISL,M,,,,1531,0,20,AUG26,2007,i
 2335778,"Richter, Robert Aron",ISL,M,,,,1468,0,20,AUG26,2004,
-2304090,"Rognvaldsson, Geir",ISL,M,,,,1655,0,20,AUG26,1949,i
+2304090,"Rognvaldsson, Geir",ISL,M,,,,1641,5,20,AUG26,1949,
 2328682,"Rorbeck, Hjorleifur",ISL,M,,,,1790,0,20,AUG26,1986,
 2332175,"Ruiz, Erick",ISL,M,,,,1710,1,20,AUG26,1991,
 2326469,"Runarsson, David Thor",ISL,M,,,,1610,0,20,AUG26,1978,i
@@ -862,7 +864,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2322021,"Sigurdardottir, Emilia",ISL,F,,,,1543,5,40,AUG26,2012,w
 2322030,"Sigurdardottir, Sigrun Tara",ISL,F,,,,1537,0,40,AUG26,2012,w
 2311003,"Sigurdarson, Alec Elias",ISL,M,,,,1601,0,20,AUG26,1999,i
-2304163,"Sigurdarson, Emil",ISL,M,,,,1808,0,20,AUG26,1996,
+2304163,"Sigurdarson, Emil",ISL,M,,,,1819,5,20,AUG26,1996,
 2314169,"Sigurdarson, Hallgrimur Pall",ISL,M,,,,1614,0,20,AUG26,2001,i
 2321610,"Sigurdarson, Logi",ISL,M,,,,1667,0,20,AUG26,2002,i
 2321483,"Sigurdarson, Oddur",ISL,M,,,,1663,0,20,AUG26,2003,
@@ -878,6 +880,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2309734,"Sigurdsson, Egill",ISL,M,,,,1736,0,20,AUG26,1935,i
 2302926,"Sigurdsson, Einar",ISL,M,,,,1863,0,20,AUG26,1991,i
 2319861,"Sigurdsson, Elvar Mar",ISL,M,,,,1808,0,20,AUG26,1975,i
+2336090,"Sigurdsson, Haraldur B",ISL,M,,,,1523,6,40,AUG26,1983,
 2303850,"Sigurdsson, Jakob Saevar",ISL,M,,,,1958,0,20,AUG26,1984,
 2302217,"Sigurdsson, Johann Helgi",ISL,M,,,,1953,0,20,AUG26,1974,
 2309238,"Sigurdsson, Olafur Jens",ISL,M,,,,1780,0,20,AUG26,1974,i
@@ -890,7 +893,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2310830,"Sigurdsson, Snorri Thor",ISL,M,,,,1911,0,20,AUG26,1963,i
 2304783,"Sigurdsson, Sveinbjorn",ISL,M,,,,1844,0,20,AUG26,1948,i
 2302195,"Sigurdsson, Sverrir",ISL,M,,,,1890,0,20,AUG26,1971,i
-2313278,"Sigurdsson, Thorsteinn G",ISL,M,,,,1731,0,20,AUG26,1960,
+2313278,"Sigurdsson, Thorsteinn G",ISL,M,,,,1732,15,20,AUG26,1960,
 2320967,"Sigurgeirsson, Sigthor Arni",ISL,M,,,,1676,7,40,AUG26,2011,
 2312077,"Siguringason, Solon",ISL,M,,,,1566,0,20,AUG26,2005,i
 2304228,"Sigurjonsson, Brynjolfur",ISL,M,,,,1705,0,20,AUG26,1970,i
@@ -917,7 +920,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2332825,"Skulason, Robert Heidar",ISL,M,,,,1497,0,40,AUG26,2017,
 2334895,"Smarason, Karl",ISL,M,,,,1474,0,20,AUG26,1993,
 2318148,"Smarason, Kristjan Ingi",ISL,M,,,,1853,8,40,AUG26,2008,
-2338130,"Smyrilsson, Sindri Panlag",ISL,M,,,,1514,0,40,AUG26,2008,
+2338130,"Smyrilsson, Sindri Panlag",ISL,M,,,,1501,4,40,AUG26,2008,
 2330776,"Snaebjornsson, Baltasar",ISL,M,,,,1534,0,40,AUG26,2012,i
 2330687,"Snorrason, Dofri",ISL,M,,,,1756,0,20,AUG26,1990,i
 2318393,"Snorrason, Einar Logi",ISL,M,,,,1536,0,20,AUG26,1989,i
@@ -928,7 +931,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2319691,"Sorensen, Henning",ISL,M,,,,1596,0,20,AUG26,1979,i
 2331969,Southcott Julian,ISL,M,,,,1591,0,20,AUG26,1988,i
 2331977,"Southcott, Ben",ISL,M,,,,1596,0,20,AUG26,1993,i
-2338696,"Stankiewicz, Michal",ISL,M,,,,1616,0,20,AUG26,1995,
+2338696,"Stankiewicz, Michal",ISL,M,,,,1607,3,20,AUG26,1995,
 2309467,"Stefaniuson, Stefan Gauti Ulfur",ISL,M,,,,1464,0,20,AUG26,1985,i
 2337037,"Stefansdottir, Valborg",ISL,M,,,,1626,0,40,AUG26,2011,
 2312379,"Stefansson, Benedikt",ISL,M,,,,1824,0,20,AUG26,1999,
@@ -949,7 +952,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2312441,"Steingrimsson, Egill Gautur",ISL,M,,,,1497,0,20,AUG26,1991,i
 2300117,"Steingrimsson, Hedinn",ISL,M,GM,,,2590,0,10,AUG26,1975,i
 2304791,"Steingrimsson, Karl Egill",ISL,M,,,,1706,0,20,AUG26,1942,
-2326841,"Steinsson, Dagur Kari",ISL,M,,,,1473,0,40,AUG26,2011,
+2326841,"Steinsson, Dagur Kari",ISL,M,,,,1426,9,40,AUG26,2011,
 2318997,"Steinsson, Hallgrimur",ISL,M,,,,1784,0,20,AUG26,1978,i
 2304325,"Steinsson, Steinn Kari",ISL,M,,,,1945,0,20,AUG26,1972,
 2312093,"Steinthorsson, Birgir Logi",ISL,M,,,,1550,0,20,AUG26,2005,i
@@ -963,7 +966,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2314550,"Sveinsson, Gudmundur Peng",ISL,M,,,,1749,0,20,AUG26,2005,
 2331586,"Sveinsson, Jokull",ISL,M,,,,1542,0,20,AUG26,2005,i
 2306867,"Sveinsson, Sveinn Ingi",ISL,M,,,,1900,0,20,AUG26,1964,
-2326175,"Sverrisson, Dagur",ISL,M,,,,1648,0,40,AUG26,2016,
+2326175,"Sverrisson, Dagur",ISL,M,,,,1705,30,40,AUG26,2016,
 2311089,"Sverrisson, Kristjan Th",ISL,M,,,,1700,0,20,AUG26,1974,
 2304376,"Sverrisson, Nokkvi",ISL,M,,,,2062,0,20,AUG26,1994,i
 2310341,"Tamasan, Dorin",ISL,M,,,,1944,0,20,AUG26,1982,i
@@ -981,7 +984,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2331284,"Thorarinsson, Daniel Ingi",ISL,M,,,,1573,0,20,AUG26,1989,
 2318040,"Thorarinsson, Gudmundur",ISL,M,,,,1762,0,20,AUG26,1939,i
 2300923,"Thorarinsson, Pall A.",ISL,M,FM,,,2207,0,20,AUG26,1976,
-2307693,"Thordarson, Agust Mar",ISL,M,,,,1641,0,,AUG26,2000,
+2336103,"Thorbjargarson, Bjorn Askur",ISL,M,,,,1630,5,40,AUG26,2013,i
+2337495,"Thorbjornsson, Aron Einar",ISL,M,,,,1473,5,40,AUG26,2015,
+2307693,"Thordarson, Agust Mar",ISL,M,,,,1647,6,,AUG26,2000,
 2324814,"Thordarson, Arsaell",ISL,M,,,,1506,0,20,AUG26,1943,i
 2317915,"Thordarson, Sigurdur",ISL,M,,,,1695,0,20,AUG26,1951,i
 2310350,"Thordarson, Sturla",ISL,M,,,,1816,0,20,AUG26,1972,
@@ -1019,12 +1024,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2301091,"Thorsteinsson, Erlingur",ISL,M,,,,2005,0,20,AUG26,1955,i
 2309777,"Thorsteinsson, Leifur",ISL,M,,,,1743,0,20,AUG26,1998,
 2300281,"Thorsteinsson, Thorsteinn",ISL,M,FM,FT,,2133,0,20,AUG26,1960,
-2317940,"Thorsteinsson, Thorsteinn Jakob F",ISL,M,,,,1949,0,20,AUG26,2006,
+2317940,"Thorsteinsson, Thorsteinn Jakob F",ISL,M,,,,1939,7,20,AUG26,2006,
 2309181,"Thorvaldsson, Jon",ISL,M,,,,1983,0,20,AUG26,1949,i
+2327627,"Thorvardarson, Hafthor Andri",ISL,M,,,,1545,12,40,AUG26,2012,
 2323230,"Thorvardarson, Jon",ISL,M,,,,1719,0,20,AUG26,1954,i
 2307626,"Thrainsson, Birgir Rafn",ISL,M,,,,1840,0,20,AUG26,1966,i
 2310864,"Thrastarson, Ivar",ISL,M,,,,1599,0,20,AUG26,1973,i
-2331560,"Tomasdottir, Katrin Osk",ISL,F,,,,1569,5,40,AUG26,2014,w
+2331560,"Tomasdottir, Katrin Osk",ISL,F,,,,1663,22,40,AUG26,2014,w
 2325675,"Tomasson, Hendrik",ISL,M,,,,1555,0,20,AUG26,1986,i
 2300222,"Torfason, Jon",ISL,M,,,,2233,0,20,AUG26,1949,i
 2311771,"Torfason, Mikael Maron",ISL,M,,,,1590,0,20,AUG26,2004,
@@ -1032,7 +1038,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2324113,"Tran, Liam Nam",ISL,M,,,,1426,0,40,AUG26,2014,
 2302934,"Traustason, Ingi Tandri",ISL,M,,,,1839,0,20,AUG26,1974,i
 2337690,"Tretyakov, Oleksiy",ISL,M,,,,1596,0,40,AUG26,2008,
-2337240,"Trifunovic, Viktor",ISL,M,,,,1567,7,40,AUG26,2010,
+2337240,"Trifunovic, Viktor",ISL,M,,,,1402,19,40,AUG26,2010,
 2323265,"Tryggvason, Erlingur",ISL,M,,,,1694,0,20,AUG26,1982,
 2315793,"Tryggvason, Ketill",ISL,M,,,,1579,0,20,AUG26,1960,i
 2329948,"Trzonek, Igor",ISL,M,,,,1578,0,40,AUG26,2012,
@@ -1079,6 +1085,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2332329,"Wilcox, Svanur",ISL,M,,,,1477,0,20,AUG26,1969,
 2321246,"Wiszowaty, Stanislaw",ISL,M,,,,1467,0,20,AUG26,1977,i
 2316781,"Wypior, Piotr",ISL,M,,,,1666,0,20,AUG26,1970,i
-2331578,"Ymisson, Ingi Hrafn",ISL,M,,,,1519,0,40,AUG26,2010,
+2331578,"Ymisson, Ingi Hrafn",ISL,M,,,,1618,21,40,AUG26,2010,
 2323354,"Zochniak, Wiktor",ISL,M,,,,1552,0,20,AUG26,1983,i
 2335948,"Zoro, Florent",ISL,M,,,,1736,0,20,AUG26,1991,
