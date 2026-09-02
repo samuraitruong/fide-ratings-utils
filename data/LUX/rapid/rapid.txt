@@ -1,4 +1,4 @@
-ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA AUG26 Gms K  B-day Flag
+ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA SEP26 Gms K  B-day Flag
 4009533        Acharya, Adhvik                                              LUX M                                1450  0   40 2016      
 4007239        Achutegui, Diego                                             LUX M                                1578  0   40 2008      
 4001117        Ackermann, Robert                                            LUX M                                2029  0   20 1965      
@@ -8,7 +8,7 @@ ID Number      Name                                                         Fed 
 4008693        Ahmed, Fares                                                 LUX M                                1809  0   40 2010  i   
 4011104        Alizada, Irada                                               LUX F                                1458  0   40 2015  w   
 4011090        Alizada, Matin                                               LUX M                                1529  0   40 2018      
-4009614        Amroune, Adam                                                LUX M                                1845  0   40 2015      
+4009614        Amroune, Adam                                                LUX M                            ACM 1856  8   40 2015      
 4005490        Andre Power, James                                           LUX M                                1428  0   20 2006  i   
 4004884        Baasch, Thierry                                              LUX M                                1930  0   20 1990  i   
 4000730        Bakalarz, Grazyna                                            LUX F   WFM  WFM                     1892  0   20 1964  w   
@@ -21,8 +21,8 @@ ID Number      Name                                                         Fed 
 4005708        Baur, David                                                  LUX M                                1584  0   20 2003  i   
 4009223        Bava, Roberto                                                LUX M                                1739  0   40 1982  i   
 4007557        Benismail-Schneider, Elyas                                   LUX M                                1827  0   40 2007  i   
-4000510        Berend, Elvira                                               LUX F   WGM  WGM                     2279  0   20 1965  w   
-4000102        Berend, Fred                                                 LUX M   IM                           2246  0   10 1965      
+4000510        Berend, Elvira                                               LUX F   WGM  WGM                     2251  8   20 1965  w   
+4000102        Berend, Fred                                                 LUX M   IM                           2228  9   10 1965      
 4009274        Bernard, Jeff                                                LUX M                                1427  0   40 2015      
 4009843        Berner, Felix                                                LUX M                                1709  0   40 1990  i   
 4001273        Birtz, Claude                                                LUX M                                1781  0   20 1970      
@@ -32,7 +32,7 @@ ID Number      Name                                                         Fed 
 4001516        Blond Hanten, Elsa                                           LUX F   WCM  WCM                     1741  0   20 2001  wi  
 4006445        Bohn, Sean                                                   LUX M                                1793  0   20 2007  i   
 4004159        Boukrate, Azeddine                                           LUX M                                1912  0   20 1974  i   
-4006160        Bourg, Nicolas                                               LUX M   FM                           2220  0   40 2008      
+4006160        Bourg, Nicolas                                               LUX M   FM                           2248  8   40 2008      
 4005937        Bouw, Lars                                                   LUX M                                1615  0   40 2006  i   
 4005929        Bouw, Myriam                                                 LUX F                                1547  0   40 2008  wi  
 4009479        Boyle, Suzanna                                               LUX F                                1486  0   40 2010  wi  
@@ -87,7 +87,7 @@ ID Number      Name                                                         Fed 
 4010027        Ehthishamul Haq, Muhammadh Shazain                           LUX M                                1688  0   40 2012      
 4007484        Esmer, Hamza                                                 LUX M                                1840  0   40 2015      
 4007204        Esmer, Kemal Eymen                                           LUX M                            AIM 2042  0   40 2009      
-4010779        Esser, Ruben                                                 LUX M                                1704  7   20 1986      
+4010779        Esser, Ruben                                                 LUX M                                1704  0   20 1986      
 4000935        Fadil, Hicham                                                LUX M                                1892  0   20 1983      
 4009096        Fernandes, Nolan                                             LUX M                                1524  0   40 2008  i   
 4008596        Fernandez Viar, Virgilio Jose                                LUX M                                1734  0   20 1982      
@@ -98,9 +98,9 @@ ID Number      Name                                                         Fed 
 4002571        Francois, Guillaume                                          LUX M                                1890  0   20 1992      
 4006879        Frappini, Matis                                              LUX M                                1874  0   20 2005      
 4008154        Fridhi, Karim                                                LUX M                                1702  0   20 2007  i   
-4010299        Frisch, Eleonora                                             LUX F                                1445  7   40 2016  w   
-4008405        Frisch, Gabriel                                              LUX M                                1531  7   40 2016      
-4007794        Frisch, Jan Raphael                                          LUX M                                1552  7   40 2012      
+4010299        Frisch, Eleonora                                             LUX F                                1444  0   40 2016  w   
+4008405        Frisch, Gabriel                                              LUX M                                1531  0   40 2016      
+4007794        Frisch, Jan Raphael                                          LUX M                                1552  0   40 2012      
 4005341        Galli, Marcel                                                LUX M                                1439  0   40 1957      
 4002474        Garot, Damien                                                LUX M                                1761  0   20 1976  i   
 4000498        Gaspar, Lucien                                               LUX M                                2013  0   20 1954      
@@ -111,18 +111,17 @@ ID Number      Name                                                         Fed 
 4005830        Gilles, Laurent                                              LUX M                                1550  0   20 1977  i   
 4011074        Giordano, Donato                                             LUX M                                1461  0   40 1982      
 4000552        Goerens, Jean-Paul                                           LUX M             FT                 1966  0   20 1954  i   
-4007808        Golec, Alexander                                             LUX M                                1408  6   40 2011      
+4007808        Golec, Alexander                                             LUX M                                1408  0   40 2011      
 4007964        Gomes, Simao                                                 LUX M                                1655  0   40 2005  i   
 4011066        Granger, Aldar                                               LUX M                                1755  0   40 2012      
 1020285        Greeuw, Sietske                                              LUX F                                1955  0   20 1985  wi  
-4007930        Gundala, Hanmisha                                            LUX F                                1530  6   40 2011  w   
+4007930        Gundala, Hanmisha                                            LUX F                                1530  0   40 2011  w   
 4008480        Gundala, Karunakar                                           LUX M                                1464  0   40 1981  i   
-4009525        Gundecha, Avyan                                              LUX M                                1632  6   40 2016      
-4007573        Guo, Johnny                                                  LUX M                                1772  9   40 2013      
+4009525        Gundecha, Avyan                                              LUX M                                1632  0   40 2016      
+4007573        Guo, Johnny                                                  LUX M                                1772  0   40 2013      
 4007840        Guzdziol, Olaf                                               LUX M                            ACM 1407  0   40 2014  i   
 4009371        Ha, Kien Van                                                 LUX M                                1704  0   40 2014      
 4007131        Haben, Guillaume                                             LUX M                                1731  0   20 1993  i   
-4001265        Haensel, Jean-Marie                                          LUX M                                1886  0   20 1959  i   
 4004825        Haillu, Daniel                                               LUX M                                1684  0   20 1979  i   
 4003500        Hasani, Driton                                               LUX M                                1866  0   20 1970      
 4007271        Hennebaut, Alexis                                            LUX M                                1476  0   20 1988  i   
@@ -175,10 +174,10 @@ ID Number      Name                                                         Fed 
 389105000      Lyon, Hannah Jane                                            LUX F                                1759  0   20 2007  w   
 4007867        Macia Tell, Dario                                            LUX M                            AFM 1662  0   40 2012      
 4010078        Magalhaes Teixeira, Jorge                                    LUX M                                1679  0   40 2008      
-4008898        Mahendran, Mithran                                           LUX M                            ACM 1404  0   40 2017      
+4008898        Mahendran, Mithran                                           LUX M                            AFM 1404  0   40 2017      
 4008570        Mallwitz, Noah Ioan                                          LUX M                                1630  0   40 2013      
-4011600        Maltezeanu, Sebastian                                        LUX M                                1665  0   40 2010      
-4004655        Maltezeanu, Stefan                                           LUX M   CM        SI                 2267  0   20 1999      
+4011600        Maltezeanu, Sebastian                                        LUX M                                1677  3   40 2010      
+4004655        Maltezeanu, Stefan                                           LUX M   CM        SI                 2308  28  20 1999      
 4007662        Manikandan, Advaith                                          LUX M                                1443  0   40 2014      
 4002865        Manzoni, Daniel                                              LUX M                                1709  0   20 1996  i   
 4010051        Marschal, Darren                                             LUX M                                1816  0   40 2000      
@@ -214,12 +213,12 @@ ID Number      Name                                                         Fed 
 4005945        Ortiz Bogdanov, Pablo                                        LUX M                                1703  0   40 2008      
 4005953        Ortiz Bogdanov, Santiago                                     LUX M                                1849  0   40 2010      
 4008448        Osmolovskii, Igor                                            LUX M                                1644  0   20 1982      
-4009029        Osmolovskii, Nikita                                          LUX M                                1649  9   40 2015      
+4009029        Osmolovskii, Nikita                                          LUX M                                1649  0   40 2015      
 4010345        Osmolovskii, Philipp                                         LUX M                                1469  0   40 2018      
 4004280        Pereira, Marco                                               LUX M                                1755  0   20 1967  i   
 4008952        Petunov, Maksim                                              LUX M                                1679  0   40 2014  i   
 4006801        Pezzotta, Anakien                                            LUX M                                1657  0   40 2011  i   
-4006798        Pinto, Ernests                                               LUX M                                1723  8   40 2014      
+4006798        Pinto, Ernests                                               LUX M                                1723  0   40 2014      
 4006763        Piocel, Alann                                                LUX M                                1755  0   40 2008      
 4007190        Plard, Axel                                                  LUX M                                2007  0   40 2009      
 4007379        Plard, Thierry                                               LUX M                                1538  0   20 1960      
@@ -233,11 +232,11 @@ ID Number      Name                                                         Fed 
 4011368        Rarivoson, Augustin Marcel                                   LUX M                                1441  0   40 1987      
 4002253        Rastoder, Selim                                              LUX M                                1867  0   20 1954      
 4009630        Rault, Emmannuel                                             LUX M                                1748  0   40 1970  i   
-4010418        Ravet, Gustave                                               LUX M                                1534  6   40 2012      
-4010426        Ravet, Theophile                                             LUX M                                1780  6   40 2010      
+4010418        Ravet, Gustave                                               LUX M                                1534  0   40 2012      
+4010426        Ravet, Theophile                                             LUX M                                1780  0   40 2010      
 4001150        Recking, Rene                                                LUX M                                1921  0   20 1951  i   
 4008014        Reddy, Handyalu Kiran                                        LUX M                                1631  0   40 2015      
-4006151        Reding, Sevda                                                LUX F                                1853  0   20 2007  w   
+4006151        Reding, Sevda                                                LUX F                                1853  0   20 2007  wi  
 4004124        Reiff, Pit                                                   LUX M                                1840  0   20 1997  i   
 4010825        Ritz, Tom                                                    LUX M                                1539  0   40 1962      
 4005473        Riviere, Simon                                               LUX M                                1706  0   20 1988  i   
@@ -249,7 +248,7 @@ ID Number      Name                                                         Fed 
 1274996        Salomeia, Mihai                                              LUX M                                1915  0   40 2009      
 4006674        Santini, Ettore                                              LUX M                                1654  0   40 2006  i   
 4010230        Schanck, Alain                                               LUX M             SI                 1542  0   40 1981  i   
-4000765        Schartz, Alain                                               LUX M                                2124  0   20 1971  i   
+4000765        Schartz, Alain                                               LUX M                                2118  7   20 1971      
 4001036        Schlueter, Yves                                              LUX M                                1966  0   20 1961      
 4000170        Schneider, Rafael                                            LUX M                                1957  0   20 1993  i   
 4001044        Schockmel, Jean-Marie                                        LUX M                                1924  0   20 1956  i   
@@ -267,7 +266,7 @@ ID Number      Name                                                         Fed 
 4004485        Smailovic, Nermin                                            LUX M                                1848  0   20 1976  i   
 4010760        Smirnov, Hlib                                                LUX M                                1575  0   40 2011      
 4007387        Solovev, Aleksei                                             LUX M                                1739  0   20 1990      
-4007395        Solovev, Nikolai                                             LUX M                            AFM 1699  6   40 2016      
+4007395        Solovev, Nikolai                                             LUX M                            AFM 1699  0   40 2016      
 4003209        Sorras, Alexios                                              LUX M             FI                 1872  0   20 1964  i   
 4005872        Stan, Luca-Alexandru                                         LUX M                                1504  0   40 2010  i   
 4000277        Steffen, Robert                                              LUX M                                1679  0   40 1964  i   
@@ -275,11 +274,11 @@ ID Number      Name                                                         Fed 
 4001281        Steil, Raymond                                               LUX M                                1792  0   20 1954  i   
 4001249        Steil-Antoni, Fiona                                          LUX F   WIM  WIM                     2167  0   20 1989  w   
 4005155        Steinmetzer, Jacques                                         LUX M                                1606  0   20 1964  i   
-4002679        Stern, Geoffrey                                              LUX M                                1929  7   20 1960      
+4002679        Stern, Geoffrey                                              LUX M                                1929  0   20 1960      
 4005317        Stirn, Fernand                                               LUX M                                1858  0   20 1947  i   
 4000137        Stull, Norbert                                               LUX M                                1998  0   20 1942  i   
 4007638        Swaminathan, Tharun                                          LUX M                                1637  0   40 2010      
-4009215        Tafratova, Yuliia                                            LUX F                                1461  4   40 2017  w   
+4009215        Tafratova, Yuliia                                            LUX F                                1461  0   40 2017  w   
 4008391        Tatavarthi, Jaagruth                                         LUX M                                1648  0   40 2014      
 4008235        Tequi, Lucas                                                 LUX M                                1991  0   40 2010      
 4002687        Toth, Lazlo                                                  LUX M                                1981  0   20 1961  i   
@@ -301,7 +300,7 @@ ID Number      Name                                                         Fed 
 4000722        Weber, Gerard                                                LUX M                                1783  0   20 1961  i   
 4000684        Weber, Jean-Marie                                            LUX M             SI                 2072  0   20 1959      
 4003128        Weber, Marcel                                                LUX M                                1757  0   20 1961  i   
-4000609        Weber, Tom                                                   LUX M   IM                           2362  0   10 1984  i   
+4000609        Weber, Tom                                                   LUX M   IM                           2341  9   10 1984      
 4001923        Weidig, Tom                                                  LUX M                                1935  0   20 1972      
 4002067        Weirich, Eric                                                LUX M                                1826  0   20 1984  i   
 4009070        Weis, Tom                                                    LUX M                                1641  0   40 1999      
@@ -313,7 +312,7 @@ ID Number      Name                                                         Fed 
 4003330        Wilwert, Loris                                               LUX M                                1776  0   20 2000  i   
 4004795        Winkin, Jos                                                  LUX M                                1734  0   40 2005  i   
 4004787        Winkin, Pol                                                  LUX M                                1822  0   20 2002  i   
-4008910        Wise, Nicolas                                                LUX M                                1731  0   40 1983      
+4008910        Wise, Nicolas                                                LUX M                                1731  0   40 1983  i   
 4000889        Witters, Patrick                                             LUX M                                2088  0   20 1963  i   
 4010752        Wolff, Leonardo                                              LUX M                                1401  0   40 2011      
 4006690        Zaccaria, Noa                                                LUX M                                1963  0   20 2007      
