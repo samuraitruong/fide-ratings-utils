@@ -75,8 +75,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1170104,"Ancuta, Adam",POL,M,,,,1991,0,20,SEP26,1993,i
 21046387,"Anders, Marcin",POL,M,,,,1649,0,20,SEP26,1975,
 545029318,"Andersen, Aron",POL,M,,,,1478,0,20,SEP26,1999,
-91188253,"Andralojc, Dobrawa",POL,F,,,,1400,0,40,SEP26,2017,w
-91166306,"Andralojc, Mieszko",POL,M,,,,1496,0,40,SEP26,2015,
+91188253,"Andralojc, Dobrawa",POL,F,,,,1420,6,40,SEP26,2017,w
+91166306,"Andralojc, Mieszko",POL,M,,,,1586,10,40,SEP26,2015,
+91180660,"Andralojc, Pawel",POL,M,,,,1417,6,40,SEP26,1980,
 1176757,"Andrearczyk, Pawel",POL,M,,,,1950,0,20,SEP26,1987,i
 1124900,"Andrejczuk, Beata",POL,F,WFM,WFM,"FT,FA",1896,0,20,SEP26,1988,wi
 1125877,"Andrejczuk, Maciej",POL,M,,,,2038,0,20,SEP26,1989,
@@ -147,7 +148,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1121677,"Augustyn, Sebastian",POL,M,,,,1988,0,20,SEP26,1982,i
 545042071,"Augustyniak, Michal",POL,M,,,,1439,0,40,SEP26,2014,
 21854718,"Augustyniak, Rafal",POL,M,,,,1548,0,20,SEP26,1981,i
-41812905,"Augustyniak, Zofia",POL,F,,,,1431,0,40,SEP26,2010,w
 1184202,"Augustynowicz, Piotr",POL,M,,,,1797,0,20,SEP26,1971,i
 91154057,"Awramiuk, Ignacy",POL,M,,,,1500,0,40,SEP26,2009,
 41826558,"Azarewicz, Dawid",POL,M,,,,1528,0,40,SEP26,2014,
@@ -176,7 +176,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41893760,"Baca, Maciej",POL,M,,,,1565,0,40,SEP26,2010,
 545009473,"Baca, Pawel",POL,M,,,,1525,0,40,SEP26,2012,i
 1131818,"Bachan, Daniel",POL,M,,,,2053,0,20,SEP26,1983,i
-21814694,"Bachor, Tomasz",POL,M,,,,2170,0,20,SEP26,2004,
+21814694,"Bachor, Tomasz",POL,M,,,,2178,11,20,SEP26,2004,
 1119672,"Bachorczyk, Marcin",POL,M,,,,1898,0,20,SEP26,1981,
 545016941,"Bachta, Michal",POL,M,,,,1617,0,40,SEP26,2010,
 91107490,"Bacik, Bartlomiej",POL,M,,,,1469,0,40,SEP26,2014,
@@ -222,8 +222,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21818339,"Bajorek, Maciej",POL,M,,,,1910,0,20,SEP26,1987,i
 545015058,"Bak, Bartosz",POL,M,,,,1422,0,40,SEP26,2011,i
 91190355,"Bak, Jacek",POL,M,,,,1629,11,40,SEP26,2010,
-41847113,"Bak, Jakub",POL,M,,,,1564,0,20,SEP26,2004,i
 21831610,"Bak, Jakub",POL,M,,,,1454,0,20,SEP26,2001,
+41847113,"Bak, Jakub",POL,M,,,,1564,0,20,SEP26,2004,i
 21023468,"Bak, Jedrzej",POL,M,,,,1604,0,40,SEP26,2009,i
 41846621,"Bak, Jedrzej",POL,M,,,,1488,0,20,SEP26,1991,i
 545073317,"Bak, Marek",POL,M,,,,1426,0,40,SEP26,2014,
@@ -259,12 +259,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91122104,"Banach, Filip",POL,M,,,,1405,14,40,SEP26,2015,
 21808651,"Banach, Jakub",POL,M,,,,1752,0,20,SEP26,2002,i
 21817154,"Banach, Karol",POL,M,,,,1455,0,20,SEP26,2004,i
-91159598,"Banach, Oliwia",POL,F,,,,1563,6,40,SEP26,2010,w
+91159598,"Banach, Oliwia",POL,F,,,,1503,11,40,SEP26,2010,w
 1149318,"Banach, Szymon",POL,M,,FA,,1940,0,20,SEP26,1996,i
 21846871,"Banaczyk, Piotr",POL,M,,,,1482,0,40,SEP26,2008,i
 21857253,"Banas, Bartosz",POL,M,,,,1742,0,20,SEP26,1998,
-545061181,"Banas, Michal",POL,M,,,,1695,0,20,SEP26,1985,
 91163960,"Banas, Michal",POL,M,,,,1704,0,20,SEP26,1985,i
+545061181,"Banas, Michal",POL,M,,,,1695,0,20,SEP26,1985,
 91120780,"Banas, Oliwier",POL,M,,,,1541,0,40,SEP26,2015,
 21880964,"Banas, Piotr",POL,M,,,,1542,0,20,SEP26,2006,i
 21803439,"Banasiak, Adam",POL,M,,,,1717,0,20,SEP26,1982,i
@@ -348,7 +348,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1119257,"Bartel, Michal",POL,M,FM,,,2281,0,10,SEP26,1986,
 21849498,"Bartkiewicz, Pawel",POL,M,,,,1955,0,20,SEP26,1999,i
 21084920,"Bartko, Pawel",POL,M,,,,1708,0,20,SEP26,1983,
-21092656,"Bartkowiak, Aleksandra",POL,F,,,,1706,0,40,SEP26,2012,w
+21092656,"Bartkowiak, Aleksandra",POL,F,,,,1747,10,40,SEP26,2012,w
 1117998,"Bartkowiak, Damian",POL,M,,NA,,1871,0,20,SEP26,1979,
 41888774,"Bartkowiak, Igor",POL,M,,,,1419,0,20,SEP26,2007,
 21002460,"Bartkowiak, Marek",POL,M,,,,1602,0,20,SEP26,1974,i
@@ -373,6 +373,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21857202,"Bartoszek, Emanuel",POL,M,,NA,,1535,0,20,SEP26,2002,i
 1145703,"Bartoszek, Jakub",POL,M,,,,1860,0,20,SEP26,1995,i
 21862648,"Bartoszek, Julia",POL,F,,,,1592,0,20,SEP26,2005,wi
+587002299,"Bartoszek, Kryspin",POL,M,,,,1596,11,40,SEP26,2009,
 1121022,"Bartoszek, Krzysztof",POL,M,,,,1596,0,20,SEP26,1964,
 545090602,"Bartoszek, Stefan",POL,M,,,,1426,0,40,SEP26,2014,
 1131966,"Bartoszewicz, Marcin",POL,M,,,,1868,29,20,SEP26,1977,
@@ -465,7 +466,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21095604,"Bem, Tymoteusz",POL,M,,NA,,1790,0,20,SEP26,2006,i
 21069581,"Bem, Wojciech",POL,M,,,,1407,0,40,SEP26,2012,i
 21044589,"Ben, Dina",POL,F,,,,1464,0,20,SEP26,1977,wi
-1117149,"Ben, Jaroslaw",POL,M,,,,1676,0,20,SEP26,1977,
+1117149,"Ben, Jaroslaw",POL,M,,,,1679,10,20,SEP26,1977,
 41820541,"Ben, Piotr",POL,M,,,,1401,0,40,SEP26,2010,i
 91121728,"Benc, Grzegorz",POL,M,,,,1462,0,20,SEP26,2001,i
 41817982,"Benda, Tomasz",POL,M,,,,1518,0,20,SEP26,1993,i
@@ -517,7 +518,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21838755,"Bialek, Tomasz",POL,M,,,,1534,0,20,SEP26,1977,i
 1199501,"Bialik, Nikodem",POL,M,,,,1713,0,20,SEP26,2003,i
 41895207,"Bialkowska, Magdalena",POL,F,,,,1460,0,40,SEP26,2014,wi
-91135320,"Bialkowski, Jan",POL,M,,,,1936,11,40,SEP26,2016,
+91135320,"Bialkowski, Jan",POL,M,,,,1964,22,40,SEP26,2016,
 1174738,"Bialkowski, Krzysztof",POL,M,,,,1807,0,20,SEP26,1977,i
 545072299,"Bialkowski, Pawel",POL,M,,,,1525,0,40,SEP26,2010,
 41854497,"Bialorudzki, Jakub",POL,M,,,,1543,0,40,SEP26,2010,
@@ -606,15 +607,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 14163390,"Biliak, Viktoria",POL,F,,,,1791,0,20,SEP26,2006,wi
 91156599,"Bilinski, Dariusz",POL,M,,,,1502,0,20,SEP26,1992,i
 1193244,"Bilinski, Rafal",POL,M,,,,1671,0,20,SEP26,1975,i
-41834062,"Bilochenko, Matvii",POL,M,CM,,,1972,0,40,SEP26,2013,
-91188350,"Bilski, Adam",POL,M,,,,1483,0,40,SEP26,2012,
+41834062,"Bilochenko, Matvii",POL,M,CM,,,2024,11,40,SEP26,2013,
+91188350,"Bilski, Adam",POL,M,,,,1543,10,40,SEP26,2012,
 91126240,"Bilski, Mateusz",POL,M,,,,1459,0,40,SEP26,2012,
 41834798,"Bilynskyi-Slotylo, Oleksandr",POL,M,,,,1611,0,40,SEP26,2014,
 41834801,"Bilynskyi-Slotylo, Oleksiy",POL,M,,,,1444,0,40,SEP26,2015,
 545022313,"Bilynskyi-Slotylo, Volodymyr",POL,M,,,,1456,0,20,SEP26,1987,i
 21093164,"Binasik, Antoni",POL,M,,,,1612,0,20,SEP26,2005,i
 21810044,"Binek, Dawid",POL,M,,,,1641,0,20,SEP26,2005,i
-21808732,"Binger, Damian",POL,M,,,,1623,12,20,SEP26,1992,
+21808732,"Binger, Damian",POL,M,,,,1619,20,20,SEP26,1992,
 21878820,"Biniak, Zuzanna",POL,F,,,,1625,0,20,SEP26,2007,wi
 21800260,"Biniecki, Milosz",POL,M,,,,1579,0,20,SEP26,1996,i
 1162500,"Binkowska, Agata",POL,F,,,,1911,0,20,SEP26,1997,wi
@@ -738,8 +739,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21810060,"Bogusz, Alan",POL,M,,,,1822,0,20,SEP26,2006,i
 41826612,"Bogusz, Bartlomiej",POL,M,,,,1435,0,20,SEP26,1996,i
 41845218,"Bogusz, Jacek",POL,M,,,,1423,0,20,SEP26,1985,i
-41845226,"Bogusz, Jerzy",POL,M,,,,1443,0,40,SEP26,2012,i
 91180872,"Bogusz, Jerzy",POL,M,,,,1476,0,40,SEP26,2008,i
+41845226,"Bogusz, Jerzy",POL,M,,,,1443,0,40,SEP26,2012,i
 21816310,"Bogusz, Katarzyna",POL,F,,,,1522,0,20,SEP26,1978,wi
 1140019,"Bogusz, Tomasz",POL,M,,,,1869,0,20,SEP26,1976,i
 21040605,"Boguszewska, Julia",POL,F,,,,1437,0,20,SEP26,2006,wi
@@ -829,14 +830,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21845123,"Borowik, Monika",POL,F,,,,1759,0,40,SEP26,2010,w
 21837155,"Borowik, Wojciech",POL,M,CM,,,1982,0,40,SEP26,2008,
 21082200,"Borowska-Sorus, Katarzyna",POL,F,,,,1602,29,40,SEP26,2010,w
-41876989,"Borowski, Dominik",POL,M,,,,1500,0,40,SEP26,2011,i
 41816056,"Borowski, Kacper",POL,M,,,,1649,0,20,SEP26,2002,
 41885279,"Borowski, Leon",POL,M,,,,1494,0,40,SEP26,2010,i
 1158694,"Borowski, Marek",POL,M,,,,1669,0,20,SEP26,1967,i
 91142610,"Borowski, Patryk",POL,M,,,,1425,0,40,SEP26,2015,i
 1116096,"Borowski, Piotr",POL,M,,,,2069,0,20,SEP26,1980,i
 1183613,"Borowski, Przemyslaw",POL,M,,,,1798,0,20,SEP26,1996,
-41891848,"Borowski, Wojciech",POL,M,,,,1489,0,20,SEP26,1981,i
+41891848,"Borowski, Wojciech",POL,M,,,,1498,11,20,SEP26,1981,
 1183125,"Borsuk, Aleksandra",POL,F,,,,1553,0,20,SEP26,2001,wi
 1185373,"Boruc, Zbigniew",POL,M,,,,1589,0,20,SEP26,1955,
 1196561,"Borukalo, Zdzislaw",POL,M,,,,1759,0,20,SEP26,1970,i
@@ -907,7 +907,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1148664,"Bronsztejn, Wojciech",POL,M,,,,1791,0,20,SEP26,1998,
 21867127,"Broszkiewicz, Aleksander",POL,M,,,,1416,0,20,SEP26,1977,i
 1150057,"Broszkiewicz, Piotr",POL,M,,,,1532,0,20,SEP26,1954,
-21040257,"Broszkiewicz, Stanislaw",POL,M,,,,1704,0,40,SEP26,2009,i
+21040257,"Broszkiewicz, Stanislaw",POL,M,,,,1736,10,40,SEP26,2009,
 545068127,"Brozbar, Jakub",POL,M,,,,1437,0,40,SEP26,2013,
 1140426,"Brozek, Lukasz",POL,M,,,,1914,0,20,SEP26,1985,i
 21825912,"Brozek, Mariusz",POL,M,,,,1624,0,20,SEP26,2005,
@@ -938,7 +938,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1111132,"Brylski, Pawel",POL,M,,,,1923,0,20,SEP26,1976,i
 1106554,"Brynda, Michal",POL,M,,,,1831,0,20,SEP26,1989,i
 41825187,"Bryszewski, Mateusz",POL,M,,,,1646,0,20,SEP26,2007,i
-91188733,"Brzeczek, Jacek",POL,M,,,,1755,0,40,SEP26,2009,
+91188733,"Brzeczek, Jacek",POL,M,,,,1716,10,40,SEP26,2009,
 1177109,"Brzek, Damian",POL,M,,,,1816,0,20,SEP26,1991,i
 41846630,"Brzeski, Karol",POL,M,,,,1610,10,40,SEP26,2014,
 1121537,"Brzeski, Maciej",POL,M,,,,2422,0,10,SEP26,1990,i
@@ -1000,7 +1000,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21094470,"Buczko, Krzysztof",POL,M,,,,1714,0,40,SEP26,2009,i
 91192846,"Buczkowski, Andrzej",POL,M,,,,1842,0,20,SEP26,1972,
 41834402,"Buczkowski, Oliwier",POL,M,,,,1548,0,40,SEP26,2009,
-41841425,"Buczkowski, Szymon",POL,M,,,,1749,9,20,SEP26,2007,
+41841425,"Buczkowski, Szymon",POL,M,,,,1694,19,20,SEP26,2007,
 1194917,"Budkiewicz, Magdalena",POL,F,,,,1781,0,20,SEP26,2003,wi
 91182808,"Budkiewicz, Piotr",POL,M,,,,1513,0,20,SEP26,1994,i
 1104470,"Budnik, Kazimierz",POL,M,,,,1590,0,20,SEP26,1931,i
@@ -1090,7 +1090,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21830673,"Burzminski, Janusz",POL,M,,,,1659,0,20,SEP26,1957,i
 545030448,"Burzymowska, Blanka",POL,F,,,,1419,0,40,SEP26,2017,w
 21085196,"Burzynski, Cezary",POL,M,,,,1584,0,40,SEP26,2010,i
-21819416,"Burzynski, Kacper",POL,M,,,,1590,0,20,SEP26,2004,
+21819416,"Burzynski, Kacper",POL,M,,,,1602,7,20,SEP26,2004,
 545011214,"Burzynski, Pawel",POL,M,,,,1550,0,20,SEP26,1976,i
 41835808,"Burzynski, Slawomir",POL,M,,,,1751,0,20,SEP26,1956,i
 1148362,"Bus, Konrad",POL,M,,,,2227,0,20,SEP26,1997,
@@ -1218,7 +1218,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21085307,"Chmielek, Milan",POL,M,,,,1759,0,40,SEP26,2013,
 21816697,"Chmielewska, Julia",POL,F,,,,1493,0,20,SEP26,2004,wi
 21002797,"Chmielewska, Natalia",POL,F,,,,1483,0,20,SEP26,2007,wi
-91139546,"Chmielewski, Dariusz",POL,M,,,,1638,0,20,SEP26,1974,
+91139546,"Chmielewski, Dariusz",POL,M,,,,1659,12,20,SEP26,1974,
 21054142,"Chmielewski, Dariusz",POL,M,,,,1591,0,20,SEP26,1972,i
 21884072,"Chmielewski, Grzegorz",POL,M,,,,1473,0,20,SEP26,1972,i
 21834245,"Chmielewski, Igor",POL,M,,,,1550,0,20,SEP26,2006,i
@@ -1272,12 +1272,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545032378,"Cholas, Tomasz",POL,M,,,,1482,0,20,SEP26,1984,i
 91138949,"Cholewa, Artur",POL,M,,,,1425,0,20,SEP26,1983,i
 21031380,"Cholewa, Dorota",POL,F,,,,1453,0,20,SEP26,1964,wi
-21023956,"Cholewa, Jan",POL,M,,,,1686,0,20,SEP26,2006,i
+21023956,"Cholewa, Jan",POL,M,,,,1763,10,20,SEP26,2006,
 41839862,"Cholewa, Maja",POL,F,,,,1501,10,40,SEP26,2016,w
 1134132,"Cholewa, Maria",POL,F,,,,1772,0,20,SEP26,1990,wi
 41849663,"Cholewa, Marian",POL,M,,,,1480,0,20,SEP26,1962,i
 41849671,"Cholewa, Pawel",POL,M,,,,1647,10,20,SEP26,2007,
-91165300,"Cholewa, Stanislaw",POL,M,,,,1470,0,40,SEP26,2010,i
+91165300,"Cholewa, Stanislaw",POL,M,,,,1422,6,40,SEP26,2010,
 21064539,"Cholewinski, Kacper",POL,M,,,,1558,0,20,SEP26,2003,i
 1116673,"Cholewinski, Robert",POL,M,,,,1810,0,20,SEP26,1974,i
 1125826,"Chomczyk, Marek",POL,M,FM,,,2185,0,20,SEP26,1998,
@@ -1589,7 +1589,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21049920,"Czarnomysy, Dawid",POL,M,,,,1449,0,40,SEP26,2012,i
 1139134,"Czarnota, Jaroslaw",POL,M,,NA,,1852,0,20,SEP26,1962,i
 1121219,"Czarnota, Pawel",POL,M,GM,,,2507,0,10,SEP26,1988,i
-21088233,"Czarnowicz, Michal",POL,M,,NA,,1734,11,20,SEP26,2003,
+21088233,"Czarnowicz, Michal",POL,M,,NA,,1747,20,20,SEP26,2003,
 91139880,"Czarnowski, Kacper",POL,M,,,,1621,0,20,SEP26,2007,
 1177303,"Czarny, Pawel",POL,M,,,,1736,11,20,SEP26,1978,
 1126997,"Czartoryska, Anna",POL,F,,,,1818,0,20,SEP26,1985,w
@@ -1638,7 +1638,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1119044,"Czerwinska, Milena",POL,F,WFM,WFM,,1903,0,20,SEP26,1985,wi
 21831122,"Czerwinska, Oliwia",POL,F,,,,1573,0,20,SEP26,2005,wi
 21868786,"Czerwinski, Bartlomiej",POL,M,,NA,,1791,0,20,SEP26,2004,
-545056650,"Czerwinski, Dariusz",POL,M,,,,1590,0,20,SEP26,1965,
+545056650,"Czerwinski, Dariusz",POL,M,,,,1536,9,20,SEP26,1965,
 21073830,"Czerwinski, Jakub",POL,M,,,,1495,0,40,SEP26,2010,i
 21882185,"Czerwinski, Maciej",POL,M,,NA,,1721,0,20,SEP26,2007,
 41850726,"Czerwinski, Mateusz",POL,M,,,,1417,0,20,SEP26,1989,i
@@ -1679,6 +1679,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545029903,"Czycz, Karol",POL,M,,,,1426,0,,SEP26,1993,
 21807728,"Czylok, Wladyslaw",POL,M,,,,1487,0,20,SEP26,1956,
 21849013,"Czyrek, Jakub",POL,M,,,,1468,0,40,SEP26,2008,i
+91187516,"Czyrkowski, Hubert",POL,M,,,,1472,7,40,SEP26,2012,
 21845280,"Czyrnek, Dariusz",POL,M,,,,1570,0,20,SEP26,1981,i
 1125915,"Czyrnek, Stanislaw",POL,M,,,,1830,0,20,SEP26,1950,i
 1119648,"Czyrson, Krystian",POL,M,,,,1942,0,20,SEP26,1986,i
@@ -1691,8 +1692,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21822921,"Czyzak, Blazej",POL,M,,,,1749,0,20,SEP26,1986,i
 41846206,"Czyzewski, Edward",POL,M,,,,1487,0,40,SEP26,2008,i
 21046689,"Czyzewski, Jan",POL,M,,,,1889,0,40,SEP26,2010,i
-21007314,"Czyzewski, Leon",POL,M,,,,1533,0,20,SEP26,2007,i
-21899690,"Czyzewski, Olgierd",POL,M,,,,1490,0,20,SEP26,2005,i
+21007314,"Czyzewski, Leon",POL,M,,,,1532,8,20,SEP26,2007,
+21899690,"Czyzewski, Olgierd",POL,M,,,,1496,10,20,SEP26,2005,
 545017549,"Czyzmanski, Michal",POL,M,,,,1504,0,40,SEP26,2012,
 91170036,"Czyzowicz, Jakub",POL,M,,,,1500,4,40,SEP26,2018,
 21890390,"Czyzowski, Mariusz",POL,M,,,,1666,0,20,SEP26,1977,i
@@ -1717,7 +1718,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91170532,"Dabrowska, Gabriela",POL,F,,,,1453,0,40,SEP26,2014,w
 41847377,"Dabrowska, Zuzanna",POL,F,,,,1548,0,20,SEP26,2000,wi
 91184401,"Dabrowski, Adrian",POL,M,,,,1526,0,20,SEP26,2000,
-41828992,"Dabrowski, Andrzej",POL,M,,,,1577,0,20,SEP26,1997,i
+41828992,"Dabrowski, Andrzej",POL,M,,,,1558,7,20,SEP26,1997,
 1194585,"Dabrowski, Damian",POL,M,,,,1719,0,20,SEP26,2002,i
 21081840,"Dabrowski, Dawid",POL,M,,,,1458,0,20,SEP26,2000,i
 21052395,"Dabrowski, Dawid",POL,M,,,,1500,0,20,SEP26,2002,i
@@ -1735,7 +1736,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91138876,"Dabrowski, Przemyslaw",POL,M,,,,1405,0,20,SEP26,1977,i
 21091706,"Dabrowski, Szymon",POL,M,,,,1419,0,40,SEP26,2012,i
 91170478,"Dabrowski, Wiktor",POL,M,,,,1483,0,40,SEP26,2015,
-91175640,"Dabrowski, Wladyslaw",POL,M,,,,1565,0,40,SEP26,2008,
+91175640,"Dabrowski, Wladyslaw",POL,M,,,,1555,6,40,SEP26,2008,
 21064318,"Dachtera, Piotr",POL,M,,,,1662,0,20,SEP26,1978,i
 21835519,"Daciuk, Stanislaw",POL,M,,,,1734,0,20,SEP26,1953,i
 1190245,"Dackiewicz, Marek",POL,M,,FA,,1784,0,20,SEP26,1985,
@@ -1831,7 +1832,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21022844,"Dembicz, Kacper",POL,M,,,,1597,0,40,SEP26,2010,
 21885710,"Dembicz, Patryk",POL,M,,,,1706,0,20,SEP26,2004,
 1195476,"Dembinski, Bartosz",POL,M,,,,1610,0,20,SEP26,2001,i
-545013527,"Demchenko, Boryslav",POL,M,,,,1500,0,40,SEP26,2010,
+545013527,"Demchenko, Boryslav",POL,M,,,,1428,6,40,SEP26,2010,
 91107660,"Demianenko, Dmytro",POL,M,,,,1703,0,40,SEP26,2009,
 1122282,"Demianowicz, Maciej",POL,M,,,,2003,11,20,SEP26,1980,
 21852782,"Demski, Jakub",POL,M,,,,1403,0,40,SEP26,2008,i
@@ -1843,7 +1844,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545033161,"Depczynski, Milosz",POL,M,,,,1460,0,40,SEP26,2011,
 21066434,"Depka, Adam",POL,M,,,,1467,0,20,SEP26,1980,i
 91141877,"Deptula, Bartlomiej",POL,M,,,,1405,0,40,SEP26,2010,
-41804902,"Deptula, Dawid",POL,M,,,,1693,8,20,SEP26,2000,
+41804902,"Deptula, Dawid",POL,M,,,,1704,18,20,SEP26,2000,
 1112910,"Dera, Andrzej",POL,M,,,,2053,0,20,SEP26,1961,i
 21889023,"Dera, Tymon",POL,M,,,,1451,0,20,SEP26,2005,i
 1126482,"Derdzikowski, Maciej",POL,M,,,,2055,0,20,SEP26,1985,i
@@ -1864,7 +1865,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1174827,"Dixa, Joanna",POL,F,,,,1560,0,20,SEP26,2001,wi
 1193503,"Dixa, Oskar",POL,M,,,,1975,0,20,SEP26,2003,i
 1159712,"Dixa, Stanislaw",POL,M,,,,1773,0,20,SEP26,1973,i
-91197155,"Dixon, Teodor",POL,M,,,,1410,0,40,SEP26,2010,
+91197155,"Dixon, Teodor",POL,M,,,,1453,8,40,SEP26,2010,
 545022356,"Djalilov, Danis",POL,M,,,,1501,0,40,SEP26,2019,
 1159135,"Dlugokecki, Adam",POL,M,,,,1787,0,20,SEP26,1985,
 41890558,"Dlugonski, Piotr",POL,M,,,,1545,7,40,SEP26,2011,
@@ -1995,8 +1996,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21063931,"Dropia, Rafal",POL,M,,,,1722,0,20,SEP26,1975,i
 21007543,"Drozd, Gabriela",POL,F,,,,1508,0,40,SEP26,2010,wi
 21055386,"Drozd, Julia",POL,F,,,,1513,0,40,SEP26,2012,wi
+545020736,"Drozd, Michal",POL,M,,,,1520,37,40,SEP26,2011,
 21876460,"Drozd, Michal",POL,M,,,,1413,0,40,SEP26,2009,i
-545020736,"Drozd, Michal",POL,M,,,,1528,28,40,SEP26,2011,
 21856028,"Drozd, Mikolaj",POL,M,,,,1596,0,20,SEP26,2005,i
 21877106,"Drozd, Tomasz",POL,M,,,,1471,0,20,SEP26,2007,i
 21032840,"Drozd, Tomasz",POL,M,,,,1593,0,20,SEP26,1972,i
@@ -2073,11 +2074,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21829047,"Dudek, Marcin",POL,M,,,,1675,0,20,SEP26,1997,i
 21011591,"Dudek, Marta",POL,F,,,,1614,0,20,SEP26,2005,wi
 1121278,"Dudek, Romuald",POL,M,,,,1868,0,20,SEP26,1960,i
-1141716,"Dudka, Janusz",POL,M,,,,1693,0,20,SEP26,1961,
+1141716,"Dudka, Janusz",POL,M,,,,1666,9,20,SEP26,1961,
 21005613,"Dudkiewicz, Wiktor",POL,M,,,,1872,0,20,SEP26,2002,i
 34179884,"Dudnik, Tatiana",POL,F,,,,1837,0,20,SEP26,1973,wi
 41894120,"Dudys, Igor",POL,M,,,,1431,0,20,SEP26,2007,i
-545093938,"Dudziak, Nikodem",POL,M,,,,1474,6,40,SEP26,2019,
+545093938,"Dudziak, Nikodem",POL,M,,,,1408,13,40,SEP26,2019,
 1105825,"Dudzik, Lukasz",POL,M,,,,1855,0,20,SEP26,1992,i
 21070300,"Dudzik, Nikollaq",POL,M,,,,1689,0,40,SEP26,2011,
 21881650,"Dudzinska, Weronika",POL,F,,,,1405,0,40,SEP26,2008,wi
@@ -2126,7 +2127,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41835786,"Dusza, Pawel",POL,M,,,,1615,0,20,SEP26,2004,i
 1125931,"Dusza, Tomasz",POL,M,,,,1896,0,20,SEP26,1982,i
 91153077,"Duszak, Franciszek",POL,M,,,,1467,0,40,SEP26,2017,
-1126954,"Duszczak, Dariusz",POL,M,,,,1783,0,20,SEP26,1960,
+1126954,"Duszczak, Dariusz",POL,M,,,,1746,11,20,SEP26,1960,
 21067350,"Duszczak, Filip",POL,M,,,,1698,0,20,SEP26,2007,i
 1177540,"Duszenko, Michal",POL,M,,,,1908,0,20,SEP26,1990,i
 118110730,"Duszynski, Adrian",POL,M,,,,1637,0,,SEP26,1994,i
@@ -2272,11 +2273,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1133101,"Fajfer, Bartosz",POL,M,,,,1932,0,20,SEP26,1991,i
 41861574,"Fajks, Julian",POL,M,,,,1647,0,40,SEP26,2015,
 1190261,"Falc, Pawel",POL,M,,,,1615,0,20,SEP26,2004,
-34174540,"Falendysh, Oleksandr",POL,M,,,,1851,0,40,SEP26,2011,
+34174540,"Falendysh, Oleksandr",POL,M,,,,1798,11,40,SEP26,2011,
 1139142,"Falkowski, Dawid",POL,M,,,,1863,0,20,SEP26,1986,
 545001588,"Farion, Jakub",POL,M,,,,1776,13,40,SEP26,2012,
 545029458,"Farion, Tomasz",POL,M,,,,1441,6,40,SEP26,2015,
-91124395,"Farkowska, Zuzanna",POL,F,,,,1508,0,20,SEP26,2007,w
+91124395,"Farkowska, Zuzanna",POL,F,,,,1462,11,20,SEP26,2007,w
 21808660,"Faron, Mateusz",POL,M,,,,1692,0,20,SEP26,1985,i
 1149768,"Faron, Rafal",POL,M,,FA,,2185,0,20,SEP26,1996,i
 1117750,"Fassa, Anna",POL,F,,,,1998,0,20,SEP26,1985,wi
@@ -2338,7 +2339,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21005621,"Filinski, Jozef",POL,M,,,,1510,0,20,SEP26,1947,i
 21823901,"Filip, Czeslaw",POL,M,,,,1568,0,20,SEP26,1967,
 91112869,"Filipczak, Igor",POL,M,,,,1426,0,40,SEP26,2010,i
-21055238,"Filipczyk, Michal",POL,M,,,,1655,10,40,SEP26,2008,
+21055238,"Filipczyk, Michal",POL,M,,,,1734,23,40,SEP26,2008,
 41812670,"Filipecki, Wojciech",POL,M,,,,1524,0,20,SEP26,1952,i
 21017441,"Filipek, Paulina",POL,F,,,,1488,0,20,SEP26,2006,wi
 1111906,"Filipiak, Leszek",POL,M,,,,2044,0,20,SEP26,1970,i
@@ -2496,11 +2497,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21822883,"Gabuza, Anatolii",POL,M,,,,1712,9,20,SEP26,1989,
 21807744,"Gabzdyl, Agnieszka",POL,F,,,,1558,0,20,SEP26,1985,wi
 21833958,"Gabzdyl, Mateusz",POL,M,,,,1515,0,20,SEP26,2004,i
-21883165,"Gac-Mytych, Sara",POL,F,,,,1423,0,20,SEP26,2007,w
+21883165,"Gac-Mytych, Sara",POL,F,,,,1503,11,20,SEP26,2007,w
 91140153,"Gackowski, Krystian",POL,M,,,,1460,0,20,SEP26,2006,i
 21011508,"Gaczol, Damian",POL,M,,,,1498,0,40,SEP26,2008,
 21839069,"Gaczol, Julia",POL,F,,NA,,1559,0,20,SEP26,2006,w
-41897358,"Gadawski, Krzysztof",POL,M,,,,1884,30,40,SEP26,2008,
+41897358,"Gadawski, Krzysztof",POL,M,,,,1904,43,40,SEP26,2008,
 1177680,"Gadek, Michal",POL,M,,,,1726,0,20,SEP26,1984,
 91163978,"Gadek, Tomasz",POL,M,,,,1446,0,20,SEP26,1993,i
 1137409,"Gadzala, Dariusz",POL,M,,,,1857,0,20,SEP26,1965,i
@@ -2582,7 +2583,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41874080,"Gamracy, Marcin",POL,M,,,,1692,0,20,SEP26,1985,i
 545013381,"Gamrat, Jan",POL,M,,,,1707,0,20,SEP26,1972,
 21842914,"Gamrot, Sebastian",POL,M,,,,1597,0,20,SEP26,1990,i
-91171660,"Gan, Jakub",POL,M,,,,1677,0,20,SEP26,2006,
+91171660,"Gan, Jakub",POL,M,,,,1680,10,20,SEP26,2006,
 21073244,"Gancarz, Julia",POL,F,,,,1642,0,40,SEP26,2010,w
 41830016,"Gancarz, Michal",POL,M,,,,1466,0,40,SEP26,2014,
 41843096,"Gancewski, Michal",POL,M,,,,1497,0,20,SEP26,2007,i
@@ -2607,7 +2608,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41805755,"Garfunkel, Tomasz",POL,M,,,,1612,0,20,SEP26,2006,i
 41830350,"Garkusha, Valentin",POL,M,,,,1521,0,20,SEP26,2004,i
 91177766,"Garman, Grazyna",POL,F,,,,1424,0,20,SEP26,1957,wi
-21856206,"Garwacki, Kornel",POL,M,,,,1850,0,20,SEP26,2007,
+21856206,"Garwacki, Kornel",POL,M,,,,1858,11,20,SEP26,2007,
 545074690,"Gasecki, Antoni",POL,M,,,,1501,0,20,SEP26,2002,
 21007934,"Gasiewski, Szymon",POL,M,,,,1410,0,20,SEP26,2001,i
 1111191,"Gasik, Jadwiga",POL,F,,,,1713,0,20,SEP26,1951,w
@@ -2754,7 +2755,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1142801,"Gluszak, Pawel",POL,M,,,,1900,0,20,SEP26,1997,i
 1139177,"Gluszko, Monika",POL,F,WFM,WFM,,1864,0,20,SEP26,1993,w
 1131168,"Gluszko, Tomasz",POL,M,CM,,,2092,0,20,SEP26,1990,i
-21858500,"Gluszynski, Michal",POL,M,,,,1716,0,20,SEP26,2004,
+21858500,"Gluszynski, Michal",POL,M,,,,1721,10,20,SEP26,2004,
 1121910,"Gmaj, Krzysztof",POL,M,,,,2080,0,20,SEP26,1979,
 1159445,"Gmaj, Stanislaw",POL,M,,,,1583,0,20,SEP26,1958,
 21064091,"Gmura, Elzbieta",POL,F,,,,1507,0,20,SEP26,1969,w
@@ -2932,12 +2933,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21816905,"Gos, Aleksander",POL,M,,,,1509,0,20,SEP26,2007,i
 545044511,"Gos, Kacper",POL,M,,,,1521,0,40,SEP26,2018,
 1122908,"Gosciniak, Bartlomiej",POL,M,,,,1923,0,20,SEP26,1982,i
-545017042,"Gosciniak, Kacper",POL,M,,,,1502,0,40,SEP26,2008,
+545017042,"Gosciniak, Kacper",POL,M,,,,1526,9,40,SEP26,2008,
 1126814,"Gosciniak, Maria",POL,F,WFM,WFM,,1997,0,20,SEP26,1990,wi
 41820657,"Gosek, Patryk",POL,M,,,,1435,0,40,SEP26,2013,i
 1171259,"Goslawski, Michal",POL,M,,,,1941,0,20,SEP26,1991,
-21040125,"Gospodarczyk, Antoni",POL,M,,,,1505,0,40,SEP26,2010,
-1168665,"Gospodarczyk, Roman",POL,M,,,,1834,0,20,SEP26,1982,
+21040125,"Gospodarczyk, Antoni",POL,M,,,,1581,10,40,SEP26,2010,
+1168665,"Gospodarczyk, Roman",POL,M,,,,1842,11,20,SEP26,1982,
 41846214,"Gospodarczyk, Wlodzimierz",POL,M,,,,1512,0,20,SEP26,1957,i
 21811091,"Gospodarczyk, Wojciech",POL,M,,,,1694,0,20,SEP26,1991,i
 91144108,"Gostomczyk, Wiktor",POL,M,,,,1427,0,40,SEP26,2008,
@@ -2965,6 +2966,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1101684,"Grabarczyk, Miroslaw",POL,M,GM,,,2207,13,10,SEP26,1971,
 41803302,"Grabek, Andrzej",POL,M,,,,1477,0,20,SEP26,1949,i
 21830193,"Grabek, Antoni",POL,M,,,,1617,0,20,SEP26,1943,i
+1177907,"Grabianowski, Krystian",POL,M,,,,1848,11,20,SEP26,1990,
 41865774,"Grabicki, Piotr",POL,M,,,,1670,0,20,SEP26,2002,i
 91154600,"Grabiec, Jakub",POL,M,,,,1421,3,40,SEP26,2014,
 91118549,"Grablewski, Grzegorz",POL,M,,,,1408,0,20,SEP26,1975,i
@@ -2981,8 +2983,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41800702,"Grabowski, Jakub",POL,M,,,,1621,0,20,SEP26,2002,i
 21855323,"Grabowski, Jakub",POL,M,,,,1423,0,20,SEP26,2005,i
 91101344,"Grabowski, Jan",POL,M,,,,1527,0,40,SEP26,2017,
-545090637,"Grabowski, Krzysztof",POL,M,,,,1554,0,20,SEP26,1995,
 41812948,"Grabowski, Krzysztof",POL,M,,,,1629,0,20,SEP26,1991,i
+545090637,"Grabowski, Krzysztof",POL,M,,,,1554,0,20,SEP26,1995,
 21875626,"Grabowski, Marcel",POL,M,,,,1498,0,40,SEP26,2008,i
 1130498,"Grabowski, Marek",POL,M,,,,1812,0,20,SEP26,1974,
 21830622,"Grabowski, Mieczyslaw",POL,M,,,,1747,0,20,SEP26,1947,i
@@ -3017,7 +3019,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21816581,"Gradzka, Aleksandra",POL,F,,,,1488,0,20,SEP26,2006,wi
 21007853,"Gradzki, Artur",POL,M,,,,1491,0,40,SEP26,2008,i
 21854408,"Gradzki, Marcin",POL,M,,,,1554,0,20,SEP26,1977,i
-21850399,"Graff, Slawomir",POL,M,,,,1860,0,20,SEP26,1976,
+21850399,"Graff, Slawomir",POL,M,,,,1866,11,20,SEP26,1976,
 1136437,"Grajczak, Adrian",POL,M,,,,1972,0,20,SEP26,1988,i
 1128680,"Grajdek, Jaroslaw",POL,M,,,,2036,0,20,SEP26,1974,i
 41852370,"Grajewski, Kacper",POL,M,,,,1595,0,20,SEP26,2006,i
@@ -3336,7 +3338,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91199042,"Hanc, Marek",POL,M,,,,1512,0,20,SEP26,1966,i
 41806786,"Handwerkier, Pawel",POL,M,,,,1747,12,20,SEP26,2004,
 91157447,"Handzel, Jan",POL,M,,,,1468,0,40,SEP26,2012,i
-545091641,"Hanhal, Sergij",POL,M,,,,1540,0,40,SEP26,2012,
+545091641,"Hanhal, Sergij",POL,M,,,,1596,13,40,SEP26,2012,
 1134213,"Hanusek, Sebastian",POL,M,,,,2039,0,20,SEP26,1991,
 21823057,"Hanuszkiewicz, Julia",POL,F,,,,1518,0,20,SEP26,2005,wi
 1185047,"Hapunik, Jakub",POL,M,,,,1582,0,20,SEP26,2000,i
@@ -3431,7 +3433,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21027790,"Hoffman, Sebastian",POL,M,,,,1570,0,20,SEP26,2004,i
 41893360,"Hoffman, Szymon",POL,M,,,,1619,0,20,SEP26,1961,i
 1186825,"Hoffmann, Kacper",POL,M,,,,1707,0,20,SEP26,1996,i
-1134540,"Hoffmann, Piotr",POL,M,,,,1605,0,20,SEP26,1957,
+1134540,"Hoffmann, Piotr",POL,M,,,,1607,8,20,SEP26,1957,
 545048738,"Hoinkis, Kuba",POL,M,,,,1404,0,40,SEP26,2010,
 545038090,"Holboj, Dominik",POL,M,,,,1437,11,40,SEP26,2013,
 91102049,"Holcer, Michal",POL,M,,,,1456,0,20,SEP26,1955,i
@@ -3480,7 +3482,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21859817,"Hucaluk, Kacper",POL,M,,,,1515,0,20,SEP26,2004,i
 21075077,"Huchla, Andrzej",POL,M,,,,1527,0,20,SEP26,1957,
 21806357,"Huchwajda, Grzegorz",POL,M,,,,1567,0,20,SEP26,1959,i
-1124501,"Huchwajda, Katarzyna",POL,F,,,,1751,0,20,SEP26,1984,w
+1124501,"Huchwajda, Katarzyna",POL,F,,,,1752,9,20,SEP26,1984,w
 1120247,"Huchwajda, Lukasz",POL,M,,,,1881,0,20,SEP26,1983,
 21059861,"Huk, Krzysztof",POL,M,,,,1522,0,20,SEP26,1998,i
 41831535,"Huk, Piotr",POL,M,,,,1574,0,20,SEP26,1988,i
@@ -3599,8 +3601,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91102286,"Jagoda, Mikolaj",POL,M,,,,1503,0,40,SEP26,2012,
 91144230,"Jagoda, Tomasz",POL,M,,,,1507,0,20,SEP26,1990,i
 21899983,"Jagodzinski, Alan",POL,M,,NA,,1709,0,20,SEP26,2005,i
-21878064,"Jagodzinski, Jaromir",POL,M,,,,1768,0,40,SEP26,2010,
-21870195,"Jagodzinski, Mariusz",POL,M,,,,1870,0,20,SEP26,1970,
+21878064,"Jagodzinski, Jaromir",POL,M,,,,1798,13,40,SEP26,2010,
+21870195,"Jagodzinski, Mariusz",POL,M,,,,1914,13,20,SEP26,1970,
 21002614,"Jagodzinski, Olaf",POL,M,,NA,,1704,0,20,SEP26,2004,i
 1136593,"Jagodzinski, Piotr",POL,M,CM,,,2173,0,20,SEP26,1989,
 21813868,"Jagura, Gabriel",POL,M,,,,1669,0,20,SEP26,2003,i
@@ -3650,7 +3652,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21845336,"Janas, Piotr",POL,M,,NA,,1688,0,20,SEP26,1983,i
 21889490,"Janasek, Zbigniew",POL,M,,,,1655,0,20,SEP26,2004,i
 545063192,"Janasiak, Piotr",POL,M,,,,1583,0,40,SEP26,2011,
-41804813,"Janaszak, Amelia",POL,F,,,,1694,0,40,SEP26,2012,w
+41804813,"Janaszak, Amelia",POL,F,,,,1695,10,40,SEP26,2012,w
 1119206,"Janaszak, Dawid",POL,M,FM,,,2241,0,10,SEP26,1983,
 91113431,"Janaszak, Hanna",POL,F,,,,1599,0,40,SEP26,2015,wi
 91134110,"Janczak, Marcin",POL,M,,,,1473,0,40,SEP26,2008,i
@@ -3810,7 +3812,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41812514,"Jasinska, Joanna",POL,F,,,,1530,0,20,SEP26,2003,wi
 21889341,"Jasinska, Joanna",POL,F,,,,1477,0,20,SEP26,1978,w
 21870659,"Jasinski, Aleksander",POL,M,,,,1464,0,20,SEP26,2007,i
-41806387,"Jasinski, Bartlomiej",POL,M,,,,1673,40,40,SEP26,2013,
+41806387,"Jasinski, Bartlomiej",POL,M,,,,1641,46,40,SEP26,2013,
 91191610,"Jasinski, Mateusz",POL,M,,,,1460,0,40,SEP26,2010,
 21863679,"Jasinski, Piotr",POL,M,,,,1495,0,20,SEP26,2006,i
 545058830,"Jasinski, Rafal",POL,M,,,,1551,18,40,SEP26,1986,
@@ -3869,10 +3871,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21836876,"Jaworski, Maciej",POL,M,,,,1627,0,20,SEP26,1992,i
 1191322,"Jaworski, Marcin",POL,M,,,,1572,0,20,SEP26,1976,i
 41846702,"Jaworski, Mariusz",POL,M,,,,1576,0,20,SEP26,1970,i
-1141155,"Jaworski, Mateusz",POL,M,,,,1699,0,20,SEP26,1988,
-21894612,"Jaworski, Mateusz",POL,M,,,,1589,0,20,SEP26,2000,i
+1141155,"Jaworski, Mateusz",POL,M,,,,1691,10,20,SEP26,1988,
 545094438,"Jaworski, Mateusz",POL,M,,,,1683,0,20,SEP26,2004,
 91139821,"Jaworski, Mateusz",POL,M,,,,1799,0,20,SEP26,2003,i
+21894612,"Jaworski, Mateusz",POL,M,,,,1589,0,20,SEP26,2000,i
 91109833,"Jaworski, Pawel",POL,M,,,,1525,0,20,SEP26,1982,
 21859582,"Jaworski, Tymon",POL,M,,,,2008,0,40,SEP26,2008,
 21896674,"Jaworski, Tymon",POL,M,,,,1552,0,20,SEP26,1970,i
@@ -3937,7 +3939,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545042217,"Jereczek, Przemyslaw",POL,M,,,,1486,0,40,SEP26,2009,
 545018375,"Jerzynski, Wojciech",POL,M,,,,1536,0,40,SEP26,2010,
 1178342,"Jeske, Jerzy",POL,M,,,,1760,0,20,SEP26,1955,i
-1150227,"Jesse, Jacek",POL,M,,,,1816,0,20,SEP26,1977,
+1150227,"Jesse, Jacek",POL,M,,,,1816,10,20,SEP26,1977,
 1111922,"Jewulski, Krzysztof",POL,M,,,,1885,0,20,SEP26,1968,i
 41823389,"Jezierski, Jan",POL,M,,,,1576,0,20,SEP26,1996,
 91128838,"Jezierski, Julian",POL,M,,,,1495,0,40,SEP26,2014,i
@@ -3966,7 +3968,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91117054,"Jordan, Dawid",POL,M,,,,1579,0,40,SEP26,2009,
 41816935,"Jordan, Jan",POL,M,,,,1429,0,40,SEP26,2010,i
 21000158,"Jordan, Wojciech",POL,M,,,,1418,0,20,SEP26,2007,i
-41841476,"Jordeczka, Leon",POL,M,,,,1747,8,40,SEP26,2013,
+41841476,"Jordeczka, Leon",POL,M,,,,1752,18,40,SEP26,2013,
 1147617,"Jozefczak, Andrzej",POL,M,,,,1867,0,20,SEP26,1960,
 21837171,"Jozefczyk, Szymon",POL,M,,,,1750,0,20,SEP26,2005,i
 41835271,"Jozefiak, Tomasz",POL,M,,,,1495,0,20,SEP26,1975,i
@@ -3989,7 +3991,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1196600,"Juchnowicz, Janusz",POL,M,,,,1591,0,20,SEP26,1992,i
 1170651,"Judek, Magdalena",POL,F,,IA,,1851,0,20,SEP26,1986,wi
 41849914,"Junak, Aleksandra",POL,F,,,,1476,0,40,SEP26,2013,wi
-21863008,"Jurago, Adam",POL,M,,,,1634,0,20,SEP26,1986,i
+21863008,"Jurago, Adam",POL,M,,,,1599,8,20,SEP26,1986,
 91125898,"Jurago, Milosz",POL,M,,,,1497,0,40,SEP26,2013,
 21854416,"Jurasinski, Zenon",POL,M,,,,1582,0,20,SEP26,1955,i
 21093300,"Jurasz, Karol",POL,M,,,,1471,0,20,SEP26,2002,i
@@ -4031,12 +4033,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21867879,"Kabata, Przemyslaw",POL,M,,,,1698,0,20,SEP26,1996,i
 41843541,"Kabatek, Dorian",POL,M,,,,1414,0,40,SEP26,2012,
 21084416,"Kabatek, Lukasz",POL,M,,,,1637,0,40,SEP26,2011,
-21875146,"Kabzinski, Jan",POL,M,,,,1757,0,20,SEP26,2000,
+21875146,"Kabzinski, Jan",POL,M,,,,1805,9,20,SEP26,2000,
 41876776,"Kacejko, Damian",POL,M,,,,1768,0,20,SEP26,2003,i
 21877815,"Kacki, Stanislaw",POL,M,,NA,,1799,0,20,SEP26,2006,i
 41854535,"Kacperczyk, Jaroslaw",POL,M,,,,1556,0,40,SEP26,2012,
-21819319,"Kacprzak, Kacper",POL,M,FM,,,2360,0,20,SEP26,2005,
-21819327,"Kacprzak, Karol",POL,M,FM,,,2433,0,10,SEP26,2005,
+21819319,"Kacprzak, Kacper",POL,M,FM,,,2377,11,20,SEP26,2005,
+21819327,"Kacprzak, Karol",POL,M,FM,,,2434,11,10,SEP26,2005,
 545061092,"Kacprzak, Wojciech",POL,M,,,,1563,0,40,SEP26,2011,
 1138057,"Kacprzyk, Kaja",POL,F,,,,1798,0,20,SEP26,1990,wi
 21022666,"Kacprzyk, Mateusz",POL,M,,,,1469,0,40,SEP26,2008,i
@@ -4066,8 +4068,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545049416,"Kaczmarek, Patryk",POL,M,,,,1727,0,20,SEP26,1989,
 21879389,"Kaczmarek, Paulina",POL,F,,,,1807,0,40,SEP26,2008,w
 41820665,"Kaczmarek, Piotr",POL,M,,,,1838,0,40,SEP26,2013,
-1121006,"Kaczmarek, Piotr",POL,M,,,,1750,0,20,SEP26,1958,i
 21856958,"Kaczmarek, Piotr",POL,M,,,,1632,0,20,SEP26,1987,i
+1121006,"Kaczmarek, Piotr",POL,M,,,,1750,0,20,SEP26,1958,i
 1165968,"Kaczmarek, Stanislaw",POL,M,,,,1737,0,20,SEP26,1962,i
 21835144,"Kaczmarek, Tomasz",POL,M,,,,1771,0,20,SEP26,1993,
 1186205,"Kaczmarska-Kedzierska, Joanna",POL,F,,NA,,1901,0,20,SEP26,2001,wi
@@ -4147,7 +4149,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21821674,"Kaluzny, Kamil",POL,M,,,,1636,0,20,SEP26,2005,i
 1147285,"Kaluzny, Krzysztof",POL,M,,,,1769,0,20,SEP26,1992,
 1117084,"Kaluzny, Lukasz",POL,M,,,,1866,13,20,SEP26,1970,
-91140935,"Kaluzny, Mateusz",POL,M,,,,1431,0,20,SEP26,2005,
+91140935,"Kaluzny, Mateusz",POL,M,,,,1442,9,20,SEP26,2005,
 1185411,"Kaluzny, Stanislaw",POL,M,,,,1519,0,20,SEP26,2001,i
 1126024,"Kaluzny, Tomasz",POL,M,,,,1796,13,20,SEP26,1997,
 1112899,"Kaluzny, Wlodzimierz",POL,M,,,,1934,0,20,SEP26,1944,i
@@ -4282,7 +4284,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41836588,"Karkowski, Szymon",POL,M,,,,1538,0,40,SEP26,2012,
 91168805,"Karkusinski, Michal",POL,M,,,,1887,0,20,SEP26,1997,i
 1172980,"Karleszko-Jedynak, Karolina",POL,F,,,,1679,0,20,SEP26,1999,wi
-545086567,"Karlin, Andrii",POL,M,,,,1520,0,20,SEP26,1989,
+545086567,"Karlin, Andrii",POL,M,,,,1570,10,20,SEP26,1989,
 21812616,"Karlinski, Grzegorz",POL,M,,,,1629,0,20,SEP26,1985,i
 1193210,"Karlyk, Maria",POL,F,,,,1759,0,20,SEP26,2002,wi
 1170317,"Karnas, Leszek",POL,M,,,,1801,0,20,SEP26,1948,i
@@ -4365,11 +4367,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545022607,"Kasprzyk, Franciszek",POL,M,,,,1465,0,40,SEP26,2014,i
 41885937,"Kasprzyk, Gabriel",POL,M,,,,1503,5,40,SEP26,2008,
 1169572,"Kasprzyk, Maciej",POL,M,,,,1694,0,20,SEP26,2000,i
-41847148,"Kasprzyk, Mateusz",POL,M,,,,1523,9,40,SEP26,2011,
+41847148,"Kasprzyk, Mateusz",POL,M,,,,1556,20,40,SEP26,2011,
 41820185,"Kasprzyk, Michal",POL,M,,,,1671,0,20,SEP26,1998,i
 1144804,"Kasprzyk, Zbigniew",POL,M,,,,1766,0,20,SEP26,1974,
 41823540,"Kasprzyszyn, Karolina",POL,F,,,,1431,0,40,SEP26,2013,w
-1134701,"Kastelik, Adrian",POL,M,,,,2152,17,20,SEP26,1990,
+1134701,"Kastelik, Adrian",POL,M,,,,2120,28,20,SEP26,1990,
 21840954,"Kaszewski, Milosz",POL,M,,,,1513,0,20,SEP26,2007,i
 21026823,"Kasztura, Michal",POL,M,,,,1554,0,20,SEP26,1989,i
 41849027,"Kaszuba, Adrian",POL,M,,,,1653,0,20,SEP26,1977,i
@@ -4659,7 +4661,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1191098,"Klimiuk, Pawel",POL,M,,,,1733,0,20,SEP26,1993,i
 21097275,"Klimkiewicz, Adam",POL,M,,,,1580,0,20,SEP26,1991,i
 21070873,"Klimkiewicz, Wojciech",POL,M,,,,1638,0,20,SEP26,1971,i
-21856222,"Klimkowski, Jan",POL,M,GM,,,2450,0,10,SEP26,2007,
+21856222,"Klimkowski, Jan",POL,M,GM,,,2447,10,10,SEP26,2007,
 545000271,"Klimkowski, Mikolaj",POL,M,,,,1500,0,20,SEP26,2007,
 41842600,"Klimowicz, Hubert",POL,M,,,,1434,0,20,SEP26,2005,i
 41817028,"Klimowski, Artur",POL,M,,,,1508,0,20,SEP26,1982,i
@@ -4798,7 +4800,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21804150,"Kolakowski, Zbigniew",POL,M,,,,1570,0,20,SEP26,1974,i
 21819904,"Kolankiewicz, Karol",POL,M,,,,1644,0,20,SEP26,1979,i
 545078394,"Kolanko, Dominik",POL,M,,,,1407,11,40,SEP26,2010,
-21056064,"Kolanowski, Franciszek",POL,M,,,,1728,8,40,SEP26,2012,
+21056064,"Kolanowski, Franciszek",POL,M,,,,1639,17,40,SEP26,2012,
 545009350,"Kolanski, Piotr",POL,M,,,,1542,0,40,SEP26,2009,i
 21816077,"Kolarz, Maciej",POL,M,,,,1754,0,20,SEP26,2004,i
 41853407,"Kolasa, Krzysztof",POL,M,,,,1579,0,20,SEP26,1983,i
@@ -4825,7 +4827,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545030588,"Kolesnyk, Ievgen",POL,M,,,,1729,10,20,SEP26,1984,
 41803396,"Kolet-Iciek, Stanislaw",POL,M,,,,1525,0,20,SEP26,2006,i
 545029474,"Kolibowski, Maciej",POL,M,,,,1455,0,20,SEP26,2005,i
-545023387,"Kolinski, Aleks",POL,M,,,,1508,6,40,SEP26,2010,
+545023387,"Kolinski, Aleks",POL,M,,,,1472,17,40,SEP26,2010,
 41822323,"Kolinski, Jakub",POL,M,,,,1881,12,40,SEP26,2009,
 21899320,"Kollataj, Przemyslaw",POL,M,,,,1558,0,20,SEP26,1974,
 21074674,"Kollbek, Jakub",POL,M,,,,1446,0,20,SEP26,2007,i
@@ -4894,7 +4896,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41847741,"Konior, Marcin",POL,M,,,,1678,0,20,SEP26,1978,
 1135996,"Konkol, Adam",POL,M,,,,1650,0,20,SEP26,1975,i
 21858683,"Konkol, Nadia",POL,F,,,,1495,0,40,SEP26,2010,wi
-21013756,"Konkol, Sandra",POL,F,,NA,,1860,11,40,SEP26,2009,w
+21013756,"Konkol, Sandra",POL,F,,NA,,1804,24,40,SEP26,2009,w
 91153964,"Konop, Zuzanna",POL,F,,,,1569,0,40,SEP26,2012,w
 1146025,"Konopacka, Martyna",POL,F,,,,1831,0,20,SEP26,1999,wi
 21092001,"Konopacki, Wojciech",POL,M,,,,1404,0,40,SEP26,2013,i
@@ -4940,7 +4942,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1110365,"Koper, Ireneusz",POL,M,,,,1946,0,20,SEP26,1966,i
 21894035,"Koper, Jan",POL,M,,,,1557,0,20,SEP26,1996,i
 21010650,"Koper, Kacper",POL,M,,,,1427,0,20,SEP26,2007,i
-1107631,"Koper, Konrad",POL,M,,,,1783,0,20,SEP26,1982,i
+1107631,"Koper, Konrad",POL,M,,,,1729,11,20,SEP26,1982,
 41829891,"Koper, Michal",POL,M,,,,1452,0,20,SEP26,2000,i
 41886925,"Koper, Rafal",POL,M,,,,1580,0,20,SEP26,2005,i
 21042152,"Koper, Sebastian",POL,M,,,,1601,0,20,SEP26,1994,i
@@ -4983,6 +4985,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21033846,"Kordowski, Lukasz",POL,M,,,,1831,0,40,SEP26,2010,
 1199536,"Kordula, Grzegorz",POL,M,,,,1482,0,20,SEP26,2005,i
 21812705,"Kordula, Zuzanna",POL,F,,,,1402,0,20,SEP26,2003,wi
+91162068,"Kordus, Franciszek",POL,M,,,,1485,4,40,SEP26,2013,
 91120500,"Kordus, Tomasz",POL,M,,,,1760,0,40,SEP26,2010,
 41837290,"Kordusiak, Jan",POL,M,,,,1683,0,20,SEP26,2007,
 21097283,"Kordylewski, Grzegorz",POL,M,,,,1482,0,20,SEP26,1995,i
@@ -5031,15 +5034,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41822404,"Korzeniowski, Wojciech",POL,M,,,,1690,0,,SEP26,2014,i
 545079765,"Korzh, Oleksii",POL,M,,,,1501,0,20,SEP26,2003,
 1178709,"Korzonek, Marek",POL,M,,,,1877,0,20,SEP26,1986,i
-91128005,"Korzystka, Maksymilian",POL,M,,,,1630,0,40,SEP26,2009,
+91128005,"Korzystka, Maksymilian",POL,M,,,,1545,10,40,SEP26,2009,
 21842787,"Korzystka, Wiktor",POL,M,,,,1516,0,20,SEP26,2002,i
 21805466,"Kos, Grzegorz",POL,M,,,,1768,0,20,SEP26,1972,i
-21020442,"Kos, Krzysztof",POL,M,,,,1550,0,20,SEP26,1991,i
 21849560,"Kos, Krzysztof",POL,M,,,,1513,0,20,SEP26,1995,i
+21020442,"Kos, Krzysztof",POL,M,,,,1550,0,20,SEP26,1991,i
 1120085,"Kos, Pawel",POL,M,,,,2068,0,20,SEP26,1984,
 1185080,"Kosakowski, Jakub",POL,M,GM,,,2528,11,10,SEP26,2002,
 21095086,"Kosakowski, Szymon",POL,M,,,,1687,0,20,SEP26,2003,
-545096740,"Koschany, Tobiasz",POL,M,,,,1561,10,40,SEP26,1999,
+545096740,"Koschany, Tobiasz",POL,M,,,,1551,20,40,SEP26,1999,
 91142830,"Kosciecha, Jakub",POL,M,,,,1587,0,40,SEP26,2013,
 21068950,"Koscielak, Albert",POL,M,,,,1528,0,20,SEP26,1998,i
 41844840,"Koscielski, Maciej",POL,M,,,,1526,0,20,SEP26,2007,
@@ -5282,7 +5285,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21858950,"Koza, Jakub",POL,M,,,,1482,0,20,SEP26,2006,i
 1176005,"Koza, Jan",POL,M,,,,1504,0,20,SEP26,2000,i
 21063109,"Koza, Krzysztof",POL,M,,,,1468,0,20,SEP26,2007,i
-21020035,"Koza, Pawel",POL,M,,NA,,1647,0,20,SEP26,1991,i
+21020035,"Koza, Pawel",POL,M,,NA,,1669,10,20,SEP26,1991,
 1178806,"Koza, Stanislaw",POL,M,,,,1734,0,20,SEP26,1998,i
 91105790,"Kozachok, Volodymyr",POL,M,,,,1669,0,20,SEP26,1952,i
 1159160,"Kozaczynska, Aleksandra",POL,F,,,,1831,0,20,SEP26,1998,wi
@@ -5358,7 +5361,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21817251,"Kozlowski, Szymon",POL,M,,,,1620,0,20,SEP26,2004,i
 41879490,"Kozlowski, Szymon",POL,M,,,,1480,0,20,SEP26,2004,i
 91177847,"Kozlowski, Tadeusz",POL,M,,,,1488,0,20,SEP26,2007,i
-1124510,"Kozlowski, Tomasz",POL,M,,,,1894,13,20,SEP26,1986,
+1124510,"Kozlowski, Tomasz",POL,M,,,,1936,24,20,SEP26,1986,
 1100467,"Kozlowski, Waldemar",POL,M,FM,,,2195,0,20,SEP26,1967,i
 41841182,"Kozlowski, Zbigniew",POL,M,,,,1669,0,20,SEP26,1970,
 21856168,"Kozlowski, Zbigniew",POL,M,,,,1631,0,20,SEP26,1961,i
@@ -5550,8 +5553,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41841778,"Kruk, Piotr",POL,M,,,,1488,0,40,SEP26,2008,i
 21863016,"Krulikowski, Szymon",POL,M,,,,1833,0,20,SEP26,1982,i
 1120026,"Krupa, Bartlomiej",POL,M,,,,1861,0,20,SEP26,1980,i
-21884714,"Krupa, Jan",POL,M,,,,1765,0,20,SEP26,1999,
 21881545,"Krupa, Jan",POL,M,,,,1476,0,20,SEP26,2007,i
+21884714,"Krupa, Jan",POL,M,,,,1765,0,20,SEP26,1999,
 1136968,"Krupa, Jerzy",POL,M,,,,1807,0,20,SEP26,1954,
 91104343,"Krupa, Julian",POL,M,,,,1501,0,40,SEP26,2010,i
 91117070,"Krupa, Kamil",POL,M,,,,1429,0,40,SEP26,2009,i
@@ -5673,7 +5676,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21031630,"Ksionek, Joanna",POL,F,,,,1408,0,40,SEP26,2011,w
 91128960,"Ksionek, Piotr",POL,M,,,,1488,0,40,SEP26,2016,
 41812980,"Kubacka, Patrycja",POL,F,,,,1698,0,40,SEP26,2012,w
-21829667,"Kubacki, Dawid",POL,M,,,,1718,0,20,SEP26,1979,
+21829667,"Kubacki, Dawid",POL,M,,,,1755,13,20,SEP26,1979,
 41835328,"Kubacki, Igor",POL,M,,,,1532,0,40,SEP26,2012,i
 41842391,"Kubacki, Krzysztof",POL,M,,,,1543,0,40,SEP26,2015,i
 21867224,"Kubaj, Artur",POL,M,,,,1666,0,20,SEP26,1991,i
@@ -5693,6 +5696,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1194097,"Kubiak, Aleksandra",POL,F,,,,1533,0,20,SEP26,2002,wi
 1184130,"Kubiak, Jakub",POL,M,,,,1908,0,20,SEP26,2001,i
 545029245,"Kubiak, Jan",POL,M,,,,1458,0,40,SEP26,2014,
+545032130,"Kubiak, Michal",POL,M,,,,1539,14,40,SEP26,2004,
 91108551,"Kubiak, Tomasz",POL,M,,,,1427,0,20,SEP26,1980,i
 91198852,"Kubica, Adam",POL,M,,,,1542,0,20,SEP26,1995,
 21806012,"Kubica, Dominik",POL,M,,,,1687,0,20,SEP26,2005,i
@@ -5712,8 +5716,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21858071,"Kubik, Bartosz",POL,M,,,,1623,0,40,SEP26,2009,i
 41840917,"Kubik, Karol",POL,M,,,,1408,0,40,SEP26,2014,i
 21811300,"Kubik, Karol",POL,M,,,,1760,0,20,SEP26,1986,i
-41860438,"Kubik, Michal",POL,M,,,,1476,0,20,SEP26,1999,
 41849558,"Kubik, Michal",POL,M,,,,1467,0,20,SEP26,1975,i
+41860438,"Kubik, Michal",POL,M,,,,1476,0,20,SEP26,1999,
 21038490,"Kubik, Piotr",POL,M,,,,1511,0,20,SEP26,1975,i
 21022852,"Kubik, Rafal",POL,M,CM,,,2021,0,20,SEP26,2007,i
 41867009,"Kubik, Stanislaw",POL,M,,,,1489,0,20,SEP26,2001,i
@@ -5776,7 +5780,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21856443,"Kuczynski, Jakub",POL,M,,,,1495,0,20,SEP26,2005,i
 21816980,"Kuczynski, Michal",POL,M,,,,1596,0,20,SEP26,2006,i
 21039097,"Kuczynski, Michal",POL,M,,,,1734,0,20,SEP26,1994,i
-91148820,"Kuczynski, Piotr",POL,M,,,,1879,19,40,SEP26,2008,
+91148820,"Kuczynski, Piotr",POL,M,,,,1852,32,40,SEP26,2008,
 1100033,"Kuczynski, Robert",POL,M,GM,,,2395,0,10,SEP26,1966,i
 91140790,"Kuczynski, Szymon",POL,M,,,,1620,0,40,SEP26,2009,i
 21082596,"Kuczynski, Tymon",POL,M,,,,1400,0,40,SEP26,2012,
@@ -5893,7 +5897,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91123895,"Kunicki, Pawel",POL,M,,,,1534,0,20,SEP26,1983,i
 91189225,"Kunikowski, Adam",POL,M,,,,1574,0,40,SEP26,2012,i
 91159857,"Kunikowski, Kacper",POL,M,,,,1420,0,40,SEP26,2009,i
-21089663,"Kunze, Krystian",POL,M,,,,1587,9,40,SEP26,2011,
+21089663,"Kunze, Krystian",POL,M,,,,1679,19,40,SEP26,2011,
 545036560,"Kupalov, Usman",POL,M,,,,1593,0,20,SEP26,2002,
 41897374,"Kupc, Dorian",POL,M,,,,1635,0,20,SEP26,2007,
 21886865,"Kupczak, Antoni",POL,M,,,,1665,0,20,SEP26,1954,
@@ -6023,7 +6027,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21062684,"Kwasny, Franciszek",POL,M,,,,1486,0,40,SEP26,2008,i
 1130650,"Kwasny, Leszek",POL,M,,,,1782,0,20,SEP26,1960,i
 91163986,"Kwasny, Marcin",POL,M,,,,1542,0,20,SEP26,1996,i
-41813383,"Kwiatek, Franciszek",POL,M,,,,1900,9,40,SEP26,2012,
+41813383,"Kwiatek, Franciszek",POL,M,,,,1889,19,40,SEP26,2012,
 1153919,"Kwiatek, Lukasz",POL,M,,,,1910,0,20,SEP26,1981,i
 1172808,"Kwiatkowska, Agnieszka",POL,F,,,,1705,0,20,SEP26,2000,wi
 41842901,"Kwiatkowska, Jagoda",POL,F,,,,1476,0,40,SEP26,2011,wi
@@ -6038,11 +6042,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21095779,"Kwiatkowski, Jakub",POL,M,,,,1517,0,40,SEP26,2013,
 587000709,"Kwiatkowski, Leon",POL,M,,,,1443,7,40,SEP26,2015,
 41847679,"Kwiatkowski, Maciej",POL,M,,,,1707,0,20,SEP26,2004,
-545023492,"Kwiatkowski, Maciej",POL,M,,,,1419,0,20,SEP26,2002,i
 545000654,"Kwiatkowski, Maciej",POL,M,,,,1515,0,20,SEP26,1998,i
+545023492,"Kwiatkowski, Maciej",POL,M,,,,1419,0,20,SEP26,2002,i
 1185179,"Kwiatkowski, Marek",POL,M,,,,1747,0,20,SEP26,1999,i
-21835314,"Kwiatkowski, Mateusz",POL,M,,,,1806,0,20,SEP26,1997,i
 91100542,"Kwiatkowski, Mateusz",POL,M,,,,1513,0,20,SEP26,2004,i
+21835314,"Kwiatkowski, Mateusz",POL,M,,,,1806,0,20,SEP26,1997,i
 41809793,"Kwiatkowski, Michal",POL,M,,,,1495,0,40,SEP26,2009,i
 41859200,"Kwiatkowski, Mikolaj",POL,M,,,,1549,0,40,SEP26,2009,i
 91158680,"Kwiatkowski, Mikolaj",POL,M,,,,1547,0,20,SEP26,2007,i
@@ -6147,7 +6151,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1149733,"Lar, Angelika",POL,F,,,,1546,0,20,SEP26,1985,wi
 1183281,"Las, Adrian",POL,M,,,,1530,0,20,SEP26,2000,i
 1191110,"Lascar, Maria Elena",POL,F,,,,1611,0,20,SEP26,2002,wi
-545045461,"Lashko, Mikhail",POL,M,,,,1439,0,40,SEP26,2008,
+545045461,"Lashko, Mikhail",POL,M,,,,1403,6,40,SEP26,2008,
 1192795,"Lasica, Marcin",POL,M,,,,1618,0,20,SEP26,1998,i
 21886768,"Laska, Damian",POL,M,,,,1515,0,20,SEP26,1995,i
 41822536,"Laskowicz, Jerzy",POL,M,,,,1502,0,40,SEP26,2012,
@@ -6216,7 +6220,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1169629,"Leczek, Weronika",POL,F,,,,1878,0,20,SEP26,2001,wi
 41860942,"Lega, Artur",POL,M,,,,1516,0,20,SEP26,1997,i
 41886895,"Legiec, Mateusz",POL,M,,,,1511,0,20,SEP26,1986,
-21087903,"Legierski, Jan",POL,M,,,,2126,0,40,SEP26,2009,
+21087903,"Legierski, Jan",POL,M,,,,2050,11,40,SEP26,2009,
 1107658,"Leichert, Piotr",POL,M,,,,1837,0,20,SEP26,1978,
 1119249,"Leja, Adam",POL,M,,,,1865,0,20,SEP26,1960,i
 41827570,"Lekan, Pawel",POL,M,,,,1437,0,20,SEP26,2007,i
@@ -6311,14 +6315,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1149865,"Lewandowski, Przemyslaw",POL,M,,,,1576,0,20,SEP26,1984,i
 1111981,"Lewandowski, Rafal",POL,M,CM,,,1879,0,20,SEP26,1978,
 41805631,"Lewandowski, Stanislaw",POL,M,,,,1495,0,40,SEP26,2013,
-21882231,"Lewandowski, Szymon",POL,M,,,,1632,0,20,SEP26,2005,
+21882231,"Lewandowski, Szymon",POL,M,,,,1629,11,20,SEP26,2005,
 545013080,"Lewandowski, Szymon",POL,M,,,,1528,0,40,SEP26,2013,
 41803167,"Lewandowski, Szymon",POL,M,,,,1545,0,40,SEP26,2009,i
 1175823,"Lewandowski, Tomasz",POL,M,,,,1617,0,20,SEP26,1997,i
 21805326,"Lewandowski, Wiktor",POL,M,,,,1852,0,20,SEP26,2002,i
 21829748,"Lewandowski, Witold",POL,M,,,,1786,0,20,SEP26,2004,
 1154753,"Lewandrowski, Tomasz",POL,M,,,,1955,0,20,SEP26,1992,i
-1179241,"Lewczuk, Antoni",POL,M,,,,1571,30,,SEP26,1954,
+1179241,"Lewczuk, Antoni",POL,M,,,,1568,39,,SEP26,1954,
 41891597,"Lewczuk, Jakub",POL,M,,,,2012,0,40,SEP26,2016,
 21036667,"Lewek, Andrzej",POL,M,,,,1595,0,20,SEP26,1969,i
 21006377,"Lewek, Jakub",POL,M,,,,1776,0,40,SEP26,2011,i
@@ -6334,7 +6338,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1194046,"Lewicki, Pawel",POL,M,,,,1969,0,20,SEP26,1978,i
 41821114,"Lewinski, Leon",POL,M,,,,1515,0,40,SEP26,2014,
 1141252,"Lewko, Pawel",POL,M,,,,1799,0,20,SEP26,1991,i
-545025029,"Lewko, Piotr",POL,M,,,,1426,8,40,SEP26,2014,
+545025029,"Lewko, Piotr",POL,M,,,,1437,17,40,SEP26,2014,
 91135060,"Lewkowicz, Eryk",POL,M,,,,1471,0,40,SEP26,2011,
 21878463,"Lewkowicz, Pawel",POL,M,,,,1747,0,20,SEP26,2000,i
 41849507,"Lewkowicz, Pawel",POL,M,,,,1756,0,20,SEP26,1989,i
@@ -6393,7 +6397,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41839080,"Lisak, Jerzy",POL,M,,,,1482,0,20,SEP26,1955,i
 21092079,"Lisek, Adam",POL,M,,,,1767,10,40,SEP26,2013,
 545060436,"Lisek, Adrian",POL,M,,,,1413,0,40,SEP26,2012,
-91168686,"Lisek, Julian",POL,M,,,,1420,0,20,SEP26,2005,i
+91168686,"Lisek, Julian",POL,M,,,,1428,8,20,SEP26,2005,
 21898863,"Lisek, Kamil",POL,M,,,,1462,0,20,SEP26,1989,i
 1150367,"Lisiak, Michal",POL,M,,,,1583,0,20,SEP26,1985,i
 1150375,"Lisiak, Rafal",POL,M,,,,1650,0,20,SEP26,1985,
@@ -6403,8 +6407,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21801924,"Lisiecka, Aleksandra",POL,F,,,,1645,0,20,SEP26,2002,wi
 21086966,"Lisiecki, Aleksander",POL,M,,NA,,1616,0,20,SEP26,1996,i
 21815046,"Lisiecki, Jakub",POL,M,,,,1621,0,20,SEP26,2000,i
-21860033,"Lisiecki, Mikolaj",POL,M,,,,1619,0,20,SEP26,2005,i
 545067562,"Lisiecki, Mikolaj",POL,M,,,,1506,0,40,SEP26,2012,
+21860033,"Lisiecki, Mikolaj",POL,M,,,,1619,0,20,SEP26,2005,i
 1151355,"Lisiecki, Robert",POL,M,,,,1855,12,20,SEP26,1998,
 41881338,"Lisik, Marcin",POL,M,,,,1692,0,20,SEP26,2002,i
 21837899,"Lisik, Piotr",POL,M,,,,1521,0,20,SEP26,2004,i
@@ -6421,7 +6425,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21079790,"Liszka, Marta",POL,F,,,,1452,0,40,SEP26,2009,wi
 1148931,"Liszkiewicz, Slawomir",POL,M,,,,1844,0,20,SEP26,1971,i
 545019894,"Litak, Grzegorz",POL,M,,,,1447,0,20,SEP26,1963,i
-41867483,"Litera, Krzysztof",POL,M,,,,1635,11,40,SEP26,2012,
+41867483,"Litera, Krzysztof",POL,M,,,,1658,23,40,SEP26,2012,
 1163078,"Litner, Igor",POL,M,,,,1878,11,20,SEP26,1998,
 34119280,"Litovka, Olesia",POL,F,,,,1488,0,40,SEP26,2008,wi
 34119299,"Litovka, Ruslana",POL,F,,,,1448,0,40,SEP26,2010,w
@@ -6534,7 +6538,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21813906,"Lukasik, Zuzanna",POL,F,,,,1874,0,20,SEP26,2005,w
 91123194,"Lukasz, Dawid",POL,M,,,,1569,0,20,SEP26,2003,i
 21052522,"Lukaszewicz, Leokadia",POL,F,,,,1491,0,20,SEP26,1951,wi
-1141902,"Lukaszewicz, Piotr",POL,M,,,,1846,0,20,SEP26,1984,i
+1141902,"Lukaszewicz, Piotr",POL,M,,,,1783,10,20,SEP26,1984,
 21801606,"Lukaszewska, Magdalena",POL,F,,,,1480,0,20,SEP26,2002,wi
 1195956,"Lukaszewski, Marcin",POL,M,,,,1729,0,20,SEP26,1998,i
 41851153,"Lukaszuk, Filip",POL,M,,,,1403,0,40,SEP26,2015,
@@ -6655,9 +6659,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21835934,"Madajczak, Piotr",POL,M,,,,2092,0,20,SEP26,2006,
 41893964,"Madajewski, Borys",POL,M,,,,1476,0,40,SEP26,2011,
 1185950,"Madalinski, Jan",POL,M,,,,1808,0,20,SEP26,1999,i
-1111094,"Madalinski, Mariusz",POL,M,,,,1837,0,20,SEP26,1973,
+1111094,"Madalinski, Mariusz",POL,M,,,,1840,11,20,SEP26,1973,
 41873483,"Madalski, Piotr",POL,M,,,,1652,0,40,SEP26,2010,i
-545073520,"Madeia, Yevhen",POL,M,,,,1859,0,20,SEP26,1996,
+545073520,"Madeia, Yevhen",POL,M,,,,1884,11,20,SEP26,1996,
 1184318,"Madej, Adam",POL,M,,,,1741,0,20,SEP26,1956,i
 1107895,"Madej, Jaroslaw",POL,M,,,,1987,0,20,SEP26,1972,i
 91154995,"Madej, Kacper",POL,M,,,,1503,8,40,SEP26,2016,
@@ -6673,7 +6677,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1108751,"Madynski, Pawel",POL,M,,,,2075,0,20,SEP26,1976,i
 41888383,"Magalska, Marcelina",POL,F,,,,1454,7,40,SEP26,2014,w
 21082448,"Magalski, Lukasz",POL,M,,,,1647,0,20,SEP26,2001,
-1174908,"Magdziak, Lukasz",POL,M,,,,1625,0,20,SEP26,1980,
+1174908,"Magdziak, Lukasz",POL,M,,,,1586,7,20,SEP26,1980,
 21893535,"Magdziarz, Piotr",POL,M,,,,1490,0,40,SEP26,2008,i
 91102782,"Magiera, Adam",POL,M,,,,1404,0,40,SEP26,2009,i
 21869405,"Magiera, Artur",POL,M,,,,1421,0,20,SEP26,1975,
@@ -6705,6 +6709,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91135524,"Majcherski, Mariusz",POL,M,,,,1640,0,20,SEP26,1973,i
 21872708,"Majchrowski, Jacek",POL,M,,,,1528,0,20,SEP26,1997,
 21835950,"Majchrzak, Aleksander",POL,M,,,,1536,0,20,SEP26,2006,i
+545036209,"Majchrzak, Marek",POL,M,,,,1447,9,40,SEP26,1982,
 545011362,"Majchrzak, Michal",POL,M,,,,1519,0,20,SEP26,2003,
 21822549,"Majchrzak, Przemyslaw",POL,M,,,,1644,0,20,SEP26,1979,i
 1174150,"Majchrzak, Wojciech",POL,M,,,,1583,0,20,SEP26,1973,i
@@ -6717,7 +6722,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1131427,"Majdan, Marta",POL,F,,,,1733,0,20,SEP26,1989,wi
 21848076,"Majdan, Mateusz",POL,M,,,,1414,0,20,SEP26,1959,i
 1149687,"Majdan, Zygmunt",POL,M,,,,1539,0,20,SEP26,1949,
-21820570,"Majdanski, Maksymilian",POL,M,,,,2014,0,20,SEP26,2004,
+21820570,"Majdanski, Maksymilian",POL,M,,,,2019,11,20,SEP26,2004,
 21828725,"Majdecka, Nikola",POL,F,,NA,,1489,0,20,SEP26,2002,wi
 21099812,"Majdecki, Mikolaj",POL,M,,,,1510,6,40,SEP26,2014,
 1165470,"Majdecki, Robert",POL,M,,,,1668,0,20,SEP26,1978,
@@ -6801,7 +6806,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21858896,"Malecka, Natalia",POL,F,,,,1461,0,20,SEP26,2006,wi
 545016194,"Malecki, Adam",POL,M,,,,1481,0,40,SEP26,2016,
 21867011,"Malecki, Andrzej",POL,M,,,,1713,0,20,SEP26,1958,i
-1122584,"Malecki, Eugeniusz",POL,M,,,,1866,0,20,SEP26,1964,
+1122584,"Malecki, Eugeniusz",POL,M,,,,1892,11,20,SEP26,1964,
 1108557,"Malecki, Janusz",POL,M,,,,1899,0,20,SEP26,1959,i
 21033110,"Malecki, Karol",POL,M,,,,1420,0,20,SEP26,2005,i
 1155601,"Malecki, Mateusz",POL,M,,,,1722,0,20,SEP26,1998,i
@@ -6919,7 +6924,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91180805,"Marcinkowski, Jan",POL,M,,,,1757,0,20,SEP26,2007,
 21853207,"Marcinkowski, Jan",POL,M,,,,1534,0,20,SEP26,2006,i
 21027854,"Marcinkowski, Pawel",POL,M,,,,1729,0,20,SEP26,1963,i
-41885520,"Marcinkowski, Wojciech",POL,M,,,,1845,0,40,SEP26,2009,
+41885520,"Marcinkowski, Wojciech",POL,M,,,,1805,11,40,SEP26,2009,
 1128930,"Marcinowski, Marek",POL,M,,,,1861,6,20,SEP26,1986,
 41868307,"Marcinowski, Pawel",POL,M,,,,1683,8,20,SEP26,1999,
 1130412,"Marcinowski, Zbigniew",POL,M,,,,2034,0,20,SEP26,1990,
@@ -6929,7 +6934,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41834747,"Marczak, Maksymilian",POL,M,,,,1535,0,40,SEP26,2012,
 1192884,"Marczak, Szymon",POL,M,,,,1951,0,20,SEP26,2001,i
 41802675,"Marczewski, Janusz",POL,M,,,,1401,0,20,SEP26,1981,i
-41891112,"Marczok, Jakub",POL,M,,,,1630,11,40,SEP26,2008,
+41891112,"Marczok, Jakub",POL,M,,,,1578,16,40,SEP26,2008,
 1135589,"Marczuk, Anna",POL,F,,,,1928,0,20,SEP26,1999,wi
 1111264,"Marczuk, Dominik",POL,M,FM,,,2164,0,20,SEP26,1997,
 1199552,"Marczuk, Hubert",POL,M,,,,1599,0,20,SEP26,2003,i
@@ -6998,11 +7003,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21018995,"Maryniec, Grzegorz",POL,M,,,,1746,0,20,SEP26,1980,i
 91189829,"Maryniuk, Daniil",POL,M,,,,1577,0,20,SEP26,2007,
 21097194,"Marynowicz, Hubert",POL,M,,,,1478,0,20,SEP26,2005,i
-545000522,"Marzec, Aleksander",POL,M,,,,1612,18,40,SEP26,2015,
+545000522,"Marzec, Aleksander",POL,M,,,,1618,31,40,SEP26,2015,
 1107127,"Marzec, Jaroslaw",POL,M,,,,1981,0,20,SEP26,1957,i
 1128787,"Marzec, Karol",POL,M,,,,1986,0,20,SEP26,1985,i
 1187341,"Marzec, Konrad",POL,M,,,,1670,0,20,SEP26,1992,i
-545000530,"Marzec, Michal",POL,M,,,,1489,0,20,SEP26,1980,
+545000530,"Marzec, Michal",POL,M,,,,1506,12,20,SEP26,1980,
 21030839,"Marzec, Sebastian",POL,M,,,,1719,0,20,SEP26,1979,i
 21867240,"Marzec, Tymon",POL,M,,,,1666,9,20,SEP26,2004,
 41855710,"Marzecki, Marcin",POL,M,,,,1578,0,20,SEP26,1987,i
@@ -7030,7 +7035,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41888111,"Masri, Samer",POL,M,,,,1423,0,20,SEP26,1974,i
 41840283,"Mastalerek, Mariusz",POL,M,,,,1609,0,20,SEP26,1978,i
 21061912,"Mastej, Krzysztof",POL,M,,,,1786,13,20,SEP26,2007,
-1103350,"Masternak, Aleksander",POL,M,,,,2059,27,20,SEP26,1964,
+1103350,"Masternak, Aleksander",POL,M,,,,2037,38,20,SEP26,1964,
 1100505,"Masternak, Grzegorz",POL,M,IM,,,2118,0,20,SEP26,1970,i
 91105471,"Masternak, Grzegorz",POL,M,,,,1691,0,20,SEP26,1993,i
 1195719,"Masternak, Konrad",POL,M,,,,1499,6,20,SEP26,1989,
@@ -7083,13 +7088,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91100828,"Matuszek, Jakub",POL,M,,,,1655,0,40,SEP26,2010,
 21825289,"Matuszek, Jakub",POL,M,,,,1686,0,20,SEP26,2005,i
 21820953,"Matuszek, Piotr",POL,M,,,,1695,0,20,SEP26,1977,i
-545005036,"Matuszewska, Amelia",POL,F,,,,1558,5,40,SEP26,2013,w
+545005036,"Matuszewska, Amelia",POL,F,,,,1742,16,40,SEP26,2013,w
 21836418,"Matuszewska, Kinga",POL,F,,,,1473,0,40,SEP26,2008,wi
 1184784,"Matuszewska, Renata",POL,F,,,,1707,0,20,SEP26,1996,wi
 21848904,"Matuszewski, Bartlomiej",POL,M,,,,1743,0,20,SEP26,1983,i
 21814937,"Matuszewski, Bartosz",POL,M,,,,1579,0,20,SEP26,2003,i
 21095787,"Matuszewski, Damian",POL,M,,,,1426,0,40,SEP26,2014,i
-91121370,"Matuszewski, Jakub",POL,M,,,,1728,12,40,SEP26,2010,
+91121370,"Matuszewski, Jakub",POL,M,,,,1749,22,40,SEP26,2010,
 21098298,"Matuszewski, Kacper",POL,M,,,,1533,0,20,SEP26,2007,i
 21836850,"Matuszewski, Marcin",POL,M,,,,1870,0,20,SEP26,1977,i
 1129775,"Matuszewski, Michal",POL,M,GM,,,2388,0,10,SEP26,1993,i
@@ -7101,7 +7106,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91196280,"Matwiejczuk, Marika",POL,F,,,,1435,5,40,SEP26,2014,w
 41850181,"Matwiejczuk, Tomasz",POL,M,,,,1422,0,20,SEP26,1986,i
 545007268,"Matyasik, Wojciech",POL,M,,,,1557,0,20,SEP26,1982,
-545002320,"Matyja, Michal",POL,M,,,,1586,11,40,SEP26,2009,
+545002320,"Matyja, Michal",POL,M,,,,1612,22,40,SEP26,2009,
 21816743,"Matyjasek, Michalina",POL,F,,,,1615,0,20,SEP26,2004,wi
 21837015,"Matyjaszczyk, Adrian",POL,M,,,,1744,0,20,SEP26,1999,i
 21888442,"Matyjaszczyk, Patryk",POL,M,,,,1414,0,40,SEP26,2009,i
@@ -7171,9 +7176,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21867569,"Mazurek, Robert",POL,M,CM,,,2197,0,20,SEP26,1984,i
 1163639,"Mazurkiewicz, Andrzej",POL,M,,NA,,1679,0,20,SEP26,1972,i
 21872961,"Mazurkiewicz, Grzegorz",POL,M,,,,1698,0,20,SEP26,1982,i
-21022925,"Mazurkiewicz, Krzysztof",POL,M,,,,1508,9,20,SEP26,1957,
+21022925,"Mazurkiewicz, Krzysztof",POL,M,,,,1481,20,20,SEP26,1957,
 1165100,"Mazurkiewicz, Lukasz",POL,M,,,,1717,0,20,SEP26,1996,i
-1124943,"Mazurkiewicz, Michal",POL,M,FM,,,2147,13,20,SEP26,1989,
+1124943,"Mazurkiewicz, Michal",POL,M,FM,,,2140,24,20,SEP26,1989,
 21867330,"Mazurkiewicz, Milosz",POL,M,,,,1446,0,40,SEP26,2009,i
 41806441,"Mazurkiewicz, Oliwier",POL,M,,,,1407,0,40,SEP26,2013,i
 41803884,"Mazurkiewicz, Slawomir",POL,M,,,,1593,0,20,SEP26,1974,i
@@ -7237,7 +7242,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91110890,"Mich, Kajetan",POL,M,,,,1922,21,40,SEP26,2010,
 21020825,"Mich, Tomasz",POL,M,,,,1476,0,20,SEP26,1994,
 21895830,"Michalak, Anna",POL,F,,,,1464,0,20,SEP26,1973,wi
-91113393,"Michalak, Antonina",POL,F,,,,1423,0,40,SEP26,2013,w
+91113393,"Michalak, Antonina",POL,F,,,,1415,12,40,SEP26,2013,w
 91181194,"Michalak, Artur",POL,M,,,,1556,0,20,SEP26,1988,i
 1128760,"Michalak, Augustyn",POL,M,,,,1904,0,20,SEP26,1997,i
 21013411,"Michalak, Bartosz",POL,M,,,,1530,0,40,SEP26,2010,
@@ -7275,9 +7280,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21883556,"Michalowski, Pawel",POL,M,,,,1719,0,20,SEP26,2006,i
 41852842,"Michalowski, Piotr",POL,M,,,,1643,0,40,SEP26,2009,i
 1193953,"Michalska, Aleksandra",POL,F,,,,1872,10,20,SEP26,2002,w
-21887098,"Michalska, Anna-Maria",POL,F,,,,1633,0,20,SEP26,2007,w
+21887098,"Michalska, Anna-Maria",POL,F,,,,1645,10,20,SEP26,2007,w
 41829867,"Michalska, Justyna",POL,F,,,,1464,0,20,SEP26,2000,w
-21012130,"Michalska, Lena",POL,F,WCM,WCM,,1788,13,40,SEP26,2010,w
+21012130,"Michalska, Lena",POL,F,WCM,WCM,,1821,24,40,SEP26,2010,w
 1126407,"Michalska, Maria",POL,F,,,,1986,0,20,SEP26,1971,wi
 21810702,"Michalska, Marta",POL,F,,,,1749,0,20,SEP26,1981,wi
 21836140,"Michalski, Adrian",POL,M,,,,1758,0,20,SEP26,2004,i
@@ -7303,7 +7308,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21829136,"Michaluk, Agata",POL,F,,,,1555,0,20,SEP26,2003,wi
 21829144,"Michaluk, Zbigniew",POL,M,,,,1645,0,20,SEP26,1961,i
 41836910,"Michniak, Andrzej",POL,M,,,,1537,0,20,SEP26,1959,i
-41836928,"Michniak, Julia",POL,F,,,,1757,11,40,SEP26,2008,w
+41836928,"Michniak, Julia",POL,F,,,,1737,21,40,SEP26,2008,w
 1197142,"Michno, Lukasz",POL,M,,,,1583,0,20,SEP26,1982,i
 21835977,"Michno, Mateusz",POL,M,,,,1518,0,20,SEP26,2007,i
 21084980,"Michonski, Konrad",POL,M,,,,1695,0,20,SEP26,1994,i
@@ -7479,7 +7484,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41816684,"Miskiewicz, Maciej",POL,M,,,,1413,0,20,SEP26,2000,i
 1179616,"Miskowiec, Stanislaw",POL,M,,,,1424,0,20,SEP26,1947,i
 1110381,"Mista, Aleksander",POL,M,GM,,,2481,0,10,SEP26,1983,i
-91106621,"Misterek, Mikolaj",POL,M,,,,1579,0,20,SEP26,2004,i
+91106621,"Misterek, Mikolaj",POL,M,,,,1580,12,20,SEP26,2004,
 21804168,"Misterkiewicz, Pawel",POL,M,,,,2016,0,20,SEP26,1972,i
 1111590,"Miszczak, Dariusz",POL,M,,,,1962,0,20,SEP26,1975,i
 21078050,"Miszczak, Marcel",POL,M,,,,1507,0,40,SEP26,2010,i
@@ -7505,6 +7510,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1124935,"Mlynarska, Sylwia",POL,F,WCM,WCM,,1904,0,20,SEP26,1984,wi
 1192892,"Mlynarski, Jedrzej",POL,M,,,,1648,0,20,SEP26,2001,i
 21803790,"Mlynarski, Kamil",POL,M,,,,1959,0,20,SEP26,1995,
+545052204,"Mlynarz, Jakub",POL,M,,,,1618,11,40,SEP26,1996,
 1119370,"Mlynek, Lukasz",POL,M,,,,1890,0,20,SEP26,1982,i
 21013942,"Mlynek, Maksymilian",POL,M,,,,1733,8,20,SEP26,1991,
 21890803,"Mlynski, Bartosz",POL,M,,,,1511,0,40,SEP26,2009,i
@@ -7515,7 +7521,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21834288,"Mocko, Maciej",POL,M,,NA,,1805,0,20,SEP26,2005,
 1149270,"Mockun, Dawid",POL,M,,,,1983,0,20,SEP26,1999,i
 21036632,"Mocny, Stanislaw",POL,M,,,,1684,0,20,SEP26,2007,i
-1187104,"Mocny, Tomasz",POL,M,,,,1836,12,20,SEP26,1984,
+1187104,"Mocny, Tomasz",POL,M,,,,1817,23,20,SEP26,1984,
 21013144,"Moczala, Maja",POL,F,,,,1914,0,40,SEP26,2009,w
 21084564,"Moczulski, Michal",POL,M,CM,,,1955,0,40,SEP26,2010,
 21084033,"Moczulski, Tomasz",POL,M,,,,1597,0,20,SEP26,1988,i
@@ -7642,11 +7648,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21840830,"Mucha, Adrian",POL,M,,,,1575,0,20,SEP26,2004,i
 91166764,"Mucha, Dawid",POL,M,,,,1626,0,20,SEP26,2005,i
 21010323,"Mucha, Eryk",POL,M,,,,1518,0,40,SEP26,2008,i
-41855558,"Mucha, Gabriela",POL,F,,,,1548,10,40,SEP26,2012,w
+41855558,"Mucha, Gabriela",POL,F,,,,1562,17,40,SEP26,2012,w
 21840849,"Mucha, Hubert",POL,M,,,,1948,0,20,SEP26,2000,i
 21840857,"Mucha, Konrad",POL,M,,,,1824,0,20,SEP26,2001,i
 1179667,"Mucha, Krzysztof",POL,M,,,,1870,0,20,SEP26,1987,i
 41868331,"Mucha, Krzysztof",POL,M,,,,1553,0,20,SEP26,1993,
+545017867,"Mucha, Krzysztof",POL,M,,,,1402,92,40,SEP26,2019,
 21897310,"Mucha, Lukasz",POL,M,,,,1505,0,20,SEP26,1993,i
 1140833,"Mucha, Magdalena",POL,F,WCM,WCM,,1980,0,20,SEP26,1995,wi
 1118331,"Mucha, Marcin",POL,M,,,,1962,0,20,SEP26,1978,i
@@ -7656,7 +7663,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545083185,"Mucha, Michal",POL,M,,,,1500,5,40,SEP26,2014,
 1164163,"Mucha, Piotr",POL,M,CM,,,2169,0,20,SEP26,1997,i
 1128795,"Mucha, Roman",POL,M,,,,2140,0,20,SEP26,1992,i
-41855566,"Mucha, Wojciech",POL,M,,,,1779,11,40,SEP26,2014,
+41855566,"Mucha, Wojciech",POL,M,,,,1779,22,40,SEP26,2014,
 21023867,"Mueck, Piotr",POL,M,,,,1655,0,20,SEP26,1967,
 41877527,"Muenala-Klemanski, Karol",POL,M,,,,1530,0,20,SEP26,2002,i
 21085480,"Mukovoz, Artem",POL,M,,,,1540,0,40,SEP26,2010,i
@@ -7684,17 +7691,17 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91106834,"Murzinski, Pawel",POL,M,,,,1627,0,20,SEP26,2005,
 21804249,"Mushenyk, Valeriya",POL,F,,,,1486,0,20,SEP26,2003,wi
 1187368,"Musial, Adam",POL,M,,,,1779,0,20,SEP26,1992,i
-21006415,"Musial, Bartosz",POL,M,,,,1634,0,40,SEP26,2011,
+21006415,"Musial, Bartosz",POL,M,,,,1694,10,40,SEP26,2011,
 91145830,"Musial, Ignacy",POL,M,,,,1453,0,40,SEP26,2016,
 21858110,"Musial, Igor",POL,M,FM,,,2089,11,40,SEP26,2008,
 41811445,"Musial, Noel",POL,M,,,,1564,0,20,SEP26,2007,i
 41842740,"Musial, Patryk",POL,M,,,,1749,0,20,SEP26,2007,i
-91101921,"Musial, Piotr",POL,M,,,,1594,0,40,SEP26,2008,i
 21896682,"Musial, Piotr",POL,M,,,,1428,0,20,SEP26,1986,i
+91101921,"Musial, Piotr",POL,M,,,,1594,0,40,SEP26,2008,i
 1199560,"Musial, Tomasz",POL,M,CM,,,2081,0,20,SEP26,2003,
 21890455,"Musial, Tomasz",POL,M,,,,1683,0,20,SEP26,1985,i
 1193171,"Musiala, Jakub",POL,M,,,,1680,0,20,SEP26,2003,i
-1141929,"Musialkiewicz, Jan",POL,M,,,,2197,0,20,SEP26,1995,i
+1141929,"Musialkiewicz, Jan",POL,M,,,,2169,11,20,SEP26,1995,
 1179683,"Musialkiewicz, Pawel",POL,M,FM,,,2130,0,20,SEP26,1995,i
 21805474,"Musialski, Andrzej",POL,M,,,,1636,0,20,SEP26,1941,i
 91147379,"Musiatowicz, Klaudia",POL,F,,,,1447,0,20,SEP26,2006,w
@@ -7802,7 +7809,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1189921,"Nawrocki, Karol",POL,M,,,,1977,0,20,SEP26,1998,i
 41859006,"Nawrocki, Krzysztof",POL,M,,,,1652,0,20,SEP26,1982,
 1189824,"Nawrocki, Marek",POL,M,,,,1841,0,20,SEP26,1997,
-21097933,"Nawrocki, Michal",POL,M,,,,2044,0,20,SEP26,2007,
+21097933,"Nawrocki, Michal",POL,M,,,,2055,11,20,SEP26,2007,
 21804893,"Nawrocki, Pawel",POL,M,,,,1950,0,20,SEP26,1971,
 41846150,"Nawrocki, Piotr",POL,M,,,,1675,0,20,SEP26,2004,i
 1134353,"Nawrocki, Przemyslaw",POL,M,,,,1834,0,20,SEP26,1987,
@@ -7857,7 +7864,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1161946,"Niedzwiecki, Miroslaw",POL,M,,,,1790,0,20,SEP26,1973,i
 21829233,"Niedzwiecki, Slawomir",POL,M,,,,1663,0,20,SEP26,1950,i
 1139401,"Niedzwiedz, Marek",POL,M,,,,2018,0,20,SEP26,1989,i
-1160451,"Niekras, Dawid",POL,M,FM,,,2328,0,20,SEP26,1998,
+1160451,"Niekras, Dawid",POL,M,FM,,,2336,11,20,SEP26,1998,
 21017620,"Niekras, Ireneusz",POL,M,,,,1406,0,20,SEP26,1961,i
 41860241,"Nielipiuk, Karol",POL,M,,,,1600,0,20,SEP26,2002,i
 41863798,"Niemczuk, Oskar",POL,M,,,,1425,0,40,SEP26,2015,i
@@ -7930,7 +7937,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91166527,"Novotny, Hoang Anh",POL,M,,,,1414,0,20,SEP26,2005,i
 21836450,"Nowacka, Anna",POL,F,,,,1465,0,20,SEP26,2006,wi
 21838950,"Nowacka, Dorota",POL,F,,,,1708,0,20,SEP26,2001,w
-21805105,"Nowacki, Adam",POL,M,,,,1831,0,20,SEP26,1975,
+21805105,"Nowacki, Adam",POL,M,,,,1837,11,20,SEP26,1975,
 1164937,"Nowacki, Jan",POL,M,,,,1777,0,20,SEP26,1952,i
 1139410,"Nowacki, Krzysztof",POL,M,,,,1810,0,20,SEP26,1993,i
 21822166,"Nowacki, Krzysztof",POL,M,,,,1555,0,20,SEP26,1965,
@@ -7954,7 +7961,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91154839,"Nowak, Hanna",POL,F,,,,1444,0,40,SEP26,2011,w
 21868263,"Nowak, Hubert",POL,M,,,,1554,0,20,SEP26,1989,i
 91123976,"Nowak, Jakub",POL,M,,,,1563,0,40,SEP26,2009,i
-21024340,"Nowak, Jedrzej",POL,M,,,,1669,12,40,SEP26,2010,
+21024340,"Nowak, Jedrzej",POL,M,,,,1611,19,40,SEP26,2010,
 1168681,"Nowak, Kamil",POL,M,,,,2179,0,20,SEP26,1999,i
 21827915,"Nowak, Karol",POL,M,,,,1629,0,20,SEP26,1984,
 545002894,"Nowak, Konrad",POL,M,,,,1450,0,20,SEP26,2005,
@@ -8006,7 +8013,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1179870,"Nowicka, Kinga",POL,F,,,,1932,0,20,SEP26,1997,wi
 1151827,"Nowicki, Andrzej",POL,M,,,,1932,0,20,SEP26,1968,i
 1179730,"Nowicki, Bartosz",POL,M,,,,2220,0,20,SEP26,1996,i
-21878935,"Nowicki, Bartosz",POL,M,,,,1823,0,20,SEP26,2006,
+21878935,"Nowicki, Bartosz",POL,M,,,,1820,11,20,SEP26,2006,
 91140951,"Nowicki, Cezary",POL,M,,,,1510,0,20,SEP26,2004,i
 21835993,"Nowicki, Filip",POL,M,,,,1689,0,20,SEP26,2006,
 91140960,"Nowicki, Filip",POL,M,,,,1573,0,20,SEP26,2007,i
@@ -8034,7 +8041,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1124218,"Nun, Grzegorz",POL,M,,,,2141,0,20,SEP26,1997,i
 1125125,"Nun, Joanna",POL,F,,,,1773,0,20,SEP26,1995,wi
 21002169,"Nurkiewicz, Anna",POL,F,,,,1456,0,40,SEP26,2010,wi
-1107046,"Nurkiewicz, Maciej",POL,M,,,,2102,10,20,SEP26,1979,
+1107046,"Nurkiewicz, Maciej",POL,M,IM,,,2102,10,20,SEP26,1979,
 21874190,"Nurzynska, Hanna",POL,F,,,,1631,0,20,SEP26,2006,w
 21024359,"Nussynblat, Aleksandra",POL,F,,,,1515,0,20,SEP26,2007,wi
 91136334,"Nuszczynski, Michal",POL,M,,,,1580,0,40,SEP26,2009,
@@ -8075,7 +8082,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21829446,"Ochedzan, Robert",POL,M,,,,1625,0,20,SEP26,1972,i
 21810389,"Ochedzan, Tymon",POL,M,FM,,,2130,0,20,SEP26,2005,
 1184210,"Ochenduszko, Bartosz",POL,M,,,,1699,0,20,SEP26,1996,i
-1146785,"Ochman, Sebastian",POL,M,,,,1839,0,20,SEP26,1995,i
+1146785,"Ochman, Sebastian",POL,M,,,,1857,11,20,SEP26,1995,
 21088314,"Ochnik, Michal",POL,M,,,,1438,0,20,SEP26,1994,i
 1126148,"Ochodek, Mariusz",POL,M,,,,1817,0,20,SEP26,1975,
 1104330,"Ochonski, Piotr",POL,M,,,,2060,0,20,SEP26,1972,i
@@ -8141,7 +8148,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1137301,"Oledzki, Adam",POL,M,,,,1939,0,20,SEP26,1988,i
 91166837,"Oledzki, Maksymilian",POL,M,,,,1469,13,40,SEP26,2017,
 1129791,"Oledzki, Tomasz",POL,M,,,,1951,0,20,SEP26,1985,
-1162691,"Olej, Dariusz",POL,M,,,,1559,10,20,SEP26,1966,
+1162691,"Olej, Dariusz",POL,M,,,,1562,19,20,SEP26,1966,
 21855480,"Olejarczyk, Igor",POL,M,,,,1415,0,20,SEP26,2003,i
 1140140,"Olejarczyk, Wojciech",POL,M,,,,1658,0,20,SEP26,1977,
 41825241,"Olejko, Wojciech",POL,M,,,,1844,0,40,SEP26,2013,
@@ -8278,8 +8285,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21810397,"Orzechowski, Michal",POL,M,,,,1633,0,20,SEP26,2006,
 21019487,"Orzechowski, Szymon",POL,M,,,,1440,0,20,SEP26,2005,i
 91156165,"Orzechowski, Tomasz",POL,M,,,,1721,0,20,SEP26,1983,i
-545050872,"Orzechowski, Tomasz",POL,M,,,,1523,6,40,SEP26,2012,
 41846788,"Orzechowski, Tomasz",POL,M,,,,1558,0,20,SEP26,1986,i
+545050872,"Orzechowski, Tomasz",POL,M,,,,1523,6,40,SEP26,2012,
 1123165,"Orzechowski, Zdzislaw",POL,M,,,,1971,0,20,SEP26,1940,i
 545044287,"Orzel, Stanislaw",POL,M,,,,1444,0,40,SEP26,2014,
 21836299,"Orzelowski, Piotr",POL,M,,,,1569,0,20,SEP26,2003,i
@@ -8362,7 +8369,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21833206,"Owoc, Jakub",POL,M,,NA,,1946,0,20,SEP26,2004,
 21035970,"Owsianna, Lena",POL,F,,,,1552,0,40,SEP26,2010,w
 21810796,"Owsianny, Jaroslaw",POL,M,,,,1704,0,20,SEP26,1968,i
-41813030,"Owsianny, Maciej",POL,M,,,,1649,11,20,SEP26,2001,
+41813030,"Owsianny, Maciej",POL,M,,,,1655,19,20,SEP26,2001,
 41838270,"Ozana, Dominik",POL,M,,,,1568,0,40,SEP26,2009,i
 41838289,"Ozana, Jerzy",POL,M,,,,1726,0,20,SEP26,1972,i
 21836906,"Ozdoba, Norbert",POL,M,,,,1719,0,20,SEP26,1987,i
@@ -8380,7 +8387,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41824202,"Pac, Przemyslaw",POL,M,,,,1409,0,20,SEP26,2002,i
 1170830,"Pacak, Patrycja",POL,F,,,,1854,0,20,SEP26,1993,wi
 21806985,"Pacan, Miroslaw",POL,M,,,,1663,0,20,SEP26,1965,i
-21800537,"Pacan-Milej, Kosma",POL,M,FM,,,2252,0,20,SEP26,2002,
+21800537,"Pacan-Milej, Kosma",POL,M,IM,,,2252,0,20,SEP26,2002,
 545078920,"Pacek, Siemowit",POL,M,,,,1465,0,40,SEP26,2018,
 21811423,"Pach, Mateusz",POL,M,,,,1498,0,20,SEP26,1980,i
 545097941,"Pachel, Aleksander",POL,M,,,,1463,0,40,SEP26,2011,
@@ -8411,6 +8418,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21007616,"Pajer, Irena",POL,F,,,,1692,0,40,SEP26,2010,w
 21047553,"Pajer, Paulina",POL,F,,,,1531,0,40,SEP26,2014,w
 21895910,"Pajerski, Kamil",POL,M,,,,1482,0,20,SEP26,2007,i
+587002310,"Pak, Igor",POL,M,,,,1543,10,40,SEP26,1989,
 1119290,"Pakleza, Zbigniew",POL,M,GM,,,2467,11,10,SEP26,1986,
 21022933,"Pakosz, Krzysztof",POL,M,,,,1627,0,20,SEP26,1970,i
 91155827,"Pakula, Adam",POL,M,,,,1700,30,20,SEP26,2005,
@@ -8444,8 +8452,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21812624,"Palka, Piotr",POL,M,,,,1630,0,20,SEP26,1972,i
 1103970,"Palosz, Andrzej",POL,M,,,,1947,0,20,SEP26,1957,i
 91195004,"Palowski, Marek",POL,M,,,,1495,0,20,SEP26,1958,
-91174570,"Paluch, Jakub",POL,M,,,,1611,0,40,SEP26,2009,
 41893190,"Paluch, Jakub",POL,M,,,,1416,0,40,SEP26,2014,i
+91174570,"Paluch, Jakub",POL,M,,,,1611,0,40,SEP26,2009,
 21053340,"Paluch, Krzysztof",POL,M,,,,1508,0,40,SEP26,2010,i
 21043590,"Paluszek, Jan",POL,M,CM,,,1914,9,20,SEP26,2007,
 21077584,"Paluszek, Krzysztof",POL,M,,,,1665,0,20,SEP26,1979,i
@@ -8509,7 +8517,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1179853,"Parczewski, Janusz",POL,M,,,,1920,0,20,SEP26,1968,i
 21823235,"Pariaszewski, Boguslaw",POL,M,,,,1551,0,20,SEP26,2005,i
 21800545,"Pariaszewski, Szczepan",POL,M,,,,1617,0,20,SEP26,1999,i
-1198548,"Parka, Milosz",POL,M,,,,1648,0,20,SEP26,2003,
+1198548,"Parka, Milosz",POL,M,,,,1654,11,20,SEP26,2003,
 91194792,"Parniawski, Michal",POL,M,,,,1525,0,20,SEP26,2002,
 545063966,"Parnicki, Mateusz",POL,M,,,,1428,0,40,SEP26,2010,
 1149326,"Parol, Aleksandra",POL,F,,,,1749,0,20,SEP26,1997,wi
@@ -8555,7 +8563,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41841638,"Paszek, Franciszek",POL,M,,,,1780,0,40,SEP26,2014,
 21057370,"Paszek, Jan",POL,M,,,,1847,0,40,SEP26,2010,i
 1121480,"Paszek, Krzysztof",POL,M,,,,1965,0,20,SEP26,1985,i
-1141058,"Paszewski, Mateusz",POL,M,FM,,,2259,0,20,SEP26,1995,
+1141058,"Paszewski, Mateusz",POL,M,IM,,,2259,0,20,SEP26,1995,
 21094365,"Paszke, Mikolaj",POL,M,,,,1767,0,20,SEP26,2006,
 21832811,"Paszki, Nikodem",POL,M,,,,1599,0,20,SEP26,2004,i
 21899673,"Paszkowska, Edyta",POL,F,,,,1687,0,20,SEP26,1973,wi
@@ -8650,7 +8658,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1128507,"Pawlowski, Michal",POL,M,,,,1823,0,,SEP26,1988,i
 1111477,"Pawlowski, Pawel",POL,M,,,,1592,0,20,SEP26,1950,
 41852583,"Pawlowski, Piotr",POL,M,,,,1516,0,40,SEP26,2013,
-1165992,"Pawlowski, Rafal",POL,M,,,,1852,0,20,SEP26,1992,
+1165992,"Pawlowski, Rafal",POL,M,,,,1851,11,20,SEP26,1992,
 1111183,"Pawlowski, Slawomir",POL,M,,,,1957,0,20,SEP26,1962,i
 21823596,"Pawlowski, Slawomir",POL,M,,,,1796,0,20,SEP26,1966,
 21039879,"Pawluczuk, Maciej",POL,M,,,,1762,0,40,SEP26,2012,
@@ -8775,14 +8783,15 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91113482,"Piechota, Helena",POL,F,,,,1557,0,40,SEP26,2016,wi
 21810427,"Piechota, Kamil",POL,M,,,,1790,0,20,SEP26,2005,
 91100127,"Piechota, Stanislaw",POL,M,,,,1509,0,40,SEP26,2010,i
+587002280,"Piechowiak, Krzysztof",POL,M,,,,1462,10,40,SEP26,1998,
 545052905,"Piechowski, Michal",POL,M,,,,1427,0,20,SEP26,2000,
 41810520,"Pieczarka, Bartlomiej",POL,M,,,,1609,0,20,SEP26,1992,i
 1149423,"Pieczek, Magdalena",POL,F,,,,1575,0,20,SEP26,1997,wi
-21043477,"Pieczeniak, Jakub",POL,M,,,,1688,11,20,SEP26,2007,
+21043477,"Pieczeniak, Jakub",POL,M,,,,1664,21,20,SEP26,2007,
 1195158,"Pieczewska, Gabriela",POL,F,,NA,,1593,0,20,SEP26,2004,wi
-21836515,"Pieczewska, Jadwiga",POL,F,,NA,,1592,0,20,SEP26,2007,w
+21836515,"Pieczewska, Jadwiga",POL,F,,NA,,1585,8,20,SEP26,2007,w
 21009120,"Pieczewski, Jakub",POL,M,,,,1798,0,20,SEP26,1982,
-1174940,"Pieczewski, Szymon",POL,M,,,,1739,0,20,SEP26,1979,i
+1174940,"Pieczewski, Szymon",POL,M,,,,1697,9,20,SEP26,1979,
 91112443,"Pieczonka, Sebastian",POL,M,,,,1410,0,40,SEP26,2012,i
 545075298,"Pieczonka, Szymon",POL,M,,,,1620,12,20,SEP26,2006,
 21840970,"Pieczulis, Blazej",POL,M,,NA,,1903,0,20,SEP26,2005,i
@@ -8882,10 +8891,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21012580,"Piktel, Marcel",POL,M,,,,1511,0,40,SEP26,2011,i
 1113780,"Pikulinski, Janusz",POL,M,,,,1862,0,20,SEP26,1978,i
 21097321,"Pilaczynski, Piotr",POL,M,,,,1514,0,20,SEP26,1995,i
+41802624,"Pilak, Wiktor",POL,M,,,,1709,11,20,SEP26,1996,
 545087822,"Pilarski, Jakub",POL,M,,,,1426,6,40,SEP26,2012,
 1139037,"Pilarski, Piotr",POL,M,,,,1785,0,20,SEP26,1990,i
 21816360,"Pilarski, Piotr",POL,M,,,,1759,0,20,SEP26,1987,i
-1135295,"Pilarski, Tomasz",POL,M,,,,1626,0,20,SEP26,1968,
+1135295,"Pilarski, Tomasz",POL,M,,,,1600,12,20,SEP26,1968,
 1115979,"Pilat, Wieslaw",POL,M,,,,1776,0,20,SEP26,1973,
 41846460,"Pilat, Wojciech",POL,M,,,,1462,0,40,SEP26,2008,i
 1188879,"Pilc, Krzysztof",POL,M,,,,1824,0,20,SEP26,1952,i
@@ -8992,12 +9002,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21030219,"Plicner, Filip",POL,M,,,,1444,0,40,SEP26,2012,i
 41827449,"Ploch, Pawel",POL,M,,,,1401,0,40,SEP26,2010,i
 21848653,"Plocha, Karol",POL,M,,,,1790,0,20,SEP26,1995,i
-91188326,"Plocha, Oskar",POL,M,,,,1548,19,40,SEP26,2013,
+91188326,"Plocha, Oskar",POL,M,,,,1546,25,40,SEP26,2013,
 41828658,"Plocharczyk, Emilia",POL,F,,,,1509,0,40,SEP26,2015,wi
 41866991,"Plocharczyk, Igor",POL,M,,,,1440,0,40,SEP26,2012,i
 91170451,"Plocica, Hubert",POL,M,,,,1564,11,40,SEP26,2012,
 1181750,"Plocica, Krzysztof",POL,M,,,,1723,0,20,SEP26,2000,i
-41813553,"Plociennik, Maja",POL,F,,,,1540,0,40,SEP26,2013,w
+41813553,"Plociennik, Maja",POL,F,,,,1534,5,40,SEP26,2013,w
 21826765,"Plocki, Andrzej",POL,M,,,,1628,0,20,SEP26,1955,i
 41826841,"Plominski, Konrad",POL,M,,,,1690,0,40,SEP26,2010,
 1132997,"Plonczak, Dominik",POL,M,,,,2147,0,20,SEP26,1991,i
@@ -9050,7 +9060,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21829462,"Podlewski, Michal",POL,M,,,,1587,0,20,SEP26,2001,i
 21852634,"Podlewski, Szymon",POL,M,,,,1697,0,20,SEP26,2007,i
 41857739,"Podlewski, Wojciech",POL,M,,,,1541,0,40,SEP26,2011,i
-21063141,"Podobinski, Piotr",POL,M,,,,1590,0,20,SEP26,2005,
+21063141,"Podobinski, Piotr",POL,M,,,,1575,7,20,SEP26,2005,
 21063630,"Podolak, Filip",POL,M,,,,1408,0,20,SEP26,2004,i
 21037167,"Podolak, Pawel",POL,M,,,,1491,0,40,SEP26,2010,i
 41876210,"Podolecka, Maria",POL,F,,,,1503,0,40,SEP26,2015,w
@@ -9287,6 +9297,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21089418,"Przybysz, Krzysztof",POL,M,,,,1512,0,20,SEP26,2004,i
 91135540,"Przybysz, Marcin",POL,M,,,,1577,0,20,SEP26,2007,i
 545064288,"Przybysz, Stanislaw",POL,M,,,,1706,0,20,SEP26,2007,
+587002264,"Przybyszewski, Andrzej",POL,M,,,,1583,8,40,SEP26,1977,
 545063770,"Przybyszewski, Kamil",POL,M,,,,1479,0,20,SEP26,1997,
 21069522,"Przychocka, Aleksandra",POL,F,,,,1474,0,40,SEP26,2010,w
 1127152,"Przychodzki, Piotr",POL,M,,,,1842,0,,SEP26,1984,i
@@ -9326,7 +9337,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21864390,"Ptaszynski, Piotr",POL,M,,,,1702,0,20,SEP26,1963,i
 21874662,"Ptaszynski, Szymon",POL,M,,,,2151,18,40,SEP26,2008,
 1143581,"Ptaszynski, Tomasz",POL,M,,,,1714,0,20,SEP26,1965,i
-91179068,"Pubanc, Adrian",POL,M,,,,1643,0,40,SEP26,2009,
+91179068,"Pubanc, Adrian",POL,M,,,,1590,6,40,SEP26,2009,
 41820711,"Puc, Igor",POL,M,,,,1429,0,20,SEP26,2004,i
 1182331,"Puchala, Dominika",POL,F,,,,1686,0,20,SEP26,1994,wi
 41880650,"Puchala, Mateusz",POL,M,,,,1657,0,40,SEP26,2009,
@@ -9359,7 +9370,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21044368,"Pusty, Adrian",POL,M,,,,1563,0,20,SEP26,1992,i
 41807030,"Puszkarski, Jaroslaw",POL,M,,NA,,1681,0,20,SEP26,1975,
 41820479,"Puszko, Szymon",POL,M,,,,1578,20,40,SEP26,2014,
-1183303,"Putlak, Wojciech",POL,M,,,,2133,24,20,SEP26,1999,
+1183303,"Putlak, Wojciech",POL,M,,,,2106,37,20,SEP26,1999,
 545042985,"Puzia, Wojciech",POL,M,,,,1561,0,20,SEP26,2007,
 21062315,"Puzio, Dominik",POL,M,,,,1515,0,40,SEP26,2010,i
 21077452,"Puzio, Tomasz",POL,M,,,,1413,0,20,SEP26,2005,i
@@ -9387,7 +9398,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545020469,"Pytel, Kajetan",POL,M,,,,1446,13,40,SEP26,2015,i
 1172530,"Pytel, Maciej",POL,M,,,,1930,0,20,SEP26,2002,i
 1185098,"Pytel, Przemyslaw",POL,M,,,,1843,0,20,SEP26,1999,i
-41813715,"Pytel, Wiktor",POL,M,,,,1478,0,40,SEP26,2008,
+41813715,"Pytel, Wiktor",POL,M,,,,1496,7,40,SEP26,2008,
 41834623,"Pytlak, Radoslaw",POL,M,,,,1515,0,40,SEP26,2010,
 21840644,"Pytlarz, Michal",POL,M,,,,1667,0,20,SEP26,2005,i
 41883969,"Pyza, Jan",POL,M,,,,1636,0,20,SEP26,1991,
@@ -9405,7 +9416,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41815890,"Rabiej, Mateusz",POL,M,,,,1895,0,40,SEP26,2015,
 41833325,"Rabiej, Michal",POL,M,,,,1496,0,20,SEP26,1985,
 587000989,"Rabiej, Tymon",POL,M,,,,1513,10,40,SEP26,2013,
-91156530,"Raburski, Witold",POL,M,,,,1805,12,40,SEP26,2017,
+91156530,"Raburski, Witold",POL,M,,,,1745,21,40,SEP26,2017,
 21873941,"Rachtan, Andrzej",POL,M,,,,1912,0,20,SEP26,1967,i
 21873755,"Rachwal, Szymon",POL,M,,,,1509,0,20,SEP26,2006,i
 21825017,"Racinowski, Bogdan",POL,M,,,,1560,0,20,SEP26,1970,i
@@ -9433,12 +9444,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41848527,"Radomska, Nikola",POL,F,,,,1561,0,40,SEP26,2014,w
 41848535,"Radomski, Alan",POL,M,,,,1686,0,40,SEP26,2018,
 21844348,"Radomski, Aleksander",POL,M,,,,1884,0,20,SEP26,1996,i
-91106052,"Radomski, Oskar",POL,M,,,,1719,29,40,SEP26,2008,
+91106052,"Radomski, Oskar",POL,M,,,,1730,42,40,SEP26,2008,
 21897778,"Radomski, Tobiasz",POL,M,,,,1543,0,20,SEP26,2007,i
 1161040,"Radtke, Lukasz",POL,M,,,,1846,0,20,SEP26,1983,i
 21815755,"Radtke, Oliwier",POL,M,,,,1522,0,20,SEP26,2003,i
 545005923,"Radunski, Hubert",POL,M,,,,1575,0,40,SEP26,2010,
-21062455,"Radwan, Daniel",POL,M,,NA,,1741,24,,SEP26,2006,
+21062455,"Radwan, Daniel",POL,M,,NA,,1722,34,,SEP26,2006,
 41882148,"Radwan, Szymon",POL,M,,,,1446,0,20,SEP26,2007,i
 41810546,"Radwanski, Jakub",POL,M,,,,1480,0,40,SEP26,2012,
 1169670,"Radwanski, Lukasz",POL,M,,,,1664,0,20,SEP26,1983,i
@@ -9458,7 +9469,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91141567,"Radzimirski, Olaf",POL,M,,,,1460,0,40,SEP26,2008,i
 21086419,"Radzimski, Adam",POL,M,,,,1563,0,20,SEP26,1982,i
 21052476,"Radzimski, Antoni",POL,M,IM,,,2323,0,20,SEP26,2012,
-41837134,"Radziszewski, Leon",POL,M,,,,1711,0,40,SEP26,2014,
+41837134,"Radziszewski, Leon",POL,M,,,,1717,10,40,SEP26,2014,
 91128030,"Radziszewski, Mateusz",POL,M,,,,1568,0,20,SEP26,1993,
 1123882,"Rafa, Robert",POL,M,,,,1770,0,20,SEP26,1964,
 21815305,"Rafalski, Kacper",POL,M,,,,1756,0,20,SEP26,1998,i
@@ -9525,7 +9536,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21075905,"Razny, Szymon",POL,M,,,,1433,0,40,SEP26,2008,i
 21040966,"Rduch, Diana",POL,F,,,,1645,0,40,SEP26,2010,w
 41874021,"Reclaw, Amelia",POL,F,,,,1521,0,40,SEP26,2013,w
-21046433,"Reclaw, Filip",POL,M,,,,1756,0,20,SEP26,2006,
+21046433,"Reclaw, Filip",POL,M,,,,1778,13,20,SEP26,2006,
 41815645,"Reclik, Jakub",POL,M,,,,1561,0,40,SEP26,2016,
 91189039,"Reclik, Ryszard",POL,M,,,,1420,0,20,SEP26,1987,i
 1163426,"Reda, Lucja",POL,F,,,,1545,0,20,SEP26,1998,wi
@@ -9583,7 +9594,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21011303,"Rodziewicz-Bielewicz, Kuba",POL,M,,,,1820,0,40,SEP26,2008,
 21832862,"Rodzik, Malgorzata",POL,F,,,,1432,0,20,SEP26,2004,wi
 91122708,"Rodzinski, Adrian",POL,M,,,,1564,0,20,SEP26,1988,i
-545038848,"Roessler, Jan",POL,M,,,,1593,13,40,SEP26,2011,
+545038848,"Roessler, Jan",POL,M,,,,1465,20,40,SEP26,2011,
 21857377,"Rog, Bartlomiej",POL,M,FM,NA,,2131,20,20,SEP26,2007,
 21800359,"Rog, Mateusz",POL,M,,,,1680,0,20,SEP26,1999,i
 21023069,"Rog, Stanislaw",POL,M,,,,1465,0,20,SEP26,1975,
@@ -9645,14 +9656,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41810660,"Romanska, Rozalia",POL,F,,,,1534,0,40,SEP26,2013,w
 41848837,"Romanski, Czeslaw",POL,M,,,,1498,0,20,SEP26,1956,i
 21802610,"Romanski, Dawid",POL,M,,,,1867,0,20,SEP26,1999,i
-91112907,"Romanski, Kacper",POL,M,,,,1834,0,40,SEP26,2010,
+91112907,"Romanski, Kacper",POL,M,,,,1848,13,40,SEP26,2010,
 21802629,"Romanski, Marek",POL,M,,,,1519,0,20,SEP26,1961,i
 91111919,"Romanski, Michal",POL,M,,,,1547,0,20,SEP26,2002,
 545037302,"Romanski, Mikolaj",POL,M,,,,1417,0,40,SEP26,2010,
 1143980,"Rombel, Marek",POL,M,,,,1881,0,20,SEP26,1965,i
 21836523,"Romejko, Jagoda",POL,F,,,,1593,0,20,SEP26,2007,wi
 1136860,"Romel-Czarnowski, Adam",POL,M,,,,1961,0,20,SEP26,1971,i
-1138162,"Ronke, Robert",POL,M,,,,1753,16,20,SEP26,1976,
+1138162,"Ronke, Robert",POL,M,,,,1751,27,20,SEP26,1976,
 21001960,"Rosa, Antoni",POL,M,CM,,,1912,0,40,SEP26,2009,
 41851617,"Rosa, Lukasz",POL,M,,,,1429,0,20,SEP26,1983,
 41854748,"Rosa, Tomasz",POL,M,,,,1488,0,20,SEP26,1994,i
@@ -9688,9 +9699,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41809203,"Roszak, Andrzej",POL,M,,,,1570,0,20,SEP26,1943,i
 41819136,"Roszczyk, Mateusz",POL,M,,,,1600,0,40,SEP26,2011,i
 21807620,"Roszkiewicz, Anna",POL,F,,,,1759,0,20,SEP26,2003,wi
-21837384,"Roszkiewicz, Zofia",POL,F,,,,1536,0,20,SEP26,2007,wi
+21837384,"Roszkiewicz, Zofia",POL,F,,,,1532,5,20,SEP26,2007,w
 21084300,"Roszkowski, Filip",POL,M,,,,1686,14,40,SEP26,2014,
-21853304,"Rothe, Oskar",POL,M,,NA,,1696,9,20,SEP26,2007,
+21853304,"Rothe, Oskar",POL,M,,NA,,1738,19,20,SEP26,2007,
 21068836,"Roubinek, Otton",POL,M,,,,1453,0,20,SEP26,1973,i
 1124145,"Roubo, Dariusz",POL,M,,,,1956,0,20,SEP26,1987,i
 1186760,"Rowicki, Ireneusz",POL,M,,,,1708,0,20,SEP26,1953,i
@@ -9734,8 +9745,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545049750,"Rozycki, Michal",POL,M,,,,1428,0,40,SEP26,2011,
 21098654,"Rozycki, Tymoteusz",POL,M,,,,1515,0,40,SEP26,2012,i
 1180231,"Rozynski, Grzegorz",POL,M,,,,1600,0,20,SEP26,1984,
-91111927,"Rubinowski, Jakub",POL,M,,,,1534,0,40,SEP26,2010,
-1118226,"Rubinowski, Sebastian",POL,M,,NA,,1835,0,20,SEP26,1982,
+91111927,"Rubinowski, Jakub",POL,M,,,,1502,7,40,SEP26,2010,
+1118226,"Rubinowski, Sebastian",POL,M,,NA,,1789,10,20,SEP26,1982,
 91160880,"Ruchala, Przemyslaw",POL,M,,,,1595,0,40,SEP26,2012,
 21882134,"Rucki, Jakub",POL,M,,,,1516,0,20,SEP26,1993,i
 545077991,"Ruczynski, Jan",POL,M,,,,1567,0,40,SEP26,2019,
@@ -9793,7 +9804,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21065640,"Rutkowski, Krzysztof",POL,M,,,,1674,0,20,SEP26,2003,i
 21821070,"Rutkowski, Maksymilian",POL,M,,,,1453,0,20,SEP26,2004,i
 21844763,"Rutkowski, Marian",POL,M,,,,1820,0,20,SEP26,1969,i
-91169976,"Rutkowski, Pawel",POL,M,,,,1747,0,20,SEP26,2001,
+91169976,"Rutkowski, Pawel",POL,M,,,,1746,13,20,SEP26,2001,
 21835233,"Rutkowski, Piotr",POL,M,,,,1837,0,20,SEP26,1991,i
 545050589,"Rutkowski, Piotr",POL,M,,,,1564,0,20,SEP26,1964,
 1185969,"Ruttar, Lukasz",POL,M,,,,1660,0,20,SEP26,1999,i
@@ -9906,7 +9917,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91117925,"Saczka, Jan",POL,M,,,,1818,10,20,SEP26,2006,
 545000751,"Sadecki, Piotr",POL,M,,,,1408,0,20,SEP26,1980,i
 41836073,"Sadkowska, Zaneta",POL,F,,,,1520,0,20,SEP26,1985,w
-41836090,"Sadkowski, Kuba",POL,M,,,,1721,6,40,SEP26,2016,
+41836090,"Sadkowski, Kuba",POL,M,,,,1755,15,40,SEP26,2016,
 21835241,"Sadkowski, Marcin",POL,M,,,,1627,0,20,SEP26,1986,i
 21840466,"Sadlak, Rafal",POL,M,,,,1832,0,20,SEP26,1995,i
 41823290,"Sadowczyk, Michal",POL,M,,,,1536,0,20,SEP26,2002,i
@@ -9963,7 +9974,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21021066,"Salomon, Mieszko",POL,M,,,,1415,0,40,SEP26,2009,i
 545014914,"Salud, Johnny",POL,M,,,,1855,0,20,SEP26,1985,
 91199077,"Salve, Austin",POL,M,,,,1453,0,20,SEP26,2002,i
-91188660,"Samarzewski, Adam",POL,M,,,,1568,0,40,SEP26,2014,
+91188660,"Samarzewski, Adam",POL,M,,,,1710,10,40,SEP26,2014,
 21812012,"Samborska, Oliwia",POL,F,,,,1448,0,20,SEP26,2005,wi
 1103849,"Samborski, Henryk",POL,M,FM,,,1872,0,20,SEP26,1965,
 21023433,"Samelko, Grzegorz",POL,M,,,,1519,0,20,SEP26,1975,i
@@ -10113,7 +10124,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21859329,"Sidorczuk, Pawel",POL,M,,,,1872,0,20,SEP26,2005,i
 545036535,"Sidorova, Kseniya",POL,F,,,,1562,0,20,SEP26,1986,w
 41804716,"Sidorowicz, Marcin",POL,M,,,,1475,0,20,SEP26,1985,
-1130170,"Sieciechowicz, Marcin",POL,M,IM,,,2336,0,10,SEP26,1992,
+1130170,"Sieciechowicz, Marcin",POL,M,IM,,,2344,11,10,SEP26,1992,
 41864476,"Sieczkowska, Hanna",POL,F,,,,1651,0,40,SEP26,2015,w
 21835250,"Sieczkowski, Adam",POL,M,,,,1965,0,20,SEP26,2005,
 41839536,"Sieczkowski, Bartosz",POL,M,,,,1563,0,40,SEP26,2015,
@@ -10125,6 +10136,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41861450,"Siedlecki, Dawid",POL,M,,,,1440,0,20,SEP26,1983,i
 1137883,"Siedlinski, Piotr",POL,M,,,,2024,0,20,SEP26,1991,
 21807043,"Siedliski, Daniel",POL,M,,,,1551,0,20,SEP26,1999,i
+91159814,"Siegien, Antoni",POL,M,,,,1483,10,40,SEP26,2013,
 21043574,"Sieja, Krzysztof",POL,M,,,,1584,0,20,SEP26,1987,i
 41811283,"Siek, Jaroslaw",POL,M,,,,1604,0,20,SEP26,1975,i
 1171844,"Siek, Jerzy",POL,M,,,,1678,0,20,SEP26,1951,i
@@ -10229,7 +10241,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1188100,"Skalny, Rafal",POL,M,,,,1843,0,20,SEP26,2001,
 21042454,"Skalski, Dariusz",POL,M,,,,1423,0,20,SEP26,1964,
 1123998,"Skalski, Michal",POL,M,IM,,,2372,0,10,SEP26,1985,i
-21882096,"Skarbowski, Dawid",POL,M,,,,1615,0,20,SEP26,2002,
+21882096,"Skarbowski, Dawid",POL,M,,,,1652,9,20,SEP26,2002,
 1126415,"Skawinski, Arkadiusz",POL,M,FM,,,2209,0,20,SEP26,1988,i
 21821364,"Skawinski, Dariusz",POL,M,,,,1663,0,20,SEP26,1966,i
 21855560,"Skawinski, Marcin",POL,M,,,,1803,0,20,SEP26,1989,i
@@ -10320,7 +10332,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21082324,"Skrzypiec, Pawel",POL,M,,,,1429,0,40,SEP26,2013,i
 21039747,"Skrzypiec, Tomasz",POL,M,,,,1446,0,40,SEP26,2012,i
 21097771,"Skrzypinski, Franciszek",POL,M,,,,1448,0,40,SEP26,2009,i
-21856303,"Skrzypinski, Jan",POL,M,CM,,,2136,13,40,SEP26,2008,
+21856303,"Skrzypinski, Jan",POL,M,CM,,,2176,24,40,SEP26,2008,
 41822501,"Skrzypinski, Remigiusz",POL,M,,,,1563,0,20,SEP26,1977,i
 1118234,"Skrzypnik, Tomasz",POL,M,,,,1966,0,20,SEP26,1981,i
 545051267,"Skubisz, Igor",POL,M,,,,1405,0,40,SEP26,2017,
@@ -10349,7 +10361,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21064253,"Slanina, Piotr",POL,M,,,,1576,0,20,SEP26,1976,
 1120794,"Slany, Wiktor",POL,M,,,,1844,0,20,SEP26,1996,i
 545044309,"Slas, Michal",POL,M,,,,1438,0,40,SEP26,2010,
-1128990,"Slavov, Wiktor",POL,M,,,,1799,0,20,SEP26,1995,i
+1128990,"Slavov, Wiktor",POL,M,,,,1819,11,20,SEP26,1995,
 545027285,"Slawinska, Agata",POL,F,,,,1412,0,40,SEP26,2015,w
 91117690,"Slawinski, Jan",POL,M,,,,1521,0,40,SEP26,2014,
 41812530,"Slawinski, Karol",POL,M,,,,1504,19,40,SEP26,2012,
@@ -10480,9 +10492,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1191276,"Smolenski, Filip",POL,M,,,,1725,0,20,SEP26,1998,i
 91135826,"Smolenski, Wojciech",POL,M,,,,1684,0,20,SEP26,1978,
 91119413,"Smoliga, Julian",POL,M,,,,1505,0,40,SEP26,2015,
-21819793,"Smolinska, Jagna",POL,F,,,,1587,0,20,SEP26,2005,w
+21819793,"Smolinska, Jagna",POL,F,,,,1582,4,20,SEP26,2005,w
 1160184,"Smolinski, Dawid",POL,M,,,,1761,0,20,SEP26,1989,i
 1195514,"Smolinski, Jakub",POL,M,,,,1509,0,20,SEP26,1998,i
+21826528,"Smolinski, Piotr",POL,M,,,,1413,6,20,SEP26,1967,
 21088683,"Smolinski, Wojciech",POL,M,,,,1996,8,40,SEP26,2011,
 1139681,"Smolka, Marcin",POL,M,CM,NA,,2117,0,20,SEP26,1996,i
 21808902,"Smolka, Milosz",POL,M,,,,1602,0,20,SEP26,2006,i
@@ -10672,9 +10685,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21809992,"Spich, Janusz",POL,M,,,,1590,0,20,SEP26,1965,i
 91164443,"Spiewak, Hubert",POL,M,,,,1441,0,20,SEP26,1990,
 91164451,"Spiewak, Ignacy",POL,M,,,,1400,16,40,SEP26,2018,
-21874735,"Spionkowski, Fabian",POL,M,,NA,,1675,0,40,SEP26,2008,i
+21874735,"Spionkowski, Fabian",POL,M,,NA,,1692,12,40,SEP26,2008,
 21006466,"Spisak, Jakub",POL,M,,,,1466,0,40,SEP26,2011,i
-21842841,"Spizewski, Mikolaj",POL,M,,,,1641,0,20,SEP26,1998,
+21842841,"Spizewski, Mikolaj",POL,M,,,,1645,7,20,SEP26,1998,
 21055084,"Splesnialy, Antoni",POL,M,,,,1510,0,40,SEP26,2010,i
 21084653,"Spoczynski, Marcin",POL,M,,,,1557,0,,SEP26,1979,
 1145312,"Spojda, Robert",POL,M,,,,1734,0,20,SEP26,1977,i
@@ -10704,7 +10717,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1162764,"Stachanczyk, Stanislaw",POL,M,,,,1941,0,20,SEP26,1951,i
 21838810,"Stachecki, Mikolaj",POL,M,,,,1806,0,20,SEP26,2005,i
 21099022,"Stachniak, Stanislaw",POL,M,,,,1977,0,40,SEP26,2009,
-21891621,"Stachowiak, Bruno",POL,M,CM,,,2071,22,40,SEP26,2009,
+21891621,"Stachowiak, Bruno",POL,M,CM,,,2101,33,40,SEP26,2009,
 1119966,"Stachowiak, Kamil",POL,M,IM,,,2272,11,10,SEP26,1986,
 1199021,"Stachowiak, Mikolaj",POL,M,,,,1506,0,20,SEP26,1999,i
 1120182,"Stachowiak, Slawomir",POL,M,,,,1879,0,20,SEP26,1960,i
@@ -10729,7 +10742,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91148367,"Stanczak, Radoslaw",POL,M,,,,1428,0,40,SEP26,2013,
 41839005,"Stanczak, Tomasz",POL,M,,,,1542,9,40,SEP26,2011,
 545028109,"Stanczak, Wiktor",POL,M,,,,1425,0,40,SEP26,2016,
-21866422,"Stanczewski, Maciej",POL,M,,,,1699,0,20,SEP26,2005,
+21866422,"Stanczewski, Maciej",POL,M,,,,1680,9,20,SEP26,2005,
 91124212,"Stanczuk, Filip",POL,M,,,,1504,0,40,SEP26,2013,
 21046182,"Stanczuk, Maciej",POL,M,,,,1832,10,20,SEP26,2002,
 21040702,"Stanczuk, Remigiusz",POL,M,,,,1653,0,20,SEP26,1966,i
@@ -10750,7 +10763,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21831017,"Stanik, Szymon",POL,M,,,,1718,0,40,SEP26,2008,
 91121264,"Stanislawczyk, Wiktor",POL,M,,,,1421,0,40,SEP26,2016,
 1127241,"Stanislawowicz, Jan",POL,M,,,,1787,0,20,SEP26,1939,i
-21897654,"Stanislawski, Karol",POL,M,,,,1919,0,40,SEP26,2008,
+21897654,"Stanislawski, Karol",POL,M,,,,1882,10,40,SEP26,2008,
 1123106,"Stanisz, Patryk",POL,M,CM,,,2026,0,20,SEP26,1984,i
 1136356,"Staniszewska, Adrianna",POL,F,,,,1877,0,20,SEP26,1989,wi
 1171437,"Staniszewska, Urszula",POL,F,,,,1850,0,20,SEP26,1991,wi
@@ -10805,7 +10818,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545035695,"Stasiak, Oskar",POL,M,,,,1590,10,20,SEP26,2000,
 545029768,"Stasiak, Wiktor",POL,M,,,,1603,0,40,SEP26,2011,
 41820614,"Stasica, Martyna",POL,F,,,,1573,0,20,SEP26,2003,wi
-21048126,"Stasica, Pawel",POL,M,,,,1537,0,40,SEP26,2010,
+21048126,"Stasica, Pawel",POL,M,,,,1606,9,40,SEP26,2010,
 1180630,"Stasienko, Lukasz",POL,M,,NA,,1732,0,20,SEP26,1984,i
 41847830,"Stasiewicz, Kamil",POL,M,,,,1538,0,20,SEP26,2006,i
 21034389,"Stasik, Marceli",POL,M,,,,1484,0,40,SEP26,2011,
@@ -10864,7 +10877,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1136542,"Stefanowski, Rafal",POL,M,,,,1727,0,20,SEP26,1988,i
 21813671,"Stefanska, Emilia",POL,F,,,,1441,0,20,SEP26,2001,wi
 21812969,"Stefanski, Adam",POL,M,,,,1680,0,20,SEP26,2002,i
-91166330,"Stefanski, Olgierd",POL,M,,,,1821,0,20,SEP26,1969,
+91166330,"Stefanski, Olgierd",POL,M,,,,1766,10,20,SEP26,1969,
 1180665,"Stefanski, Piotr",POL,M,,,,1680,0,20,SEP26,1974,i
 21829594,"Stefanski, Robert",POL,M,,NA,,1666,0,20,SEP26,1967,
 21844372,"Stekert, Pawel",POL,M,,,,1460,0,20,SEP26,2007,i
@@ -10895,6 +10908,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1180681,"Stepien, Piotr",POL,M,,,,1622,0,20,SEP26,1993,
 21893071,"Stepien, Piotr",POL,M,,,,1623,0,40,SEP26,2009,i
 21857512,"Stepien, Przemyslaw",POL,M,,,,1522,0,20,SEP26,2001,i
+545099596,"Stepien-Milukow, Dymitr",POL,M,,,,1505,12,40,SEP26,1989,
 21084572,"Stepinska, Lena",POL,F,,,,1525,0,40,SEP26,2013,wi
 41815254,"Stepinski, Jaroslaw",POL,M,,,,1630,0,20,SEP26,1974,
 21025045,"Stepinski, Piotr",POL,M,,,,2163,11,40,SEP26,2008,
@@ -10916,7 +10930,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21023212,"Stobiecki, Krzysztof",POL,M,,,,1506,0,40,SEP26,2009,i
 91146682,"Stoch, Maja",POL,F,,,,1594,0,40,SEP26,2009,w
 41864050,"Stochel, Rafal",POL,M,,,,1513,0,20,SEP26,2000,i
-1165402,"Stochnialek, Dominika",POL,F,,FA,,1863,11,20,SEP26,1999,w
+1165402,"Stochnialek, Dominika",POL,F,,FA,,1845,21,20,SEP26,1999,w
 91139384,"Stochwicz, Adam",POL,M,,,,1437,0,20,SEP26,1984,i
 41810848,"Stocki, Mikolaj",POL,M,,,,1492,0,20,SEP26,2001,i
 91134510,"Stodulski, Jakub",POL,M,,,,1506,0,40,SEP26,2008,i
@@ -11015,12 +11029,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91156890,"Stuleblak, Sergiusz",POL,M,,,,1668,0,40,SEP26,2010,i
 21010536,"Stupak, Aleksandra",POL,F,,,,1443,0,40,SEP26,2010,wi
 21860343,"Stupak, Bartosz",POL,M,,,,1466,0,20,SEP26,2006,i
-91166845,"Stupak, Kacper",POL,M,,,,1725,0,40,SEP26,2017,
+91166845,"Stupak, Kacper",POL,M,,,,1710,9,40,SEP26,2017,
 91101999,"Stupak, Kamil",POL,M,,,,1502,0,20,SEP26,1992,
 21093580,"Styczkiewicz, Pawel",POL,M,,,,1626,0,40,SEP26,2011,
 545026521,"Styczynski, Aleksander",POL,M,,,,1589,34,40,SEP26,2008,
 91117119,"Styla, Mateusz",POL,M,,,,1549,0,20,SEP26,1980,i
-1167839,"Stylinski, Piotr",POL,M,,,,1861,0,20,SEP26,1998,i
+1167839,"Stylinski, Piotr",POL,M,,,,1890,11,20,SEP26,1998,
 21809704,"Stypka, Grazyna",POL,F,,,,1749,0,20,SEP26,1980,wi
 21819726,"Stypka, Sebastian",POL,M,,,,1665,0,20,SEP26,2005,i
 1120212,"Stypka, Zbigniew",POL,M,,,,1886,0,20,SEP26,1983,i
@@ -11047,7 +11061,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21847711,"Sujko, Anna",POL,F,,,,1423,0,20,SEP26,2003,wi
 21818266,"Sujkowski, Dominik",POL,M,,,,1684,0,20,SEP26,1999,i
 1120425,"Sujkowski, Pawel",POL,M,,,,1979,0,20,SEP26,1983,i
-13511734,"Sukalina, Alina",POL,F,,,,1893,0,20,SEP26,2005,w
+13511734,"Sukalina, Alina",POL,F,,,,1864,11,20,SEP26,2005,w
 1116185,"Sukiennik, Marek",POL,M,,,,2066,0,20,SEP26,1963,i
 41846591,"Sul, Vasyl",POL,M,,,,1465,0,40,SEP26,2014,i
 21082723,"Sulek, Grzegorz",POL,M,,,,1684,11,40,SEP26,2013,
@@ -11067,7 +11081,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91103649,"Supel, Tomasz",POL,M,,,,1525,0,20,SEP26,1992,i
 1147846,"Superson, Dawid",POL,M,,,,1589,0,20,SEP26,1987,
 21894418,"Sura, Maciej",POL,M,,,,1633,0,20,SEP26,1961,i
-91175186,"Sura, Wiktor",POL,M,,,,1759,11,40,SEP26,2012,
+91175186,"Sura, Wiktor",POL,M,,,,1789,21,40,SEP26,2012,
 1169157,"Surazynski, Kacper",POL,M,,,,1711,0,20,SEP26,2000,
 41898265,"Surdykowski, Franciszek",POL,M,,,,1526,0,40,SEP26,2016,
 41803108,"Surkont, Jan",POL,M,,NA,,1801,0,20,SEP26,2004,
@@ -11109,7 +11123,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21871396,"Swiatkowski, Dominik",POL,M,,,,1444,0,20,SEP26,2007,i
 21028419,"Swiatkowski, Stanislaw",POL,M,,,,1567,0,20,SEP26,2000,i
 1197193,"Swiatnicki, Adam",POL,M,,,,1643,0,20,SEP26,1988,i
-1105981,"Swiatnicki, Andrzej",POL,M,,,,1809,8,20,SEP26,1961,
+1105981,"Swiatnicki, Andrzej",POL,M,,,,1774,21,20,SEP26,1961,
 21079820,"Swiatnicki, Daniel",POL,M,,,,1825,0,20,SEP26,2000,
 21890307,"Swiatnicki, Hieronim",POL,M,,,,1563,0,20,SEP26,1935,i
 21860858,"Swic, Bartosz",POL,M,,,,1923,0,40,SEP26,2009,
@@ -11320,7 +11334,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1170953,"Szczygiel, Michal",POL,M,,,,1844,0,20,SEP26,1977,i
 1165895,"Szczygiel, Wojciech",POL,M,,,,1558,6,20,SEP26,1964,
 21018472,"Szczygielski, Adam",POL,M,,,,1579,0,40,SEP26,2010,i
-41828844,"Szczygielski, Antoni",POL,M,,,,1634,10,20,SEP26,2006,
+41828844,"Szczygielski, Antoni",POL,M,,,,1609,15,20,SEP26,2006,
 21891460,"Szczygielski, Robert",POL,M,,,,1410,0,20,SEP26,1971,i
 1125656,"Szczyglo, Michal",POL,M,,,,1891,0,20,SEP26,1978,i
 21879311,"Szczykutowicz, Hanna",POL,F,,,,1479,0,20,SEP26,2006,wi
@@ -11465,7 +11479,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21820619,"Szuber, Dawid",POL,M,,,,1777,0,20,SEP26,2005,i
 91166314,"Szubert, Przemyslaw",POL,M,,,,1406,0,40,SEP26,2014,i
 21806535,"Szubielski, Wojciech",POL,M,,,,1730,0,20,SEP26,1981,
-91111951,"Szubinski, Andrzej",POL,M,,,,1497,0,20,SEP26,1956,
+91111951,"Szubinski, Andrzej",POL,M,,,,1482,6,20,SEP26,1956,
 21030758,"Szubski, Marek",POL,M,,,,1771,0,20,SEP26,1964,
 91169640,"Szuchnik, Tomasz",POL,M,,,,1437,0,20,SEP26,2007,i
 91190703,"Szudrowicz, Serafin",POL,M,,,,1853,21,40,SEP26,2011,
@@ -11489,8 +11503,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21090220,"Szulikowski, Szymon",POL,M,,,,1448,0,40,SEP26,2010,i
 1138502,"Szultka, Agata",POL,F,,,,1851,0,20,SEP26,1992,wi
 1180843,"Szumanski, Marcin",POL,M,,,,1764,0,20,SEP26,1986,i
-41815661,"Szumiec, Jan",POL,M,,,,1823,0,40,SEP26,2016,
-21097704,"Szumiec, Tomasz",POL,M,,,,1470,0,20,SEP26,1981,
+41815661,"Szumiec, Jan",POL,M,,,,1850,11,40,SEP26,2016,
+21097704,"Szumiec, Tomasz",POL,M,,,,1482,9,20,SEP26,1981,
 21847177,"Szumielewicz, Rafal",POL,M,,,,1531,0,20,SEP26,1976,i
 1199080,"Szumigalski, Mikolaj",POL,M,,,,1638,0,20,SEP26,1996,i
 91125820,"Szuminski, Jakub",POL,M,,,,2113,28,40,SEP26,2013,
@@ -11566,6 +11580,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1183311,"Szymanski, Artur",POL,M,,,,1537,0,20,SEP26,2000,i
 91158095,"Szymanski, Artur",POL,M,,,,1556,0,20,SEP26,2004,
 41890930,"Szymanski, Jacek",POL,M,,,,1514,0,20,SEP26,1999,i
+587002302,"Szymanski, Jakub",POL,M,,,,1628,11,40,SEP26,1995,
 91105030,"Szymanski, Jakub",POL,M,,,,1615,0,20,SEP26,2003,i
 21820139,"Szymanski, Jan",POL,M,,,,1684,32,20,SEP26,1959,
 1160206,"Szymanski, Jaroslaw",POL,M,,,,1919,0,20,SEP26,1973,i
@@ -11688,7 +11703,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41819900,"Tateosyan, Antoan",POL,M,,,,1707,0,20,SEP26,1983,i
 1122452,"Tazbir, Marcin",POL,M,GM,FI,,2453,11,10,SEP26,1988,
 91124298,"Tchorzewski, Feliks",POL,M,,,,1471,0,40,SEP26,2009,
-1133225,"Tchorzewski, Kazimierz",POL,M,,,,1739,0,20,SEP26,1955,
+1133225,"Tchorzewski, Kazimierz",POL,M,,,,1718,11,20,SEP26,1955,
 1185934,"Teclaf, Pawel",POL,M,GM,,,2585,0,10,SEP26,2003,
 21804010,"Teichert, Maksymilian",POL,M,,,,1510,0,20,SEP26,1971,i
 21089175,"Telego, Marcin",POL,M,,,,1546,0,20,SEP26,1995,i
@@ -11776,7 +11791,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21069093,"Tomczyk, Aleksander",POL,M,,,,1437,0,40,SEP26,2011,i
 21804699,"Tomczyk, Igor",POL,M,,,,1707,0,20,SEP26,2004,i
 41837649,"Tomczyk, Jan",POL,M,,,,1430,0,40,SEP26,2010,
-21859159,"Tomczyk, Michal",POL,M,,,,1751,0,20,SEP26,2004,
+21859159,"Tomczyk, Michal",POL,M,,,,1739,10,20,SEP26,2004,
 21824380,"Tomczyk, Piotr",POL,M,,,,1764,0,20,SEP26,1973,
 545014892,"Tomczykiewicz, Bohdan",POL,M,,,,1610,0,20,SEP26,1997,i
 41864581,"Tomecki, Igor",POL,M,,,,1551,0,40,SEP26,2013,i
@@ -11810,7 +11825,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41855582,"Toporek, Mikolaj",POL,M,,,,1441,0,20,SEP26,2005,i
 1165020,"Toporowski, Jacek",POL,M,,,,1622,0,20,SEP26,1957,i
 41886003,"Topylo, Izabela",POL,F,,,,1517,0,40,SEP26,2015,w
-41833996,"Totleben, Bartosz",POL,M,,,,1683,0,20,SEP26,1989,
+41833996,"Totleben, Bartosz",POL,M,,,,1703,10,20,SEP26,1989,
 545036144,"Tovmasyan, David",POL,M,,,,1723,0,20,SEP26,2004,
 21033170,"Towarnicka, Izabela",POL,F,,,,1643,0,20,SEP26,1972,wi
 41820045,"Trabka, Anna",POL,F,,,,1411,0,20,SEP26,1998,wi
@@ -11847,7 +11862,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41853253,"Trojanowski, Wojciech",POL,M,,,,1542,0,40,SEP26,2013,
 21854092,"Tront, Szymon",POL,M,,,,1509,0,20,SEP26,2004,i
 1166875,"Troper, Kazimierz",POL,M,,,,1459,0,20,SEP26,1935,i
-41804872,"Truchel, Tomasz",POL,M,,,,1802,0,20,SEP26,1985,
+41804872,"Truchel, Tomasz",POL,M,,,,1800,10,20,SEP26,1985,
 21002045,"Trusewicz, Jakub",POL,M,,,,1588,0,40,SEP26,2009,i
 1111809,"Trusewicz, Janusz",POL,M,,,,2037,0,20,SEP26,1960,i
 21032050,"Trusewicz, Remigiusz",POL,M,,,,1689,0,40,SEP26,2012,i
@@ -11953,7 +11968,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1158805,"Tynski, Aleksander",POL,M,,,,1686,0,20,SEP26,1998,i
 1164953,"Tynski, Beniamin",POL,M,,,,1789,0,20,SEP26,1999,i
 21864799,"Tyrakowski, Jakub",POL,M,,,,1636,0,20,SEP26,2001,i
-1157035,"Tyran, Daniel",POL,M,,,,1858,0,20,SEP26,1995,
+1157035,"Tyran, Daniel",POL,M,,,,1874,13,20,SEP26,1995,
 41803000,"Tyrawa, Jan",POL,M,,,,1536,0,20,SEP26,2002,i
 41877853,"Tyrka, Dominik",POL,M,,,,1760,0,20,SEP26,2002,
 21053766,"Tyrna, Filip",POL,M,,,,1532,0,40,SEP26,2009,i
@@ -11997,7 +12012,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1154524,"Urban, Marek",POL,M,,,,1742,0,20,SEP26,1943,i
 21885486,"Urban, Szymon",POL,M,,,,1566,0,20,SEP26,2007,i
 1113372,"Urban, Wojciech",POL,M,,,,1731,11,20,SEP26,1971,
-545036152,"Urbanczyk, Krzysztof",POL,M,,,,1503,9,40,SEP26,2018,
+545036152,"Urbanczyk, Krzysztof",POL,M,,,,1419,19,40,SEP26,2018,
 91155215,"Urbanczyk, Piotr",POL,M,,,,1442,0,20,SEP26,1981,
 91168929,"Urbanek, Adam",POL,M,,,,1426,0,20,SEP26,2007,i
 21013322,"Urbanek, Andrzej",POL,M,,,,1400,0,40,SEP26,2010,i
@@ -12043,6 +12058,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91101239,"Vervenko, Evgenia",POL,F,,,,1430,0,40,SEP26,2014,wi
 41860306,"Villamin, Arnel",POL,M,,,,1494,0,20,SEP26,1973,i
 41887352,"Vladymyrov, Kyrylo",POL,M,,,,1470,0,40,SEP26,2008,i
+587002256,"Voievodin, Danyil",POL,M,,,,1442,8,40,SEP26,2011,
 545029946,"Voronov, Serhii",POL,M,,,,1524,0,20,SEP26,1986,i
 34194819,"Voronovskyi, Illia",POL,M,,,,1512,0,20,SEP26,2004,
 41871065,"Vujcic, Daniel",POL,M,,,,1488,0,20,SEP26,2003,i
@@ -12184,7 +12200,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21882355,"Warzycha, Daniel",POL,M,,,,1564,0,20,SEP26,2000,
 21889368,"Warzycha, Tomasz",POL,M,,,,1558,0,20,SEP26,1994,i
 91109990,"Warzywoda, Bartosz",POL,M,,,,1560,0,20,SEP26,2007,i
-41853636,"Was, Arkadiusz",POL,M,,,,1708,0,20,SEP26,2006,
+41853636,"Was, Arkadiusz",POL,M,,,,1793,10,20,SEP26,2006,
 21031835,"Was, Jakub",POL,M,,,,1897,0,20,SEP26,2002,i
 41819810,"Was, Stanislaw",POL,M,,,,1712,0,40,SEP26,2012,
 1195204,"Wasala, Wiktoria",POL,F,,,,1601,0,20,SEP26,2002,wi
@@ -12208,8 +12224,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1191411,"Wasilewski, Leszek",POL,M,,,,1488,0,20,SEP26,1966,
 91108691,"Wasilewski, Marcin",POL,M,,,,1467,0,20,SEP26,1974,i
 21092290,"Wasilewski, Mateusz",POL,M,,,,1690,1,40,SEP26,2013,
-21058938,"Wasilewski, Mateusz",POL,M,,,,1489,0,40,SEP26,2011,i
 21035172,"Wasilewski, Mateusz",POL,M,,,,1423,0,40,SEP26,2009,i
+21058938,"Wasilewski, Mateusz",POL,M,,,,1489,0,40,SEP26,2011,i
 21004692,"Wasilewski, Miroslaw",POL,M,,,,1468,0,20,SEP26,1962,i
 21874816,"Wasilewski, Stanislaw",POL,M,,,,1685,0,40,SEP26,2008,i
 21055947,"Wasilko, Szymon",POL,M,,,,1524,0,40,SEP26,2012,i
@@ -12408,7 +12424,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41834046,"Wierzchowski, Pawel",POL,M,,,,1648,0,40,SEP26,2008,i
 91107474,"Wierzchowski, Piotr",POL,M,,,,1497,0,20,SEP26,2004,i
 41813863,"Wiesiolek, Daniel",POL,M,,,,1484,0,40,SEP26,2008,
-91115353,"Wieteska, Stanislaw",POL,M,,,,1834,33,40,SEP26,2008,
+91115353,"Wieteska, Stanislaw",POL,M,,,,1851,46,40,SEP26,2008,
 21819599,"Wiewiora, Dominika",POL,F,,,,1503,0,20,SEP26,2004,wi
 1140396,"Wiewiora, Eneasz",POL,M,FM,,,2225,0,10,SEP26,1994,i
 41803736,"Wiewiora, Mateusz",POL,M,,NA,,1694,0,20,SEP26,2006,
@@ -12428,6 +12444,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1186132,"Wilczek, Piotr",POL,M,,,,1837,0,20,SEP26,1975,
 21060754,"Wilczewski, Michal",POL,M,,,,1553,0,20,SEP26,2004,i
 91149649,"Wilczewski, Zbigniew",POL,M,,,,1793,0,20,SEP26,1956,
+91188016,"Wilczynska, Natalia",POL,F,,,,1485,8,40,SEP26,2014,w
 1136380,"Wilczynski, Adam",POL,M,,,,1668,0,20,SEP26,1952,i
 21858985,"Wilczynski, Daniel",POL,M,,,,1719,0,20,SEP26,1991,i
 545074860,"Wilczynski, Krzysztof",POL,M,,,,1655,0,20,SEP26,2002,
@@ -12456,7 +12473,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21825025,"Willa, Andrzej",POL,M,,,,1795,0,20,SEP26,1958,i
 21091544,"Wilman, Maciej",POL,M,,,,1463,0,40,SEP26,2012,i
 1191101,"Wilmanowicz, Slawomir",POL,M,,,,1736,0,20,SEP26,1967,i
-41843584,"Wilusz, Stanislaw",POL,M,,,,1953,0,40,SEP26,2012,
+41843584,"Wilusz, Stanislaw",POL,M,,,,1901,11,40,SEP26,2012,
 1133578,"Windorpski, Jacek",POL,M,,,,1899,0,20,SEP26,1974,i
 21801118,"Winiarska, Agata",POL,F,,,,1437,0,20,SEP26,1978,w
 41835697,"Winiarska, Wiktoria",POL,F,,,,1426,12,40,SEP26,2010,w
@@ -12487,7 +12504,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41835581,"Wisniewski, Dominik",POL,M,,,,1704,0,20,SEP26,2006,i
 545016283,"Wisniewski, Ignacy",POL,M,,,,1640,0,40,SEP26,2018,
 41815807,"Wisniewski, Igor",POL,M,,,,1462,0,20,SEP26,2003,
-41885694,"Wisniewski, Iwo",POL,M,,,,1565,0,40,SEP26,2014,
+41885694,"Wisniewski, Iwo",POL,M,,,,1548,9,40,SEP26,2014,
 21817103,"Wisniewski, Iwo",POL,M,,,,1574,0,20,SEP26,2006,i
 1188984,"Wisniewski, Jacek",POL,M,,,,1850,0,20,SEP26,1999,i
 91149916,"Wisniewski, Jan",POL,M,,,,1477,0,40,SEP26,2012,i
@@ -12549,8 +12566,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41842030,"Witkowski, Maksymilian",POL,M,,,,1651,0,20,SEP26,2005,i
 21837694,"Witkowski, Marcel",POL,M,,,,1575,0,20,SEP26,2001,i
 21065616,"Witkowski, Michal",POL,M,,,,1669,9,40,SEP26,2009,
-21866732,"Witkowski, Michal",POL,M,,,,1498,0,20,SEP26,1988,i
 545049807,"Witkowski, Michal",POL,M,,,,1464,0,40,SEP26,2012,
+21866732,"Witkowski, Michal",POL,M,,,,1498,0,20,SEP26,1988,i
 91151171,"Witkowski, Olaf",POL,M,,,,1433,0,40,SEP26,2015,
 91156246,"Witkowski, Patryk",POL,M,,,,1593,0,20,SEP26,2004,i
 91134439,"Witkowski, Piotr",POL,M,,,,1470,0,40,SEP26,2016,
@@ -12631,8 +12648,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91194822,"Wojciechowski, Michal",POL,M,,,,1491,0,40,SEP26,2015,
 21857547,"Wojciechowski, Mieczyslaw",POL,M,,,,1668,0,20,SEP26,1962,i
 21839999,"Wojciechowski, Pawel",POL,M,,,,1406,0,20,SEP26,1964,i
-545047545,"Wojciechowski, Pawel",POL,M,,,,1521,0,40,SEP26,2011,
 21822999,"Wojciechowski, Pawel",POL,M,,,,1821,0,20,SEP26,1986,i
+545047545,"Wojciechowski, Pawel",POL,M,,,,1521,0,40,SEP26,2011,
 1139843,"Wojciechowski, Robert",POL,M,,,,1843,0,20,SEP26,1989,i
 545036730,"Wojciechowski, Stanislaw",POL,M,,,,1407,0,40,SEP26,2013,
 21055505,"Wojciechowski, Szymon",POL,M,,,,1762,0,40,SEP26,2011,i
@@ -12669,7 +12686,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 91195845,"Wojcik, Wojciech",POL,M,,,,1831,9,40,SEP26,2012,
 21009830,"Wojcikowski, Kacper",POL,M,,,,1710,0,20,SEP26,2006,i
 91139961,"Wojdak, Artur",POL,M,,,,1470,0,20,SEP26,1990,i
-21817111,"Wojdak, Jan",POL,M,,,,2256,22,20,SEP26,2006,
+21817111,"Wojdak, Jan",POL,M,,,,2241,33,20,SEP26,2006,
 21835543,"Wojdak, Karol",POL,M,,,,1537,0,20,SEP26,1973,i
 41812549,"Wojdakowska, Emilia",POL,F,,,,1646,0,40,SEP26,2014,w
 21019827,"Wojdyla, Boguslaw",POL,M,,,,1770,0,20,SEP26,1964,i
@@ -12727,7 +12744,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1140400,"Wojtyla, Tymoteusz",POL,M,,,,1645,0,20,SEP26,1990,
 21845492,"Wojtylo, Pawel",POL,M,,,,1525,0,20,SEP26,2007,i
 21845506,"Wojtylo, Wojciech",POL,M,,,,1473,0,20,SEP26,1969,i
-91195039,"Wojtyniak, Karol",POL,M,,,,1519,0,20,SEP26,1958,
+91195039,"Wojtyniak, Karol",POL,M,,,,1479,6,20,SEP26,1958,
 41897641,"Wojtynski, Jan",POL,M,,,,1454,0,20,SEP26,1984,i
 41886682,"Wojtyszyn, Jakub",POL,M,,,,1591,0,20,SEP26,2005,i
 1195212,"Wolagiewicz, Kinga",POL,F,,,,1789,0,20,SEP26,2003,wi
@@ -12825,7 +12842,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1149741,"Wozniak, Krzysztof",POL,M,,,,1860,0,20,SEP26,1957,i
 1117653,"Wozniak, Maciej",POL,M,CM,,,1928,0,20,SEP26,1980,
 1122533,"Wozniak, Marcin",POL,M,,,,2047,0,20,SEP26,1984,i
-1118668,"Wozniak, Marcin",POL,M,,,,1809,0,20,SEP26,1989,i
+1118668,"Wozniak, Marcin",POL,M,,,,1811,10,20,SEP26,1989,
 1152050,"Wozniak, Mariola",POL,F,WIM,WIM,,2059,0,20,SEP26,1998,wi
 21888353,"Wozniak, Mateusz",POL,M,,,,1500,0,40,SEP26,2009,i
 21804702,"Wozniak, Mikolaj",POL,M,,,,1653,0,20,SEP26,2003,i
@@ -12901,7 +12918,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41832027,"Wujkiewicz, Adam",POL,M,,,,1555,0,20,SEP26,2000,i
 21027277,"Wuzynski, Andrzej",POL,M,,,,1687,0,20,SEP26,1978,i
 41848829,"Wybraniec, Dawid",POL,M,,,,1514,0,20,SEP26,1993,i
-545017026,"Wychowalek, Adam",POL,M,,,,1507,0,20,SEP26,1999,i
+545017026,"Wychowalek, Adam",POL,M,,,,1505,8,20,SEP26,1999,
 1169920,"Wyczling, Bartosz",POL,M,,,,2027,0,20,SEP26,2001,i
 21866740,"Wydmanski, Robert",POL,M,,,,1581,0,20,SEP26,1972,i
 21866759,"Wydmanski, Szymon",POL,M,,,,1849,0,20,SEP26,2007,i
@@ -12938,8 +12955,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21851433,"Wysoglad, Michal",POL,M,,,,1534,0,20,SEP26,1986,i
 21041563,"Wysokinski, Maksymilian",POL,M,,,,1561,0,40,SEP26,2010,
 21878170,"Wysokinski, Wojciech",POL,M,,,,1426,0,40,SEP26,2009,i
-41813464,"Wysokowicz, Szymon",POL,M,,,,1758,11,40,SEP26,2013,
-41853261,"Wyszkowski, Adam",POL,M,,,,1522,0,40,SEP26,2013,
+41813464,"Wysokowicz, Szymon",POL,M,,,,1817,20,40,SEP26,2013,
+41853261,"Wyszkowski, Adam",POL,M,,,,1512,8,40,SEP26,2013,
+91187532,"Wyszkowski, Dominik",POL,M,,,,1423,9,40,SEP26,1979,
 1109499,"Wyszomirski, Krzysztof",POL,M,,,,1902,0,20,SEP26,1997,i
 545017506,"Wyszpolski, Artur",POL,M,,,,1527,0,40,SEP26,2014,
 1113674,"Wyzga-Rybicki, Witold",POL,M,,,,1863,0,20,SEP26,1976,
@@ -12957,14 +12975,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545074879,"Yuzbashev, Tair",POL,M,,,,1541,0,20,SEP26,2003,
 41837029,"Yuzko, Pavlo",POL,M,,,,1538,0,40,SEP26,2014,
 21864470,"Zaba, Jakub",POL,M,,,,1485,0,20,SEP26,2001,i
-21064288,"Zaba, Patryk",POL,M,,NA,,1688,19,20,SEP26,2007,
+21064288,"Zaba, Patryk",POL,M,,NA,,1698,30,20,SEP26,2007,
 545039100,"Zabawa, Krzysztof",POL,M,,,,1614,9,40,SEP26,2013,
-1145975,"Zabawski, Grzegorz",POL,M,,,,1901,0,20,SEP26,1987,
+1145975,"Zabawski, Grzegorz",POL,M,,,,1872,11,20,SEP26,1987,
 21049831,"Zabczyk, Waldemar",POL,M,,,,1878,0,20,SEP26,1956,i
 41800192,"Zabek, Krzysztof",POL,M,,,,1452,0,20,SEP26,1991,i
 1171976,"Zabicki, Krzysztof",POL,M,,,,1529,7,20,SEP26,1983,
 21817561,"Zabicki, Michal",POL,M,,,,1624,0,20,SEP26,1999,i
-545098085,"Zabkou, Aliaksei",POL,M,,,,1596,8,20,SEP26,1999,
+545098085,"Zabkou, Aliaksei",POL,M,,,,1574,20,20,SEP26,1999,
 21826064,"Zablocka, Katarzyna",POL,F,,,,1504,0,20,SEP26,2005,wi
 21814007,"Zablocka, Marta",POL,F,,,,1555,0,20,SEP26,2004,wi
 1197967,"Zablocki, Igor",POL,M,,,,1497,0,20,SEP26,2002,i
@@ -13067,8 +13085,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21834750,"Zak, Cezary",POL,M,,,,1620,0,20,SEP26,2000,i
 41821904,"Zak, Emil",POL,M,,,,1455,0,20,SEP26,1989,i
 545022470,"Zak, Karol",POL,M,,,,1519,7,20,SEP26,1987,
-41844530,"Zak, Karol",POL,M,,,,1456,0,20,SEP26,1985,i
 21847835,"Zak, Karol",POL,M,,,,1551,0,20,SEP26,2004,i
+41844530,"Zak, Karol",POL,M,,,,1456,0,20,SEP26,1985,i
 91160081,"Zak, Maciej",POL,M,,,,1493,6,40,SEP26,2017,
 545048690,"Zak, Maciej",POL,M,,,,1421,0,20,SEP26,1998,
 21834784,"Zak, Oskar",POL,M,,,,1612,0,20,SEP26,1998,i
@@ -13157,6 +13175,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 545063931,"Zart, Sylwester",POL,M,,,,1685,0,20,SEP26,1973,
 1126741,"Zarychta, Krzysztof",POL,M,,,,2129,0,20,SEP26,1986,i
 21829853,"Zarzecki, Dymitr Stanislaw",POL,M,,,,1813,0,20,SEP26,1984,i
+545052212,"Zarzycki, Krzysztof",POL,M,,,,1818,11,40,SEP26,1988,
 21843511,"Zarzycki, Lukasz",POL,M,,,,1641,0,20,SEP26,2000,i
 21874921,"Zarzycki, Miroslaw",POL,M,,,,1530,0,20,SEP26,1971,i
 21843520,"Zarzycki, Piotr",POL,M,,,,1593,0,20,SEP26,1968,i
@@ -13232,7 +13251,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41819306,"Zdrojewski, Alan",POL,M,,,,1501,0,40,SEP26,2012,
 91191190,"Zdrojewski, Michal",POL,M,,,,1489,0,40,SEP26,2009,
 1102320,"Zdrojewski, Wojciech",POL,M,,,,2097,0,20,SEP26,1973,i
-343460747,"Zdunek, Leon",POL,M,,,,1630,0,40,SEP26,2012,
+343460747,"Zdunek, Leon",POL,M,,,,1575,11,40,SEP26,2012,
 21877882,"Zdybel, Przemyslaw",POL,M,FM,,,2086,9,20,SEP26,2006,
 21855455,"Zdybel, Tomasz",POL,M,,,,1618,0,20,SEP26,1976,i
 21851280,"Zdybowicz, Bartlomiej",POL,M,,,,1874,0,20,SEP26,1990,i
@@ -13249,7 +13268,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21829926,"Zeissel, Andrzej",POL,M,,,,2088,9,20,SEP26,2006,
 21070822,"Zejmo, Artur",POL,M,,,,1527,0,40,SEP26,2010,i
 21885028,"Zejmo, Wadim",POL,M,,,,1538,0,20,SEP26,2007,i
-1147676,"Zelajtys, Jozef",POL,M,,,,1796,0,20,SEP26,1952,i
+1147676,"Zelajtys, Jozef",POL,M,,,,1745,13,20,SEP26,1952,
 1175157,"Zelak, Wladyslaw",POL,M,,,,1807,0,20,SEP26,1998,i
 21820236,"Zelasko, Kacper",POL,M,,,,1484,0,20,SEP26,2005,i
 21806098,"Zelasko, Stanislaw",POL,M,,,,1659,0,20,SEP26,1944,i
@@ -13270,7 +13289,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21804931,"Zgadzaj, Jerzy",POL,M,,,,1567,0,20,SEP26,1953,i
 1113712,"Zgadzaj, Rafal",POL,M,CM,,,2081,0,20,SEP26,1982,
 1140280,"Zgarda, Jakub",POL,M,,,,1757,0,20,SEP26,1985,i
-21063486,"Zgarda, Julian",POL,M,,,,1415,0,40,SEP26,2012,
 1144332,"Zgarda, Marek",POL,M,,,,1464,0,20,SEP26,1962,
 91110750,"Zgirouski, Matvey",POL,M,,,,1472,0,40,SEP26,2011,
 41818415,"Zglenicki, Jakub",POL,M,,,,1557,0,20,SEP26,2003,i
@@ -13283,7 +13301,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21810648,"Zgorzelski, Michal",POL,M,,,,1552,0,20,SEP26,2007,i
 41888073,"Zgutka, Tomasz",POL,M,,,,1405,0,40,SEP26,2011,i
 91105943,"Zharkov, Nikita",POL,M,,,,1654,21,20,SEP26,1990,
-13508342,"Zhuk, Ivan",POL,M,,,,2014,0,20,SEP26,1999,
+13508342,"Zhuk, Ivan",POL,M,,,,2047,11,20,SEP26,1999,
 21898260,"Zhukevich, Maryan",POL,M,,,,1501,0,40,SEP26,2008,i
 91118123,"Zhurbenko, Yuri",POL,M,,,,1713,11,40,SEP26,2008,
 21014647,"Zhydachevskyy, Yulian",POL,M,,,,1602,0,20,SEP26,2006,i
@@ -13343,7 +13361,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 41822099,"Zielinski, Tymon",POL,M,,,,1428,0,20,SEP26,2003,i
 1139568,"Zielinski, Wojciech",POL,M,,NA,,2096,0,20,SEP26,1993,i
 1117360,"Zielinski, Zbigniew",POL,M,,,,1876,0,20,SEP26,1954,i
-21002096,"Zielonka, Adam",POL,M,FM,,,2243,0,40,SEP26,2009,
+21002096,"Zielonka, Adam",POL,M,IM,,,2243,0,40,SEP26,2009,
 21018766,"Zielonka, Agata",POL,F,,,,1502,0,20,SEP26,2003,wi
 41842766,"Zielonka, Kamil",POL,M,,,,1437,0,20,SEP26,2007,i
 21888752,"Zielonka, Mateusz",POL,M,,,,1707,0,20,SEP26,2001,i
@@ -13362,7 +13380,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 1192370,"Ziemski, Przemyslaw",POL,M,,,,1819,0,20,SEP26,1988,i
 1191861,"Zieniuk, Kacper",POL,M,,,,1777,0,20,SEP26,2001,i
 1181319,"Zienkiewicz, Marta",POL,F,,IA,,1771,0,20,SEP26,1994,wi
-1136402,"Zienkiewicz, Mateusz",POL,M,,,,1914,0,20,SEP26,1993,i
+1136402,"Zienkiewicz, Mateusz",POL,M,,,,1900,11,20,SEP26,1993,
 1157051,"Zienowicz, Jozef",POL,M,,,,1728,0,20,SEP26,1997,i
 1175920,"Zienowicz, Zofia",POL,F,,,,1486,0,20,SEP26,1999,wi
 21850348,"Zientara, Tomasz",POL,M,,,,1611,0,20,SEP26,1988,i

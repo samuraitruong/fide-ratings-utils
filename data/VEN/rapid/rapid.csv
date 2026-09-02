@@ -1052,7 +1052,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23915706,"Erazo Simancas, Rogelio Enrique",VEN,M,,,,2022,0,40,SEP26,1961,
 3996905,"Escalona Chavez, Angel Gabriel",VEN,M,,,,1614,0,20,SEP26,2000,i
 3955400,"Escalona Davila, Edward Antonio",VEN,M,,,,1684,0,20,SEP26,1979,i
-3937437,"Escalona Landi, Samid Eduardo",VEN,M,FM,,,2410,0,10,SEP26,2002,
+3937437,"Escalona Landi, Samid Eduardo",VEN,M,IM,,,2410,0,10,SEP26,2002,
 23931914,"Escalona Mujica, Leonardo Andres",VEN,M,,,,1682,0,40,SEP26,2007,i
 3997545,"Escalona Ovalles, Rafael Jose",VEN,M,,,,1508,0,20,SEP26,1990,i
 3986233,"Escalona Oviedo, Sebastian Francisco",VEN,M,,,,1654,0,40,SEP26,2007,
@@ -1320,7 +1320,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3951553,"Gomez Gomez, Kristian Eduardo",VEN,M,,,,1584,0,20,SEP26,2004,i
 3908542,"Gomez Gomez, Sebastian Gildo",VEN,M,,,,1841,0,20,SEP26,0,i
 3975070,"Gomez Gruber, Maria Gabriela",VEN,F,,,,1592,0,20,SEP26,2006,w
-3906205,"Gomez Hernandez, Fernando Gabriel",VEN,M,,SI,,1869,0,20,SEP26,1990,
+3906205,"Gomez Hernandez, Fernando Gabriel",VEN,M,,"SI,AO",,1869,0,20,SEP26,1990,
 3908623,"Gomez Leon, Alexander de Jesus",VEN,M,,,,2087,0,,SEP26,1992,
 3992721,"Gomez Marin, Gustavo Andres",VEN,M,,,,1635,0,40,SEP26,2007,
 3933466,"Gomez Melo, Billy Enrique",VEN,M,,,,1905,0,20,SEP26,1995,i
@@ -2110,7 +2110,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3942589,"Martinez Mendez, Daniel Filibert",VEN,M,,,,1869,0,40,SEP26,1985,i
 3951103,"Martinez Montes, Georgina Isabel",VEN,F,,,,1630,0,20,SEP26,1984,w
 23922338,"Martinez Moron, Mathias Jose",VEN,M,,,,1441,0,40,SEP26,2014,
-3913031,"Martinez Pateti, Hugo Ramon",VEN,M,,,,1849,0,40,SEP26,1967,i
+3913031,"Martinez Pateti, Hugo Ramon",VEN,M,,AO,,1849,0,40,SEP26,1967,i
 3926958,"Martinez Pino, Wolfgang Josue",VEN,M,,,,1710,0,20,SEP26,1995,i
 23932902,"Martinez Ramos, Nicole Ailyn",VEN,F,,,,1611,0,40,SEP26,2011,w
 3901807,"Martinez Reyes, Pedro Ramon",VEN,M,IM,,,2323,5,20,SEP26,1991,

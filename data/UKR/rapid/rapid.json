@@ -330,21 +330,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "14195917",
-    "Name": "Adamchuk, Dmytro",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1577",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2008",
-    "Flag": ""
-  },
-  {
     "ID Number": "14187710",
     "Name": "Adamchuk, Dmytro",
     "Fed": "UKR",
@@ -358,6 +343,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1995",
     "Flag": "i"
+  },
+  {
+    "ID Number": "14195917",
+    "Name": "Adamchuk, Dmytro",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1577",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2008",
+    "Flag": ""
   },
   {
     "ID Number": "529008778",
@@ -10005,21 +10005,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "529052017",
-    "Name": "Bilyi, Andriy",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1513",
-    "Gms": "6",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2013",
-    "Flag": ""
-  },
-  {
     "ID Number": "529052165",
     "Name": "Bilyi, Andriy",
     "Fed": "UKR",
@@ -10032,6 +10017,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2011",
+    "Flag": ""
+  },
+  {
+    "ID Number": "529052017",
+    "Name": "Bilyi, Andriy",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1513",
+    "Gms": "6",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2013",
     "Flag": ""
   },
   {
@@ -18637,9 +18637,9 @@
     "Title": "FM",
     "WTit": "",
     "OTit": "",
-    "Rating": "2269",
-    "Gms": "0",
-    "K": "40",
+    "Rating": "2330",
+    "Gms": "9",
+    "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "2010",
     "Flag": ""
@@ -46500,21 +46500,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34155198",
-    "Name": "Ivanov, Maksym",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1542",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34137505",
     "Name": "Ivanov, Maksym",
     "Fed": "UKR",
@@ -46543,6 +46528,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2017",
     "Flag": ""
+  },
+  {
+    "ID Number": "34155198",
+    "Name": "Ivanov, Maksym",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1542",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2008",
+    "Flag": "i"
   },
   {
     "ID Number": "34176039",
@@ -49200,21 +49200,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "529055237",
-    "Name": "Karas, Volodymyr",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1565",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1999",
-    "Flag": ""
-  },
-  {
     "ID Number": "14165716",
     "Name": "Karas, Volodymyr",
     "Fed": "UKR",
@@ -49228,6 +49213,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1949",
     "Flag": "i"
+  },
+  {
+    "ID Number": "529055237",
+    "Name": "Karas, Volodymyr",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1565",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1999",
+    "Flag": ""
   },
   {
     "ID Number": "14141450",
@@ -51667,8 +51667,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "2104",
-    "Gms": "0",
+    "Rating": "2137",
+    "Gms": "9",
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "1984",
@@ -57337,8 +57337,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1752",
-    "Gms": "0",
+    "Rating": "1767",
+    "Gms": "2",
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2008",
@@ -59160,21 +59160,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "529024943",
-    "Name": "Kondratiuk, Ivan",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1520",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2013",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34112324",
     "Name": "Kondratiuk, Ivan",
     "Fed": "UKR",
@@ -59187,6 +59172,21 @@
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "1939",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "529024943",
+    "Name": "Kondratiuk, Ivan",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1520",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2013",
     "Flag": "i"
   },
   {
@@ -63315,21 +63315,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "529022096",
-    "Name": "Koval, Andrii",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1665",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1994",
-    "Flag": ""
-  },
-  {
     "ID Number": "34176560",
     "Name": "Koval, Andrii",
     "Fed": "UKR",
@@ -63343,6 +63328,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2013",
     "Flag": "i"
+  },
+  {
+    "ID Number": "529022096",
+    "Name": "Koval, Andrii",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1665",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1994",
+    "Flag": ""
   },
   {
     "ID Number": "34117350",
@@ -64215,21 +64215,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "529021065",
-    "Name": "Kovalenko, Maksym",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1593",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2010",
-    "Flag": ""
-  },
-  {
     "ID Number": "14177935",
     "Name": "Kovalenko, Maksym",
     "Fed": "UKR",
@@ -64243,6 +64228,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1979",
     "Flag": "i"
+  },
+  {
+    "ID Number": "529021065",
+    "Name": "Kovalenko, Maksym",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1593",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2010",
+    "Flag": ""
   },
   {
     "ID Number": "34145222",
@@ -72600,21 +72600,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "529007933",
-    "Name": "Kuzmin, Oleksandr",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1447",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2013",
-    "Flag": ""
-  },
-  {
     "ID Number": "34154531",
     "Name": "Kuzmin, Oleksandr",
     "Fed": "UKR",
@@ -72628,6 +72613,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2010",
     "Flag": "i"
+  },
+  {
+    "ID Number": "529007933",
+    "Name": "Kuzmin, Oleksandr",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1447",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2013",
+    "Flag": ""
   },
   {
     "ID Number": "14129876",
@@ -88395,21 +88395,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34135065",
-    "Name": "Melnyk, Maksym",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1626",
-    "Gms": "4",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "2004",
-    "Flag": ""
-  },
-  {
     "ID Number": "14148153",
     "Name": "Melnyk, Maksym",
     "Fed": "UKR",
@@ -88423,6 +88408,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2003",
     "Flag": "i"
+  },
+  {
+    "ID Number": "34135065",
+    "Name": "Melnyk, Maksym",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1626",
+    "Gms": "4",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "2004",
+    "Flag": ""
   },
   {
     "ID Number": "529031150",
@@ -88470,21 +88470,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "529014522",
-    "Name": "Melnyk, Oleksandr",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1432",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1963",
-    "Flag": "i"
-  },
-  {
     "ID Number": "529014395",
     "Name": "Melnyk, Oleksandr",
     "Fed": "UKR",
@@ -88497,6 +88482,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "1989",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "529014522",
+    "Name": "Melnyk, Oleksandr",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1432",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1963",
     "Flag": "i"
   },
   {
@@ -95310,21 +95310,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "529026458",
-    "Name": "Naumenko, Daniil",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1425",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2014",
-    "Flag": ""
-  },
-  {
     "ID Number": "34122320",
     "Name": "Naumenko, Daniil",
     "Fed": "UKR",
@@ -95338,6 +95323,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2006",
     "Flag": "i"
+  },
+  {
+    "ID Number": "529026458",
+    "Name": "Naumenko, Daniil",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1425",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2014",
+    "Flag": ""
   },
   {
     "ID Number": "34149082",
@@ -107100,21 +107100,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "529025311",
-    "Name": "Petrov, Artem",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1494",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2017",
-    "Flag": ""
-  },
-  {
     "ID Number": "529022487",
     "Name": "Petrov, Artem",
     "Fed": "UKR",
@@ -107127,6 +107112,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2013",
+    "Flag": ""
+  },
+  {
+    "ID Number": "529025311",
+    "Name": "Petrov, Artem",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1494",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2017",
     "Flag": ""
   },
   {
@@ -112474,7 +112474,7 @@
     "Name": "Povshednyi, Ivan",
     "Fed": "UKR",
     "Sex": "M",
-    "Title": "FM",
+    "Title": "IM",
     "WTit": "",
     "OTit": "",
     "Rating": "2354",
@@ -121095,21 +121095,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34198547",
-    "Name": "Rybak, Oleksandr",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1531",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1984",
-    "Flag": "i"
-  },
-  {
     "ID Number": "529036062",
     "Name": "Rybak, Oleksandr",
     "Fed": "UKR",
@@ -121123,6 +121108,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1977",
     "Flag": ""
+  },
+  {
+    "ID Number": "34198547",
+    "Name": "Rybak, Oleksandr",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1531",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1984",
+    "Flag": "i"
   },
   {
     "ID Number": "34111832",
@@ -123930,21 +123930,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34190546",
-    "Name": "Savchuk, Bohdan",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1439",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34189840",
     "Name": "Savchuk, Bohdan",
     "Fed": "UKR",
@@ -123957,6 +123942,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2009",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34190546",
+    "Name": "Savchuk, Bohdan",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1439",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2008",
     "Flag": "i"
   },
   {
@@ -125805,21 +125805,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "529046246",
-    "Name": "Semenova, Alina",
-    "Fed": "UKR",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1541",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1987",
-    "Flag": "w"
-  },
-  {
     "ID Number": "529023785",
     "Name": "Semenova, Alina",
     "Fed": "UKR",
@@ -125833,6 +125818,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2000",
     "Flag": "wi"
+  },
+  {
+    "ID Number": "529046246",
+    "Name": "Semenova, Alina",
+    "Fed": "UKR",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1541",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1987",
+    "Flag": "w"
   },
   {
     "ID Number": "34152350",
@@ -128805,21 +128805,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "529006325",
-    "Name": "Shcherbyna, Maksym",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1677",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2014",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34199519",
     "Name": "Shcherbyna, Maksym",
     "Fed": "UKR",
@@ -128832,6 +128817,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2004",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "529006325",
+    "Name": "Shcherbyna, Maksym",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1677",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2014",
     "Flag": "i"
   },
   {
@@ -142417,8 +142417,8 @@
     "Title": "WGM",
     "WTit": "WGM",
     "OTit": "",
-    "Rating": "2069",
-    "Gms": "0",
+    "Rating": "2070",
+    "Gms": "6",
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "1982",
@@ -143445,21 +143445,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34186530",
-    "Name": "Sydorenko, Denys",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1460",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2015",
-    "Flag": "i"
-  },
-  {
     "ID Number": "529031109",
     "Name": "Sydorenko, Denys",
     "Fed": "UKR",
@@ -143473,6 +143458,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2009",
     "Flag": ""
+  },
+  {
+    "ID Number": "34186530",
+    "Name": "Sydorenko, Denys",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1460",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2015",
+    "Flag": "i"
   },
   {
     "ID Number": "34120084",
@@ -145260,21 +145260,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "14177145",
-    "Name": "Tatarenkov, Mykhaylo",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1669",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1942",
-    "Flag": ""
-  },
-  {
     "ID Number": "14176408",
     "Name": "Tatarenkov, Mykhaylo",
     "Fed": "UKR",
@@ -145288,6 +145273,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1950",
     "Flag": "i"
+  },
+  {
+    "ID Number": "14177145",
+    "Name": "Tatarenkov, Mykhaylo",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1669",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1942",
+    "Flag": ""
   },
   {
     "ID Number": "14114437",
@@ -157425,21 +157425,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34181660",
-    "Name": "Voloshchuk, Andrii",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1465",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2009",
-    "Flag": "i"
-  },
-  {
     "ID Number": "529015308",
     "Name": "Voloshchuk, Andrii",
     "Fed": "UKR",
@@ -157453,6 +157438,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1981",
     "Flag": ""
+  },
+  {
+    "ID Number": "34181660",
+    "Name": "Voloshchuk, Andrii",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1465",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2009",
+    "Flag": "i"
   },
   {
     "ID Number": "34152679",
@@ -159330,21 +159330,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34129006",
-    "Name": "Vynnytskyi, Volodymyr",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1812",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1953",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34193537",
     "Name": "Vynnytskyi, Volodymyr",
     "Fed": "UKR",
@@ -159358,6 +159343,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2008",
     "Flag": ""
+  },
+  {
+    "ID Number": "34129006",
+    "Name": "Vynnytskyi, Volodymyr",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1812",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1953",
+    "Flag": "i"
   },
   {
     "ID Number": "34195033",
@@ -162937,8 +162937,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1654",
-    "Gms": "0",
+    "Rating": "1668",
+    "Gms": "1",
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2009",
@@ -163485,21 +163485,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34190554",
-    "Name": "Yurchenko, Andrii",
-    "Fed": "UKR",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1521",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2011",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34181598",
     "Name": "Yurchenko, Andrii",
     "Fed": "UKR",
@@ -163512,6 +163497,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2014",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34190554",
+    "Name": "Yurchenko, Andrii",
+    "Fed": "UKR",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1521",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2011",
     "Flag": "i"
   },
   {
@@ -163879,7 +163879,7 @@
     "Name": "Yurovskykh, Oleksandr",
     "Fed": "UKR",
     "Sex": "M",
-    "Title": "FM",
+    "Title": "IM",
     "WTit": "",
     "OTit": "",
     "Rating": "2331",
@@ -168622,8 +168622,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1643",
-    "Gms": "6",
+    "Rating": "1631",
+    "Gms": "13",
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "2005",

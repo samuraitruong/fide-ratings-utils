@@ -293,7 +293,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 311766,"Bazant, Petr",CZE,M,,,,2232,0,10,SEP26,1982,
 304166,"Bazant, Petr",CZE,M,,,,2175,0,20,SEP26,1957,
 329002,"Bazant, Zdenek",CZE,M,,,,1885,0,20,SEP26,1930,i
-309354,"Bazantova, Marie",CZE,F,WFM,WFM,,1916,0,20,SEP26,1963,w
+309354,"Bazantova, Marie",CZE,F,WFM,WFM,,1909,5,20,SEP26,1963,w
 23712279,"Beaufort, Oliver",CZE,M,,,,1488,0,40,SEP26,2007,i
 357910,"Bebek, Ivan",CZE,M,,,,1426,0,20,SEP26,1943,
 343340,"Bebr, Jan",CZE,M,,,,1963,0,20,SEP26,1945,i
@@ -327,7 +327,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 341169,"Behuncik, Josef",CZE,M,,,,2047,0,20,SEP26,1986,
 309397,"Beil, Martin",CZE,M,,,,2159,0,20,SEP26,1982,
 322857,"Beil, Ondrej",CZE,M,,,,1980,0,20,SEP26,1989,i
-351865,"Beil, Richard",CZE,M,,,,1641,0,20,SEP26,1974,
+351865,"Beil, Richard",CZE,M,,,,1630,6,20,SEP26,1974,
 300667,"Beil, Zdenek",CZE,M,IM,,,2167,0,10,SEP26,1953,
 23740736,"Beinhauer, Bernard",CZE,M,,,,1815,0,20,SEP26,2002,i
 352136,"Bejcek, Pavel",CZE,M,,,,1568,0,20,SEP26,1971,
@@ -545,7 +545,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23757663,"Bocek, Tomas",CZE,M,,,,1645,0,40,SEP26,1995,
 23778644,"Bochenin, Lev",CZE,M,,,,1613,7,40,SEP26,2015,
 23762209,"Bockova, Karolina",CZE,F,,,,1422,0,40,SEP26,2014,w
-360422,"Bodicky, Michal",CZE,M,CM,,,2267,0,20,SEP26,1997,
+360422,"Bodicky, Michal",CZE,M,CM,,,2281,7,20,SEP26,1997,
 376710,"Bodlak, Stanislav",CZE,M,,,,1798,0,20,SEP26,1945,i
 23739410,"Boff, Arnost",CZE,M,,,,1485,0,20,SEP26,1967,
 23733950,"Boff, Ondrej",CZE,M,,,,1988,9,40,SEP26,2011,
@@ -684,7 +684,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23759470,"Brejcha, Milan",CZE,M,,,,1555,8,40,SEP26,1959,
 23700777,"Brejcha, Robert",CZE,M,,,,1557,0,40,SEP26,1964,i
 375845,"Brejcha, Simon",CZE,M,,,,1621,0,20,SEP26,2002,i
-362662,"Brejnik, Gustav",CZE,M,FM,,,2231,9,20,SEP26,2000,
+362662,"Brejnik, Gustav",CZE,M,FM,,,2238,16,20,SEP26,2000,
 373966,"Brejsa, Adam",CZE,M,,,,1642,0,40,SEP26,2001,i
 23737190,"Bresky, Petr",CZE,M,,,,1951,0,40,SEP26,1976,
 23741465,"Brestak, Pavel",CZE,M,,,,1485,0,40,SEP26,1981,i
@@ -964,7 +964,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23739096,"Cermak, Filip",CZE,M,,,,1921,0,20,SEP26,2007,
 350443,"Cermak, Jan",CZE,M,,,,2080,0,20,SEP26,1995,
 368199,"Cermak, Jan",CZE,M,,,,2009,0,20,SEP26,1991,
-343935,"Cermak, Jan",CZE,M,,,,1844,0,20,SEP26,1972,
+343935,"Cermak, Jan",CZE,M,,,,1845,7,20,SEP26,1972,
 329037,"Cermak, Jaroslav",CZE,M,,,,1776,0,20,SEP26,1964,i
 364860,"Cermak, Ludek",CZE,M,,,,2003,0,20,SEP26,1967,
 301990,"Cermak, Michael",CZE,M,,,,1977,0,20,SEP26,1991,i
@@ -1167,8 +1167,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 362000,"Chutny, Tomas",CZE,M,,,,1789,0,40,SEP26,1945,i
 321613,"Chvajova, Helena",CZE,F,,,,2082,0,20,SEP26,1993,w
 341738,"Chval, Petr",CZE,M,,,,1958,0,20,SEP26,1974,
-311456,"Chval, Zdenek",CZE,M,,,,2076,0,20,SEP26,1971,
-23717734,"Chval, Zdenek",CZE,M,,,,2072,0,20,SEP26,2005,
+23717734,"Chval, Zdenek",CZE,M,,,,2100,7,20,SEP26,2005,
+311456,"Chval, Zdenek",CZE,M,,,,2063,7,20,SEP26,1971,
 349038,"Chvastek, Tomas",CZE,M,,,,1873,0,20,SEP26,1976,i
 302910,"Chvatal, Jaroslav",CZE,M,,,,1614,0,,SEP26,1967,
 23721430,"Chvatal, Jonas",CZE,M,,,,1573,7,20,SEP26,2006,
@@ -1739,7 +1739,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 571004041,"Fedarenka, Ryhor",CZE,M,,,,1453,8,40,SEP26,2016,
 14906996,"Federic, Pavol",CZE,M,,,,2115,0,20,SEP26,1984,
 4188004,"Fedorov, Evgenii",CZE,M,FM,,,2205,0,20,SEP26,1987,
-327557,"Feierfeil, Jiri",CZE,M,,,,1728,18,20,SEP26,1952,
+327557,"Feierfeil, Jiri",CZE,M,,,,1704,23,20,SEP26,1952,
 392448,"Feix, Adam",CZE,M,,,,1524,0,40,SEP26,2005,i
 399019,"Feix, Jiri",CZE,M,,,,1720,0,40,SEP26,2001,i
 23710454,"Feix, Vilem",CZE,M,,,,1768,0,40,SEP26,1998,i
@@ -1835,7 +1835,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 391980,"Fizer, Marek",CZE,M,CM,,,2244,7,40,SEP26,2008,
 385115,"Fizerova, Lucie",CZE,F,WFM,WFM,,2069,0,20,SEP26,2006,wi
 23750820,"Fizerova, Veronika",CZE,F,,,,1552,5,40,SEP26,2015,w
-391476,"Flajsman, Pavel",CZE,M,,NA,,2220,0,20,SEP26,2002,
+391476,"Flajsman, Pavel",CZE,M,,NA,,2205,7,20,SEP26,2002,
 391484,"Flajsman, Petr",CZE,M,,NA,,2026,0,20,SEP26,2005,
 391492,"Flajsman, Zdenek",CZE,M,,,,1774,0,20,SEP26,1973,i
 23711213,"Flasar, Jan",CZE,M,,,,1878,7,20,SEP26,1991,
@@ -1844,9 +1844,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23710179,"Flejberk, Jiri",CZE,M,,,,1789,0,40,SEP26,1951,i
 318175,"Flek, Vladislav",CZE,M,,,,1912,0,20,SEP26,1960,
 303313,"Flekac, Milan",CZE,M,,,,1946,0,20,SEP26,1960,i
-23750839,"Flidr, Jan",CZE,M,,,,1590,8,40,SEP26,2014,
+23750839,"Flidr, Jan",CZE,M,,,,1566,12,40,SEP26,2014,
 399612,"Flidr, Robert",CZE,M,,,,1814,0,40,SEP26,1971,
-23777567,"Flidrova, Mariana",CZE,F,,,,1489,8,40,SEP26,2017,w
+23777567,"Flidrova, Mariana",CZE,F,,,,1448,14,40,SEP26,2017,w
 314315,"Flora, Tomas",CZE,M,,,,1812,0,20,SEP26,1936,i
 352276,"Florian, Jiri",CZE,M,,,,1566,0,20,SEP26,1946,
 346837,"Flos, Petr",CZE,M,,,,1673,0,20,SEP26,1953,i
@@ -2069,7 +2069,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 392006,"Gnojek, Jan",CZE,M,,,,1644,0,20,SEP26,2007,
 386219,"Gnojek, Lukas",CZE,M,,,,1741,0,40,SEP26,1976,i
 371807,"Gnojek, Petr",CZE,M,IM,,,2401,9,10,SEP26,2005,
-383112,"Goc, Vlastimil",CZE,M,,,,1920,0,20,SEP26,1955,i
+383112,"Goc, Vlastimil",CZE,M,,,,1884,7,20,SEP26,1955,
 23700645,"Godla, Milan",CZE,M,,,,1821,0,20,SEP26,1982,
 23708697,"Godlova, Kamila",CZE,F,,,,1588,0,20,SEP26,1984,w
 388920,"Godovsky, Jiri",CZE,M,,,,1887,0,20,SEP26,1960,
@@ -2399,7 +2399,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 398810,"Helebrand, Peter",CZE,M,,,,1730,0,40,SEP26,1960,i
 371343,"Helebrand, Zdenek",CZE,M,,,,1862,0,40,SEP26,1982,
 372528,"Heller, Jan",CZE,M,,,,1898,7,20,SEP26,1974,
-343943,"Hellinger, Jan",CZE,M,,,,1681,0,20,SEP26,1951,
+343943,"Hellinger, Jan",CZE,M,,,,1664,6,20,SEP26,1951,
 336564,"Hemala, Lubos",CZE,M,,,,1856,0,20,SEP26,1987,i
 345431,"Hemalova, Lydie",CZE,F,,,,1722,0,20,SEP26,1995,wi
 364541,"Hemr, Adam",CZE,M,,,,1919,0,20,SEP26,2000,
@@ -3069,7 +3069,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23715553,"Janouskova, Eliska",CZE,F,,,,1913,9,40,SEP26,2012,w
 322687,"Janovsky, Martin",CZE,M,,,,1909,0,20,SEP26,1967,
 23770694,"Jansa, Jiri",CZE,M,,,,1691,0,40,SEP26,1955,
-300128,"Jansa, Vlastimil",CZE,M,GM,,,2228,9,10,SEP26,1942,
+300128,"Jansa, Vlastimil",CZE,M,GM,,,2219,16,10,SEP26,1942,
 345563,"Janska, Jitka",CZE,F,WFM,WFM,,2146,0,20,SEP26,1999,wi
 357774,"Janska, Petr",CZE,M,,,,1806,0,20,SEP26,1996,
 23726210,"Jansky, Adam",CZE,M,,,,1693,0,40,SEP26,2010,
@@ -3155,7 +3155,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23736399,"Jenik, Krystof",CZE,M,,,,1628,0,40,SEP26,2010,i
 23759860,"Jenikova, Sabina",CZE,F,,,,1628,0,40,SEP26,2012,w
 346853,"Jenista, Jiri",CZE,M,,,,1777,0,40,SEP26,1937,i
-23760206,"Jerabek, Jakub",CZE,M,,,,1614,9,40,SEP26,2011,
+23760206,"Jerabek, Jakub",CZE,M,,,,1627,15,40,SEP26,2011,
 327824,"Jerabek, Jan",CZE,M,,,,1744,0,20,SEP26,1944,
 378011,"Jerabek, Jan",CZE,M,,,,1520,0,20,SEP26,1967,i
 307785,"Jerabek, Jindrich",CZE,M,,,,1932,0,20,SEP26,1961,
@@ -3169,8 +3169,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 336866,"Jesensky, Jaromir",CZE,M,,,,1644,0,20,SEP26,1956,i
 329185,"Jezbera, Jiri",CZE,M,,,,2009,9,20,SEP26,1976,
 346047,"Jezek, Adam",CZE,M,,,,2018,0,20,SEP26,1994,i
+23747498,"Jezek, Jakub",CZE,M,,,,1888,7,40,SEP26,2010,
 379018,"Jezek, Jakub",CZE,M,,,,1885,0,20,SEP26,2000,
-23747498,"Jezek, Jakub",CZE,M,,,,1871,0,40,SEP26,2010,
 355151,"Jezek, Jan",CZE,M,,,,2101,0,20,SEP26,1955,
 388157,"Jezek, Jaroslav",CZE,M,,,,1705,0,40,SEP26,1962,i
 23754672,"Jezek, Jiri",CZE,M,,,,1740,7,40,SEP26,2012,
@@ -3288,7 +3288,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23760044,"Jurcek, Adrian",CZE,M,,,,1835,9,40,SEP26,2008,
 373710,"Jurecek, Daniel",CZE,M,,,,1879,0,20,SEP26,1970,
 23787058,"Jurek, Jiri",CZE,M,,,,1860,0,40,SEP26,1983,
-300993,"Jurek, Josef",CZE,M,IM,,,2154,9,10,SEP26,1954,
+300993,"Jurek, Josef",CZE,M,IM,,,2159,16,10,SEP26,1954,
 322075,"Jurek, Miroslav",CZE,M,,,,2099,0,20,SEP26,1985,
 366889,"Juriga, Tomas",CZE,M,,,,1950,0,20,SEP26,1985,
 23758325,"Juriga, Viliam",CZE,M,,,,1656,0,40,SEP26,1998,i
@@ -3863,7 +3863,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 388971,"Koppi, Vladimir",CZE,M,,,,1705,0,40,SEP26,1961,
 344591,"Kopr, Stanislav",CZE,M,,,,1988,0,20,SEP26,1970,
 23743719,"Kopriva, Ivo",CZE,M,,,,1786,0,40,SEP26,1968,i
-357740,"Kopriva, Martin",CZE,M,,NA,,2113,0,20,SEP26,1996,
+357740,"Kopriva, Martin",CZE,M,,NA,,2111,7,20,SEP26,1996,
 571005862,"Kopriva, Mikulas",CZE,M,,,,1465,9,40,SEP26,2012,
 307912,"Kopriva, Oldrich",CZE,M,,,,1995,0,20,SEP26,1959,
 369241,"Kopriva, Pavel",CZE,M,,,,1871,0,20,SEP26,1958,
@@ -4319,9 +4319,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 326445,"Krivanek, Vladimir",CZE,M,,,,2142,0,20,SEP26,1987,
 23746858,"Krivanek, Vladimir",CZE,M,,,,1691,0,40,SEP26,1957,
 23780053,"Krivka, Jakub",CZE,M,,,,1703,0,40,SEP26,2013,
-23771143,"Krivka, Jan",CZE,M,,,,2083,0,40,SEP26,2010,
+23771143,"Krivka, Jan",CZE,M,,,,2055,7,40,SEP26,2010,
 23752092,"Krivka, Lukas",CZE,M,,,,1889,8,40,SEP26,2014,
-23752106,"Krivka, Matej",CZE,M,,,,2097,0,40,SEP26,2011,
+23752106,"Krivka, Matej",CZE,M,,,,2063,7,40,SEP26,2011,
 23768533,"Krivka, Vladimir",CZE,M,,,,1514,0,20,SEP26,1984,
 23714670,"Krivohlavek, David",CZE,M,,,,1857,0,40,SEP26,1989,i
 350753,"Krivohlavek, Josef",CZE,M,,,,1591,0,20,SEP26,1951,
@@ -4330,7 +4330,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 352144,"Krivsky, Jiri",CZE,M,,FA,,1702,0,20,SEP26,1975,
 324698,"Kriz, Daniel",CZE,M,,NA,,2049,0,20,SEP26,1992,
 345857,"Kriz, Daniel",CZE,M,,,,1735,0,40,SEP26,1992,i
-23767537,"Kriz, Denis",CZE,M,,,,1980,0,40,SEP26,2009,
+23767537,"Kriz, Denis",CZE,M,,,,2003,7,40,SEP26,2009,
 23774371,"Kriz, Dominik",CZE,M,,,,1464,0,40,SEP26,2018,
 383864,"Kriz, Jiri",CZE,M,,,,1850,0,40,SEP26,1951,i
 312479,"Kriz, Lubos",CZE,M,CM,NA,,1983,0,20,SEP26,1967,
@@ -4383,13 +4383,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 362573,"Krpec, Jaroslav",CZE,M,,,,1633,0,20,SEP26,1975,
 311847,"Krsek, Lukas",CZE,M,,,,2120,0,40,SEP26,1981,i
 307661,"Krsek, Tomas",CZE,M,,,,2178,0,20,SEP26,1977,i
-23767545,"Krsek, Tomas",CZE,M,,,,1867,0,40,SEP26,2010,
+23767545,"Krsek, Tomas",CZE,M,,,,1895,7,40,SEP26,2010,
 333298,"Krska, David",CZE,M,,,,1963,0,20,SEP26,1991,i
 396591,"Krticka, Jakub",CZE,M,,,,1576,0,40,SEP26,2002,i
 358983,"Krticka, Vaclav",CZE,M,,,,1795,0,20,SEP26,1974,i
 301108,"Krtous, Zdenek",CZE,M,,,,2025,0,20,SEP26,1993,i
 333816,"Krtous, Zdenek",CZE,M,,,,1863,0,20,SEP26,1959,
 344095,"Krucina, Aneta",CZE,F,,,,1872,0,20,SEP26,1997,wi
+571004556,"Krucky, Krystof",CZE,M,,,,1480,5,40,SEP26,2010,
 23709421,"Krulis, Jiri Daniel",CZE,M,,,,1516,0,20,SEP26,1998,
 310000,"Kruml, David",CZE,M,,,,2167,0,20,SEP26,1974,i
 23742550,"Krummer, Dusan",CZE,M,,,,1693,0,40,SEP26,1980,i
@@ -4505,7 +4506,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 335380,"Kubosova, Jana",CZE,F,,,,1894,0,20,SEP26,1999,wi
 337218,"Kuca, Tomas",CZE,M,,,,1755,0,20,SEP26,1991,i
 389021,"Kuceja, Pavel",CZE,M,,,,1839,0,20,SEP26,1962,
-23738200,"Kucera, Bohuslav",CZE,M,,,,1737,0,20,SEP26,1978,
+23738200,"Kucera, Bohuslav",CZE,M,,,,1735,5,20,SEP26,1978,
 358193,"Kucera, Daniel",CZE,M,,,,1907,0,20,SEP26,1975,
 396494,"Kucera, David",CZE,M,,NA,,1947,0,20,SEP26,2005,
 23750260,"Kucera, Doman",CZE,M,,,,1465,0,40,SEP26,1992,i
@@ -4909,7 +4910,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23733810,"Listvan, David",CZE,M,,,,1452,0,40,SEP26,2009,i
 23741520,"Litavsky, Lukas",CZE,M,,,,1822,8,40,SEP26,2008,
 387843,"Literak, Jaromir",CZE,M,,,,1718,0,20,SEP26,1944,i
-23767553,"Litos, Ondrej",CZE,M,,,,1687,0,40,SEP26,2013,
+23767553,"Litos, Ondrej",CZE,M,,,,1757,7,40,SEP26,2013,
 308099,"Littmann, Jiri",CZE,M,,,,1772,0,40,SEP26,1962,i
 23704934,"Lizan, Stanislav",CZE,M,,,,1710,0,20,SEP26,1973,
 315931,"Lizner, Jaroslav",CZE,M,,,,1893,0,20,SEP26,1950,
@@ -5572,8 +5573,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 351300,"Mikulencakova, Jana",CZE,F,,,,1561,0,20,SEP26,1969,w
 359521,"Mikulenka, Tomas",CZE,M,,,,1672,0,20,SEP26,1995,
 337510,"Mikulka, Jan",CZE,M,,,,1830,0,20,SEP26,1939,i
-23738260,"Mikulka, Martin",CZE,M,,NA,,1625,7,20,SEP26,1977,
-23730803,"Mikulka, Martin Michael",CZE,M,,,,2146,9,40,SEP26,2011,
+23738260,"Mikulka, Martin",CZE,M,,NA,,1612,9,20,SEP26,1977,
+23730803,"Mikulka, Martin Michael",CZE,M,,,,2189,16,40,SEP26,2011,
 334081,"Mikulu, Lukas",CZE,M,,,,1989,0,20,SEP26,1991,
 368237,"Mikus, Pavol",CZE,M,,,,1689,0,20,SEP26,1953,i
 23772727,"Mikus, Vladimir",CZE,M,,,,1834,0,40,SEP26,1966,i
@@ -5755,7 +5756,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23754737,"Mrazik, Marek",CZE,M,,,,1877,0,40,SEP26,2012,
 349771,"Mrazik, Tomas",CZE,M,,,,2034,0,20,SEP26,1990,
 317128,"Mrha, Jan",CZE,M,,,,1944,0,20,SEP26,1924,i
-349330,"Mriso, Milos",CZE,M,,,,1716,0,20,SEP26,1972,
+349330,"Mriso, Milos",CZE,M,,,,1721,6,20,SEP26,1972,
 23722550,"Mriso, Stepan",CZE,M,,,,1501,0,40,SEP26,2007,
 369039,"Mrisova, Eliska",CZE,F,,,,1762,0,20,SEP26,2001,w
 309990,"Mrkos, Miroslav",CZE,M,,,,1908,0,20,SEP26,1954,
@@ -6034,7 +6035,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 398551,"Nguyen, Thai Dang Vi",CZE,M,,,,1806,0,40,SEP26,2008,i
 396516,"Nguyen, Tien Dung",CZE,M,,,,1677,0,40,SEP26,2001,i
 23727322,"Nguyen, Tomas",CZE,M,,,,1568,5,40,SEP26,2007,
-23773545,"Nguyen, Trung Minh",CZE,M,,,,1610,0,40,SEP26,2014,
+23773545,"Nguyen, Trung Minh",CZE,M,,,,1618,6,40,SEP26,2014,
 308161,"Nidl, Petr",CZE,M,,,,2168,0,20,SEP26,1976,i
 23745711,"Niesner, Ondrej",CZE,M,,,,1904,9,40,SEP26,1999,
 332216,"Nigrin, Jiri",CZE,M,,,,1694,0,20,SEP26,1953,i
@@ -6100,7 +6101,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 334421,"Novak, Libor",CZE,M,,,,1701,0,20,SEP26,1978,i
 316490,"Novak, Ludek",CZE,M,,,,1921,0,20,SEP26,1961,
 333344,"Novak, Lukas",CZE,M,,,,1897,0,20,SEP26,1998,
-23730633,"Novak, Lukas",CZE,M,,,,1765,0,40,SEP26,2009,
+23730633,"Novak, Lukas",CZE,M,,,,1756,6,40,SEP26,2009,
 364096,"Novak, Martin",CZE,M,,,,2091,0,20,SEP26,2000,
 23729511,"Novak, Martin",CZE,M,,,,1716,0,40,SEP26,1966,i
 337706,"Novak, Matyas",CZE,M,,,,1936,0,40,SEP26,1982,i
@@ -6892,7 +6893,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23769890,"Polak, Daniel",CZE,M,,,,1749,10,40,SEP26,2010,
 392219,"Polak, Jiri",CZE,M,,,,1896,0,20,SEP26,1979,
 362794,"Polak, Martin",CZE,M,,,,1850,0,20,SEP26,2002,
-23704012,"Polak, Michal",CZE,M,,,,2165,0,20,SEP26,2002,
+23704012,"Polak, Michal",CZE,M,,,,2172,7,20,SEP26,2002,
 308870,"Polak, Petr",CZE,M,,,,2099,0,20,SEP26,1964,i
 323802,"Polak, Petr",CZE,M,,,,1929,0,20,SEP26,1968,i
 320757,"Polak, Radim",CZE,M,,,,1884,0,20,SEP26,1970,
@@ -6913,7 +6914,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 328103,"Polensky, Vladislav",CZE,M,,,,1942,0,40,SEP26,1955,i
 23752947,"Polents, David",CZE,M,,,,1462,0,40,SEP26,2010,i
 23752939,"Polents, Ernest",CZE,M,,,,1439,0,40,SEP26,2010,i
-34170260,"Poliakov, Ivan",CZE,M,,,,1782,0,40,SEP26,2010,
+34170260,"Poliakov, Ivan",CZE,M,,,,1858,6,40,SEP26,2010,
 23775416,"Poliakov, Mykhailo",CZE,M,,,,1690,0,40,SEP26,2006,i
 23734868,"Policar, Martin",CZE,M,,,,1950,7,40,SEP26,2012,
 350567,"Polisensky, Jan",CZE,M,,,,1825,0,20,SEP26,1999,i
@@ -7003,6 +7004,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 356654,"Pouch, Milan",CZE,M,,,,2069,0,40,SEP26,1979,i
 337943,"Pour, Bretislav",CZE,M,,,,1834,0,40,SEP26,1954,i
 385441,"Poveda, Michael",CZE,M,,,,1650,0,40,SEP26,1996,i
+352527,"Povr, Milan",CZE,M,,,,1595,6,40,SEP26,1961,
 23718153,"Pozar, Pavel",CZE,M,,,,1519,0,40,SEP26,2007,i
 23791977,"Pozdnicek, Matyas",CZE,M,,,,1544,10,40,SEP26,2010,
 23778342,"Pozhar, David",CZE,M,,,,1929,0,40,SEP26,2005,i
@@ -7082,7 +7084,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23782048,"Primas, Jiri",CZE,M,,,,1578,0,40,SEP26,2010,
 344214,"Princ, Jiri",CZE,M,,,,1857,0,20,SEP26,1939,i
 364835,"Privoznik, Lubos",CZE,M,,,,1716,14,20,SEP26,1957,
-23748133,"Prny, Jan",CZE,M,,,,1899,0,20,SEP26,2003,
+23748133,"Prny, Jan",CZE,M,,,,1895,7,20,SEP26,2003,
 23728736,"Probost, Jakub",CZE,M,,,,1870,0,40,SEP26,2000,
 354104,"Prochazka, Bedrich",CZE,M,,,,1916,0,20,SEP26,1949,
 310352,"Prochazka, Dalibor",CZE,M,,,,2166,0,20,SEP26,1970,
@@ -7203,7 +7205,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23708603,"Radko, Jan",CZE,M,,,,1876,0,40,SEP26,1992,i
 359386,"Radovsky, Kosta",CZE,M,,,,1732,0,40,SEP26,1935,i
 332704,"Radovsky, Pavel",CZE,M,,,,1667,0,20,SEP26,1972,i
-347663,"Radvanovsky, Petr",CZE,M,,,,1786,0,20,SEP26,1980,
+347663,"Radvanovsky, Petr",CZE,M,,,,1779,5,20,SEP26,1980,
 324876,"Rafaja, Marek",CZE,M,,,,1989,0,20,SEP26,1973,i
 345385,"Rafaja, Marek",CZE,M,,,,1973,0,20,SEP26,1993,i
 23708859,"Ragula, Marian",CZE,M,,,,1695,0,40,SEP26,1958,i
@@ -7257,10 +7259,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23775866,"Redmond, Samuel",CZE,M,,,,1564,7,40,SEP26,2017,
 23749148,"Refuerzo, Hilbert J",CZE,M,,,,1650,0,,SEP26,1979,i
 23750103,"Rehacek, Frantisek",CZE,M,,,,1441,0,40,SEP26,1986,i
-23748788,"Rehacek, Jan",CZE,M,,,,1711,8,40,SEP26,2012,
-397415,"Rehacek, Jan",CZE,M,,,,1536,5,20,SEP26,1981,
+23748788,"Rehacek, Jan",CZE,M,,,,1720,9,40,SEP26,2012,
+397415,"Rehacek, Jan",CZE,M,,,,1544,8,20,SEP26,1981,
 350230,"Rehacek, Josef",CZE,M,,,,1804,0,20,SEP26,1945,i
-23742143,"Rehacek, Oldrich",CZE,M,,,,1660,7,20,SEP26,1981,
+23742143,"Rehacek, Oldrich",CZE,M,,,,1697,12,20,SEP26,1981,
 329851,"Rehak, Jakub",CZE,M,,,,1952,0,20,SEP26,1989,i
 379077,"Rehak, Jan",CZE,M,,,,1627,0,40,SEP26,1999,i
 338079,"Rehak, Jiri",CZE,M,,,,1802,0,20,SEP26,1950,
@@ -7382,7 +7384,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23777176,"Riha, Milos",CZE,M,,,,1832,0,40,SEP26,1984,
 352632,"Riha, Miroslav",CZE,M,,,,1622,0,40,SEP26,1963,i
 320340,"Riha, Otmar",CZE,M,,,,1909,0,20,SEP26,1969,i
-23786396,"Riha, Vitek",CZE,M,,,,1792,0,40,SEP26,2012,
+23786396,"Riha, Vitek",CZE,M,,,,1651,6,40,SEP26,2012,
 377430,"Riha, Vojtech",CZE,M,FM,,,2269,0,20,SEP26,2002,
 374431,"Riha, Zdenek",CZE,M,,,,1772,0,20,SEP26,1953,
 23771275,"Riha, Zdenek",CZE,M,,,,1604,0,40,SEP26,2012,
@@ -8396,7 +8398,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 344508,"Soukup, Vaclav",CZE,M,,,,1680,0,20,SEP26,2000,i
 23790431,"Soukup, Vladimir",CZE,M,,,,1523,0,40,SEP26,1970,
 571005730,"Soukup, Vojtech",CZE,M,,,,1524,7,40,SEP26,2016,
-311928,"Soural, Jan",CZE,M,CM,NA,,2106,27,20,SEP26,1976,
+311928,"Soural, Jan",CZE,M,CM,NA,,2103,34,20,SEP26,1976,
 358436,"Soural, Jiri",CZE,M,,,,1701,0,20,SEP26,1949,
 23724714,"Soural, Tomas",CZE,M,,,,1786,0,20,SEP26,1977,
 23720867,"Souralova, Alena",CZE,F,,,,1700,19,40,SEP26,2010,w
@@ -8449,7 +8451,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 378275,"Spinler, Bronislav",CZE,M,,,,1662,0,20,SEP26,1965,
 310832,"Spirek, Adam",CZE,M,,,,2002,9,20,SEP26,1978,
 335541,"Spirhanzl, Radek",CZE,M,,,,1800,0,40,SEP26,1963,i
-301060,"Spirik, Jiri",CZE,M,,,,2134,0,20,SEP26,1966,
+301060,"Spirik, Jiri",CZE,M,,,,2109,7,20,SEP26,1966,
 4134494,"Spirin, Oleg",CZE,M,IM,,,2443,0,10,SEP26,1983,i
 314650,"Splichal, Petr",CZE,M,,,,1926,0,20,SEP26,1974,
 310476,"Splichal, Stanislav",CZE,M,,,,2075,0,20,SEP26,1963,
@@ -9450,7 +9452,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 310158,"Urbanek, Stepan",CZE,M,,,,2031,0,20,SEP26,1974,
 23720395,"Urbanek, Vaclav",CZE,M,,,,1506,0,40,SEP26,2004,i
 306266,"Urbankova, Eva",CZE,F,,,,2098,0,20,SEP26,1974,wi
-23761741,"Urbansky, Stepan",CZE,M,,,,1943,0,20,SEP26,2006,
+23761741,"Urbansky, Stepan",CZE,M,,,,1948,7,20,SEP26,2006,
 318701,"Urbasek, Oleg",CZE,M,,,,1966,0,20,SEP26,1980,
 334669,"Urgacsova, Sara",CZE,F,,,,1641,0,40,SEP26,1993,wi
 325333,"Uricar, Jakub",CZE,M,,,,2113,0,20,SEP26,1990,
@@ -9740,7 +9742,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 325872,"Vermirovsky, Vlastimil",CZE,M,,NA,,1939,8,20,SEP26,1981,
 342904,"Verner, Jan",CZE,M,,,,1884,0,20,SEP26,1989,
 398543,"Verner, Jaromir",CZE,M,,,,1627,0,20,SEP26,1948,i
-23729236,"Verner, Matej",CZE,M,,,,2082,18,20,SEP26,2007,
+23729236,"Verner, Matej",CZE,M,,,,2117,25,20,SEP26,2007,
 23714026,"Verner, Milos",CZE,M,,,,1585,0,40,SEP26,1948,i
 571002758,"Verosta, Jindrich",CZE,M,,,,1484,9,40,SEP26,2013,
 23727101,"Veselakova, Lenka",CZE,F,,,,1491,0,40,SEP26,1966,wi
@@ -9780,7 +9782,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 331287,"Veverka, Frantisek",CZE,M,,,,1918,0,40,SEP26,1959,i
 23725885,"Veverka, Max",CZE,M,,,,1689,0,40,SEP26,2011,
 23706864,"Veverka, Tomas",CZE,M,,,,1479,0,40,SEP26,2002,i
-23716568,"Veverka, Vladimir",CZE,M,,,,2117,0,40,SEP26,2009,
+23716568,"Veverka, Vladimir",CZE,M,,,,2115,7,40,SEP26,2009,
 399299,"Veverkova, Dorota",CZE,F,,,,1576,0,40,SEP26,2008,wi
 23700742,"Vezensky, Jan",CZE,M,,,,1803,0,20,SEP26,1987,i
 360287,"Veznik, Michael",CZE,M,,,,1860,0,20,SEP26,1961,i
@@ -9806,7 +9808,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 359203,"Vilem, Rostislav",CZE,M,,NA,,1779,0,40,SEP26,1996,
 23749881,"Vilim, Petr",CZE,M,,,,1508,0,40,SEP26,1958,
 367010,"Vilimec, Miroslav",CZE,M,,,,1980,0,20,SEP26,1958,
-23718218,"Vilimek, Vit",CZE,M,FM,,,2220,18,20,SEP26,2007,
+23718218,"Vilimek, Vit",CZE,M,FM,,,2218,25,20,SEP26,2007,
 367400,"Vilimova, Julie",CZE,F,,NA,,1870,0,20,SEP26,2002,wi
 23783885,"Vilinger, Elias",CZE,M,,,,1515,0,40,SEP26,2012,
 23783893,"Vilinger, Jan",CZE,M,,,,1510,0,40,SEP26,2014,
@@ -10172,7 +10174,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23702664,"Werner, Quan Hong",CZE,M,,,,2045,0,20,SEP26,2007,i
 344265,"Werner, Roman",CZE,M,,,,1633,0,20,SEP26,1962,
 345954,"Wertheim, Adolf",CZE,M,,NA,,1753,0,20,SEP26,1957,
-318574,"Wichs, Jakub",CZE,M,,,,2043,9,20,SEP26,1980,
+318574,"Wichs, Jakub",CZE,M,,,,2029,14,20,SEP26,1980,
 346462,"Wiedermann, Jan",CZE,M,,,,1776,0,20,SEP26,1952,
 320897,"Wiener, Richard",CZE,M,,NA,,1832,0,20,SEP26,1964,
 340537,"Wiesinger, Wolfgang",CZE,M,,,,1962,0,20,SEP26,1972,
@@ -10443,7 +10445,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 309796,"Zikmund, Daniel",CZE,M,,,,1868,0,20,SEP26,1972,i
 334340,"Zikmund, Jaroslav",CZE,M,,,,1857,0,20,SEP26,1935,i
 23702044,"Zikmund, Josef",CZE,M,,,,1763,0,40,SEP26,1956,i
-23764040,"Zikranets, Bohdan",CZE,M,,,,1711,0,40,SEP26,2009,
+23764040,"Zikranets, Bohdan",CZE,M,,,,1676,5,40,SEP26,2009,
 396559,"Zilava, Anezka",CZE,F,,,,1550,0,20,SEP26,2005,wi
 359696,"Zilava, Katerina",CZE,F,,,,1720,0,20,SEP26,1996,wi
 23715669,"Zilava, Lucie",CZE,F,,,,1569,0,40,SEP26,2009,wi
@@ -10465,7 +10467,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 23762144,"Zinchuk, Volodymyr",CZE,M,,,,1694,0,40,SEP26,2008,
 315915,"Zinglar, David",CZE,M,,,,1918,0,20,SEP26,1980,
 23743395,"Zinglar, Martin",CZE,M,,,,1624,0,40,SEP26,2008,i
-23747560,"Zischka, Vit",CZE,M,,,,1902,0,40,SEP26,2012,
+23747560,"Zischka, Vit",CZE,M,,,,1962,7,40,SEP26,2012,
 23743670,"Zita, Filip",CZE,M,,,,1433,0,40,SEP26,2009,i
 382612,"Zitek, Jiri",CZE,M,,,,1717,18,20,SEP26,1948,
 339156,"Zitek, Miroslav",CZE,M,,,,1945,0,20,SEP26,1963,i

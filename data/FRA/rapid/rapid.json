@@ -7635,21 +7635,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "80412700",
-    "Name": "Alexandre, Fabrice",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1420",
-    "Gms": "3",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1974",
-    "Flag": ""
-  },
-  {
     "ID Number": "26042371",
     "Name": "Alexandre, Hugo",
     "Fed": "FRA",
@@ -16867,8 +16852,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1515",
-    "Gms": "3",
+    "Rating": "1499",
+    "Gms": "7",
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "1985",
@@ -45705,21 +45690,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "527037266",
-    "Name": "Bensimon, Mickael",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1507",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1978",
-    "Flag": ""
-  },
-  {
     "ID Number": "527059642",
     "Name": "Bensimon, Mickael",
     "Fed": "FRA",
@@ -45733,6 +45703,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1998",
     "Flag": "i"
+  },
+  {
+    "ID Number": "527037266",
+    "Name": "Bensimon, Mickael",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1507",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1978",
+    "Flag": ""
   },
   {
     "ID Number": "80443087",
@@ -63997,8 +63982,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1502",
-    "Gms": "0",
+    "Rating": "1468",
+    "Gms": "5",
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2016",
@@ -78967,8 +78952,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1778",
-    "Gms": "8",
+    "Rating": "1755",
+    "Gms": "15",
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2015",
@@ -104130,21 +104115,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "544014244",
-    "Name": "Chanut, Romain",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1699",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1995",
-    "Flag": "i"
-  },
-  {
     "ID Number": "652090515",
     "Name": "Chanut, Romain",
     "Fed": "FRA",
@@ -104157,6 +104127,21 @@
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "1996",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "544014244",
+    "Name": "Chanut, Romain",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1699",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1995",
     "Flag": "i"
   },
   {
@@ -134347,8 +134332,8 @@
     "Title": "FM",
     "WTit": "",
     "OTit": "",
-    "Rating": "2312",
-    "Gms": "9",
+    "Rating": "2315",
+    "Gms": "17",
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "2003",
@@ -147067,8 +147052,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1636",
-    "Gms": "0",
+    "Rating": "1632",
+    "Gms": "7",
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "1983",
@@ -147082,8 +147067,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1548",
-    "Gms": "0",
+    "Rating": "1579",
+    "Gms": "7",
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2018",
@@ -159600,21 +159585,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "80411886",
-    "Name": "Didier, Bastien",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1546",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1994",
-    "Flag": "i"
-  },
-  {
     "ID Number": "527018423",
     "Name": "Didier, Bastien",
     "Fed": "FRA",
@@ -159628,6 +159598,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1998",
     "Flag": ""
+  },
+  {
+    "ID Number": "80411886",
+    "Name": "Didier, Bastien",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1546",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1994",
+    "Flag": "i"
   },
   {
     "ID Number": "651012782",
@@ -159675,21 +159660,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "527018431",
-    "Name": "Didier, Guillaume",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1409",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1991",
-    "Flag": ""
-  },
-  {
     "ID Number": "80435734",
     "Name": "Didier, Guillaume",
     "Fed": "FRA",
@@ -159703,6 +159673,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1993",
     "Flag": "i"
+  },
+  {
+    "ID Number": "527018431",
+    "Name": "Didier, Guillaume",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1409",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1991",
+    "Flag": ""
   },
   {
     "ID Number": "652094170",
@@ -190335,21 +190320,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "560043873",
-    "Name": "Fernandez, Antoine",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1499",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1996",
-    "Flag": ""
-  },
-  {
     "ID Number": "610704",
     "Name": "Fernandez, Antoine",
     "Fed": "FRA",
@@ -190363,6 +190333,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1999",
     "Flag": "i"
+  },
+  {
+    "ID Number": "560043873",
+    "Name": "Fernandez, Antoine",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1499",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1996",
+    "Flag": ""
   },
   {
     "ID Number": "80427600",
@@ -192120,21 +192105,6 @@
     "Flag": "w"
   },
   {
-    "ID Number": "26016443",
-    "Name": "Ferry, Emmanuel",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1577",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1966",
-    "Flag": ""
-  },
-  {
     "ID Number": "544098120",
     "Name": "Ferry, Emmanuel",
     "Fed": "FRA",
@@ -192147,6 +192117,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "1971",
+    "Flag": ""
+  },
+  {
+    "ID Number": "26016443",
+    "Name": "Ferry, Emmanuel",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1577",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1966",
     "Flag": ""
   },
   {
@@ -197632,12 +197617,12 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1443",
-    "Gms": "0",
+    "Rating": "1438",
+    "Gms": "6",
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "2002",
-    "Flag": "wi"
+    "Flag": "w"
   },
   {
     "ID Number": "630594",
@@ -209295,21 +209280,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "551017253",
-    "Name": "Garcia, Valentin",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1586",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1987",
-    "Flag": "i"
-  },
-  {
     "ID Number": "36002895",
     "Name": "Garcia, Valentin",
     "Fed": "FRA",
@@ -209322,6 +209292,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2002",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "551017253",
+    "Name": "Garcia, Valentin",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1586",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1987",
     "Flag": "i"
   },
   {
@@ -235110,6 +235095,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "576047849",
+    "Name": "Guerimand, Remy",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1607",
+    "Gms": "9",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1999",
+    "Flag": ""
+  },
+  {
     "ID Number": "527078302",
     "Name": "Guerin, Alexis",
     "Fed": "FRA",
@@ -257100,21 +257100,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "560091770",
-    "Name": "Hu, Emma",
-    "Fed": "FRA",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1459",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2012",
-    "Flag": "w"
-  },
-  {
     "ID Number": "560086440",
     "Name": "Hu, Emma",
     "Fed": "FRA",
@@ -257127,6 +257112,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2015",
+    "Flag": "w"
+  },
+  {
+    "ID Number": "560091770",
+    "Name": "Hu, Emma",
+    "Fed": "FRA",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1459",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2012",
     "Flag": "w"
   },
   {
@@ -276405,21 +276405,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "576060748",
-    "Name": "Keghouche, Sami",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1653",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2000",
-    "Flag": ""
-  },
-  {
     "ID Number": "576060047",
     "Name": "Keghouche, Sami",
     "Fed": "FRA",
@@ -276428,6 +276413,21 @@
     "WTit": "",
     "OTit": "",
     "Rating": "1610",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2000",
+    "Flag": ""
+  },
+  {
+    "ID Number": "576060748",
+    "Name": "Keghouche, Sami",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1653",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "SEP26",
@@ -329842,8 +329842,8 @@
     "Title": "IM",
     "WTit": "",
     "OTit": "",
-    "Rating": "2377",
-    "Gms": "9",
+    "Rating": "2363",
+    "Gms": "18",
     "K": "10",
     "RatingMonth": "SEP26",
     "B-day": "2002",
@@ -333900,21 +333900,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "653028635",
-    "Name": "Magne, Nicolas",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1601",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1993",
-    "Flag": "i"
-  },
-  {
     "ID Number": "80453210",
     "Name": "Magne, Nicolas",
     "Fed": "FRA",
@@ -333928,6 +333913,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1977",
     "Flag": ""
+  },
+  {
+    "ID Number": "653028635",
+    "Name": "Magne, Nicolas",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1601",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1993",
+    "Flag": "i"
   },
   {
     "ID Number": "653022084",
@@ -345435,21 +345435,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "651095157",
-    "Name": "Martin, Abel",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1458",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2012",
-    "Flag": ""
-  },
-  {
     "ID Number": "560029439",
     "Name": "Martin, Abel",
     "Fed": "FRA",
@@ -345462,6 +345447,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2010",
+    "Flag": ""
+  },
+  {
+    "ID Number": "651095157",
+    "Name": "Martin, Abel",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1458",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2012",
     "Flag": ""
   },
   {
@@ -345855,21 +345855,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "653048784",
-    "Name": "Martin, Guillaume",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1618",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1979",
-    "Flag": "i"
-  },
-  {
     "ID Number": "527060098",
     "Name": "Martin, Guillaume",
     "Fed": "FRA",
@@ -345882,6 +345867,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "1971",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "653048784",
+    "Name": "Martin, Guillaume",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1618",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1979",
     "Flag": "i"
   },
   {
@@ -346425,21 +346425,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "652067700",
-    "Name": "Martin, Raphael",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1621",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2006",
-    "Flag": "i"
-  },
-  {
     "ID Number": "560067330",
     "Name": "Martin, Raphael",
     "Fed": "FRA",
@@ -346453,6 +346438,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2009",
     "Flag": ""
+  },
+  {
+    "ID Number": "652067700",
+    "Name": "Martin, Raphael",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1621",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2006",
+    "Flag": "i"
   },
   {
     "ID Number": "652079597",
@@ -346545,21 +346545,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "544066503",
-    "Name": "Martin, Theo",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1591",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2000",
-    "Flag": ""
-  },
-  {
     "ID Number": "36012041",
     "Name": "Martin, Theo",
     "Fed": "FRA",
@@ -346573,6 +346558,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2003",
     "Flag": "i"
+  },
+  {
+    "ID Number": "544066503",
+    "Name": "Martin, Theo",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1591",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2000",
+    "Flag": ""
   },
   {
     "ID Number": "45122083",
@@ -350857,8 +350857,8 @@
     "Title": "IM",
     "WTit": "",
     "OTit": "",
-    "Rating": "2335",
-    "Gms": "9",
+    "Rating": "2341",
+    "Gms": "18",
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "2005",
@@ -354928,21 +354928,6 @@
     "RatingMonth": "SEP26",
     "B-day": "1997",
     "Flag": ""
-  },
-  {
-    "ID Number": "420417",
-    "Name": "McDonald, Margaret",
-    "Fed": "FRA",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1405",
-    "Gms": "0",
-    "K": "",
-    "RatingMonth": "SEP26",
-    "B-day": "1959",
-    "Flag": "w"
   },
   {
     "ID Number": "652080153",
@@ -362925,21 +362910,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "576028208",
-    "Name": "Michel, Hugo",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1442",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2004",
-    "Flag": ""
-  },
-  {
     "ID Number": "544004087",
     "Name": "Michel, Hugo",
     "Fed": "FRA",
@@ -362952,6 +362922,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2006",
+    "Flag": ""
+  },
+  {
+    "ID Number": "576028208",
+    "Name": "Michel, Hugo",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1442",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2004",
     "Flag": ""
   },
   {
@@ -378697,8 +378682,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "2204",
-    "Gms": "0",
+    "Rating": "2208",
+    "Gms": "9",
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "1996",
@@ -413130,21 +413115,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "653085485",
-    "Name": "Philippe, Timeo",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1488",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2013",
-    "Flag": "i"
-  },
-  {
     "ID Number": "45133638",
     "Name": "Philippe, Timeo",
     "Fed": "FRA",
@@ -413157,6 +413127,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2009",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "653085485",
+    "Name": "Philippe, Timeo",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1488",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2013",
     "Flag": "i"
   },
   {
@@ -413985,21 +413970,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "544065850",
-    "Name": "Picard, Leo",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1409",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2009",
-    "Flag": "i"
-  },
-  {
     "ID Number": "544080492",
     "Name": "Picard, Leo",
     "Fed": "FRA",
@@ -414012,6 +413982,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2006",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "544065850",
+    "Name": "Picard, Leo",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1409",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2009",
     "Flag": "i"
   },
   {
@@ -415672,8 +415657,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1663",
-    "Gms": "7",
+    "Rating": "1650",
+    "Gms": "14",
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2018",
@@ -415687,8 +415672,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1962",
-    "Gms": "8",
+    "Rating": "1951",
+    "Gms": "16",
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2016",
@@ -489322,8 +489307,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1539",
-    "Gms": "0",
+    "Rating": "1522",
+    "Gms": "6",
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "1953",
@@ -502740,21 +502725,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "653070810",
-    "Name": "Thomas, Arthur",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1400",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2014",
-    "Flag": "i"
-  },
-  {
     "ID Number": "652048535",
     "Name": "Thomas, Arthur",
     "Fed": "FRA",
@@ -502768,6 +502738,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2015",
     "Flag": ""
+  },
+  {
+    "ID Number": "653070810",
+    "Name": "Thomas, Arthur",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1400",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2014",
+    "Flag": "i"
   },
   {
     "ID Number": "560024895",
@@ -526680,21 +526665,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "36052019",
-    "Name": "Vincent, Michel",
-    "Fed": "FRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1438",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1960",
-    "Flag": "i"
-  },
-  {
     "ID Number": "527023990",
     "Name": "Vincent, Michel",
     "Fed": "FRA",
@@ -526707,6 +526677,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "1969",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "36052019",
+    "Name": "Vincent, Michel",
+    "Fed": "FRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1438",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1960",
     "Flag": "i"
   },
   {
@@ -540547,8 +540532,8 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1983",
-    "Gms": "0",
+    "Rating": "1964",
+    "Gms": "9",
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "1978",
@@ -540577,8 +540562,8 @@
     "Title": "FM",
     "WTit": "",
     "OTit": "",
-    "Rating": "2426",
-    "Gms": "0",
+    "Rating": "2436",
+    "Gms": "9",
     "K": "10",
     "RatingMonth": "SEP26",
     "B-day": "2009",

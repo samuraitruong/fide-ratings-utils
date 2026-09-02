@@ -18,7 +18,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12430900,Bui Dai Lam,VIE,M,,,,1471,0,40,SEP26,2010,i
 12442186,Bui Dang Khoi,VIE,M,,,,1497,0,40,SEP26,2015,i
 12453587,Bui Dieu Anh,VIE,F,,,,1458,0,40,SEP26,2014,wi
-12488127,Bui Do Minh Lam,VIE,M,,,,1460,0,40,SEP26,2013,
+12488127,Bui Do Minh Lam,VIE,M,,,,1453,3,40,SEP26,2013,
 12476820,Bui Duc Khang,VIE,M,,,,1686,9,40,SEP26,2015,
 561013021,Bui Duc Thang Dat,VIE,M,,,,1717,0,40,SEP26,2011,
 12443808,Bui Duc Thien Anh,VIE,M,,,,1755,16,40,SEP26,2016,
@@ -182,7 +182,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12400092,"Dang, Tat Thang",VIE,M,,,,2068,0,20,SEP26,1953,i
 12407577,"Dang, Tuan Linh",VIE,M,,,,1695,0,,SEP26,2005,i
 12400017,"Dang, Vu Dung",VIE,M,,,,2026,0,20,SEP26,1961,i
-12495549,Danh Duc Khanh Huy,VIE,M,,,,1835,0,20,SEP26,2006,
+12495549,Danh Duc Khanh Huy,VIE,M,,,,1794,5,20,SEP26,2006,
 12485918,Danh Huyen Tran,VIE,M,,,,1436,0,20,SEP26,2005,i
 12436895,Dao Duy Khang,VIE,M,,,,1557,2,40,SEP26,2013,
 12447145,Dao Gia Huy,VIE,M,,,,1548,6,40,SEP26,2011,
@@ -240,7 +240,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12482498,Do Bao Long,VIE,M,,,,1500,0,40,SEP26,2013,
 12412198,Do Duc Minh,VIE,M,,,,1679,0,20,SEP26,1993,i
 12490644,Do Duc Quan,VIE,M,,,,1845,0,40,SEP26,2012,
-12469939,Do Duy Thinh,VIE,M,,,,1552,0,40,SEP26,2013,i
+12469939,Do Duy Thinh,VIE,M,,,,1584,5,40,SEP26,2013,
 12447064,Do Hai Minh,VIE,M,,,,1627,11,40,SEP26,2012,
 12482030,Do Hoang Quan,VIE,M,,,,1434,0,40,SEP26,2016,
 12452556,Do Hoang Thu,VIE,F,,,,1410,0,40,SEP26,2014,wi
@@ -294,6 +294,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12447129,Doan Gia Hung,VIE,M,,,,1496,0,40,SEP26,2014,
 12452670,Doan Nguyen Gia Bao,VIE,M,,,,1786,0,40,SEP26,2009,
 12440108,Doan Nhat Minh,VIE,M,,,,1579,8,40,SEP26,2015,
+561002658,Doan Phuong Linh,VIE,F,,,,1555,5,40,SEP26,2014,w
 12423564,Doan Tat Thang,VIE,M,,,,1653,0,40,SEP26,2009,i
 12460230,Doan Thanh Hung,VIE,M,,,,1582,0,20,SEP26,2000,
 12483613,Doan Thao Linh,VIE,F,,,,1490,0,40,SEP26,2019,w
@@ -468,8 +469,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12408034,"Hoang, Vu Trung Nguyen",VIE,M,,,,1849,0,20,SEP26,2002,i
 12441791,Hua Nam Phong,VIE,M,,,,1524,0,40,SEP26,2013,i
 12491926,Huynh Bao Khang,VIE,M,,,,1441,0,40,SEP26,2014,i
-12434507,Huynh Bao Khanh,VIE,M,,,,1422,0,40,SEP26,2015,i
 561000680,Huynh Bao Khanh,VIE,F,,,,1603,7,40,SEP26,2011,w
+12434507,Huynh Bao Khanh,VIE,M,,,,1422,0,40,SEP26,2015,i
 12446270,Huynh Bao Kim,VIE,F,,,,1583,7,40,SEP26,2018,w
 12496308,Huynh Dam,VIE,M,,,,1504,0,40,SEP26,2014,
 12451754,Huynh Duc Chi,VIE,M,,,,1566,0,40,SEP26,2010,i
@@ -485,6 +486,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12497908,Huynh Le Khanh,VIE,M,,,,1437,0,40,SEP26,2011,
 12457868,Huynh Le Tan Thanh,VIE,M,,,,1529,0,20,SEP26,1998,i
 12437069,Huynh Manh Tung,VIE,M,,,,1758,0,,SEP26,2014,
+12448168,Huynh Minh Nghia,VIE,M,,,,1608,5,40,SEP26,2010,
 12494542,Huynh Minh Quan,VIE,M,,,,1462,0,40,SEP26,2014,
 12433667,Huynh Minh Tri,VIE,M,,,,1458,0,40,SEP26,2014,
 561005738,Huynh Nguyen Bich Ngan,VIE,F,,,,1662,0,40,SEP26,2019,w
@@ -496,6 +498,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12485284,Huynh Thien Phuc,VIE,M,,,,1449,0,40,SEP26,2016,
 561009946,Huynh Trong Hieu,VIE,M,,,,1425,33,40,SEP26,2020,
 12409898,Huynh Van Huy,VIE,M,,,,1811,0,20,SEP26,2000,
+561023515,Huynh Van Nam,VIE,M,,,,1720,12,40,SEP26,2013,
 12478954,Huynh Viet Gia Huy,VIE,M,,,,1423,0,,SEP26,2015,
 12469661,Huynh Xuan An,VIE,M,,,,1603,14,40,SEP26,2014,
 12420743,"Huynh, Bao Long",VIE,M,,,,1800,0,40,SEP26,2012,i
@@ -587,7 +590,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12433071,Le Ha My,VIE,F,,,,1568,3,40,SEP26,2011,w
 12453072,Le Ha My Oanh,VIE,F,,,,1473,0,40,SEP26,2012,w
 12473022,Le Hai Minh,VIE,M,,,,1476,0,40,SEP26,2011,i
-12475262,Le Hai Minh Son,VIE,M,,,,1429,0,,SEP26,2016,
 12454354,Le Hai My,VIE,F,,,,1810,17,40,SEP26,2014,w
 12474940,Le Hai Quynh,VIE,F,,,,1604,0,20,SEP26,1997,wi
 12443115,Le Hanh Nguyen,VIE,F,,,,1443,0,40,SEP26,2015,w
@@ -599,8 +601,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12491063,Le Hoang Cat Linh,VIE,F,,,,1448,0,40,SEP26,2018,w
 12490032,Le Hoang Gia Khang,VIE,M,,,,1508,0,40,SEP26,2012,
 12472468,Le Hoang Khanh,VIE,F,,,,1517,0,40,SEP26,2015,w
-12445053,Le Hoang Long,VIE,M,,,,1724,0,,SEP26,2010,
 12483796,Le Hoang Long,VIE,M,,,,1669,0,40,SEP26,2008,
+12445053,Le Hoang Long,VIE,M,,,,1724,0,,SEP26,2010,
 12457418,Le Hoang Nam,VIE,M,,,,1467,0,40,SEP26,2015,i
 12427349,Le Hoang Ngan,VIE,F,,,,1475,0,40,SEP26,2008,wi
 12439770,Le Hoang Nhat Quang,VIE,M,,,,1559,0,40,SEP26,2016,i
@@ -626,8 +628,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 561021202,Le Khanh Nam,VIE,M,,,,1636,0,40,SEP26,2011,
 12469556,Le Khanh Ngan,VIE,F,,,,1470,0,40,SEP26,2016,w
 12443212,Le Khoi Nguyen,VIE,M,,,,1492,6,40,SEP26,2013,
-12495050,Le Khoi Nguyen,VIE,M,,,,1456,0,40,SEP26,2015,
 561001155,Le Khoi Nguyen,VIE,M,,,,1462,0,40,SEP26,2011,
+12495050,Le Khoi Nguyen,VIE,M,,,,1456,0,40,SEP26,2015,
 12492906,Le Kien Thanh,VIE,M,,,,1526,16,40,SEP26,2018,
 561013013,Le Kieu Nha Dan,VIE,F,,,,1495,0,40,SEP26,2012,w
 12457426,Le Kim Ngan,VIE,F,,,,1576,0,40,SEP26,2013,wi
@@ -666,6 +668,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12446823,Le Nguyen Anh Thu,VIE,F,,,,1562,0,,SEP26,2004,w
 12447323,Le Nguyen Dong Quan,VIE,M,,,,1470,0,40,SEP26,2017,
 12451711,Le Nguyen Duc Hung,VIE,M,,,,1674,0,20,SEP26,2007,i
+12411744,Le Nguyen Gia Linh,VIE,F,,,,1822,7,40,SEP26,2006,w
 12447358,Le Nguyen Hai Thien,VIE,M,,,,1546,0,40,SEP26,2011,
 12450120,Le Nguyen Hoang Minh,VIE,M,,,,1618,0,40,SEP26,2010,
 12467014,Le Nguyen Khang,VIE,M,,,,1463,0,40,SEP26,2014,i
@@ -675,7 +678,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12476447,Le Nguyen Minh Nghia,VIE,M,,,,1581,0,40,SEP26,2015,
 12437611,Le Nguyen Minh Tri,VIE,M,,,,1778,0,40,SEP26,2008,i
 12453820,Le Nguyen Ngoc Tan,VIE,M,,,,1426,0,40,SEP26,2013,
-12451592,Le Nguyen Nhat Quang,VIE,M,,,,1553,0,20,SEP26,2007,
+12451592,Le Nguyen Nhat Quang,VIE,M,,,,1603,7,20,SEP26,2007,
 12443930,Le Nguyen Phong,VIE,M,,,,1726,17,40,SEP26,2016,
 12436313,Le Nhat Linh Dan,VIE,F,,,,1507,0,40,SEP26,2012,wi
 12458325,Le Nhu Thoa,VIE,M,,,,1446,0,20,SEP26,1994,i
@@ -700,7 +703,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12475190,Le Quang Tri,VIE,M,,,,1505,0,40,SEP26,2014,
 561000205,Le Quang Tue,VIE,M,,,,1637,9,40,SEP26,2017,
 12407682,"Le Quang, Khai",VIE,M,,,,1670,0,20,SEP26,2004,i
-12458899,Le Qui Chuan,VIE,M,,,,1620,0,,SEP26,2002,
+12458899,Le Qui Chuan,VIE,M,,,,1605,5,,SEP26,2002,
 12440310,Le Quoc Huy,VIE,M,,,,1641,0,20,SEP26,2004,
 12453250,Le Quoc Lam,VIE,M,,,,1661,9,40,SEP26,2017,
 12442429,Le Quoc Thai,VIE,M,,,,1553,0,20,SEP26,2004,i
@@ -711,7 +714,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12424617,Le Thai Hoang Anh,VIE,F,WCM,WCM,,1827,16,40,SEP26,2011,w
 12474843,Le Thanh Dat,VIE,M,,,,1525,0,20,SEP26,2000,
 12402192,Le Thanh Tai,VIE,M,CM,,,1987,0,20,SEP26,1997,i
-12475149,Le Thanh Trung Quoc,VIE,M,,,,1679,0,,SEP26,2007,
+12475149,Le Thanh Trung Quoc,VIE,M,,,,1697,5,,SEP26,2007,
 12401005,Le Thanh Tu,VIE,F,WGM,WGM,,2005,0,20,SEP26,1985,wi
 12465470,Le Thao Ly,VIE,F,,,,1527,0,40,SEP26,2010,wi
 12436526,Le Thi Lan,VIE,F,,,,1987,0,20,SEP26,1959,w
@@ -810,7 +813,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12457388,Luong Chan Vu,VIE,M,,,,1714,0,20,SEP26,2007,i
 561021067,Luong Hoang Kien,VIE,M,,,,1498,0,40,SEP26,2015,
 12454524,Luong Minh Duc,VIE,M,,,,1516,0,40,SEP26,2010,i
-153105268,Luong Phuc Thinh,VIE,M,,,,1525,0,,SEP26,2012,
+153105268,Luong Phuc Thinh,VIE,M,,,,1530,4,,SEP26,2012,
 12401013,Luong Phuong Hanh,VIE,F,WGM,WGM,,2090,9,20,SEP26,1983,w
 12436771,Luong Quang Khai,VIE,M,,,,1415,0,40,SEP26,2014,i
 561003018,Luong Tan Sinh,VIE,M,,,,1467,0,40,SEP26,2012,
@@ -841,7 +844,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12416258,Ly Ngoc Huynh Anh,VIE,F,,,,1576,0,40,SEP26,2010,w
 12414069,"Ly, Dinh Minh Man",VIE,M,,,,1646,0,20,SEP26,2004,i
 12401463,"Ly, Hong Nguyen",VIE,M,FM,,,2330,0,20,SEP26,1989,i
-12444030,Ma Bao Nam,VIE,M,,,,1540,0,40,SEP26,2013,i
+12444030,Ma Bao Nam,VIE,M,,,,1588,10,40,SEP26,2013,
 12472662,Ma Hoang Tam,VIE,M,,,,1598,5,40,SEP26,2014,
 12437190,Ma Thi Hoai Anh,VIE,F,,,,1522,0,40,SEP26,2013,wi
 12476781,Mac Quoc Viet,VIE,M,,,,1505,0,40,SEP26,2017,
@@ -949,8 +952,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12437476,Nguyen Bach Duy,VIE,M,,,,1566,0,40,SEP26,2009,i
 12455091,Nguyen Bach Khoa,VIE,M,,,,1476,9,40,SEP26,2017,
 561006858,Nguyen Bao Khang,VIE,M,,,,1445,0,40,SEP26,2016,
-12491772,Nguyen Bao Minh,VIE,M,,,,1553,0,40,SEP26,2018,
 12493163,Nguyen Bao Minh,VIE,M,,,,1649,0,40,SEP26,2012,i
+12491772,Nguyen Bao Minh,VIE,M,,,,1553,0,40,SEP26,2018,
 12441708,Nguyen Bao Nam,VIE,M,,,,1779,17,40,SEP26,2017,
 12441538,Nguyen Bao Ngan,VIE,F,,,,1446,5,40,SEP26,2015,w
 12487244,Nguyen Bao Phong,VIE,M,,,,1448,0,40,SEP26,2014,i
@@ -981,8 +984,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12450391,Nguyen Dang Duy,VIE,M,,,,1475,0,40,SEP26,2013,i
 12452491,Nguyen Dang Huy,VIE,M,,,,1471,0,40,SEP26,2011,i
 12442992,Nguyen Dang Khoa,VIE,M,,,,1734,0,20,SEP26,2004,i
-12475238,Nguyen Dang Khoa,VIE,M,,,,1503,0,40,SEP26,2013,
 12461865,Nguyen Dang Khoa,VIE,M,,,,1467,0,40,SEP26,2017,i
+12475238,Nguyen Dang Khoa,VIE,M,,,,1503,0,40,SEP26,2013,
 12441120,Nguyen Dang Kien Van,VIE,M,,,,1627,8,40,SEP26,2017,
 561019984,Nguyen Dang Lam,VIE,M,,,,1545,8,40,SEP26,2019,
 12460443,Nguyen Dang Nguyen,VIE,M,,,,1454,0,,SEP26,2017,
@@ -1019,8 +1022,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12436224,Nguyen Duc Khai,VIE,M,,,,1744,23,40,SEP26,2014,
 12453234,Nguyen Duc Long,VIE,M,,,,1533,7,40,SEP26,2016,
 12429090,Nguyen Duc Minh,VIE,M,,,,1660,0,,SEP26,2012,i
-12473189,Nguyen Duc Minh,VIE,M,,,,1530,0,40,SEP26,2015,i
 12442631,Nguyen Duc Minh,VIE,M,,,,1403,0,40,SEP26,2016,i
+12473189,Nguyen Duc Minh,VIE,M,,,,1530,0,40,SEP26,2015,i
 12477141,Nguyen Duc Phu,VIE,M,,,,1579,0,40,SEP26,2014,
 561006050,Nguyen Duc Quang,VIE,M,,,,1425,0,40,SEP26,2017,
 12484539,Nguyen Duc Quang,VIE,M,,,,1576,8,40,SEP26,2016,
@@ -1067,16 +1070,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12470252,Nguyen Ho Bich Lam,VIE,F,,,,1471,7,40,SEP26,2017,w
 12420468,Nguyen Hoang,VIE,M,,,,1487,0,40,SEP26,2012,i
 561008605,Nguyen Hoang An Nguyen,VIE,M,,,,1638,0,40,SEP26,2018,
-12489140,Nguyen Hoang Anh,VIE,M,,,,1521,0,40,SEP26,2016,
 12489646,Nguyen Hoang Anh,VIE,M,,,,1569,0,40,SEP26,2008,
+12489140,Nguyen Hoang Anh,VIE,M,,,,1521,0,40,SEP26,2016,
 12455695,Nguyen Hoang Bach,VIE,M,,,,1554,5,40,SEP26,2018,
 561022551,Nguyen Hoang Bao Chau,VIE,M,,,,1544,5,40,SEP26,2012,
 12480860,Nguyen Hoang Bao Huy,VIE,M,,,,1513,0,40,SEP26,2014,
 12496553,Nguyen Hoang Bao Ngan,VIE,F,,,,1538,0,40,SEP26,2012,wi
 12434434,Nguyen Hoang Bao Tram,VIE,F,,,,1756,9,40,SEP26,2012,w
 12405515,Nguyen Hoang Dang Huy,VIE,M,,NA,,1690,0,20,SEP26,2002,i
-12432750,Nguyen Hoang Dung,VIE,M,,,,1438,0,40,SEP26,2015,
 12440965,Nguyen Hoang Dung,VIE,F,,,,1567,0,40,SEP26,2014,wi
+12432750,Nguyen Hoang Dung,VIE,M,,,,1438,0,40,SEP26,2015,
 561010561,Nguyen Hoang Duy,VIE,M,,,,1414,2,40,SEP26,2019,
 12457582,Nguyen Hoang Gia,VIE,M,,NA,,1543,0,20,SEP26,1991,
 12434868,Nguyen Hoang Huy,VIE,M,,,,1687,0,40,SEP26,2012,
@@ -1196,10 +1199,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 561015466,Nguyen Minh Khang,VIE,M,,,,1402,0,20,SEP26,2005,
 12437557,Nguyen Minh Khoa,VIE,M,,,,1607,0,40,SEP26,2009,
 12438405,Nguyen Minh Khoi,VIE,M,,,,1717,0,20,SEP26,2007,
-12471259,Nguyen Minh Khoi,VIE,M,,,,1844,0,40,SEP26,2011,
-561006610,Nguyen Minh Khoi,VIE,M,,,,1735,0,40,SEP26,2012,
-12489034,Nguyen Minh Khoi,VIE,M,,,,1438,4,40,SEP26,2019,
 12481262,Nguyen Minh Khoi,VIE,M,,,,1455,0,40,SEP26,2017,
+12489034,Nguyen Minh Khoi,VIE,M,,,,1438,4,40,SEP26,2019,
+561006610,Nguyen Minh Khoi,VIE,M,,,,1735,0,40,SEP26,2012,
+12471259,Nguyen Minh Khoi,VIE,M,,,,1844,0,40,SEP26,2011,
 12431788,Nguyen Minh Khue,VIE,F,,,,1451,8,20,SEP26,2007,w
 12496855,Nguyen Minh Long,VIE,M,,,,1450,0,40,SEP26,2012,
 12465500,Nguyen Minh Nguyen,VIE,M,,,,1658,6,40,SEP26,2018,
@@ -1208,8 +1211,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12454443,Nguyen Minh Nhat,VIE,M,,,,1441,0,40,SEP26,2018,i
 12450065,Nguyen Minh Nhien,VIE,M,,,,1540,0,40,SEP26,2017,
 12471739,Nguyen Minh Phu,VIE,M,,,,1454,0,40,SEP26,2012,i
-12497622,Nguyen Minh Phuc,VIE,M,,,,1533,0,40,SEP26,2017,i
 12454915,Nguyen Minh Phuc,VIE,M,,,,1514,0,40,SEP26,2016,
+12497622,Nguyen Minh Phuc,VIE,M,,,,1533,0,40,SEP26,2017,i
 12432237,Nguyen Minh Quang,VIE,M,,,,1433,0,40,SEP26,2014,i
 12404250,Nguyen Minh Thang,VIE,M,,NA,,2022,0,20,SEP26,1965,i
 561002992,Nguyen Minh Thien Khang,VIE,M,,,,1469,0,40,SEP26,2017,
@@ -1258,12 +1261,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12437549,Nguyen Nhat Minh,VIE,M,,,,1534,0,40,SEP26,2009,i
 12469955,Nguyen Nhat Minh,VIE,M,,,,1612,0,40,SEP26,2012,
 12431729,Nguyen Nhat Nam,VIE,M,,,,1700,0,40,SEP26,2013,i
-12439584,Nguyen Nhat Nam,VIE,M,,,,1666,0,40,SEP26,2012,
-12473340,Nguyen Nhat Nam,VIE,M,,,,1552,3,40,SEP26,2015,
 561000809,Nguyen Nhat Nam,VIE,M,,,,1445,0,40,SEP26,2017,
+12473340,Nguyen Nhat Nam,VIE,M,,,,1552,3,40,SEP26,2015,
+12439584,Nguyen Nhat Nam,VIE,M,,,,1666,0,40,SEP26,2012,
 12497533,Nguyen Nhat Phi,VIE,M,,,,1659,0,20,SEP26,2003,
-12432512,Nguyen Nhat Quang,VIE,M,,,,1625,0,40,SEP26,2015,
-12429139,Nguyen Nhat Truong,VIE,M,,,,1895,0,40,SEP26,2009,
+12432512,Nguyen Nhat Quang,VIE,M,,,,1670,6,40,SEP26,2015,
+12429139,Nguyen Nhat Truong,VIE,M,,,,1940,5,40,SEP26,2009,
 12470740,Nguyen Nhu Tuan Long,VIE,M,,,,1640,0,20,SEP26,2007,
 12438430,Nguyen Ninh Viet Anh,VIE,M,,,,1470,0,40,SEP26,2016,
 12442658,Nguyen Pham Lam Thu,VIE,F,,,,1439,12,40,SEP26,2018,w
@@ -1284,8 +1287,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12498572,Nguyen Phuc Hai Dang,VIE,M,,,,1741,0,40,SEP26,2009,
 12432660,Nguyen Phuc Hoang,VIE,M,,,,1690,0,40,SEP26,2009,
 12431885,Nguyen Phuc Khang,VIE,M,,,,1715,0,40,SEP26,2011,
-12455784,Nguyen Phuc Khang,VIE,M,,,,1685,0,40,SEP26,2010,
 12458287,Nguyen Phuc Khang,VIE,M,,,,1432,0,40,SEP26,2015,
+12455784,Nguyen Phuc Khang,VIE,M,,,,1685,0,40,SEP26,2010,
 12433128,Nguyen Phuc Khoi,VIE,M,,,,1637,0,40,SEP26,2011,i
 12467030,Nguyen Phuc Minh,VIE,M,,,,1522,0,40,SEP26,2016,
 12435791,Nguyen Phuc Nguyen,VIE,M,,,,1823,16,40,SEP26,2015,
@@ -1448,7 +1451,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12469483,Nguyen Trong Lam Thanh,VIE,M,,,,1630,0,,SEP26,2016,i
 12451320,Nguyen Trong Nhan,VIE,M,,,,1474,0,40,SEP26,2011,i
 12474061,Nguyen Trong Phuc,VIE,M,,,,1501,0,40,SEP26,2013,i
-561007935,Nguyen Truc Khanh Duy,VIE,M,,,,1517,0,40,SEP26,2016,
+561007935,Nguyen Truc Khanh Duy,VIE,M,,,,1495,4,40,SEP26,2016,
 12497142,Nguyen Trung Gia Minh,VIE,M,,,,1453,7,40,SEP26,2019,
 12496260,Nguyen Trung Kien,VIE,M,,,,1607,0,40,SEP26,2014,
 12445479,Nguyen Trung Quan,VIE,M,,,,1883,11,,SEP26,2014,
@@ -1458,10 +1461,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12431591,Nguyen Truong Phuc,VIE,M,,,,1855,9,,SEP26,2013,
 561014419,Nguyen Truong Son,VIE,M,,,,1755,6,20,SEP26,2007,
 561019976,Nguyen Tu Anh,VIE,F,,,,1404,5,40,SEP26,2016,w
-561015016,Nguyen Tuan Huy,VIE,M,,,,1464,2,40,SEP26,2020,
 12485578,Nguyen Tuan Huy,VIE,M,,,,1596,0,,SEP26,2003,
-12483540,Nguyen Tuan Khang,VIE,M,,,,1676,0,20,SEP26,2006,i
+561015016,Nguyen Tuan Huy,VIE,M,,,,1464,2,40,SEP26,2020,
 12482560,Nguyen Tuan Khang,VIE,M,,,,1590,0,40,SEP26,2017,
+12483540,Nguyen Tuan Khang,VIE,M,,,,1676,0,20,SEP26,2006,i
 12441481,Nguyen Tuan Khoi,VIE,M,,,,1573,0,40,SEP26,2012,i
 12473103,Nguyen Tuan Kiet,VIE,M,,,,1561,0,40,SEP26,2014,i
 12469254,Nguyen Tuan Kiet,VIE,M,,,,1431,0,40,SEP26,2015,i
@@ -1972,7 +1975,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12409944,"Phan, Thi Trac Van",VIE,F,,,,1770,0,20,SEP26,1962,wi
 12418005,"Phan, Tran Bao Khang",VIE,M,,,,1968,9,40,SEP26,2010,
 12400840,"Phan, Trong Binh",VIE,M,,,,2016,0,20,SEP26,1990,i
-12429198,"Phan, Trong Duc",VIE,M,,,,1559,0,40,SEP26,2011,
+12429198,"Phan, Trong Duc",VIE,M,,,,1588,5,40,SEP26,2011,
 12431940,Phi Gia Minh,VIE,M,,,,1616,0,40,SEP26,2010,i
 12427640,Phi Le Thanh An,VIE,M,,,,1468,0,40,SEP26,2013,i
 561022365,Phung Anh Khoa,VIE,M,,,,1530,8,40,SEP26,2015,
@@ -2057,8 +2060,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12481360,Tran Dieu Linh,VIE,F,,,,1579,0,40,SEP26,2014,wi
 12457680,Tran Do Hoang Nguyen,VIE,M,,,,1555,0,20,SEP26,1996,i
 12441406,Tran Do Yen Nhi,VIE,F,,,,1534,0,40,SEP26,2013,wi
-12468355,Tran Duc Anh,VIE,M,,,,1647,0,,SEP26,2007,i
 12405957,Tran Duc Anh,VIE,M,,,,1870,0,,SEP26,2000,i
+12468355,Tran Duc Anh,VIE,M,,,,1647,0,,SEP26,2007,i
 12492221,Tran Duc Anh,VIE,M,,,,1506,0,40,SEP26,2012,i
 12472603,Tran Duc Cuong,VIE,M,,,,1589,6,40,SEP26,2018,
 12422380,Tran Duc Hai,VIE,M,,"SI,NA",,1700,0,,SEP26,1995,i
@@ -2080,7 +2083,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12432342,Tran Hoang Bao An,VIE,F,WCM,WCM,,1907,18,40,SEP26,2015,w
 12454680,Tran Hoang Bao Chau,VIE,F,,,,1633,0,20,SEP26,2007,wi
 12453455,Tran Hoang Bao Ngoc,VIE,F,,,,1770,17,40,SEP26,2016,w
-12458961,Tran Hoang Lan,VIE,M,,,,1738,0,20,SEP26,1997,
+12458961,Tran Hoang Lan,VIE,M,,,,1603,10,20,SEP26,1997,
 12492167,Tran Hoang Phuc,VIE,M,,,,1501,0,40,SEP26,2013,
 12452602,Tran Hoang Phuoc Tri,VIE,M,,,,1788,15,40,SEP26,2011,
 12468843,Tran Hoang Quoc Kien,VIE,M,,,,1534,0,40,SEP26,2012,i
@@ -2353,6 +2356,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 12469467,Vo Anh Khoi,VIE,M,,,,1439,0,,SEP26,2011,
 12474932,Vo Anh Tuan,VIE,M,,,,1573,0,40,SEP26,2013,i
 12493066,Vo Dinh Khai Ca,VIE,M,,,,1497,0,40,SEP26,2016,
+561022055,Vo Duc Tri,VIE,M,,,,1555,6,40,SEP26,2003,
 12489778,Vo Duy Bach,VIE,M,,,,1547,0,40,SEP26,2018,
 12492647,Vo Gia Hung,VIE,M,,,,1471,0,40,SEP26,2011,
 12467383,Vo Hoang Huu Kiet,VIE,M,,,,1645,0,40,SEP26,2015,

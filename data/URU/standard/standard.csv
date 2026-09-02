@@ -41,8 +41,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3007529,"Appoloni, Facundo",URU,M,,,,1807,0,20,SEP26,2002,i
 3007537,"Appoloni, Juan",URU,M,,,,1780,0,40,SEP26,2001,i
 3009378,"Aprahamian, Tomas",URU,M,,,,1762,0,40,SEP26,2008,i
-3009173,"Aramburu, Gabriel",URU,M,,,,1912,0,20,SEP26,1976,
-3017729,"Araque, Silvana",URU,F,,,,1752,0,40,SEP26,2012,w
+3009173,"Aramburu, Gabriel",URU,M,,,,1911,4,20,SEP26,1976,
+3017729,"Araque, Silvana",URU,F,,,,1753,4,40,SEP26,2012,w
 3006646,"Araujo Abimorad, Leonardo",URU,M,,,,1805,0,20,SEP26,1961,
 3009262,"Araujo, Daniel",URU,M,,,,1687,0,20,SEP26,1986,i
 3002403,"Araya Gonzalez, Hamlet",URU,M,,,,1667,0,40,SEP26,1982,i
@@ -65,7 +65,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3012301,"Arruti, Carlos",URU,M,,,,1532,0,40,SEP26,1947,i
 3010422,"Astesiano, Martin",URU,M,,,,1671,0,40,SEP26,1982,i
 3001423,"Augoustis Funti, Alexis",URU,M,CM,,,1965,0,20,SEP26,1993,i
-3005011,"Avedisian, Alexander",URU,M,,,,1923,4,20,SEP26,1974,
+3005011,"Avedisian, Alexander",URU,M,,,,1920,7,20,SEP26,1974,
 3017273,"Avila, Jose Emilio",URU,M,,,,1684,4,20,SEP26,1969,
 3017974,"Avila, Lorenzo",URU,M,,,,1606,5,20,SEP26,2007,
 3027309,"Azambuya, Joel",URU,M,,,,1812,0,40,SEP26,2007,
@@ -73,10 +73,10 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3008398,"Ballestra, Juan",URU,M,,,,1728,0,40,SEP26,1965,
 3008967,"Balserini, Marcelo",URU,M,,,,1814,0,20,SEP26,1976,
 3022838,"Baptista, Emiliano",URU,M,,,,1653,0,40,SEP26,2009,
-3004694,"Barandiaran, Gabriel",URU,M,,,,1856,5,20,SEP26,1958,
+3004694,"Barandiaran, Gabriel",URU,M,,,,1838,7,20,SEP26,1958,
 3010511,"Baratta, Daniel",URU,M,,,,1555,0,20,SEP26,1981,i
 3024865,"Barbeito, Joaquin",URU,M,,,,1692,0,40,SEP26,1995,i
-3000567,"Barboza, Mauro",URU,M,,,,1883,0,20,SEP26,1947,
+3000567,"Barboza, Mauro",URU,M,,,,1874,3,20,SEP26,1947,
 3009963,"Barcelo Fraixanet, Mario",URU,M,,,,1704,0,20,SEP26,1941,i
 3002489,"Barcos, Luciano",URU,M,,,,1716,0,40,SEP26,1992,
 3006018,"Barla, Rafael",URU,M,,,,1911,0,20,SEP26,1960,i
@@ -89,16 +89,16 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3022722,"Barros, Mathias",URU,M,,,,1673,3,40,SEP26,2007,
 3010392,"Batista, Joao",URU,M,,,,1819,0,40,SEP26,1951,i
 3032809,"Battegazzore, Nicolas",URU,M,,,,1674,0,40,SEP26,1989,
-3000060,"Bauza, Alejandro",URU,M,FM,,,2102,9,20,SEP26,1959,
+3000060,"Bauza, Alejandro",URU,M,FM,,,2101,14,20,SEP26,1959,
 3002675,"Behar, Eli",URU,M,,,,1870,0,40,SEP26,1988,i
 3002551,"Belbey, Juan",URU,M,,,,1786,0,40,SEP26,1987,i
-3000443,"Belistri, Ubaldo",URU,M,,,,1879,0,20,SEP26,1942,
+3000443,"Belistri, Ubaldo",URU,M,,,,1865,3,20,SEP26,1942,
 3002853,"Bell, Enrique",URU,M,,,,1849,0,20,SEP26,1974,i
 3002861,"Beloso, Fabrizio",URU,M,,,,1732,0,20,SEP26,1970,
 3015190,"Belsito, Ivan",URU,M,,,,1813,0,20,SEP26,2006,
 3007286,"Beltran, Gaston",URU,M,,,,1635,0,40,SEP26,1984,i
 3035522,"Belza, Miguel",URU,M,,,,1476,6,40,SEP26,2017,
-3003108,"Benitez, Andres",URU,M,,,,2039,0,20,SEP26,1988,
+3003108,"Benitez, Andres",URU,M,,,,2050,4,20,SEP26,1988,
 3011348,"Benitez, Bruno",URU,M,,,,1599,0,40,SEP26,2007,i
 3039528,"Benitez, David",URU,M,,,,1405,0,40,SEP26,2012,
 3001970,"Benitez, Julio",URU,M,,,,1685,0,20,SEP26,1955,i
@@ -128,7 +128,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3004058,"Bortagaray, Alfredo",URU,M,,,,1710,0,40,SEP26,1968,i
 3011224,"Bossi, Hugo",URU,M,,,,1525,0,20,SEP26,1956,i
 3000346,"Bourgeois, William",URU,M,,,,1804,0,20,SEP26,1957,
-3000397,"Braso, Jorge",URU,M,,,,2062,0,20,SEP26,1960,
+3000397,"Braso, Jorge",URU,M,,,,2061,5,20,SEP26,1960,
 3000931,"Bril, Luis",URU,M,,,,1797,0,20,SEP26,1952,i
 3005984,"Brito, Juan",URU,M,,,,1878,0,20,SEP26,1946,i
 3010538,"Britos Machado, Kevin",URU,M,,,,1789,0,40,SEP26,1999,i
@@ -218,7 +218,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3020851,"Clavijo, Robert",URU,M,,,,1806,0,40,SEP26,2004,i
 3001415,"Collazo, Cesar",URU,M,,,,1985,0,20,SEP26,1967,i
 3016790,"Collazo, Eugenia",URU,F,,,,1460,0,40,SEP26,2006,wi
-3000699,"Colman, Matias",URU,M,,,,2088,0,20,SEP26,1987,
+3000699,"Colman, Matias",URU,M,,,,2102,3,20,SEP26,1987,
 3021076,"Colnago, Neizen",URU,M,,,,1617,0,40,SEP26,2007,i
 3001822,"Colombo, Camila",URU,F,WIM,WIM,,2084,0,20,SEP26,1990,wi
 3017915,"Colosi, Felipe",URU,M,,,,1856,0,20,SEP26,2007,
@@ -233,7 +233,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3007774,"Correa, Lucio",URU,M,,,,1551,0,40,SEP26,2006,i
 3029395,"Correa, Mario",URU,M,,,,1650,4,40,SEP26,1955,
 3035670,"Cortes, Ignacio",URU,M,,,,1489,0,40,SEP26,2010,
-3005666,"Costa, Anaclara",URU,F,,,,1773,0,20,SEP26,1991,wi
+3005666,"Costa, Anaclara",URU,F,,,,1762,3,20,SEP26,1991,w
 3009440,"Costa, Maria",URU,F,,,,1522,0,40,SEP26,2008,wi
 3014258,"Costabel, Emma",URU,F,,,,1411,8,40,SEP26,2009,w
 3029123,"Cotelo, Sebastian",URU,M,,,,1415,0,40,SEP26,2008,
@@ -246,7 +246,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3002080,"Cuitino, Eduardo",URU,M,,,,1851,0,20,SEP26,1974,i
 3000621,"Cukerman, Diego",URU,M,,,,2082,0,20,SEP26,1981,i
 3006166,"Cuneo, Jose",URU,M,,,,1621,0,40,SEP26,1955,i
-3000400,"Curi, Gabriel",URU,M,FM,,,2114,9,20,SEP26,1967,
+3000400,"Curi, Gabriel",URU,M,FM,,,2126,14,20,SEP26,1967,
 3011399,"da Luz, Fabio Elias",URU,M,,,,1662,0,40,SEP26,2001,i
 3017249,"Daguerre, Diego",URU,M,,,,1854,0,40,SEP26,1988,
 3021084,"Damonte, Fernando",URU,M,,,,1738,0,20,SEP26,1975,
@@ -254,7 +254,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3000940,"Davila Texeira, Mario",URU,M,,,,1787,0,20,SEP26,1956,
 3015270,"de Armas, Yahir",URU,M,,,,1763,0,20,SEP26,2006,
 3001563,"De Carvalho, Cesar",URU,M,,,,1800,0,40,SEP26,1992,i
-3001440,"De Cuadro, Dionisio",URU,M,,,,1702,0,20,SEP26,1960,
+3001440,"De Cuadro, Dionisio",URU,M,,,,1721,4,20,SEP26,1960,
 3033970,"de la Fuente, German",URU,M,,,,1764,0,40,SEP26,1991,
 3005186,"De la Torre, Andres",URU,M,,,,1697,5,20,SEP26,1961,
 3002527,"De Leon, Daiana",URU,F,WCM,WCM,,1740,0,20,SEP26,1993,w
@@ -269,7 +269,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3034593,"de los Santos, Joaquin",URU,M,,,,1527,0,40,SEP26,2011,
 3035697,"De Los Santos, Juan",URU,M,,,,1611,3,40,SEP26,2009,
 3011488,"de los Santos, Nahuel",URU,M,,,,1549,0,40,SEP26,2005,i
-3029190,"de Mello, Osmar",URU,M,,,,1649,0,40,SEP26,1953,
+3029190,"de Mello, Osmar",URU,M,,,,1655,4,40,SEP26,1953,
 3028569,"de Oliveira, Julian",URU,M,,,,1555,6,40,SEP26,2010,
 3029751,"De Paula, Ithan",URU,M,,,,1557,0,40,SEP26,2012,
 3028240,"De Poi, Ricardo",URU,M,,,,1769,0,40,SEP26,1968,i
@@ -309,7 +309,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3014339,"Duarte, Horacio",URU,M,,,,1665,0,20,SEP26,1995,i
 3035514,"Dubinsky, Mauricio",URU,M,,,,1622,0,40,SEP26,1994,
 3001270,"Durante, Aurelio",URU,M,,,,1920,0,20,SEP26,1962,
-3009670,"Dutra, Carmelo",URU,M,,,,1647,0,20,SEP26,1977,
+3009670,"Dutra, Carmelo",URU,M,,,,1664,4,20,SEP26,1977,
 3024296,"Eisses, Lemuel",URU,M,,,,1584,0,40,SEP26,1996,
 3000150,"El Ters, Antouan",URU,M,,,,2118,0,20,SEP26,1963,
 3011275,"Elena, Eduardo",URU,M,,,,2132,0,20,SEP26,2002,
@@ -320,7 +320,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3037541,"Escardo, Bruno",URU,M,,,,1837,4,,SEP26,2001,
 3023680,"Escaris, Lara",URU,F,,,,1526,6,40,SEP26,2013,w
 3029379,"Escobal, Jose",URU,M,,,,1498,0,40,SEP26,1984,
-3000176,"Escofet, Jaime",URU,M,,,,1987,0,20,SEP26,1951,
+3000176,"Escofet, Jaime",URU,M,,,,1983,4,20,SEP26,1951,
 3014800,"Espel, Luis",URU,M,,,,1852,0,20,SEP26,1968,
 3007324,"Espindola, Mathias",URU,M,,,,1771,0,20,SEP26,1986,i
 3030563,"Esquibel, Juan",URU,M,,,,1642,8,40,SEP26,2014,
@@ -350,7 +350,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3013707,"Fernandez Rotela, Wilson",URU,M,,,,1728,0,40,SEP26,1952,i
 3008177,"Fernandez Suarez, Marcos",URU,M,,,,1788,0,20,SEP26,1992,i
 3018547,"Fernandez Tubino, Alvaro",URU,M,,,,1653,0,40,SEP26,1957,i
-3021068,"Fernandez Van Raap, Marcela",URU,F,,,,1592,0,20,SEP26,1964,w
+3021068,"Fernandez Van Raap, Marcela",URU,F,,,,1621,5,20,SEP26,1964,w
 3012999,"Fernandez, Gonzalo",URU,M,,,,1505,0,40,SEP26,2009,i
 3008088,"Fernandez, Leopoldo",URU,M,,,,1628,0,40,SEP26,1942,i
 3020738,"Fernandez, Sergio Washington",URU,M,,,,1611,0,20,SEP26,2006,
@@ -374,7 +374,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3036677,"Forets, Sergio",URU,M,,,,1442,6,40,SEP26,2014,
 3004635,"Fossatti, Sebastian",URU,M,,,,1935,0,40,SEP26,1980,i
 3003477,"Froste, Juan",URU,M,,,,1690,0,40,SEP26,1978,i
-3012204,"Froz, Daniel",URU,M,,,,1745,0,20,SEP26,1975,
+3012204,"Froz, Daniel",URU,M,,,,1721,4,20,SEP26,1975,
 3040828,"Fuce, Daniel",URU,M,,,,1649,7,40,SEP26,2008,
 3008134,"Fuchs, Samuel",URU,M,,,,1552,0,40,SEP26,1950,i
 3008703,"Fuentes, Agustin",URU,M,,,,1692,0,20,SEP26,1989,i
@@ -388,7 +388,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3008630,"Gandara, Jorge",URU,M,,,,1681,0,20,SEP26,1948,i
 3000435,"Garcia Martinez, Alvaro",URU,M,,,,2000,5,20,SEP26,1966,
 3004988,"Garcia Meoni, Fernando",URU,M,,,,1565,0,20,SEP26,1975,
-3033651,"Garcia Piriz, Ezequiel",URU,M,,,,1517,3,40,SEP26,1999,
+3033651,"Garcia Piriz, Ezequiel",URU,M,,,,1557,8,20,SEP26,1999,
 3000869,"Garcia Silveira, Luis",URU,M,,,,2074,0,20,SEP26,1970,
 3000206,"Garcia, Ana",URU,F,,,,1987,0,20,SEP26,0,wi
 3002365,"Garcia, Axel",URU,M,,,,1844,0,20,SEP26,1993,i
@@ -399,7 +399,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3012409,"Garcia, Matias",URU,M,,,,1887,0,40,SEP26,1985,i
 3011453,"Garcia, Walter",URU,M,,,,1750,0,40,SEP26,1994,i
 3018601,"Gardella, Federico",URU,M,,,,1821,0,40,SEP26,1998,
-3009270,"Garlati, Alessandro",URU,M,,,,1612,3,20,SEP26,1970,
+3009270,"Garlati, Alessandro",URU,M,,,,1602,5,20,SEP26,1970,
 3016382,"Gasco, Maximiliano",URU,M,,,,1714,0,20,SEP26,1999,
 3003337,"Gatti, Santiago",URU,M,,,,1795,0,20,SEP26,1955,
 3000460,"Gaye, Gustavo",URU,M,,,,1975,0,20,SEP26,1969,
@@ -444,7 +444,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3023648,"Guedes, Isabella",URU,F,,,,1521,0,40,SEP26,2012,wi
 3007812,"Guedikian, Alan Misac",URU,M,,,,1695,0,20,SEP26,2003,i
 3004872,"Guerra, Bruno",URU,M,,,,1812,0,40,SEP26,1992,i
-3006328,"Guerra, Miguel",URU,M,,,,1695,0,20,SEP26,1954,
+3006328,"Guerra, Miguel",URU,M,,,,1684,2,20,SEP26,1954,
 3000478,"Guerrero, Alvaro",URU,M,,,,2078,10,20,SEP26,1971,
 3003167,"Guidali, Leonardo",URU,M,,,,1731,0,20,SEP26,1983,i
 3026809,"Guillen, Wilson",URU,M,,,,1541,0,40,SEP26,1959,
@@ -475,7 +475,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3001610,"Izquierdo, Sebastian",URU,M,,,,1938,5,20,SEP26,1991,
 3014533,"Jachoian, Cesar",URU,M,,,,1568,0,40,SEP26,1963,i
 3001709,"Jaureguizar, Esteban",URU,M,,,,2044,0,40,SEP26,1971,i
-3009114,"Kaciusis, Daniel",URU,M,,,,1659,5,20,SEP26,1960,
+3009114,"Kaciusis, Daniel",URU,M,,,,1632,8,20,SEP26,1960,
 3012247,"Kiel, Horacio",URU,M,,,,1765,0,,SEP26,1985,i
 3003035,"Kimelman, Gabriel",URU,M,CM,,,2221,0,20,SEP26,1999,i
 3000877,"Kliman, Daniel",URU,M,,,,1996,0,40,SEP26,1970,i
@@ -600,7 +600,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3000800,"Milan, Julio",URU,M,,,,1749,0,20,SEP26,1958,
 3004333,"Milan, Mathias",URU,M,,,,2011,0,20,SEP26,1992,i
 3001490,"Milans, Carlos",URU,M,,,,1881,0,20,SEP26,1956,i
-3009742,"Miller, Ariel",URU,M,,,,2069,9,20,SEP26,2007,
+3009742,"Miller, Ariel",URU,M,,,,2087,14,20,SEP26,2007,
 3003671,"Miraballes Lopez, Andres",URU,M,,,,1815,0,20,SEP26,1997,i
 3001156,"Miralles, Nicolas",URU,M,,,,2073,0,20,SEP26,1980,i
 3011941,"Miranda, Alvaro",URU,M,,,,1633,0,40,SEP26,1965,i
@@ -705,7 +705,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3008657,"Pereira Braz, Tiago",URU,M,,,,1856,0,40,SEP26,1982,
 3003760,"Pereira Gonzalez, Luis Felipe",URU,M,,,,1636,0,40,SEP26,1969,
 3017206,"Pereira Torres, Ruben",URU,M,,,,1819,0,40,SEP26,1990,i
-3009220,"Pereira, Gerardo",URU,M,,,,1479,0,20,SEP26,1961,
+3009220,"Pereira, Gerardo",URU,M,,,,1472,3,20,SEP26,1961,
 3033430,"Pereira, Jose",URU,M,,,,1490,0,40,SEP26,2006,
 3024342,"Pereira, Pablo",URU,M,,,,1805,0,40,SEP26,1991,i
 3020622,"Pereyra, Camilo",URU,M,,,,1723,0,40,SEP26,1993,i
@@ -732,19 +732,19 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3007197,"Pintos, Maximiliano",URU,M,,,,1704,0,20,SEP26,1994,i
 3003493,"Pintos, Miguel",URU,M,,,,1849,0,40,SEP26,1968,i
 3005917,"Pintos, Sergio",URU,M,,,,1600,0,20,SEP26,1958,
-3019608,"Piriz, Facundo",URU,M,,,,1812,9,20,SEP26,2007,
+3019608,"Piriz, Facundo",URU,M,,,,1808,12,20,SEP26,2007,
 3010473,"Pisano, Aaron",URU,M,,,,1611,0,40,SEP26,1999,i
 3028135,"Pisano, Marco",URU,M,,,,1819,0,40,SEP26,2005,
 3007995,"Pittaluga, Daniel",URU,M,,,,1686,0,40,SEP26,1976,i
 3021653,"Pizarro, Nick",URU,M,,,,1643,0,40,SEP26,2008,
 3015890,"Platero, Nicolas",URU,M,,,,1812,0,40,SEP26,1992,i
 3008959,"Podesta, Sofia",URU,F,,,,1612,0,20,SEP26,2007,wi
-3029220,"Polito, Evangelina",URU,F,,,,1685,4,40,SEP26,2008,w
+3029220,"Polito, Evangelina",URU,F,,,,1700,8,40,SEP26,2008,w
 3010317,"Ponce Miranda, Luca",URU,M,,,,1732,0,40,SEP26,2004,i
 3004740,"Ponce, Leonardo",URU,M,,,,1818,0,20,SEP26,1976,i
 3019250,"Pons, Rodrigo",URU,M,,,,1651,0,40,SEP26,2007,
-3035336,"Popov, Evgeny",URU,M,,,,1945,0,40,SEP26,1975,i
-3010414,"Popov, Mark",URU,M,,,,1953,0,20,SEP26,1997,
+3035336,"Popov, Evgeny",URU,M,,,,1933,4,40,SEP26,1975,
+3010414,"Popov, Mark",URU,M,,,,1944,4,20,SEP26,1997,
 3028879,"Porteiro, Clara",URU,F,,,,1448,0,40,SEP26,2016,w
 3006140,"Porteiro, Rodrigo",URU,M,,,,1716,0,20,SEP26,1983,
 3003485,"Pos, Marcos",URU,M,,,,1881,0,20,SEP26,1979,
@@ -780,11 +780,11 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3003817,"Rebollo, Alvaro",URU,M,,,,1720,0,40,SEP26,1986,i
 3032671,"Reboredo, Manuel",URU,M,,,,1514,0,40,SEP26,2010,
 3006956,"Recarte, Pablo",URU,M,,,,1670,0,20,SEP26,1955,
-3000826,"Recine, Leonel",URU,M,,,,1892,0,20,SEP26,1953,
+3000826,"Recine, Leonel",URU,M,,,,1869,3,20,SEP26,1953,
 3002942,"Reolon, Victor",URU,M,,,,1683,0,20,SEP26,1958,
 3008070,"Reseta, Miguel Angel",URU,M,,,,1813,0,40,SEP26,1955,i
 3007693,"Ressia, Lorenzo",URU,M,,,,1954,0,20,SEP26,2005,i
-3008916,"Rey, Antonio",URU,M,,,,1673,0,20,SEP26,1986,
+3008916,"Rey, Antonio",URU,M,,,,1663,3,20,SEP26,1986,
 3005089,"Rey, Fernando",URU,M,,,,1751,0,20,SEP26,1972,
 3022811,"Reyes, German",URU,M,,,,1547,0,40,SEP26,2006,i
 3028283,"Reyes, Matteo",URU,M,,,,1667,0,40,SEP26,2012,
@@ -852,7 +852,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3010660,"Ruiz, Alain",URU,M,,,,1780,0,40,SEP26,2001,i
 3034569,"Ruiz, Nicolas",URU,M,,,,1549,0,40,SEP26,1981,
 3011470,"Ruiz, Paul",URU,M,,,,1578,0,40,SEP26,2001,i
-3007405,"Ruiz, Ulises",URU,M,,,,1624,0,20,SEP26,1954,
+3007405,"Ruiz, Ulises",URU,M,,,,1617,3,20,SEP26,1954,
 3000761,"Sabatoni, Atila",URU,M,,,,1882,0,20,SEP26,1977,
 3014088,"Sabini, Luis",URU,M,,,,1500,0,40,SEP26,1938,i
 3002306,"Sagardoy, Alejo",URU,M,,,,1513,0,40,SEP26,1952,
@@ -876,7 +876,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3002608,"Sanguinetti, Luis",URU,M,,,,2178,0,20,SEP26,1991,i
 3033457,"Santin, Ivo",URU,M,,,,1550,0,40,SEP26,2003,i
 3004724,"Santos, Emiliano",URU,M,,,,1888,0,20,SEP26,1993,i
-3000419,"Saralegui, Mario",URU,M,,,,2046,0,20,SEP26,1949,
+3000419,"Saralegui, Mario",URU,M,,,,2073,5,20,SEP26,1949,
 3011496,"Sardi, Anibal",URU,M,,,,1784,0,20,SEP26,1965,
 3004732,"Sarobe, Raul",URU,M,,,,1863,0,40,SEP26,1948,i
 3003434,"Savino, Horacio",URU,M,,,,1905,0,20,SEP26,1983,i
@@ -956,7 +956,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3019993,"Tessadri, Lucca",URU,M,,,,1755,0,20,SEP26,2007,
 3033597,"Texeira, Lucas",URU,M,,,,1752,4,40,SEP26,2011,
 3021211,"Toker, Jorge",URU,M,,,,1643,0,40,SEP26,1948,i
-3007502,"Toledo, Javier",URU,M,,,,1820,0,20,SEP26,1971,
+3007502,"Toledo, Javier",URU,M,,,,1810,3,20,SEP26,1971,
 3028801,"Toma, Felipe",URU,M,,,,1522,0,40,SEP26,2009,i
 3021149,"Tonelli, Julian",URU,M,,,,1714,0,20,SEP26,2004,
 3014762,"Topolansky, Juan",URU,M,,,,1850,0,20,SEP26,1996,i
@@ -985,13 +985,13 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3017656,"Vanoli, Bautista",URU,M,,,,1451,0,40,SEP26,2011,i
 3002810,"Varalla, Gonzalo",URU,M,,,,1525,0,40,SEP26,1967,i
 3029204,"Varela, Ivan",URU,M,,,,1675,0,40,SEP26,2008,
-3031098,"Varela, Lautaro",URU,M,,,,1852,12,40,SEP26,2009,
+3031098,"Varela, Lautaro",URU,M,,,,1851,16,40,SEP26,2009,
 3016226,"Varela, Martin",URU,M,,,,1844,0,40,SEP26,2005,i
 3019519,"Varela, Mateo",URU,M,,,,2002,5,20,SEP26,2007,
 3003345,"Varenchak, Margarita",URU,F,,,,1662,0,40,SEP26,1957,wi
 3009076,"Vassallo, Julio",URU,M,,,,1763,0,20,SEP26,1970,
 3007677,"Vassallo, Mariano",URU,M,,,,1856,0,20,SEP26,2005,
-3001776,"Vaz Lacuesta, Leonardo",URU,M,,,,2069,0,20,SEP26,1991,
+3001776,"Vaz Lacuesta, Leonardo",URU,M,,,,2073,5,20,SEP26,1991,
 3011984,"Vazquez, Enrique",URU,M,,,,1740,0,40,SEP26,1988,i
 3007669,"Vazquez, Facundo",URU,M,IM,,,2411,37,10,SEP26,2004,
 3023958,"Vazquez, Ricardo",URU,M,,,,1670,0,40,SEP26,1967,i
@@ -1009,7 +1009,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3002322,"Vilarino, Leticia",URU,F,,,,1917,0,40,SEP26,1985,wi
 3017605,"Villa, Ramiro",URU,M,,,,1460,2,20,SEP26,2006,
 3020118,"Villalba, Maximo",URU,M,,,,1563,0,40,SEP26,2008,i
-3030954,"Villalba, Pacha",URU,M,,,,1750,8,40,SEP26,2012,
+3030954,"Villalba, Pacha",URU,M,,,,1763,11,40,SEP26,2012,
 3023141,"Villani, Diego",URU,M,,,,1773,0,40,SEP26,2008,i
 3001202,"Villarreal, Julio",URU,M,,,,1908,0,20,SEP26,1957,i
 3011402,"Vinas, Matias",URU,M,,,,1726,0,40,SEP26,2001,i
