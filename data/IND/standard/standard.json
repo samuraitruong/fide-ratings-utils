@@ -104580,21 +104580,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "45019550",
-    "Name": "Ashish Kumar",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1465",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1988",
-    "Flag": "i"
-  },
-  {
     "ID Number": "537083627",
     "Name": "Ashish Kumar",
     "Fed": "IND",
@@ -104608,6 +104593,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1996",
     "Flag": ""
+  },
+  {
+    "ID Number": "45019550",
+    "Name": "Ashish Kumar",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1465",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1988",
+    "Flag": "i"
   },
   {
     "ID Number": "25119575",
@@ -111300,21 +111300,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "48723673",
-    "Name": "Atharv Gupta",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1618",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2009",
-    "Flag": ""
-  },
-  {
     "ID Number": "33317003",
     "Name": "Atharv Gupta",
     "Fed": "IND",
@@ -111328,6 +111313,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2010",
     "Flag": "i"
+  },
+  {
+    "ID Number": "48723673",
+    "Name": "Atharv Gupta",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1618",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2009",
+    "Flag": ""
   },
   {
     "ID Number": "558092269",
@@ -251934,7 +251934,7 @@
     "OTit": "",
     "Rating": "1427",
     "Gms": "0",
-    "K": "40",
+    "K": "",
     "RatingMonth": "SEP26",
     "B-day": "2014",
     "Flag": "w"

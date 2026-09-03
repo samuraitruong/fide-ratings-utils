@@ -14640,21 +14640,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "23427701",
-    "Name": "Battaglia, Francesco",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1550",
-    "Gms": "7",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2013",
-    "Flag": ""
-  },
-  {
     "ID Number": "552012883",
     "Name": "Battaglia, Francesco",
     "Fed": "ITA",
@@ -14667,6 +14652,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "1990",
+    "Flag": ""
+  },
+  {
+    "ID Number": "23427701",
+    "Name": "Battaglia, Francesco",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1550",
+    "Gms": "7",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2013",
     "Flag": ""
   },
   {
@@ -58875,21 +58875,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "552008487",
-    "Name": "Cucinotta, Francesco",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1431",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2014",
-    "Flag": ""
-  },
-  {
     "ID Number": "23486678",
     "Name": "Cucinotta, Francesco",
     "Fed": "ITA",
@@ -58902,6 +58887,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "2008",
+    "Flag": ""
+  },
+  {
+    "ID Number": "552008487",
+    "Name": "Cucinotta, Francesco",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1431",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2014",
     "Flag": ""
   },
   {
@@ -82230,21 +82230,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "28567528",
-    "Name": "Ferraro, Giovanni",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1592",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2015",
-    "Flag": ""
-  },
-  {
     "ID Number": "28518322",
     "Name": "Ferraro, Giovanni",
     "Fed": "ITA",
@@ -82258,6 +82243,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2012",
     "Flag": "i"
+  },
+  {
+    "ID Number": "28567528",
+    "Name": "Ferraro, Giovanni",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1592",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2015",
+    "Flag": ""
   },
   {
     "ID Number": "23426195",
@@ -90810,21 +90810,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "552039889",
-    "Name": "Gallo, Simone",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1730",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "1995",
-    "Flag": ""
-  },
-  {
     "ID Number": "28514564",
     "Name": "Gallo, Simone",
     "Fed": "ITA",
@@ -90838,6 +90823,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1977",
     "Flag": "i"
+  },
+  {
+    "ID Number": "552039889",
+    "Name": "Gallo, Simone",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1730",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "1995",
+    "Flag": ""
   },
   {
     "ID Number": "822990",
@@ -97504,7 +97504,7 @@
     "Name": "Giordani, Luca",
     "Fed": "ITA",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "2096",
@@ -110310,21 +110310,6 @@
     "Flag": "w"
   },
   {
-    "ID Number": "2839151",
-    "Name": "Lai, Gabriele",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1507",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2006",
-    "Flag": "i"
-  },
-  {
     "ID Number": "2852263",
     "Name": "Lai, Gabriele",
     "Fed": "ITA",
@@ -110337,6 +110322,21 @@
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "2003",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "2839151",
+    "Name": "Lai, Gabriele",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1507",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2006",
     "Flag": "i"
   },
   {
@@ -128790,21 +128790,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "23461780",
-    "Name": "Martinelli, Alessandro",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1428",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2014",
-    "Flag": ""
-  },
-  {
     "ID Number": "2858334",
     "Name": "Martinelli, Alessandro",
     "Fed": "ITA",
@@ -128818,6 +128803,21 @@
     "RatingMonth": "SEP26",
     "B-day": "2007",
     "Flag": "i"
+  },
+  {
+    "ID Number": "23461780",
+    "Name": "Martinelli, Alessandro",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1428",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2014",
+    "Flag": ""
   },
   {
     "ID Number": "2894748",
@@ -140704,7 +140704,7 @@
     "Name": "Monteleone, Antonio",
     "Fed": "ITA",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "1874",
@@ -181545,21 +181545,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "23426047",
-    "Name": "Rossi, Paolo",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1622",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1961",
-    "Flag": "i"
-  },
-  {
     "ID Number": "28567315",
     "Name": "Rossi, Paolo",
     "Fed": "ITA",
@@ -181572,6 +181557,21 @@
     "K": "20",
     "RatingMonth": "SEP26",
     "B-day": "1978",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "23426047",
+    "Name": "Rossi, Paolo",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1622",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1961",
     "Flag": "i"
   },
   {
@@ -184125,21 +184125,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "552057410",
-    "Name": "Russo, Vincenzo",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1696",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2012",
-    "Flag": ""
-  },
-  {
     "ID Number": "23486007",
     "Name": "Russo, Vincenzo",
     "Fed": "ITA",
@@ -184153,6 +184138,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1995",
     "Flag": "i"
+  },
+  {
+    "ID Number": "552057410",
+    "Name": "Russo, Vincenzo",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1696",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2012",
+    "Flag": ""
   },
   {
     "ID Number": "2898816",
@@ -208875,21 +208875,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "2842187",
-    "Name": "Toso, Pietro",
-    "Fed": "ITA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1626",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1940",
-    "Flag": "i"
-  },
-  {
     "ID Number": "23470305",
     "Name": "Toso, Pietro",
     "Fed": "ITA",
@@ -208902,6 +208887,21 @@
     "K": "40",
     "RatingMonth": "SEP26",
     "B-day": "1998",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "2842187",
+    "Name": "Toso, Pietro",
+    "Fed": "ITA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1626",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1940",
     "Flag": "i"
   },
   {

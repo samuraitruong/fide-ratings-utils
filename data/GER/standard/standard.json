@@ -44910,21 +44910,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34660119",
-    "Name": "Boehme, Jonas",
-    "Fed": "GER",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1761",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "SEP26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "16207602",
     "Name": "Boehme, Jonas",
     "Fed": "GER",
@@ -44938,6 +44923,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1994",
     "Flag": ""
+  },
+  {
+    "ID Number": "34660119",
+    "Name": "Boehme, Jonas",
+    "Fed": "GER",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1761",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "SEP26",
+    "B-day": "2004",
+    "Flag": "i"
   },
   {
     "ID Number": "1270626",
@@ -109614,7 +109614,7 @@
     "OTit": "",
     "Rating": "1837",
     "Gms": "0",
-    "K": "20",
+    "K": "",
     "RatingMonth": "SEP26",
     "B-day": "1954",
     "Flag": ""
@@ -326070,21 +326070,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "4652401",
-    "Name": "Mueller, Thomas",
-    "Fed": "GER",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1955",
-    "Gms": "8",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1960",
-    "Flag": ""
-  },
-  {
     "ID Number": "12948330",
     "Name": "Mueller, Thomas",
     "Fed": "GER",
@@ -326098,6 +326083,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1967",
     "Flag": "i"
+  },
+  {
+    "ID Number": "4652401",
+    "Name": "Mueller, Thomas",
+    "Fed": "GER",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1955",
+    "Gms": "8",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1960",
+    "Flag": ""
   },
   {
     "ID Number": "4644565",

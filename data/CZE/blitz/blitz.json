@@ -26209,8 +26209,8 @@
     "Name": "Krejci, Vera Marie",
     "Fed": "CZE",
     "Sex": "F",
-    "Title": "",
-    "WTit": "",
+    "Title": "WCM",
+    "WTit": "WCM",
     "OTit": "",
     "Rating": "1850",
     "Gms": "0",
@@ -41610,21 +41610,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "347299",
-    "Name": "Plzak, Jan",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1813",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "SEP26",
-    "B-day": "1980",
-    "Flag": "i"
-  },
-  {
     "ID Number": "398420",
     "Name": "Plzak, Jan",
     "Fed": "CZE",
@@ -41638,6 +41623,21 @@
     "RatingMonth": "SEP26",
     "B-day": "1954",
     "Flag": ""
+  },
+  {
+    "ID Number": "347299",
+    "Name": "Plzak, Jan",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1813",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "SEP26",
+    "B-day": "1980",
+    "Flag": "i"
   },
   {
     "ID Number": "23729597",

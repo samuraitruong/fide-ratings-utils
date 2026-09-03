@@ -341,7 +341,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 10616764,"Adel, Sara",EGY,F,WFM,WFM,NA,1952,0,20,SEP26,2003,w
 10696601,"Adel, Tarek",EGY,M,,,,1603,0,20,SEP26,1977,i
 10698990,"Adly Isaq, Maged",EGY,M,,,,1626,0,20,SEP26,2004,i
-10601619,"Adly, Ahmed",EGY,M,GM,FT,,2605,8,10,SEP26,1987,
+10601619,"Adly, Ahmed",EGY,M,GM,"FT,FST",,2605,8,10,SEP26,1987,
 10626816,"Adly, Ibrahim",EGY,M,,,,1742,0,20,SEP26,1964,
 555013457,"Adnan Mohamed, Joud",EGY,F,,,,1501,0,40,SEP26,2015,w
 10650539,"Afifi, Mahmoud",EGY,M,,,,1911,0,20,SEP26,1986,i
@@ -1529,8 +1529,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54272823,"Hassan Abdel Aty, Sayed",EGY,M,,,,1578,0,20,SEP26,1962,i
 555019510,"Hassan Abdul Mawla, Mohmed",EGY,M,,,,1742,0,20,SEP26,1997,
 54202990,"Hassan Abo Raya, Ahmed",EGY,M,,,,1515,0,40,SEP26,2013,i
-54234506,"Hassan Ahmed, Wael",EGY,M,,,,1810,0,20,SEP26,1974,i
 10615393,"Hassan Ahmed, Wael",EGY,M,,,,1765,0,20,SEP26,1974,i
+54234506,"Hassan Ahmed, Wael",EGY,M,,,,1810,0,20,SEP26,1974,i
 10618406,"Hassan Aly, Ahmed",EGY,M,,,,1678,0,20,SEP26,1983,i
 54223954,"Hassan Amal, Ezzedin",EGY,M,,,,1537,0,20,SEP26,1997,i
 54223253,"Hassan Amr, Sama",EGY,F,,NA,,1482,0,20,SEP26,2005,wi
