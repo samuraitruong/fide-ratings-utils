@@ -10,7 +10,7 @@
     "Rating": "1760",
     "Gms": "0",
     "K": "40",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1962",
     "Flag": "i"
   },
@@ -22,12 +22,12 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1988",
-    "Gms": "0",
+    "Rating": "1974",
+    "Gms": "9",
     "K": "20",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1967",
-    "Flag": "i"
+    "Flag": ""
   },
   {
     "ID Number": "21400440",
@@ -40,7 +40,7 @@
     "Rating": "1646",
     "Gms": "0",
     "K": "40",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1991",
     "Flag": "i"
   },
@@ -53,9 +53,9 @@
     "WTit": "",
     "OTit": "",
     "Rating": "1840",
-    "Gms": "2",
+    "Gms": "0",
     "K": "40",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1973",
     "Flag": ""
   },
@@ -70,7 +70,7 @@
     "Rating": "1731",
     "Gms": "0",
     "K": "40",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1963",
     "Flag": "i"
   },
@@ -85,7 +85,7 @@
     "Rating": "1860",
     "Gms": "0",
     "K": "40",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1956",
     "Flag": "i"
   },
@@ -97,12 +97,27 @@
     "Title": "FM",
     "WTit": "",
     "OTit": "",
-    "Rating": "1940",
-    "Gms": "0",
+    "Rating": "1971",
+    "Gms": "9",
     "K": "40",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1975",
-    "Flag": "i"
+    "Flag": ""
+  },
+  {
+    "ID Number": "28900111",
+    "Name": "Kanda, Josue",
+    "Fed": "COD",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1958",
+    "Gms": "9",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2001",
+    "Flag": ""
   },
   {
     "ID Number": "21400890",
@@ -115,7 +130,7 @@
     "Rating": "1717",
     "Gms": "0",
     "K": "40",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1987",
     "Flag": "i"
   },
@@ -127,10 +142,10 @@
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1804",
-    "Gms": "0",
+    "Rating": "1803",
+    "Gms": "9",
     "K": "",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1998",
     "Flag": ""
   },
@@ -145,7 +160,7 @@
     "Rating": "1789",
     "Gms": "0",
     "K": "40",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1972",
     "Flag": "i"
   },
@@ -160,9 +175,39 @@
     "Rating": "1832",
     "Gms": "0",
     "K": "20",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1960",
     "Flag": "i"
+  },
+  {
+    "ID Number": "21400628",
+    "Name": "Nkubuluku Diangienda Chadi",
+    "Fed": "COD",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1704",
+    "Gms": "8",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1997",
+    "Flag": ""
+  },
+  {
+    "ID Number": "21401128",
+    "Name": "Omari Tshibola Sagesse",
+    "Fed": "COD",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1512",
+    "Gms": "5",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2000",
+    "Flag": "w"
   },
   {
     "ID Number": "21400091",
@@ -175,8 +220,23 @@
     "Rating": "1761",
     "Gms": "0",
     "K": "40",
-    "RatingMonth": "SEP26",
+    "RatingMonth": "OCT26",
     "B-day": "1982",
     "Flag": "i"
+  },
+  {
+    "ID Number": "21401063",
+    "Name": "Sankya, Tracy",
+    "Fed": "COD",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1404",
+    "Gms": "5",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1991",
+    "Flag": "w"
   }
 ]

@@ -1,4 +1,4 @@
-ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA SEP26 Gms K  B-day Flag
+ID Number      Name                                                         Fed Sex Tit  WTit OTit           FOA OCT26 Gms K  B-day Flag
 7903375        Abbou, Jugurtha                                              ALG M                                1882  0   20 1984  i   
 7981104        Abdeladim, Fares                                             ALG M                                1516  0   20 2000      
 7902034        Abdelali,Abdallah                                            ALG M                                2033  0   20 1984  i   
@@ -48,7 +48,7 @@ ID Number      Name                                                         Fed 
 7926057        Ait Azzouz, Fouad                                            ALG M                                1488  0   40 2010      
 7932723        Ait Azzouz, Khaled                                           ALG M                                1457  0   40 2009      
 7960808        Ait Bessai, Ryan                                             ALG M                                1623  0   40 2009      
-7927380        Ait Oudhia, Manel                                            ALG F                                1597  0   40 2009  w   
+7927380        Ait Oudhia, Manel                                            ALG F   WCM  WCM                     1597  0   40 2009  w   
 7957262        Ait Sadi, Lyna                                               ALG F                                1408  0   40 2009  w   
 7902085        Ait Youcef , Noureddine                                      ALG M                                1591  0   20 1963  i   
 7937296        Aitouali, Idir                                               ALG M                                1687  0   20 1989  i   
@@ -56,7 +56,7 @@ ID Number      Name                                                         Fed 
 7903740        Akhal, Idir                                                  ALG M                                1826  0   20 0     i   
 7981007        Akhal, Yacine                                                ALG M                                1742  0   20 1970      
 7901267        Aknouche, Ameur                                              ALG M                                2023  0   20 1979  i   
-7970897        Aksas, Mostafa                                               ALG M                                1555  0   40 2012      
+7970897        Aksas, Mostafa                                               ALG M                                1555  0   40 2012  i   
 7926065        Alili , Anil                                                 ALG M                                1500  0   40 2009  i   
 7908164        Alim, Mounir                                                 ALG M                                1848  0   20 0         
 7913648        Alioueche, Kerboua Louay                                     ALG M                                1533  0   20 2004  i   
@@ -111,7 +111,7 @@ ID Number      Name                                                         Fed 
 7925719        Azzoug, Nazim                                                ALG M                                1534  0   20 2007  i   
 7945248        Babahammou, Otmane                                           ALG M                                1527  0   20 2003  i   
 7955707        Bachir Bouyadjera, Younes                                    ALG M                                1684  0   20 2003  i   
-7927576        Badji, Moncef                                                ALG M                                1783  0   20 1989      
+7927576        Badji, Moncef                                                ALG M                                1783  0   20 1989  i   
 7925360        Bahlouli, Bouzid                                             ALG M                                1772  0   20 1996  i   
 7976747        Baiche, Idir                                                 ALG M                                1593  0   40 2009      
 7904177        Bakhlouf, Boudjellal                                         ALG M                                1747  0   20 1947      
@@ -121,7 +121,7 @@ ID Number      Name                                                         Fed 
 7901682        Bakouri, Abdelmajid                                          ALG M                                1890  0   20 1985      
 7900040        Bammoune, Abd'Ennacer                                        ALG M   FM                           2232  0   20 1961      
 602825         Banat, Rizlene                                               ALG F   WFM  WFM                     1864  0   20 1998  wi  
-7910630        Barama, Nail                                                 ALG M                                1775  0   20 1998      
+7910630        Barama, Nail                                                 ALG M                                1770  11  20 1998      
 7932758        Barkat, Raouf                                                ALG M                                1828  0   20 1988      
 7916973        Barkat,Abdelouaheb                                           ALG M                                1859  0   20 1996  i   
 7977077        Baroudi, Abderrezak                                          ALG M                                1575  0   20 1975      
@@ -148,7 +148,7 @@ ID Number      Name                                                         Fed 
 7942478        Belgaid, Abderaouf                                           ALG M                                1690  0   20 1995      
 7951698        Belhadj, Yakoub                                              ALG M                                1739  0   20 1990      
 7905467        Belkhir, Mustapha                                            ALG M                                1867  0   20 1963  i   
-696358         Bellahcene, Bilel                                            ALG M   GM                           2568  9   10 1998      
+696358         Bellahcene, Bilel                                            ALG M   GM                           2558  13  10 1998      
 7912927        Bellebcir,Tarek                                              ALG M                                1929  0   20 1975  i   
 7921667        Bellemou, Kamal                                              ALG M                                1591  0   20 1997      
 7938667        Bellih, Abou Bakr Essedik                                    ALG M                                1661  0   20 1987      
@@ -157,7 +157,7 @@ ID Number      Name                                                         Fed 
 7953054        Belmecheri , Hafsa                                           ALG F                                1465  0   40 2014  wi  
 7953020        Belmecheri , Nour                                            ALG F                                1463  0   40 2019  wi  
 7900856        Belouadah, Saad                                              ALG M   IM                           2288  0   20 1979      
-7900899        Benabadji, Abderrahmane                                      ALG M                                1849  0   20 1963      
+7900899        Benabadji, Abderrahmane                                      ALG M                                1864  6   20 1963      
 7901879        Benabdallah , Naim                                           ALG M                                1867  0   20 1979  i   
 7905149        Benabdelaziz, Mohamed                                        ALG M                                1996  0   20 1983  i   
 7961510        Benabdeslam, Abdelouadoud                                    ALG M                                1566  0   20 2003  i   
@@ -250,7 +250,7 @@ ID Number      Name                                                         Fed 
 7903464        Boudjourfa, Adlane                                           ALG M                                1969  0   20 1979  i   
 7978154        Boudoukha, Djaber Baha Eddine                                ALG M                                1666  0   20 2003      
 7974620        Bougera, Ahmed Yacine                                        ALG M                                1660  0   20 2004      
-7908270        Boughambouz, Mehdi                                           ALG M                                1891  0   20 1989      
+7908270        Boughambouz, Mehdi                                           ALG M                                1876  11  20 1989      
 7963025        Boughanmi, Imed Eddine                                       ALG M                                1563  0   20 2001      
 7968590        Bougheraba, Mohamed                                          ALG M                                1413  0   40 2015  i   
 7921420        Bouguerne, Fouzi                                             ALG M                                1929  0   20 1988  i   
@@ -330,7 +330,7 @@ ID Number      Name                                                         Fed 
 7948557        Chafai, Ryad                                                 ALG M                                1538  0   20 2002  i   
 7923031        Chaib, Chakib                                                ALG M                                1640  0   40 2009      
 7903774        Chaib, Mohamed Amine                                         ALG M                                1917  0   20 1994  i   
-7943806        Chaili, Yasser Idris                                         ALG M                                1759  0   40 2010      
+7943806        Chaili, Yasser Idris                                         ALG M                                1759  0   40 2010  i   
 7912978        Chakali, Saadane                                             ALG M                                1680  0   20 1974  i   
 7903200        Chami, Mhamed                                                ALG M                                1629  0   20 1971      
 7933460        Chanafi, Abderrazak                                          ALG M                                1920  0   20 1993      
@@ -351,8 +351,8 @@ ID Number      Name                                                         Fed 
 7922850        Chouder, Yahia El Hakim                                      ALG M                                1447  0   20 2000  i   
 7902565        Choufa, Mohamed Ridha                                        ALG M                                1732  0   20 1970  i   
 7903502        Daadi, Halima                                                ALG F                                1674  0   20 1993  wi  
-7959460        Daas, Abdelouaheb                                            ALG M                                1530  0   40 2015      
-7958277        Daas, Med Lemnaouar                                          ALG M                                1681  0   40 2009      
+7959460        Daas, Abdelouaheb                                            ALG M                                1530  0   40 2015  i   
+7958277        Daas, Med Lemnaouar                                          ALG M                                1681  0   40 2009  i   
 7946155        Dacher, Djaber                                               ALG M                                1746  0   20 1997  i   
 7903049        Dahel, Abdelhamid                                            ALG M                                1842  0   20 1967  i   
 7917236        Dahmani,Aya maylina                                          ALG F                                1449  0   40 2008  wi  
@@ -381,7 +381,7 @@ ID Number      Name                                                         Fed 
 7909861        Djeddi, Louiza                                               ALG F                                1629  0   20 2003  wi  
 7902220        Djeddi, Mohamed                                              ALG M                                1848  0   20 1971      
 7971028        Djellaoui, Saleh                                             ALG M                                1536  0   20 1994  i   
-7933665        Djelmami , Said                                              ALG M                                1554  0   20 2000      
+7933665        Djelmami , Said                                              ALG M                                1554  0   20 2000  i   
 7903790        Djema, Abdennour                                             ALG M                                1794  0   20 1980      
 7905742        Djemaa, Hoda                                                 ALG F                                1546  0   20 2002  wi  
 7938152        Djenan , Samir                                               ALG M                                1700  0   20 2001  i   
@@ -426,7 +426,7 @@ ID Number      Name                                                         Fed 
 7905815        Ferrah , Rabah                                               ALG M                                1681  0   20 1969  i   
 7901569        Ferrah, Hacene                                               ALG M                                1779  0   20 1965      
 7977310        Fezoui, Rafik Ali                                            ALG M                                1450  0   40 2013      
-7943105        Fodil , Abderrahmane                                         ALG M                                1754  0   40 2013      
+7943105        Fodil , Abderrahmane                                         ALG M                                1754  0   40 2013  i   
 7927207        Fortas , Mohamed El Acil                                     ALG M                                1669  0   20 2004  i   
 7971036        Foudil Cherif, Mustapha                                      ALG M                                1491  0   20 1947      
 7923066        Gani, Mohand Cherif                                          ALG M                                1854  0   20 1994      
@@ -441,7 +441,7 @@ ID Number      Name                                                         Fed 
 7900821        Ghimouz, Chakib                                              ALG M                                1976  0   20 1980  i   
 7901976        Ghlib,Boutouchent                                            ALG M                                2088  0   20 1979  i   
 7948751        Ghomri, Abdelwahab                                           ALG M                                1803  0   20 1999  i   
-7944942        Ghoualmi, Merouane                                           ALG M                                1587  0   20 2000      
+7944942        Ghoualmi, Merouane                                           ALG M                                1587  0   20 2000  i   
 7974515        Ghouti, Yasser                                               ALG M                                1434  0   20 2006  i   
 7967993        Gouasmi, Yasser Billal                                       ALG M                                1509  0   40 2012  i   
 7921730        Goudjili, Riadh                                              ALG M                                1804  0   20 1995  i   
@@ -460,7 +460,7 @@ ID Number      Name                                                         Fed 
 7900511        Gueroui, Nacereddine                                         ALG M             NA                 1918  0   20 1969  i   
 7928793        Guerram, Youcef                                              ALG M                                1614  0   20 1994  i   
 7908458        guettiche,Louis                                              ALG M                                1800  0   20 1963  i   
-7943024        Habes, Meriem Batoul                                         ALG F                                1547  0   40 2010  w   
+7943024        Habes, Meriem Batoul                                         ALG F                                1547  0   40 2010  wi  
 7960026        Habib, Salah Mounir                                          ALG M                                1544  0   20 2000  i   
 7908695        Haddad, Brahim                                               ALG M                                1911  0   20 1960  i   
 7935951        Haddadi, Alycia                                              ALG F                                1463  0   40 2008  w   
@@ -530,13 +530,13 @@ ID Number      Name                                                         Fed 
 7906820        Herrous, Nabil                                               ALG M                                1701  0   20 1973  i   
 7916132        Hmamed, Oussama                                              ALG M                                1821  0   20 1997  i   
 7955979        Hoggas, Azzeddine                                            ALG M                                1663  0   20 1992      
-7979215        Houamria, Mohamed Radouane                                   ALG M                                1510  4   20 2007      
+7979215        Houamria, Mohamed Radouane                                   ALG M                                1510  0   20 2007      
 7938772        Houria, Mohamed Seghir                                       ALG M                                1545  0   20 2000  i   
 7964099        Ibaazizen, Amel                                              ALG F                                1418  0   40 2013  wi  
 7964021        Ibaazizen, Sofiane                                           ALG M                                1475  0   40 2013  i   
 7951574        Ibazizen, Layachi                                            ALG M                                1434  0   20 1998  i   
 7905009        Ibbou, Schahinez                                             ALG F             NA                 1571  0   20 2000  wi  
-7903545        Iboud, Samir                                                 ALG M                                1790  0   20 1975      
+7903545        Iboud, Samir                                                 ALG M                                1770  11  20 1975      
 7905904        Idir, Omar                                                   ALG M                                1773  0   20 2002  i   
 7910100        Idjeri, Yanis                                                ALG M                                1997  0   20 1991      
 7970765        Iftissen, Messipsa                                           ALG M                                1542  0   20 2006      
@@ -554,7 +554,7 @@ ID Number      Name                                                         Fed 
 7907575        Kacem, Mohamed                                               ALG M                                1747  0   20 1999  i   
 7947879        Kacemi, Yacine                                               ALG M                                1817  0   20 1989  i   
 7954786        Kacha, Wail                                                  ALG M                                1565  0   40 2008      
-7927347        Kacimi, Adel                                                 ALG M                                1584  10  20 1991      
+7927347        Kacimi, Adel                                                 ALG M                                1584  0   20 1991      
 7969678        Kadari, Mouataz Abdeljalil                                   ALG M                                1602  0   20 2004      
 7932910        Kadded, Oussama                                              ALG M                                1555  0   20 1990  i   
 7901127        Kadi, Mohamed El Mouldi                                      ALG M                                2082  0   20 1979  i   
@@ -591,7 +591,7 @@ ID Number      Name                                                         Fed 
 7964498        Khaouni, Assam                                               ALG M                                1673  0   20 1999  i   
 7908717        Kharif, Hafid                                                ALG M                                1848  0   20 1964  i   
 7952384        Khefif, Mohamed                                              ALG M                                1710  0   20 1974      
-7943113        Khelfallah , Ikhlas                                          ALG F                                1571  5   40 2015  w   
+7943113        Khelfallah , Ikhlas                                          ALG F                                1571  0   40 2015  w   
 7900988        Khelfallah, Omar Badreddine                                  ALG M   CM        FT                 2047  0   20 1982  i   
 7973683        Khelifa, Yacine                                              ALG M                                1574  0   20 1960      
 7910843        Khelladi, Elias                                              ALG M                                1432  0   20 2006  i   
@@ -606,7 +606,7 @@ ID Number      Name                                                         Fed 
 7908350        Khetabi, Radi                                                ALG M                                1692  0   20 2001  i   
 7954085        Khichane, Abdelaziz                                          ALG M                                1470  0   40 2009  i   
 7942257        Khider, Amilia                                               ALG F                                1611  0   40 2012  w   
-7957483        Khider, Ania                                                 ALG F                                1459  0   40 2016  w   
+7957483        Khider, Ania                                                 ALG F                                1459  0   40 2016  wi  
 7912420        Khil , Abdelghani                                            ALG M                                1757  0   20 1985      
 7944870        Khilouf, Rima                                                ALG F                                1592  0   40 2008  w   
 7943857        Kilardj, Abdelouakil                                         ALG M                                1500  0   40 2011      
@@ -742,8 +742,8 @@ ID Number      Name                                                         Fed 
 7939248        Nasri, Walid                                                 ALG M                                1507  0   20 1984  i   
 7904860        Nassr, Ahmed                                                 ALG M   IM                           1976  0   20 1999  i   
 7900520        Nassr, Ali                                                   ALG M   IM                           2229  0   20 1996  i   
-7908075        Nassr, Lina                                                  ALG F   WIM  WIM                     1938  0   20 2003  w   
-7911696        Nassr, Manel                                                 ALG F   WCM  WCM                     1745  9   20 2006  w   
+7908075        Nassr, Lina                                                  ALG F   WIM  WIM                     1931  5   20 2003  w   
+7911696        Nassr, Manel                                                 ALG F   WCM  WCM                     1745  0   20 2006  w   
 7900163        Nassr, Nacer                                                 ALG M                                1919  0   20 1967      
 7901461        Nassr, Rania                                                 ALG F   WFM  WFM                     1809  0   20 2002  wi  
 7920296        Nassr, Ryma                                                  ALG F   WFM  WFM                     1732  0   40 2009  wi  
@@ -901,7 +901,7 @@ ID Number      Name                                                         Fed 
 7941030        Taoui, Abdelkrim                                             ALG M                                1756  0   20 2000  i   
 7932952        Taouilt , Naim                                               ALG M                                1438  0   20 2006  i   
 7932960        Taouilt , Yanis                                              ALG M                                1483  0   40 2009      
-7900562        Taourchi, Hakem-Sidali                                       ALG M                                1856  7   20 1977      
+7900562        Taourchi, Hakem-Sidali                                       ALG M                                1856  0   20 1977      
 7949740        Taraft, Sihem                                                ALG F                                1408  0   40 2011  w   
 7957173        Tataiat, Wassim Nizar                                        ALG M                                1458  0   40 2016  i   
 7904460        Tazaroute , Abdelmalek                                       ALG M                                1770  0   20 1966  i   
@@ -914,7 +914,7 @@ ID Number      Name                                                         Fed 
 7928718        Tiar, Mohamed Lakhder                                        ALG M                                1752  0   20 1998  i   
 7974655        Tifala, khalil                                               ALG M                                1486  0   40 2008      
 7933053        Tifrit, Abdelkarim                                           ALG M                                1628  0   20 1986  i   
-7940190        Titah, Atef                                                  ALG M                                1457  0   20 1983      
+7940190        Titah, Atef                                                  ALG M                                1457  0   20 1983  i   
 7933126        Tobal, Lazhar                                                ALG M                                1713  0   20 1970  i   
 7944640        Touabtia, Ilyas                                              ALG M                                1442  0   40 2014  i   
 7955537        Touahar, Khireddine                                          ALG M                                1855  0   40 2008      
@@ -948,7 +948,7 @@ ID Number      Name                                                         Fed 
 7921500        Zaidi, Haroun                                                ALG M                                1806  0   20 1989  i   
 7911793        Zane, Rayane                                                 ALG M                                1962  0   20 2004      
 7971052        Zarzar, Boualem                                              ALG M                                1728  0   20 1961  i   
-7974248        Zeghimi, Samy                                                ALG M                                1445  0   40 2010      
+7974248        Zeghimi, Samy                                                ALG M                                1445  0   40 2010  i   
 7965630        Zehraoui, Massil                                             ALG M                                1503  0   40 2016      
 7926537        Zerarga , Ikram                                              ALG F                                1453  0   40 2010  wi  
 7932995        Zerarga, Mouloud                                             ALG M                                1446  0   20 1972      
