@@ -1065,21 +1065,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "13793730",
-    "Name": "Abdukarimova, Damira",
-    "Fed": "KAZ",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1490",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2006",
-    "Flag": "wi"
-  },
-  {
     "ID Number": "447016051",
     "Name": "Abdukarimova, Damira",
     "Fed": "KAZ",
@@ -1093,6 +1078,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2010",
     "Flag": "w"
+  },
+  {
+    "ID Number": "13793730",
+    "Name": "Abdukarimova, Damira",
+    "Fed": "KAZ",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1490",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2006",
+    "Flag": "wi"
   },
   {
     "ID Number": "447005386",
@@ -78648,7 +78648,7 @@
     "ID Number": "13729870",
     "Name": "Tumabaeva, Roza",
     "Fed": "KAZ",
-    "Sex": "M",
+    "Sex": "F",
     "Title": "",
     "WTit": "",
     "OTit": "",
@@ -78657,7 +78657,7 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "2005",
-    "Flag": ""
+    "Flag": "w"
   },
   {
     "ID Number": "447040157",

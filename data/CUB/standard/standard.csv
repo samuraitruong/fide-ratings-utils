@@ -299,7 +299,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3505995,"Bueno Fortuna, Francisco",CUB,M,,,,2229,0,20,OCT26,1965,i
 3509958,"Bueno Gauna, Cristian Alejandro",CUB,M,,,,2106,8,20,OCT26,1994,
 3515400,"Bueno Perez, Jesus Angel",CUB,M,FM,,,2281,0,20,OCT26,1997,i
-3500691,"Bueno Perez, Lazaro Antonio",CUB,M,IM,FA,,2222,0,20,OCT26,1956,i
+3500691,"Bueno Perez, Lazaro Antonio",CUB,M,IM,"FT,FA",,2222,0,20,OCT26,1956,i
 3531813,"Burgos Brito, Manuel A",CUB,M,,,,1718,0,20,OCT26,2007,i
 3528111,"Caballero Blanco, Osiel",CUB,M,,,,1842,0,20,OCT26,1991,i
 3535878,"Caballero Fernandez, Dachelis Maria",CUB,F,,,,1833,0,40,OCT26,2011,w
@@ -1043,7 +1043,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3528669,"Gonzalez Perez, Camil",CUB,F,,,,1590,0,20,OCT26,2007,wi
 3506681,"Gonzalez Perez, Renier",CUB,M,,,,2023,0,40,OCT26,1971,i
 3538559,"Gonzalez Perez, Rodrigo",CUB,M,,,,1684,0,40,OCT26,2011,i
-3504972,"Gonzalez Perez, Vladimir Renier",CUB,M,,,,2102,0,20,OCT26,1963,i
+3504972,"Gonzalez Perez, Vladimir Renier",CUB,M,,FI,,2102,0,20,OCT26,1963,i
 3521621,"Gonzalez Pina, Evelyn",CUB,F,,,,1945,0,20,OCT26,2002,wi
 3514641,"Gonzalez Pineiro, Orelvis Lazaro",CUB,M,,,,1758,0,40,OCT26,1986,i
 3523608,"Gonzalez Porro, Armando Andres",CUB,M,,,,2001,0,20,OCT26,1957,i
@@ -1489,7 +1489,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 3535690,"Manso Hernandez, Jose Alberto",CUB,M,,,,1709,0,40,OCT26,2002,
 3527182,"Manso Lopez, Rosangela",CUB,F,,,,1920,0,20,OCT26,2005,wi
 3502554,"Maqueira Gil, Iran",CUB,M,,,,2085,0,20,OCT26,1977,i
-3536190,"Maranon Hernandez, Ricardo David",CUB,M,,,,1538,5,40,OCT26,2015,
 3519180,"Marcano Galban, Abdel",CUB,M,,,,1927,0,40,OCT26,1977,i
 3528626,"Marcano Romero, Lucas Daniel",CUB,M,,,,1715,0,40,OCT26,2008,i
 3530973,"Marcheco Pimentel, Jessica Iliana",CUB,M,,,,1642,0,20,OCT26,2005,i

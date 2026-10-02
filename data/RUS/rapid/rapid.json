@@ -15555,21 +15555,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "54105781",
-    "Name": "Alekseev, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1847",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1939",
-    "Flag": "i"
-  },
-  {
     "ID Number": "44138105",
     "Name": "Alekseev, Vladimir",
     "Fed": "RUS",
@@ -15582,6 +15567,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1970",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "54105781",
+    "Name": "Alekseev, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1847",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1939",
     "Flag": "i"
   },
   {
@@ -21615,21 +21615,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "522095411",
-    "Name": "Andreev, Ilya",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1463",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2005",
-    "Flag": ""
-  },
-  {
     "ID Number": "55716903",
     "Name": "Andreev, Ilya",
     "Fed": "RUS",
@@ -21643,6 +21628,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2009",
     "Flag": "i"
+  },
+  {
+    "ID Number": "522095411",
+    "Name": "Andreev, Ilya",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1463",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2005",
+    "Flag": ""
   },
   {
     "ID Number": "55785115",
@@ -22140,21 +22140,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55611010",
-    "Name": "Andreev, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1802",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1951",
-    "Flag": "i"
-  },
-  {
     "ID Number": "24225754",
     "Name": "Andreev, Vladimir",
     "Fed": "RUS",
@@ -22167,6 +22152,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1950",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55611010",
+    "Name": "Andreev, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1802",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1951",
     "Flag": "i"
   },
   {
@@ -24180,21 +24180,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55875700",
-    "Name": "Anisimov, Daniil",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1495",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2011",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34383069",
     "Name": "Anisimov, Daniil",
     "Fed": "RUS",
@@ -24207,6 +24192,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2005",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55875700",
+    "Name": "Anisimov, Daniil",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1495",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2011",
     "Flag": "i"
   },
   {
@@ -32479,8 +32479,8 @@
     "Name": "Asachenko, Ksenia",
     "Fed": "RUS",
     "Sex": "F",
-    "Title": "",
-    "WTit": "",
+    "Title": "WCM",
+    "WTit": "WCM",
     "OTit": "",
     "Rating": "1782",
     "Gms": "11",
@@ -39660,21 +39660,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34163643",
-    "Name": "Babich, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1762",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1951",
-    "Flag": ""
-  },
-  {
     "ID Number": "34469680",
     "Name": "Babich, Ivan",
     "Fed": "RUS",
@@ -39688,6 +39673,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2006",
     "Flag": "i"
+  },
+  {
+    "ID Number": "34163643",
+    "Name": "Babich, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1762",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1951",
+    "Flag": ""
   },
   {
     "ID Number": "4142322",
@@ -41265,21 +41265,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55843417",
-    "Name": "Badmaev, Timur",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1524",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55760171",
     "Name": "Badmaev, Timur",
     "Fed": "RUS",
@@ -41292,6 +41277,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2004",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55843417",
+    "Name": "Badmaev, Timur",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1524",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2008",
     "Flag": "i"
   },
   {
@@ -48840,6 +48840,21 @@
     "Flag": ""
   },
   {
+    "ID Number": "55885411",
+    "Name": "Baranov, Mikhail",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1534",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2013",
+    "Flag": "i"
+  },
+  {
     "ID Number": "570045860",
     "Name": "Baranov, Mikhail",
     "Fed": "RUS",
@@ -48868,21 +48883,6 @@
     "RatingMonth": "OCT26",
     "B-day": "1983",
     "Flag": ""
-  },
-  {
-    "ID Number": "55885411",
-    "Name": "Baranov, Mikhail",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1534",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2013",
-    "Flag": "i"
   },
   {
     "ID Number": "55718981",
@@ -53644,7 +53644,7 @@
     "Name": "Batozhargalov, Erdem",
     "Fed": "RUS",
     "Sex": "M",
-    "Title": "",
+    "Title": "FM",
     "WTit": "",
     "OTit": "",
     "Rating": "2193",
@@ -72735,21 +72735,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55744460",
-    "Name": "Bochkarev, Georgii",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1560",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2014",
-    "Flag": "i"
-  },
-  {
     "ID Number": "570018634",
     "Name": "Bochkarev, Georgii",
     "Fed": "RUS",
@@ -72763,6 +72748,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2013",
     "Flag": ""
+  },
+  {
+    "ID Number": "55744460",
+    "Name": "Bochkarev, Georgii",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1560",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2014",
+    "Flag": "i"
   },
   {
     "ID Number": "44156065",
@@ -78555,21 +78555,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55711006",
-    "Name": "Borisov, Artem",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1578",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2006",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522021167",
     "Name": "Borisov, Artem",
     "Fed": "RUS",
@@ -78582,6 +78567,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2005",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55711006",
+    "Name": "Borisov, Artem",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1578",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2006",
     "Flag": "i"
   },
   {
@@ -79380,21 +79380,6 @@
     "Flag": "w"
   },
   {
-    "ID Number": "54101905",
-    "Name": "Borisova, Darya",
-    "Fed": "RUS",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1632",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2004",
-    "Flag": "wi"
-  },
-  {
     "ID Number": "55620647",
     "Name": "Borisova, Darya",
     "Fed": "RUS",
@@ -79407,6 +79392,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2006",
+    "Flag": "wi"
+  },
+  {
+    "ID Number": "54101905",
+    "Name": "Borisova, Darya",
+    "Fed": "RUS",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1632",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2004",
     "Flag": "wi"
   },
   {
@@ -104235,21 +104235,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34187569",
-    "Name": "Chernyshov, Egor",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1506",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1985",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55709095",
     "Name": "Chernyshov, Egor",
     "Fed": "RUS",
@@ -104262,6 +104247,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2011",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34187569",
+    "Name": "Chernyshov, Egor",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1506",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1985",
     "Flag": "i"
   },
   {
@@ -113685,21 +113685,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55822100",
-    "Name": "Danilov, Nikolay",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1403",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2010",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34332820",
     "Name": "Danilov, Nikolay",
     "Fed": "RUS",
@@ -113713,6 +113698,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1951",
     "Flag": ""
+  },
+  {
+    "ID Number": "55822100",
+    "Name": "Danilov, Nikolay",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1403",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2010",
+    "Flag": "i"
   },
   {
     "ID Number": "540033503",
@@ -115365,21 +115365,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34280537",
-    "Name": "Dautov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1771",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1979",
-    "Flag": ""
-  },
-  {
     "ID Number": "55610714",
     "Name": "Dautov, Vladimir",
     "Fed": "RUS",
@@ -115393,6 +115378,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1967",
     "Flag": "i"
+  },
+  {
+    "ID Number": "34280537",
+    "Name": "Dautov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1771",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1979",
+    "Flag": ""
   },
   {
     "ID Number": "34228497",
@@ -115905,21 +115905,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "540063321",
-    "Name": "Davletov, Timur",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1819",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1962",
-    "Flag": ""
-  },
-  {
     "ID Number": "34394613",
     "Name": "Davletov, Timur",
     "Fed": "RUS",
@@ -115933,6 +115918,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2006",
     "Flag": "i"
+  },
+  {
+    "ID Number": "540063321",
+    "Name": "Davletov, Timur",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1819",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1962",
+    "Flag": ""
   },
   {
     "ID Number": "24282332",
@@ -118035,21 +118035,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34429743",
-    "Name": "Dementiev, Aleksandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1598",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2009",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34310479",
     "Name": "Dementiev, Aleksandr",
     "Fed": "RUS",
@@ -118062,6 +118047,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1980",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34429743",
+    "Name": "Dementiev, Aleksandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1598",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2009",
     "Flag": "i"
   },
   {
@@ -119715,21 +119715,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55818005",
-    "Name": "Denisenko, Daniil",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1405",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522016660",
     "Name": "Denisenko, Daniil",
     "Fed": "RUS",
@@ -119738,6 +119723,21 @@
     "WTit": "",
     "OTit": "",
     "Rating": "1490",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2008",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55818005",
+    "Name": "Denisenko, Daniil",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1405",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "OCT26",
@@ -142125,21 +142125,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55667040",
-    "Name": "Egorov, Alexey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1485",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1982",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34200657",
     "Name": "Egorov, Alexey",
     "Fed": "RUS",
@@ -142152,6 +142137,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1975",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55667040",
+    "Name": "Egorov, Alexey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1485",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1982",
     "Flag": "i"
   },
   {
@@ -142200,21 +142200,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "522006052",
-    "Name": "Egorov, Andrey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1516",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1981",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55847315",
     "Name": "Egorov, Andrey",
     "Fed": "RUS",
@@ -142227,6 +142212,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2015",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "522006052",
+    "Name": "Egorov, Andrey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1516",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1981",
     "Flag": "i"
   },
   {
@@ -146340,21 +146340,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "540015203",
-    "Name": "Emelyanov, Filipp",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1426",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2014",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540069460",
     "Name": "Emelyanov, Filipp",
     "Fed": "RUS",
@@ -146367,6 +146352,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2011",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "540015203",
+    "Name": "Emelyanov, Filipp",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1426",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2014",
     "Flag": "i"
   },
   {
@@ -148350,21 +148350,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "24168548",
-    "Name": "Eremin, Mikhail",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1822",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1961",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34160032",
     "Name": "Eremin, Mikhail",
     "Fed": "RUS",
@@ -148377,6 +148362,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1947",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "24168548",
+    "Name": "Eremin, Mikhail",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1822",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1961",
     "Flag": "i"
   },
   {
@@ -159345,6 +159345,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "55870120",
+    "Name": "Fedorov, Nikita",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1627",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2009",
+    "Flag": ""
+  },
+  {
     "ID Number": "540068226",
     "Name": "Fedorov, Nikita",
     "Fed": "RUS",
@@ -159373,21 +159388,6 @@
     "RatingMonth": "OCT26",
     "B-day": "2004",
     "Flag": "i"
-  },
-  {
-    "ID Number": "55870120",
-    "Name": "Fedorov, Nikita",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1627",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2009",
-    "Flag": ""
   },
   {
     "ID Number": "55735274",
@@ -159795,21 +159795,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "540001008",
-    "Name": "Fedorov, Vitaliy",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1709",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1988",
-    "Flag": ""
-  },
-  {
     "ID Number": "55601197",
     "Name": "Fedorov, Vitaliy",
     "Fed": "RUS",
@@ -159823,6 +159808,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1998",
     "Flag": "i"
+  },
+  {
+    "ID Number": "540001008",
+    "Name": "Fedorov, Vitaliy",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1709",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1988",
+    "Flag": ""
   },
   {
     "ID Number": "4147057",
@@ -159855,21 +159855,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "44193815",
-    "Name": "Fedorov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1725",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1950",
-    "Flag": "i"
-  },
-  {
     "ID Number": "44179235",
     "Name": "Fedorov, Vladimir",
     "Fed": "RUS",
@@ -159883,6 +159868,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1945",
     "Flag": ""
+  },
+  {
+    "ID Number": "44193815",
+    "Name": "Fedorov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1725",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1950",
+    "Flag": "i"
   },
   {
     "ID Number": "522049240",
@@ -170385,6 +170385,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "55702279",
+    "Name": "Frolov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1451",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2015",
+    "Flag": "i"
+  },
+  {
     "ID Number": "54148952",
     "Name": "Frolov, Vladimir",
     "Fed": "RUS",
@@ -170413,21 +170428,6 @@
     "RatingMonth": "OCT26",
     "B-day": "1949",
     "Flag": ""
-  },
-  {
-    "ID Number": "55702279",
-    "Name": "Frolov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1451",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2015",
-    "Flag": "i"
   },
   {
     "ID Number": "34422439",
@@ -181485,21 +181485,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34315802",
-    "Name": "Gavrikov, Alexander",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1404",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2010",
-    "Flag": "i"
-  },
-  {
     "ID Number": "44125771",
     "Name": "Gavrikov, Alexander",
     "Fed": "RUS",
@@ -181512,6 +181497,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1944",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34315802",
+    "Name": "Gavrikov, Alexander",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1404",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2010",
     "Flag": "i"
   },
   {
@@ -184890,21 +184890,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34361430",
-    "Name": "Gerasimov, Alexey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1453",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2003",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55692079",
     "Name": "Gerasimov, Alexey",
     "Fed": "RUS",
@@ -184917,6 +184902,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1980",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34361430",
+    "Name": "Gerasimov, Alexey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1453",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2003",
     "Flag": "i"
   },
   {
@@ -195990,21 +195990,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "44100930",
-    "Name": "Goncharov, Artem",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1509",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2006",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55777929",
     "Name": "Goncharov, Artem",
     "Fed": "RUS",
@@ -196017,6 +196002,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2014",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "44100930",
+    "Name": "Goncharov, Artem",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1509",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2006",
     "Flag": "i"
   },
   {
@@ -198735,21 +198735,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34446702",
-    "Name": "Gorelov, Kirill",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1434",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2005",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34156612",
     "Name": "Gorelov, Kirill",
     "Fed": "RUS",
@@ -198762,6 +198747,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1970",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34446702",
+    "Name": "Gorelov, Kirill",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1434",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2005",
     "Flag": "i"
   },
   {
@@ -200190,21 +200190,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "54118034",
-    "Name": "Gorokhov, Alexey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1574",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1953",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34473530",
     "Name": "Gorokhov, Alexey",
     "Fed": "RUS",
@@ -200217,6 +200202,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1989",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "54118034",
+    "Name": "Gorokhov, Alexey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1574",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1953",
     "Flag": "i"
   },
   {
@@ -201780,21 +201780,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34341030",
-    "Name": "Goryunov, Kirill",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1455",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2007",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522064788",
     "Name": "Goryunov, Kirill",
     "Fed": "RUS",
@@ -201808,6 +201793,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2018",
     "Flag": ""
+  },
+  {
+    "ID Number": "34341030",
+    "Name": "Goryunov, Kirill",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1455",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2007",
+    "Flag": "i"
   },
   {
     "ID Number": "55687288",
@@ -215370,21 +215370,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55708730",
-    "Name": "Gusev, Aleksandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1606",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1989",
-    "Flag": "i"
-  },
-  {
     "ID Number": "24210838",
     "Name": "Gusev, Aleksandr",
     "Fed": "RUS",
@@ -215397,6 +215382,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1991",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55708730",
+    "Name": "Gusev, Aleksandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1606",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1989",
     "Flag": "i"
   },
   {
@@ -215475,21 +215475,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55777830",
-    "Name": "Gusev, Andrei",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1561",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2012",
-    "Flag": "i"
-  },
-  {
     "ID Number": "54197317",
     "Name": "Gusev, Andrei",
     "Fed": "RUS",
@@ -215502,6 +215487,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1968",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55777830",
+    "Name": "Gusev, Andrei",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1561",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2012",
     "Flag": "i"
   },
   {
@@ -227955,21 +227955,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34112321",
-    "Name": "Iskhakov, Ruslan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1916",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2002",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522034315",
     "Name": "Iskhakov, Ruslan",
     "Fed": "RUS",
@@ -227983,6 +227968,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2015",
     "Flag": ""
+  },
+  {
+    "ID Number": "34112321",
+    "Name": "Iskhakov, Ruslan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1916",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2002",
+    "Flag": "i"
   },
   {
     "ID Number": "44168543",
@@ -231060,21 +231060,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "522034129",
-    "Name": "Ivanov, Andrey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1405",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2001",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55727310",
     "Name": "Ivanov, Andrey",
     "Fed": "RUS",
@@ -231087,6 +231072,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2011",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "522034129",
+    "Name": "Ivanov, Andrey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1405",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2001",
     "Flag": "i"
   },
   {
@@ -232185,21 +232185,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "24292630",
-    "Name": "Ivanov, Grigory",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1858",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1996",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522048707",
     "Name": "Ivanov, Grigory",
     "Fed": "RUS",
@@ -232213,6 +232198,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2013",
     "Flag": ""
+  },
+  {
+    "ID Number": "24292630",
+    "Name": "Ivanov, Grigory",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1858",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1996",
+    "Flag": "i"
   },
   {
     "ID Number": "24184110",
@@ -233040,6 +233040,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "55634915",
+    "Name": "Ivanov, Mikhail",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1523",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2013",
+    "Flag": "i"
+  },
+  {
     "ID Number": "34216910",
     "Name": "Ivanov, Mikhail",
     "Fed": "RUS",
@@ -233067,21 +233082,6 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2009",
-    "Flag": "i"
-  },
-  {
-    "ID Number": "55634915",
-    "Name": "Ivanov, Mikhail",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1523",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2013",
     "Flag": "i"
   },
   {
@@ -234165,21 +234165,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34253378",
-    "Name": "Ivanov, Vasily",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1549",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2009",
-    "Flag": "i"
-  },
-  {
     "ID Number": "24234222",
     "Name": "Ivanov, Vasily",
     "Fed": "RUS",
@@ -234192,6 +234177,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1944",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34253378",
+    "Name": "Ivanov, Vasily",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1549",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2009",
     "Flag": "i"
   },
   {
@@ -234375,21 +234375,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34295216",
-    "Name": "Ivanov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1476",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2009",
-    "Flag": "i"
-  },
-  {
     "ID Number": "24196274",
     "Name": "Ivanov, Vladimir",
     "Fed": "RUS",
@@ -234402,6 +234387,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1950",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34295216",
+    "Name": "Ivanov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1476",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2009",
     "Flag": "i"
   },
   {
@@ -235290,21 +235290,6 @@
     "Flag": "w"
   },
   {
-    "ID Number": "55794190",
-    "Name": "Ivanova, Nadezhda",
-    "Fed": "RUS",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1469",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2010",
-    "Flag": "wi"
-  },
-  {
     "ID Number": "24251771",
     "Name": "Ivanova, Nadezhda",
     "Fed": "RUS",
@@ -235317,6 +235302,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2006",
+    "Flag": "wi"
+  },
+  {
+    "ID Number": "55794190",
+    "Name": "Ivanova, Nadezhda",
+    "Fed": "RUS",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1469",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2010",
     "Flag": "wi"
   },
   {
@@ -238140,21 +238140,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55880827",
-    "Name": "Kabanov, Ilya",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1472",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2015",
-    "Flag": ""
-  },
-  {
     "ID Number": "522083057",
     "Name": "Kabanov, Ilya",
     "Fed": "RUS",
@@ -238168,6 +238153,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2011",
     "Flag": "i"
+  },
+  {
+    "ID Number": "55880827",
+    "Name": "Kabanov, Ilya",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1472",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2015",
+    "Flag": ""
   },
   {
     "ID Number": "55755780",
@@ -241830,21 +241830,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34186570",
-    "Name": "Kalinin, Andrey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1933",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1983",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55814930",
     "Name": "Kalinin, Andrey",
     "Fed": "RUS",
@@ -241857,6 +241842,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2008",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34186570",
+    "Name": "Kalinin, Andrey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1933",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1983",
     "Flag": "i"
   },
   {
@@ -243165,21 +243165,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "540014681",
-    "Name": "Kalugin, Dmitriy",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1409",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2011",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34267000",
     "Name": "Kalugin, Dmitriy",
     "Fed": "RUS",
@@ -243192,6 +243177,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1982",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "540014681",
+    "Name": "Kalugin, Dmitriy",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1409",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2011",
     "Flag": "i"
   },
   {
@@ -244065,21 +244065,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "570038260",
-    "Name": "Kamalov, Farid",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1630",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1963",
-    "Flag": ""
-  },
-  {
     "ID Number": "522029443",
     "Name": "Kamalov, Farid",
     "Fed": "RUS",
@@ -244093,6 +244078,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1954",
     "Flag": "i"
+  },
+  {
+    "ID Number": "570038260",
+    "Name": "Kamalov, Farid",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1630",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1963",
+    "Flag": ""
   },
   {
     "ID Number": "44149697",
@@ -248085,21 +248085,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "522036946",
-    "Name": "Karamov, Radmir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1469",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2016",
-    "Flag": ""
-  },
-  {
     "ID Number": "55841473",
     "Name": "Karamov, Radmir",
     "Fed": "RUS",
@@ -248113,6 +248098,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2015",
     "Flag": "i"
+  },
+  {
+    "ID Number": "522036946",
+    "Name": "Karamov, Radmir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1469",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2016",
+    "Flag": ""
   },
   {
     "ID Number": "540089541",
@@ -252195,21 +252195,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "54136229",
-    "Name": "Karpov, Mikhail",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1437",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2006",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55844880",
     "Name": "Karpov, Mikhail",
     "Fed": "RUS",
@@ -252222,6 +252207,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2015",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "54136229",
+    "Name": "Karpov, Mikhail",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1437",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2006",
     "Flag": "i"
   },
   {
@@ -254430,21 +254430,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "522097104",
-    "Name": "Kashirin, Andrey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1429",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1957",
-    "Flag": "i"
-  },
-  {
     "ID Number": "54145392",
     "Name": "Kashirin, Andrey",
     "Fed": "RUS",
@@ -254458,6 +254443,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1988",
     "Flag": ""
+  },
+  {
+    "ID Number": "522097104",
+    "Name": "Kashirin, Andrey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1429",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1957",
+    "Flag": "i"
   },
   {
     "ID Number": "34277480",
@@ -278550,21 +278550,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55830986",
-    "Name": "Kireev, Sergey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1538",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1977",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34200401",
     "Name": "Kireev, Sergey",
     "Fed": "RUS",
@@ -278577,6 +278562,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1988",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55830986",
+    "Name": "Kireev, Sergey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1538",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1977",
     "Flag": "i"
   },
   {
@@ -291495,21 +291495,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34316485",
-    "Name": "Kolesnikov, Aleksandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1774",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1955",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34297057",
     "Name": "Kolesnikov, Aleksandr",
     "Fed": "RUS",
@@ -291522,6 +291507,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1954",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34316485",
+    "Name": "Kolesnikov, Aleksandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1774",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1955",
     "Flag": "i"
   },
   {
@@ -292020,21 +292020,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55676421",
-    "Name": "Kolesnikov, Oleg",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1688",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1983",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522015507",
     "Name": "Kolesnikov, Oleg",
     "Fed": "RUS",
@@ -292062,6 +292047,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1989",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55676421",
+    "Name": "Kolesnikov, Oleg",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1688",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1983",
     "Flag": "i"
   },
   {
@@ -297810,21 +297810,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "24253120",
-    "Name": "Kondratyev, Sergey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "2016",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1971",
-    "Flag": "i"
-  },
-  {
     "ID Number": "24212121",
     "Name": "Kondratyev, Sergey",
     "Fed": "RUS",
@@ -297837,6 +297822,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1952",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "24253120",
+    "Name": "Kondratyev, Sergey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "2016",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1971",
     "Flag": "i"
   },
   {
@@ -299610,21 +299610,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55838260",
-    "Name": "Konovalov, Aleksey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1702",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1983",
-    "Flag": "i"
-  },
-  {
     "ID Number": "44125194",
     "Name": "Konovalov, Aleksey",
     "Fed": "RUS",
@@ -299637,6 +299622,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1958",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55838260",
+    "Name": "Konovalov, Aleksey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1702",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1983",
     "Flag": "i"
   },
   {
@@ -306000,21 +306000,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34456171",
-    "Name": "Korolev, Ivan S",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1537",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540056244",
     "Name": "Korolev, Ivan S",
     "Fed": "RUS",
@@ -306028,6 +306013,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2012",
     "Flag": ""
+  },
+  {
+    "ID Number": "34456171",
+    "Name": "Korolev, Ivan S",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1537",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2008",
+    "Flag": "i"
   },
   {
     "ID Number": "34145467",
@@ -319590,21 +319590,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "522045015",
-    "Name": "Kozlov, Alexander",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1574",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1966",
-    "Flag": "i"
-  },
-  {
     "ID Number": "24163058",
     "Name": "Kozlov, Alexander",
     "Fed": "RUS",
@@ -319618,6 +319603,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1994",
     "Flag": ""
+  },
+  {
+    "ID Number": "522045015",
+    "Name": "Kozlov, Alexander",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1574",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1966",
+    "Flag": "i"
   },
   {
     "ID Number": "34381961",
@@ -329805,21 +329805,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34224017",
-    "Name": "Krylov, Viktor",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1776",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1969",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540023834",
     "Name": "Krylov, Viktor",
     "Fed": "RUS",
@@ -329832,6 +329817,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1951",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34224017",
+    "Name": "Krylov, Viktor",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1776",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1969",
     "Flag": "i"
   },
   {
@@ -336390,21 +336390,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34374418",
-    "Name": "Kulikov, Nikolay",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1564",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2010",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55733956",
     "Name": "Kulikov, Nikolay",
     "Fed": "RUS",
@@ -336417,6 +336402,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "2001",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34374418",
+    "Name": "Kulikov, Nikolay",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1564",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2010",
     "Flag": "i"
   },
   {
@@ -336465,21 +336465,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "522069682",
-    "Name": "Kulikov, Sergey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1928",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1967",
-    "Flag": ""
-  },
-  {
     "ID Number": "4157524",
     "Name": "Kulikov, Sergey",
     "Fed": "RUS",
@@ -336493,6 +336478,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1944",
     "Flag": "i"
+  },
+  {
+    "ID Number": "522069682",
+    "Name": "Kulikov, Sergey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1928",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1967",
+    "Flag": ""
   },
   {
     "ID Number": "34347623",
@@ -344685,21 +344685,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "4150562",
-    "Name": "Kuzmichev, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1554",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1986",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34375414",
     "Name": "Kuzmichev, Ivan",
     "Fed": "RUS",
@@ -344712,6 +344697,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1985",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "4150562",
+    "Name": "Kuzmichev, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1554",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1986",
     "Flag": "i"
   },
   {
@@ -345150,21 +345150,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "540012077",
-    "Name": "Kuzmin, Egor",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1492",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2014",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540077152",
     "Name": "Kuzmin, Egor",
     "Fed": "RUS",
@@ -345177,6 +345162,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2011",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "540012077",
+    "Name": "Kuzmin, Egor",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1492",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2014",
     "Flag": "i"
   },
   {
@@ -345360,21 +345360,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "72400510",
-    "Name": "Kuzmin, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1615",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522038590",
     "Name": "Kuzmin, Ivan",
     "Fed": "RUS",
@@ -345387,6 +345372,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1999",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "72400510",
+    "Name": "Kuzmin, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1615",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2004",
     "Flag": "i"
   },
   {
@@ -346950,21 +346950,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55611117",
-    "Name": "Kuznetsov, Alexander",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "2005",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1969",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34210261",
     "Name": "Kuznetsov, Alexander",
     "Fed": "RUS",
@@ -346978,6 +346963,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1979",
     "Flag": "i"
+  },
+  {
+    "ID Number": "522003134",
+    "Name": "Kuznetsov, Alexander",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1481",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2015",
+    "Flag": ""
   },
   {
     "ID Number": "55786820",
@@ -346995,19 +346995,19 @@
     "Flag": "i"
   },
   {
-    "ID Number": "522003134",
+    "ID Number": "55611117",
     "Name": "Kuznetsov, Alexander",
     "Fed": "RUS",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1481",
+    "Rating": "2005",
     "Gms": "0",
-    "K": "40",
+    "K": "20",
     "RatingMonth": "OCT26",
-    "B-day": "2015",
-    "Flag": ""
+    "B-day": "1969",
+    "Flag": "i"
   },
   {
     "ID Number": "55696643",
@@ -347505,21 +347505,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55640915",
-    "Name": "Kuznetsov, Denis",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1653",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1990",
-    "Flag": "i"
-  },
-  {
     "ID Number": "44157550",
     "Name": "Kuznetsov, Denis",
     "Fed": "RUS",
@@ -347532,6 +347517,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "2004",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55640915",
+    "Name": "Kuznetsov, Denis",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1653",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1990",
     "Flag": "i"
   },
   {
@@ -348600,6 +348600,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "55734502",
+    "Name": "Kuznetsov, Nikita",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1468",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2013",
+    "Flag": ""
+  },
+  {
     "ID Number": "34369368",
     "Name": "Kuznetsov, Nikita",
     "Fed": "RUS",
@@ -348628,21 +348643,6 @@
     "RatingMonth": "OCT26",
     "B-day": "2006",
     "Flag": "i"
-  },
-  {
-    "ID Number": "55734502",
-    "Name": "Kuznetsov, Nikita",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1468",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2013",
-    "Flag": ""
   },
   {
     "ID Number": "55803610",
@@ -348705,21 +348705,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55610781",
-    "Name": "Kuznetsov, Nikolay",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1938",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1948",
-    "Flag": "i"
-  },
-  {
     "ID Number": "54190258",
     "Name": "Kuznetsov, Nikolay",
     "Fed": "RUS",
@@ -348732,6 +348717,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1944",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55610781",
+    "Name": "Kuznetsov, Nikolay",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1938",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1948",
     "Flag": "i"
   },
   {
@@ -354405,21 +354405,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "570004145",
-    "Name": "Larionov, Aleksey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1692",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1984",
-    "Flag": ""
-  },
-  {
     "ID Number": "540034941",
     "Name": "Larionov, Aleksey",
     "Fed": "RUS",
@@ -354432,6 +354417,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2012",
+    "Flag": ""
+  },
+  {
+    "ID Number": "570004145",
+    "Name": "Larionov, Aleksey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1692",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1984",
     "Flag": ""
   },
   {
@@ -356100,21 +356100,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34222588",
-    "Name": "Lavrov, Alexandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1684",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1947",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55748597",
     "Name": "Lavrov, Alexandr",
     "Fed": "RUS",
@@ -356127,6 +356112,21 @@
     "K": "",
     "RatingMonth": "OCT26",
     "B-day": "1994",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34222588",
+    "Name": "Lavrov, Alexandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1684",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1947",
     "Flag": "i"
   },
   {
@@ -357435,18 +357435,33 @@
     "Flag": ""
   },
   {
-    "ID Number": "55838677",
+    "ID Number": "54121698",
     "Name": "Lebedev, Aleksandr",
     "Fed": "RUS",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1577",
+    "Rating": "1488",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "OCT26",
-    "B-day": "2013",
+    "B-day": "2000",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "522039503",
+    "Name": "Lebedev, Aleksandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1637",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1995",
     "Flag": ""
   },
   {
@@ -357465,21 +357480,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "54121698",
-    "Name": "Lebedev, Aleksandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1488",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2000",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55757898",
     "Name": "Lebedev, Aleksandr",
     "Fed": "RUS",
@@ -357495,18 +357495,18 @@
     "Flag": "i"
   },
   {
-    "ID Number": "522039503",
+    "ID Number": "55838677",
     "Name": "Lebedev, Aleksandr",
     "Fed": "RUS",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1637",
+    "Rating": "1577",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "OCT26",
-    "B-day": "1995",
+    "B-day": "2013",
     "Flag": ""
   },
   {
@@ -357735,21 +357735,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "540038335",
-    "Name": "Lebedev, Andrey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1459",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1979",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55853641",
     "Name": "Lebedev, Andrey",
     "Fed": "RUS",
@@ -357762,6 +357747,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2010",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "540038335",
+    "Name": "Lebedev, Andrey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1459",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1979",
     "Flag": "i"
   },
   {
@@ -358035,21 +358035,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34318011",
-    "Name": "Lebedev, Gleb",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1534",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2006",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34276246",
     "Name": "Lebedev, Gleb",
     "Fed": "RUS",
@@ -358062,6 +358047,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2009",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34318011",
+    "Name": "Lebedev, Gleb",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1534",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2006",
     "Flag": "i"
   },
   {
@@ -358275,6 +358275,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "34276092",
+    "Name": "Lebedev, Maksim",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1499",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2005",
+    "Flag": "i"
+  },
+  {
     "ID Number": "34311327",
     "Name": "Lebedev, Maksim",
     "Fed": "RUS",
@@ -358302,21 +358317,6 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1983",
-    "Flag": "i"
-  },
-  {
-    "ID Number": "34276092",
-    "Name": "Lebedev, Maksim",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1499",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2005",
     "Flag": "i"
   },
   {
@@ -360915,21 +360915,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "522087419",
-    "Name": "Leontiev, Denis",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1425",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2016",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34445811",
     "Name": "Leontiev, Denis",
     "Fed": "RUS",
@@ -360942,6 +360927,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1988",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "522087419",
+    "Name": "Leontiev, Denis",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1425",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2016",
     "Flag": "i"
   },
   {
@@ -361815,21 +361815,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "55762255",
-    "Name": "Leshukov, Aleksandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1819",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1955",
-    "Flag": ""
-  },
-  {
     "ID Number": "570014418",
     "Name": "Leshukov, Aleksandr",
     "Fed": "RUS",
@@ -361842,6 +361827,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2008",
+    "Flag": ""
+  },
+  {
+    "ID Number": "55762255",
+    "Name": "Leshukov, Aleksandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1819",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1955",
     "Flag": ""
   },
   {
@@ -365520,21 +365520,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34404198",
-    "Name": "Lisenkov, Maxim",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1546",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55860990",
     "Name": "Lisenkov, Maxim",
     "Fed": "RUS",
@@ -365547,6 +365532,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2004",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34404198",
+    "Name": "Lisenkov, Maxim",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1546",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2008",
     "Flag": "i"
   },
   {
@@ -367815,21 +367815,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "54160189",
-    "Name": "Loboda, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1581",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34262032",
     "Name": "Loboda, Ivan",
     "Fed": "RUS",
@@ -367842,6 +367827,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2005",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "54160189",
+    "Name": "Loboda, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1581",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2008",
     "Flag": "i"
   },
   {
@@ -370380,21 +370380,6 @@
     "Flag": "w"
   },
   {
-    "ID Number": "34289704",
-    "Name": "Loshkarev, Arseny",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1605",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "44141599",
     "Name": "Loshkarev, Arseny",
     "Fed": "RUS",
@@ -370407,6 +370392,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2006",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34289704",
+    "Name": "Loshkarev, Arseny",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1605",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2004",
     "Flag": "i"
   },
   {
@@ -375135,21 +375135,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "34212248",
-    "Name": "Lvov, Igor",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1855",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1969",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34208089",
     "Name": "Lvov, Igor",
     "Fed": "RUS",
@@ -375165,11 +375150,26 @@
     "Flag": "i"
   },
   {
+    "ID Number": "34212248",
+    "Name": "Lvov, Igor",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1855",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1969",
+    "Flag": "i"
+  },
+  {
     "ID Number": "24200212",
     "Name": "Lvov, Nikita",
     "Fed": "RUS",
     "Sex": "M",
-    "Title": "",
+    "Title": "CM",
     "WTit": "",
     "OTit": "",
     "Rating": "2053",
@@ -378495,21 +378495,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34364072",
-    "Name": "Magomedov, Kamil",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1579",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2006",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34357734",
     "Name": "Magomedov, Kamil",
     "Fed": "RUS",
@@ -378518,6 +378503,21 @@
     "WTit": "",
     "OTit": "",
     "Rating": "1593",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2006",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34364072",
+    "Name": "Magomedov, Kamil",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1579",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "OCT26",
@@ -379560,21 +379560,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55667058",
-    "Name": "Makarenko, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1450",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2011",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522023534",
     "Name": "Makarenko, Ivan",
     "Fed": "RUS",
@@ -379588,6 +379573,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1992",
     "Flag": ""
+  },
+  {
+    "ID Number": "55667058",
+    "Name": "Makarenko, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1450",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2011",
+    "Flag": "i"
   },
   {
     "ID Number": "34482873",
@@ -380655,6 +380655,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "34437878",
+    "Name": "Makarov, Matvey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1486",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2011",
+    "Flag": "i"
+  },
+  {
     "ID Number": "34323252",
     "Name": "Makarov, Matvey",
     "Fed": "RUS",
@@ -380670,18 +380685,18 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34437878",
-    "Name": "Makarov, Matvey",
+    "ID Number": "55667244",
+    "Name": "Makarov, Maxim",
     "Fed": "RUS",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1486",
+    "Rating": "1529",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "OCT26",
-    "B-day": "2011",
+    "B-day": "2006",
     "Flag": "i"
   },
   {
@@ -380698,21 +380713,6 @@
     "RatingMonth": "OCT26",
     "B-day": "2011",
     "Flag": ""
-  },
-  {
-    "ID Number": "55667244",
-    "Name": "Makarov, Maxim",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1529",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2006",
-    "Flag": "i"
   },
   {
     "ID Number": "55704514",
@@ -395895,21 +395895,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34464913",
-    "Name": "Martirosyan, Narek",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1587",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2007",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540072932",
     "Name": "Martirosyan, Narek",
     "Fed": "RUS",
@@ -395922,6 +395907,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1989",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34464913",
+    "Name": "Martirosyan, Narek",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1587",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2007",
     "Flag": "i"
   },
   {
@@ -401010,21 +401010,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55887449",
-    "Name": "Matveev, Viktor",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1473",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1989",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34306030",
     "Name": "Matveev, Viktor",
     "Fed": "RUS",
@@ -401037,6 +401022,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1961",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55887449",
+    "Name": "Matveev, Viktor",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1473",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1989",
     "Flag": "i"
   },
   {
@@ -401085,21 +401085,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55773036",
-    "Name": "Matveev, Yaroslav",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1434",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2012",
-    "Flag": ""
-  },
-  {
     "ID Number": "570034478",
     "Name": "Matveev, Yaroslav",
     "Fed": "RUS",
@@ -401112,6 +401097,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2009",
+    "Flag": ""
+  },
+  {
+    "ID Number": "55773036",
+    "Name": "Matveev, Yaroslav",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1434",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2012",
     "Flag": ""
   },
   {
@@ -402900,21 +402900,6 @@
     "Flag": "w"
   },
   {
-    "ID Number": "55682294",
-    "Name": "Mazepa, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1726",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1977",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540028062",
     "Name": "Mazepa, Ivan",
     "Fed": "RUS",
@@ -402928,6 +402913,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2015",
     "Flag": ""
+  },
+  {
+    "ID Number": "55682294",
+    "Name": "Mazepa, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1726",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1977",
+    "Flag": "i"
   },
   {
     "ID Number": "44168608",
@@ -403995,21 +403995,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34312013",
-    "Name": "Medvedev, Andrey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1773",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1972",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34369295",
     "Name": "Medvedev, Andrey",
     "Fed": "RUS",
@@ -404022,6 +404007,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1982",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34312013",
+    "Name": "Medvedev, Andrey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1773",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1972",
     "Flag": "i"
   },
   {
@@ -404430,21 +404430,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "522027475",
-    "Name": "Medvedev, Mikhail",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1644",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1987",
-    "Flag": "i"
-  },
-  {
     "ID Number": "24201146",
     "Name": "Medvedev, Mikhail",
     "Fed": "RUS",
@@ -404457,6 +404442,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2008",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "522027475",
+    "Name": "Medvedev, Mikhail",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1644",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1987",
     "Flag": "i"
   },
   {
@@ -408780,21 +408780,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55689396",
-    "Name": "Merkulov, Sergey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1464",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55600468",
     "Name": "Merkulov, Sergey",
     "Fed": "RUS",
@@ -408807,6 +408792,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1968",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55689396",
+    "Name": "Merkulov, Sergey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1464",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2008",
     "Flag": "i"
   },
   {
@@ -412860,21 +412860,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "54140676",
-    "Name": "Mikhaylov, Alexandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1713",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1974",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540096157",
     "Name": "Mikhaylov, Alexandr",
     "Fed": "RUS",
@@ -412888,6 +412873,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2018",
     "Flag": ""
+  },
+  {
+    "ID Number": "54140676",
+    "Name": "Mikhaylov, Alexandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1713",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1974",
+    "Flag": "i"
   },
   {
     "ID Number": "55834957",
@@ -413550,21 +413550,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "522021205",
-    "Name": "Mikheev, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1489",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34306277",
     "Name": "Mikheev, Ivan",
     "Fed": "RUS",
@@ -413577,6 +413562,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2010",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "522021205",
+    "Name": "Mikheev, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1489",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2004",
     "Flag": "i"
   },
   {
@@ -418080,21 +418080,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "24214264",
-    "Name": "Miroshnichenko, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1636",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34436553",
     "Name": "Miroshnichenko, Vladimir",
     "Fed": "RUS",
@@ -418107,6 +418092,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1946",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "24214264",
+    "Name": "Miroshnichenko, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1636",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2004",
     "Flag": "i"
   },
   {
@@ -422535,19 +422535,19 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55859860",
+    "ID Number": "54108578",
     "Name": "Moiseev, Dmitriy",
     "Fed": "RUS",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1402",
+    "Rating": "1530",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "OCT26",
-    "B-day": "2006",
-    "Flag": "i"
+    "B-day": "2010",
+    "Flag": ""
   },
   {
     "ID Number": "34402381",
@@ -422565,19 +422565,19 @@
     "Flag": ""
   },
   {
-    "ID Number": "54108578",
+    "ID Number": "55859860",
     "Name": "Moiseev, Dmitriy",
     "Fed": "RUS",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1530",
+    "Rating": "1402",
     "Gms": "0",
     "K": "40",
     "RatingMonth": "OCT26",
-    "B-day": "2010",
-    "Flag": ""
+    "B-day": "2006",
+    "Flag": "i"
   },
   {
     "ID Number": "55822320",
@@ -427440,21 +427440,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34401385",
-    "Name": "Morozov, Vladislav",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1544",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2005",
-    "Flag": "i"
-  },
-  {
     "ID Number": "570051526",
     "Name": "Morozov, Vladislav",
     "Fed": "RUS",
@@ -427468,6 +427453,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2012",
     "Flag": ""
+  },
+  {
+    "ID Number": "34401385",
+    "Name": "Morozov, Vladislav",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1544",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2005",
+    "Flag": "i"
   },
   {
     "ID Number": "4168089",
@@ -431760,21 +431760,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "522057757",
-    "Name": "Mukhin, Kirill",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1499",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1989",
-    "Flag": "i"
-  },
-  {
     "ID Number": "570014280",
     "Name": "Mukhin, Kirill",
     "Fed": "RUS",
@@ -431788,6 +431773,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2014",
     "Flag": ""
+  },
+  {
+    "ID Number": "522057757",
+    "Name": "Mukhin, Kirill",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1499",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1989",
+    "Flag": "i"
   },
   {
     "ID Number": "55676022",
@@ -445560,21 +445560,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "570056617",
-    "Name": "Nekrasov, Daniil",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1708",
-    "Gms": "7",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2014",
-    "Flag": ""
-  },
-  {
     "ID Number": "55600123",
     "Name": "Nekrasov, Daniil",
     "Fed": "RUS",
@@ -445588,6 +445573,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2006",
     "Flag": "i"
+  },
+  {
+    "ID Number": "570056617",
+    "Name": "Nekrasov, Daniil",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1708",
+    "Gms": "7",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2014",
+    "Flag": ""
   },
   {
     "ID Number": "55671713",
@@ -451815,21 +451815,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34214585",
-    "Name": "Nikitin, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1858",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1957",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34255273",
     "Name": "Nikitin, Vladimir",
     "Fed": "RUS",
@@ -451842,6 +451827,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1967",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34214585",
+    "Name": "Nikitin, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1858",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1957",
     "Flag": "i"
   },
   {
@@ -452385,21 +452385,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55820204",
-    "Name": "Nikolaev, Aleksandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1764",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1984",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34334319",
     "Name": "Nikolaev, Aleksandr",
     "Fed": "RUS",
@@ -452412,6 +452397,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1992",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55820204",
+    "Name": "Nikolaev, Aleksandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1764",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1984",
     "Flag": "i"
   },
   {
@@ -457425,21 +457425,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "540017710",
-    "Name": "Novikov, Alexandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1629",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1962",
-    "Flag": "i"
-  },
-  {
     "ID Number": "24261599",
     "Name": "Novikov, Alexandr",
     "Fed": "RUS",
@@ -457452,6 +457437,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1957",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "540017710",
+    "Name": "Novikov, Alexandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1629",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1962",
     "Flag": "i"
   },
   {
@@ -458745,6 +458745,36 @@
     "Flag": "i"
   },
   {
+    "ID Number": "34454462",
+    "Name": "Novikov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1474",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1947",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55676502",
+    "Name": "Novikov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1631",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1987",
+    "Flag": ""
+  },
+  {
     "ID Number": "34434054",
     "Name": "Novikov, Vladimir",
     "Fed": "RUS",
@@ -458772,36 +458802,6 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "2003",
-    "Flag": "i"
-  },
-  {
-    "ID Number": "55676502",
-    "Name": "Novikov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1631",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1987",
-    "Flag": ""
-  },
-  {
-    "ID Number": "34454462",
-    "Name": "Novikov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1474",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1947",
     "Flag": "i"
   },
   {
@@ -465885,21 +465885,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34192333",
-    "Name": "Omarov, Omar",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1863",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1964",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34410520",
     "Name": "Omarov, Omar",
     "Fed": "RUS",
@@ -465912,6 +465897,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1967",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34192333",
+    "Name": "Omarov, Omar",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1863",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1964",
     "Flag": "i"
   },
   {
@@ -466830,21 +466830,6 @@
     "Flag": "w"
   },
   {
-    "ID Number": "54111951",
-    "Name": "Operchuk, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1773",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1963",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55878148",
     "Name": "Operchuk, Ivan",
     "Fed": "RUS",
@@ -466857,6 +466842,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1959",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "54111951",
+    "Name": "Operchuk, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1773",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1963",
     "Flag": "i"
   },
   {
@@ -472500,21 +472500,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55705316",
-    "Name": "Ovchinnikov, Yuri",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1547",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2013",
-    "Flag": ""
-  },
-  {
     "ID Number": "34447830",
     "Name": "Ovchinnikov, Yuri",
     "Fed": "RUS",
@@ -472527,6 +472512,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1942",
+    "Flag": ""
+  },
+  {
+    "ID Number": "55705316",
+    "Name": "Ovchinnikov, Yuri",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1547",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2013",
     "Flag": ""
   },
   {
@@ -481860,21 +481860,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55877460",
-    "Name": "Pavlov, Artem",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1536",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2016",
-    "Flag": ""
-  },
-  {
     "ID Number": "44149310",
     "Name": "Pavlov, Artem",
     "Fed": "RUS",
@@ -481888,6 +481873,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2004",
     "Flag": "i"
+  },
+  {
+    "ID Number": "55877460",
+    "Name": "Pavlov, Artem",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1536",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2016",
+    "Flag": ""
   },
   {
     "ID Number": "34487786",
@@ -482325,21 +482325,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34184110",
-    "Name": "Pavlov, Kirill",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1711",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1997",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55769748",
     "Name": "Pavlov, Kirill",
     "Fed": "RUS",
@@ -482353,6 +482338,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2013",
     "Flag": ""
+  },
+  {
+    "ID Number": "34184110",
+    "Name": "Pavlov, Kirill",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1711",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1997",
+    "Flag": "i"
   },
   {
     "ID Number": "540066304",
@@ -489240,21 +489240,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "54137306",
-    "Name": "Petrenko, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1845",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1952",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522096264",
     "Name": "Petrenko, Vladimir",
     "Fed": "RUS",
@@ -489268,6 +489253,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1952",
     "Flag": ""
+  },
+  {
+    "ID Number": "54137306",
+    "Name": "Petrenko, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1845",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1952",
+    "Flag": "i"
   },
   {
     "ID Number": "34356703",
@@ -490050,6 +490050,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "34174998",
+    "Name": "Petrov, Aleksandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "2294",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1975",
+    "Flag": "i"
+  },
+  {
     "ID Number": "54199956",
     "Name": "Petrov, Aleksandr",
     "Fed": "RUS",
@@ -490077,21 +490092,6 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1950",
-    "Flag": "i"
-  },
-  {
-    "ID Number": "34174998",
-    "Name": "Petrov, Aleksandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "2294",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1975",
     "Flag": "i"
   },
   {
@@ -490275,21 +490275,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "540043061",
-    "Name": "Petrov, Alexandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1624",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1964",
-    "Flag": "i"
-  },
-  {
     "ID Number": "4178556",
     "Name": "Petrov, Alexandr",
     "Fed": "RUS",
@@ -490302,6 +490287,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1963",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "540043061",
+    "Name": "Petrov, Alexandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1624",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1964",
     "Flag": "i"
   },
   {
@@ -490650,21 +490650,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55648614",
-    "Name": "Petrov, Dmitry",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1891",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1991",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34269568",
     "Name": "Petrov, Dmitry",
     "Fed": "RUS",
@@ -490678,6 +490663,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1997",
     "Flag": ""
+  },
+  {
+    "ID Number": "55648614",
+    "Name": "Petrov, Dmitry",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1891",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1991",
+    "Flag": "i"
   },
   {
     "ID Number": "24253502",
@@ -491700,6 +491700,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "34404228",
+    "Name": "Petrov, Sergey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1537",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2007",
+    "Flag": "i"
+  },
+  {
     "ID Number": "55705014",
     "Name": "Petrov, Sergey",
     "Fed": "RUS",
@@ -491742,21 +491757,6 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2011",
-    "Flag": "i"
-  },
-  {
-    "ID Number": "34404228",
-    "Name": "Petrov, Sergey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1537",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2007",
     "Flag": "i"
   },
   {
@@ -493140,21 +493140,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34451765",
-    "Name": "Petukhov, Dmitriy",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1491",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1996",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55877710",
     "Name": "Petukhov, Dmitriy",
     "Fed": "RUS",
@@ -493168,6 +493153,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2010",
     "Flag": ""
+  },
+  {
+    "ID Number": "34451765",
+    "Name": "Petukhov, Dmitriy",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1491",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1996",
+    "Flag": "i"
   },
   {
     "ID Number": "4142748",
@@ -493305,21 +493305,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "54127092",
-    "Name": "Petukhov, Sergey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "2217",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1954",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55650635",
     "Name": "Petukhov, Sergey",
     "Fed": "RUS",
@@ -493332,6 +493317,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1988",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "54127092",
+    "Name": "Petukhov, Sergey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "2217",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1954",
     "Flag": "i"
   },
   {
@@ -507885,21 +507885,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "522029702",
-    "Name": "Popov, Aleksandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1525",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1964",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55648363",
     "Name": "Popov, Aleksandr",
     "Fed": "RUS",
@@ -507912,6 +507897,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2010",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "522029702",
+    "Name": "Popov, Aleksandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1525",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1964",
     "Flag": "i"
   },
   {
@@ -508080,6 +508080,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "54159253",
+    "Name": "Popov, Alexey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1758",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1977",
+    "Flag": "i"
+  },
+  {
     "ID Number": "522029788",
     "Name": "Popov, Alexey",
     "Fed": "RUS",
@@ -508107,21 +508122,6 @@
     "K": "",
     "RatingMonth": "OCT26",
     "B-day": "2007",
-    "Flag": "i"
-  },
-  {
-    "ID Number": "54159253",
-    "Name": "Popov, Alexey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1758",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1977",
     "Flag": "i"
   },
   {
@@ -509235,21 +509235,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55826997",
-    "Name": "Popov, Maxim",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1491",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1985",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34142026",
     "Name": "Popov, Maxim",
     "Fed": "RUS",
@@ -509262,6 +509247,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1980",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55826997",
+    "Name": "Popov, Maxim",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1491",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1985",
     "Flag": "i"
   },
   {
@@ -509625,21 +509625,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "570031924",
-    "Name": "Popov, Sergey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1685",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1970",
-    "Flag": ""
-  },
-  {
     "ID Number": "34400249",
     "Name": "Popov, Sergey",
     "Fed": "RUS",
@@ -509653,6 +509638,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1983",
     "Flag": "i"
+  },
+  {
+    "ID Number": "570031924",
+    "Name": "Popov, Sergey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1685",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1970",
+    "Flag": ""
   },
   {
     "ID Number": "540001830",
@@ -509985,21 +509985,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34218190",
-    "Name": "Popov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1832",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1983",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34217150",
     "Name": "Popov, Vladimir",
     "Fed": "RUS",
@@ -510012,6 +509997,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1959",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34218190",
+    "Name": "Popov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1832",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1983",
     "Flag": "i"
   },
   {
@@ -521505,21 +521505,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55866727",
-    "Name": "Pushkarev, Maksim",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1620",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1983",
-    "Flag": ""
-  },
-  {
     "ID Number": "570021163",
     "Name": "Pushkarev, Maksim",
     "Fed": "RUS",
@@ -521532,6 +521517,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2017",
+    "Flag": ""
+  },
+  {
+    "ID Number": "55866727",
+    "Name": "Pushkarev, Maksim",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1620",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1983",
     "Flag": ""
   },
   {
@@ -525870,21 +525870,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34410538",
-    "Name": "Ramazanov, Ramazan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1653",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1959",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55683410",
     "Name": "Ramazanov, Ramazan",
     "Fed": "RUS",
@@ -525897,6 +525882,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1984",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34410538",
+    "Name": "Ramazanov, Ramazan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1653",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1959",
     "Flag": "i"
   },
   {
@@ -532665,21 +532665,6 @@
     "Flag": "w"
   },
   {
-    "ID Number": "34440038",
-    "Name": "Rodionov, Aleksandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1685",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1971",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540098389",
     "Name": "Rodionov, Aleksandr",
     "Fed": "RUS",
@@ -532693,6 +532678,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2004",
     "Flag": ""
+  },
+  {
+    "ID Number": "34440038",
+    "Name": "Rodionov, Aleksandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1685",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1971",
+    "Flag": "i"
   },
   {
     "ID Number": "24130117",
@@ -534870,21 +534870,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34454187",
-    "Name": "Romanov, Aleksander",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1667",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1964",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55758746",
     "Name": "Romanov, Aleksander",
     "Fed": "RUS",
@@ -534897,6 +534882,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1988",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34454187",
+    "Name": "Romanov, Aleksander",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1667",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1964",
     "Flag": "i"
   },
   {
@@ -535260,21 +535260,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55817556",
-    "Name": "Romanov, Daniil",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1609",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2008",
-    "Flag": ""
-  },
-  {
     "ID Number": "34284010",
     "Name": "Romanov, Daniil",
     "Fed": "RUS",
@@ -535288,6 +535273,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2007",
     "Flag": "i"
+  },
+  {
+    "ID Number": "55817556",
+    "Name": "Romanov, Daniil",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1609",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2008",
+    "Flag": ""
   },
   {
     "ID Number": "55755640",
@@ -537765,21 +537765,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "24162167",
-    "Name": "Rozhkov, Mikhail",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1601",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1955",
-    "Flag": "i"
-  },
-  {
     "ID Number": "570055971",
     "Name": "Rozhkov, Mikhail",
     "Fed": "RUS",
@@ -537793,6 +537778,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2016",
     "Flag": ""
+  },
+  {
+    "ID Number": "24162167",
+    "Name": "Rozhkov, Mikhail",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1601",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1955",
+    "Flag": "i"
   },
   {
     "ID Number": "570047812",
@@ -544365,21 +544365,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34303421",
-    "Name": "Rychkov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1632",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34289593",
     "Name": "Rychkov, Vladimir",
     "Fed": "RUS",
@@ -544392,6 +544377,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1998",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34303421",
+    "Name": "Rychkov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1632",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2004",
     "Flag": "i"
   },
   {
@@ -548310,21 +548310,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55721150",
-    "Name": "Safin, Marat",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1724",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1979",
-    "Flag": ""
-  },
-  {
     "ID Number": "54132100",
     "Name": "Safin, Marat",
     "Fed": "RUS",
@@ -548338,6 +548323,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1976",
     "Flag": "i"
+  },
+  {
+    "ID Number": "55721150",
+    "Name": "Safin, Marat",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1724",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1979",
+    "Flag": ""
   },
   {
     "ID Number": "522007660",
@@ -551145,21 +551145,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55822444",
-    "Name": "Sakharov, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1571",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1951",
-    "Flag": ""
-  },
-  {
     "ID Number": "44112181",
     "Name": "Sakharov, Ivan",
     "Fed": "RUS",
@@ -551173,6 +551158,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1983",
     "Flag": "i"
+  },
+  {
+    "ID Number": "55822444",
+    "Name": "Sakharov, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1571",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1951",
+    "Flag": ""
   },
   {
     "ID Number": "540002624",
@@ -566775,21 +566775,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34154245",
-    "Name": "Seliverstov, Nikolai",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1762",
-    "Gms": "11",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1969",
-    "Flag": ""
-  },
-  {
     "ID Number": "34300350",
     "Name": "Seliverstov, Nikolai",
     "Fed": "RUS",
@@ -566803,6 +566788,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2009",
     "Flag": "i"
+  },
+  {
+    "ID Number": "34154245",
+    "Name": "Seliverstov, Nikolai",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1762",
+    "Gms": "11",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1969",
+    "Flag": ""
   },
   {
     "ID Number": "34299319",
@@ -568755,21 +568755,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "24170313",
-    "Name": "Semenov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1625",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1957",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522023798",
     "Name": "Semenov, Vladimir",
     "Fed": "RUS",
@@ -568783,6 +568768,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2014",
     "Flag": ""
+  },
+  {
+    "ID Number": "24170313",
+    "Name": "Semenov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1625",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1957",
+    "Flag": "i"
   },
   {
     "ID Number": "34345680",
@@ -571830,21 +571830,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "44111380",
-    "Name": "Sergeev, Dmitry",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1827",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1977",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34460233",
     "Name": "Sergeev, Dmitry",
     "Fed": "RUS",
@@ -571857,6 +571842,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1976",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "44111380",
+    "Name": "Sergeev, Dmitry",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1827",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1977",
     "Flag": "i"
   },
   {
@@ -572055,21 +572055,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "24240826",
-    "Name": "Sergeev, Kirill",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1551",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2009",
-    "Flag": "i"
-  },
-  {
     "ID Number": "570001065",
     "Name": "Sergeev, Kirill",
     "Fed": "RUS",
@@ -572083,6 +572068,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2016",
     "Flag": ""
+  },
+  {
+    "ID Number": "24240826",
+    "Name": "Sergeev, Kirill",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1551",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2009",
+    "Flag": "i"
   },
   {
     "ID Number": "34343890",
@@ -582840,6 +582840,21 @@
     "Flag": "i"
   },
   {
+    "ID Number": "34406409",
+    "Name": "Sharipov, Danil",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1432",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2009",
+    "Flag": "i"
+  },
+  {
     "ID Number": "34444599",
     "Name": "Sharipov, Danil",
     "Fed": "RUS",
@@ -582868,21 +582883,6 @@
     "RatingMonth": "OCT26",
     "B-day": "2016",
     "Flag": ""
-  },
-  {
-    "ID Number": "34406409",
-    "Name": "Sharipov, Danil",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1432",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2009",
-    "Flag": "i"
   },
   {
     "ID Number": "34377689",
@@ -583050,21 +583050,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "522094237",
-    "Name": "Sharipov, Vadim",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1838",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1979",
-    "Flag": ""
-  },
-  {
     "ID Number": "24271730",
     "Name": "Sharipov, Vadim",
     "Fed": "RUS",
@@ -583078,6 +583063,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2007",
     "Flag": "i"
+  },
+  {
+    "ID Number": "522094237",
+    "Name": "Sharipov, Vadim",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1838",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1979",
+    "Flag": ""
   },
   {
     "ID Number": "34262385",
@@ -590295,21 +590295,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55728499",
-    "Name": "Shevchenko, Yaroslav",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1803",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2009",
-    "Flag": "i"
-  },
-  {
     "ID Number": "570043019",
     "Name": "Shevchenko, Yaroslav",
     "Fed": "RUS",
@@ -590323,6 +590308,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1986",
     "Flag": ""
+  },
+  {
+    "ID Number": "55728499",
+    "Name": "Shevchenko, Yaroslav",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1803",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2009",
+    "Flag": "i"
   },
   {
     "ID Number": "44177941",
@@ -594855,21 +594855,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "54149266",
-    "Name": "Shishkin, Alexander",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1575",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2002",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34304460",
     "Name": "Shishkin, Alexander",
     "Fed": "RUS",
@@ -594883,6 +594868,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1977",
     "Flag": ""
+  },
+  {
+    "ID Number": "54149266",
+    "Name": "Shishkin, Alexander",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1575",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2002",
+    "Flag": "i"
   },
   {
     "ID Number": "4156528",
@@ -605700,21 +605700,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34238182",
-    "Name": "Sidorov, Aleksandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1897",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1952",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55836780",
     "Name": "Sidorov, Aleksandr",
     "Fed": "RUS",
@@ -605727,6 +605712,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1983",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34238182",
+    "Name": "Sidorov, Aleksandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1897",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1952",
     "Flag": "i"
   },
   {
@@ -608385,21 +608385,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34499008",
-    "Name": "Simonov, Iliya",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1419",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "54113830",
     "Name": "Simonov, Iliya",
     "Fed": "RUS",
@@ -608412,6 +608397,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "2002",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34499008",
+    "Name": "Simonov, Iliya",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1419",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2008",
     "Flag": "i"
   },
   {
@@ -614745,21 +614745,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34316221",
-    "Name": "Skvortsov, Andrey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1779",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1964",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55856462",
     "Name": "Skvortsov, Andrey",
     "Fed": "RUS",
@@ -614772,6 +614757,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1997",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34316221",
+    "Name": "Skvortsov, Andrey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1779",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1964",
     "Flag": "i"
   },
   {
@@ -617940,21 +617940,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "54180481",
-    "Name": "Smirnov, Andrey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1941",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1975",
-    "Flag": "i"
-  },
-  {
     "ID Number": "24226637",
     "Name": "Smirnov, Andrey",
     "Fed": "RUS",
@@ -617967,6 +617952,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1964",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "54180481",
+    "Name": "Smirnov, Andrey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1941",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1975",
     "Flag": "i"
   },
   {
@@ -618390,21 +618390,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34421084",
-    "Name": "Smirnov, Dmitriy",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1692",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540017842",
     "Name": "Smirnov, Dmitriy",
     "Fed": "RUS",
@@ -618417,6 +618402,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2009",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34421084",
+    "Name": "Smirnov, Dmitriy",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1692",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2004",
     "Flag": "i"
   },
   {
@@ -620460,21 +620460,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "34406158",
-    "Name": "Smirnova, Anastasiya",
-    "Fed": "RUS",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1446",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2005",
-    "Flag": "wi"
-  },
-  {
     "ID Number": "34271015",
     "Name": "Smirnova, Anastasiya",
     "Fed": "RUS",
@@ -620487,6 +620472,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2009",
+    "Flag": "wi"
+  },
+  {
+    "ID Number": "34406158",
+    "Name": "Smirnova, Anastasiya",
+    "Fed": "RUS",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1446",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2005",
     "Flag": "wi"
   },
   {
@@ -623280,6 +623280,21 @@
     "Flag": ""
   },
   {
+    "ID Number": "34129666",
+    "Name": "Sokolov, Alexandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1987",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1941",
+    "Flag": "i"
+  },
+  {
     "ID Number": "34253459",
     "Name": "Sokolov, Alexandr",
     "Fed": "RUS",
@@ -623307,21 +623322,6 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1980",
-    "Flag": "i"
-  },
-  {
-    "ID Number": "34129666",
-    "Name": "Sokolov, Alexandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1987",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1941",
     "Flag": "i"
   },
   {
@@ -623385,21 +623385,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55624901",
-    "Name": "Sokolov, Andrey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1804",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1980",
-    "Flag": "i"
-  },
-  {
     "ID Number": "54170435",
     "Name": "Sokolov, Andrey",
     "Fed": "RUS",
@@ -623412,6 +623397,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1975",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55624901",
+    "Name": "Sokolov, Andrey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1804",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1980",
     "Flag": "i"
   },
   {
@@ -623850,21 +623850,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34364560",
-    "Name": "Sokolov, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1418",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2010",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34434585",
     "Name": "Sokolov, Ivan",
     "Fed": "RUS",
@@ -623877,6 +623862,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2009",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34364560",
+    "Name": "Sokolov, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1418",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2010",
     "Flag": "i"
   },
   {
@@ -624810,21 +624810,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "55767745",
-    "Name": "Sokolova, Elizaveta",
-    "Fed": "RUS",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1434",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2013",
-    "Flag": "wi"
-  },
-  {
     "ID Number": "34230998",
     "Name": "Sokolova, Elizaveta",
     "Fed": "RUS",
@@ -624837,6 +624822,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "2001",
+    "Flag": "wi"
+  },
+  {
+    "ID Number": "55767745",
+    "Name": "Sokolova, Elizaveta",
+    "Fed": "RUS",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1434",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2013",
     "Flag": "wi"
   },
   {
@@ -626595,21 +626595,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34488499",
-    "Name": "Solovev, Danil",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1798",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522098909",
     "Name": "Solovev, Danil",
     "Fed": "RUS",
@@ -626623,6 +626608,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2013",
     "Flag": ""
+  },
+  {
+    "ID Number": "34488499",
+    "Name": "Solovev, Danil",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1798",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2004",
+    "Flag": "i"
   },
   {
     "ID Number": "540033813",
@@ -628770,21 +628770,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "24201316",
-    "Name": "Sorokin, Nikolay",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1870",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1944",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34232346",
     "Name": "Sorokin, Nikolay",
     "Fed": "RUS",
@@ -628797,6 +628782,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1963",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "24201316",
+    "Name": "Sorokin, Nikolay",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1870",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1944",
     "Flag": "i"
   },
   {
@@ -628995,21 +628995,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "24220280",
-    "Name": "Sorokin, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1821",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1947",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540012280",
     "Name": "Sorokin, Vladimir",
     "Fed": "RUS",
@@ -629023,6 +629008,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1978",
     "Flag": ""
+  },
+  {
+    "ID Number": "24220280",
+    "Name": "Sorokin, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1821",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1947",
+    "Flag": "i"
   },
   {
     "ID Number": "55752683",
@@ -634560,21 +634560,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55699782",
-    "Name": "Stepanov, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1680",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2010",
-    "Flag": ""
-  },
-  {
     "ID Number": "54127262",
     "Name": "Stepanov, Ivan",
     "Fed": "RUS",
@@ -634588,6 +634573,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2005",
     "Flag": "i"
+  },
+  {
+    "ID Number": "55699782",
+    "Name": "Stepanov, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1680",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2010",
+    "Flag": ""
   },
   {
     "ID Number": "55855164",
@@ -634620,21 +634620,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "570051577",
-    "Name": "Stepanov, Leonid",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1749",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1951",
-    "Flag": ""
-  },
-  {
     "ID Number": "55690050",
     "Name": "Stepanov, Leonid",
     "Fed": "RUS",
@@ -634648,6 +634633,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2012",
     "Flag": "i"
+  },
+  {
+    "ID Number": "570051577",
+    "Name": "Stepanov, Leonid",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1749",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1951",
+    "Flag": ""
   },
   {
     "ID Number": "34301879",
@@ -634695,21 +634695,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34346635",
-    "Name": "Stepanov, Maxim",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1867",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1989",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55633340",
     "Name": "Stepanov, Maxim",
     "Fed": "RUS",
@@ -634722,6 +634707,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2011",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34346635",
+    "Name": "Stepanov, Maxim",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1867",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1989",
     "Flag": "i"
   },
   {
@@ -640995,21 +640995,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "540026124",
-    "Name": "Sukhanov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1718",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1942",
-    "Flag": ""
-  },
-  {
     "ID Number": "540046095",
     "Name": "Sukhanov, Vladimir",
     "Fed": "RUS",
@@ -641022,6 +641007,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1977",
+    "Flag": ""
+  },
+  {
+    "ID Number": "540026124",
+    "Name": "Sukhanov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1718",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1942",
     "Flag": ""
   },
   {
@@ -642945,21 +642945,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34339248",
-    "Name": "Sultanov, Amir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1414",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2007",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55898378",
     "Name": "Sultanov, Amir",
     "Fed": "RUS",
@@ -642973,6 +642958,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2013",
     "Flag": ""
+  },
+  {
+    "ID Number": "34339248",
+    "Name": "Sultanov, Amir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1414",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2007",
+    "Flag": "i"
   },
   {
     "ID Number": "34418113",
@@ -645180,21 +645180,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "34281258",
-    "Name": "Suslov, Igor",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1717",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1970",
-    "Flag": ""
-  },
-  {
     "ID Number": "34424601",
     "Name": "Suslov, Igor",
     "Fed": "RUS",
@@ -645208,6 +645193,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1987",
     "Flag": "i"
+  },
+  {
+    "ID Number": "34281258",
+    "Name": "Suslov, Igor",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1717",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1970",
+    "Flag": ""
   },
   {
     "ID Number": "54177146",
@@ -652290,21 +652290,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "540045510",
-    "Name": "Tarasov, Vadim",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1534",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1984",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55754996",
     "Name": "Tarasov, Vadim",
     "Fed": "RUS",
@@ -652317,6 +652302,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2009",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "540045510",
+    "Name": "Tarasov, Vadim",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1534",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1984",
     "Flag": "i"
   },
   {
@@ -656970,21 +656970,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34234438",
-    "Name": "Terekhov, Ivan",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1465",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1994",
-    "Flag": ""
-  },
-  {
     "ID Number": "24201090",
     "Name": "Terekhov, Ivan",
     "Fed": "RUS",
@@ -656998,6 +656983,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2007",
     "Flag": "i"
+  },
+  {
+    "ID Number": "34234438",
+    "Name": "Terekhov, Ivan",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1465",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1994",
+    "Flag": ""
   },
   {
     "ID Number": "4115856",
@@ -661590,21 +661590,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "522022937",
-    "Name": "Timoshenko, Dmitry",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1427",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1988",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522047212",
     "Name": "Timoshenko, Dmitry",
     "Fed": "RUS",
@@ -661617,6 +661602,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2013",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "522022937",
+    "Name": "Timoshenko, Dmitry",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1427",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1988",
     "Flag": "i"
   },
   {
@@ -669240,21 +669240,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55876811",
-    "Name": "Trepolskii, Dmitrii",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1415",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2012",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34160768",
     "Name": "Trepolskii, Dmitrii",
     "Fed": "RUS",
@@ -669267,6 +669252,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1979",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55876811",
+    "Name": "Trepolskii, Dmitrii",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1415",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2012",
     "Flag": "i"
   },
   {
@@ -669885,21 +669885,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55753779",
-    "Name": "Tretyakov, Nikita",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1454",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2012",
-    "Flag": ""
-  },
-  {
     "ID Number": "34418148",
     "Name": "Tretyakov, Nikita",
     "Fed": "RUS",
@@ -669913,6 +669898,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2008",
     "Flag": "i"
+  },
+  {
+    "ID Number": "55753779",
+    "Name": "Tretyakov, Nikita",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1454",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2012",
+    "Flag": ""
   },
   {
     "ID Number": "34227776",
@@ -669975,21 +669975,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55653030",
-    "Name": "Tretyakov, Sergey Vas",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1893",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1956",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34406166",
     "Name": "Tretyakov, Sergey Vas",
     "Fed": "RUS",
@@ -670002,6 +669987,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1959",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55653030",
+    "Name": "Tretyakov, Sergey Vas",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1893",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1956",
     "Flag": "i"
   },
   {
@@ -673380,21 +673380,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "570054312",
-    "Name": "Trusov, Timofei",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1404",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2017",
-    "Flag": ""
-  },
-  {
     "ID Number": "24212750",
     "Name": "Trusov, Timofei",
     "Fed": "RUS",
@@ -673408,6 +673393,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2002",
     "Flag": "i"
+  },
+  {
+    "ID Number": "570054312",
+    "Name": "Trusov, Timofei",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1404",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2017",
+    "Flag": ""
   },
   {
     "ID Number": "570013888",
@@ -676155,21 +676155,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "540091210",
-    "Name": "Tsvetkov, Artem",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1597",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2015",
-    "Flag": ""
-  },
-  {
     "ID Number": "522013938",
     "Name": "Tsvetkov, Artem",
     "Fed": "RUS",
@@ -676183,6 +676168,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2015",
     "Flag": "i"
+  },
+  {
+    "ID Number": "540091210",
+    "Name": "Tsvetkov, Artem",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1597",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2015",
+    "Flag": ""
   },
   {
     "ID Number": "44150512",
@@ -685050,21 +685050,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55712738",
-    "Name": "Umnov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1425",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2014",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55632947",
     "Name": "Umnov, Vladimir",
     "Fed": "RUS",
@@ -685077,6 +685062,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1987",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55712738",
+    "Name": "Umnov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1425",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2014",
     "Flag": "i"
   },
   {
@@ -695265,21 +695265,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34339256",
-    "Name": "Vasiliev, Aleksandr",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1990",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1984",
-    "Flag": ""
-  },
-  {
     "ID Number": "24298239",
     "Name": "Vasiliev, Aleksandr",
     "Fed": "RUS",
@@ -695293,6 +695278,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1980",
     "Flag": "i"
+  },
+  {
+    "ID Number": "34339256",
+    "Name": "Vasiliev, Aleksandr",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1990",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1984",
+    "Flag": ""
   },
   {
     "ID Number": "24139874",
@@ -699060,21 +699060,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "54125600",
-    "Name": "Vdovichenko, Yuri",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1711",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1962",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55758770",
     "Name": "Vdovichenko, Yuri",
     "Fed": "RUS",
@@ -699087,6 +699072,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2013",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "54125600",
+    "Name": "Vdovichenko, Yuri",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1711",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1962",
     "Flag": "i"
   },
   {
@@ -704490,21 +704490,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55627528",
-    "Name": "Vinogradov, Mikhail",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1672",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1966",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540000257",
     "Name": "Vinogradov, Mikhail",
     "Fed": "RUS",
@@ -704517,6 +704502,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1978",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55627528",
+    "Name": "Vinogradov, Mikhail",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1672",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1966",
     "Flag": "i"
   },
   {
@@ -710265,21 +710265,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "24282316",
-    "Name": "Volkov, Vladimir",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1572",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1954",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522035303",
     "Name": "Volkov, Vladimir",
     "Fed": "RUS",
@@ -710292,6 +710277,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1982",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "24282316",
+    "Name": "Volkov, Vladimir",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1572",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1954",
     "Flag": "i"
   },
   {
@@ -710400,21 +710400,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55643795",
-    "Name": "Volkov, Yury",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1420",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1984",
-    "Flag": "i"
-  },
-  {
     "ID Number": "54186382",
     "Name": "Volkov, Yury",
     "Fed": "RUS",
@@ -710428,6 +710413,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1951",
     "Flag": ""
+  },
+  {
+    "ID Number": "55643795",
+    "Name": "Volkov, Yury",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1420",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1984",
+    "Flag": "i"
   },
   {
     "ID Number": "34191779",
@@ -710520,21 +710520,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "54161312",
-    "Name": "Volkova, Diana",
-    "Fed": "RUS",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1474",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2004",
-    "Flag": "wi"
-  },
-  {
     "ID Number": "55622801",
     "Name": "Volkova, Diana",
     "Fed": "RUS",
@@ -710548,6 +710533,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2010",
     "Flag": "w"
+  },
+  {
+    "ID Number": "54161312",
+    "Name": "Volkova, Diana",
+    "Fed": "RUS",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1474",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2004",
+    "Flag": "wi"
   },
   {
     "ID Number": "4157435",
@@ -733170,21 +733170,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34456929",
-    "Name": "Zakharov, Aleksey",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1739",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1984",
-    "Flag": "i"
-  },
-  {
     "ID Number": "540039323",
     "Name": "Zakharov, Aleksey",
     "Fed": "RUS",
@@ -733195,6 +733180,21 @@
     "Rating": "1540",
     "Gms": "0",
     "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1984",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34456929",
+    "Name": "Zakharov, Aleksey",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1739",
+    "Gms": "0",
+    "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1984",
     "Flag": "i"
@@ -733500,21 +733500,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "55602789",
-    "Name": "Zakharov, Egor",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1605",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55831273",
     "Name": "Zakharov, Egor",
     "Fed": "RUS",
@@ -733527,6 +733512,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2013",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55602789",
+    "Name": "Zakharov, Egor",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1605",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2008",
     "Flag": "i"
   },
   {
@@ -733860,21 +733860,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "24139033",
-    "Name": "Zakharov, Nikolay",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1830",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1942",
-    "Flag": "i"
-  },
-  {
     "ID Number": "34391240",
     "Name": "Zakharov, Nikolay",
     "Fed": "RUS",
@@ -733887,6 +733872,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1945",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "24139033",
+    "Name": "Zakharov, Nikolay",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1830",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1942",
     "Flag": "i"
   },
   {
@@ -743265,21 +743265,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "55861601",
-    "Name": "Zheltyakov, Kirill Ig",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1500",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2016",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55854354",
     "Name": "Zheltyakov, Kirill Ig",
     "Fed": "RUS",
@@ -743292,6 +743277,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2011",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55861601",
+    "Name": "Zheltyakov, Kirill Ig",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1500",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2016",
     "Flag": "i"
   },
   {
@@ -748110,18 +748110,33 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34479813",
+    "ID Number": "522057943",
     "Name": "Zhuravlev, Pavel",
     "Fed": "RUS",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1735",
+    "Rating": "1441",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1998",
+    "Flag": ""
+  },
+  {
+    "ID Number": "34335765",
+    "Name": "Zhuravlev, Pavel",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1520",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "OCT26",
-    "B-day": "1979",
+    "B-day": "2004",
     "Flag": "i"
   },
   {
@@ -748140,34 +748155,19 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34335765",
+    "ID Number": "34479813",
     "Name": "Zhuravlev, Pavel",
     "Fed": "RUS",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1520",
+    "Rating": "1735",
     "Gms": "0",
     "K": "20",
     "RatingMonth": "OCT26",
-    "B-day": "2004",
+    "B-day": "1979",
     "Flag": "i"
-  },
-  {
-    "ID Number": "522057943",
-    "Name": "Zhuravlev, Pavel",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1441",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1998",
-    "Flag": ""
   },
   {
     "ID Number": "34358862",
@@ -749355,21 +749355,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "55818323",
-    "Name": "Zimin, Egor",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1417",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2009",
-    "Flag": "i"
-  },
-  {
     "ID Number": "55801552",
     "Name": "Zimin, Egor",
     "Fed": "RUS",
@@ -749382,6 +749367,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2013",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "55818323",
+    "Name": "Zimin, Egor",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1417",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2009",
     "Flag": "i"
   },
   {
@@ -752565,21 +752565,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "34295950",
-    "Name": "Zotov, Maksim",
-    "Fed": "RUS",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1753",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "2001",
-    "Flag": "i"
-  },
-  {
     "ID Number": "522069127",
     "Name": "Zotov, Maksim",
     "Fed": "RUS",
@@ -752592,6 +752577,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2012",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "34295950",
+    "Name": "Zotov, Maksim",
+    "Fed": "RUS",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1753",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "2001",
     "Flag": "i"
   },
   {

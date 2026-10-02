@@ -28100,7 +28100,7 @@
     "Fed": "BIH",
     "Sex": "M",
     "Title": "IM",
-    "WTit": "",
+    "WTit": "FT",
     "OTit": "",
     "Rating": "2403",
     "Gms": "9",
@@ -28185,21 +28185,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "14421534",
-    "Name": "Pavlovic, Nikola",
-    "Fed": "BIH",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1663",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1998",
-    "Flag": "i"
-  },
-  {
     "ID Number": "14443082",
     "Name": "Pavlovic, Nikola",
     "Fed": "BIH",
@@ -28212,6 +28197,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1990",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "14421534",
+    "Name": "Pavlovic, Nikola",
+    "Fed": "BIH",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1663",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1998",
     "Flag": "i"
   },
   {
@@ -33210,21 +33210,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "14436647",
-    "Name": "Selimovic, Munib",
-    "Fed": "BIH",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1587",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1996",
-    "Flag": "i"
-  },
-  {
     "ID Number": "14442884",
     "Name": "Selimovic, Munib",
     "Fed": "BIH",
@@ -33237,6 +33222,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1966",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "14436647",
+    "Name": "Selimovic, Munib",
+    "Fed": "BIH",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1587",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1996",
     "Flag": "i"
   },
   {

@@ -764,7 +764,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4532775,"Nukka, Ilja",EST,M,,,,1501,0,40,OCT26,1992,
 4517121,"Nummert, Laurits",EST,M,,,,1401,0,40,OCT26,2011,
 4532686,"Nuut, Markus",EST,M,,,,1649,0,40,OCT26,1997,i
-4505549,"Obolonin, Filipp",EST,M,,NI,,2177,7,,OCT26,1997,
+4505549,"Obolonin, Filipp",EST,M,,"NI,FI",,2177,7,,OCT26,1997,
 4534603,"Ognestsikov, Ilja",EST,M,,,,1692,0,20,OCT26,1998,
 4514815,"Oim, Mikk Kaarel",EST,M,,,,2182,0,40,OCT26,2009,
 4519620,"Oim, Ruudi Johannes",EST,M,,,,1430,0,40,OCT26,2015,
@@ -985,6 +985,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4525507,"Rodionova, Dominika",EST,F,,,,1745,6,40,OCT26,2016,w
 4509838,"Rogaten, Varvara",EST,F,,,,1501,0,40,OCT26,2008,wi
 4536258,"Rogozina, Vladislava",EST,F,,,,1413,0,40,OCT26,2013,w
+34165878,"Rohozina, Vladislava",EST,F,,,,1464,0,40,OCT26,2013,w
 4522257,"Roht, Kaarel",EST,M,,,,1576,0,40,OCT26,2015,
 4516036,"Roi, Kristjan",EST,M,,,,1591,0,40,OCT26,2011,i
 4518420,"Roine, Albert Ludwig",EST,M,,,,1593,0,20,OCT26,1993,i
@@ -1206,8 +1207,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4509544,"Tehvanus, Eleri",EST,F,,,,1622,0,20,OCT26,1980,w
 4509358,"Telliskivi, Laur",EST,M,,,,1794,0,20,OCT26,1989,i
 4509366,"Telliskivi, Sven",EST,M,,,,2006,0,20,OCT26,1985,i
-4528263,"Teppo, Mart",EST,M,,,,1663,0,40,OCT26,2008,i
 4529146,"Teppo, Mart",EST,M,,,,1466,0,40,OCT26,2009,i
+4528263,"Teppo, Mart",EST,M,,,,1663,0,40,OCT26,2008,i
 4515714,"Terk, Erik",EST,M,,,,1633,0,20,OCT26,1952,
 4520378,"Thimm, Leelo Mia",EST,F,,,,1499,0,40,OCT26,2014,w
 4522460,"Thompson, Christopher",EST,M,,,,1855,0,20,OCT26,1977,i

@@ -112455,21 +112455,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "48723673",
-    "Name": "Atharv Gupta",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1618",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2009",
-    "Flag": ""
-  },
-  {
     "ID Number": "33317003",
     "Name": "Atharv Gupta",
     "Fed": "IND",
@@ -112483,6 +112468,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2010",
     "Flag": "i"
+  },
+  {
+    "ID Number": "48723673",
+    "Name": "Atharv Gupta",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1618",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2009",
+    "Flag": ""
   },
   {
     "ID Number": "558092269",
@@ -121179,7 +121179,7 @@
     "OTit": "",
     "Rating": "1530",
     "Gms": "0",
-    "K": "40",
+    "K": "",
     "RatingMonth": "OCT26",
     "B-day": "2013",
     "Flag": ""
@@ -128349,7 +128349,7 @@
     "OTit": "",
     "Rating": "1567",
     "Gms": "0",
-    "K": "20",
+    "K": "",
     "RatingMonth": "OCT26",
     "B-day": "1998",
     "Flag": ""
@@ -271410,21 +271410,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "25618202",
-    "Name": "Hemant Kumar",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1534",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1983",
-    "Flag": "i"
-  },
-  {
     "ID Number": "25621840",
     "Name": "Hemant Kumar",
     "Fed": "IND",
@@ -271437,6 +271422,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "2002",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "25618202",
+    "Name": "Hemant Kumar",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1534",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1983",
     "Flag": "i"
   },
   {
@@ -402384,7 +402384,7 @@
     "OTit": "",
     "Rating": "1917",
     "Gms": "0",
-    "K": "20",
+    "K": "",
     "RatingMonth": "OCT26",
     "B-day": "1987",
     "Flag": "i"
@@ -637295,7 +637295,7 @@
     "Fed": "IND",
     "Sex": "M",
     "Title": "",
-    "WTit": "NA",
+    "WTit": "FI,NA",
     "OTit": "",
     "Rating": "2014",
     "Gms": "0",
@@ -724269,7 +724269,7 @@
     "OTit": "",
     "Rating": "1657",
     "Gms": "9",
-    "K": "20",
+    "K": "",
     "RatingMonth": "OCT26",
     "B-day": "1985",
     "Flag": ""
@@ -824850,21 +824850,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "25046535",
-    "Name": "Vignesh S",
-    "Fed": "IND",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1441",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2001",
-    "Flag": "i"
-  },
-  {
     "ID Number": "25749692",
     "Name": "Vignesh S",
     "Fed": "IND",
@@ -824877,6 +824862,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2003",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "25046535",
+    "Name": "Vignesh S",
+    "Fed": "IND",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1441",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2001",
     "Flag": "i"
   },
   {
@@ -829464,7 +829464,7 @@
     "OTit": "",
     "Rating": "1498",
     "Gms": "0",
-    "K": "40",
+    "K": "",
     "RatingMonth": "OCT26",
     "B-day": "1986",
     "Flag": "i"
@@ -838760,7 +838760,7 @@
     "Fed": "IND",
     "Sex": "M",
     "Title": "GM",
-    "WTit": "",
+    "WTit": "FST",
     "OTit": "",
     "Rating": "2382",
     "Gms": "0",

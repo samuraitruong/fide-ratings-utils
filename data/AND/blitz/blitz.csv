@@ -21,7 +21,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6900283,"Galera Serra, Maria",AND,F,,,,1640,0,20,OCT26,1998,wi
 6900020,"Garcia Paolicchi, Raul",AND,M,FM,,,2028,0,20,OCT26,1952,
 2218151,"Gomez Anadon, Daniel",AND,M,FM,,,2124,0,20,OCT26,1983,
-2222744,"Gonzalez Garcia, Marc",AND,M,,,,2146,0,20,OCT26,1979,
+2222744,"Gonzalez Garcia, Marc",AND,M,,NI,,2146,0,20,OCT26,1979,
 6900046,"Gorgues Mateu, David",AND,M,,,,1837,0,20,OCT26,1971,i
 6900011,"Gorgues Valle, Jose Maria",AND,M,,,,1869,0,20,OCT26,1945,i
 6900526,"Gras Travesset, Ferran",AND,M,,,,1784,0,20,OCT26,1996,i
@@ -44,7 +44,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6901301,"Montraveta Jo, Marc",AND,M,,,,1551,0,40,OCT26,2010,i
 6901344,"Montraveta Rodriguez, Jose Maria",AND,M,,,,1848,0,20,OCT26,1974,i
 6900593,"Morente Plaza, Marc",AND,M,,,,1861,0,20,OCT26,1990,i
-6900100,"Moscoso Rodriguez, Joan",AND,M,,,,1668,0,20,OCT26,1954,
+6900100,"Moscoso Rodriguez, Joan",AND,M,,DI,,1668,0,20,OCT26,1954,
 22227172,"Muratet Carmona, Alexandra",AND,F,WCM,WCM,IA,1766,0,20,OCT26,1990,wi
 2204282,"Muratet Carmona, Julia",AND,F,WCM,WCM,NA,1797,0,20,OCT26,1995,w
 6900607,"Navarro Mignorance, Ernest",AND,M,,,,1549,0,20,OCT26,1955,i
@@ -60,12 +60,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6901689,"Ramirez Agromayor, Biel",AND,M,,,,1608,0,40,OCT26,2010,i
 6901077,"Ramos Torres, Daniel",AND,M,,,,1521,0,20,OCT26,2005,i
 6901336,"Real Puigdollers, Silvia",AND,F,WCM,WCM,,1729,0,20,OCT26,1974,w
-6900232,"Rechi Montes, Aritz",AND,M,,,,1678,0,20,OCT26,1980,
+6900232,"Rechi Montes, Aritz",AND,M,,DI,,1678,0,20,OCT26,1980,
 22249303,"Rechi Montes, Xavier",AND,M,,,,1784,0,20,OCT26,1982,
 6900330,"Rechi Perez, Francesc",AND,M,,,,1927,0,20,OCT26,1956,i
 6901573,"Reyes Sirkia, Gael",AND,M,,,,1499,0,40,OCT26,2013,
 6900364,"Riba Revert, Valenti",AND,M,,,,1771,0,20,OCT26,2000,i
-6900305,"Ribera Baztan, Jose",AND,M,CM,,,1991,0,20,OCT26,1972,
+6900305,"Ribera Baztan, Jose",AND,M,CM,NI,,1991,0,20,OCT26,1972,
 6900763,"Ribera Veganzones, Josep Maria",AND,M,CM,,,2100,0,20,OCT26,2003,i
 6900860,"Ribera Veganzones, Serni",AND,M,FM,,,2211,0,20,OCT26,2007,
 6901590,"Rivero Rechi, Pol",AND,M,,,,1524,0,20,OCT26,2006,i
