@@ -102,7 +102,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6600620,"Carrasco, Brandon",PAN,M,CM,,,1893,0,20,OCT26,2000,i
 6600549,"Carrera Du Bois, Alhan E.",PAN,M,,,,1893,0,40,OCT26,1994,i
 6605656,"Carrera Nicholson, Carlos Enrique",PAN,M,,,,1585,0,40,OCT26,2008,i
-6600611,"Carrera Ortega, Alhan Enock",PAN,M,,,,1915,0,20,OCT26,1967,i
+6600611,"Carrera Ortega, Alhan Enock",PAN,M,,SI,,1915,0,20,OCT26,1967,i
 6606369,"Carrera Saldana, Rommel Abdiel",PAN,M,,FA,,1520,0,20,OCT26,2003,i
 3911853,"Carrillo Marval, Maria Angelica",PAN,F,WCM,WCM,"SI,NI,FA",1810,8,20,OCT26,1991,w
 6600476,"Carrillo, Jose Antonio",PAN,M,,,,1800,0,20,OCT26,1975,
@@ -219,7 +219,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6606601,"Esturain, Edegar",PAN,M,,,,1585,0,20,OCT26,1982,i
 6604218,Ethan Ferreira De Souza Burillo,PAN,M,,,,1604,0,40,OCT26,2007,i
 6609686,"Fabrega Van Der Laat, Jose Bernardo",PAN,M,CM,,,1998,0,40,OCT26,2011,
-6610862,"Fascio Outerbridge, Arno Augusto",PAN,M,CM,,,1981,0,20,OCT26,2006,
+6610862,"Fascio Outerbridge, Arno Augusto",PAN,M,CM,SI,,1981,0,20,OCT26,2006,
 6621937,"Fernandez Altamirano, Alfonso Enrique",PAN,M,,,,1488,0,40,OCT26,2008,i
 6629717,"Fernandez Araya, Maximiliano Andres",PAN,M,,,,1559,0,40,OCT26,2013,
 6614728,"Fernandez Gallardo, Edgar Joel",PAN,M,,,,1617,0,,OCT26,1988,i
@@ -273,7 +273,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6600344,"Gonzalez Ramirez, Yaribeth",PAN,F,WCM,WCM,FA,1715,0,20,OCT26,1986,wi
 6608612,"Gonzalez Rodriguez, Ernesto",PAN,M,,,,1496,0,40,OCT26,1999,
 6608620,"Gonzalez Rodriguez, Genesis",PAN,F,,,,1471,0,40,OCT26,2008,w
-3910288,"Gonzalez Soto, Pedro Jose",PAN,M,,FA,,1927,0,20,OCT26,1988,
+3910288,"Gonzalez Soto, Pedro Jose",PAN,M,,"SI,FA",,1927,0,20,OCT26,1988,
 6608574,"Gonzalez Vergara, Abdiel I.",PAN,M,,,,1511,0,40,OCT26,2009,i
 6613144,"Gonzalez Weliz, Elias Jose",PAN,M,,,,1623,0,40,OCT26,2000,i
 6611087,"Gonzalez Weliz, Ivan",PAN,M,,,,1664,0,40,OCT26,2003,i
@@ -535,7 +535,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6609899,"Qiu, Oscar",PAN,M,,,,1595,0,20,OCT26,2007,i
 6606253,"Quezada Quezada, Leonardo Fabio",PAN,M,,,,1613,0,40,OCT26,1986,i
 6602355,"Quiel Gonzalez, Aristoteles",PAN,M,,,,1525,5,40,OCT26,1962,
-6601464,"Quintero Garzola, Gabriel Conrado",PAN,M,CM,,,1759,0,20,OCT26,1972,
+6601464,"Quintero Garzola, Gabriel Conrado",PAN,M,CM,SI,,1759,0,20,OCT26,1972,
 6605575,"Quintero Palacio, Virgilio Josue",PAN,M,,,,1533,0,40,OCT26,2002,i
 6614540,"Quintero, Jose Ignacio",PAN,M,,,,1663,0,20,OCT26,2007,i
 6622291,"Quiroz Palacios, Eliezer Francisco",PAN,M,,,,1742,0,40,OCT26,1982,i
@@ -563,7 +563,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6634630,"Rincon Monroy, Juan Andres",PAN,M,,,,1411,0,40,OCT26,2009,i
 6602967,"Riquelme Quintero, Eduard Radames",PAN,M,,NA,,1858,0,20,OCT26,1976,i
 6601316,"Rivera De Leon, Juan Alberto",PAN,M,,,,1980,0,40,OCT26,1956,i
-6604811,"Rivera Zambrano, Raul",PAN,M,,,,1743,0,40,OCT26,2002,i
+6604811,"Rivera Zambrano, Raul",PAN,M,,SI,,1743,0,40,OCT26,2002,i
 6602088,"Rivera, Carlos",PAN,M,,,,1848,0,20,OCT26,1980,
 6600301,"Rivera, Rafael",PAN,M,,,,2046,0,40,OCT26,0,i
 6617093,"Roa Lugo, Enmanuel de Jesus",PAN,M,,,,1603,0,40,OCT26,2014,
@@ -633,7 +633,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6615546,"Serrano, Hillary Nicole",PAN,F,,,,1590,0,40,OCT26,2012,w
 6612296,"Serrano, Juan David",PAN,M,,,,1561,0,40,OCT26,2005,
 6602401,"Shaul Zebede, Eden Jaim",PAN,M,,,,1519,0,40,OCT26,2005,i
-6614051,"Shayegan Fernandez, Yeisie Behroo",PAN,F,,,,1476,0,20,OCT26,1990,w
+6614051,"Shayegan Fernandez, Yeisie Behroo",PAN,F,,SI,,1476,0,20,OCT26,1990,w
 6615171,"Sheffer Ledesma, Aldair Thomas",PAN,M,,,,1435,0,40,OCT26,2009,
 6606784,"Silla, Jean-Baptiste Madior",PAN,M,,,,1638,0,40,OCT26,1969,i
 6631517,"Simpson Miranda, Ian Andre",PAN,M,,,,1822,0,40,OCT26,2011,

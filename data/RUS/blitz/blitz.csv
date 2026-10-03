@@ -16,8 +16,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24134171,"Abanin, Vladimir",RUS,M,,,,1670,0,20,OCT26,1948,
 55739750,"Abanos, Damir",RUS,M,,,,1497,0,40,OCT26,2010,i
 55781594,"Abanos, Emir S",RUS,M,,,,1439,0,40,OCT26,2012,i
-24242411,"Abarinov, Alexey",RUS,M,,,,1780,0,20,OCT26,1985,i
 34167509,"Abarinov, Alexey",RUS,M,,,,1797,0,20,OCT26,1982,
+24242411,"Abarinov, Alexey",RUS,M,,,,1780,0,20,OCT26,1985,i
 34410724,"Abarinov, Mikhail",RUS,M,,,,1781,0,40,OCT26,2009,
 4185099,"Abarovskiy, Andrey",RUS,M,,,,2069,0,20,OCT26,1987,i
 44153848,"Abasheeva, Ksenia",RUS,F,,,,1955,0,20,OCT26,2000,wi
@@ -63,8 +63,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522006850,"Abdullin, Rinat",RUS,M,,,,1550,0,20,OCT26,1957,i
 34172936,"Abdullin, Ruslan",RUS,M,,,,1780,0,20,OCT26,2001,i
 522001212,"Abdullin, Ruslan",RUS,M,,,,1404,0,40,OCT26,2014,i
-55848834,"Abdullin, Timur",RUS,M,,,,1564,0,40,OCT26,2015,
 540002047,"Abdullin, Timur",RUS,M,,,,1661,0,20,OCT26,2003,i
+55848834,"Abdullin, Timur",RUS,M,,,,1564,0,40,OCT26,2015,
 54163285,"Abdullina, Adel",RUS,F,,,,1503,0,20,OCT26,2007,wi
 54113725,"Abdullina, Nailya",RUS,F,,,,1622,0,20,OCT26,2003,wi
 55876064,"Abdulmanov, Dinislam",RUS,M,,,,1672,0,40,OCT26,2012,
@@ -588,7 +588,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44164840,"Aksenov, Artem",RUS,M,,,,1627,0,20,OCT26,2004,i
 522055177,"Aksenov, Denis",RUS,M,,,,1634,0,20,OCT26,1988,
 34213759,"Aksenov, Egor",RUS,M,,,,1931,0,40,OCT26,2009,
-55799213,"Aksenov, Georgii",RUS,M,,,,1734,0,40,OCT26,2011,
+55799213,"Aksenov, Georgii",RUS,M,,,,1764,13,40,OCT26,2011,
 4103041,"Aksenov, Ivan",RUS,M,,,,1777,0,20,OCT26,1946,i
 24169471,"Aksenov, Konstantin",RUS,M,,,,1617,0,20,OCT26,1985,
 55740421,"Aksenov, Matvei A",RUS,M,,,,1811,0,40,OCT26,2009,
@@ -730,8 +730,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522072241,"Alekseev, Daniil Ig",RUS,M,,,,1401,0,40,OCT26,2013,i
 44196865,"Alekseev, Danil",RUS,M,,,,1783,0,20,OCT26,2005,i
 44125445,"Alekseev, Dmitry",RUS,M,,,,1843,0,20,OCT26,2000,i
-24124060,"Alekseev, Dmitry",RUS,M,,,,1908,0,20,OCT26,1985,i
 24228710,"Alekseev, Dmitry",RUS,M,,,,1833,0,20,OCT26,2003,i
+24124060,"Alekseev, Dmitry",RUS,M,,,,1908,0,20,OCT26,1985,i
 34223525,"Alekseev, Egor",RUS,M,,,,1907,0,40,OCT26,2009,i
 55852874,"Alekseev, Evgenii",RUS,M,,,,1587,0,20,OCT26,1992,i
 540009815,"Alekseev, Evgeniy",RUS,M,,,,1688,0,20,OCT26,2005,i
@@ -1228,8 +1228,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55766900,"Antipov, Ivan",RUS,M,,,,1411,0,40,OCT26,2012,i
 24155101,"Antipov, Nikolai",RUS,M,,,,1825,0,20,OCT26,1957,
 55809596,"Antipov, Pavel",RUS,M,,,,1485,0,20,OCT26,1983,
-522062688,"Antipov, Sergey",RUS,M,,,,1622,0,20,OCT26,1979,i
 55683002,"Antipov, Sergey",RUS,M,,,,1488,0,20,OCT26,2007,i
+522062688,"Antipov, Sergey",RUS,M,,,,1622,0,20,OCT26,1979,i
 4149327,"Antipov, Vladimir",RUS,M,,,,1883,0,20,OCT26,1955,i
 24178705,"Antipova, Anastasia",RUS,F,WFM,WFM,,1956,0,20,OCT26,1998,wi
 24172685,"Antischev, Anatoli",RUS,M,,,,1609,0,20,OCT26,1945,i
@@ -1811,7 +1811,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34358897,"Avtushenko, Dmitry",RUS,M,,,,1552,0,40,OCT26,2010,i
 540027295,"Avtushenko, Evgenii",RUS,M,,,,1630,0,20,OCT26,1994,i
 55709044,"Avushyan, Tigran",RUS,M,,,,1608,0,20,OCT26,2000,i
-24284394,"Avvakumov, Maksim",RUS,M,,,,1968,13,40,OCT26,2009,
+24284394,"Avvakumov, Maksim",RUS,M,,,,1925,26,40,OCT26,2009,
 54123860,"Avvakumov, Sergey",RUS,M,,,,2093,0,20,OCT26,1962,i
 570000077,"Aydarov, Timur Gal",RUS,M,,,,1666,0,40,OCT26,2014,
 55697267,"Aydemirova, Karina",RUS,F,,,,1494,0,40,OCT26,2013,wi
@@ -1841,8 +1841,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24142409,"Ayzatulin, Rostislaw",RUS,M,,,,1864,0,20,OCT26,1974,i
 34196460,"Ayzenberg, Yuriy",RUS,M,,,,1748,0,20,OCT26,1967,i
 34274618,"Ayzetov, Pavel",RUS,M,,,,1494,0,40,OCT26,2010,i
-24273082,"Azamatov, Denis",RUS,M,,,,2067,0,20,OCT26,1965,i
 34387595,"Azamatov, Denis",RUS,M,,,,2021,0,20,OCT26,1978,i
+24273082,"Azamatov, Denis",RUS,M,,,,2067,0,20,OCT26,1965,i
 4148282,"Azanov, Pavel",RUS,M,,,,1958,0,20,OCT26,1982,i
 34183067,"Azarchuk, Anna",RUS,F,,,,1824,0,20,OCT26,1998,wi
 522070583,"Azarginov, Ildar D",RUS,M,,,,1591,0,40,OCT26,2014,
@@ -2404,7 +2404,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34118974,"Baranovskiy, Daniil",RUS,M,,,,1923,0,20,OCT26,2002,i
 540098508,"Baranovskiy, Vyacheslav",RUS,M,,,,1633,0,20,OCT26,1980,
 24155055,"Baranow, Sergey",RUS,M,,,,2112,0,,OCT26,1983,
-44156022,"Barantsev, Kirill",RUS,M,,,,1951,0,20,OCT26,2004,i
+44156022,"Barantsev, Kirill",RUS,M,,,,1956,13,20,OCT26,2004,
 34134333,"Barash, Mikhail",RUS,M,,,,2121,0,20,OCT26,1995,i
 55861628,"Barashenkov, Maksim",RUS,M,,,,1457,0,40,OCT26,2016,
 55883427,"Barashev, Albert",RUS,M,,,,1535,0,40,OCT26,2017,
@@ -2645,7 +2645,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34197327,"Batyrshin, Ilnur",RUS,M,,,,1762,0,20,OCT26,1985,i
 55677070,"Batyrshina, Zukhra",RUS,F,,,,1444,0,20,OCT26,1982,wi
 34115088,"Batyuk, Artem",RUS,M,,,,2176,0,20,OCT26,1998,i
-55865429,"Bauer, Timofei",RUS,M,,,,1489,0,40,OCT26,2011,
 540016382,"Baulov, Emil",RUS,M,,,,1463,0,20,OCT26,2004,i
 34290184,"Bausheva, Angelina",RUS,F,,,,1475,0,40,OCT26,2011,wi
 24224731,"Bautin, Mikhail",RUS,M,,,,1899,0,20,OCT26,1967,i
@@ -2656,8 +2655,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 540059880,"Bavylkina, Arina",RUS,F,,,,1490,0,40,OCT26,2013,w
 55845100,"Bayaliev, Daniel M",RUS,M,,,,1640,0,40,OCT26,2008,
 55845118,"Bayaliev, Mars",RUS,M,,,,1660,0,20,OCT26,1977,i
-55707408,"Bayanov, Ruslan",RUS,M,,,,1756,0,40,OCT26,2010,i
 34244700,"Bayanov, Ruslan",RUS,M,,,,1806,0,20,OCT26,1979,i
+55707408,"Bayanov, Ruslan",RUS,M,,,,1756,0,40,OCT26,2010,i
 55765700,"Bayazitov, Arsenii",RUS,M,,,,1505,0,40,OCT26,2010,
 55715419,"Bayazitov, Irek",RUS,M,,,,1565,0,20,OCT26,1959,
 522087826,"Bayazitov, Sultan",RUS,M,,,,1507,0,40,OCT26,2014,
@@ -3194,8 +3193,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34440216,"Bersan, Daniil",RUS,M,,,,1741,0,40,OCT26,2008,i
 34385410,"Bersekov, Safarbi",RUS,M,,,,1905,0,20,OCT26,1948,i
 570005087,"Bersenev, Valeriy",RUS,M,,,,1511,0,20,OCT26,1987,
-54113814,"Bersenev, Vladislav",RUS,M,,,,1529,0,20,OCT26,2002,i
 55778615,"Bersenev, Vladislav",RUS,M,,,,1691,0,20,OCT26,2006,i
+54113814,"Bersenev, Vladislav",RUS,M,,,,1529,0,20,OCT26,2002,i
 34363416,"Berseneva, Ekateryna",RUS,F,,,,1500,0,40,OCT26,2008,wi
 540000060,"Bersimenko, Andrey",RUS,M,,,,1713,19,40,OCT26,2014,
 540000079,"Bersimenko, Maxim",RUS,M,,,,1768,19,40,OCT26,2014,
@@ -3269,6 +3268,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34205349,"Beynerovich, Sergey",RUS,M,,,,1987,0,20,OCT26,1982,i
 34291571,"Beytuganov, Musabi",RUS,M,,,,2040,0,20,OCT26,1944,i
 34176915,"Bezborodov, Egor",RUS,M,,,,1602,0,20,OCT26,2003,i
+34298991,"Bezborodov, Sergey",RUS,M,,,,1493,19,40,OCT26,2010,
 44190778,"Bezborodova, Elena",RUS,F,,,,1757,0,20,OCT26,2005,wi
 55879063,"Bezborodykh, Zakhar",RUS,M,,,,1527,0,40,OCT26,2011,i
 24126845,"Bezdenezhnyh, Pavel",RUS,M,,,,1988,0,20,OCT26,1988,
@@ -3848,7 +3848,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55778240,"Borisov, Georgy Aleks",RUS,M,,,,1424,0,40,OCT26,2010,
 34110892,"Borisov, Ivan",RUS,M,,,,1683,0,20,OCT26,2003,i
 34347135,"Borisov, Ivan",RUS,M,,,,1452,0,40,OCT26,2010,i
-55655734,"Borisov, Ivan D",RUS,M,,,,2223,0,40,OCT26,2011,
+55655734,"Borisov, Ivan D",RUS,M,,,,2146,13,40,OCT26,2011,
 24219630,"Borisov, Konstantin",RUS,M,,,,1895,0,,OCT26,2006,i
 55798780,"Borisov, Konstantin N",RUS,M,,,,1527,0,20,OCT26,2002,i
 540027392,"Borisov, Maksim",RUS,M,,,,1419,0,40,OCT26,2014,
@@ -4339,7 +4339,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24290203,"Bunaev, Vladislav",RUS,M,,,,1788,0,20,OCT26,2007,i
 522019421,"Bundakov, Nikita",RUS,M,,,,1441,0,40,OCT26,2012,i
 55716938,"Bundzen, Andrey",RUS,M,,,,1575,0,40,OCT26,2011,i
-34283188,"Bunev, Petr",RUS,M,,,,1969,0,40,OCT26,2011,
 24246310,"Buniatyan, David",RUS,M,,,,2037,0,20,OCT26,2003,i
 34339043,"Bunimov, Ivan",RUS,M,,,,1479,0,20,OCT26,2003,i
 55850774,"Bunin, Aleksey Kon",RUS,M,,,,1780,10,40,OCT26,2014,
@@ -4893,7 +4892,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55710026,"Cherepanov, Sergey",RUS,M,,,,1616,0,40,OCT26,2011,
 54125545,"Cherepanov, Vladimir",RUS,M,,,,1869,0,20,OCT26,1951,i
 4132211,"Cherepanov, Vladislav",RUS,M,FM,,,2131,0,20,OCT26,1973,
-540070794,"Cherepanov, Yaroslav",RUS,M,,,,1461,0,40,OCT26,2011,
+540070794,"Cherepanov, Yaroslav",RUS,M,,,,1514,13,40,OCT26,2011,
 54124603,"Cherepanova, Anastasia",RUS,F,,,,1573,0,20,OCT26,2006,wi
 44118341,"Cherepanova, Evita",RUS,F,WCM,WCM,,1707,0,20,OCT26,2006,w
 24123447,"Cherepanova, Valentina",RUS,F,,,,1684,0,20,OCT26,1936,wi
@@ -4901,7 +4900,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34427635,"Cherepkov, Anton",RUS,M,,,,1621,0,20,OCT26,1993,i
 522081755,"Cherepov, Dmitriy",RUS,M,,,,1867,0,20,OCT26,1987,
 34351213,"Cherepov, Georgy",RUS,M,,,,1487,0,40,OCT26,2009,i
-522098739,"Cherepov, Timofei",RUS,M,,,,1640,0,40,OCT26,2011,
+522098739,"Cherepov, Timofei",RUS,M,,,,1634,11,40,OCT26,2011,
 34282882,"Chereshkevich, Yuri",RUS,M,,,,1878,0,40,OCT26,2010,i
 522019219,"Cherikov, Ivan",RUS,M,,,,1594,0,40,OCT26,2009,i
 34365370,"Cherkachshenko, Ivan",RUS,M,,,,1612,0,40,OCT26,2008,i
@@ -5088,7 +5087,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34461345,"Chernyshev, Zakhar",RUS,M,,,,1509,0,40,OCT26,2010,i
 34489371,"Chernysheva, Mariia",RUS,F,,,,1760,0,40,OCT26,2012,w
 34373489,"Chernysheva, Mariya E",RUS,F,,,,1464,0,,OCT26,1990,wi
-34395407,"Chernyshkova, Milena",RUS,F,,,,1759,11,40,OCT26,2011,w
+34395407,"Chernyshkova, Milena",RUS,F,,,,1721,24,40,OCT26,2011,w
 4117352,"Chernyshov, Aleksandr",RUS,M,,,,1903,0,20,OCT26,1945,i
 24135402,"Chernyshov, Alexander",RUS,M,,,,2024,0,20,OCT26,1994,
 55838049,"Chernyshov, Eduard",RUS,M,,,,1856,0,40,OCT26,2012,
@@ -5533,8 +5532,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34166502,"Danilov, Artem",RUS,M,,,,1743,0,20,OCT26,2004,i
 54193877,"Danilov, Bogdan",RUS,M,,,,1591,0,40,OCT26,2009,i
 522002642,"Danilov, Bogdan V",RUS,M,,,,1514,0,20,OCT26,2005,i
-54178347,"Danilov, Daniil",RUS,M,,,,1609,0,40,OCT26,2008,i
 522073825,"Danilov, Daniil",RUS,M,,,,1492,0,40,OCT26,2015,i
+54178347,"Danilov, Daniil",RUS,M,,,,1609,0,40,OCT26,2008,i
 34325166,"Danilov, Eduard",RUS,M,,NA,,1872,0,20,OCT26,1977,i
 24197971,"Danilov, Egor",RUS,M,,,,1752,9,20,OCT26,2002,
 55769136,"Danilov, Egor",RUS,M,,,,1412,0,40,OCT26,2011,i
@@ -5550,8 +5549,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34238948,"Danilov, Mikhail S",RUS,M,,,,1612,0,20,OCT26,2007,i
 34172448,"Danilov, Nikita",RUS,M,,,,1824,0,20,OCT26,2000,i
 522051821,"Danilov, Nikolaj",RUS,M,,,,1597,0,20,OCT26,1983,i
-540033503,"Danilov, Nikolay",RUS,M,,,,1718,0,20,OCT26,1991,
 34332820,"Danilov, Nikolay",RUS,M,,,,1583,0,20,OCT26,1951,
+540033503,"Danilov, Nikolay",RUS,M,,,,1718,0,20,OCT26,1991,
 522078959,"Danilov, Ruslan R",RUS,M,,,,1403,0,40,OCT26,2014,
 522029222,"Danilov, Sergey Ars",RUS,M,,,,1566,0,40,OCT26,2016,
 55740693,"Danilov, Sergey R",RUS,M,,,,1503,0,40,OCT26,2012,
@@ -5781,8 +5780,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24126861,"Demenshin, Mikhail",RUS,M,,,,1995,0,20,OCT26,1985,i
 54143365,"Demenshin, Semen",RUS,M,,,,2111,0,20,OCT26,2007,i
 24134090,"Demensky, Evgeny",RUS,M,,,,2104,0,20,OCT26,1971,
-34429743,"Dementiev, Aleksandr",RUS,M,,,,1533,0,40,OCT26,2009,i
 34310479,"Dementiev, Aleksandr",RUS,M,,,,1807,0,20,OCT26,1980,i
+34429743,"Dementiev, Aleksandr",RUS,M,,,,1533,0,40,OCT26,2009,i
 34431225,"Dementiev, Aleksandr N",RUS,M,,,,1627,0,20,OCT26,1954,i
 24103055,"Dementiev, Aleksey",RUS,M,,,,1783,0,20,OCT26,1996,i
 34446508,"Dementiev, Andrey",RUS,M,,,,1661,0,40,OCT26,2009,
@@ -5812,8 +5811,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54134757,"Demidov, Ivan A.",RUS,M,,,,1743,0,20,OCT26,2004,i
 4163826,"Demidov, Leonid",RUS,M,,,,2071,0,20,OCT26,1977,i
 34342613,"Demidov, Victor",RUS,M,,,,1707,0,20,OCT26,1979,i
-55737854,"Demidov, Vladimir",RUS,M,,,,1554,0,20,OCT26,1990,i
 24261572,"Demidov, Vladimir",RUS,M,,,,1634,0,20,OCT26,1952,i
+55737854,"Demidov, Vladimir",RUS,M,,,,1554,0,20,OCT26,1990,i
 55871496,"Demidov, Vladimir Mikh",RUS,M,,,,1949,11,40,OCT26,2016,
 24153940,"Demidov, Vladislav",RUS,M,FM,,,2204,0,20,OCT26,1996,i
 55754627,"Demidov, Zakhar",RUS,M,,,,1503,0,40,OCT26,2013,i
@@ -6150,7 +6149,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34181803,"Dmitriev, Zhorzh",RUS,M,,,,1773,0,20,OCT26,1948,i
 34211098,"Dmitrieva, Darya",RUS,F,,,,1401,0,20,OCT26,2006,wi
 4142721,"Dmitrieva, Galina",RUS,F,,,,1647,0,20,OCT26,1959,wi
-55702260,"Dmitrieva, Mariya",RUS,F,,,,1538,13,40,OCT26,2013,w
+55702260,"Dmitrieva, Mariya",RUS,F,,,,1550,24,40,OCT26,2013,w
 55729070,"Dmitrieva, Mariya Al",RUS,F,,,,1630,0,40,OCT26,2008,wi
 34420550,"Dmitrieva, Valeriya",RUS,F,,,,1416,0,20,OCT26,2005,wi
 54182379,"Dmitrievskaya, Ekaterina",RUS,F,,,,1522,0,40,OCT26,2008,wi
@@ -6483,7 +6482,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522022554,"Drozdov, Igor",RUS,M,,,,1534,0,20,OCT26,1968,i
 44116608,"Drozdov, Lev",RUS,M,,,,1698,0,20,OCT26,2006,i
 54173400,"Drozdov, Maksim",RUS,M,,,,1829,0,40,OCT26,2008,i
-34480919,"Drozdov, Nikita",RUS,M,,,,1803,0,40,OCT26,2013,
+34480919,"Drozdov, Nikita",RUS,M,,,,1604,12,40,OCT26,2013,
 34135712,"Drozdov, Sergey",RUS,M,,,,1653,8,20,OCT26,1949,
 44176481,"Drozdov, Sergey V.",RUS,M,,,,1776,0,20,OCT26,2003,i
 4129580,"Drozdov, Vladimir E.",RUS,M,,,,1938,0,20,OCT26,1940,i
@@ -6523,7 +6522,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24171735,"Drygalov, Andrey",RUS,M,GM,,,2454,0,10,OCT26,1999,
 24171743,"Drygalov, Sergey",RUS,M,GM,,,2489,0,10,OCT26,1999,
 4102460,"Dryzheva, Dariana",RUS,F,,,,1868,0,20,OCT26,1995,wi
-55739890,"Dryzhinin, Kirill",RUS,M,,,,1949,0,40,OCT26,2014,
+55739890,"Dryzhinin, Kirill",RUS,M,,,,2064,13,40,OCT26,2014,
 44144199,"Dub, Roman",RUS,M,,,,1864,0,20,OCT26,2000,i
 34425276,"Dubakin, Oleg",RUS,M,,,,1709,0,,OCT26,2010,
 34182710,"Dubanov, Viktor",RUS,M,,,,1701,0,20,OCT26,2002,
@@ -6556,8 +6555,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34419977,"Dubov, Pavel",RUS,M,,,,1450,0,40,OCT26,2008,i
 540022595,"Dubovaya, Anna",RUS,F,,,,1676,0,20,OCT26,1987,wi
 124137757,"Dubovik, Nikolay",RUS,M,,,,1671,0,,OCT26,1993,i
-34395237,"Dubovikova, Margarita",RUS,F,,,,1575,12,40,OCT26,2012,w
-34303715,"Dubovikova, Rada",RUS,F,,,,1744,13,40,OCT26,2010,w
+34395237,"Dubovikova, Margarita",RUS,F,,,,1567,24,40,OCT26,2012,w
+34303715,"Dubovikova, Rada",RUS,F,,,,1676,25,40,OCT26,2010,w
 55630987,"Dubovkin, Matvey",RUS,M,,,,1948,0,40,OCT26,2012,
 55654231,"Dubovkin, Sergey Vl",RUS,M,,,,1451,0,20,OCT26,1971,i
 55789439,"Dubovoy, Filipp",RUS,M,,,,1592,0,40,OCT26,2013,
@@ -6947,8 +6946,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55670024,"Efremov, Roman Al.",RUS,M,,,,1497,0,40,OCT26,2012,
 24180475,"Efremov, Valery",RUS,M,,,,1865,0,20,OCT26,1972,i
 24112690,"Efremov, Vasily",RUS,M,,,,1951,0,20,OCT26,1988,i
-34140511,"Efremov, Viktor",RUS,M,,,,1980,0,20,OCT26,1962,i
 570033331,"Efremov, Viktor",RUS,M,,,,1818,0,20,OCT26,1993,
+34140511,"Efremov, Viktor",RUS,M,,,,1980,0,20,OCT26,1962,i
 4184017,"Efremov, Vladimir",RUS,M,,,,1978,0,20,OCT26,1962,i
 44125623,"Efremov, Yaroslav",RUS,M,,,,1725,0,20,OCT26,2005,i
 24192511,"Efremov, Yuriy A.",RUS,M,,,,1823,0,20,OCT26,1994,i
@@ -6985,8 +6984,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34132713,"Egorov, Alexandr",RUS,M,,,,1881,0,20,OCT26,1965,i
 34144398,"Egorov, Alexey",RUS,M,,,,1898,0,20,OCT26,2002,i
 34218106,"Egorov, Alexey",RUS,M,,,,1625,0,20,OCT26,2003,
-34200657,"Egorov, Alexey",RUS,M,,,,1743,0,20,OCT26,1975,i
 34305114,"Egorov, Alexey",RUS,M,,,,1452,0,20,OCT26,2003,
+34200657,"Egorov, Alexey",RUS,M,,,,1743,0,20,OCT26,1975,i
 24109860,"Egorov, Anatoly",RUS,M,,,,1921,0,20,OCT26,1988,
 24143596,"Egorov, Andrei",RUS,M,,,,2030,0,20,OCT26,0,i
 24128929,"Egorov, Andrey",RUS,M,,,,1993,0,20,OCT26,1985,i
@@ -8280,8 +8279,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34257330,"Fomin, Andrey Val",RUS,M,,,,1639,0,20,OCT26,1969,i
 44196237,"Fomin, Artem",RUS,M,,,,1692,0,20,OCT26,2003,i
 24227722,"Fomin, Artem",RUS,M,,,,1417,0,40,OCT26,2008,i
-34469354,"Fomin, Dmitrii",RUS,M,,,,1428,0,40,OCT26,2011,i
 540079988,"Fomin, Dmitrii",RUS,M,,,,1430,0,40,OCT26,2015,
+34469354,"Fomin, Dmitrii",RUS,M,,,,1428,0,40,OCT26,2011,i
 44155298,"Fomin, Egor",RUS,M,,,,1666,0,20,OCT26,2004,i
 24224332,"Fomin, Gennady",RUS,M,,,,1738,0,20,OCT26,1935,i
 24299804,"Fomin, Ilia",RUS,M,,,,1640,0,40,OCT26,2008,i
@@ -8394,7 +8393,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55712150,"Frolov, Maksim",RUS,M,,,,1402,0,40,OCT26,2012,i
 55692362,"Frolov, Maksim V",RUS,M,,,,1423,0,40,OCT26,2012,i
 55763987,"Frolov, Matvey",RUS,M,,,,1565,0,40,OCT26,2015,
-55636462,"Frolov, Matvey",RUS,M,,,,1511,0,40,OCT26,2012,i
+55636462,"Frolov, Matvey",RUS,M,,,,1511,11,40,OCT26,2012,
 34274693,"Frolov, Maxim",RUS,M,,,,1847,0,40,OCT26,2009,
 34411208,"Frolov, Mikhail E.",RUS,M,,,,1550,0,20,OCT26,2007,i
 54199867,"Frolov, Nikolai",RUS,M,,,,1714,0,20,OCT26,1965,i
@@ -8767,6 +8766,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34295437,"Gandaloev, Israil",RUS,M,,,,1633,0,20,OCT26,1962,i
 55647707,"Gandelman, Samuil",RUS,M,,,,1822,0,20,OCT26,1954,i
 55852904,"Gandilian, Ivan",RUS,M,,,,1499,0,40,OCT26,2009,i
+570061041,"Gandzhov, Umar",RUS,M,,,,1452,11,40,OCT26,2016,
 34300619,"Ganeev, Nikita",RUS,M,,,,1419,0,40,OCT26,2009,i
 540051579,"Ganeev, Rashid",RUS,M,,,,1690,0,20,OCT26,2006,i
 55881017,"Ganeev, Zafir",RUS,M,,,,1411,0,40,OCT26,2013,
@@ -8918,8 +8918,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34392840,"Gasparian, Grigory",RUS,M,,,,1783,0,20,OCT26,1958,i
 4162374,"Gasparian, Karen",RUS,M,,,,1903,0,20,OCT26,1985,i
 34149543,"Gasparov, Leonid",RUS,M,,,,1912,0,20,OCT26,1961,i
-55892922,"Gasparyan, Artur",RUS,M,,,,1424,0,40,OCT26,2009,
 44153430,"Gasparyan, Artur",RUS,M,,,,1627,0,20,OCT26,2005,i
+55892922,"Gasparyan, Artur",RUS,M,,,,1424,0,40,OCT26,2009,
 34197874,"Gasparyan, Daniel",RUS,M,,,,2021,0,20,OCT26,2001,i
 54183472,"Gasparyan, Nver",RUS,M,,,,1924,0,20,OCT26,1970,i
 522019251,"Gasparyan, Sofia",RUS,F,,,,1404,0,40,OCT26,2013,wi
@@ -9562,7 +9562,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34443304,"Golovatenko, Eva",RUS,F,WCM,WCM,,1846,22,40,OCT26,2010,w
 34392190,"Golovatskiy, Daniil",RUS,M,,,,1679,0,20,OCT26,2007,i
 4172930,"Golovchanov, Artiom",RUS,M,,,,2060,0,20,OCT26,1985,i
-24190764,"Golovchenko, Alexey",RUS,M,,,,1862,0,20,OCT26,1999,
+24190764,"Golovchenko, Alexey",RUS,M,,,,1906,13,20,OCT26,1999,
 44150237,"Golovchenko, Andrej",RUS,M,,,,2037,0,20,OCT26,1974,i
 54198607,"Golovchenko, Bogdan",RUS,M,,,,2136,11,40,OCT26,2010,
 522083685,"Golovchenko, Egor",RUS,M,,,,1750,0,40,OCT26,2013,
@@ -9774,8 +9774,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4186672,"Gorbushin, Maksim",RUS,M,,,,2188,0,20,OCT26,1995,i
 522068589,"Gorchakov, Aleksey",RUS,M,,,,1600,6,40,OCT26,2015,
 522057773,"Gorchakov, Evgenii",RUS,M,,,,1435,0,20,OCT26,2004,
-44193980,"Gorchakov, Nikolay",RUS,M,,,,1847,0,20,OCT26,1951,i
 34206850,"Gorchakov, Nikolay",RUS,M,,,,2115,0,20,OCT26,1963,i
+44193980,"Gorchakov, Nikolay",RUS,M,,,,1847,0,20,OCT26,1951,i
 55890423,"Gorchenko, Dmitry",RUS,M,,,,1413,0,20,OCT26,2007,i
 24204811,"Gordeev, Alexey",RUS,M,,,,1770,0,20,OCT26,1957,i
 24294748,"Gordeev, Denis",RUS,M,,,,1714,0,40,OCT26,2010,i
@@ -10630,8 +10630,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 540069583,"Guselnikova, Zoya S",RUS,F,,,,1690,10,40,OCT26,2015,w
 34165883,"Gusenkova, Karina",RUS,F,,,,1738,0,20,OCT26,2003,wi
 54123739,"Gusev, Aleksandr",RUS,M,,,,1738,0,20,OCT26,1996,i
-24210838,"Gusev, Aleksandr",RUS,M,,,,1828,0,20,OCT26,1991,i
 55708730,"Gusev, Aleksandr",RUS,M,,,,1714,0,20,OCT26,1989,i
+24210838,"Gusev, Aleksandr",RUS,M,,,,1828,0,20,OCT26,1991,i
 4158539,"Gusev, Aleksey",RUS,M,IM,,,2299,0,20,OCT26,1962,i
 34486909,"Gusev, Aleksey",RUS,M,,,,1863,0,40,OCT26,2009,i
 34189650,"Gusev, Alexander",RUS,M,,,,1652,0,20,OCT26,2006,i
@@ -10885,7 +10885,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44138989,"Ignatev, Daniil",RUS,M,,,,1738,0,20,OCT26,2006,i
 55896430,"Ignatev, Danila",RUS,M,,,,1460,0,40,OCT26,2011,i
 55895441,"Ignateva, Anna",RUS,F,,,,1564,0,40,OCT26,2014,w
-54161886,"Ignatiev, Aleksey",RUS,M,,,,2254,11,40,OCT26,2009,
+54161886,"Ignatiev, Aleksey",RUS,M,,,,2141,24,40,OCT26,2009,
 55749895,"Ignatiev, Aleksey",RUS,M,,,,1792,0,20,OCT26,2006,i
 24293733,"Ignatiev, Aleksey",RUS,M,,,,1829,0,20,OCT26,1987,i
 34270159,"Ignatiev, Aristarkh",RUS,M,,,,1511,0,20,OCT26,2007,i
@@ -11264,8 +11264,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34453423,"Islanov, Amir",RUS,M,,,,1756,0,40,OCT26,2010,
 54196663,"Islentev, Gleb",RUS,M,,,,1648,0,20,OCT26,2005,i
 55808000,"Ismagilov, Amir",RUS,M,,,,1519,0,40,OCT26,2010,i
-55825559,"Ismagilov, Amir",RUS,M,,,,1479,0,40,OCT26,2012,i
 34202331,"Ismagilov, Amir",RUS,M,,,,1753,0,20,OCT26,1996,i
+55825559,"Ismagilov, Amir",RUS,M,,,,1479,0,40,OCT26,2012,i
 34199982,"Ismagilov, Damir",RUS,M,CM,,,2130,11,20,OCT26,2004,
 34299025,"Ismagilov, Ernest",RUS,M,,,,1448,0,40,OCT26,2009,i
 44100507,"Ismagilov, Igor",RUS,M,FM,,,2257,11,20,OCT26,2007,
@@ -11452,8 +11452,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24294411,"Ivanov, Gleb",RUS,M,,,,1561,0,40,OCT26,2008,i
 24144622,"Ivanov, Gleb E.",RUS,M,,,,1995,0,20,OCT26,1993,i
 34306072,"Ivanov, Gleb S.",RUS,M,,,,1493,0,40,OCT26,2010,i
-24292630,"Ivanov, Grigory",RUS,M,,,,2115,0,20,OCT26,1996,i
 522048707,"Ivanov, Grigory",RUS,M,,,,1541,0,40,OCT26,2013,
+24292630,"Ivanov, Grigory",RUS,M,,,,2115,0,20,OCT26,1996,i
 34176141,"Ivanov, Igor",RUS,M,,,,1857,0,20,OCT26,1961,i
 55625770,"Ivanov, Igor V",RUS,M,,,,1957,0,20,OCT26,1973,i
 4175212,"Ivanov, Igor Y.",RUS,M,,,,1878,0,20,OCT26,1964,i
@@ -11794,8 +11794,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55754481,"Kadyrgulov, Aydar",RUS,M,,,,1632,0,20,OCT26,2005,i
 4170873,"Kadyrleev, Azat",RUS,M,,,,2066,0,20,OCT26,1959,i
 24206539,"Kadyrov, Akylbek",RUS,M,,,,1928,0,20,OCT26,1965,
-34496564,"Kadyrov, Amir",RUS,M,,,,1492,0,40,OCT26,2012,i
 540039200,"Kadyrov, Amir",RUS,M,,,,1410,6,40,OCT26,2016,
+34496564,"Kadyrov, Amir",RUS,M,,,,1492,0,40,OCT26,2012,i
 55627099,"Kadyrov, Artur",RUS,M,,,,1755,0,20,OCT26,2004,i
 55833462,"Kadyrov, Artur Rin",RUS,M,,,,1851,0,40,OCT26,2013,
 44136838,"Kadyrov, Marsel",RUS,M,,,,1630,0,20,OCT26,2006,i
@@ -11904,8 +11904,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54108861,"Kalinin, Aleksandr",RUS,M,,,,2010,0,20,OCT26,1981,i
 44123647,"Kalinin, Aleksandr A.",RUS,M,,,,1595,0,20,OCT26,2005,i
 522092781,"Kalinin, Aleksey",RUS,M,,,,1561,0,20,OCT26,1975,
-34173398,"Kalinin, Alexander",RUS,M,,,,1753,0,20,OCT26,1976,i
 55880657,"Kalinin, Alexander",RUS,M,,,,1606,0,20,OCT26,1982,i
+34173398,"Kalinin, Alexander",RUS,M,,,,1753,0,20,OCT26,1976,i
 34282475,"Kalinin, Alexander V",RUS,M,,,,1664,0,40,OCT26,2009,
 54105595,"Kalinin, Alexey",RUS,M,,,,1595,0,20,OCT26,2001,i
 4134796,"Kalinin, Anatoly",RUS,M,,,,1944,0,20,OCT26,1942,i
@@ -12328,7 +12328,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24288675,"Karezin, Vasiliy",RUS,M,,,,1610,0,20,OCT26,2005,i
 24171972,"Karganashvili, Evgeny",RUS,M,,,,1869,0,20,OCT26,1982,
 24205826,"Kargapolov, Aleksandr",RUS,M,,,,1729,0,20,OCT26,1951,i
-522077006,"Kargapoltsev, Timofei",RUS,M,,,,1547,0,40,OCT26,2015,i
+522077006,"Kargapoltsev, Timofei",RUS,M,,,,1758,13,40,OCT26,2015,
 55730957,"Kargin, Aleksandr",RUS,M,,,,1457,0,40,OCT26,2009,i
 55725163,"Kargin, Aleksey",RUS,M,,,,1599,0,20,OCT26,1988,i
 522098500,"Kargin, Den Mikh",RUS,M,,,,1860,0,20,OCT26,1994,
@@ -12521,8 +12521,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24225061,"Kashin, Dmitriy Al.",RUS,M,,,,1874,0,20,OCT26,1971,i
 34499261,"Kashin, Nikita",RUS,M,,,,1829,0,,OCT26,2011,
 55612512,"Kashin, Nikita",RUS,M,,,,1456,0,40,OCT26,2010,i
-54145392,"Kashirin, Andrey",RUS,M,,,,1717,0,20,OCT26,1988,i
 34259562,"Kashirin, Andrey",RUS,M,,,,1786,0,20,OCT26,1962,i
+54145392,"Kashirin, Andrey",RUS,M,,,,1717,0,20,OCT26,1988,i
 54194237,"Kashirin, Georgy",RUS,M,,,,1726,0,20,OCT26,2006,i
 24163740,"Kashirin, Ivan",RUS,M,,,,1740,0,20,OCT26,1991,i
 540032434,"Kashirin, Vladislav",RUS,M,,,,1647,0,40,OCT26,2016,
@@ -12850,7 +12850,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24190802,"Khafizov, Danil",RUS,M,,,,1732,0,20,OCT26,1999,i
 34150355,"Khafizov, Emir",RUS,M,,,,1881,0,20,OCT26,2001,i
 34114081,"Khafizov, Farit",RUS,M,,,,1899,0,20,OCT26,1953,i
-34113794,"Khafizov, Radik",RUS,M,,,,1621,0,20,OCT26,1962,
+34113794,"Khafizov, Radik",RUS,M,,,,1558,10,20,OCT26,1962,
 34240969,"Khafizov, Rinat",RUS,M,,,,1650,0,20,OCT26,1966,
 34109835,"Khafizova, Dina",RUS,F,,,,1812,0,20,OCT26,2000,wi
 4191420,"Khafizova, Yana",RUS,F,,,,1903,0,20,OCT26,1995,wi
@@ -13127,7 +13127,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24151815,"Khasanaev, Aleksandr",RUS,M,,,,1891,0,20,OCT26,1998,i
 55877680,"Khasangatin, Almaz",RUS,M,,,,1620,0,40,OCT26,2010,
 55695540,"Khasangatina, Kamilla",RUS,F,,,,1526,0,40,OCT26,2013,w
-55821847,"Khasanov, Aidar",RUS,M,,,,1566,0,40,OCT26,2011,
+55821847,"Khasanov, Aidar",RUS,M,,,,1666,13,40,OCT26,2011,
 24283134,"Khasanov, Artem",RUS,M,,,,1629,0,40,OCT26,2008,i
 24212733,"Khasanov, Artem",RUS,M,,,,1681,0,20,OCT26,2003,i
 54165830,"Khasanov, Askar",RUS,M,,,,1751,0,20,OCT26,2006,i
@@ -13199,7 +13199,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522059237,"Khazeev, Emil",RUS,M,,,,1592,0,40,OCT26,2015,
 4168690,"Khazeev, Igliz M.",RUS,M,,,,1924,0,20,OCT26,1960,i
 522078991,"Khazhimukhametova, Minzilia",RUS,F,,,,1440,0,20,OCT26,1970,wi
-24135305,"Khazhipov, Timur",RUS,M,,,,2130,0,20,OCT26,1995,i
+24135305,"Khazhipov, Timur",RUS,M,,,,2053,13,20,OCT26,1995,
 24162329,"Khaziev, Almir",RUS,M,,,,1701,0,20,OCT26,1973,
 24117846,"Khaziev, Anvar",RUS,M,,,,1920,0,20,OCT26,1938,i
 24224260,"Khaziev, Rustam F.",RUS,M,,,,1710,0,20,OCT26,1985,i
@@ -13634,8 +13634,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522015493,"Kim, Mikhail",RUS,M,,,,1522,0,40,OCT26,2014,
 55658130,"Kim, Nikolay",RUS,M,,,,1607,0,20,OCT26,2007,
 55893597,"Kim, Oleg R",RUS,M,,,,1420,0,40,OCT26,2014,i
-522063374,"Kim, Pavel",RUS,M,,,,1603,0,20,OCT26,1987,i
 34395369,"Kim, Pavel",RUS,M,,,,1510,0,20,OCT26,2007,i
+522063374,"Kim, Pavel",RUS,M,,,,1603,0,20,OCT26,1987,i
 24261190,"Kim, Sergei",RUS,M,,,,1797,0,20,OCT26,1956,i
 34460861,"Kim, Sok Kan",RUS,M,,,,1885,0,20,OCT26,1960,i
 24228036,"Kim, Vadim",RUS,M,,,,1597,0,20,OCT26,1982,i
@@ -14123,7 +14123,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24155136,"Kochanov, Anton",RUS,M,,,,1571,0,20,OCT26,1985,i
 24124672,"Kocharian, Arkadiy",RUS,M,,,,1979,0,20,OCT26,1981,i
 540040569,"Kocharian, Nataniel Rom",RUS,M,,,,1465,0,40,OCT26,2018,
-540031748,"Kocharin, Ivan",RUS,M,,,,1520,0,40,OCT26,2010,
+540031748,"Kocharin, Ivan",RUS,M,,,,1562,12,40,OCT26,2010,
 55884466,"Kocharli, Rafael",RUS,M,,,,1740,0,20,OCT26,2007,
 24234877,"Kocharyan, Aik",RUS,M,,,,1725,0,20,OCT26,2004,i
 24145246,"Kocharyan, Arcady",RUS,M,,,,2153,0,20,OCT26,1981,i
@@ -14207,6 +14207,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34130753,"Kodzaeva, Alana",RUS,F,,,,1587,0,20,OCT26,1990,wi
 24289752,"Kodzoev, Alexander",RUS,M,,,,1596,0,20,OCT26,2004,i
 55880177,"Kofanov, Dmitriy",RUS,M,,,,1640,0,20,OCT26,1993,
+522099948,"Kofanov, Konstantin",RUS,M,,,,1518,13,40,OCT26,2016,
 34335633,"Kofanov, Mikhail",RUS,M,,,,1706,0,20,OCT26,1997,i
 24170437,"Kofanov, Sergei",RUS,M,,,,1936,0,20,OCT26,1965,
 540081699,"Kofanov, Timofey",RUS,M,,,,1688,0,40,OCT26,2017,
@@ -14279,8 +14280,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24162051,"Kolchenko, Sergey",RUS,M,,,,1908,0,20,OCT26,1972,i
 54141290,"Kolchikov, Mikhail",RUS,M,,,,1911,0,20,OCT26,1955,i
 55767702,"Kolchin, Roland",RUS,M,,,,1424,0,40,OCT26,2014,i
-522091688,"Kolchin, Vladimir",RUS,M,,,,1563,0,20,OCT26,1947,i
 34159123,"Kolchin, Vladimir",RUS,M,,,,1813,0,20,OCT26,1940,i
+522091688,"Kolchin, Vladimir",RUS,M,,,,1563,0,20,OCT26,1947,i
 54131251,"Kolchina, Alla",RUS,F,,NA,,1553,0,20,OCT26,1976,wi
 34413367,"Kolchurina, Milana",RUS,F,,,,1771,0,40,OCT26,2011,w
 34406220,"Kolchyurin, Yury",RUS,M,,,,1749,0,20,OCT26,1984,i
@@ -14304,8 +14305,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 540068099,"Kolesnikov, Aleksandr",RUS,M,,,,1437,0,40,OCT26,2011,
 34316485,"Kolesnikov, Aleksandr",RUS,M,,,,1701,0,20,OCT26,1955,i
 522042881,"Kolesnikov, Aleksandr N",RUS,M,,,,1531,0,20,OCT26,1961,
-34460993,"Kolesnikov, Aleksey",RUS,M,,,,1635,0,20,OCT26,2006,i
 55721117,"Kolesnikov, Aleksey",RUS,M,,,,1540,0,20,OCT26,1966,i
+34460993,"Kolesnikov, Aleksey",RUS,M,,,,1635,0,20,OCT26,2006,i
 34309560,"Kolesnikov, Alexander V.",RUS,M,,,,2035,11,40,OCT26,2009,
 34387374,"Kolesnikov, Alexandr Den.",RUS,M,,,,1645,0,40,OCT26,2008,i
 34164364,"Kolesnikov, Arseniy",RUS,M,,,,1758,0,20,OCT26,2001,i
@@ -14313,7 +14314,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34437320,"Kolesnikov, Dmitrii",RUS,M,,,,1420,0,20,OCT26,1984,i
 55793967,"Kolesnikov, Dmitriy",RUS,M,,,,1784,0,20,OCT26,1960,i
 54171237,"Kolesnikov, Eduard",RUS,M,,,,1716,0,20,OCT26,1989,i
-34297510,"Kolesnikov, Egor",RUS,M,,,,1722,0,40,OCT26,2010,
+34297510,"Kolesnikov, Egor",RUS,M,,,,1655,11,40,OCT26,2010,
 4158660,"Kolesnikov, Evgeny",RUS,M,FM,,,2192,0,20,OCT26,1988,i
 34331328,"Kolesnikov, Georgii",RUS,M,,,,1539,0,40,OCT26,2011,i
 55882498,"Kolesnikov, Gregory",RUS,M,,,,1642,0,40,OCT26,2009,i
@@ -14498,8 +14499,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34396586,"Komarov, Andrey",RUS,M,,,,1444,0,40,OCT26,2008,i
 522028056,"Komarov, Artem V",RUS,M,,,,1601,0,40,OCT26,2008,i
 34250697,"Komarov, Eduard",RUS,M,,,,1718,0,20,OCT26,2007,i
-34496572,"Komarov, Egor",RUS,M,,,,1440,0,40,OCT26,2011,i
 55722393,"Komarov, Egor",RUS,M,,,,1449,0,40,OCT26,2012,i
+34496572,"Komarov, Egor",RUS,M,,,,1440,0,40,OCT26,2011,i
 522097759,"Komarov, Ivan",RUS,M,,,,1458,0,40,OCT26,2017,i
 55866590,"Komarov, Ivan Ser",RUS,M,,,,1646,0,40,OCT26,2017,i
 24145335,"Komarov, Jury",RUS,M,,,,1915,0,20,OCT26,1947,i
@@ -14607,8 +14608,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34113115,"Kondratiev, Sergey",RUS,M,,,,1835,0,20,OCT26,1952,i
 34304819,"Kondratiev, Viktor",RUS,M,,,,2150,11,20,OCT26,2006,
 4107675,"Kondratiev, Vissarion L.",RUS,M,,,,1999,0,20,OCT26,1937,i
-55723217,"Kondratiev, Vladimir",RUS,M,,,,1756,0,20,OCT26,1942,i
 54131766,"Kondratiev, Vladimir",RUS,M,,,,1615,0,20,OCT26,1938,i
+55723217,"Kondratiev, Vladimir",RUS,M,,,,1756,0,20,OCT26,1942,i
 34269207,"Kondratiev, Vladislav",RUS,M,,,,2135,0,20,OCT26,1978,i
 34440577,"Kondratiev, Vladislav Al",RUS,M,,,,1689,0,20,OCT26,2004,i
 55870783,"Kondratieva, Mariya Aleks",RUS,F,,,,1493,9,40,OCT26,2016,w
@@ -14900,7 +14901,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34437860,"Korkina, Elizaveta",RUS,F,,,,1604,0,40,OCT26,2008,wi
 34268030,"Korkmazov, Islam",RUS,M,,,,1785,0,20,OCT26,2005,i
 24201880,"Korkunov, Vladimir",RUS,M,,,,1849,0,20,OCT26,1949,i
-34481036,"Korlyakov, Viktor",RUS,M,,,,1900,0,40,OCT26,2010,i
+34481036,"Korlyakov, Viktor",RUS,M,,,,1902,13,40,OCT26,2010,
 44108346,"Kormachenko, Ilya",RUS,M,,,,1428,0,20,OCT26,2006,i
 522011587,"Kormes, Ruslan",RUS,M,,,,1406,0,20,OCT26,2007,
 24295671,"Kormschikov, Erofei",RUS,M,,,,1491,0,20,OCT26,2006,i
@@ -14992,7 +14993,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 540005690,"Korol, Nikita",RUS,M,,,,1435,0,40,OCT26,2012,
 34300201,"Korol, Petr",RUS,M,,,,1771,0,20,OCT26,1973,i
 4164520,"Korol, Vladimir",RUS,M,,,,1846,13,20,OCT26,1973,
-34343369,"Korolenko, Artem",RUS,M,,,,2008,13,40,OCT26,2009,
+34343369,"Korolenko, Artem",RUS,M,,,,1917,25,40,OCT26,2009,
 34157040,"Korolenkov, Vasiliy",RUS,M,,,,1851,0,20,OCT26,1997,i
 24203971,"Korolev, Aleksandr",RUS,M,,,,1783,0,20,OCT26,1961,i
 34143910,"Korolev, Alexey Timof",RUS,M,,,,1950,0,20,OCT26,1946,i
@@ -15096,7 +15097,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34115908,"Korotkova, Irina",RUS,F,,,,1785,0,20,OCT26,2001,wi
 540090698,"Korotkova, Mariia",RUS,F,,,,1427,0,40,OCT26,2015,w
 55728006,"Korotovskikh, German",RUS,M,,,,1624,0,20,OCT26,1963,i
-55680119,"Korotovskikh, Kirill",RUS,M,,,,1647,0,40,OCT26,2011,
+55680119,"Korotovskikh, Kirill",RUS,M,,,,1690,13,40,OCT26,2011,
 4119142,"Korotylev, Alexey",RUS,M,GM,,,2606,0,10,OCT26,1977,i
 55772870,"Korotynov, Dmitry",RUS,M,,,,1548,0,40,OCT26,2008,i
 55733743,"Korovchenko, Alexander",RUS,M,,,,1722,0,20,OCT26,1979,i
@@ -15436,9 +15437,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44120370,"Kotov, Artyem",RUS,M,,,,1629,0,20,OCT26,2005,i
 55750443,"Kotov, Danil E",RUS,M,,,,1706,0,20,OCT26,1998,i
 4185811,"Kotov, Dmitry",RUS,M,,,,2203,0,20,OCT26,1989,i
-34468102,"Kotov, Egor",RUS,M,,,,1565,0,20,OCT26,1996,i
-34333428,"Kotov, Egor",RUS,M,,,,1572,0,20,OCT26,2006,i
 55654304,"Kotov, Egor",RUS,M,,,,1642,0,20,OCT26,1999,i
+34333428,"Kotov, Egor",RUS,M,,,,1572,0,20,OCT26,2006,i
+34468102,"Kotov, Egor",RUS,M,,,,1565,0,20,OCT26,1996,i
 522036105,"Kotov, Fedor",RUS,M,,,,1543,0,40,OCT26,2013,
 24172286,"Kotov, Gennady",RUS,M,,,,1873,0,20,OCT26,1951,i
 24223719,"Kotov, Habil",RUS,M,,,,1944,0,20,OCT26,1957,i
@@ -15507,8 +15508,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34136115,"Kovalenko, Dmitrii",RUS,M,,,,1821,0,20,OCT26,2003,i
 34171220,"Kovalenko, Dmitry",RUS,M,,,,1917,0,20,OCT26,1967,i
 522035338,"Kovalenko, Dmitry",RUS,M,,,,1513,0,20,OCT26,1985,
-34233210,"Kovalenko, Evgeniy",RUS,M,,,,1776,0,20,OCT26,2002,i
 34172260,"Kovalenko, Evgeniy",RUS,M,,,,1993,0,20,OCT26,1985,i
+34233210,"Kovalenko, Evgeniy",RUS,M,,,,1776,0,20,OCT26,2002,i
 55890512,"Kovalenko, Gleb I",RUS,M,,,,1494,7,40,OCT26,2012,
 34236481,"Kovalenko, Igor",RUS,M,,,,1722,0,20,OCT26,1987,i
 522006427,"Kovalenko, Ivan V",RUS,M,,,,1484,0,40,OCT26,2012,i
@@ -15638,7 +15639,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44103760,"Koyshinov, Timur",RUS,M,,,,1466,0,20,OCT26,1995,i
 54114535,"Kozachek, Stanislav",RUS,M,,,,1766,0,20,OCT26,2006,i
 24256161,"Kozachenko, Kirill",RUS,M,,,,1701,0,40,OCT26,2008,i
-34379541,"Kozachkov, Pavel",RUS,M,,,,2084,13,40,OCT26,2008,
+34379541,"Kozachkov, Pavel",RUS,M,,,,2142,26,40,OCT26,2008,
 522070354,"Kozaev, David",RUS,M,,,,1615,0,40,OCT26,2013,i
 55668860,"Kozaev, Marat",RUS,M,,,,1548,0,40,OCT26,2010,i
 4135881,"Kozak, Alexander",RUS,M,FM,,,2228,0,10,OCT26,1972,i
@@ -15656,7 +15657,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55659462,"Kozhemyaka, Kristina",RUS,F,,,,1494,0,40,OCT26,2012,w
 24264709,"Kozhemyakin, Danila V.",RUS,M,,,,1636,0,40,OCT26,2008,i
 34263950,"Kozhemyakin, Vladislav",RUS,M,,,,1728,0,40,OCT26,2009,i
-34454730,"Kozhemyakina, Maria",RUS,F,,,,1591,0,40,OCT26,2010,wi
+34454730,"Kozhemyakina, Maria",RUS,F,,,,1668,13,40,OCT26,2010,w
 4197011,"Kozhenkov, Evgeny",RUS,M,,,,2173,0,20,OCT26,1998,
 4161068,"Kozhevin, Viktor",RUS,M,,,,1589,6,20,OCT26,1952,
 522030727,"Kozhevnikov, Andrey Don",RUS,M,,,,1544,0,20,OCT26,1960,
@@ -15665,8 +15666,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55763669,"Kozhevnikov, Konstantin",RUS,M,,,,1668,0,40,OCT26,2010,i
 34236856,"Kozhevnikov, Oleg",RUS,M,,,,1811,0,20,OCT26,1990,i
 55829295,"Kozhevnikov, Roman",RUS,M,,,,1432,0,40,OCT26,2015,i
-522005048,"Kozhevnikov, Yuri",RUS,M,,,,1481,0,20,OCT26,1947,
 55674852,"Kozhevnikov, Yuri",RUS,M,,,,1486,0,20,OCT26,1957,i
+522005048,"Kozhevnikov, Yuri",RUS,M,,,,1481,0,20,OCT26,1947,
 44106050,"Kozhevnikova, Alena",RUS,F,,,,1700,0,20,OCT26,2007,w
 34152838,"Kozhevnikova, Daria",RUS,F,,,,1791,0,20,OCT26,1998,wi
 34162795,"Kozhiev, Boris",RUS,M,,,,1772,0,20,OCT26,1950,i
@@ -15741,8 +15742,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54126649,"Kozlov, Leonid",RUS,M,,,,1930,0,20,OCT26,1945,i
 55817351,"Kozlov, Maksim E",RUS,M,,,,1648,0,40,OCT26,2012,i
 54106583,"Kozlov, Maxim",RUS,M,,,,1736,0,20,OCT26,2007,i
-55753639,"Kozlov, Mikhail",RUS,M,,,,1521,0,40,OCT26,2010,i
 522097813,"Kozlov, Mikhail",RUS,M,,,,2024,0,20,OCT26,1977,i
+55753639,"Kozlov, Mikhail",RUS,M,,,,1521,0,40,OCT26,2010,i
 4158555,"Kozlov, Mikhail P.",RUS,M,FM,,,2104,0,20,OCT26,1961,i
 34499148,"Kozlov, Mikhail Yu",RUS,M,,,,1653,0,20,OCT26,1987,i
 34142271,"Kozlov, Mikhail.",RUS,M,,,,1941,0,20,OCT26,1995,
@@ -15854,7 +15855,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55726364,"Krasheninnikova, Ekaterina",RUS,F,,,,1514,0,40,OCT26,2013,wi
 34412921,"Krasikov, Aleksandr R.",RUS,M,,,,1784,0,20,OCT26,2003,i
 55851185,"Krasikov, Ilya",RUS,M,,,,1735,9,40,OCT26,2012,
-4139739,"Krasilnikov, Evgeni",RUS,M,FM,NA,,2120,0,20,OCT26,1981,
+4139739,"Krasilnikov, Evgeni",RUS,M,FM,NA,,2058,10,20,OCT26,1981,
 34405046,"Krasilnikov, Evgeny",RUS,M,,,,1423,0,20,OCT26,2007,i
 54197759,"Krasilnikov, Ivan D.",RUS,M,,,,1674,0,20,OCT26,1941,i
 34235345,"Krasilnikov, Leonid",RUS,M,,,,1558,0,20,OCT26,1954,i
@@ -16196,8 +16197,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55762395,"Krylov, Dmitriy",RUS,M,,,,2004,0,20,OCT26,1973,i
 55775730,"Krylov, Efim",RUS,M,,,,1492,0,20,OCT26,2001,i
 55829287,"Krylov, Evgeny Vik",RUS,M,,,,1816,0,20,OCT26,1990,i
-34368094,"Krylov, Fedor",RUS,M,,,,1704,0,20,OCT26,1988,i
 522030018,"Krylov, Fedor",RUS,M,,,,1451,0,40,OCT26,2015,
+34368094,"Krylov, Fedor",RUS,M,,,,1704,0,20,OCT26,1988,i
 24128066,"Krylov, Ivan",RUS,M,FM,,,2219,0,20,OCT26,1996,i
 55806201,"Krylov, Kirill",RUS,M,,,,1579,0,20,OCT26,1974,i
 4183029,"Krylov, Konstantin",RUS,M,,,,2110,0,20,OCT26,1987,
@@ -16550,7 +16551,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34162353,"Kulkaev, Samat",RUS,M,,,,1893,0,20,OCT26,2001,
 540097641,"Kulkin, Andrey Geor",RUS,M,,,,1644,0,20,OCT26,1985,
 55605257,"Kulkov, Kirill",RUS,M,,,,1639,0,40,OCT26,2008,
-55872786,"Kulkov, Matvei",RUS,M,,,,1603,0,40,OCT26,2011,
+55872786,"Kulkov, Matvei",RUS,M,,,,1573,13,40,OCT26,2011,
 34384553,"Kulkov, Semen",RUS,M,,,,1464,0,40,OCT26,2008,i
 44113285,"Kulkov, Sergey",RUS,M,,,,1862,0,20,OCT26,1988,i
 54192129,"Kulkova, Dina",RUS,F,,,,1808,0,20,OCT26,2007,w
@@ -16912,7 +16913,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54136466,"Kuzeev, Karim",RUS,M,,,,1580,0,20,OCT26,2007,i
 54176417,"Kuzemtseva, Irina",RUS,F,,,,1658,0,20,OCT26,2007,w
 34107689,"Kuzenkov, Alexander",RUS,M,,,,1989,0,20,OCT26,1968,
-34481176,"Kuzenkova, Anna",RUS,F,,,,1595,0,40,OCT26,2012,wi
+34481176,"Kuzenkova, Anna",RUS,F,,,,1572,12,40,OCT26,2012,w
 4184424,"Kuzevanova, Evgenia",RUS,F,WIM,WIM,SI,1984,0,20,OCT26,1989,wi
 55646190,"Kuzginov, Artem",RUS,M,,,,1759,0,20,OCT26,1940,i
 44171285,"Kuzhakhmetov, Sergey",RUS,M,,,,1703,0,20,OCT26,2004,i
@@ -16955,8 +16956,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24169633,"Kuzmichev, Alexandr",RUS,M,,,,2080,0,20,OCT26,1973,i
 34191850,"Kuzmichev, Artem",RUS,M,,,,1938,0,20,OCT26,2000,i
 54174511,"Kuzmichev, Danil",RUS,M,,,,1862,0,20,OCT26,2003,i
-4150562,"Kuzmichev, Ivan",RUS,M,,,,1612,0,20,OCT26,1986,i
 34375414,"Kuzmichev, Ivan",RUS,M,,,,1824,0,20,OCT26,1985,i
+4150562,"Kuzmichev, Ivan",RUS,M,,,,1612,0,20,OCT26,1986,i
 540067254,"Kuzmichev, Pavel",RUS,M,,,,1517,0,40,OCT26,2016,
 34338233,"Kuzmichev, Timofey",RUS,M,,,,1461,0,40,OCT26,2011,i
 570031894,"Kuzmicheva, Evdokiya",RUS,F,,,,1430,0,20,OCT26,2002,w
@@ -17065,8 +17066,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34317457,"Kuznetsov, Aleksandr",RUS,M,,,,1723,0,20,OCT26,1979,i
 34354379,"Kuznetsov, Aleksandr Dm",RUS,M,,,,1514,0,20,OCT26,2005,i
 34419721,"Kuznetsov, Aleksandr Ev",RUS,M,,,,1819,0,20,OCT26,1994,i
-34492623,"Kuznetsov, Aleksandr I",RUS,M,,,,1847,0,20,OCT26,1995,
 34357319,"Kuznetsov, Aleksandr I",RUS,M,,,,1774,0,20,OCT26,1957,i
+34492623,"Kuznetsov, Aleksandr I",RUS,M,,,,1847,0,20,OCT26,1995,
 34356118,"Kuznetsov, Aleksandr M",RUS,M,,,,1861,0,20,OCT26,1996,i
 55843280,"Kuznetsov, Aleksandr Pav",RUS,M,,,,1794,0,20,OCT26,1972,i
 34264078,"Kuznetsov, Aleksandr Ser.",RUS,M,,,,1563,0,20,OCT26,2007,i
@@ -17075,9 +17076,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24194042,"Kuznetsov, Aleksey",RUS,M,,,,2034,0,20,OCT26,1994,i
 55644082,"Kuznetsov, Aleksey Ser",RUS,M,,,,1651,0,20,OCT26,1982,i
 54138353,"Kuznetsov, Alexander",RUS,M,,,,1602,0,20,OCT26,2001,i
+34210261,"Kuznetsov, Alexander",RUS,M,,,,1612,0,20,OCT26,1979,i
 34173002,"Kuznetsov, Alexander",RUS,M,,,,1932,0,20,OCT26,1997,i
 55611117,"Kuznetsov, Alexander",RUS,M,,,,1863,0,20,OCT26,1969,i
-34210261,"Kuznetsov, Alexander",RUS,M,,,,1612,0,20,OCT26,1979,i
 522029249,"Kuznetsov, Alexander Rom",RUS,M,,,,1859,0,40,OCT26,2013,
 34461205,"Kuznetsov, Alexander S",RUS,M,,,,1639,0,40,OCT26,2013,i
 34191418,"Kuznetsov, Alexander S.",RUS,M,,,,1739,0,20,OCT26,1999,i
@@ -17161,8 +17162,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522044680,"Kuznetsov, Mikhail Andr",RUS,M,,,,1622,0,40,OCT26,2010,i
 34473858,"Kuznetsov, Mikhail Dm",RUS,M,,,,2008,11,40,OCT26,2011,
 4194900,"Kuznetsov, Mikhail V.",RUS,M,FM,,,2037,0,20,OCT26,1989,
-55734502,"Kuznetsov, Nikita",RUS,M,,,,1489,0,40,OCT26,2013,i
 54168546,"Kuznetsov, Nikita",RUS,M,,,,1557,0,20,OCT26,2006,i
+55734502,"Kuznetsov, Nikita",RUS,M,,,,1489,0,40,OCT26,2013,i
 55803610,"Kuznetsov, Nikita A",RUS,M,,,,1749,0,20,OCT26,2004,i
 522024395,"Kuznetsov, Nikita Al",RUS,M,,,,1649,0,20,OCT26,2002,i
 55755399,"Kuznetsov, Nikita Val.",RUS,M,,,,1702,0,,OCT26,2003,i
@@ -17311,7 +17312,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54184886,"Lagerev, Leonid",RUS,M,,,,1593,0,20,OCT26,2002,i
 14109336,"Lagno, Kateryna",RUS,F,GM,WGM,,2447,0,10,OCT26,1989,w
 34334610,"Lagov, Oleg",RUS,M,,,,1923,0,20,OCT26,1981,i
-540054390,"Lagovskii, Mark",RUS,M,,,,1882,0,40,OCT26,2017,
+540054390,"Lagovskii, Mark",RUS,M,,,,1743,13,40,OCT26,2017,
 34260897,"Lagoyda, Mikhail",RUS,M,,,,1685,0,20,OCT26,1984,
 34227717,"Lagun, Filipp",RUS,M,,,,1554,0,40,OCT26,2008,i
 4125363,"Lagunov, Evgenij",RUS,M,FM,,,2002,0,20,OCT26,1961,
@@ -17400,7 +17401,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34408541,"Laptenko, Artem",RUS,M,,,,1761,0,20,OCT26,2000,i
 24224154,"Laptev, Aleksey",RUS,M,,,,1960,0,20,OCT26,1984,
 34302395,"Laptev, Anton",RUS,M,,,,1596,0,40,OCT26,2009,
-55680127,"Laptev, Egor",RUS,M,,,,1841,0,40,OCT26,2013,
+55680127,"Laptev, Egor",RUS,M,,,,1785,13,40,OCT26,2013,
 24183318,"Laptev, Evgeniy",RUS,M,,,,1992,0,20,OCT26,1995,i
 522091785,"Laptev, Gleb Andr",RUS,M,,,,1583,0,,OCT26,2010,
 55707238,"Laptev, Innokentiy",RUS,M,,,,1415,0,40,OCT26,2009,i
@@ -17879,7 +17880,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24177601,"Leyman, Ivan",RUS,M,,,,1932,0,20,OCT26,1999,i
 55881823,"Leyni, Artur",RUS,M,,,,1406,0,20,OCT26,1992,i
 34387633,"Lezhnev, Aleksandr",RUS,M,,,,1734,0,20,OCT26,1929,i
-55744737,"Lezhnev, Aleksei",RUS,M,,,,1839,0,40,OCT26,2013,
+55744737,"Lezhnev, Aleksei",RUS,M,,,,1896,13,40,OCT26,2013,
 34236490,"Lezhnev, Maxim",RUS,M,,,,2020,0,20,OCT26,1976,i
 54147239,"Lezin, Aleksandr",RUS,M,,,,1803,0,40,OCT26,2009,i
 34139670,"Lezin, Evgeni",RUS,M,,,,1638,0,20,OCT26,2003,i
@@ -18030,7 +18031,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24190470,"Litvinenko, Nikolay I.",RUS,M,,,,1881,0,20,OCT26,1948,i
 55649246,"Litvinenko, Nikolay N",RUS,M,,,,1721,0,20,OCT26,1950,i
 34192570,"Litvinenko, Pavel",RUS,M,,,,1443,0,20,OCT26,2004,i
-34454144,"Litvinkova, Glafira",RUS,F,,,,1735,0,40,OCT26,2012,wi
+34454144,"Litvinkova, Glafira",RUS,F,,,,1733,11,40,OCT26,2012,w
 44136455,"Litvinov, Aleksandr V.",RUS,M,,,,2073,0,20,OCT26,1983,i
 55723225,"Litvinov, Anatoly",RUS,M,,,,1695,0,20,OCT26,1935,i
 34132241,"Litvinov, Anton",RUS,M,,,,1976,0,20,OCT26,2001,
@@ -18243,8 +18244,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4194241,"Loshakov, Dmitry",RUS,M,,,,1802,0,20,OCT26,1963,
 55720854,"Loshakova, Alisa",RUS,F,,,,1523,0,40,OCT26,2013,wi
 124137784,"Loshakova, Ekaterina",RUS,F,,,,1635,0,20,OCT26,1988,wi
-44141599,"Loshkarev, Arseny",RUS,M,,,,1441,0,20,OCT26,2006,i
 34289704,"Loshkarev, Arseny",RUS,M,,,,1732,0,20,OCT26,2004,i
+44141599,"Loshkarev, Arseny",RUS,M,,,,1441,0,20,OCT26,2006,i
 55818650,"Loshkina, Olga",RUS,F,,,,1570,0,20,OCT26,1981,wi
 55670199,"Losina, Taisiya",RUS,F,,,,1415,0,40,OCT26,2012,wi
 34279857,"Loskutkin, Evgeniy",RUS,M,,,,1468,0,40,OCT26,2009,i
@@ -18529,7 +18530,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4195930,"Lykov, Sergey",RUS,M,,,,1922,0,20,OCT26,1948,
 4127935,"Lykov, Vasili",RUS,M,FM,,,1909,0,20,OCT26,1952,i
 55784755,"Lykova, Margarita",RUS,F,,,,1518,0,40,OCT26,2015,w
-522090100,"Lylin, Dmitrii",RUS,M,,,,1860,0,40,OCT26,2012,
+522090100,"Lylin, Dmitrii",RUS,M,,,,1855,13,40,OCT26,2012,
 55808239,"Lymar, Oleg",RUS,M,,,,1751,0,20,OCT26,1956,i
 54191904,"Lymar, Roman",RUS,M,,,,1854,0,20,OCT26,2001,i
 34285288,"Lymar, Vasiliy",RUS,M,,,,1933,0,20,OCT26,1987,i
@@ -18709,8 +18710,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 540004848,"Makarenko, Artem G",RUS,M,,,,1571,0,20,OCT26,1992,i
 34166294,"Makarenko, Elizaveta",RUS,F,,,,1719,0,20,OCT26,2005,w
 34144983,"Makarenko, Gennadiy",RUS,M,,,,1900,0,20,OCT26,1945,i
-522023534,"Makarenko, Ivan",RUS,M,,,,1628,0,20,OCT26,1992,
 540026183,"Makarenko, Ivan",RUS,M,,,,1586,0,40,OCT26,2011,i
+522023534,"Makarenko, Ivan",RUS,M,,,,1628,0,20,OCT26,1992,
 34482873,"Makarenko, Lev",RUS,M,,,,1555,0,40,OCT26,2009,i
 24282847,"Makarenko, Nikita",RUS,M,,,,1472,0,40,OCT26,2009,i
 522022147,"Makarenko, Sergei",RUS,M,,,,1815,0,20,OCT26,1984,
@@ -18739,8 +18740,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34459103,"Makarov, Bogdan",RUS,M,,,,1680,0,40,OCT26,2008,i
 55886272,"Makarov, Daniil",RUS,M,,,,1643,0,40,OCT26,2009,
 34182060,"Makarov, Daniil",RUS,M,,,,1652,0,20,OCT26,2005,
-55886426,"Makarov, Dmitriy",RUS,M,,,,1677,0,20,OCT26,2001,i
 522043942,"Makarov, Dmitriy",RUS,M,,,,1431,0,40,OCT26,2014,i
+55886426,"Makarov, Dmitriy",RUS,M,,,,1677,0,20,OCT26,2001,i
 522017062,"Makarov, Dmitry",RUS,M,,,,1604,0,40,OCT26,2014,
 34407952,"Makarov, Egor Den",RUS,M,,,,2033,0,,OCT26,2009,
 54160685,"Makarov, Evgeniy",RUS,M,,,,1641,0,20,OCT26,1937,i
@@ -18790,8 +18791,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54181615,"Makarov, Viacheslav",RUS,M,,,,1944,0,20,OCT26,1956,i
 24128120,"Makarov, Viatcheslav",RUS,M,,,,1978,0,20,OCT26,1989,
 34171280,"Makarov, Victor P.",RUS,M,,,,1852,0,20,OCT26,1954,i
-54122449,"Makarov, Vitaliy",RUS,M,,,,1786,0,20,OCT26,1972,i
 44147880,"Makarov, Vitaliy",RUS,M,,,,1702,0,20,OCT26,1966,i
+54122449,"Makarov, Vitaliy",RUS,M,,,,1786,0,20,OCT26,1972,i
 54196671,"Makarov, Vladimir",RUS,M,,,,1627,0,20,OCT26,2006,i
 34370269,"Makarov, Vladimir M",RUS,M,,,,1868,0,20,OCT26,1989,i
 54118620,"Makarov, Vladimir N.",RUS,M,,,,1923,0,20,OCT26,1950,i
@@ -19504,7 +19505,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522092935,"Markovsky, Matvey",RUS,M,,,,1647,0,40,OCT26,2013,i
 34275355,"Markoziya, Georgiy",RUS,M,,,,1556,0,40,OCT26,2009,i
 24227102,"Markuev, Kirill",RUS,M,,,,1556,0,40,OCT26,2009,i
-34481044,"Markush, Vladislav",RUS,M,,,,1617,0,40,OCT26,2010,
+34481044,"Markush, Vladislav",RUS,M,,,,1765,13,40,OCT26,2010,
 570036721,"Markushin, Vyacheslav D",RUS,M,,,,1559,0,20,OCT26,2002,
 55668755,"Markuze, Anastasia",RUS,F,,,,1438,0,40,OCT26,2009,wi
 55834027,"Marmylev, Aleksandr Dm",RUS,M,,,,1805,0,40,OCT26,2017,
@@ -19679,7 +19680,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24217344,"Maslov, Serafim",RUS,M,,,,1671,0,20,OCT26,2002,i
 44128118,"Maslov, Valery",RUS,M,,,,1696,0,20,OCT26,1942,i
 24156370,"Maslova, Irina",RUS,F,,,,1916,0,20,OCT26,1969,wi
-34232702,"Maslova, Veronika",RUS,F,,,,1612,0,40,OCT26,2009,w
+34232702,"Maslova, Veronika",RUS,F,,,,1650,13,40,OCT26,2009,w
 522087249,"Maslovskiy, Arseny",RUS,M,,,,1486,0,40,OCT26,2017,
 55671276,"Maslovskiy, Yaroslav",RUS,M,,,,1783,10,40,OCT26,2013,
 34133647,"Maslukov, Andrei",RUS,M,,,,1812,0,20,OCT26,1997,i
@@ -19763,7 +19764,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24276715,"Matveev, Erik",RUS,M,,,,1763,0,20,OCT26,2006,i
 540033058,"Matveev, Evgeniy",RUS,M,,,,1559,0,40,OCT26,2012,
 522058338,"Matveev, Evgeny Ser",RUS,M,,,,1426,0,40,OCT26,2012,
-55875513,"Matveev, Georgiy",RUS,M,,,,1637,0,40,OCT26,2015,
+55875513,"Matveev, Georgiy",RUS,M,,,,1593,12,40,OCT26,2015,
 522064249,"Matveev, Georgy",RUS,M,,,,1453,0,40,OCT26,2014,
 54101735,"Matveev, Grigory",RUS,M,,,,1780,0,20,OCT26,2000,i
 55831354,"Matveev, Grigory",RUS,M,,,,1471,0,40,OCT26,2008,i
@@ -19780,8 +19781,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55685455,"Matveev, Roman Ol.",RUS,M,,,,1511,0,40,OCT26,2012,i
 24131733,"Matveev, Stanislav",RUS,M,,,,2141,0,20,OCT26,1992,i
 24297852,"Matveev, Valerii",RUS,M,,,,1717,0,20,OCT26,1969,i
-55887449,"Matveev, Viktor",RUS,M,,,,1462,0,20,OCT26,1989,i
 34306030,"Matveev, Viktor",RUS,M,,,,1825,0,20,OCT26,1961,i
+55887449,"Matveev, Viktor",RUS,M,,,,1462,0,20,OCT26,1989,i
 24130753,"Matveev, Vladimir",RUS,M,FM,,,2329,0,10,OCT26,1993,i
 24107328,"Matveev, Vladimir A.",RUS,M,,,,1728,0,20,OCT26,1946,
 44186819,"Matveev, Vladimir Gleb.",RUS,M,,,,1872,0,20,OCT26,1947,i
@@ -19888,7 +19889,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24198331,"Mazhiev, Salam",RUS,M,,,,1636,0,20,OCT26,2004,i
 44176805,"Mazhitov, Danis",RUS,M,,,,1977,0,20,OCT26,2000,
 540079422,"Mazhitov, Rafail",RUS,M,,,,1481,0,20,OCT26,1963,
-55670113,"Mazhitov, Timur",RUS,M,,,,1538,0,40,OCT26,2011,
+55670113,"Mazhitov, Timur",RUS,M,,,,1567,12,40,OCT26,2011,
 34157589,"Mazhnikov, Viktor",RUS,M,,,,1721,0,20,OCT26,1955,
 570056412,"Mazhorina, Dariya",RUS,F,,,,1515,9,40,OCT26,2013,w
 34348034,"Mazilkin, Aleksandr",RUS,M,,,,1603,0,40,OCT26,2010,i
@@ -19933,8 +19934,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55727964,"Medovnikov, Aleksandr",RUS,M,,,,1472,0,20,OCT26,1987,i
 24228168,"Medunitsin, Vladimir",RUS,M,,,,1829,0,20,OCT26,2006,i
 24228176,"Medunitsina, Elizaveta",RUS,F,,,,1482,0,40,OCT26,2008,wi
-54191785,"Medvedev, Aleksandr",RUS,M,,,,1698,0,20,OCT26,1948,i
 55862837,"Medvedev, Aleksandr",RUS,M,,,,1484,0,20,OCT26,1984,i
+54191785,"Medvedev, Aleksandr",RUS,M,,,,1698,0,20,OCT26,1948,i
 34288627,"Medvedev, Alexander",RUS,M,,,,1497,0,40,OCT26,2009,
 4152913,"Medvedev, Alexandr (1957)",RUS,M,,,,1840,0,20,OCT26,1957,i
 522055630,"Medvedev, Alexey Iv",RUS,M,,,,1631,0,20,OCT26,1965,i
@@ -20419,7 +20420,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24196304,"Mikinyan, Karen",RUS,M,,,,1986,0,20,OCT26,1996,i
 34394230,"Mikityk, Dmitriy",RUS,M,,,,1672,0,40,OCT26,2010,i
 24107026,"Mikleeva, Ais",RUS,F,,,,1984,0,20,OCT26,1992,wi
-55620590,"Miklin, Maksim",RUS,M,,,,1779,13,40,OCT26,2010,
+55620590,"Miklin, Maksim",RUS,M,,,,1703,17,40,OCT26,2010,
 55630260,"Mikluho, Vladislav",RUS,M,,,,1750,0,20,OCT26,1984,i
 34377131,"Mikryukov, Igor",RUS,M,,,,1940,32,40,OCT26,2008,
 55699537,"Mikryukova, Taisia",RUS,F,,,,1462,0,40,OCT26,2010,w
@@ -20745,7 +20746,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4179986,"Mitypov, Bair",RUS,M,FM,,,2057,0,20,OCT26,1953,i
 522005196,"Mityugin, Vladimir Ign",RUS,M,,,,1439,0,20,OCT26,1937,
 55899919,"Mityunin, Alexander Nik",RUS,M,,,,1499,0,20,OCT26,1981,i
-522036059,"Mityushkin, Mark",RUS,M,,,,1411,0,40,OCT26,2012,
+522036059,"Mityushkin, Mark",RUS,M,,,,1464,11,40,OCT26,2012,
 34423575,"Mityushkin, Vladimir",RUS,M,,,,1875,0,20,OCT26,1986,i
 44197802,"Mizdrikov, Vladimir G.",RUS,M,,,,1917,0,20,OCT26,1972,
 55703682,"Mizenin, Anton",RUS,M,,,,1969,0,40,OCT26,2009,
@@ -21743,7 +21744,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34335315,"Naskalnyi, Timofey",RUS,M,,,,1921,0,20,OCT26,2004,
 44187084,"Nasledov, Sergey",RUS,M,,,,1710,0,20,OCT26,1952,i
 34454160,"Nasonov, Andrey",RUS,M,,,,1743,0,20,OCT26,2005,i
-55818544,"Nasonov, Danil",RUS,M,,,,1527,0,40,OCT26,2012,
+55818544,"Nasonov, Danil",RUS,M,,,,1501,9,40,OCT26,2012,
 55784780,"Nasonov, Leonid",RUS,M,,,,1494,0,40,OCT26,2015,i
 55853951,"Nasonov, Roman",RUS,M,,,,1605,0,20,OCT26,1986,i
 24132640,"Nasonov, Vadim A.",RUS,M,,,,1876,0,20,OCT26,1963,i
@@ -22094,7 +22095,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55783708,"Nesterov, Igor",RUS,M,,,,1552,0,40,OCT26,2008,i
 34274928,"Nesterov, Ivan",RUS,M,,,,1976,0,40,OCT26,2009,
 522064290,"Nesterov, Matvey",RUS,M,,,,1555,0,40,OCT26,2012,i
-55865534,"Nesterov, Miron",RUS,M,,,,1841,12,40,OCT26,2017,
+55865534,"Nesterov, Miron",RUS,M,,,,1881,25,40,OCT26,2017,
 24113425,"Nesterov, Nikolai",RUS,M,,,,1981,0,20,OCT26,1953,i
 4152344,"Nesterov, Oleg",RUS,M,,,,2101,0,20,OCT26,1970,
 34287094,"Nesterov, Oleg V.",RUS,M,,,,1976,0,20,OCT26,1977,i
@@ -22241,7 +22242,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24107921,"Nikitenko, Sergey",RUS,M,,,,1944,0,20,OCT26,1968,i
 24120944,"Nikitenkov, Vladimir",RUS,M,,,,2017,0,20,OCT26,1979,
 24185175,"Nikitin, Aleksandr",RUS,M,,,,1990,0,20,OCT26,1955,i
-34481079,"Nikitin, Aleksandr P",RUS,M,,,,1633,0,40,OCT26,2010,i
+34481079,"Nikitin, Aleksandr P",RUS,M,,,,1753,12,40,OCT26,2010,
 4188837,"Nikitin, Aleksey",RUS,M,,,,1998,0,20,OCT26,1986,
 55662480,"Nikitin, Aleksey",RUS,M,,,,1789,0,20,OCT26,1994,i
 4136942,"Nikitin, Alexej",RUS,M,FM,,,2221,0,20,OCT26,1945,i
@@ -22639,8 +22640,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44100345,"Novikov, Vladimir",RUS,M,,,,1762,0,20,OCT26,1935,i
 34434054,"Novikov, Vladimir",RUS,M,,,,1721,0,20,OCT26,1958,i
 34331190,"Novikov, Vladislav",RUS,M,,,,1797,0,20,OCT26,2006,
-44192738,"Novikov, Vladislav",RUS,M,,,,1893,0,20,OCT26,1965,i
 55748759,"Novikov, Vladislav",RUS,M,,,,1402,0,40,OCT26,2010,i
+44192738,"Novikov, Vladislav",RUS,M,,,,1893,0,20,OCT26,1965,i
 55861695,"Novikov, Vsevolod",RUS,M,,,,1635,0,40,OCT26,2014,i
 55768881,"Novikov, Yuri Vik.",RUS,M,,,,1476,0,20,OCT26,1972,
 44107625,"Novikova, Aleksandra",RUS,F,,,,1758,0,20,OCT26,2002,wi
@@ -22710,8 +22711,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24113433,"Nozdrachev, Leonid",RUS,M,IM,,,2132,0,10,OCT26,1989,
 24113441,"Nozdrachev, Vladislav",RUS,M,IM,,,2481,0,10,OCT26,1992,i
 34161306,"Nozdracheva, Nadezhda",RUS,F,,,,1764,0,20,OCT26,1962,wi
-55706584,"Nozdrin, Ivan",RUS,M,,,,1483,0,40,OCT26,2011,i
 34267646,"Nozdrin, Ivan",RUS,M,,,,1628,0,20,OCT26,1986,i
+55706584,"Nozdrin, Ivan",RUS,M,,,,1483,0,40,OCT26,2011,i
 24230383,"Nozdrin, Mikhail",RUS,M,,,,1723,0,20,OCT26,2002,i
 55840582,"Nozhka, Anatolii",RUS,M,,,,1614,0,20,OCT26,1960,i
 34105384,"Nozhkin, Nikita",RUS,M,,,,2171,0,20,OCT26,1996,i
@@ -23558,8 +23559,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522057358,"Panov, Aleksandr I.",RUS,M,,,,1628,0,40,OCT26,2016,
 4126556,"Panov, Alexander",RUS,M,,,,2127,0,20,OCT26,1975,i
 24264172,"Panov, Alexey",RUS,M,,,,1879,0,20,OCT26,1994,i
-55785514,"Panov, Andrey",RUS,M,,,,1438,0,40,OCT26,2012,i
 522021280,"Panov, Andrey",RUS,M,,,,1673,0,40,OCT26,2009,i
+55785514,"Panov, Andrey",RUS,M,,,,1438,0,40,OCT26,2012,i
 55674372,"Panov, Danil",RUS,M,,,,1683,0,40,OCT26,2011,i
 4173651,"Panov, Dmitry",RUS,M,,,,1962,0,20,OCT26,1983,i
 24147370,"Panov, Evgeny",RUS,M,,,,1984,0,20,OCT26,1992,i
@@ -23809,8 +23810,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4119924,"Pavlov, Aleksandr",RUS,M,FM,,,2036,0,20,OCT26,1963,
 34243879,"Pavlov, Aleksandr",RUS,M,,,,1846,0,20,OCT26,1963,i
 34137898,"Pavlov, Aleksandr E.",RUS,M,,,,1866,0,20,OCT26,1960,i
-34442871,"Pavlov, Aleksey",RUS,M,,,,1819,0,20,OCT26,1961,i
 34258710,"Pavlov, Aleksey",RUS,M,,,,1435,0,40,OCT26,2009,i
+34442871,"Pavlov, Aleksey",RUS,M,,,,1819,0,20,OCT26,1961,i
 24192716,"Pavlov, Alexandr",RUS,M,,,,1768,0,20,OCT26,1954,i
 34274731,"Pavlov, Alexey",RUS,M,,,,1401,0,40,OCT26,2008,i
 4171217,"Pavlov, Anatoli A.",RUS,M,,,,1984,0,20,OCT26,1934,i
@@ -24238,14 +24239,14 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34454993,"Petrov, Aleksander",RUS,M,,,,1687,0,20,OCT26,2007,i
 34126888,"Petrov, Aleksandr",RUS,M,,,,1872,0,20,OCT26,1997,i
 34207732,"Petrov, Aleksandr",RUS,M,,,,1619,0,20,OCT26,1988,
-34253424,"Petrov, Aleksandr",RUS,M,,,,1911,0,20,OCT26,1950,i
 34174998,"Petrov, Aleksandr",RUS,M,,,,2340,0,10,OCT26,1975,
+34253424,"Petrov, Aleksandr",RUS,M,,,,1911,0,20,OCT26,1950,i
 34418474,"Petrov, Aleksandr Al",RUS,M,,,,1530,0,40,OCT26,2011,
 522003410,"Petrov, Aleksandr G",RUS,M,,,,1424,0,40,OCT26,2009,i
 55715079,"Petrov, Aleksandr Vl",RUS,M,,,,1406,0,20,OCT26,2005,i
 44174152,"Petrov, Aleksei",RUS,M,,,,1856,11,20,OCT26,2007,
-55712029,"Petrov, Aleksey",RUS,M,,,,1632,0,20,OCT26,2007,i
 34353100,"Petrov, Aleksey",RUS,M,,,,1720,0,20,OCT26,1977,i
+55712029,"Petrov, Aleksey",RUS,M,,,,1632,0,20,OCT26,2007,i
 54179475,"Petrov, Alexander",RUS,M,,,,2115,0,40,OCT26,2008,
 24132675,"Petrov, Alexander",RUS,M,,,,1896,0,20,OCT26,1952,i
 44109474,"Petrov, Alexander A",RUS,M,,,,1684,0,20,OCT26,1999,i
@@ -24255,8 +24256,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34124400,"Petrov, Alexandr",RUS,M,,,,1893,0,20,OCT26,1999,
 24156060,"Petrov, Alexandr",RUS,M,,,,1756,0,20,OCT26,1979,i
 55791140,"Petrov, Alexandr",RUS,M,,,,1557,0,40,OCT26,2011,
-540043061,"Petrov, Alexandr",RUS,M,,,,1677,0,20,OCT26,1964,i
 4178556,"Petrov, Alexandr",RUS,M,,,,2171,0,20,OCT26,1963,i
+540043061,"Petrov, Alexandr",RUS,M,,,,1677,0,20,OCT26,1964,i
 44137745,"Petrov, Alexandr E.",RUS,M,,,,1673,0,20,OCT26,2000,i
 34273328,"Petrov, Alexandr G.",RUS,M,,,,1497,0,20,OCT26,1954,
 4133927,"Petrov, Alexey",RUS,M,,,,1893,0,20,OCT26,1979,i
@@ -24495,7 +24496,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54152127,"Pinchuk, Oksana V.",RUS,F,,,,1819,0,20,OCT26,2005,wi
 34429867,"Pindur, Anait",RUS,F,,,,1699,0,20,OCT26,1969,wi
 24288381,"Pingin, Alexandr",RUS,M,,,,1439,0,20,OCT26,1981,i
-44193645,"Pingin, Artem",RUS,M,IM,,,2401,0,10,OCT26,2008,
+44193645,"Pingin, Artem",RUS,M,IM,,,2403,13,10,OCT26,2008,
 4190467,"Piniagin, Anatoly",RUS,M,,,,2224,0,20,OCT26,1957,i
 34163260,"Pinov, Oleg",RUS,M,,,,1610,0,20,OCT26,1984,i
 55657214,"Pintaev, Evgeny Ser",RUS,M,,,,1804,0,40,OCT26,2013,
@@ -24611,8 +24612,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34177822,"Platushchikhina, Daria",RUS,F,,,,1686,0,,OCT26,2006,wi
 540025608,"Plavinskaya, Stella",RUS,F,,,,1441,2,40,OCT26,2017,w
 55652476,"Plavinskiy, Stanislav",RUS,M,,,,1411,0,,OCT26,1984,i
-570048550,"Plekhanov, Andrey",RUS,M,,,,1551,0,20,OCT26,2005,
 34448551,"Plekhanov, Andrey",RUS,M,,,,1765,0,20,OCT26,1982,i
+570048550,"Plekhanov, Andrey",RUS,M,,,,1551,0,20,OCT26,2005,
 34289577,"Plekhanov, Daniil",RUS,M,,,,1795,0,40,OCT26,2009,i
 55707572,"Plekhanov, Dmitry",RUS,M,,,,1404,0,40,OCT26,2011,
 55670946,"Plekhanov, Gennadij",RUS,M,,,,1586,0,20,OCT26,1974,i
@@ -24990,8 +24991,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34304746,"Polyakov, Oleg L.",RUS,M,,,,1586,0,20,OCT26,1952,i
 34113930,"Polyakov, Petr",RUS,M,,,,1823,0,20,OCT26,1938,i
 24299367,"Polyakov, Roman",RUS,M,,,,1512,0,40,OCT26,2009,i
-34448489,"Polyakov, Timofey",RUS,M,,,,1417,0,40,OCT26,2011,i
 34351540,"Polyakov, Timofey",RUS,M,,,,1639,0,40,OCT26,2010,i
+34448489,"Polyakov, Timofey",RUS,M,,,,1417,0,40,OCT26,2011,i
 55725414,"Polyakov, Timofey Dm",RUS,M,,,,1444,0,40,OCT26,2012,
 4156307,"Polyakov, Valeriy",RUS,M,,,,1857,0,20,OCT26,1968,i
 570041750,"Polyakov, Vasiliy",RUS,M,,,,1460,0,40,OCT26,2014,
@@ -25038,8 +25039,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55605826,"Pominov, Edgar",RUS,M,,,,1586,0,40,OCT26,2009,
 34405097,"Pomitov, Aleksandr",RUS,M,,,,1617,0,20,OCT26,2007,i
 55779662,"Pomogaev, Yaromir",RUS,M,,,,1471,5,40,OCT26,2012,
-55819303,"Pomortsev, Dmitry",RUS,M,,,,1467,0,40,OCT26,2015,i
 522056602,"Pomortsev, Dmitry",RUS,M,,,,1729,0,20,OCT26,1980,i
+55819303,"Pomortsev, Dmitry",RUS,M,,,,1467,0,40,OCT26,2015,i
 55711669,"Pomortsev, Ilya",RUS,M,,,,1446,0,40,OCT26,2010,i
 55816657,"Pomortsev, Maksim",RUS,M,,,,1696,0,40,OCT26,2013,i
 24288403,"Pomortsev, Nikita",RUS,M,,,,1998,0,20,OCT26,2005,
@@ -25134,8 +25135,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55655866,"Popov, Alexander S",RUS,M,,,,1881,0,20,OCT26,1956,i
 24195898,"Popov, Alexei",RUS,M,,,,1948,0,20,OCT26,1998,i
 34329455,"Popov, Alexey",RUS,M,,,,1671,0,,OCT26,2007,i
-34235914,"Popov, Alexey",RUS,M,,,,1423,0,20,OCT26,2002,i
 54159253,"Popov, Alexey",RUS,M,,,,1690,0,20,OCT26,1977,i
+34235914,"Popov, Alexey",RUS,M,,,,1423,0,20,OCT26,2002,i
 34193798,"Popov, Alexey",RUS,M,,,,1949,0,20,OCT26,1974,i
 34271252,"Popov, Alexey A.",RUS,M,,,,1769,0,20,OCT26,1988,i
 522082654,"Popov, Alexey N",RUS,M,,,,1527,0,20,OCT26,1989,i
@@ -26149,7 +26150,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54138132,"Regelyuk, Pavel",RUS,M,,,,1479,0,20,OCT26,2005,i
 34175528,"Reger, Valeriia",RUS,F,WFM,WFM,,1872,0,20,OCT26,2005,w
 34277072,"Reginskaya, Irina",RUS,F,,,,1627,0,20,OCT26,1962,wi
-34379932,"Regner, Dmitrii",RUS,M,,,,1996,0,40,OCT26,2011,
+34379932,"Regner, Dmitrii",RUS,M,,,,1984,13,40,OCT26,2011,
 55796893,"Reimers, Milana",RUS,F,,,,1619,0,40,OCT26,2008,wi
 34405402,"Reimkhe, Viktor",RUS,M,,,,1825,0,20,OCT26,1957,i
 540027538,"Rekhling, Elisei",RUS,M,,,,1428,5,40,OCT26,2012,
@@ -26165,7 +26166,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4118456,"Remizov, Juri",RUS,M,,,,2099,0,20,OCT26,1937,i
 34136484,"Remizov, Vladimir",RUS,M,,,,1726,0,20,OCT26,1938,i
 34202838,"Remizov, Vladimir A.",RUS,M,,,,1734,0,40,OCT26,2008,i
-34134015,"Remizov, Yaroslav",RUS,M,IM,,,2453,13,10,OCT26,2003,
+34134015,"Remizov, Yaroslav",RUS,M,IM,,,2457,26,10,OCT26,2003,
 24173932,"Remizova, Anna",RUS,F,WFM,WFM,,1972,0,20,OCT26,2001,w
 4154240,"Remnev, Mikhail",RUS,M,,,,2162,0,20,OCT26,1982,i
 55871038,"Remzina, Arina Ser",RUS,F,,,,1432,0,40,OCT26,2015,w
@@ -26547,7 +26548,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34339124,"Rossomakhin, Efim",RUS,M,,,,1586,0,40,OCT26,2011,i
 34278800,"Rossoshansky, Bogdan",RUS,M,,,,1857,0,40,OCT26,2010,
 34485970,"Rostotskiy, Maxim",RUS,M,,,,1663,0,20,OCT26,2004,i
-55780105,"Rostov, Ivan",RUS,M,,,,1708,0,40,OCT26,2015,
+55780105,"Rostov, Ivan",RUS,M,,,,1867,13,40,OCT26,2015,
 24161519,"Rostovtsev, Alexander",RUS,M,,,,1767,9,20,OCT26,1979,
 34278320,"Rostovtsev, Dmitry",RUS,M,IM,,,2397,142,10,OCT26,2006,
 54140714,"Rostovtsev, Nikolay",RUS,M,,,,1801,0,20,OCT26,1948,i
@@ -27121,8 +27122,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55680330,"Safonov, Anatoliy",RUS,M,,,,1625,0,20,OCT26,1953,i
 34114499,"Safonov, Anatoly",RUS,M,,,,1745,0,20,OCT26,1940,i
 34280367,"Safonov, Dmitry",RUS,M,,,,1488,0,20,OCT26,1974,i
-34235922,"Safonov, Dmitry",RUS,M,,,,1517,0,20,OCT26,2007,i
 522029729,"Safonov, Dmitry",RUS,M,,,,1460,0,40,OCT26,2012,i
+34235922,"Safonov, Dmitry",RUS,M,,,,1517,0,20,OCT26,2007,i
 55824625,"Safonov, Evgenii",RUS,M,,,,1775,0,40,OCT26,2014,
 522069038,"Safonov, Ilya Ev",RUS,M,,,,1540,9,40,OCT26,2015,
 55617743,"Safonov, Ivan",RUS,M,,,,1600,0,20,OCT26,2005,i
@@ -27276,7 +27277,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55794688,"Salavatov, Rustam",RUS,M,,,,1663,0,20,OCT26,1979,i
 24240494,"Salchak, Omak",RUS,M,,,,1676,0,20,OCT26,1984,
 540018130,"Saleev, Marat",RUS,M,,,,1421,0,40,OCT26,2015,i
-24199052,"Salemgareev, Tagir",RUS,M,IM,,,2343,0,10,OCT26,2002,
+24199052,"Salemgareev, Tagir",RUS,M,IM,,,2358,13,10,OCT26,2002,
 55711715,"Salenko, Kirill",RUS,M,,,,1831,11,40,OCT26,2012,
 34101591,"Saley, Alexander",RUS,M,,,,2039,0,20,OCT26,1966,i
 55687156,"Saliakhutdinov, Timur",RUS,M,,,,1437,0,40,OCT26,2013,i
@@ -27300,7 +27301,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55779921,"Salimov, Amir",RUS,M,,,,1527,0,40,OCT26,2016,
 55709931,"Salimov, Danil Rin",RUS,M,,,,1488,0,20,OCT26,1988,i
 540015971,"Salimov, Galimzyan",RUS,M,,,,1648,13,20,OCT26,1957,
-34335544,"Salimov, Ilia",RUS,M,,,,1662,11,40,OCT26,2009,
+34335544,"Salimov, Ilia",RUS,M,,,,1671,24,40,OCT26,2009,
 522088440,"Salimov, Kamyrbatyr",RUS,M,,,,1452,0,20,OCT26,1968,i
 44112670,"Salimov, Linar",RUS,M,,,,1700,0,20,OCT26,1989,i
 55884431,"Salimov, Maksim",RUS,M,,,,1632,0,40,OCT26,2011,i
@@ -27634,7 +27635,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4140982,"Satuev, Khasan",RUS,M,,,,1836,0,20,OCT26,1958,i
 55677690,"Satuev, Khusein",RUS,M,,,,1654,0,20,OCT26,1960,i
 34469958,"Satuev, Ruslan",RUS,M,,,,1650,0,20,OCT26,2006,i
-522065148,"Satybaldin, Ilyas",RUS,M,,,,1650,0,40,OCT26,2017,
+522065148,"Satybaldin, Ilyas",RUS,M,,,,1547,12,40,OCT26,2017,
 55835368,"Satyukova, Sophia",RUS,F,,,,1493,0,20,OCT26,2005,wi
 4118995,"Saulin, Dmitri",RUS,M,IM,,,2352,0,10,OCT26,1973,i
 34287515,"Saulin, Grigoriy",RUS,M,,,,1956,11,40,OCT26,2011,
@@ -27820,8 +27821,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34295046,"Sazonov, Roman",RUS,M,,,,1779,0,20,OCT26,1970,i
 24125130,"Sazonov, Sergey",RUS,M,,,,2110,0,20,OCT26,1969,i
 540065413,"Sazonov, Timofey",RUS,M,,,,1488,0,40,OCT26,2013,
-34332367,"Sazonov, Vladimir",RUS,M,,,,1639,0,20,OCT26,1948,i
 34443738,"Sazonov, Vladimir",RUS,M,,,,2048,0,20,OCT26,1955,i
+34332367,"Sazonov, Vladimir",RUS,M,,,,1639,0,20,OCT26,1948,i
 522043969,"Sazonov, Vladislav",RUS,M,,,,1684,0,40,OCT26,2011,
 55617980,"Sazonova, Anastasia",RUS,F,,,,1491,0,40,OCT26,2012,wi
 4109767,"Sazonova, Elena N.",RUS,F,WIM,WIM,,1994,0,20,OCT26,1959,w
@@ -27858,7 +27859,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55653243,"Schegolkov, Bogdan",RUS,M,,,,1521,0,40,OCT26,2010,i
 4146816,"Schekoldin, Vladislav",RUS,M,,,,2079,0,20,OCT26,1976,i
 34321101,"Schekotikhin, Ruslan",RUS,M,,,,1820,0,20,OCT26,2003,i
-55680216,"Schelkanogov, Sergei",RUS,M,,,,1746,0,40,OCT26,2011,
+55680216,"Schelkanogov, Sergei",RUS,M,,,,1618,13,40,OCT26,2011,
 34290168,"Schelkunov, Igor",RUS,M,,,,1758,0,20,OCT26,1956,
 34165042,"Schelkunov, Mikhail",RUS,M,,,,1920,0,20,OCT26,2003,i
 540093140,"Schelokov, Aleksei",RUS,M,,,,1524,0,20,OCT26,1998,
@@ -28110,9 +28111,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4137795,"Semenov, Viktor",RUS,M,,,,1929,0,20,OCT26,1938,i
 34392009,"Semenov, Viktor",RUS,M,,,,1574,0,20,OCT26,1950,i
 34121282,"Semenov, Vitaly",RUS,M,,,,1794,0,20,OCT26,1942,i
+34427694,"Semenov, Vladimir",RUS,M,,,,1698,0,20,OCT26,1984,
 54142067,"Semenov, Vladimir",RUS,M,,,,1841,0,20,OCT26,1947,i
 55869769,"Semenov, Vladimir",RUS,M,,,,1473,0,40,OCT26,2014,i
-34427694,"Semenov, Vladimir",RUS,M,,,,1698,0,20,OCT26,1984,
 34345680,"Semenov, Vladimir A",RUS,M,,,,2074,0,20,OCT26,1969,i
 34328831,"Semenov, Vyacheslav A.",RUS,M,,,,1713,0,20,OCT26,1986,i
 540003051,"Semenov, Yuriy Ser",RUS,M,,,,1637,0,20,OCT26,1956,i
@@ -28429,7 +28430,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 570009600,"Shabarshov, Ilia",RUS,M,,,,1498,9,40,OCT26,2016,
 34335366,"Shabashev, Vsevolod",RUS,M,,,,1986,0,40,OCT26,2009,
 54194377,"Shabin, Miroslav",RUS,M,,,,1746,0,20,OCT26,2006,i
-55748406,"Shablov, Sergey",RUS,M,,,,1865,0,40,OCT26,2014,
+55748406,"Shablov, Sergey",RUS,M,,,,1849,13,40,OCT26,2014,
 4168348,"Shabrin, Alexander",RUS,M,FM,,,2170,0,20,OCT26,0,i
 24181595,"Shabunin, Danil",RUS,M,,,,1845,0,20,OCT26,1998,i
 522088750,"Shabunin, Danil",RUS,M,,,,1789,0,40,OCT26,2008,i
@@ -28716,7 +28717,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55722563,"Shangin, Ivan",RUS,M,,,,1503,0,40,OCT26,2010,i
 540030105,"Shangin, Nikolai",RUS,M,,,,1426,0,20,OCT26,1993,i
 540090930,"Shangin, Sergey",RUS,M,,,,1541,0,40,OCT26,2015,
-4175697,"Shangin, Valery",RUS,M,FM,,,2065,13,20,OCT26,1961,
+4175697,"Shangin, Valery",RUS,M,FM,,,2049,26,20,OCT26,1961,
 44128703,"Shangiraev, Farkhad",RUS,M,,,,1538,0,20,OCT26,1990,i
 55843026,"Shanikeev, Ruslan R",RUS,M,,,,1487,0,40,OCT26,2011,
 522031588,"Shanin, Aleksandr",RUS,M,,,,1722,0,20,OCT26,1958,
@@ -29176,8 +29177,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55742521,"Shetinkin, Yuriy",RUS,M,,,,1579,0,20,OCT26,1989,i
 54164354,"Shevaldina, Yulia",RUS,F,,,,1482,0,20,OCT26,2006,wi
 24181862,"Shevalev, Alexandr",RUS,M,,,,1746,0,20,OCT26,1996,i
-44120087,"Shevchenko, Aleksandr",RUS,M,,,,1634,0,20,OCT26,2002,i
 34292250,"Shevchenko, Aleksandr",RUS,M,,,,1478,0,20,OCT26,2006,i
+44120087,"Shevchenko, Aleksandr",RUS,M,,,,1634,0,20,OCT26,2002,i
 4118685,"Shevchenko, Alexander",RUS,M,,,,2086,0,20,OCT26,1989,i
 570002177,"Shevchenko, Alexander A",RUS,M,,,,1658,0,20,OCT26,1994,
 34357726,"Shevchenko, Alexander S.",RUS,M,,,,2081,0,40,OCT26,2010,
@@ -29442,8 +29443,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55753965,"Shishkhanova, Tatiana",RUS,F,,,,1457,0,40,OCT26,2011,w
 4192800,"Shishkin, Aleksey A.",RUS,M,CM,,,2209,0,20,OCT26,1980,i
 4182480,"Shishkin, Alexander",RUS,M,,,,1930,0,20,OCT26,1946,i
-34304460,"Shishkin, Alexander",RUS,M,,,,1613,0,20,OCT26,1977,i
 34444122,"Shishkin, Alexander",RUS,M,,,,1759,0,20,OCT26,1981,i
+34304460,"Shishkin, Alexander",RUS,M,,,,1613,0,20,OCT26,1977,i
 4156528,"Shishkin, Alexandr",RUS,M,,,,1889,0,20,OCT26,1990,i
 522049037,"Shishkin, Anatoliy",RUS,M,,,,1678,0,20,OCT26,1964,
 522098798,"Shishkin, Andrey Ev",RUS,M,,,,1600,0,40,OCT26,2016,i
@@ -29611,7 +29612,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4130049,"Shmyrov, Maxim",RUS,M,,,,1956,0,20,OCT26,1988,i
 34262393,"Shnaider, Iakov",RUS,M,,,,1753,0,20,OCT26,1991,i
 24181765,"Shnajder, Mark",RUS,M,,,,1986,0,20,OCT26,1999,i
-4106750,"Shnayder, Violetta",RUS,F,,,,1859,0,20,OCT26,1998,w
+4106750,"Shnayder, Violetta",RUS,F,,,,1886,13,20,OCT26,1998,w
 54100984,"Shnurkov, Daniil",RUS,M,,,,1557,0,20,OCT26,2005,i
 54183510,"Shnyakin, Alexander",RUS,M,,,,1812,0,20,OCT26,1977,
 570022755,"Shnyakin, Ilya",RUS,M,,,,1784,0,40,OCT26,2014,
@@ -30004,8 +30005,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55713815,"Sidorov, Nikita Al",RUS,M,,,,1444,6,40,OCT26,2013,
 34351574,"Sidorov, Platon",RUS,M,,,,1493,0,40,OCT26,2011,i
 34183920,"Sidorov, Sergey",RUS,M,,,,1951,0,20,OCT26,1968,i
-34124168,"Sidorov, Sergey",RUS,M,,,,2037,0,20,OCT26,1955,i
 34312609,"Sidorov, Sergey",RUS,M,,,,1540,0,40,OCT26,2009,i
+34124168,"Sidorov, Sergey",RUS,M,,,,2037,0,20,OCT26,1955,i
 54111803,"Sidorov, Valentin P.",RUS,M,,,,1939,0,20,OCT26,1952,i
 24134805,"Sidorov, Vjacheslav P",RUS,M,,,,2052,0,20,OCT26,1949,i
 540056830,"Sidorov, Vladimir",RUS,M,,,,1478,0,20,OCT26,1995,i
@@ -30186,7 +30187,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55805043,"Sirazhetdinov, Arslan",RUS,M,,,,1564,0,40,OCT26,2015,i
 55612385,"Sirazhetdinov, Danil",RUS,M,,,,1750,0,40,OCT26,2009,i
 55612407,"Sirazhetdinov, Timur",RUS,M,,,,1660,0,40,OCT26,2009,i
-522008977,"Sirazhitdinov, Niyaz",RUS,M,,,,1666,12,40,OCT26,2011,
+522008977,"Sirazhitdinov, Niyaz",RUS,M,,,,1606,24,40,OCT26,2011,
 34289275,"Sirbiladze, Timur",RUS,M,,,,1930,0,20,OCT26,1991,i
 34454608,"Sirchenko, Vladimir",RUS,M,,,,1864,0,20,OCT26,1966,i
 55624766,"Sirenko, Mikhail",RUS,M,,,,1632,0,40,OCT26,2012,i
@@ -30559,12 +30560,12 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54111811,"Smikov, Aleksey",RUS,M,,,,1951,0,20,OCT26,2001,i
 4124650,"Smikovski, Ivan",RUS,M,IM,,,2481,11,10,OCT26,1972,
 24233331,"Smikovski, Semen",RUS,M,,,,2060,11,40,OCT26,2010,
-34363394,"Smirnaygin, Pavel",RUS,M,,,,2015,13,40,OCT26,2008,
+34363394,"Smirnaygin, Pavel",RUS,M,,,,1978,26,40,OCT26,2008,
 4159608,"Smirniagin, Ilya",RUS,M,,,,2169,0,20,OCT26,1970,i
 54134749,"Smirnov, Aleksander E.",RUS,M,,,,1669,0,20,OCT26,2000,i
 34297863,"Smirnov, Aleksandr",RUS,M,,,,1905,0,20,OCT26,1986,i
-55711162,"Smirnov, Aleksandr",RUS,M,,,,1719,0,20,OCT26,2001,i
 34123064,"Smirnov, Aleksandr",RUS,M,,,,1947,0,20,OCT26,1960,i
+55711162,"Smirnov, Aleksandr",RUS,M,,,,1719,0,20,OCT26,2001,i
 55800025,"Smirnov, Aleksey Aleks",RUS,M,,,,1644,0,20,OCT26,1959,i
 55818609,"Smirnov, Aleksey I",RUS,M,,,,1497,0,40,OCT26,2011,
 4163451,"Smirnov, Alexander",RUS,M,IM,,,2176,0,20,OCT26,1985,i
@@ -30701,7 +30702,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522073507,"Smirnova, Polina",RUS,F,,,,1485,0,40,OCT26,2017,w
 24263141,"Smirnova, Violeta",RUS,F,,,,1725,0,20,OCT26,1967,wi
 540090876,"Smirnova, Vlada",RUS,F,,,,1433,0,40,OCT26,2010,w
-55812511,"Smirnyagina, Vasilisa",RUS,F,,,,1738,0,40,OCT26,2013,w
+55812511,"Smirnyagina, Vasilisa",RUS,F,,,,1657,13,40,OCT26,2013,w
 55646255,"Smit, Gella",RUS,F,,,,1513,0,40,OCT26,2009,wi
 55703534,"Smola, Matvey",RUS,M,,,,1522,0,40,OCT26,2013,
 55663990,"Smolentsev, Alexander",RUS,M,,,,1820,0,40,OCT26,2014,
@@ -30806,8 +30807,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34204520,"Sokolik, Vadim",RUS,M,,,,1492,0,20,OCT26,2005,i
 34428755,"Sokolin, Aleksey",RUS,M,,,,1905,0,20,OCT26,1980,
 44109210,"Sokolov, Aleksandr",RUS,M,,,,1556,0,20,OCT26,2005,i
-55610625,"Sokolov, Aleksandr",RUS,M,,,,1504,0,20,OCT26,2000,i
 54122490,"Sokolov, Aleksandr",RUS,M,,,,1992,0,20,OCT26,1957,i
+55610625,"Sokolov, Aleksandr",RUS,M,,,,1504,0,20,OCT26,2000,i
 540058042,"Sokolov, Aleksandr S",RUS,M,,,,1875,0,20,OCT26,1981,i
 55779026,"Sokolov, Aleksey Fed",RUS,M,,,,1464,0,20,OCT26,1978,i
 34129666,"Sokolov, Alexandr",RUS,M,,,,1965,0,20,OCT26,1941,i
@@ -31065,9 +31066,9 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55787789,"Solyannikov, Ivan",RUS,M,,,,2164,13,40,OCT26,2014,
 24152498,"Somkin, Alexander",RUS,M,,,,1650,0,20,OCT26,1993,i
 4135458,"Somkin, Evgeni",RUS,M,FM,IA,,2111,13,20,OCT26,1979,
-54188636,"Somkin, Ilya",RUS,M,,,,2002,13,40,OCT26,2008,
+54188636,"Somkin, Ilya",RUS,M,,,,2019,26,40,OCT26,2008,
 34138460,"Somkin, Kirill",RUS,M,,,,2254,48,20,OCT26,2003,
-55680240,"Somkin, Viacheslav",RUS,M,,,,1942,13,40,OCT26,2013,
+55680240,"Somkin, Viacheslav",RUS,M,,,,1923,25,40,OCT26,2013,
 44185693,"Somkov, Aleksandr",RUS,M,,,,1739,0,20,OCT26,2004,i
 24224995,"Somov, Anton",RUS,M,,,,1759,0,20,OCT26,1992,i
 570031916,"Somov, Konstantin",RUS,M,,,,1443,0,40,OCT26,2014,
@@ -31390,8 +31391,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34173975,"Stepanov, Aleksey",RUS,M,,,,1999,0,20,OCT26,1985,i
 522083723,"Stepanov, Alexander Gen",RUS,M,,,,1752,0,20,OCT26,1969,i
 4162790,"Stepanov, Alexander M",RUS,M,,,,1908,0,20,OCT26,1951,i
-570006520,"Stepanov, Alexandr",RUS,M,,,,1474,0,20,OCT26,1978,
 34137871,"Stepanov, Alexandr",RUS,M,,,,2162,0,20,OCT26,1963,i
+570006520,"Stepanov, Alexandr",RUS,M,,,,1474,0,20,OCT26,1978,
 540024490,"Stepanov, Alexey",RUS,M,,,,1607,0,40,OCT26,2011,
 4134125,"Stepanov, Andrey",RUS,M,,,,2000,0,20,OCT26,1984,i
 24198730,"Stepanov, Andrey",RUS,M,,,,2040,0,20,OCT26,2002,i
@@ -32609,7 +32610,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55878709,"Tikhomirov, Vladimir Al",RUS,M,,,,1764,9,40,OCT26,2015,
 55753248,"Tikhonenko, Egor",RUS,M,,,,1497,0,40,OCT26,2010,
 522024816,"Tikhonenkov, Kirill",RUS,M,,,,1519,0,40,OCT26,2009,i
-522002901,"Tikhonkikh, Arsenii",RUS,M,,,,1720,12,40,OCT26,2012,
+522002901,"Tikhonkikh, Arsenii",RUS,M,,,,1771,25,40,OCT26,2012,
 55707220,"Tikhonov, Aleksey",RUS,M,,,,1679,0,40,OCT26,2012,i
 55612156,"Tikhonov, Alexander",RUS,M,,,,1532,0,20,OCT26,1953,i
 55638384,"Tikhonov, Alexandr",RUS,M,,,,1519,0,20,OCT26,1939,i
@@ -33446,7 +33447,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34126691,"Tsvetkov, Georgiy",RUS,M,,,,1781,10,20,OCT26,2000,
 55846858,"Tsvetkov, Grigoriy",RUS,M,,,,1537,18,40,OCT26,2015,
 55861890,"Tsvetkov, Igor",RUS,M,,,,1543,0,20,OCT26,1979,i
-34295984,"Tsvetkov, Mikhail",RUS,M,,,,1662,0,40,OCT26,2011,
+34295984,"Tsvetkov, Mikhail",RUS,M,,,,1743,13,40,OCT26,2011,
 4132661,"Tsvetkov, Pavel",RUS,M,,,,2088,0,20,OCT26,1996,
 55625274,"Tsvetkov, Sergey Mikh",RUS,M,,,,1456,0,40,OCT26,2011,i
 34149624,"Tsvetkov, Vladimir",RUS,M,,,,1858,0,20,OCT26,1956,i
@@ -33611,7 +33612,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24157473,"Turaev, Anton",RUS,M,,,,2050,0,20,OCT26,1996,i
 55795951,"Turaev, Timofey",RUS,M,,,,1437,0,40,OCT26,2011,i
 55758762,"Turanov, Mark",RUS,M,,,,1620,0,40,OCT26,2012,i
-34355464,"Turbai, Gleb",RUS,M,,,,1710,13,40,OCT26,2008,
+34355464,"Turbai, Gleb",RUS,M,,,,1692,25,40,OCT26,2008,
 55742726,"Turbanov, Maksim",RUS,M,,,,1993,0,40,OCT26,2010,
 44130716,"Turbasov, Danila",RUS,M,,,,1862,0,20,OCT26,2003,
 4152123,"Turbin, Vladimir",RUS,M,,,,1672,0,20,OCT26,1932,i
@@ -33681,8 +33682,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4157567,"Tuzlukov, Damiil",RUS,M,,,,2143,0,20,OCT26,1982,
 55679650,"Tuzlukov, Vadim",RUS,M,,,,1594,0,40,OCT26,2012,i
 44156014,"Tuzov, Alexander",RUS,M,,,,2226,0,20,OCT26,2004,
-522097376,"Tuzov, Gleb",RUS,M,,,,1500,5,40,OCT26,2015,
 44166230,"Tuzov, Gleb",RUS,M,,,,1741,0,20,OCT26,1991,i
+522097376,"Tuzov, Gleb",RUS,M,,,,1500,5,40,OCT26,2015,
 34374035,"Tuzovskij, Egor",RUS,M,,,,1620,0,40,OCT26,2009,i
 34374043,"Tuzovskij, Makar",RUS,M,,,,1520,0,40,OCT26,2009,i
 44166400,"Tuzyak, Maksim",RUS,M,,,,1725,0,20,OCT26,2002,i
@@ -34427,8 +34428,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55728600,"Vasilevskiy, Vladimir",RUS,M,,,,1731,0,20,OCT26,1978,i
 24141224,"Vasilew, Peter",RUS,M,,,,1914,0,20,OCT26,1949,i
 24166987,"Vasiliev, Aleksandr",RUS,M,,,,1897,0,20,OCT26,1975,i
-34406948,"Vasiliev, Aleksandr",RUS,M,,,,1816,0,20,OCT26,1975,i
 34339256,"Vasiliev, Aleksandr",RUS,M,,,,2004,0,20,OCT26,1984,
+34406948,"Vasiliev, Aleksandr",RUS,M,,,,1816,0,20,OCT26,1975,i
 24298239,"Vasiliev, Aleksandr",RUS,M,,,,1815,0,20,OCT26,1980,i
 570005060,"Vasiliev, Andrey",RUS,M,,,,1636,0,40,OCT26,2015,
 24158828,"Vasiliev, Arkady",RUS,M,,,,1848,0,20,OCT26,1946,i
@@ -34512,8 +34513,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55618677,"Vasilyev, Igor",RUS,M,,,,1471,0,40,OCT26,2009,i
 24186449,"Vasilyev, Igor Alex",RUS,M,,,,1993,0,20,OCT26,1970,i
 540022730,"Vasilyev, Ilya",RUS,M,,,,1447,0,20,OCT26,1998,
-34437517,"Vasilyev, Kirill",RUS,M,,,,1643,0,40,OCT26,2011,i
 44166532,"Vasilyev, Kirill",RUS,M,,,,1813,0,20,OCT26,2002,i
+34437517,"Vasilyev, Kirill",RUS,M,,,,1643,0,40,OCT26,2011,i
 522078754,"Vasilyev, Kirill Vad.",RUS,M,,,,1470,0,40,OCT26,2011,i
 24291099,"Vasilyev, Leonid",RUS,M,,,,1776,0,20,OCT26,2002,
 55811280,"Vasilyev, Makar",RUS,M,,,,1883,0,40,OCT26,2009,
@@ -34578,7 +34579,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44174500,"Vats, Semen",RUS,M,,,,1493,0,20,OCT26,2006,i
 55631070,"Vatsanaev, Soulim",RUS,M,,,,1651,0,40,OCT26,2013,
 522034595,"Vatutin, Egor",RUS,M,,,,1783,0,20,OCT26,2003,i
-34385398,"Vatutin, Gleb",RUS,M,,,,1701,0,40,OCT26,2010,i
+34385398,"Vatutin, Gleb",RUS,M,,,,1741,12,40,OCT26,2010,
+570000174,"Vatutin, Nikita",RUS,M,,,,1467,20,40,OCT26,2013,
 34197912,"Vatutin, Petr",RUS,M,,,,1733,0,20,OCT26,2005,i
 34253157,"Vatyutov, Viktor",RUS,M,,,,1743,0,20,OCT26,1967,i
 34385762,"Vaulin, Artem",RUS,M,,,,1824,0,20,OCT26,2007,i
@@ -34694,8 +34696,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4118626,"Veresagin, Jurij",RUS,M,IM,,,2340,0,20,OCT26,1967,i
 54191653,"Vereschagin, Aleksandr-Veniamin",RUS,M,,,,1666,0,40,OCT26,2009,i
 4169557,"Vereschagin, Ilia",RUS,M,,,,1833,0,20,OCT26,1986,i
-44127090,"Vereschagin, Ivan",RUS,M,,,,1675,0,20,OCT26,2005,i
 54125340,"Vereschagin, Ivan",RUS,M,,,,1727,0,20,OCT26,1976,i
+44127090,"Vereschagin, Ivan",RUS,M,,,,1675,0,20,OCT26,2005,i
 34456902,"Vereschagina, Anastasiya",RUS,F,,,,1690,0,40,OCT26,2008,w
 44170920,"Vereshchagin, Aleksandr Fe",RUS,M,,,,1847,0,20,OCT26,1947,i
 522007938,"Vereshchagin, Dmitrii",RUS,M,,,,1521,0,40,OCT26,2014,
@@ -34953,7 +34955,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54197643,"Vlasenko, Yuri",RUS,M,,,,1611,0,20,OCT26,1962,i
 34487379,"Vlasenkov, Vladislav",RUS,M,,,,2123,11,40,OCT26,2010,
 34438831,"Vlasenkov, Yaroslav",RUS,M,,,,1525,0,40,OCT26,2011,i
-34465723,"Vlasenkova, Ekaterina",RUS,F,,,,1640,0,40,OCT26,2012,wi
+34465723,"Vlasenkova, Ekaterina",RUS,F,,,,1721,12,40,OCT26,2012,w
 34465731,"Vlasenkova, Elisaveta",RUS,F,,,,1505,0,40,OCT26,2012,wi
 55626041,"Vlashchenko, Igor",RUS,M,,,,1650,0,20,OCT26,1981,i
 4138511,"Vlasov, Alexander",RUS,M,,,,2080,0,20,OCT26,1976,
@@ -35124,7 +35126,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24271462,"Volkov, Mikhail",RUS,M,,,,1765,0,20,OCT26,1946,i
 540023192,"Volkov, Mikhail Ev",RUS,M,,,,1731,0,40,OCT26,2009,i
 34477802,"Volkov, Mikhail Vl",RUS,M,,,,1617,0,40,OCT26,2013,
-4160550,"Volkov, Nikolay",RUS,M,FM,,,2119,0,20,OCT26,1961,
+4160550,"Volkov, Nikolay",RUS,M,FM,,,2051,13,20,OCT26,1961,
 34255770,"Volkov, Oleg",RUS,M,,,,1564,0,40,OCT26,2009,
 34126659,"Volkov, Pavel",RUS,M,,,,1862,0,20,OCT26,2002,i
 24242357,"Volkov, Pavel",RUS,M,,,,1695,0,20,OCT26,1976,i
@@ -35588,8 +35590,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24115207,"Yakovenko, Alexander",RUS,M,,,,1838,0,20,OCT26,1990,
 24202568,"Yakovenko, Arseny",RUS,M,,,,1531,0,20,OCT26,2007,i
 34322914,"Yakovenko, Artem",RUS,M,,,,2136,13,40,OCT26,2009,
-55866948,"Yakovenko, Artem",RUS,M,,,,1530,0,20,OCT26,1998,i
 522027769,"Yakovenko, Artem",RUS,M,,,,1742,6,40,OCT26,1988,
+55866948,"Yakovenko, Artem",RUS,M,,,,1530,0,20,OCT26,1998,i
 34307249,"Yakovenko, Ekaterina",RUS,F,,,,1642,0,40,OCT26,2010,w
 34308334,"Yakovenko, Nikita",RUS,M,,,,1723,0,40,OCT26,2008,i
 34482288,"Yakovenko, Oleg",RUS,M,,,,1768,0,20,OCT26,2005,i
@@ -35988,8 +35990,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44182830,"Yurchenko, Aleksandra",RUS,F,,,,1475,0,20,OCT26,2003,wi
 55795412,"Yurchenko, Grigoriy",RUS,M,,,,1828,0,40,OCT26,2009,i
 24267120,"Yurchenko, Ivan",RUS,M,,,,1434,0,40,OCT26,2008,i
-24225088,"Yurchenko, Konstantin",RUS,M,,,,1911,0,20,OCT26,1949,i
 55712258,"Yurchenko, Konstantin",RUS,M,,,,1479,0,20,OCT26,1994,
+24225088,"Yurchenko, Konstantin",RUS,M,,,,1911,0,20,OCT26,1949,i
 34261575,"Yurchenko, Mikhail",RUS,M,,,,1716,0,20,OCT26,2003,i
 24133124,"Yurchenko, Nikolay",RUS,M,,,,1743,0,20,OCT26,1961,
 55706347,"Yurchenko, Nikolay",RUS,M,,,,1586,0,40,OCT26,2012,
@@ -36405,7 +36407,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4174011,"Zangirov, Yan",RUS,M,,,,2025,0,20,OCT26,1972,i
 34311491,"Zangirova, Tatyana",RUS,F,,,,1749,0,40,OCT26,2011,w
 34222146,"Zanin, Elisey",RUS,M,,,,1590,0,40,OCT26,2009,i
-34314717,"Zanina, Eva",RUS,F,,,,1663,12,40,OCT26,2010,w
+34314717,"Zanina, Eva",RUS,F,,,,1697,24,40,OCT26,2010,w
 34355251,"Zanina, Mariia",RUS,F,,,,1592,0,20,OCT26,1953,w
 570051291,"Zanochka, Ivan Al",RUS,M,,,,1702,0,20,OCT26,2006,
 4175972,"Zanozin, Anatoly",RUS,M,,,,2059,0,20,OCT26,1960,i
@@ -36547,7 +36549,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 540065340,"Zaytsev, Oleg Al",RUS,M,,,,1671,9,40,OCT26,2015,
 24205974,"Zaytsev, Pavel",RUS,M,,,,1576,0,20,OCT26,2004,i
 34306552,"Zaytsev, Pavel V.",RUS,M,,,,1595,0,,OCT26,1970,i
-55768180,"Zaytsev, Timofey Ol.",RUS,M,,,,1619,0,40,OCT26,2014,
+55768180,"Zaytsev, Timofey Ol.",RUS,M,,,,1677,12,40,OCT26,2014,
 34382046,"Zaytsev, Viktor R",RUS,M,,,,2075,35,40,OCT26,2010,
 24252298,"Zaytsev, Vladimir",RUS,M,,,,1699,0,20,OCT26,1967,i
 55671349,"Zaytsev, Vyacheslav",RUS,M,,,,1743,11,40,OCT26,2009,
@@ -36682,7 +36684,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 570014639,"Zharko, Viktoriya",RUS,F,,,,1473,0,40,OCT26,2014,w
 24297771,"Zharkov, Ivan",RUS,M,,,,2384,0,10,OCT26,1973,i
 55753817,"Zharkov, Ivan",RUS,M,,,,1427,0,40,OCT26,2011,
-54193648,"Zharkov, Nikolay",RUS,M,,,,2372,13,20,OCT26,2003,
+54193648,"Zharkov, Nikolay",RUS,M,,,,2377,26,20,OCT26,2003,
 24282812,"Zharnikov, Ivan",RUS,M,,,,1782,0,20,OCT26,2005,i
 55810802,"Zharov, Artem Ser",RUS,M,,,,1410,0,40,OCT26,2014,i
 24232980,"Zharov, Vladislav",RUS,M,,,,1677,0,20,OCT26,1981,i
@@ -36915,7 +36917,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34287930,"Zhukov, Konstantin",RUS,M,,,,1831,0,40,OCT26,2008,i
 24199095,"Zhukov, Lev",RUS,M,,,,1937,0,20,OCT26,2002,i
 34181790,"Zhukov, Maksim",RUS,M,FM,,,1955,0,20,OCT26,2005,i
-55695116,"Zhukov, Matvei",RUS,M,,,,1982,12,40,OCT26,2010,
+55695116,"Zhukov, Matvei",RUS,M,,,,2012,25,40,OCT26,2010,
 24219797,"Zhukov, Maxim",RUS,M,,,,1561,0,40,OCT26,2008,i
 55831745,"Zhukov, Mikhail N",RUS,M,,,,1464,0,40,OCT26,2015,i
 522054286,"Zhukov, Nikolay",RUS,M,,,,1650,0,20,OCT26,1983,
@@ -36958,7 +36960,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34205217,"Zhuravlev, Andrey",RUS,M,,,,1491,0,20,OCT26,2006,i
 34367632,"Zhuravlev, Arkadiy",RUS,M,,,,1636,0,40,OCT26,2011,i
 44174608,"Zhuravlev, Artem",RUS,M,,,,1684,0,20,OCT26,2007,
-55604714,"Zhuravlev, Artem V",RUS,M,,,,1639,0,40,OCT26,2009,
+55604714,"Zhuravlev, Artem V",RUS,M,,,,1773,12,40,OCT26,2009,
 55888534,"Zhuravlev, Daniil M",RUS,M,,,,1463,0,40,OCT26,2010,
 34222766,"Zhuravlev, Danil",RUS,M,,,,1543,0,20,OCT26,2003,i
 55648452,"Zhuravlev, Denis",RUS,M,,,,1876,0,20,OCT26,1978,i

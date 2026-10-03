@@ -1546,7 +1546,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 94790612,"Blanca Ruiz, Ahmed Nuh",ESP,M,,,,1587,0,20,OCT26,1990,
 94737371,"Blanca Ruiz, Mohamed",ESP,M,,,,1517,0,20,OCT26,1986,i
 22219382,"Blanch Plana, Angel",ESP,M,,,,1889,0,20,OCT26,1967,
-535084286,"Blanco Arellano, Marco Antonio",ESP,M,,,,1570,6,20,OCT26,1988,
+535084286,"Blanco Arellano, Marco Antonio",ESP,M,,,,1570,6,,OCT26,1988,
 24549410,"Blanco Arias, Nicolas",ESP,M,,,,1553,0,20,OCT26,2004,i
 523094869,"Blanco Arnal, Estibaliz",ESP,F,,,,1522,8,40,OCT26,2010,w
 535067624,"Blanco Artime, Lucas",ESP,M,,,,1478,0,40,OCT26,2010,i
@@ -1573,7 +1573,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 22219455,"Blanco Fernandez, Miguel",ESP,M,,,,1732,0,20,OCT26,1934,i
 22262890,"Blanco Fuente, Carlos",ESP,M,,,,1872,0,20,OCT26,1997,i
 94798001,"Blanco Gallego, Valentina",ESP,F,,,,1455,0,20,OCT26,1965,wi
-54583950,"Blanco Garcia Bajo, David",ESP,M,,,,2077,0,40,OCT26,2011,
+54583950,"Blanco Garcia Bajo, David",ESP,M,,SI,,2077,0,40,OCT26,2011,
 94752729,"Blanco Gomez, Jose Angel",ESP,M,,,,1437,0,20,OCT26,1992,i
 2260743,"Blanco Gutierrez, Pedro",ESP,M,,,,2086,0,20,OCT26,1986,i
 54781981,"Blanco Hernando, Mikel",ESP,M,,,,1768,0,40,OCT26,2012,
@@ -2362,7 +2362,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 523088729,"Carlet Peinado, Francisco Javier",ESP,M,,,,1665,0,20,OCT26,1999,
 94722455,"Carlon Barreales, Jorge",ESP,M,,,,1701,0,20,OCT26,1997,
 54536596,"Carmona Alarcon, Nerea",ESP,F,,,,1476,0,20,OCT26,1999,wi
-54541603,"Carmona Carrillo, Carlos Rafael Arcangel",ESP,M,,NI,,1929,0,,OCT26,1982,
+54541603,"Carmona Carrillo, Carlos Rafael Arcangel",ESP,M,,"NI,SI",,1929,0,,OCT26,1982,
 553045920,"Carmona Cazorla, Ismael",ESP,M,,,,1477,0,40,OCT26,2016,
 523036176,"Carmona Gomez, Antonio",ESP,M,,,,1583,0,40,OCT26,2016,
 54538483,"Carmona Gonzalez, Angel",ESP,M,,,,1560,0,20,OCT26,1978,i
@@ -10759,7 +10759,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 2285738,"Pena Hernandez, Tamara",ESP,F,,,,1778,0,20,OCT26,1990,w
 24546828,"Pena Lopez, Jose Miguel",ESP,M,,,,1697,0,20,OCT26,1957,
 535033916,"Pena Maximo, Samuel",ESP,M,,,,1407,0,40,OCT26,2012,
-54514886,"Pena Mendez, Gabriel",ESP,M,,,,1576,0,40,OCT26,2008,i
+54514886,"Pena Mendez, Gabriel",ESP,M,,SI,,1576,0,40,OCT26,2008,i
 54776775,"Pena Montenegro, Mateo",ESP,M,,,,1863,0,40,OCT26,2009,
 32042744,"Pena Mor, David",ESP,M,,,,1900,0,20,OCT26,1996,i
 54743010,"Pena Nieto, Manuel",ESP,M,,,,1506,0,40,OCT26,2010,i
@@ -12025,7 +12025,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54782970,"Rivero Gil, Carlos",ESP,M,,,,1667,0,40,OCT26,2012,i
 22241400,"Rivero Jimenez, Ileana Caridad",ESP,F,,,,1559,0,20,OCT26,1959,wi
 2230682,"Rivero Marquez, Rafael",ESP,M,,,,1784,0,20,OCT26,1959,i
-54777267,"Rivero Nunez, Roberto",ESP,M,,,,1519,0,20,OCT26,1985,i
+54777267,"Rivero Nunez, Roberto",ESP,M,,SI,,1519,0,20,OCT26,1985,i
 2266547,"Rivero Ojeda, Carmelo",ESP,M,FM,,,2152,0,20,OCT26,1968,i
 24530298,"Rivero Pena, Himar",ESP,M,,,,1771,0,20,OCT26,2005,i
 553013620,"Rivero Perez, Bruno Manuel",ESP,M,,,,1620,0,20,OCT26,1977,
@@ -12948,7 +12948,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 24504947,"Sanabria Gris, Pol",ESP,M,,,,1597,0,20,OCT26,2007,
 2276607,"Sanabria Macias, Anselmo",ESP,M,,,,1910,0,20,OCT26,1947,i
 32068000,"Sanabria Taskila, Daniel Kristian",ESP,M,,,,1785,0,20,OCT26,2000,i
-32066139,"Sanabria Taskila, Jenny Maria",ESP,F,,,,1850,0,20,OCT26,2003,wi
+32066139,"Sanabria Taskila, Jenny Maria",ESP,F,,SI,,1850,0,20,OCT26,2003,wi
 22229965,"Sanahuja Bardina, Pere",ESP,M,,,,1966,0,20,OCT26,1959,i
 2263572,"Sanahuja Llopis, Albert",ESP,M,,,,2038,0,20,OCT26,1986,i
 54545021,"Sanchagarre Castaneda, Pablo",ESP,M,,,,1716,0,20,OCT26,2005,i
@@ -13297,7 +13297,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 535031735,"Santana Sanchez, Rebeca",ESP,F,,,,1463,0,40,OCT26,2012,w
 94789320,"Santana Sanchez, Sergio",ESP,M,,,,1497,0,40,OCT26,2014,
 535008288,"Santana Silva, Enzo",ESP,M,,,,1536,0,40,OCT26,2015,
-535017856,"Santana Slamova, Yassine",ESP,M,,,,1627,0,20,OCT26,2007,
+535017856,"Santana Slamova, Yassine",ESP,M,,SI,,1627,0,20,OCT26,2007,
 54773164,"Santander Puig, Hector",ESP,M,,,,1757,0,40,OCT26,2009,
 32052111,"Santandreu Barquero, Martin",ESP,M,,,,1599,0,20,OCT26,1965,i
 2281503,"Santandreu Gregori, David",ESP,M,,,,1940,7,20,OCT26,1989,
@@ -14909,7 +14909,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 54714923,"Villalba Pons, Guillem",ESP,M,,,,1909,0,40,OCT26,2008,
 54714931,"Villalba Pons, Max",ESP,M,,,,1757,0,20,OCT26,2006,i
 2276151,"Villalobos Luque, Jose Manuel",ESP,M,,,,1948,0,20,OCT26,1966,i
-553068050,"Villalon Diaz, Javiera Constanza",ESP,F,,,,1692,0,20,OCT26,1997,w
 523034181,"Villalonga Capo, Pedro",ESP,M,,,,1448,0,40,OCT26,2012,
 2276291,"Villalta Bustillo, Igor",ESP,M,,,,2239,0,20,OCT26,1988,i
 2291681,"Villalta Galera, Jandro Raul",ESP,M,,,,1916,0,20,OCT26,1972,i

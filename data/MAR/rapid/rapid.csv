@@ -230,7 +230,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9042113,"Berrahmani, Yassine",MAR,M,,,,1776,0,20,OCT26,1999,i
 7811144,"Berraho, Ahmed",MAR,M,,,,1944,0,20,OCT26,1979,i
 9047697,"Berraho, Mohamed Adam",MAR,M,,,,1776,0,40,OCT26,2008,i
-9027459,"Berri, Lamyaa",MAR,F,,"SI,LSI,NA",,1522,0,40,OCT26,1996,wi
+9027459,"Berri, Lamyaa",MAR,F,,"SI,LSI,SLI,NA",,1522,0,40,OCT26,1996,wi
 9026177,"Bertit, Abderrahim",MAR,M,,,,1905,0,20,OCT26,1997,i
 9054987,"Bouaddi, Youssef",MAR,M,,,,1706,0,,OCT26,1992,i
 9016171,"Boualkim, Adam",MAR,M,,,,1770,0,40,OCT26,2006,i
@@ -500,7 +500,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9007652,ELBAGGAR ABDELGHAFOUR,MAR,M,,,,1910,0,20,OCT26,1965,i
 9019588,"Elbakkar,Souhail",MAR,M,,,,1642,0,40,OCT26,2005,
 9000127,"Elbilia, Jacques",MAR,M,FM,,,2307,0,10,OCT26,1971,i
-9005471,Elbount Yasser,MAR,M,,,,1699,0,40,OCT26,2006,
+9005471,Elbount Yasser,MAR,M,,SI,,1699,0,40,OCT26,2006,
 9059768,"Elfadil, Achraf",MAR,M,,,,1533,0,40,OCT26,2016,
 9001743,"Elfadili, Samir",MAR,M,,,,1846,0,20,OCT26,1973,i
 9031880,"Elfahim, Soufiane",MAR,M,,,,1759,0,40,OCT26,1984,
@@ -974,7 +974,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9062572,"OUHSAIN,Joud",MAR,M,,,,1505,0,40,OCT26,2012,
 9041494,"Oujaa, Ammar",MAR,M,,,,1593,0,40,OCT26,2016,
 9014284,"Oujaa, Mohamed Lahbib",MAR,M,,FA,,1734,0,20,OCT26,1988,i
-9047824,"Oukhira, Hamid",MAR,M,,NA,,1576,0,40,OCT26,1985,i
+9047824,"Oukhira, Hamid",MAR,M,,"SI,NA",,1576,0,40,OCT26,1985,i
 9037004,"Oukkad, Omar",MAR,M,,,,1831,0,20,OCT26,1987,i
 9008055,"Oulad side abdeslam,redouan",MAR,M,,,,2013,0,20,OCT26,1963,
 9003860,"Oulaed, Benbrahim Mustafa",MAR,M,,,,1829,0,20,OCT26,1998,i

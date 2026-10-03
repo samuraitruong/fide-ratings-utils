@@ -720,21 +720,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10677330",
-    "Name": "Abdallah, Mohamed Ahmed",
-    "Fed": "EGY",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1743",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1964",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10686576",
     "Name": "Abdallah, Mohamed Ahmed",
     "Fed": "EGY",
@@ -747,6 +732,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1986",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10677330",
+    "Name": "Abdallah, Mohamed Ahmed",
+    "Fed": "EGY",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1743",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1964",
     "Flag": "i"
   },
   {
@@ -8075,7 +8075,7 @@
     "Fed": "EGY",
     "Sex": "M",
     "Title": "",
-    "WTit": "SI,IA",
+    "WTit": "SI,LSI,IA",
     "OTit": "",
     "Rating": "1743",
     "Gms": "0",
@@ -8450,7 +8450,7 @@
     "Fed": "EGY",
     "Sex": "M",
     "Title": "",
-    "WTit": "",
+    "WTit": "SI",
     "OTit": "",
     "Rating": "1818",
     "Gms": "0",
@@ -15020,7 +15020,7 @@
     "Fed": "EGY",
     "Sex": "M",
     "Title": "",
-    "WTit": "FI",
+    "WTit": "FI,SI",
     "OTit": "",
     "Rating": "2287",
     "Gms": "0",
@@ -21630,21 +21630,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "10655697",
-    "Name": "Gouda, Moustafa",
-    "Fed": "EGY",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1930",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1977",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10663010",
     "Name": "Gouda, Moustafa",
     "Fed": "EGY",
@@ -21657,6 +21642,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "2002",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10655697",
+    "Name": "Gouda, Moustafa",
+    "Fed": "EGY",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1930",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1977",
     "Flag": "i"
   },
   {
@@ -31290,21 +31290,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "10653236",
-    "Name": "Mahran, Abdallah",
-    "Fed": "EGY",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1841",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1991",
-    "Flag": "i"
-  },
-  {
     "ID Number": "10637770",
     "Name": "Mahran, Abdallah",
     "Fed": "EGY",
@@ -31317,6 +31302,21 @@
     "K": "20",
     "RatingMonth": "OCT26",
     "B-day": "1971",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "10653236",
+    "Name": "Mahran, Abdallah",
+    "Fed": "EGY",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1841",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1991",
     "Flag": "i"
   },
   {

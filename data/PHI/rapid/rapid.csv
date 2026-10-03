@@ -1618,7 +1618,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5286166,"Crisolo, Marc Gene",PHI,M,,,,1699,0,,OCT26,2003,i
 5233984,"CRISOSTOMO, Franz Xyrold",PHI,M,,,,1607,0,40,OCT26,2010,i
 5215501,"Criste, Jaime",PHI,M,,,,1857,0,20,OCT26,0,
-5283213,"Cristobal, Rhen Rhizzimhel",PHI,M,,,,1734,5,20,OCT26,2000,
+5283213,"Cristobal, Rhen Rhizzimhel",PHI,M,,SI,,1734,5,20,OCT26,2000,
 5219280,"Cruz, Christopher",PHI,M,,,,1892,0,20,OCT26,1982,i
 5232139,"Cruz, Daniella Bianca",PHI,F,,,,1659,4,,OCT26,2011,w
 5236908,"CRUZ, Eivanne Jacob",PHI,M,,,,1911,0,,OCT26,2002,i
@@ -3168,7 +3168,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 521078190,"Kiefer, Alois Peter",PHI,M,,,,1511,0,40,OCT26,2010,
 521017891,"Kinalamay, Jude",PHI,M,,,,1690,0,40,OCT26,2004,
 5297850,"Kindipan, Jezry",PHI,M,,,,1646,0,,OCT26,1990,i
-5235812,"Kindipan, Zyralle",PHI,F,,"SI,NA",,1628,0,,OCT26,1993,w
+5235812,"Kindipan, Zyralle",PHI,F,,"SI,LSI,NA",,1628,0,,OCT26,1993,w
 5252652,"Kintanar, Stephen",PHI,M,,,,1998,0,20,OCT26,1961,i
 5220769,"Kis-ing, Christopher Khalil",PHI,M,,,,1997,0,20,OCT26,2003,
 521018537,"Kitongan, David Kale",PHI,M,,,,1426,0,40,OCT26,2010,i
@@ -4017,8 +4017,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5214807,"Mendoza, Cheyzer Crystal J.",PHI,F,,,,1740,0,20,OCT26,0,w
 521017484,"Mendoza, Christher",PHI,M,,,,1678,0,40,OCT26,2006,
 5264383,"Mendoza, Christian",PHI,M,,,,1988,0,20,OCT26,2007,
-5220793,"Mendoza, Dennis",PHI,M,,,,1724,0,20,OCT26,1980,i
 521002096,"Mendoza, Dennis",PHI,M,,,,1730,0,40,OCT26,1964,i
+5220793,"Mendoza, Dennis",PHI,M,,,,1724,0,20,OCT26,1980,i
 5241219,"Mendoza, Dennis Jocel",PHI,M,,,,1738,0,40,OCT26,2008,
 5241227,"Mendoza, Dennis Jomari",PHI,M,,,,1601,0,40,OCT26,2006,i
 521001642,"Mendoza, Donnabelle",PHI,F,,,,1643,0,40,OCT26,2005,w
@@ -4088,8 +4088,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 584003669,"Millare, Marky",PHI,M,,,,1538,2,,OCT26,2009,
 521012075,"Mills, Javier",PHI,M,,,,1438,0,40,OCT26,2007,i
 5259452,"Mina, Prince Khen",PHI,M,,,,1508,0,40,OCT26,2009,i
-521011486,"Mina, Roberto",PHI,M,,,,1817,0,20,OCT26,1993,
 5247055,"Mina, Roberto",PHI,M,,,,1833,0,20,OCT26,1998,i
+521011486,"Mina, Roberto",PHI,M,,,,1817,0,20,OCT26,1993,
 584008970,"Mindalano, Fadel",PHI,M,,,,1596,0,40,OCT26,2015,
 5233909,"MINDO, Dominino Jr",PHI,M,,,,1575,0,20,OCT26,1969,i
 521055300,"Minoza, Trisha Madel",PHI,F,,,,1596,0,40,OCT26,2011,w
@@ -4198,8 +4198,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5231280,"Morala, Keith Claire Carlisle",PHI,F,,,,1845,0,20,OCT26,1997,wi
 5239540,"Morales, Al Gabin",PHI,M,,,,1766,0,20,OCT26,1980,i
 521034508,"Morales, Francis Benedict",PHI,M,,,,1448,0,40,OCT26,2014,i
-521050791,"Morales, James Kenneth",PHI,M,,,,1467,0,40,OCT26,2007,i
 521093350,"Morales, James Kenneth",PHI,M,,,,1598,0,40,OCT26,2010,
+521050791,"Morales, James Kenneth",PHI,M,,,,1467,0,40,OCT26,2007,i
 521058750,"Morales, Jeremiah",PHI,M,,NA,,1668,0,40,OCT26,1991,i
 521004889,"Morales, Joemar",PHI,M,,,,1853,0,20,OCT26,1981,i
 521097500,"Morales, Jojie A?",PHI,M,,,,1779,0,40,OCT26,1990,
@@ -5661,7 +5661,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 5298130,"Silvala, Mikelle Kristoff",PHI,M,,,,1511,0,40,OCT26,2009,i
 521049262,"Silvano, Ramon Jr",PHI,M,,,,1644,0,40,OCT26,2007,i
 5272009,"Silvano, Vhea Ashley",PHI,F,,,,1815,0,40,OCT26,2009,w
-5248302,"Silvederio, John Michael Britanico",PHI,M,,,,1978,0,,OCT26,1992,i
+5248302,"Silvederio, John Michael Britanico",PHI,M,,FI,,1978,0,,OCT26,1992,i
 5241316,"Sim, Alexis Vien",PHI,M,,,,1711,0,20,OCT26,2004,i
 521002690,"Sim, Danny",PHI,M,,,,1617,0,40,OCT26,1957,i
 5295599,"Sim, Rafael Jr",PHI,M,,,,1949,0,20,OCT26,1988,

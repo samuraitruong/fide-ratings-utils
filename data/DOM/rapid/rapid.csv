@@ -1,6 +1,6 @@
 ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6405525,"Abreu Jean, Carlos Paul",DOM,M,FM,,,2274,0,20,OCT26,1990,i
-6400400,"Acevedo Vargas, Julio",DOM,M,,NA,,1947,0,20,OCT26,1963,
+6400400,"Acevedo Vargas, Julio",DOM,M,,"SI,NA",,1947,0,20,OCT26,1963,
 6409130,"Acosta Rodriguez, Ruben Dario",DOM,M,,,,1927,0,40,OCT26,1967,
 6407862,"Acosta, Andres",DOM,M,,,,1792,0,20,OCT26,1974,i
 6412513,"Acosta, Orlando",DOM,M,,,,1753,0,40,OCT26,0,i
@@ -165,7 +165,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6405649,"Jimenez, Maykol Yefri",DOM,M,,,,2056,0,20,OCT26,1992,i
 6408095,"Joaquin Salcedo, Candida",DOM,F,,,,1726,0,20,OCT26,1972,wi
 6402860,"Jorge, Alberto",DOM,M,CM,,,2039,0,20,OCT26,1985,i
-6427570,"Julio Jose, Acevedo Tejada",DOM,M,,,,1738,0,40,OCT26,2001,
+6427570,"Julio Jose, Acevedo Tejada",DOM,M,,SI,,1738,0,40,OCT26,2001,
 6419461,"King Rodriguez, Os Misael",DOM,M,CM,,,1930,0,40,OCT26,2005,i
 6419470,"King Soriano, Misael",DOM,M,,,,1912,0,20,OCT26,1972,i
 6437923,"Kingsley Pereyra, John",DOM,M,,,,1432,0,40,OCT26,2015,

@@ -1325,8 +1325,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4452267,"Chisco, Juan Esteban",COL,M,,,,1732,0,20,OCT26,2002,i
 144450559,"Cicero Velasquez, Jesus David",COL,M,,,,1677,0,40,OCT26,2011,i
 4484134,"Cifci Valencia, Jeronimo",COL,M,,,,1537,0,20,OCT26,2002,i
-4435818,"Cifuentes Alvarez, Jose Vicente",COL,M,,,,1771,7,20,OCT26,1954,
 144432569,"Cifuentes Alvarez, Jose Vicente",COL,M,,,,1808,0,40,OCT26,1954,i
+4435818,"Cifuentes Alvarez, Jose Vicente",COL,M,,,,1771,7,20,OCT26,1954,
 4481615,"Cifuentes Camacho, Miguel Angel",COL,M,CM,,,2195,0,20,OCT26,2006,
 144426763,"Cifuentes Castano, Jose Luis",COL,M,,,,1633,0,40,OCT26,1984,i
 144428235,"Cifuentes Cortes, Eliana Sofia",COL,F,,,,1665,0,40,OCT26,2010,wi
@@ -1829,8 +1829,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4411978,"Fajardo Murgas, Yosimar David",COL,M,,,,1955,0,20,OCT26,1994,i
 144467567,"Fajardo Prieto, Nicolas",COL,M,,,,1625,0,40,OCT26,2014,
 144486669,"Fajardo Sanchez, Javier Santiago",COL,M,,,,1633,0,40,OCT26,2002,
-4443284,"Fajardo, Gustavo",COL,M,,,,1831,0,20,OCT26,1999,i
 4473116,"Fajardo, Gustavo",COL,M,,,,1810,0,20,OCT26,1977,i
+4443284,"Fajardo, Gustavo",COL,M,,,,1831,0,20,OCT26,1999,i
 4444078,"Fajardo, Icenover",COL,M,,,,1712,0,40,OCT26,1958,
 4466837,"Fandino Parra, Juan Diego",COL,M,,,,1869,0,20,OCT26,1977,i
 144438842,"Farfan Rubio, Ariel Ignacio",COL,M,,,,1621,0,40,OCT26,2011,i
@@ -2282,8 +2282,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 144461542,"Gomez Villanueva, Leidy Daian",COL,F,,,,1452,0,40,OCT26,1997,w
 144448740,"Gomez Villegas, Hugo Gabriel",COL,M,,,,1704,8,40,OCT26,2014,
 4497430,"Gomez Zapata, Luis Andres",COL,M,,,,1639,3,40,OCT26,1994,
-4462483,"Gomez, Alberto",COL,M,,,,1914,0,20,OCT26,1961,i
 4484916,"Gomez, Alberto",COL,M,,,,1669,0,20,OCT26,1952,i
+4462483,"Gomez, Alberto",COL,M,,,,1914,0,20,OCT26,1961,i
 4449835,"Gomez, Carlos Alberto",COL,M,,,,1953,0,20,OCT26,1997,i
 4461851,"Gomez, Cesar Sebastian",COL,M,,,,1862,0,40,OCT26,1993,i
 4401964,"Gomez, Dario G",COL,M,,,,1812,0,20,OCT26,1940,
@@ -2377,7 +2377,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4447816,"Gonzalez Vargas, Jair",COL,M,,,,1818,0,20,OCT26,1985,i
 144442378,"Gonzalez Vargas, Jeimy Vanessa",COL,F,,,,1534,0,40,OCT26,2003,wi
 144411960,"Gonzalez Vargas, Ricardo Emanuel",COL,M,,,,1582,0,40,OCT26,2012,
-4452879,"Gonzalez Velasco, Leandro",COL,M,,,,2181,6,20,OCT26,2006,
+4452879,"Gonzalez Velasco, Leandro",COL,M,,SI,,2181,6,20,OCT26,2006,
 144490313,"Gonzalez Villada, Mauricio",COL,M,,,,1663,7,40,OCT26,1972,
 4477103,"Gonzalez Zabala, Fabian Alberto",COL,M,,,,1805,0,20,OCT26,1997,i
 4474503,"Gonzalez Zapata, Julian David",COL,M,,,,1875,0,20,OCT26,2001,
@@ -2499,7 +2499,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4400100,"Gutierrez Herrera, Jose Antonio",COL,M,IM,,,1989,0,20,OCT26,1943,
 4471210,"Gutierrez Lastra, Aramis",COL,M,,,,1926,0,20,OCT26,1967,i
 4459385,"Gutierrez Llanes, Santiago",COL,M,,,,1556,0,40,OCT26,2008,
-144450630,"Gutierrez Navas, Abelardo",COL,M,,,,1495,0,40,OCT26,1979,
+144450630,"Gutierrez Navas, Abelardo",COL,M,,SI,,1495,0,40,OCT26,1979,
 144474865,"Gutierrez Ossuna, Gabriela",COL,F,,,,1464,7,40,OCT26,2017,w
 4411293,"Gutierrez Pacheco, Carlos Alberto",COL,M,,,,1845,0,20,OCT26,1975,i
 4479459,"Gutierrez Pama, Andres Mauricio",COL,M,,,,1927,0,20,OCT26,2006,
@@ -3213,8 +3213,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4488334,"Martinez Serna, Juan Esteban",COL,M,,,,1821,3,20,OCT26,2007,
 4479874,"Martinez Serna, Maria Luisa",COL,F,,,,1620,0,40,OCT26,2005,wi
 4459997,"Martinez Torres, Cristhian Camil",COL,M,,,,1961,0,40,OCT26,1995,
-4468090,"Martinez Urbina, Sergio Andres",COL,M,,,,1918,0,40,OCT26,1981,i
 4409264,"Martinez Urbina, Sergio Andres",COL,M,,,,1856,0,40,OCT26,1988,i
+4468090,"Martinez Urbina, Sergio Andres",COL,M,,,,1918,0,40,OCT26,1981,i
 4490290,"Martinez Vargas, Luis Eduardo",COL,M,,,,1800,0,20,OCT26,1982,i
 4455452,"Martinez Vergara, Julian Andres",COL,M,,,,1968,0,20,OCT26,1984,i
 4444116,"Martinez, Cesar",COL,M,,,,1780,0,20,OCT26,1965,i
@@ -3247,7 +3247,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4403754,"Matoma, Yimmy",COL,M,,,,1968,0,20,OCT26,1969,
 4404653,"Matta, Paola Andrea",COL,F,,,,1875,0,20,OCT26,1981,wi
 144431392,"Maya Restrepo, Luis Santiago",COL,M,,,,1721,0,40,OCT26,1999,
-4434455,"Maya, Dilan David",COL,M,,,,1949,0,20,OCT26,1998,i
+4434455,"Maya, Dilan David",COL,M,,,,1949,0,,OCT26,1998,i
 144429711,"Mayac Mendoza, Geronimo",COL,M,,,,1613,0,40,OCT26,2013,i
 144414188,"Mayorga Guerrero, Gerardo Alfonso",COL,M,,,,1556,0,20,OCT26,1979,i
 4496469,"Mayorga Mora, Hitler Simon",COL,M,,,,1543,0,20,OCT26,1992,i
@@ -4308,8 +4308,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4472888,"Perez Pertuz, Carlos Mario",COL,M,,,,1901,0,20,OCT26,1990,
 144424604,"Perez Quevedo, Oscar Daniel",COL,M,,,,1662,5,20,OCT26,1996,
 144449518,"Perez Ramirez, Bernardo",COL,M,,,,1536,0,40,OCT26,1961,i
-4485920,"Perez Reinosa, Dubier Marcelo",COL,M,,,,1699,0,20,OCT26,1983,i
 4456769,"Perez Reinosa, Dubier Marcelo",COL,M,,,,1857,0,20,OCT26,1983,i
+4485920,"Perez Reinosa, Dubier Marcelo",COL,M,,,,1699,0,20,OCT26,1983,i
 144432895,"Perez Rincon, Jair Estiven",COL,M,,,,1513,0,40,OCT26,2006,i
 4427114,"Perez Rodriguez, Juan Carlos",COL,M,,,,1932,0,20,OCT26,1990,
 144491999,"Perez Rosario, Fabio Andres",COL,M,,,,1485,6,40,OCT26,2007,

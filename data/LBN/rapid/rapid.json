@@ -1745,7 +1745,7 @@
     "Fed": "LBN",
     "Sex": "F",
     "Title": "",
-    "WTit": "NI,NA",
+    "WTit": "NI,SI,NA",
     "OTit": "",
     "Rating": "1553",
     "Gms": "0",
@@ -9285,21 +9285,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "5309140",
-    "Name": "Itani, Mohamad",
-    "Fed": "LBN",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1617",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1975",
-    "Flag": "i"
-  },
-  {
     "ID Number": "5321697",
     "Name": "Itani, Mohamad",
     "Fed": "LBN",
@@ -9312,6 +9297,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1976",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "5309140",
+    "Name": "Itani, Mohamad",
+    "Fed": "LBN",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1617",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1975",
     "Flag": "i"
   },
   {
@@ -13906,7 +13906,7 @@
   },
   {
     "ID Number": "5310474",
-    "Name": "Romanos, Jad Antoinne",
+    "Name": "Roumanos, Jad Antoinne",
     "Fed": "LBN",
     "Sex": "M",
     "Title": "",

@@ -24290,7 +24290,7 @@
     "Fed": "PHI",
     "Sex": "M",
     "Title": "",
-    "WTit": "",
+    "WTit": "SI",
     "OTit": "",
     "Rating": "1734",
     "Gms": "5",
@@ -47540,7 +47540,7 @@
     "Fed": "PHI",
     "Sex": "F",
     "Title": "",
-    "WTit": "SI,NA",
+    "WTit": "SI,LSI,NA",
     "OTit": "",
     "Rating": "1628",
     "Gms": "0",
@@ -60270,21 +60270,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "5220793",
-    "Name": "Mendoza, Dennis",
-    "Fed": "PHI",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1724",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1980",
-    "Flag": "i"
-  },
-  {
     "ID Number": "521002096",
     "Name": "Mendoza, Dennis",
     "Fed": "PHI",
@@ -60297,6 +60282,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "1964",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "5220793",
+    "Name": "Mendoza, Dennis",
+    "Fed": "PHI",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1724",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1980",
     "Flag": "i"
   },
   {
@@ -61335,21 +61335,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "521011486",
-    "Name": "Mina, Roberto",
-    "Fed": "PHI",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1817",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1993",
-    "Flag": ""
-  },
-  {
     "ID Number": "5247055",
     "Name": "Mina, Roberto",
     "Fed": "PHI",
@@ -61363,6 +61348,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1998",
     "Flag": "i"
+  },
+  {
+    "ID Number": "521011486",
+    "Name": "Mina, Roberto",
+    "Fed": "PHI",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1817",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1993",
+    "Flag": ""
   },
   {
     "ID Number": "584008970",
@@ -62985,21 +62985,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "521050791",
-    "Name": "Morales, James Kenneth",
-    "Fed": "PHI",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1467",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2007",
-    "Flag": "i"
-  },
-  {
     "ID Number": "521093350",
     "Name": "Morales, James Kenneth",
     "Fed": "PHI",
@@ -63013,6 +62998,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2010",
     "Flag": ""
+  },
+  {
+    "ID Number": "521050791",
+    "Name": "Morales, James Kenneth",
+    "Fed": "PHI",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1467",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2007",
+    "Flag": "i"
   },
   {
     "ID Number": "521058750",
@@ -84935,7 +84935,7 @@
     "Fed": "PHI",
     "Sex": "M",
     "Title": "",
-    "WTit": "",
+    "WTit": "FI",
     "OTit": "",
     "Rating": "1978",
     "Gms": "0",

@@ -2164,7 +2164,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9977872,"Kodagoda, Hansana Chamikara",SRI,M,,,,1430,0,20,OCT26,2001,i
 9953345,"Kodagoda, Ushan Vihanga",SRI,M,,,,1422,0,20,OCT26,1992,i
 9929215,"Kodikara, K K M A",SRI,M,,,,1683,0,20,OCT26,1999,i
-9932070,"Kodikara, K K M Sachintha",SRI,F,WFM,WFM,,1639,0,20,OCT26,2004,wi
+9932070,"Kodikara, K K M Sachintha",SRI,F,WFM,WFM,SI,1639,0,20,OCT26,2004,wi
 9921532,"Kodikara, N S",SRI,M,,,,1599,0,20,OCT26,2002,i
 29986095,"Kodikara, Ranithi Lohasna",SRI,F,,,,1416,0,40,OCT26,2015,w
 29984394,"Kodikara, Thehan Kemith",SRI,M,,,,1675,0,40,OCT26,2014,
@@ -3587,7 +3587,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 29906040,"Ruwantha, L G Irindu",SRI,M,,,,1418,0,20,OCT26,2006,i
 9968202,"Ruwantha, S K Ramindu",SRI,M,,,,1573,0,,OCT26,2004,i
 29980682,"Ruwanwella, R.G. Desindu Chiranitha",SRI,M,,,,1469,0,40,OCT26,2009,i
-9954503,"Ruwinga, S P Dishal",SRI,M,,LSI,,1568,0,,OCT26,1979,i
+9954503,"Ruwinga, S P Dishal",SRI,M,,"LSI,SLI",,1568,0,,OCT26,1979,i
 80891594,"S, Aatheesan",SRI,M,,,,1517,0,40,OCT26,2015,
 80807097,"Saashwin, Piriyananth",SRI,M,,,,1462,6,40,OCT26,2014,
 29977797,"Saathana, Saseelan",SRI,F,,,,1445,0,40,OCT26,2013,w
@@ -3674,7 +3674,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9994335,"Samarathunga, Jasith Pawan",SRI,M,,,,1516,0,40,OCT26,2010,
 9954279,"Samarathunga, S Savindya Ransana",SRI,M,,,,1425,0,20,OCT26,2006,i
 29974615,Samaraweera S M Sethika Hansira,SRI,M,,,,1608,0,40,OCT26,2014,
-9912983,"Samaraweera, Akila Lakshan",SRI,M,,,,1443,0,20,OCT26,1993,i
+9912983,"Samaraweera, Akila Lakshan",SRI,M,,SI,,1443,0,20,OCT26,1993,i
 80842534,"Samaraweera, Chamathka Sanudi",SRI,F,,,,1432,0,40,OCT26,2012,w
 9982965,"Samaraweera, Dimuth Indeepa",SRI,M,,,,1904,0,20,OCT26,2006,
 29986176,"Samaraweera, Hoshithmi Pehansa",SRI,F,,,,1603,0,40,OCT26,2016,w

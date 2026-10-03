@@ -120,7 +120,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13224530,"Choi, Chanuk",KOR,M,,,,1811,0,,OCT26,2009,
 13202251,"Choi, Cheolhee",KOR,M,,,,1711,0,20,OCT26,1996,i
 13200739,"Choi, Daehyun",KOR,M,,,,1745,0,20,OCT26,1998,i
-13228684,"Choi, Doeun",KOR,M,,,,1588,5,40,OCT26,2010,
+13228684,"Choi, Doeun",KOR,M,,,,1589,5,40,OCT26,2010,
 13208179,"Choi, Donguk",KOR,M,,,,1556,0,40,OCT26,2009,i
 13240137,"Choi, Hael",KOR,M,,,,1608,0,40,OCT26,2013,
 13202057,"Choi, Hangsuk",KOR,M,,,,1587,0,40,OCT26,1996,i
@@ -366,7 +366,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13203614,"Jeong, Taeyoon",KOR,M,,,,1644,0,20,OCT26,2003,i
 13221817,"Jeong, Wonjune",KOR,M,,,,1689,0,40,OCT26,2007,
 13226029,"Jeong, Woojin",KOR,M,,,,1569,0,40,OCT26,2013,i
-13240110,"Jeong, Yejun",KOR,M,,,,1543,5,40,OCT26,2014,
+13240110,"Jeong, Yejun",KOR,M,,,,1544,5,40,OCT26,2014,
 13208705,"Jeong, Yeonwoo",KOR,M,,,,1573,0,20,OCT26,2005,i
 13216376,"Jeong, Yoojin",KOR,M,,,,1506,0,40,OCT26,2010,i
 13200836,"Jeong, Youngkyun",KOR,M,,,,1624,0,20,OCT26,1998,i
@@ -988,7 +988,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13240714,"Lee, Suho B",KOR,M,,,,1495,3,40,OCT26,2011,
 13219685,"Lee, Suhyuk",KOR,M,,,,1574,2,40,OCT26,2015,
 34117285,"Lee, Suhyun",KOR,M,,,,1690,0,20,OCT26,1981,i
-13227386,"Lee, Sujin",KOR,F,,NI,,1649,0,40,OCT26,1971,wi
+13227386,"Lee, Sujin",KOR,F,,"NI,SI",,1649,0,40,OCT26,1971,wi
 13200887,"Lee, Sung Geun",KOR,M,,,,1720,0,40,OCT26,1958,i
 13219383,"Lee, Sungjin",KOR,M,,,,1627,2,40,OCT26,2003,
 13220586,"Lee, Sungjun",KOR,M,,,,1855,0,40,OCT26,2008,
@@ -1536,6 +1536,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 13205340,"Yun, Milan",KOR,F,,,,1678,0,40,OCT26,1974,wi
 13221329,"Yun, Wooseok",KOR,M,,,,1616,0,40,OCT26,2001,
 13223976,"Yun, Yangsun",KOR,M,,,,1688,0,20,OCT26,2007,
+13229214,"Yun, Yejoon",KOR,M,,,,1407,2,40,OCT26,2017,
 13215663,"Zee, Hyeonjeong",KOR,F,,,,1679,0,40,OCT26,2011,w
 13215655,"Zee, Hyochan",KOR,M,,,,1448,0,40,OCT26,2012,
 13202944,"Zvyagintseva, Alexandra",KOR,F,,,,1742,0,40,OCT26,1996,wi

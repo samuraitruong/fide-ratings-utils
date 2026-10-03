@@ -567,7 +567,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8691223,"Lan, Jueming",CHN,M,,,,1539,0,40,OCT26,2015,
 8670528,"Lan, Qinglin",CHN,M,,,,1716,0,40,OCT26,2014,
 8670927,"Lan, Xinyi",CHN,F,,,,1605,0,40,OCT26,2013,w
-8673055,"Lan, Zhaoxing",CHN,M,,,,1446,5,40,OCT26,2016,
+8673055,"Lan, Zhaoxing",CHN,M,,,,1479,0,40,OCT26,2016,
 8604193,"Lan, Zilun",CHN,M,,,,2308,0,20,OCT26,1995,i
 8627959,"Lang, Yifan",CHN,M,,,,1710,0,40,OCT26,2007,
 8697582,"Lei, Muqiancheng",CHN,M,,,,1773,0,40,OCT26,2016,
@@ -588,7 +588,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8669503,"Li, Changhong",CHN,M,,,,1618,0,40,OCT26,2015,
 8604436,"Li, Chao b",CHN,M,GM,,,2579,0,10,OCT26,1989,
 8662460,"Li, Chaoqin",CHN,M,,,,1763,0,40,OCT26,2014,
-574016326,"Li, Cheng",CHN,M,,,,1401,5,40,OCT26,2017,
+574016326,"Li, Cheng",CHN,M,,,,1425,0,40,OCT26,2017,
 8687838,"Li, Chengda",CHN,M,,,,1421,0,40,OCT26,2004,
 8672431,"Li, Chengfei",CHN,M,,,,1450,0,40,OCT26,2016,i
 8636141,"Li, Chengqian",CHN,M,,,,1713,0,40,OCT26,2012,
@@ -627,7 +627,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8637784,"Li, Minghui",CHN,F,,,,1433,0,40,OCT26,2013,wi
 8676763,"Li, Mingkai",CHN,M,,,,1455,0,40,OCT26,2016,i
 8668094,"Li, mingze(JS)",CHN,M,,,,1687,9,40,OCT26,2011,
-8684251,"Li, Mingze(YN)",CHN,M,,,,1522,6,40,OCT26,2014,
 8697027,"Li, Muchen(HN)",CHN,M,,,,1630,0,40,OCT26,2015,
 8690065,"Li, Muyao",CHN,F,,,,1566,0,40,OCT26,2018,w
 8635960,"Li, Peishan",CHN,F,,,,1965,0,40,OCT26,2012,w
@@ -674,7 +673,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8627282,"Li, Yixi",CHN,F,,,,1629,0,40,OCT26,2006,wi
 8640807,"Li, Youjia",CHN,M,,,,1941,0,40,OCT26,2012,i
 8681325,"Li, Youran",CHN,F,,,,1517,0,40,OCT26,2015,w
-574016334,"Li, Yuanshuo",CHN,M,,,,1488,5,40,OCT26,2013,
+574016334,"Li, Yuanshuo",CHN,M,,,,1518,0,40,OCT26,2013,
 8686491,"Li, Yucheng(LN)",CHN,M,,,,1774,0,40,OCT26,2014,
 8640122,"Li, Yue",CHN,M,,,,1458,0,20,OCT26,1973,
 8666750,"Li, Yuehao",CHN,M,,,,1587,0,40,OCT26,2012,
@@ -709,7 +708,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8640955,"Liang, Hanzhe",CHN,F,,,,1776,0,40,OCT26,2010,w
 8672938,"Liang, Haoyang",CHN,M,,,,1523,0,40,OCT26,2016,
 574009990,"Liang, Jiayuan",CHN,M,,,,1401,0,40,OCT26,2016,
-8622370,"Liang, Jingcheng",CHN,M,,,,1594,0,40,OCT26,2006,i
+8622370,"Liang, Jingcheng",CHN,M,,SI,,1594,0,40,OCT26,2006,i
 8600066,"Liang, Jinrong",CHN,M,GM,,,2476,0,10,OCT26,1960,i
 574010948,"Liang, Jinshuo",CHN,M,,,,1697,0,40,OCT26,2012,
 8669295,"Liang, Junyu",CHN,M,,,,1624,0,40,OCT26,2016,
@@ -1047,7 +1046,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8665044,"Ren, Ruoxi",CHN,F,,,,1646,0,40,OCT26,2016,wi
 8622426,"Ren, Xiang",CHN,M,,,,1767,0,40,OCT26,2007,i
 8608709,"Ren, Xiaoyi",CHN,F,WIM,WIM,,2226,0,20,OCT26,1996,wi
-8674043,"Ren, Xingyu",CHN,M,,,,1439,5,40,OCT26,2015,
 8630143,"Ren, Yibai",CHN,M,,,,1902,0,,OCT26,2009,
 574008544,"Ren, Zhongrui",CHN,M,,,,1651,0,40,OCT26,2014,
 8642338,"Ren, Ziyi(SX)",CHN,M,,,,1488,0,40,OCT26,2014,i
@@ -1394,6 +1392,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8680531,"Wu, keji",CHN,M,,,,1579,0,40,OCT26,2016,
 8665737,"Wu, Kun",CHN,M,,,,1419,6,,OCT26,1984,
 8642559,"Wu, Kunyu",CHN,M,,,,1616,0,40,OCT26,2013,i
+8688508,"Wu, Minghe",CHN,M,,,,1472,6,40,OCT26,2012,
 8662150,"Wu, Mingru",CHN,M,,,,1640,0,40,OCT26,2012,
 8694079,"Wu, Mingxuan(SH)",CHN,M,,,,1602,0,40,OCT26,2018,
 8677824,"Wu, Mingyuan",CHN,M,,,,1560,0,40,OCT26,2012,
@@ -1709,7 +1708,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8614407,"Zeng, Lingqi",CHN,M,,,,1842,0,40,OCT26,2001,i
 8645914,"Zeng, Yimin",CHN,M,,,,1676,0,40,OCT26,2011,i
 8673187,"Zeng, Yishen",CHN,M,,,,1487,0,40,OCT26,2012,i
-8666180,"Zeng, Yiyang",CHN,M,,,,1553,6,40,OCT26,2007,
 8646554,"Zeng, Zhanyi",CHN,M,,,,1534,0,40,OCT26,2007,i
 8666202,"Zha, Haoyun",CHN,M,,,,1515,0,40,OCT26,2012,i
 574001094,"Zha, Yunxi",CHN,F,,,,1580,0,40,OCT26,2019,w
@@ -1722,7 +1720,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 8692556,"Zhang, Chenming(SD)",CHN,M,,,,1681,0,40,OCT26,2014,
 8643768,"Zhang, Chenyin",CHN,M,,,,1586,0,40,OCT26,2015,
 8665583,"Zhang, Congqi",CHN,M,,,,1622,0,40,OCT26,2015,
-8657998,"Zhang, Deyun",CHN,M,,,,1513,4,40,OCT26,2014,
+8657998,"Zhang, Deyun",CHN,M,,,,1537,0,40,OCT26,2014,
 8616590,"Zhang, Di",CHN,M,,,,2192,0,20,OCT26,2007,
 8654743,"Zhang, Enming(SH)",CHN,M,,,,1753,0,40,OCT26,2013,
 8683808,"Zhang, Ge",CHN,M,,,,1590,0,40,OCT26,2015,

@@ -47,8 +47,8 @@ ID Number      Name                                                         Fed 
 10660798       Abdallah, Hazem                                              EGY M                                1672  0   20 1980  i   
 10619011       Abdallah, Ibrahim                                            EGY M                                1837  0   20 1995  i   
 54204348       Abdallah, Mahmoud                                            EGY M                                1739  0   20 1974  i   
-10677330       Abdallah, Mohamed Ahmed                                      EGY M                                1743  0   20 1964  i   
 10686576       Abdallah, Mohamed Ahmed                                      EGY M                                1831  0   20 1986  i   
+10677330       Abdallah, Mohamed Ahmed                                      EGY M                                1743  0   20 1964  i   
 10617710       Abdallah, Wesam                                              EGY M                                1879  0   20 1978  i   
 10602968       Abdallah, Yaser                                              EGY M                                1954  0   20 1973  i   
 10603492       Abdein, Saiied                                               EGY M                                1914  0   20 1962      
@@ -537,7 +537,7 @@ ID Number      Name                                                         Fed 
 10659250       Alaa, Khaled                                                 EGY M                                1642  0   20 1995  i   
 10698256       Alaaeldin, Mohamed                                           EGY M                                1717  0   20 1999  i   
 10654003       Alaidy, Ahmed                                                EGY M                                1696  0   20 1974  i   
-10655662       Alattar, Elsayed                                             EGY M             SI,IA              1743  0   20 1976  i   
+10655662       Alattar, Elsayed                                             EGY M             SI,LSI,IA          1743  0   20 1976  i   
 10671358       Albassiony, Mahmoud                                          EGY M                                1661  0   20 1989  i   
 10626824       Aldeeb, Ahmed                                                EGY M                                1930  0   20 1964  i   
 10654216       Aleissawi, Mohammad                                          EGY M                                1570  0   20 1974  i   
@@ -562,7 +562,7 @@ ID Number      Name                                                         Fed 
 54232198       Ali Qatry, Youssef                                           EGY M                                1652  0   20 2002      
 54229626       Ali Saad, Omar                                               EGY M                                1515  0   40 2011  i   
 555019560      Ali Salem, Mohamed Mohamed Ahmed                             EGY M                                1518  0   20 1988      
-10658360       Ali Sayed, Ali                                               EGY M                            AIM 1818  0   20 2003      
+10658360       Ali Sayed, Ali                                               EGY M             SI             AIM 1818  0   20 2003      
 54216656       Ali Yousry, Ahmed                                            EGY M                                1564  0   40 2015  i   
 54252431       Ali Zahra, Ahmed                                             EGY M                                1581  0   20 2002  i   
 54206766       Ali, Abdullah A                                              EGY M                                1768  0   20 1999  i   
@@ -1000,7 +1000,7 @@ ID Number      Name                                                         Fed 
 10605347       Elgohary, Fayrouz                                            EGY F   WCM  WCM                     1776  0   20 1986  wi  
 10605355       Elgohary, Myada                                              EGY F                                1837  0   20 1985  wi  
 10630368       Elhadad, Ahmed K                                             EGY M                                1836  0   20 2003  i   
-10600841       Elhadad, Khaled                                              EGY M             FI                 2287  0   20 1967  i   
+10600841       Elhadad, Khaled                                              EGY M             FI,SI              2287  0   20 1967  i   
 10633081       Elhadad, Mohamed                                             EGY M                                1849  0   20 1991  i   
 10602992       Elhadary, Ahmed                                              EGY M                                1785  0   20 0         
 10643346       Elhalwagy, Abdelghafar                                       EGY M                                1923  0   20 1973  i   
@@ -1441,8 +1441,8 @@ ID Number      Name                                                         Fed 
 10608214       Gouda, Mohamed                                               EGY M                                1996  0   20 1984  i   
 10663002       Gouda, Mohamed                                               EGY M                                1603  0   20 2000  i   
 10635696       Gouda, Mohammed                                              EGY M                                1966  0   20 1976  i   
-10655697       Gouda, Moustafa                                              EGY M                                1930  0   20 1977  i   
 10663010       Gouda, Moustafa                                              EGY M                                1663  0   20 2002  i   
+10655697       Gouda, Moustafa                                              EGY M                                1930  0   20 1977  i   
 10676236       Gouda, Omar                                                  EGY M                            AFM 1558  0   20 1990      
 10652795       Gourge, Morqus                                               EGY M                                1878  0   20 1984  i   
 10651667       Gweely, Ahmed                                                EGY M                                1846  0   20 1985  i   
@@ -2085,8 +2085,8 @@ ID Number      Name                                                         Fed 
 10629432       Mahmoud, Shrief                                              EGY M                                1668  0   20 1984  i   
 10632530       Mahmoud, Tamer                                               EGY M                                1984  0   20 1981  i   
 10628240       Mahmoud, Tarek                                               EGY M                                1744  0   20 1992      
-10653236       Mahran, Abdallah                                             EGY M                                1841  0   20 1991  i   
 10637770       Mahran, Abdallah                                             EGY M                                1749  0   20 1971  i   
+10653236       Mahran, Abdallah                                             EGY M                                1841  0   20 1991  i   
 10676279       Mahran, Ahmed                                                EGY M                                1808  0   20 1979  i   
 10608770       Mahrous, Atef                                                EGY M                            AIM 1888  0   20 1984      
 10647031       Mahrous, Ibrahem                                             EGY M                                1723  0   20 1977      

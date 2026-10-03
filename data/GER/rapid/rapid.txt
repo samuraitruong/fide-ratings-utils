@@ -2770,8 +2770,8 @@ ID Number      Name                                                         Fed 
 4630165        Gerber, Peter                                                GER M                                2127  0   20 1964  i   
 12913391       Gerdau, Niklas                                               GER M                                1878  0   20 1997  i   
 4667808        Gerdell, Frank                                               GER M                                1993  0   20 1966      
-533098824      Gerdes, Joachim                                              GER M                                1646  5   40 1966      
 533053030      Gerdes, Joachim                                              GER M                                1562  0   40 1982  i   
+533098824      Gerdes, Joachim                                              GER M                                1646  5   40 1966      
 16250109       Gerhard, Dominik                                             GER M                                1777  0   20 1994  i   
 12963224       Gerhard, Philipp                                             GER M                                1551  0   40 1990      
 533044260      Gerhardt, Liam                                               GER M                                1514  0   40 2017      
@@ -3706,6 +3706,7 @@ ID Number      Name                                                         Fed 
 34606106       Herzig, Philip                                               GER M                                1756  0   20 2002  i   
 16221710       Herzog, Andrea                                               GER F                                1714  0   20 1970  wi  
 533035415      Herzog, Elke                                                 GER F                                1617  0   40 1969  wi  
+42754585       Hesamedin, Shadnia                                           GER M                                1730  0   40 2012      
 533036373      Hesidenz, Gerd                                               GER M                                1785  0   40 1959      
 24668648       Hespers, Rolf                                                GER M                                1815  0   20 1936  i   
 4605969        Hess, Christian                                              GER M   FM                           2164  0   20 1951  i   
@@ -5680,7 +5681,7 @@ ID Number      Name                                                         Fed 
 4650905        Levin, Felix                                                 GER M   GM                           2322  0   10 1958      
 21084122       Levytskyi, Oleksandr                                         GER M                                1508  0   40 2012  i   
 533011729      Lewerenz, Lars                                               GER M                                1776  0   40 2003      
-1271953        Lex, Gereon                                                  GER M                                1873  0   20 1990  i   
+1271953        Lex, Gereon                                                  GER M                            ACM 1873  0   20 1990  i   
 16246721       Leyendecker, Niklas                                          GER M                                2046  0   20 2004  i   
 12953067       Leykauf, Thomas                                              GER M                                1701  0   20 1969      
 533044163      Li, Alice Shiqian                                            GER F                                1585  7   40 2015  w   
@@ -8084,8 +8085,8 @@ ID Number      Name                                                         Fed 
 533085870      Roth, Michael, Dr.                                           GER M                                1648  0   40 1961      
 533043035      Roth, Ralf                                                   GER M                                1804  0   40 1964      
 16292650       Roth, Sven                                                   GER M                                1729  0   20 1985  i   
-12965588       Roth, Thomas                                                 GER M                                1781  0   40 1987  i   
 533032149      Roth, Thomas                                                 GER M                                1686  0   40 2002      
+12965588       Roth, Thomas                                                 GER M                                1781  0   40 1987  i   
 12940895       Roth, Thorsten                                               GER M                                1955  0   20 1967      
 1271472        Roth, Thorsten                                               GER M                                1860  0   40 1973  i   
 34678204       Roth, Vlad                                                   GER M                                1520  0   40 2012  i   
@@ -8560,8 +8561,8 @@ ID Number      Name                                                         Fed 
 533091307      Schmidinger, Luca                                            GER M                                1663  0   40 2013      
 34607498       Schmidmeier, Arno                                            GER M                                1880  0   20 1970  i   
 34635670       Schmidt, Aaron Joel                                          GER M                                1797  0   20 1996      
-533017689      Schmidt, Alexander                                           GER M                                1663  0   40 2012      
 1270063        Schmidt, Alexander                                           GER M                                1822  0   40 1969      
+533017689      Schmidt, Alexander                                           GER M                                1663  0   40 2012      
 34661360       Schmidt, Alexander Nadvid                                    GER M                                1696  0   40 2015      
 24646113       Schmidt, Anton                                               GER M                                2123  0   20 1961  i   
 1270214        Schmidt, Benjamin                                            GER M                                1931  0   20 1986  i   
@@ -8734,7 +8735,6 @@ ID Number      Name                                                         Fed 
 16212843       Schoenfeld, Falk                                             GER M                                1683  0   20 1977  i   
 34681086       Schoenfelder, Thomas                                         GER M                                1549  0   20 1981      
 4637267        Schoengart, Ralf                                             GER M                                2063  0   20 1959  i   
-34678964       Schoening, Leopold                                           GER M                                1672  7   40 2015      
 533006270      Schoenit, Tom                                                GER M                                1723  0   40 1996  i   
 34607927       Schoenwetter, Martin                                         GER M                                1811  0   20 1998  i   
 12922790       Schoeppe, Christian                                          GER M                                1761  0   20 1971  i   
@@ -9888,7 +9888,6 @@ ID Number      Name                                                         Fed 
 34690697       Tittmann, Julian                                             GER M                                1759  6   40 2010      
 16293673       Titz, Markus                                                 GER M             NI,NA              1871  0   20 1981      
 24642134       Titz, Waldemar                                               GER M                                1765  0   20 1956  i   
-4007549        Tiuca, Emma                                                  GER F                                1476  5   40 2014  w   
 14163845       Tiutiunnikov, Igor                                           GER M                                1881  0   20 1960  i   
 16233930       Tkach, Noah-Gabriel                                          GER M                                1507  0   20 2004  i   
 24612570       Tkachuk, Sergij, Dr.                                         GER M                                2172  0   20 1969  i   

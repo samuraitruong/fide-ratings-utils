@@ -120,7 +120,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6605400,"Carrasco Chong, Ian Pierre",PAN,M,,,,1521,0,40,OCT26,2009,i
 6600620,"Carrasco, Brandon",PAN,M,CM,,,1833,0,20,OCT26,2000,i
 6605656,"Carrera Nicholson, Carlos Enrique",PAN,M,,,,1585,0,40,OCT26,2008,i
-6600611,"Carrera Ortega, Alhan Enock",PAN,M,,,,1840,0,20,OCT26,1967,
+6600611,"Carrera Ortega, Alhan Enock",PAN,M,,SI,,1840,0,20,OCT26,1967,
 6606369,"Carrera Saldana, Rommel Abdiel",PAN,M,,FA,,1563,0,20,OCT26,2003,i
 3911853,"Carrillo Marval, Maria Angelica",PAN,F,WCM,WCM,"SI,NI,FA",1911,0,20,OCT26,1991,w
 6600476,"Carrillo, Jose Antonio",PAN,M,,,,1748,0,20,OCT26,1975,
@@ -135,7 +135,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6613306,"Castillo Cruz, Jorge Isaac",PAN,M,,,,1499,0,20,OCT26,1996,
 6617247,"Castillo Degracia, Lucas Gianfranco",PAN,M,,,,1542,0,40,OCT26,2008,i
 3800997,"Castillo Espejo, Cinthya",PAN,F,WCM,WCM,,1903,0,20,OCT26,1983,wi
-6601596,"Castillo Gonzalez, Eulogio",PAN,M,,,,1586,0,20,OCT26,1967,i
+6601596,"Castillo Gonzalez, Eulogio",PAN,M,,SI,,1586,0,20,OCT26,1967,i
 6627250,"Castillo Gutierres, Katherine",PAN,F,,,,1552,0,40,OCT26,2008,wi
 6605664,"Castillo Jimenez, Giancarlo",PAN,M,,,,1637,0,20,OCT26,2007,
 6620655,"Castillo Mauricio, Angelo",PAN,M,,,,1437,0,20,OCT26,1997,i
@@ -249,7 +249,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6604854,"Escobar De Gracia, Alex Jafet",PAN,M,,,,1488,0,20,OCT26,2005,i
 6600174,"Esquivel Golcher, Luis Enrique",PAN,M,FM,,,2087,0,20,OCT26,1983,
 6609686,"Fabrega Van Der Laat, Jose Bernardo",PAN,M,CM,,,2020,0,40,OCT26,2011,
-6610862,"Fascio Outerbridge, Arno Augusto",PAN,M,CM,,,1922,0,20,OCT26,2006,
+6610862,"Fascio Outerbridge, Arno Augusto",PAN,M,CM,SI,,1922,0,20,OCT26,2006,
 6626939,"Fasta Menacho, Javier Jose",PAN,M,,,,1540,0,20,OCT26,2007,i
 6621937,"Fernandez Altamirano, Alfonso Enrique",PAN,M,,,,1498,0,40,OCT26,2008,i
 6629717,"Fernandez Araya, Maximiliano Andres",PAN,M,,,,1505,0,40,OCT26,2013,
@@ -311,7 +311,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6600344,"Gonzalez Ramirez, Yaribeth",PAN,F,WCM,WCM,FA,1856,0,20,OCT26,1986,w
 6608612,"Gonzalez Rodriguez, Ernesto",PAN,M,,,,1488,0,20,OCT26,1999,i
 6608620,"Gonzalez Rodriguez, Genesis",PAN,F,,,,1415,0,40,OCT26,2008,wi
-3910288,"Gonzalez Soto, Pedro Jose",PAN,M,,FA,,1989,0,20,OCT26,1988,
+3910288,"Gonzalez Soto, Pedro Jose",PAN,M,,"SI,FA",,1989,0,20,OCT26,1988,
 6609074,"Gonzalez Vergara, Isai",PAN,M,,,,1454,0,40,OCT26,2012,i
 6613144,"Gonzalez Weliz, Elias Jose",PAN,M,,,,1614,0,20,OCT26,2000,i
 6611087,"Gonzalez Weliz, Ivan",PAN,M,,,,1796,0,20,OCT26,2003,i
@@ -409,8 +409,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6619029,"Kushinakajo, Elio",PAN,M,,,,1415,0,20,OCT26,1973,i
 6613993,"Kushinakajo, Theo",PAN,M,,,,1799,0,20,OCT26,2007,
 6614973,"Labrador Mora, Isabella Valentina",PAN,F,,,,1436,0,20,OCT26,2007,w
-6604129,"Lam Cheon, Miguel Angel",PAN,M,,,,2020,0,20,OCT26,1988,i
 6600328,"Lam Cheon, Miguel Angel",PAN,M,,,,1916,0,20,OCT26,1980,i
+6604129,"Lam Cheon, Miguel Angel",PAN,M,,,,2020,0,20,OCT26,1988,i
 6612784,"Landires Nunez, Fatima",PAN,F,,,,1660,0,40,OCT26,2011,w
 6635750,"Lara Batista, Brandon Jahir",PAN,M,,,,1642,0,20,OCT26,2006,
 6612962,"Lasso Camargo, Jose Clemente",PAN,M,,,,1615,0,40,OCT26,2008,i
@@ -655,7 +655,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6609899,"Qiu, Oscar",PAN,M,,,,1671,0,20,OCT26,2007,i
 6606253,"Quezada Quezada, Leonardo Fabio",PAN,M,,,,1517,0,20,OCT26,1986,
 6641385,"Quijano Duran, Guillermo Elias",PAN,M,,,,1448,0,20,OCT26,1963,
-6601464,"Quintero Garzola, Gabriel Conrado",PAN,M,CM,,,1838,0,20,OCT26,1972,
+6601464,"Quintero Garzola, Gabriel Conrado",PAN,M,CM,SI,,1838,0,20,OCT26,1972,
 6614540,"Quintero, Jose Ignacio",PAN,M,,,,1622,0,20,OCT26,2007,i
 6616143,"Quiros Samaniego, Rolando Antonio",PAN,M,,,,1487,0,20,OCT26,1982,i
 6606067,"Quiroz Bosso, Enrique",PAN,M,,,,1694,0,20,OCT26,1981,
@@ -689,7 +689,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6601014,"Rivadeneira, Alberto",PAN,M,,,,1764,0,20,OCT26,0,i
 6601316,"Rivera De Leon, Juan Alberto",PAN,M,,,,1980,0,20,OCT26,1956,i
 6626904,"Rivera Ricafort, Erico",PAN,M,,,,1476,0,20,OCT26,1972,i
-6604811,"Rivera Zambrano, Raul",PAN,M,,,,1708,0,20,OCT26,2002,i
+6604811,"Rivera Zambrano, Raul",PAN,M,,SI,,1708,0,20,OCT26,2002,i
 6617492,"Roa Galicia, Eduardo Valentin",PAN,M,,,,1547,0,20,OCT26,1988,i
 6617093,"Roa Lugo, Enmanuel de Jesus",PAN,M,,,,1727,0,40,OCT26,2014,
 6634672,"Roberts Asprilla, Jesua Lionel",PAN,M,,,,1675,0,40,OCT26,2008,i
@@ -768,7 +768,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 6612296,"Serrano, Juan David",PAN,M,,,,1493,0,20,OCT26,2005,
 6622712,"Shahani, Ronit",PAN,M,,,,1458,0,40,OCT26,2009,
 6602401,"Shaul Zebede, Eden Jaim",PAN,M,,,,1727,0,20,OCT26,2005,i
-6614051,"Shayegan Fernandez, Yeisie Behroo",PAN,F,,,,1439,0,20,OCT26,1990,w
+6614051,"Shayegan Fernandez, Yeisie Behroo",PAN,F,,SI,,1439,0,20,OCT26,1990,w
 6615171,"Sheffer Ledesma, Aldair Thomas",PAN,M,,,,1489,0,40,OCT26,2009,
 6606784,"Silla, Jean-Baptiste Madior",PAN,M,,,,1664,0,20,OCT26,1969,i
 6637019,"Silva Martinez, Jorge Hiroyoshi",PAN,M,,,,1461,0,40,OCT26,2012,

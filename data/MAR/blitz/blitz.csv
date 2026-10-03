@@ -377,7 +377,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9034773,ELAMRY HAMZA,MAR,M,,,,1701,0,20,OCT26,2002,i
 9019588,"Elbakkar,Souhail",MAR,M,,,,1893,0,20,OCT26,2005,i
 9000127,"Elbilia, Jacques",MAR,M,FM,,,2353,0,20,OCT26,1971,i
-9005471,Elbount Yasser,MAR,M,,,,1650,0,20,OCT26,2006,i
+9005471,Elbount Yasser,MAR,M,,SI,,1650,0,20,OCT26,2006,i
 9059768,"Elfadil, Achraf",MAR,M,,,,1702,0,40,OCT26,2016,i
 9031880,"Elfahim, Soufiane",MAR,M,,,,1781,0,20,OCT26,1984,
 9041583,"Elfassi, Farah",MAR,F,,,,1587,0,40,OCT26,2008,wi
@@ -738,7 +738,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 9062572,"OUHSAIN,Joud",MAR,M,,,,1515,0,40,OCT26,2012,
 9041494,"Oujaa, Ammar",MAR,M,,,,1548,0,40,OCT26,2016,
 9014284,"Oujaa, Mohamed Lahbib",MAR,M,,FA,,1801,0,20,OCT26,1988,i
-9047824,"Oukhira, Hamid",MAR,M,,NA,,1726,0,20,OCT26,1985,i
+9047824,"Oukhira, Hamid",MAR,M,,"SI,NA",,1726,0,20,OCT26,1985,i
 9008055,"Oulad side abdeslam,redouan",MAR,M,,,,1876,0,20,OCT26,1963,i
 9006982,"Ouled, Ben Brahim Mostapha",MAR,M,,,,1847,0,20,OCT26,1963,
 9008403,OULKHIR RACHID,MAR,M,,,,1878,0,20,OCT26,1993,i

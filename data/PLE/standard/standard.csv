@@ -5,7 +5,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11500719,"Abdel Wahab, Ahmad",PLE,M,,,,2067,9,20,OCT26,1984,
 11501430,"Abdelbaset, Taqieddin",PLE,M,,,,1685,0,40,OCT26,1968,i
 11525673,"Abdelrazeq, Jad",PLE,M,,,,1762,0,,OCT26,2013,
-11525681,"Abdelrazeq, Samer",PLE,M,,,,1759,0,40,OCT26,1985,i
+11525681,"Abdelrazeq, Samer",PLE,M,,,,1759,0,,OCT26,1985,i
 11520116,"Abdoh, Reda",PLE,M,,,,1733,0,20,OCT26,2007,
 11500204,"Abdul Kadir, M.",PLE,M,,,,1987,0,40,OCT26,1947,i
 11505699,Abed .Alrahman sayel,PLE,M,,,,1404,0,40,OCT26,2010,i
@@ -15,7 +15,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11523220,"Abo Asad, Jaber",PLE,M,,,,1691,0,40,OCT26,1990,i
 11504374,"Aboalia, Moatamen",PLE,M,,,,1584,0,40,OCT26,1986,i
 11513152,"Aboalia, Suheil",PLE,M,,,,1720,0,40,OCT26,1988,i
-11512369,"Aboreida, Heba",PLE,F,,,,1623,0,40,OCT26,2006,w
+11512369,"Aboreida, Heba",PLE,F,,SI,,1623,0,40,OCT26,2006,w
 11512687,"Abouzour, Masoud",PLE,M,,,,1692,0,40,OCT26,2005,i
 11517948,"Abu Aathra, Nour",PLE,M,,,,1853,0,40,OCT26,1996,i
 11505753,Abu Alrub.Iyad,PLE,M,,,,1710,0,40,OCT26,1998,i
@@ -54,7 +54,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 11511281,Ahmed Aldaya,PLE,M,,,,1837,0,40,OCT26,1989,i
 11504048,"Ahmed, Nidal",PLE,M,,FI,,1792,0,,OCT26,1986,
 11501022,"Ahmed, Zuhair",PLE,M,,,,1777,0,40,OCT26,0,i
-11522089,"Ajjour, Dania",PLE,F,,,,1645,0,40,OCT26,2006,w
+11522089,"Ajjour, Dania",PLE,F,,SI,,1645,0,40,OCT26,2006,w
 11508302,Akram Abo Ayyash,PLE,M,,,,1707,0,40,OCT26,1998,i
 11502037,"Al Atrash, Jourje",PLE,M,,,,1838,0,40,OCT26,0,i
 11500646,"Al Hanini, Elias",PLE,M,,,,1833,0,20,OCT26,1992,i

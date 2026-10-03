@@ -20,7 +20,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21300496,Katleho Nyofane,LES,M,,,,1732,0,20,OCT26,1998,i
 21303088,Katleho Phakisi,LES,M,,,,1582,0,40,OCT26,2008,
 21301310,"Kemohele, Koetle",LES,M,,,,1712,0,,OCT26,1999,
-14317176,"Khalema, Sechaba",LES,M,,,,1871,0,20,OCT26,1995,
+14317176,"Khalema, Sechaba",LES,M,,SI,,1871,0,20,OCT26,1995,
 21302243,"Khama, Letsatsi",LES,M,,,,1629,0,20,OCT26,2001,
 21305641,"Khoabane, Makhoabane",LES,F,,,,1532,0,40,OCT26,2010,w
 21300020,"Klaas, Tokelo",LES,M,CM,,,1875,0,20,OCT26,1996,i
@@ -76,7 +76,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 21301948,"Motlomelo, Lihloela",LES,M,CM,,,1647,0,20,OCT26,2003,
 21300470,"Motlomelo, Monaheng",LES,M,,"AO,FA",,1653,0,20,OCT26,1995,
 21300151,Motsoko Makhetha,LES,M,,,,1702,0,20,OCT26,1996,i
-21300291,Mphetole Mona,LES,M,,SI,,1575,0,20,OCT26,1995,
+21300291,Mphetole Mona,LES,M,,"SI,LSI",,1575,0,20,OCT26,1995,
 21300879,Mphoto Molapo,LES,M,,,,1652,0,20,OCT26,1996,i
 21306257,"Neo, Mpotjo",LES,M,,,,1463,0,40,OCT26,2009,
 21300500,Ngakana Nzema,LES,M,,,,1710,0,20,OCT26,1999,i

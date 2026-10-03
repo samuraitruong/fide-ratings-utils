@@ -74,7 +74,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 31005950,"Mortensen, John Michael",GUM,M,,,,1509,0,40,OCT26,2012,
 31004580,"Musdan, Elson Titang",GUM,M,,NA,,1593,0,,OCT26,1961,i
 31000657,"Nacario Jr, Romualdo",GUM,M,,NA,,1630,0,40,OCT26,1990,
-31000541,"Nacario, Ruth Anne",GUM,F,WCM,WCM,NA,1593,0,20,OCT26,1990,w
+31000541,"Nacario, Ruth Anne",GUM,F,WCM,WCM,"SI,NA",1593,0,20,OCT26,1990,w
 31003060,"Napora, Gable",GUM,M,,,,1550,0,40,OCT26,2009,i
 31000517,"Ollet, Myra",GUM,F,WCM,WCM,"SI,NA",1680,9,20,OCT26,1979,w
 31000118,"Orio, Rogelio L.",GUM,M,CM,,,1851,0,20,OCT26,1956,i
@@ -98,7 +98,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 31000916,"Sarmiento, Cyle",GUM,M,,NA,,1534,0,40,OCT26,2005,i
 31000142,"Soriano, Rudolph P.",GUM,M,,NA,,1890,0,20,OCT26,1948,i
 31000428,"Szekely, Zoltan",GUM,M,,"FI,NA",,1664,0,,OCT26,1958,
-2096781,"Tenezaca, Cristian",GUM,M,,NA,,1905,7,20,OCT26,1997,
+2096781,"Tenezaca, Cristian",GUM,M,,"SI,NA",,1905,7,20,OCT26,1997,
 31007775,"Ternura, Randy",GUM,M,,,,1685,0,40,OCT26,1976,
 31000436,"Tirador, Elias",GUM,M,,,,1834,0,20,OCT26,1952,
 31001769,"Tiurin, Yaroslav",GUM,M,,,,1466,0,40,OCT26,2013,

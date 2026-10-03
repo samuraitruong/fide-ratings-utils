@@ -614,7 +614,7 @@ ID Number      Name                                                         Fed 
 10681086       Alaa, Mohamed                                                EGY M                                1488  0   40 2004  i   
 10642960       Alaaelden, Hosam                                             EGY M                                1857  0   40 1994  i   
 10654003       Alaidy, Ahmed                                                EGY M                                1756  0   40 1974  i   
-10655662       Alattar, Elsayed                                             EGY M             SI,IA              1591  0   40 1976  i   
+10655662       Alattar, Elsayed                                             EGY M             SI,LSI,IA          1591  0   40 1976  i   
 10671358       Albassiony, Mahmoud                                          EGY M                                1635  0   40 1989  i   
 54227615       Alber Mansour, Matios                                        EGY M                                1750  0   40 1999  i   
 10626824       Aldeeb, Ahmed                                                EGY M                                1942  0   40 1964  i   
@@ -639,7 +639,7 @@ ID Number      Name                                                         Fed 
 54286859       Ali Mustafa Abdel Gawad, Samir                               EGY M                                1509  10  20 1961      
 54232198       Ali Qatry, Youssef                                           EGY M                                1747  0   40 2002  i   
 555019560      Ali Salem, Mohamed Mohamed Ahmed                             EGY M                                1612  0   40 1988      
-10658360       Ali Sayed, Ali                                               EGY M                            AIM 1851  0   20 2003      
+10658360       Ali Sayed, Ali                                               EGY M             SI             AIM 1851  0   20 2003      
 54298601       Ali Sayed, Omar                                              EGY M                                1590  0   40 2008      
 10626832       Ali, Akram                                                   EGY M                                1951  0   20 1979  i   
 54244447       Ali, Badr Wael                                               EGY M                                1765  0   40 2011      
@@ -1220,7 +1220,7 @@ ID Number      Name                                                         Fed 
 10600795       Elgorany, Gaber                                              EGY M                                2259  0   40 1963  i   
 10642099       Elhadad, Abdel Rahman                                        EGY M                                1560  0   20 2006  i   
 10630368       Elhadad, Ahmed K                                             EGY M                                1817  0   20 2003  i   
-10600841       Elhadad, Khaled                                              EGY M             FI                 2238  0   20 1967  i   
+10600841       Elhadad, Khaled                                              EGY M             FI,SI              2238  0   20 1967  i   
 10609652       Elhadad, Reda                                                EGY M                                1816  0   40 1969  i   
 10653082       Elhadad, Wael                                                EGY M                                1606  0   20 1973  i   
 10602992       Elhadary, Ahmed                                              EGY M                                1985  0   40 0         
@@ -2490,14 +2490,14 @@ ID Number      Name                                                         Fed 
 10600450       Mahmoud, Ayman                                               EGY M                                2171  0   40 1962  i   
 10639985       Mahmoud, Ayman Mohamed                                       EGY M                                1716  0   40 1978  i   
 10632522       Mahmoud, Bahaa                                               EGY M                                1891  0   40 1984  i   
-10614087       Mahmoud, Basma                                               EGY F                                1627  0   40 1990  wi  
+10614087       Mahmoud, Basma                                               EGY F             SI                 1627  0   40 1990  wi  
 10611622       Mahmoud, Hadeer                                              EGY F                                1717  0   40 1990  wi  
 10612793       Mahmoud, Hassan                                              EGY M                                1775  0   20 1969  i   
 10638563       Mahmoud, Ibrahim                                             EGY M                                1926  0   20 1983  i   
 54206430       Mahmoud, Karem Mohamed                                       EGY M                                1648  0   40 1988      
 10639993       Mahmoud, Maged                                               EGY M                                1920  0   40 1976  i   
 10604120       Mahmoud, Maha                                                EGY F             SI,LSI,IA          1764  0   20 1983  wi  
-10605517       Mahmoud, Mahetab                                             EGY F             FA                 1728  0   20 1987  wi  
+10605517       Mahmoud, Mahetab                                             EGY F             SI,FA              1728  0   20 1987  wi  
 10615504       Mahmoud, Mamdouh                                             EGY M                                1753  5   20 1968      
 10607382       Mahmoud, Merihan                                             EGY F                                1836  0   20 1990  wi  
 10635580       Mahmoud, Mosaad                                              EGY M                                1858  0   40 1966  i   
@@ -3304,7 +3304,7 @@ ID Number      Name                                                         Fed 
 10653830       Ramadan Anwar, Nour                                          EGY M                                1680  0   20 2007  i   
 10624490       Ramadan Farag, Ahmed                                         EGY M                                1975  0   20 0         
 10652000       Ramadan Ghanem, Mohamed                                      EGY M                                1852  0   40 1986  i   
-54272556       Ramadan Ibrahim, Ibrahim                                     EGY M                                1418  5   40 2001      
+54272556       Ramadan Ibrahim, Ibrahim                                     EGY M                                1446  6   20 2001      
 10614524       Ramadan, Ashraf                                              EGY M                                1712  0   40 1973  i   
 10650814       Ramadan, Essam                                               EGY M                                1729  0   40 1982  i   
 10607188       Ramadan, Hosny                                               EGY M                                1858  0   20 1944  i   
