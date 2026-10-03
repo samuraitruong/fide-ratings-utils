@@ -83580,21 +83580,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "22774840",
-    "Name": "Dos Santos, Pedro Henrique",
-    "Fed": "BRA",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1690",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2006",
-    "Flag": "i"
-  },
-  {
     "ID Number": "538074176",
     "Name": "Dos Santos, Pedro Henrique",
     "Fed": "BRA",
@@ -83608,6 +83593,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2007",
     "Flag": ""
+  },
+  {
+    "ID Number": "22774840",
+    "Name": "Dos Santos, Pedro Henrique",
+    "Fed": "BRA",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1690",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2006",
+    "Flag": "i"
   },
   {
     "ID Number": "538090066",
@@ -118899,7 +118899,7 @@
     "OTit": "",
     "Rating": "1751",
     "Gms": "0",
-    "K": "20",
+    "K": "",
     "RatingMonth": "OCT26",
     "B-day": "2003",
     "Flag": "i"

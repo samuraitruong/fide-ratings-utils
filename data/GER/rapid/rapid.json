@@ -41565,21 +41565,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "533053030",
-    "Name": "Gerdes, Joachim",
-    "Fed": "GER",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1562",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1982",
-    "Flag": "i"
-  },
-  {
     "ID Number": "533098824",
     "Name": "Gerdes, Joachim",
     "Fed": "GER",
@@ -41593,6 +41578,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1966",
     "Flag": ""
+  },
+  {
+    "ID Number": "533053030",
+    "Name": "Gerdes, Joachim",
+    "Fed": "GER",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1562",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1982",
+    "Flag": "i"
   },
   {
     "ID Number": "16250109",
@@ -121290,21 +121290,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "533032149",
-    "Name": "Roth, Thomas",
-    "Fed": "GER",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1686",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "2002",
-    "Flag": ""
-  },
-  {
     "ID Number": "12965588",
     "Name": "Roth, Thomas",
     "Fed": "GER",
@@ -121318,6 +121303,21 @@
     "RatingMonth": "OCT26",
     "B-day": "1987",
     "Flag": "i"
+  },
+  {
+    "ID Number": "533032149",
+    "Name": "Roth, Thomas",
+    "Fed": "GER",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1686",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "2002",
+    "Flag": ""
   },
   {
     "ID Number": "12940895",
@@ -128430,21 +128430,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "1270063",
-    "Name": "Schmidt, Alexander",
-    "Fed": "GER",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1822",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "OCT26",
-    "B-day": "1969",
-    "Flag": ""
-  },
-  {
     "ID Number": "533017689",
     "Name": "Schmidt, Alexander",
     "Fed": "GER",
@@ -128457,6 +128442,21 @@
     "K": "40",
     "RatingMonth": "OCT26",
     "B-day": "2012",
+    "Flag": ""
+  },
+  {
+    "ID Number": "1270063",
+    "Name": "Schmidt, Alexander",
+    "Fed": "GER",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1822",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "OCT26",
+    "B-day": "1969",
     "Flag": ""
   },
   {
@@ -130110,21 +130110,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "16289366",
-    "Name": "Schneider, Frank",
-    "Fed": "GER",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1941",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "OCT26",
-    "B-day": "1966",
-    "Flag": "i"
-  },
-  {
     "ID Number": "533098190",
     "Name": "Schneider, Frank",
     "Fed": "GER",
@@ -130138,6 +130123,21 @@
     "RatingMonth": "OCT26",
     "B-day": "2004",
     "Flag": ""
+  },
+  {
+    "ID Number": "16289366",
+    "Name": "Schneider, Frank",
+    "Fed": "GER",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1941",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "OCT26",
+    "B-day": "1966",
+    "Flag": "i"
   },
   {
     "ID Number": "4663306",
@@ -136024,7 +136024,7 @@
     "Name": "Semling, Julius",
     "Fed": "GER",
     "Sex": "M",
-    "Title": "",
+    "Title": "FM",
     "WTit": "",
     "OTit": "",
     "Rating": "2008",
@@ -154609,7 +154609,7 @@
     "Name": "Vranckx, Oscar",
     "Fed": "GER",
     "Sex": "M",
-    "Title": "",
+    "Title": "FM",
     "WTit": "",
     "OTit": "",
     "Rating": "1962",
