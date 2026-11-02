@@ -10395,18 +10395,18 @@
     "Flag": "w"
   },
   {
-    "ID Number": "12445053",
+    "ID Number": "12483796",
     "Name": "Le Hoang Long",
     "Fed": "VIE",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1484",
+    "Rating": "1694",
     "Gms": "0",
-    "K": "",
+    "K": "40",
     "RatingMonth": "NOV26",
-    "B-day": "2010",
+    "B-day": "2008",
     "Flag": ""
   },
   {
@@ -10425,18 +10425,18 @@
     "Flag": ""
   },
   {
-    "ID Number": "12483796",
+    "ID Number": "12445053",
     "Name": "Le Hoang Long",
     "Fed": "VIE",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1694",
+    "Rating": "1484",
     "Gms": "0",
-    "K": "40",
+    "K": "",
     "RatingMonth": "NOV26",
-    "B-day": "2008",
+    "B-day": "2010",
     "Flag": ""
   },
   {
@@ -10770,21 +10770,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12495050",
-    "Name": "Le Khoi Nguyen",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1507",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2015",
-    "Flag": ""
-  },
-  {
     "ID Number": "561001155",
     "Name": "Le Khoi Nguyen",
     "Fed": "VIE",
@@ -10797,6 +10782,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2011",
+    "Flag": ""
+  },
+  {
+    "ID Number": "12495050",
+    "Name": "Le Khoi Nguyen",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1507",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2015",
     "Flag": ""
   },
   {
@@ -10950,21 +10950,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "561008303",
-    "Name": "Le Minh Hung",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1740",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2011",
-    "Flag": ""
-  },
-  {
     "ID Number": "561003654",
     "Name": "Le Minh Hung",
     "Fed": "VIE",
@@ -10977,6 +10962,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2019",
+    "Flag": ""
+  },
+  {
+    "ID Number": "561008303",
+    "Name": "Le Minh Hung",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1740",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2011",
     "Flag": ""
   },
   {
@@ -11115,21 +11115,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12442500",
-    "Name": "Le Minh Quan",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1593",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2016",
-    "Flag": "i"
-  },
-  {
     "ID Number": "12438197",
     "Name": "Le Minh Quan",
     "Fed": "VIE",
@@ -11142,6 +11127,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2005",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "12442500",
+    "Name": "Le Minh Quan",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1593",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2016",
     "Flag": "i"
   },
   {
@@ -16290,21 +16290,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "12445134",
-    "Name": "Nguyen Binh Minh",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1635",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2009",
-    "Flag": "i"
-  },
-  {
     "ID Number": "12451797",
     "Name": "Nguyen Binh Minh",
     "Fed": "VIE",
@@ -16318,6 +16303,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2012",
     "Flag": ""
+  },
+  {
+    "ID Number": "12445134",
+    "Name": "Nguyen Binh Minh",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1635",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2009",
+    "Flag": "i"
   },
   {
     "ID Number": "12476102",
@@ -17925,21 +17925,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "561000450",
-    "Name": "Nguyen Hai Lam",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1581",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2007",
-    "Flag": ""
-  },
-  {
     "ID Number": "561020877",
     "Name": "Nguyen Hai Lam",
     "Fed": "VIE",
@@ -17952,6 +17937,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2012",
+    "Flag": ""
+  },
+  {
+    "ID Number": "561000450",
+    "Name": "Nguyen Hai Lam",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1581",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2007",
     "Flag": ""
   },
   {
@@ -18495,21 +18495,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "561002577",
-    "Name": "Nguyen Hoang Quan",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1492",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2011",
-    "Flag": ""
-  },
-  {
     "ID Number": "12435449",
     "Name": "Nguyen Hoang Quan",
     "Fed": "VIE",
@@ -18522,6 +18507,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2015",
+    "Flag": ""
+  },
+  {
+    "ID Number": "561002577",
+    "Name": "Nguyen Hoang Quan",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1492",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2011",
     "Flag": ""
   },
   {
@@ -20160,21 +20160,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12483257",
-    "Name": "Nguyen Minh Duc",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1587",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2005",
-    "Flag": "i"
-  },
-  {
     "ID Number": "12485950",
     "Name": "Nguyen Minh Duc",
     "Fed": "VIE",
@@ -20188,6 +20173,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2019",
     "Flag": ""
+  },
+  {
+    "ID Number": "12483257",
+    "Name": "Nguyen Minh Duc",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1587",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2005",
+    "Flag": "i"
   },
   {
     "ID Number": "12436844",
@@ -20310,21 +20310,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "12437557",
-    "Name": "Nguyen Minh Khoa",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1637",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2009",
-    "Flag": ""
-  },
-  {
     "ID Number": "12458082",
     "Name": "Nguyen Minh Khoa",
     "Fed": "VIE",
@@ -20337,6 +20322,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "1999",
+    "Flag": ""
+  },
+  {
+    "ID Number": "12437557",
+    "Name": "Nguyen Minh Khoa",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1637",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2009",
     "Flag": ""
   },
   {
@@ -20353,6 +20353,51 @@
     "RatingMonth": "NOV26",
     "B-day": "2007",
     "Flag": "i"
+  },
+  {
+    "ID Number": "561006610",
+    "Name": "Nguyen Minh Khoi",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1634",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2012",
+    "Flag": ""
+  },
+  {
+    "ID Number": "12489034",
+    "Name": "Nguyen Minh Khoi",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1418",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2019",
+    "Flag": ""
+  },
+  {
+    "ID Number": "12471259",
+    "Name": "Nguyen Minh Khoi",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1631",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2011",
+    "Flag": ""
   },
   {
     "ID Number": "12481262",
@@ -20382,51 +20427,6 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2009",
-    "Flag": ""
-  },
-  {
-    "ID Number": "12471259",
-    "Name": "Nguyen Minh Khoi",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1631",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2011",
-    "Flag": ""
-  },
-  {
-    "ID Number": "12489034",
-    "Name": "Nguyen Minh Khoi",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1418",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2019",
-    "Flag": ""
-  },
-  {
-    "ID Number": "561006610",
-    "Name": "Nguyen Minh Khoi",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1634",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2012",
     "Flag": ""
   },
   {
@@ -20550,21 +20550,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "12486396",
-    "Name": "Nguyen Minh Phuc",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1501",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2014",
-    "Flag": "i"
-  },
-  {
     "ID Number": "12454915",
     "Name": "Nguyen Minh Phuc",
     "Fed": "VIE",
@@ -20578,6 +20563,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2016",
     "Flag": ""
+  },
+  {
+    "ID Number": "12486396",
+    "Name": "Nguyen Minh Phuc",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1501",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2014",
+    "Flag": "i"
   },
   {
     "ID Number": "561022977",
@@ -21390,21 +21390,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12469955",
-    "Name": "Nguyen Nhat Minh",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1700",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2012",
-    "Flag": ""
-  },
-  {
     "ID Number": "12437549",
     "Name": "Nguyen Nhat Minh",
     "Fed": "VIE",
@@ -21418,6 +21403,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2009",
     "Flag": "i"
+  },
+  {
+    "ID Number": "12469955",
+    "Name": "Nguyen Nhat Minh",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1700",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2012",
+    "Flag": ""
   },
   {
     "ID Number": "12431729",
@@ -21435,21 +21435,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "561000809",
-    "Name": "Nguyen Nhat Nam",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1554",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2017",
-    "Flag": ""
-  },
-  {
     "ID Number": "12473340",
     "Name": "Nguyen Nhat Nam",
     "Fed": "VIE",
@@ -21462,6 +21447,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2015",
+    "Flag": ""
+  },
+  {
+    "ID Number": "561000809",
+    "Name": "Nguyen Nhat Nam",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1554",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2017",
     "Flag": ""
   },
   {
@@ -21900,21 +21900,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12458287",
-    "Name": "Nguyen Phuc Khang",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1484",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2015",
-    "Flag": ""
-  },
-  {
     "ID Number": "12455784",
     "Name": "Nguyen Phuc Khang",
     "Fed": "VIE",
@@ -21928,6 +21913,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2010",
     "Flag": "i"
+  },
+  {
+    "ID Number": "12458287",
+    "Name": "Nguyen Phuc Khang",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1484",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2015",
+    "Flag": ""
   },
   {
     "ID Number": "12433128",
@@ -25185,21 +25185,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "561023868",
-    "Name": "Nguyen Viet Tien",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1488",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2015",
-    "Flag": ""
-  },
-  {
     "ID Number": "12430560",
     "Name": "Nguyen Viet Tien",
     "Fed": "VIE",
@@ -25213,6 +25198,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2009",
     "Flag": "i"
+  },
+  {
+    "ID Number": "561023868",
+    "Name": "Nguyen Viet Tien",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1488",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2015",
+    "Flag": ""
   },
   {
     "ID Number": "12483184",
@@ -27165,21 +27165,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "12490890",
-    "Name": "Nguyen, Minh Khoi",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1459",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2018",
-    "Flag": ""
-  },
-  {
     "ID Number": "12489166",
     "Name": "Nguyen, Minh Khoi",
     "Fed": "VIE",
@@ -27192,6 +27177,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2017",
+    "Flag": ""
+  },
+  {
+    "ID Number": "12490890",
+    "Name": "Nguyen, Minh Khoi",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1459",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2018",
     "Flag": ""
   },
   {
@@ -34425,18 +34425,18 @@
     "Flag": "i"
   },
   {
-    "ID Number": "12492221",
+    "ID Number": "12405957",
     "Name": "Tran Duc Anh",
     "Fed": "VIE",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1472",
+    "Rating": "1709",
     "Gms": "0",
-    "K": "40",
+    "K": "",
     "RatingMonth": "NOV26",
-    "B-day": "2012",
+    "B-day": "2000",
     "Flag": "i"
   },
   {
@@ -34455,18 +34455,18 @@
     "Flag": ""
   },
   {
-    "ID Number": "12405957",
+    "ID Number": "12492221",
     "Name": "Tran Duc Anh",
     "Fed": "VIE",
     "Sex": "M",
     "Title": "",
     "WTit": "",
     "OTit": "",
-    "Rating": "1709",
+    "Rating": "1472",
     "Gms": "0",
-    "K": "",
+    "K": "40",
     "RatingMonth": "NOV26",
-    "B-day": "2000",
+    "B-day": "2012",
     "Flag": "i"
   },
   {
@@ -34575,21 +34575,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "12493295",
-    "Name": "Tran Gia Huy",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1414",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2018",
-    "Flag": ""
-  },
-  {
     "ID Number": "12437638",
     "Name": "Tran Gia Huy",
     "Fed": "VIE",
@@ -34603,6 +34588,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2014",
     "Flag": "i"
+  },
+  {
+    "ID Number": "12493295",
+    "Name": "Tran Gia Huy",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1414",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2018",
+    "Flag": ""
   },
   {
     "ID Number": "561006777",
@@ -40455,21 +40455,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "12430773",
-    "Name": "Vu Hoang Long",
-    "Fed": "VIE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1470",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2011",
-    "Flag": "i"
-  },
-  {
     "ID Number": "561023086",
     "Name": "Vu Hoang Long",
     "Fed": "VIE",
@@ -40483,6 +40468,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2011",
     "Flag": ""
+  },
+  {
+    "ID Number": "12430773",
+    "Name": "Vu Hoang Long",
+    "Fed": "VIE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1470",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2011",
+    "Flag": "i"
   },
   {
     "ID Number": "12482153",

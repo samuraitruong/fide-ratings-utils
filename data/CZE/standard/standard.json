@@ -3840,21 +3840,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "359840",
-    "Name": "Bartova, Sarka",
-    "Fed": "CZE",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1716",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "1992",
-    "Flag": "wi"
-  },
-  {
     "ID Number": "23732156",
     "Name": "Bartu, Jiri",
     "Fed": "CZE",
@@ -18489,7 +18474,7 @@
     "OTit": "",
     "Rating": "1474",
     "Gms": "0",
-    "K": "40",
+    "K": "",
     "RatingMonth": "NOV26",
     "B-day": "2016",
     "Flag": "w"
@@ -23458,6 +23443,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2008",
     "Flag": "w"
+  },
+  {
+    "ID Number": "359840",
+    "Name": "Dudkova, Sarka",
+    "Fed": "CZE",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1716",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "1992",
+    "Flag": "wi"
   },
   {
     "ID Number": "371246",

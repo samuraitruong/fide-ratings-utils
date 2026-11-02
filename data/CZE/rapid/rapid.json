@@ -2970,21 +2970,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "359840",
-    "Name": "Bartova, Sarka",
-    "Fed": "CZE",
-    "Sex": "F",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1741",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "NOV26",
-    "B-day": "1992",
-    "Flag": "w"
-  },
-  {
     "ID Number": "23732156",
     "Name": "Bartu, Jiri",
     "Fed": "CZE",
@@ -5580,21 +5565,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "23781211",
-    "Name": "Blaha, Filip",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1631",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2003",
-    "Flag": "i"
-  },
-  {
     "ID Number": "23731982",
     "Name": "Blaha, Filip",
     "Fed": "CZE",
@@ -5607,6 +5577,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2006",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "23781211",
+    "Name": "Blaha, Filip",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1631",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2003",
     "Flag": "i"
   },
   {
@@ -13809,7 +13794,7 @@
     "OTit": "",
     "Rating": "1458",
     "Gms": "6",
-    "K": "40",
+    "K": "",
     "RatingMonth": "NOV26",
     "B-day": "2016",
     "Flag": "w"
@@ -17685,6 +17670,21 @@
     "Flag": "wi"
   },
   {
+    "ID Number": "359840",
+    "Name": "Dudkova, Sarka",
+    "Fed": "CZE",
+    "Sex": "F",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1741",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "NOV26",
+    "B-day": "1992",
+    "Flag": "w"
+  },
+  {
     "ID Number": "371246",
     "Name": "Dudla, Martin",
     "Fed": "CZE",
@@ -18510,21 +18510,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "571006427",
-    "Name": "Dvorak, Tomas",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1502",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2014",
-    "Flag": ""
-  },
-  {
     "ID Number": "23765526",
     "Name": "Dvorak, Tomas",
     "Fed": "CZE",
@@ -18538,6 +18523,21 @@
     "RatingMonth": "NOV26",
     "B-day": "1977",
     "Flag": "i"
+  },
+  {
+    "ID Number": "571006427",
+    "Name": "Dvorak, Tomas",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1502",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2014",
+    "Flag": ""
   },
   {
     "ID Number": "315745",
@@ -21195,21 +21195,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "23706945",
-    "Name": "Fons, Daniel",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1446",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2006",
-    "Flag": "i"
-  },
-  {
     "ID Number": "23706937",
     "Name": "Fons, Daniel",
     "Fed": "CZE",
@@ -21222,6 +21207,21 @@
     "K": "20",
     "RatingMonth": "NOV26",
     "B-day": "1978",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "23706945",
+    "Name": "Fons, Daniel",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1446",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2006",
     "Flag": "i"
   },
   {
@@ -26595,21 +26595,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "23742003",
-    "Name": "Hecl, Adam",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1666",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "NOV26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "23754206",
     "Name": "Hecl, Adam",
     "Fed": "CZE",
@@ -26622,6 +26607,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2011",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "23742003",
+    "Name": "Hecl, Adam",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1666",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "NOV26",
+    "B-day": "2004",
     "Flag": "i"
   },
   {
@@ -49950,21 +49950,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "23710578",
-    "Name": "Kubik, Jan",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1663",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "NOV26",
-    "B-day": "1939",
-    "Flag": "i"
-  },
-  {
     "ID Number": "375039",
     "Name": "Kubik, Jan",
     "Fed": "CZE",
@@ -49977,6 +49962,21 @@
     "K": "20",
     "RatingMonth": "NOV26",
     "B-day": "1936",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "23710578",
+    "Name": "Kubik, Jan",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1663",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "NOV26",
+    "B-day": "1939",
     "Flag": "i"
   },
   {
@@ -61830,21 +61830,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "571004211",
-    "Name": "Melichar, Jan",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1601",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "1979",
-    "Flag": ""
-  },
-  {
     "ID Number": "23793546",
     "Name": "Melichar, Jan",
     "Fed": "CZE",
@@ -61857,6 +61842,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2008",
+    "Flag": ""
+  },
+  {
+    "ID Number": "571004211",
+    "Name": "Melichar, Jan",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1601",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "1979",
     "Flag": ""
   },
   {
@@ -67095,21 +67095,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "23750529",
-    "Name": "Nemec, Jakub",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1404",
-    "Gms": "4",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2010",
-    "Flag": ""
-  },
-  {
     "ID Number": "23764902",
     "Name": "Nemec, Jakub",
     "Fed": "CZE",
@@ -67123,6 +67108,21 @@
     "RatingMonth": "NOV26",
     "B-day": "1991",
     "Flag": "i"
+  },
+  {
+    "ID Number": "23750529",
+    "Name": "Nemec, Jakub",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1404",
+    "Gms": "4",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2010",
+    "Flag": ""
   },
   {
     "ID Number": "343382",
@@ -69225,21 +69225,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "23727012",
-    "Name": "Novak, Michal",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1603",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "NOV26",
-    "B-day": "1962",
-    "Flag": "i"
-  },
-  {
     "ID Number": "23785993",
     "Name": "Novak, Michal",
     "Fed": "CZE",
@@ -69252,6 +69237,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "2005",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "23727012",
+    "Name": "Novak, Michal",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1603",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "NOV26",
+    "B-day": "1962",
     "Flag": "i"
   },
   {
@@ -76785,21 +76785,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "571008640",
-    "Name": "Podsklan, Stepan",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1618",
-    "Gms": "7",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "1957",
-    "Flag": ""
-  },
-  {
     "ID Number": "571008632",
     "Name": "Podsklan, Stepan",
     "Fed": "CZE",
@@ -76812,6 +76797,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "1982",
+    "Flag": ""
+  },
+  {
+    "ID Number": "571008640",
+    "Name": "Podsklan, Stepan",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1618",
+    "Gms": "7",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "1957",
     "Flag": ""
   },
   {
@@ -77145,21 +77145,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "23765577",
-    "Name": "Pokorny, Petr",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1506",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "1986",
-    "Flag": "i"
-  },
-  {
     "ID Number": "23764392",
     "Name": "Pokorny, Petr",
     "Fed": "CZE",
@@ -77172,6 +77157,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "1978",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "23765577",
+    "Name": "Pokorny, Petr",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1506",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "1986",
     "Flag": "i"
   },
   {
@@ -90045,21 +90045,6 @@
     "Flag": ""
   },
   {
-    "ID Number": "23741139",
-    "Name": "Skala, Dominik",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1631",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "NOV26",
-    "B-day": "2004",
-    "Flag": "i"
-  },
-  {
     "ID Number": "23794020",
     "Name": "Skala, Dominik",
     "Fed": "CZE",
@@ -90072,6 +90057,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "1994",
+    "Flag": "i"
+  },
+  {
+    "ID Number": "23741139",
+    "Name": "Skala, Dominik",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1631",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "NOV26",
+    "B-day": "2004",
     "Flag": "i"
   },
   {
@@ -105675,21 +105675,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "23757361",
-    "Name": "Urbanek, Stepan",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1795",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "23776501",
     "Name": "Urbanek, Stepan",
     "Fed": "CZE",
@@ -105703,6 +105688,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2009",
     "Flag": ""
+  },
+  {
+    "ID Number": "23757361",
+    "Name": "Urbanek, Stepan",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1795",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2008",
+    "Flag": "i"
   },
   {
     "ID Number": "23776510",
@@ -112020,21 +112020,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "571010173",
-    "Name": "Vrba, Vaclav",
-    "Fed": "CZE",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1474",
-    "Gms": "7",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2015",
-    "Flag": ""
-  },
-  {
     "ID Number": "571006109",
     "Name": "Vrba, Vaclav",
     "Fed": "CZE",
@@ -112047,6 +112032,21 @@
     "K": "40",
     "RatingMonth": "NOV26",
     "B-day": "1982",
+    "Flag": ""
+  },
+  {
+    "ID Number": "571010173",
+    "Name": "Vrba, Vaclav",
+    "Fed": "CZE",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1474",
+    "Gms": "7",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2015",
     "Flag": ""
   },
   {
