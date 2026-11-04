@@ -184,7 +184,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 115105389,"Bolado, Jaypie",FID,M,,,,1872,0,,NOV26,1984,i
 13517473,"Bondar, Anastasiya",FID,F,,,,1599,0,20,NOV26,2006,wi
 13500830,"Bondar, Tana",FID,F,WFM,WFM,,2085,0,20,NOV26,1976,wi
-55784666,"Bondarev, Fedor",FID,M,,,,1946,0,40,NOV26,2016,
+55784666,"Bondarev, Fedor",FID,M,CM,,,1946,0,40,NOV26,2016,
 540032922,"Borisov, Aleksei",FID,M,,,,1606,0,40,NOV26,1986,
 55645410,"Borshch, Alexei",FID,M,FM,,,2324,11,20,NOV26,2014,
 3510557,"Boudy Bueno, Julio Leonardo",FID,M,IM,,,2263,0,20,NOV26,1951,i
@@ -343,7 +343,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 115094525,"Escorpiso, Marvin",FID,M,,,,1649,0,40,NOV26,1985,i
 324227090,"Esmeraldo, Augusto Cesar Santos Esmeraldo",FID,M,,,,1816,0,20,NOV26,1975,i
 115097385,"Esoto, Jonathan",FID,M,,,,1426,0,,NOV26,1983,i
-3500349,"Espinosa, Julio",FID,M,FM,,,2225,0,20,NOV26,1965,i
 115203728,"Esquillo, Jonathan",FID,M,,,,1760,0,,NOV26,1996,i
 115111045,"Estebar, Angelo",FID,M,,,,1911,0,,NOV26,1995,i
 34339523,"Evdokimova, Viktoriya",FID,F,,,,1753,0,40,NOV26,2010,wi
@@ -425,6 +424,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 343096465,"Gogoli, Alik",FID,M,,,,1530,0,,NOV26,1992,
 366099243,"Gohil, Dev",FID,M,,,,1554,0,40,NOV26,2005,i
 34394176,"Golikov, Ivan",FID,M,,,,2078,9,40,NOV26,2012,
+522071253,"Golubinov, Dmitrii",FID,M,,,,1487,0,40,NOV26,2014,
 540005445,"Golubnichaya, Anastasiya",FID,F,,,,1491,0,40,NOV26,2011,wi
 10301550,"Gomes , Savio Sebastian",FID,M,,,,1502,0,20,NOV26,1962,i
 13511858,"Goncharevich, Aleksej",FID,M,,,,1569,0,20,NOV26,2002,i
@@ -889,7 +889,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 55700969,"Novikov, Vladimir Dm",FID,M,,,,1481,0,40,NOV26,2016,
 34477047,"Novodvorskiy, Dmitriy Al",FID,M,CM,,,2139,7,40,NOV26,2013,
 123104724,"Ntsunguzi, Siyamamkela",FID,M,,,,1491,0,40,NOV26,2006,i
-3500640,"Nunez, Antonio",FID,M,FM,,,2205,0,20,NOV26,1963,
 324110347,"Oberherr, Fabio Susin",FID,M,,,,1811,6,,NOV26,2000,
 4114310,"Obodchuk, Andrei",FID,M,IM,,,2280,0,10,NOV26,1955,
 55770134,"Obraztsova, Sofiya Rom",FID,F,,,,1737,9,40,NOV26,2015,w
@@ -918,6 +917,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 146241420,"Padamattumal, Joseph Basil",FID,M,,,,1750,0,20,NOV26,1962,i
 115108086,"Padla, Derrick",FID,M,,,,1714,0,,NOV26,2010,
 21512728,"Pado, Adwim",FID,M,,,,1685,0,20,NOV26,1975,i
+34111082,"Pak, Georgy",FID,M,,,,2009,17,20,NOV26,2003,
 24122165,"Pakhomov, Denis",FID,M,,,,2076,0,20,NOV26,1987,
 115111161,"Palaming, Romeo Rodney",FID,M,,,,1799,0,,NOV26,1993,i
 3853004,"Paniagua Gonzales, Oliver Felix",FID,M,,SI,,1625,0,40,NOV26,1986,i
@@ -1004,7 +1004,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 115104757,"R Espallardo, Carl",FID,M,,,,1887,0,,NOV26,1984,i
 327105298,"Radichev, Radi",FID,M,,,,1553,0,,NOV26,1984,
 34209026,"Radionenko, Gleb",FID,M,,,,2048,20,40,NOV26,2011,
-122111205,"Radu, Andrei Costel",FID,M,,,,1500,0,,NOV26,2003,
 55669441,"Radushinskaya, Svetlana",FID,F,,,,1792,17,40,NOV26,2013,w
 4103203,"Raetsky, Alexander",FID,M,GM,FT,,2238,0,10,NOV26,1961,
 10302417,"Rajeev, Michael",FID,M,,,,1531,0,20,NOV26,1985,i
@@ -1192,6 +1191,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 34414983,"Smirnova, Polina A",FID,F,WFM,WFM,,2078,0,40,NOV26,2011,w
 34492496,"Smirnova, Viktoria A",FID,F,,,,1816,10,40,NOV26,2013,w
 13515802,"Smolyak, Viktorya",FID,F,,,,1644,0,20,NOV26,2001,wi
+13514601,"Sobol, Aleksandr",FID,M,,,,1575,7,40,NOV26,1972,
 55768008,"Sobolev, Lev Yu.",FID,M,,,,1929,22,40,NOV26,2014,
 34180580,"Sokolov, Egor",FID,M,,,,1644,0,40,NOV26,2007,i
 124096841,"Sokolov, Stanislav",FID,M,,,,1411,0,20,NOV26,1992,i

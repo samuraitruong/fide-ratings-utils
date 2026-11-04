@@ -414,7 +414,7 @@
     "OTit": "",
     "Rating": "1588",
     "Gms": "0",
-    "K": "20",
+    "K": "",
     "RatingMonth": "NOV26",
     "B-day": "1991",
     "Flag": ""
@@ -2070,21 +2070,6 @@
     "Flag": "wi"
   },
   {
-    "ID Number": "7828969",
-    "Name": "Haider Ali",
-    "Fed": "PAK",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1636",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2010",
-    "Flag": "i"
-  },
-  {
     "ID Number": "7864000",
     "Name": "Haider Ali",
     "Fed": "PAK",
@@ -2098,6 +2083,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2008",
     "Flag": ""
+  },
+  {
+    "ID Number": "7828969",
+    "Name": "Haider Ali",
+    "Fed": "PAK",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1636",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2010",
+    "Flag": "i"
   },
   {
     "ID Number": "7818971",
@@ -3600,21 +3600,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "7871678",
-    "Name": "Muhammad Abu Bakar",
-    "Fed": "PAK",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1582",
-    "Gms": "0",
-    "K": "20",
-    "RatingMonth": "NOV26",
-    "B-day": "1980",
-    "Flag": ""
-  },
-  {
     "ID Number": "7803842",
     "Name": "Muhammad Abu Bakar",
     "Fed": "PAK",
@@ -3628,6 +3613,21 @@
     "RatingMonth": "NOV26",
     "B-day": "1988",
     "Flag": "i"
+  },
+  {
+    "ID Number": "7871678",
+    "Name": "Muhammad Abu Bakar",
+    "Fed": "PAK",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1582",
+    "Gms": "0",
+    "K": "20",
+    "RatingMonth": "NOV26",
+    "B-day": "1980",
+    "Flag": ""
   },
   {
     "ID Number": "7808240",
@@ -4935,21 +4935,6 @@
     "Flag": "i"
   },
   {
-    "ID Number": "7831951",
-    "Name": "Muhammad Rayyan",
-    "Fed": "PAK",
-    "Sex": "M",
-    "Title": "",
-    "WTit": "",
-    "OTit": "",
-    "Rating": "1610",
-    "Gms": "0",
-    "K": "40",
-    "RatingMonth": "NOV26",
-    "B-day": "2008",
-    "Flag": "i"
-  },
-  {
     "ID Number": "7831676",
     "Name": "Muhammad Rayyan",
     "Fed": "PAK",
@@ -4963,6 +4948,21 @@
     "RatingMonth": "NOV26",
     "B-day": "2005",
     "Flag": ""
+  },
+  {
+    "ID Number": "7831951",
+    "Name": "Muhammad Rayyan",
+    "Fed": "PAK",
+    "Sex": "M",
+    "Title": "",
+    "WTit": "",
+    "OTit": "",
+    "Rating": "1610",
+    "Gms": "0",
+    "K": "40",
+    "RatingMonth": "NOV26",
+    "B-day": "2008",
+    "Flag": "i"
   },
   {
     "ID Number": "7825528",

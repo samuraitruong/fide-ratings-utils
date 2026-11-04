@@ -151,7 +151,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 355105404,"Bogveradze, Levan",FID,M,,,,1486,0,,NOV26,1986,i
 13517473,"Bondar, Anastasiya",FID,F,,,,1582,0,20,NOV26,2006,wi
 13500830,"Bondar, Tana",FID,F,WFM,WFM,,2062,0,20,NOV26,1976,w
-55784666,"Bondarev, Fedor",FID,M,,,,1943,0,40,NOV26,2016,
+55784666,"Bondarev, Fedor",FID,M,CM,,,1943,0,40,NOV26,2016,
 540032922,"Borisov, Aleksei",FID,M,,,,1534,0,20,NOV26,1986,i
 55645410,"Borshch, Alexei",FID,M,FM,,,2296,13,20,NOV26,2014,
 3510557,"Boudy Bueno, Julio Leonardo",FID,M,IM,,,2236,0,20,NOV26,1951,i
@@ -274,7 +274,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 345098155,"Errea, Jokin",FID,M,,,,1508,6,40,NOV26,1995,
 115097699,"Escalderon, Abby Marie",FID,F,,,,1531,0,,NOV26,2010,w
 324227090,"Esmeraldo, Augusto Cesar Santos Esmeraldo",FID,M,,,,1647,4,20,NOV26,1975,
-3500349,"Espinosa, Julio",FID,M,FM,,,2194,0,20,NOV26,1965,i
 34339523,"Evdokimova, Viktoriya",FID,F,,,,1766,0,40,NOV26,2010,wi
 24103209,"Faizrakhmanov, Ramil",FID,M,IM,,,2369,13,10,NOV26,1997,
 13515756,"Fam, Van",FID,M,,,,1524,0,20,NOV26,1967,i
@@ -334,6 +333,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 44174969,"Glukhovskiy, Matvey",FID,M,,,,1736,0,20,NOV26,2003,i
 343096465,"Gogoli, Alik",FID,M,,,,1457,0,,NOV26,1992,i
 34394176,"Golikov, Ivan",FID,M,,,,1995,0,40,NOV26,2012,
+522071253,"Golubinov, Dmitrii",FID,M,,,,1610,17,40,NOV26,2014,
 540005445,"Golubnichaya, Anastasiya",FID,F,,,,1405,0,40,NOV26,2011,w
 10301550,"Gomes , Savio Sebastian",FID,M,,,,1515,0,20,NOV26,1962,i
 44162359,"Goncharov, Mikhail",FID,M,,,,1722,0,20,NOV26,2005,i
@@ -722,7 +722,6 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 522075496,"Novodvorskaia, Elizaveta",FID,F,,,,1471,0,40,NOV26,2018,w
 34477047,"Novodvorskiy, Dmitriy Al",FID,M,CM,,,2180,0,40,NOV26,2013,
 123104724,"Ntsunguzi, Siyamamkela",FID,M,,,,1661,0,20,NOV26,2006,
-3500640,"Nunez, Antonio",FID,M,FM,,,2149,0,20,NOV26,1963,i
 379104402,"Nurgaliyev, Daren",FID,M,,,,1409,0,,NOV26,2014,i
 146241822,"Nwofor, Chigozi",FID,M,,,,1762,0,20,NOV26,1982,i
 4114310,"Obodchuk, Andrei",FID,M,IM,,,2359,0,10,NOV26,1955,
@@ -752,6 +751,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 115095504,"Paclar, Glenn Sayson",FID,M,,,,1801,0,20,NOV26,1962,
 146241420,"Padamattumal, Joseph Basil",FID,M,,,,1648,0,20,NOV26,1962,i
 366099109,"Pagariya, Yug",FID,M,,,,1402,0,,NOV26,2016,i
+34111082,"Pak, Georgy",FID,M,,,,1933,11,20,NOV26,2003,
 24122165,"Pakhomov, Denis",FID,M,,,,2085,0,20,NOV26,1987,
 396111705,"Palacio Velasco, Luis David",FID,M,,,,1874,0,20,NOV26,2000,i
 115111161,"Palaming, Romeo Rodney",FID,M,,,,1732,0,,NOV26,1993,i

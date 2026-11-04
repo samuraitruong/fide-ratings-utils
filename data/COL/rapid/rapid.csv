@@ -988,7 +988,7 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 144431708,"Carbajal Buitrago, Franklin Stiven",COL,M,,,,1635,0,40,NOV26,2004,i
 144409869,"Carbono Lopez, Elkin Leandro",COL,M,,,,1727,0,20,NOV26,1971,i
 4414810,"Carcamo Posada, Daniela",COL,F,,,,1798,0,20,NOV26,1996,wi
-4436970,"Cardenas Angarita, Juan Pablo",COL,M,,,,1794,0,20,NOV26,1996,i
+4436970,"Cardenas Angarita, Juan Pablo",COL,M,,,,1794,0,,NOV26,1996,i
 144442920,"Cardenas Ardila, Josue",COL,M,,,,1478,0,40,NOV26,2014,
 144442939,"Cardenas Ardila, Simon",COL,M,,,,1672,0,40,NOV26,2012,
 4427696,"Cardenas Briceno, Eloy",COL,M,,,,1666,0,20,NOV26,1964,i
@@ -1339,8 +1339,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4452267,"Chisco, Juan Esteban",COL,M,,,,1732,0,20,NOV26,2002,i
 144450559,"Cicero Velasquez, Jesus David",COL,M,,,,1677,0,40,NOV26,2011,i
 4484134,"Cifci Valencia, Jeronimo",COL,M,,,,1537,0,20,NOV26,2002,i
-4435818,"Cifuentes Alvarez, Jose Vicente",COL,M,,,,1771,0,20,NOV26,1954,
 144432569,"Cifuentes Alvarez, Jose Vicente",COL,M,,,,1808,0,40,NOV26,1954,i
+4435818,"Cifuentes Alvarez, Jose Vicente",COL,M,,,,1771,0,20,NOV26,1954,
 4481615,"Cifuentes Camacho, Miguel Angel",COL,M,CM,,,2195,0,20,NOV26,2006,
 144426763,"Cifuentes Castano, Jose Luis",COL,M,,,,1633,0,40,NOV26,1984,i
 144428235,"Cifuentes Cortes, Eliana Sofia",COL,F,,,,1665,0,40,NOV26,2010,wi
@@ -1852,8 +1852,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4411978,"Fajardo Murgas, Yosimar David",COL,M,,,,1955,0,20,NOV26,1994,i
 144467567,"Fajardo Prieto, Nicolas",COL,M,,,,1625,0,40,NOV26,2014,
 144486669,"Fajardo Sanchez, Javier Santiago",COL,M,,,,1633,0,40,NOV26,2002,
-4473116,"Fajardo, Gustavo",COL,M,,,,1810,0,20,NOV26,1977,i
 4443284,"Fajardo, Gustavo",COL,M,,,,1831,0,20,NOV26,1999,i
+4473116,"Fajardo, Gustavo",COL,M,,,,1810,0,20,NOV26,1977,i
 4444078,"Fajardo, Icenover",COL,M,,,,1707,4,40,NOV26,1958,
 4466837,"Fandino Parra, Juan Diego",COL,M,,,,1869,0,20,NOV26,1977,i
 144438842,"Farfan Rubio, Ariel Ignacio",COL,M,,,,1621,0,40,NOV26,2011,i
@@ -3248,8 +3248,8 @@ ID Number,Name,Fed,Sex,Title,WTit,OTit,Rating,Gms,K,RatingMonth,B-day,Flag
 4488334,"Martinez Serna, Juan Esteban",COL,M,,,,1867,5,20,NOV26,2007,
 4479874,"Martinez Serna, Maria Luisa",COL,F,,,,1620,0,40,NOV26,2005,wi
 4459997,"Martinez Torres, Cristhian Camil",COL,M,,,,1961,0,40,NOV26,1995,i
-4468090,"Martinez Urbina, Sergio Andres",COL,M,,,,1918,0,40,NOV26,1981,i
 4409264,"Martinez Urbina, Sergio Andres",COL,M,,,,1856,0,40,NOV26,1988,i
+4468090,"Martinez Urbina, Sergio Andres",COL,M,,,,1918,0,40,NOV26,1981,i
 4490290,"Martinez Vargas, Luis Eduardo",COL,M,,,,1800,0,20,NOV26,1982,i
 4455452,"Martinez Vergara, Julian Andres",COL,M,,,,1968,0,20,NOV26,1984,i
 4444116,"Martinez, Cesar",COL,M,,,,1780,0,20,NOV26,1965,i
